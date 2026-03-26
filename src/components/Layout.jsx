@@ -14,7 +14,7 @@ export default function Layout() {
               <BookOpen className="w-5 h-5 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="font-heading text-lg font-semibold leading-tight">Bible Quiz</h1>
+              <h1 className="font-heading text-lg font-semibold leading-tight">Biblia-Quiz</h1>
               <p className="text-[10px] text-muted-foreground leading-tight tracking-wide uppercase">Testez vos connaissances</p>
             </div>
           </Link>
@@ -50,7 +50,7 @@ export default function Layout() {
       <footer className="border-t border-border/50 py-6 mt-auto">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center">
           <p className="text-xs text-muted-foreground">
-            Bible Quiz — Apprenez la Parole de Dieu en vous amusant
+            Biblia-Quiz — Apprenez la Parole de Dieu en vous amusant
           </p>
         </div>
       </footer>

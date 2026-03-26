@@ -22,7 +22,7 @@ export default function Home() {
           Testez vos connaissances bibliques
         </div>
         <h1 className="font-heading text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight mb-4">
-          Bible Quiz
+          Biblia-Quiz
         </h1>
         <p className="text-muted-foreground text-base sm:text-lg max-w-xl mx-auto leading-relaxed">
           Explorez la Parole de Dieu à travers des questions captivantes.
