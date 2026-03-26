@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import { ScrollText, BookOpen, Users, Quote } from "lucide-react";
 import { motion } from "framer-motion";
 
@@ -9,7 +8,7 @@ const iconMap = {
   Quote
 };
 
-export default function CategoryCard({ category, index }) {
+export default function CategoryCard({ category, index, onSelect }) {
   const Icon = iconMap[category.icon] || BookOpen;
 
   return (
@@ -18,11 +17,11 @@ export default function CategoryCard({ category, index }) {
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: index * 0.1, duration: 0.4 }}
     >
-      <Link
-        to={`/quiz/${category.id}`}
-        className="group block"
+      <button
+        onClick={onSelect}
+        className="group block w-full text-left"
       >
-        <div className="relative overflow-hidden rounded-2xl border border-border/50 bg-card p-6 transition-all duration-300 hover:shadow-xl hover:shadow-primary/5 hover:-translate-y-1 hover:border-primary/30">
+          <div className="relative overflow-hidden rounded-2xl border border-border/50 bg-card p-6 transition-all duration-300 hover:shadow-xl hover:shadow-primary/5 hover:-translate-y-1 hover:border-primary/30">
           {/* Gradient accent */}
           <div className={`absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${category.color}`} />
 
@@ -38,11 +37,11 @@ export default function CategoryCard({ category, index }) {
               {category.questionsCount} questions
             </span>
             <span className="text-xs font-medium text-primary opacity-0 group-hover:opacity-100 transition-opacity">
-              Commencer →
+              Choisir niveau →
             </span>
           </div>
         </div>
-      </Link>
+      </button>
     </motion.div>
   );
 }

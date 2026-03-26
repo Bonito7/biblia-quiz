@@ -1,9 +1,13 @@
-import { motion } from "framer-motion";
+import { useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import { Sparkles } from "lucide-react";
 import { categories } from "../lib/quizData";
 import CategoryCard from "../components/CategoryCard";
+import DifficultySelector from "../components/DifficultySelector";
 
 export default function Home() {
+  const [selectedCategory, setSelectedCategory] = useState(null);
+
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
       {/* Hero */}
@@ -29,9 +33,18 @@ export default function Home() {
       {/* Categories Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5">
         {categories.map((category, index) => (
-          <CategoryCard key={category.id} category={category} index={index} />
+          <CategoryCard key={category.id} category={category} index={index} onSelect={() => setSelectedCategory(category)} />
         ))}
       </div>
+
+      <AnimatePresence>
+        {selectedCategory && (
+          <DifficultySelector
+            category={selectedCategory}
+            onClose={() => setSelectedCategory(null)}
+          />
+        )}
+      </AnimatePresence>
 
       {/* Stats */}
       <motion.div
@@ -42,7 +55,7 @@ export default function Home() {
       >
         {[
           { value: "4", label: "Catégories" },
-          { value: "40", label: "Questions" },
+          { value: "180", label: "Questions" },
           { value: "∞", label: "Sagesse" }
         ].map((stat) => (
           <div key={stat.label} className="text-center">

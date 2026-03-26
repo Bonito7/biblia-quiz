@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import { AnimatePresence } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { categories, questions } from "../lib/quizData";
@@ -9,9 +9,14 @@ import QuizCard from "../components/QuizCard";
 export default function Quiz() {
   const navigate = useNavigate();
   const { categoryId } = useParams();
+  const urlParams = new URLSearchParams(window.location.search);
+  const difficulty = urlParams.get('difficulty') || 'debutant';
+
+  const difficultyLabel = { debutant: '🌱 Débutant', intermediaire: '📖 Intermédiaire', expert: '🔥 Expert' };
 
   const category = categories.find(c => c.id === categoryId);
-  const categoryQuestions = questions[categoryId] || [];
+  const allQuestions = questions[categoryId] || {};
+  const categoryQuestions = allQuestions[difficulty] || [];
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState([]);
@@ -34,7 +39,7 @@ export default function Quiz() {
       const score = allAnswers.reduce((acc, ans, idx) => {
         return acc + (ans === categoryQuestions[idx].correct ? 1 : 0);
       }, 0);
-      navigate(`/results?category=${categoryId}&score=${score}&total=${categoryQuestions.length}`);
+      navigate(`/results?category=${categoryId}&score=${score}&total=${categoryQuestions.length}&difficulty=${difficulty}`);
     }
   };
 
@@ -51,13 +56,22 @@ export default function Quiz() {
 
   return (
     <div className="max-w-2xl mx-auto px-4 sm:px-6 py-6 sm:py-10">
-      <button
-        onClick={() => navigate("/")}
-        className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors mb-6"
-      >
-        <ArrowLeft className="w-4 h-4" />
-        {category.name}
-      </button>
+      <div className="flex items-center justify-between mb-6">
+        <button
+          onClick={() => navigate("/")}
+          className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+        >
+          <ArrowLeft className="w-4 h-4" />
+          {category.name}
+        </button>
+        <motion.span
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          className="text-xs font-medium px-3 py-1 rounded-full bg-muted text-muted-foreground"
+        >
+          {difficultyLabel[difficulty]}
+        </motion.span>
+      </div>
 
       <AnimatePresence mode="wait">
         <QuizCard
