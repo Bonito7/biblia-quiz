@@ -55,7 +55,7 @@ export default function Home() {
       >
         {[
           { value: "4", label: "Catégories" },
-          { value: "240", label: "Questions" },
+          { value: "960", label: "Questions" },
           { value: "∞", label: "Sagesse" }
         ].map((stat) => (
           <div key={stat.label} className="text-center">

@@ -38,7 +38,7 @@ export default function DifficultySelector({ category, onClose }) {
                 <span className="text-2xl">{diff.icon}</span>
                 <div className="flex-1">
                   <p className={`font-semibold ${diff.color}`}>{diff.label}</p>
-                  <p className="text-xs text-muted-foreground">{diff.description} • 20 questions</p>
+                  <p className="text-xs text-muted-foreground">{diff.description}</p>
                 </div>
                 <span className="text-muted-foreground text-sm">→</span>
               </Link>
