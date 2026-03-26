@@ -1,11 +1,15 @@
+import { useState } from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { BookOpen, Home, Trophy } from "lucide-react";
+import LanguageSelector from "./LanguageSelector";
+import { getLanguage, getDir, t } from "../lib/i18n";
 
 export default function Layout() {
   const location = useLocation();
+  const [lang, setLang] = useState(getLanguage());
 
   return (
-    <div className="min-h-screen bg-background flex flex-col">
+    <div className="min-h-screen bg-background flex flex-col" dir={getDir(lang)}>
       {/* Header */}
       <header className="border-b border-border/50 backdrop-blur-sm bg-background/80 sticky top-0 z-50">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
@@ -15,10 +19,11 @@ export default function Layout() {
             </div>
             <div>
               <h1 className="font-heading text-lg font-semibold leading-tight">Biblia-Quiz</h1>
-              <p className="text-[10px] text-muted-foreground leading-tight tracking-wide uppercase">Testez vos connaissances</p>
+              <p className="text-[10px] text-muted-foreground leading-tight tracking-wide uppercase">{t(lang, 'tagline')}</p>
             </div>
           </Link>
           <nav className="flex items-center gap-1">
+            <LanguageSelector onLanguageChange={setLang} />
             <Link
               to="/"
               className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors ${
@@ -26,7 +31,7 @@ export default function Layout() {
               }`}
             >
               <Home className="w-4 h-4" />
-              <span className="hidden sm:inline">Accueil</span>
+              <span className="hidden sm:inline">{t(lang, 'home')}</span>
             </Link>
             <Link
               to="/scores"
@@ -35,7 +40,7 @@ export default function Layout() {
               }`}
             >
               <Trophy className="w-4 h-4" />
-              <span className="hidden sm:inline">Scores</span>
+              <span className="hidden sm:inline">{t(lang, 'scores')}</span>
             </Link>
           </nav>
         </div>
@@ -50,7 +55,7 @@ export default function Layout() {
       <footer className="border-t border-border/50 py-6 mt-auto">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center">
           <p className="text-xs text-muted-foreground">
-            Biblia-Quiz — Apprenez la Parole de Dieu en vous amusant
+            Biblia-Quiz — {t(lang, 'learnMore')}
           </p>
         </div>
       </footer>
