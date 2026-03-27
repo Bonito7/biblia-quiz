@@ -10,6 +10,7 @@ import Home from './pages/Home';
 import Quiz from './pages/Quiz';
 import Results from './pages/Results';
 import Scores from './pages/Scores';
+import BibleMaps from './pages/BibleMaps';
 
 const AuthenticatedApp = () => {
   const { isLoadingAuth, isLoadingPublicSettings, authError, navigateToLogin } = useAuth();
@@ -42,6 +43,7 @@ const AuthenticatedApp = () => {
         <Route path="/quiz/:categoryId" element={<Quiz />} />
         <Route path="/results" element={<Results />} />
         <Route path="/scores" element={<Scores />} />
+        <Route path="/maps" element={<BibleMaps />} />
       </Route>
       <Route path="*" element={<PageNotFound />} />
     </Routes>

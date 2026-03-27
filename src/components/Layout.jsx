@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
-import { BookOpen, Home, Trophy } from "lucide-react";
+import { BookOpen, Home, Trophy, Map } from "lucide-react";
 import LanguageSelector from "./LanguageSelector";
 import { getLanguage, getDir, t } from "../lib/i18n";
 
@@ -32,6 +32,15 @@ export default function Layout() {
             >
               <Home className="w-4 h-4" />
               <span className="hidden sm:inline">{t(lang, 'home')}</span>
+            </Link>
+            <Link
+              to="/maps"
+              className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors ${
+                location.pathname === "/maps" ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground hover:bg-muted"
+              }`}
+            >
+              <Map className="w-4 h-4" />
+              <span className="hidden sm:inline">Cartes</span>
             </Link>
             <Link
               to="/scores"
