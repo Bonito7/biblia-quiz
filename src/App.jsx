@@ -11,6 +11,13 @@ import Quiz from './pages/Quiz';
 import Results from './pages/Results';
 import Scores from './pages/Scores';
 import BibleMaps from './pages/BibleMaps';
+import WesleyLayout from './components/WesleyLayout';
+import WesleyHome from './pages/WesleyHome';
+import JohnWesley from './pages/JohnWesley';
+import CharlesWesley from './pages/CharlesWesley';
+import WesleyParents from './pages/WesleyParents';
+import WesleySermons from './pages/WesleySermons';
+import WesleyTravels from './pages/WesleyTravels';
 
 const AuthenticatedApp = () => {
   const { isLoadingAuth, isLoadingPublicSettings, authError, navigateToLogin } = useAuth();
@@ -44,6 +51,14 @@ const AuthenticatedApp = () => {
         <Route path="/results" element={<Results />} />
         <Route path="/scores" element={<Scores />} />
         <Route path="/maps" element={<BibleMaps />} />
+      </Route>
+      <Route element={<WesleyLayout />}>
+        <Route path="/wesley" element={<WesleyHome />} />
+        <Route path="/wesley/john" element={<JohnWesley />} />
+        <Route path="/wesley/charles" element={<CharlesWesley />} />
+        <Route path="/wesley/parents" element={<WesleyParents />} />
+        <Route path="/wesley/sermons" element={<WesleySermons />} />
+        <Route path="/wesley/travels" element={<WesleyTravels />} />
       </Route>
       <Route path="*" element={<PageNotFound />} />
     </Routes>
