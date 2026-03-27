@@ -63,8 +63,8 @@ export default function Home() {
         className="mt-14 grid grid-cols-3 gap-4 max-w-md mx-auto"
       >
         {[
-          { value: "4", label: t(lang, 'categories') },
-          { value: "960", label: t(lang, 'questions') },
+          { value: "7", label: t(lang, 'categories') },
+          { value: "1365", label: t(lang, 'questions') },
           { value: "∞", label: t(lang, 'wisdom') }
         ].map((stat) => (
           <div key={stat.label} className="text-center">

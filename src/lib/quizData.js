@@ -2,6 +2,9 @@ import { ancien_testament } from './data/ancien_testament';
 import { nouveau_testament } from './data/nouveau_testament';
 import { personnages } from './data/personnages';
 import { versets } from './data/versets';
+import { propheties } from './data/propheties';
+import { geographie } from './data/geographie';
+import { chronologie } from './data/chronologie';
 
 export const categories = [
   {
@@ -35,6 +38,30 @@ export const categories = [
     icon: "Quote",
     color: "from-purple-500 to-violet-600",
     questionsCount: 240
+  },
+  {
+    id: "propheties",
+    name: "Prophéties Bibliques",
+    description: "Prophéties messianiques et eschatologiques",
+    icon: "Eye",
+    color: "from-rose-500 to-pink-600",
+    questionsCount: 135
+  },
+  {
+    id: "geographie",
+    name: "Géographie Biblique",
+    description: "Lieux, régions et routes de la Bible",
+    icon: "MapPin",
+    color: "from-cyan-500 to-sky-600",
+    questionsCount: 135
+  },
+  {
+    id: "chronologie",
+    name: "Chronologie Biblique",
+    description: "Dates, périodes et ordre des événements",
+    icon: "Clock",
+    color: "from-indigo-500 to-purple-600",
+    questionsCount: 135
   }
 ];
 
@@ -48,5 +75,8 @@ export const questions = {
   ancien_testament,
   nouveau_testament,
   personnages,
-  versets
+  versets,
+  propheties,
+  geographie,
+  chronologie
 };

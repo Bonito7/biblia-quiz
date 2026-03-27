@@ -1,11 +1,14 @@
-import { ScrollText, BookOpen, Users, Quote } from "lucide-react";
+import { ScrollText, BookOpen, Users, Quote, Eye, MapPin, Clock } from "lucide-react";
 import { motion } from "framer-motion";
 
 const iconMap = {
   ScrollText,
   BookOpen,
   Users,
-  Quote
+  Quote,
+  Eye,
+  MapPin,
+  Clock
 };
 
 export default function CategoryCard({ category, index, onSelect }) {
