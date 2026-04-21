@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { base44 } from "@/api/base44Client";
 import { getLanguage, LANGUAGES } from "../lib/i18n";
@@ -218,26 +218,28 @@ const translationCache = {};
 
 export default function VieSocialeJuive() {
   const [activeSection, setActiveSection] = useState("fetes");
-  const [expanded, setExpanded] = useState(null);
+  const [expandedIdx, setExpandedIdx] = useState(null); // index stable, pas le nom
   const [lang, setLang] = useState(getLanguage());
   const [translatedItems, setTranslatedItems] = useState(null);
   const [translating, setTranslating] = useState(false);
-  const abortRef = useRef(false);
 
   const section = sections.find(s => s.id === activeSection);
   const isFrench = lang === "fr";
   const langName = LANGUAGES.find(l => l.code === lang)?.name || lang;
 
-  // Traduit la section active si la langue n'est pas le français
+  // Surveille les changements de langue via storage event (plus fiable que polling)
   useEffect(() => {
-    // Surveille les changements de langue
-    const interval = setInterval(() => {
+    const onStorage = () => {
       const currentLang = getLanguage();
-      if (currentLang !== lang) setLang(currentLang);
-    }, 300);
-    return () => clearInterval(interval);
-  }, [lang]);
+      setLang(prev => prev !== currentLang ? currentLang : prev);
+    };
+    window.addEventListener("storage", onStorage);
+    // Fallback polling léger pour les changements dans le même onglet
+    const interval = setInterval(onStorage, 500);
+    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
+  }, []);
 
+  // Traduction automatique quand section ou langue change
   useEffect(() => {
     if (isFrench) {
       setTranslatedItems(null);
@@ -252,10 +254,10 @@ export default function VieSocialeJuive() {
       return;
     }
 
-    // Capture les valeurs courantes pour éviter les fermetures périmées
-    const currentSection = sections.find(s => s.id === activeSection);
-    const currentLang = lang;
-    const currentLangName = langName;
+    // Capture snapshot des valeurs pour éviter les stale closures
+    const snapSection = section;
+    const snapLangName = langName;
+    const snapCacheKey = cacheKey;
     let cancelled = false;
 
     setTranslating(true);
@@ -263,18 +265,18 @@ export default function VieSocialeJuive() {
 
     base44.integrations.Core.InvokeLLM({
       model: "claude_sonnet_4_6",
-      prompt: `You are a professional biblical studies translator. Translate ALL the following JSON items from French to ${currentLangName}.
+      prompt: `You are a professional biblical studies translator. Translate ALL the following JSON items from French to ${snapLangName}.
 
 STRICT RULES:
-1. Translate EVERY field: name, subtitle, description, detail — into ${currentLangName}.
+1. Translate EVERY field: name, subtitle, description, detail — into ${snapLangName}.
 2. Keep Hebrew text in parentheses (כּוֹר, שֶׁקֶל, etc.) COMPLETELY UNCHANGED.
-3. Keep section headers starting with "—" UNCHANGED (copy them exactly as-is, do not translate them).
-4. Keep biblical references (e.g. Genèse 1:1, Matthieu 5:3, Lévitique 25) UNCHANGED — only translate the surrounding text.
-5. You MUST return EXACTLY ${currentSection.items.length} items in the array — one for each input item, in the same order.
-6. Return ONLY valid JSON with the "items" array. No markdown, no explanation.
+3. Keep section headers starting with "—" UNCHANGED (copy them exactly as-is, never translate them).
+4. Keep biblical references (e.g. Genèse 1:1, Matthieu 5:3, Lévitique 25) UNCHANGED — only translate surrounding text.
+5. Return EXACTLY ${snapSection.items.length} items — one per input item, same order, no skips.
+6. Return ONLY valid JSON with an "items" array. No markdown, no explanation.
 
-JSON to translate (${currentSection.items.length} items):
-${JSON.stringify(currentSection.items.map(i => ({ name: i.name, subtitle: i.subtitle, description: i.description, detail: i.detail })))}`,
+JSON to translate (${snapSection.items.length} items):
+${JSON.stringify(snapSection.items.map(i => ({ name: i.name, subtitle: i.subtitle, description: i.description, detail: i.detail })))}`,
       response_json_schema: {
         type: "object",
         properties: {
@@ -295,21 +297,26 @@ ${JSON.stringify(currentSection.items.map(i => ({ name: i.name, subtitle: i.subt
     }).then(result => {
       if (cancelled) return;
       const translated = result.items || [];
-      const full = currentSection.items.map((item, idx) => {
+      const full = snapSection.items.map((item, idx) => {
         const t = translated[idx];
         return t ? { ...item, ...t } : item;
       });
-      translationCache[cacheKey] = full;
+      translationCache[snapCacheKey] = full;
       setTranslatedItems(full);
     }).catch(() => {
-      // En cas d'erreur, on affiche le français comme fallback
-      if (!cancelled) setTranslatedItems(currentSection.items);
+      if (!cancelled) setTranslatedItems(snapSection.items);
     }).finally(() => {
       if (!cancelled) setTranslating(false);
     });
 
     return () => { cancelled = true; };
   }, [activeSection, lang]);
+
+  // Reset expanded quand on change de section
+  const handleSectionChange = (id) => {
+    setActiveSection(id);
+    setExpandedIdx(null);
+  };
 
   const displayedItems = isFrench ? section.items : (translatedItems || section.items);
 
@@ -374,7 +381,7 @@ ${JSON.stringify(currentSection.items.map(i => ({ name: i.name, subtitle: i.subt
         {sections.map(s => (
           <button
             key={s.id}
-            onClick={() => { setActiveSection(s.id); setExpanded(null); }}
+            onClick={() => handleSectionChange(s.id)}
             className={`flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-medium transition-all ${
               activeSection === s.id
                 ? `bg-gradient-to-r ${s.color} text-white shadow-md`
@@ -404,23 +411,26 @@ ${JSON.stringify(currentSection.items.map(i => ({ name: i.name, subtitle: i.subt
           className="space-y-2"
         >
           {displayedItems.map((item, i) => {
+            // Section header (séparateur)
             if (item.name.startsWith("—")) {
               return (
-                <div key={i} className="pt-4 pb-1">
+                <div key={`header-${activeSection}-${i}`} className="pt-4 pb-1">
                   <h3 className="text-xs font-bold uppercase tracking-widest text-muted-foreground px-1">{item.name}</h3>
                 </div>
               );
             }
 
+            const isOpen = expandedIdx === i;
+
             return (
               <motion.div
-                key={item.name}
+                key={`item-${activeSection}-${i}`}
                 initial={{ opacity: 0, y: 6 }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: i * 0.03 }}
+                transition={{ delay: Math.min(i * 0.03, 0.3) }}
               >
                 <button
-                  onClick={() => setExpanded(expanded === item.name ? null : item.name)}
+                  onClick={() => setExpandedIdx(isOpen ? null : i)}
                   className="w-full text-left bg-card border border-border/60 rounded-xl p-4 hover:border-primary/40 transition-all"
                 >
                   <div className="flex items-start justify-between gap-3">
@@ -428,16 +438,17 @@ ${JSON.stringify(currentSection.items.map(i => ({ name: i.name, subtitle: i.subt
                       <p className="font-semibold text-sm">{item.name}</p>
                       {item.subtitle && <p className="text-xs text-primary/80 mt-0.5 italic">{item.subtitle}</p>}
                     </div>
-                    <span className="text-muted-foreground flex-shrink-0">{expanded === item.name ? '▲' : '▼'}</span>
+                    <span className="text-muted-foreground flex-shrink-0 text-xs mt-0.5">{isOpen ? '▲' : '▼'}</span>
                   </div>
 
                   <AnimatePresence>
-                    {expanded === item.name && (
+                    {isOpen && (
                       <motion.div
                         initial={{ opacity: 0, height: 0 }}
                         animate={{ opacity: 1, height: "auto" }}
                         exit={{ opacity: 0, height: 0 }}
-                        className="mt-3 pt-3 border-t border-border/50 space-y-2"
+                        transition={{ duration: 0.2 }}
+                        className="mt-3 pt-3 border-t border-border/50 space-y-2 overflow-hidden"
                       >
                         <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
                         {item.detail && (
