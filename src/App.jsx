@@ -11,6 +11,8 @@ import Quiz from './pages/Quiz';
 import Results from './pages/Results';
 import Scores from './pages/Scores';
 import BibleMaps from './pages/BibleMaps';
+import NomsDesDieu from './pages/NomsDesDieu';
+import VieSocialeJuive from './pages/VieSocialeJuive';
 import WesleyLayout from './components/WesleyLayout';
 import WesleyHome from './pages/WesleyHome';
 import JohnWesley from './pages/JohnWesley';
@@ -51,6 +53,8 @@ const AuthenticatedApp = () => {
         <Route path="/results" element={<Results />} />
         <Route path="/scores" element={<Scores />} />
         <Route path="/maps" element={<BibleMaps />} />
+        <Route path="/noms-de-dieu" element={<NomsDesDieu />} />
+        <Route path="/vie-sociale" element={<VieSocialeJuive />} />
       </Route>
       <Route element={<WesleyLayout />}>
         <Route path="/wesley" element={<WesleyHome />} />
