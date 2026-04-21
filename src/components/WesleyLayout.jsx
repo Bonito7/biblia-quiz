@@ -1,25 +1,17 @@
-import { useState } from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { BookOpen, Home, Music, Users, MapPin, ScrollText } from "lucide-react";
-import { t, getLanguage, setLanguage, wesleyLanguages } from "../lib/wesleyI18n";
 
 const navItems = [
-  { path: "/wesley", icon: Home, labelKey: "home" },
-  { path: "/wesley/john", icon: ScrollText, labelKey: "john" },
-  { path: "/wesley/charles", icon: Music, labelKey: "charles" },
-  { path: "/wesley/parents", icon: Users, labelKey: "parents" },
-  { path: "/wesley/sermons", icon: BookOpen, labelKey: "sermonNav" },
-  { path: "/wesley/travels", icon: MapPin, labelKey: "travels" }
+  { path: "/wesley", icon: Home, label: "Accueil" },
+  { path: "/wesley/john", icon: ScrollText, label: "Jean Wesley" },
+  { path: "/wesley/charles", icon: Music, label: "Charles Wesley" },
+  { path: "/wesley/parents", icon: Users, label: "Parents" },
+  { path: "/wesley/sermons", icon: BookOpen, label: "Sermons" },
+  { path: "/wesley/travels", icon: MapPin, label: "Voyages" }
 ];
 
 export default function WesleyLayout() {
   const location = useLocation();
-  const [lang, setLang] = useState(getLanguage());
-
-  const handleLang = (code) => {
-    setLanguage(code);
-    setLang(code);
-  };
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
@@ -32,25 +24,9 @@ export default function WesleyLayout() {
             </div>
             <div>
               <h1 className="font-heading text-lg font-semibold leading-tight">Wesley Heritage</h1>
-              <p className="text-[10px] text-muted-foreground leading-tight">{t(lang, 'tagline')}</p>
+              <p className="text-[10px] text-muted-foreground leading-tight">Héritage Wesley</p>
             </div>
           </Link>
-
-          {/* Language selector */}
-          <div className="flex items-center gap-1 flex-wrap justify-end">
-            {wesleyLanguages.map(l => (
-              <button
-                key={l.code}
-                onClick={() => handleLang(l.code)}
-                className={`text-sm px-1.5 py-0.5 rounded transition-all ${
-                  lang === l.code ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground"
-                }`}
-                title={l.name}
-              >
-                {l.flag}
-              </button>
-            ))}
-          </div>
         </div>
 
         {/* Sub-nav */}
@@ -68,7 +44,7 @@ export default function WesleyLayout() {
                   }`}
                 >
                   <Icon className="w-3.5 h-3.5" />
-                  {t(lang, item.labelKey)}
+                  {item.label}
                 </Link>
               );
             })}
