@@ -22,54 +22,29 @@ export default function Layout() {
               <p className="text-[10px] text-muted-foreground leading-tight tracking-wide uppercase">{t(lang, 'tagline')}</p>
             </div>
           </Link>
-          <nav className="flex items-center gap-1">
+          <div className="flex items-center gap-2 min-w-0">
             <LanguageSelector onLanguageChange={setLang} />
-            <Link
-              to="/"
-              className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors ${
-                location.pathname === "/" ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground hover:bg-muted"
-              }`}
-            >
-              <Home className="w-4 h-4" />
-              <span className="hidden sm:inline">{t(lang, 'home')}</span>
-            </Link>
-            <Link
-              to="/maps"
-              className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors ${
-                location.pathname === "/maps" ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground hover:bg-muted"
-              }`}
-            >
-              <Map className="w-4 h-4" />
-              <span className="hidden sm:inline">Cartes</span>
-            </Link>
-            <Link
-              to="/noms-de-dieu"
-              className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors ${
-                location.pathname === "/noms-de-dieu" ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground hover:bg-muted"
-              }`}
-            >
-              <Star className="w-4 h-4" />
-              <span className="hidden sm:inline">Noms de Dieu</span>
-            </Link>
-            <Link
-              to="/vie-sociale"
-              className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors ${
-                location.pathname === "/vie-sociale" ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground hover:bg-muted"
-              }`}
-            >
-              <Users className="w-4 h-4" />
-              <span className="hidden sm:inline">Vie Juive</span>
-            </Link>
-            <Link
-              to="/scores"
-              className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm transition-colors ${
-                location.pathname === "/scores" ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground hover:bg-muted"
-              }`}
-            >
-              <Trophy className="w-4 h-4" />
-              <span className="hidden sm:inline">{t(lang, 'scores')}</span>
-            </Link>
-          </nav>
+            <nav className="flex items-center gap-1 overflow-x-auto max-w-full">
+              {[
+                { to: "/", icon: Home, label: t(lang, 'home') },
+                { to: "/maps", icon: Map, label: "Cartes" },
+                { to: "/noms-de-dieu", icon: Star, label: "Noms de Dieu" },
+                { to: "/vie-sociale", icon: Users, label: "Vie Juive" },
+                { to: "/scores", icon: Trophy, label: t(lang, 'scores') },
+              ].map(({ to, icon: Icon, label }) => (
+                <Link
+                  key={to}
+                  to={to}
+                  className={`flex items-center gap-1.5 px-2.5 py-2 rounded-lg text-sm transition-colors whitespace-nowrap flex-shrink-0 ${
+                    location.pathname === to ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground hover:bg-muted"
+                  }`}
+                >
+                  <Icon className="w-4 h-4" />
+                  <span className="hidden md:inline">{label}</span>
+                </Link>
+              ))}
+            </nav>
+          </div>
         </div>
       </header>
 
