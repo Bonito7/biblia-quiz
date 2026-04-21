@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { BookOpen, Home, Trophy, Map, Star, Users } from "lucide-react";
 import LanguageSelector from "./LanguageSelector";
@@ -7,6 +7,16 @@ import { getLanguage, getDir, t } from "../lib/i18n";
 export default function Layout() {
   const location = useLocation();
   const [lang, setLang] = useState(getLanguage());
+
+  useEffect(() => {
+    const onStorage = () => {
+      const currentLang = getLanguage();
+      setLang(prev => prev !== currentLang ? currentLang : prev);
+    };
+    window.addEventListener("storage", onStorage);
+    const interval = setInterval(onStorage, 300);
+    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
+  }, []);
 
   return (
     <div className="min-h-screen bg-background flex flex-col" dir={getDir(lang)}>
@@ -26,12 +36,12 @@ export default function Layout() {
             <LanguageSelector onLanguageChange={setLang} />
             <nav className="flex items-center gap-1 overflow-x-auto max-w-full">
               {[
-                { to: "/", icon: Home, label: t(lang, 'home') },
-                { to: "/maps", icon: Map, label: "Cartes" },
-                { to: "/noms-de-dieu", icon: Star, label: "Noms de Dieu" },
-                { to: "/vie-sociale", icon: Users, label: "Vie Juive" },
-                { to: "/scores", icon: Trophy, label: t(lang, 'scores') },
-              ].map(({ to, icon: Icon, label }) => (
+                { to: "/", icon: Home, labelKey: 'home' },
+                { to: "/maps", icon: Map, labelKey: 'maps' },
+                { to: "/noms-de-dieu", icon: Star, labelKey: 'divineName' },
+                { to: "/vie-sociale", icon: Users, labelKey: 'jewishLife' },
+                { to: "/scores", icon: Trophy, labelKey: 'scores' },
+              ].map(({ to, icon: Icon, labelKey }) => (
                 <Link
                   key={to}
                   to={to}
@@ -40,7 +50,7 @@ export default function Layout() {
                   }`}
                 >
                   <Icon className="w-4 h-4" />
-                  <span className="hidden md:inline">{label}</span>
+                  <span className="hidden md:inline">{t(lang, labelKey)}</span>
                 </Link>
               ))}
             </nav>

@@ -1,11 +1,12 @@
 import { useState, useRef, useEffect } from "react";
 import { Globe, ChevronDown, Search } from "lucide-react";
-import { LANGUAGES, getLanguage, setLanguage } from "../lib/i18n";
+import { LANGUAGES, getLanguage, setLanguage, t } from "../lib/i18n";
 
 export default function LanguageSelector({ onLanguageChange }) {
   const [open, setOpen] = useState(false);
   const [search, setSearch] = useState("");
   const [current, setCurrent] = useState(getLanguage());
+  const [lang, setLang] = useState(getLanguage());
   const ref = useRef(null);
 
   useEffect(() => {
@@ -14,6 +15,16 @@ export default function LanguageSelector({ onLanguageChange }) {
     };
     document.addEventListener("mousedown", handleClick);
     return () => document.removeEventListener("mousedown", handleClick);
+  }, []);
+
+  useEffect(() => {
+    const onStorage = () => {
+      const currentLang = getLanguage();
+      setLang(prev => prev !== currentLang ? currentLang : prev);
+    };
+    window.addEventListener("storage", onStorage);
+    const interval = setInterval(onStorage, 300);
+    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
   }, []);
 
   const filtered = LANGUAGES.filter(l =>
@@ -51,7 +62,7 @@ export default function LanguageSelector({ onLanguageChange }) {
                 autoFocus
                 value={search}
                 onChange={e => setSearch(e.target.value)}
-                placeholder="Rechercher..."
+                placeholder={t(lang, 'search') || "Search..."}
                 className="bg-transparent text-sm outline-none w-full"
               />
             </div>
