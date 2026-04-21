@@ -1,10 +1,11 @@
 import { useState, useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowLeft, ArrowRight } from "lucide-react";
+import { ArrowLeft, ArrowRight, Loader2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { categories, questions } from "../lib/quizData";
 import { getLanguage, LANGUAGES } from "../lib/i18n";
+import { translateQuizQuestions } from "../lib/quizTranslationCache";
 import QuizCard from "../components/QuizCard";
 
 export default function Quiz() {
@@ -13,6 +14,8 @@ export default function Quiz() {
   const urlParams = new URLSearchParams(window.location.search);
   const difficulty = urlParams.get('difficulty') || 'debutant';
   const [lang, setLang] = useState(getLanguage());
+  const [translatingQuestions, setTranslatingQuestions] = useState(false);
+  const [displayedQuestions, setDisplayedQuestions] = useState(null);
 
   useEffect(() => {
     const onStorage = () => {
@@ -23,6 +26,26 @@ export default function Quiz() {
     const interval = setInterval(onStorage, 500);
     return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
   }, []);
+
+  // Charger et traduire les questions quand la langue change
+  useEffect(() => {
+    const loadQuestions = async () => {
+      if (lang === 'fr') {
+        setDisplayedQuestions(null);
+        setTranslatingQuestions(false);
+        return;
+      }
+
+      setTranslatingQuestions(true);
+      const translated = await translateQuizQuestions(categoryId, difficulty, lang);
+      if (translated) {
+        setDisplayedQuestions(translated);
+      }
+      setTranslatingQuestions(false);
+    };
+
+    loadQuestions();
+  }, [lang, categoryId, difficulty]);
 
   const difficultyLabels = {
     debutant: { fr: '🌱 Débutant', en: '🌱 Beginner', es: '🌱 Principiante', pt: '🌱 Iniciante', ru: '🌱 Новичок', zh: '🌱 初学者', hi: '🌱 शुरुआती', sw: '🌱 Mwanzo' },
@@ -39,7 +62,8 @@ export default function Quiz() {
 
   const category = categories.find(c => c.id === categoryId);
   const allQuestions = questions[categoryId] || {};
-  const categoryQuestions = allQuestions[difficulty] || [];
+  const originalQuestions = allQuestions[difficulty] || [];
+  const categoryQuestions = displayedQuestions || originalQuestions;
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState([]);
@@ -71,6 +95,15 @@ export default function Quiz() {
       <div className="max-w-2xl mx-auto px-4 py-20 text-center">
         <p className="text-muted-foreground mb-4">{labels.categoryNotFound[lang]}</p>
         <Button onClick={() => navigate("/")}>{labels.backHome[lang]}</Button>
+      </div>
+    );
+  }
+
+  if (translatingQuestions) {
+    return (
+      <div className="max-w-2xl mx-auto px-4 py-20 text-center">
+        <Loader2 className="w-6 h-6 animate-spin mx-auto mb-3 text-primary" />
+        <p className="text-muted-foreground">Traduction en cours...</p>
       </div>
     );
   }
