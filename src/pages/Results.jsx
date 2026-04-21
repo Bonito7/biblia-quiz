@@ -5,8 +5,6 @@ import { Trophy, RotateCcw, Home, Star, Award, Frown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { base44 } from "@/api/base44Client";
 import { categories } from "../lib/quizData";
-import { categoryTranslations, resultsTranslations } from "../lib/quizTranslations";
-import { getLanguage } from "../lib/i18n";
 
 export default function Results() {
   const navigate = useNavigate();
@@ -16,23 +14,11 @@ export default function Results() {
   const total = parseInt(params.get("total") || "0");
   const percentage = total > 0 ? Math.round((score / total) * 100) : 0;
   const [saved, setSaved] = useState(false);
-  const [lang, setLang] = useState(getLanguage());
-
-  useEffect(() => {
-    const onStorage = () => {
-      const currentLang = getLanguage();
-      setLang(prev => prev !== currentLang ? currentLang : prev);
-    };
-    window.addEventListener("storage", onStorage);
-    const interval = setInterval(onStorage, 500);
-    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
-  }, []);
 
   const category = categories.find(c => c.id === categoryId);
-  const categoryName = category ? categoryTranslations[categoryId][lang]?.name || categoryId : null;
-  const labels = resultsTranslations[lang] || resultsTranslations.fr;
+  const categoryName = category?.name || null;
+  const labels = { exceptional: "Exceptionnel!", exceptionalSub: "Score parfait", veryGood: "Très bien!", veryGoodSub: "Excellent travail", notBad: "Pas mal!", notBadSub: "Continue tes efforts", keepGoing: "À bientôt!", keepGoingSub: "Essaie à nouveau", resultsNotFound: "Résultats introuvables", backHome: "Retour à l'accueil", restart: "Recommencer", otherCategories: "Autres catégories", correct: "Correctes", incorrect: "Incorrectes", total: "Total" };
 
-  // Save score
   useEffect(() => {
     if (!saved && category && total > 0 && categoryName) {
       base44.entities.QuizScore.create({

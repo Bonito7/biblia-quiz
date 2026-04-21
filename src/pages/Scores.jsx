@@ -2,23 +2,10 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Trophy, Medal, TrendingUp } from "lucide-react";
 import { base44 } from "@/api/base44Client";
-import { scoresTranslations } from "../lib/quizTranslations";
-import { getLanguage } from "../lib/i18n";
 
 export default function Scores() {
   const [scores, setScores] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [lang, setLang] = useState(getLanguage());
-
-  useEffect(() => {
-    const onStorage = () => {
-      const currentLang = getLanguage();
-      setLang(prev => prev !== currentLang ? currentLang : prev);
-    };
-    window.addEventListener("storage", onStorage);
-    const interval = setInterval(onStorage, 500);
-    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
-  }, []);
 
   useEffect(() => {
     base44.entities.QuizScore.list("-created_date", 50)
@@ -34,9 +21,8 @@ export default function Scores() {
     return acc;
   }, {});
 
-  const labels = scoresTranslations[lang] || scoresTranslations.fr;
-  const locales = { fr: "fr-FR", en: "en-US", es: "es-ES", pt: "pt-BR", ru: "ru-RU", zh: "zh-CN", hi: "hi-IN", sw: "sw-TZ" };
-  const locale = locales[lang] || "fr-FR";
+  const labels = { yourScores: "Vos scores", trackProgress: "Suivi de vos progrès", noScores: "Aucun score enregistré", playQuiz: "Commencez un quiz pour voir vos résultats", bestScores: "Meilleurs résultats", goodAnswers: "bonnes réponses", history: "Historique" };
+  const locale = "fr-FR";
 
   if (loading) {
     return (

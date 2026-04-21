@@ -1,8 +1,5 @@
 import { ScrollText, BookOpen, Users, Quote, Eye, MapPin, Clock } from "lucide-react";
 import { motion } from "framer-motion";
-import { useState, useEffect } from "react";
-import { getLanguage } from "../lib/i18n";
-import { categoryTranslations } from "../lib/quizTranslations";
 
 const iconMap = {
   ScrollText,
@@ -16,23 +13,6 @@ const iconMap = {
 
 export default function CategoryCard({ category, index, onSelect }) {
   const Icon = iconMap[category.icon] || BookOpen;
-  const [lang, setLang] = useState(getLanguage());
-
-  useEffect(() => {
-    const onStorage = () => {
-      const currentLang = getLanguage();
-      setLang(prev => prev !== currentLang ? currentLang : prev);
-    };
-    window.addEventListener("storage", onStorage);
-    const interval = setInterval(onStorage, 500);
-    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
-  }, []);
-
-  const trans = categoryTranslations[category.id][lang] || categoryTranslations[category.id].fr;
-  const labels = {
-    questions: { fr: "questions", en: "questions", es: "preguntas", pt: "perguntas", ru: "вопросов", zh: "问题", hi: "प्रश्न", sw: "maswali" }[lang],
-    chooseLevel: { fr: "Choisir niveau", en: "Choose level", es: "Elegir nivel", pt: "Escolher nível", ru: "Выбрать уровень", zh: "选择级别", hi: "स्तर चुनें", sw: "Chagua kiwango" }[lang]
-  };
 
   return (
     <motion.div
@@ -52,15 +32,15 @@ export default function CategoryCard({ category, index, onSelect }) {
             <Icon className="w-6 h-6 text-white" />
           </div>
 
-          <h3 className="font-heading text-lg font-semibold mb-1.5">{trans.name}</h3>
-          <p className="text-sm text-muted-foreground mb-4 leading-relaxed">{trans.description}</p>
+          <h3 className="font-heading text-lg font-semibold mb-1.5">{category.name}</h3>
+          <p className="text-sm text-muted-foreground mb-4 leading-relaxed">{category.description}</p>
 
           <div className="flex items-center justify-between">
             <span className="text-xs font-medium text-muted-foreground bg-muted px-2.5 py-1 rounded-full">
-              {category.questionsCount} {labels.questions}
+              {category.questionsCount} questions
             </span>
             <span className="text-xs font-medium text-primary opacity-0 group-hover:opacity-100 transition-opacity">
-              {labels.chooseLevel} →
+              Choisir niveau →
             </span>
           </div>
         </div>
