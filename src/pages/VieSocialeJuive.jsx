@@ -254,16 +254,20 @@ export default function VieSocialeJuive() {
     setTranslating(true);
     setTranslatedItems(null);
 
-    // On extrait uniquement les items non-headers pour les traduire
-    const itemsToTranslate = section.items.filter(i => !i.name.startsWith("—"));
-
     base44.integrations.Core.InvokeLLM({
-      prompt: `Translate the following JSON array from French to ${langName}. 
-Keep all Hebrew text in parentheses (like כּוֹר, שֶׁקֶל, etc.) UNCHANGED. 
-Keep all biblical references (like Genèse 1:1, Matthieu 5:3) UNCHANGED — only translate the surrounding text.
-Keep the JSON structure exactly. Return ONLY valid JSON array, no markdown, no explanation.
+      model: "claude_sonnet_4_6",
+      prompt: `You are a professional biblical studies translator. Translate ALL the following JSON items from French to ${langName}.
 
-${JSON.stringify(itemsToTranslate.map(i => ({ name: i.name, subtitle: i.subtitle, description: i.description, detail: i.detail })))}`,
+STRICT RULES:
+1. Translate EVERY field: name, subtitle, description, detail.
+2. Keep Hebrew text in parentheses (כּוֹר, שֶׁקֶל, etc.) COMPLETELY UNCHANGED.
+3. Keep section headers starting with "—" UNCHANGED (just copy them as-is).
+4. Keep biblical references (e.g. Genèse 1:1, Matthieu 5:3, Lévitique 25) UNCHANGED — only translate surrounding text.
+5. Translate ALL ${section.items.length} items — do not skip any.
+6. Return ONLY the JSON object with the "items" array. No markdown, no explanation.
+
+JSON to translate:
+${JSON.stringify(section.items.map(i => ({ name: i.name, subtitle: i.subtitle, description: i.description, detail: i.detail })))}`,
       response_json_schema: {
         type: "object",
         properties: {
@@ -283,12 +287,10 @@ ${JSON.stringify(itemsToTranslate.map(i => ({ name: i.name, subtitle: i.subtitle
       }
     }).then(result => {
       if (abortRef.current) return;
-      // Reconstruit le tableau complet avec headers en place
       const translated = result.items || [];
-      let tIdx = 0;
-      const full = section.items.map(item => {
-        if (item.name.startsWith("—")) return item;
-        const t = translated[tIdx++];
+      // Merge translated data back, preserving original as fallback
+      const full = section.items.map((item, idx) => {
+        const t = translated[idx];
         return t ? { ...item, ...t } : item;
       });
       translationCache[cacheKey] = full;
@@ -304,33 +306,41 @@ ${JSON.stringify(itemsToTranslate.map(i => ({ name: i.name, subtitle: i.subtitle
 
   const displayedItems = (!isFrench && translatedItems) ? translatedItems : section.items;
 
-  // Labels de section traduits
+  // Labels statiques traduits pour les 8 langues
   const sectionLabels = {
-    fetes: { fr: "Fêtes & Sabbat", en: "Feasts & Sabbath", es: "Fiestas y Sábado", pt: "Festas e Sábado", de: "Feste & Sabbat", ar: "الأعياد والسبت", zh: "节期与安息日", he: "חגים ושבת", ru: "Праздники и Суббота", it: "Feste e Sabato" },
-    mois: { fr: "Calendrier & Mois", en: "Calendar & Months", es: "Calendario y Meses", pt: "Calendário e Meses", de: "Kalender & Monate", ar: "التقويم والأشهر", zh: "日历与月份", he: "לוח שנה וחודשים", ru: "Календарь и Месяцы", it: "Calendario e Mesi" },
-    monnaie: { fr: "Monnaie & Commerce", en: "Currency & Commerce", es: "Moneda y Comercio", pt: "Moeda e Comércio", de: "Währung & Handel", ar: "العملة والتجارة", zh: "货币与商业", he: "מטבע ומסחר", ru: "Валюта и Торговля", it: "Valuta e Commercio" },
-    mesures: { fr: "Poids, Longueurs & Volumes", en: "Weights, Lengths & Volumes", es: "Pesos, Longitudes y Volúmenes", pt: "Pesos, Comprimentos e Volumes", de: "Gewichte, Längen & Volumen", ar: "الأوزان والأطوال والحجوم", zh: "重量、长度与容积", he: "משקלות, אורכים ונפחים", ru: "Веса, Длины и Объёмы", it: "Pesi, Lunghezze e Volumi" },
-    symbolique: { fr: "Symbolique des Nombres", en: "Symbolism of Numbers", es: "Simbolismo de los Números", pt: "Simbolismo dos Números", de: "Symbolik der Zahlen", ar: "رمزية الأعداد", zh: "数字的象征意义", he: "סמליות המספרים", ru: "Символика Чисел", it: "Simbolismo dei Numeri" },
-    quantites: { fr: "Mesures de Quantité", en: "Measures of Quantity", es: "Medidas de Cantidad", pt: "Medidas de Quantidade", de: "Mengenmaße", ar: "مقاييس الكميات", zh: "数量单位", he: "מידות כמות", ru: "Единицы количества", it: "Misure di Quantità" },
-    vetements: { fr: "Vêtements & Habits", en: "Clothing & Garments", es: "Vestimenta y Ropas", pt: "Vestimentas e Roupas", de: "Kleidung & Gewänder", ar: "الملابس والأثواب", zh: "服饰与衣物", he: "בגדים ולבושים", ru: "Одежда и Одеяния", it: "Abbigliamento e Vesti" }
+    fetes:      { fr: "Fêtes & Sabbat", en: "Feasts & Sabbath", es: "Fiestas y Sábado", pt: "Festas e Sábado", ru: "Праздники и Суббота", zh: "节期与安息日", hi: "पर्व और सब्त", sw: "Sherehe na Sabato" },
+    mois:       { fr: "Calendrier & Mois", en: "Calendar & Months", es: "Calendario y Meses", pt: "Calendário e Meses", ru: "Календарь и Месяцы", zh: "日历与月份", hi: "कैलेंडर और महीने", sw: "Kalenda na Miezi" },
+    monnaie:    { fr: "Monnaie & Commerce", en: "Currency & Commerce", es: "Moneda y Comercio", pt: "Moeda e Comércio", ru: "Валюта и Торговля", zh: "货币与商业", hi: "मुद्रा और व्यापार", sw: "Sarafu na Biashara" },
+    mesures:    { fr: "Poids, Longueurs & Volumes", en: "Weights, Lengths & Volumes", es: "Pesos, Longitudes y Volúmenes", pt: "Pesos, Comprimentos e Volumes", ru: "Веса, Длины и Объёмы", zh: "重量、长度与容积", hi: "भार, लंबाई और आयतन", sw: "Uzito, Urefu na Ujazo" },
+    symbolique: { fr: "Symbolique des Nombres", en: "Symbolism of Numbers", es: "Simbolismo de los Números", pt: "Simbolismo dos Números", ru: "Символика Чисел", zh: "数字的象征意义", hi: "संख्याओं का प्रतीकवाद", sw: "Mfano wa Nambari" },
+    quantites:  { fr: "Mesures de Quantité", en: "Measures of Quantity", es: "Medidas de Cantidad", pt: "Medidas de Quantidade", ru: "Единицы количества", zh: "数量单位", hi: "मात्रा की इकाइयाँ", sw: "Vipimo vya Wingi" },
+    vetements:  { fr: "Vêtements & Habits", en: "Clothing & Garments", es: "Vestimenta y Ropas", pt: "Vestimentas e Roupas", ru: "Одежда и Одеяния", zh: "服饰与衣物", hi: "वस्त्र और पोशाक", sw: "Mavazi na Nguo" }
   };
 
   const pageTitle = {
-    fr: "Vie Sociale & Culturelle des Juifs", en: "Jewish Social & Cultural Life", es: "Vida Social y Cultural Judía",
-    pt: "Vida Social e Cultural Judaica", de: "Jüdisches Sozial- und Kulturleben", ar: "الحياة الاجتماعية والثقافية اليهودية",
-    zh: "犹太社会与文化生活", he: "החיים החברתיים והתרבותיים היהודיים", ru: "Еврейская социальная и культурная жизнь", it: "Vita Sociale e Culturale Ebraica"
+    fr: "Vie Sociale & Culturelle des Juifs",
+    en: "Jewish Social & Cultural Life",
+    es: "Vida Social y Cultural Judía",
+    pt: "Vida Social e Cultural Judaica",
+    ru: "Еврейская социальная и культурная жизнь",
+    zh: "犹太社会与文化生活",
+    hi: "यहूदियों का सामाजिक एवं सांस्कृतिक जीवन",
+    sw: "Maisha ya Kijamii na Kiutamaduni ya Wayahudi"
   };
   const pageSubtitle = {
     fr: "Fêtes, calendrier, monnaie, mesures et vêtements — la vie quotidienne et rituelle du peuple hébreu dans la Bible",
     en: "Feasts, calendar, currency, measures and garments — the daily and ritual life of the Hebrew people in the Bible",
     es: "Fiestas, calendario, moneda, medidas y vestimentas — la vida cotidiana y ritual del pueblo hebreo en la Biblia",
     pt: "Festas, calendário, moeda, medidas e vestimentas — a vida diária e ritual do povo hebreu na Bíblia",
-    de: "Feste, Kalender, Währung, Maße und Gewänder — das tägliche und rituelle Leben des hebräischen Volkes in der Bibel",
-    ar: "الأعياد والتقويم والعملة والمقاييس والملابس — الحياة اليومية والطقسية للشعب العبري في الكتاب المقدس",
-    zh: "节期、历法、货币、度量衡与服饰——圣经中希伯来人的日常与礼仪生活",
-    he: "חגים, לוח שנה, מטבע, מידות ובגדים — חיי היומיום והפולחן של העם העברי בתנ\"ך",
     ru: "Праздники, календарь, валюта, меры и одежда — повседневная и ритуальная жизнь еврейского народа в Библии",
-    it: "Feste, calendario, moneta, misure e abiti — la vita quotidiana e rituale del popolo ebraico nella Bibbia"
+    zh: "节期、历法、货币、度量衡与服饰——圣经中希伯来人的日常与礼仪生活",
+    hi: "पर्व, कैलेंडर, मुद्रा, माप और वस्त्र — बाइबल में हिब्रू लोगों का दैनिक और धार्मिक जीवन",
+    sw: "Sherehe, kalenda, sarafu, vipimo na mavazi — maisha ya kila siku na ya ibada ya watu wa Kiebrania katika Biblia"
+  };
+
+  const translatingLabel = {
+    fr: "Traduction en cours", en: "Translating", es: "Traduciendo",
+    pt: "Traduzindo", ru: "Перевод", zh: "翻译中", hi: "अनुवाद हो रहा है", sw: "Inatafsiriwa"
   };
 
   const getLabelForSection = (sectionId) => {
@@ -373,7 +383,7 @@ ${JSON.stringify(itemsToTranslate.map(i => ({ name: i.name, subtitle: i.subtitle
       {translating && (
         <div className="flex items-center gap-2 text-xs text-muted-foreground mb-4 px-1">
           <Loader2 className="w-3.5 h-3.5 animate-spin" />
-          <span>Traduction en cours ({langName})…</span>
+          <span>{translatingLabel[lang] || translatingLabel.fr} ({langName})…</span>
         </div>
       )}
 
