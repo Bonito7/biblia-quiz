@@ -130,6 +130,33 @@ const sections = [
     ]
   },
   {
+    id: "quantites",
+    label: "Mesures de Quantité",
+    emoji: "🔢",
+    color: "from-purple-600 to-violet-700",
+    items: [
+      { name: "— NOMBRES SYMBOLIQUES —", subtitle: "", description: "", detail: "" },
+      { name: "3 — Trinité & Plénitude divine", subtitle: "Nombre de la complétude divine", description: "Le chiffre 3 exprime la plénitude divine : 3 patriarches (Abraham, Isaac, Jacob), 3 divisions du Temple, 3 pèlerinages annuels obligatoires, 3 jours de résurrection de Jonas et de Jésus. Le Trisagion : 'Saint, Saint, Saint' (Ésaïe 6:3).", detail: "Jonas 1:17 ; Matthieu 12:40 ; Ésaïe 6:3" },
+      { name: "7 — Perfection & Alliance", subtitle: "Nombre de l'accomplissement", description: "Le chiffre le plus symbolique de la Bible. 7 jours de la Création, 7 fêtes annuelles, 7 bougies de la Ménorah, 7 ans sabbatiques, 70 semaines de Daniel. 'Sheva' (7) partage la racine de 'serment' (shevua) — jurer par le 7.", detail: "Apocalypse : 7 sceaux, 7 trompettes, 7 coupes. 777 = plénitude absolue." },
+      { name: "10 — Loi & Intégralité", subtitle: "Décimale de la complétude", description: "10 Commandements, 10 plaies d'Égypte, 10 générations de Noé à Abraham. La dîme = 1/10. Un quorum synagogal (minyan) = 10 hommes adultes. Les 10 vierges de la parabole.", detail: "Exode 20 ; Genèse 5 ; Matthieu 25:1" },
+      { name: "12 — Gouvernement divin", subtitle: "Nombre du peuple de Dieu", description: "12 fils de Jacob = 12 tribus d'Israël. 12 apôtres. 12 mois. 12 pains de la présence. 12 pierres du pectoral. La Nouvelle Jérusalem : 12 portes, 12 fondements, 12 000 stades de côté, 144 000 (12×12×1000).", detail: "Genèse 49 ; Matthieu 10:1 ; Apocalypse 21" },
+      { name: "40 — Épreuve & Transformation", subtitle: "Durée des périodes d'épreuve", description: "40 jours du déluge, 40 ans dans le désert, 40 jours de Moïse au Sinaï, 40 ans du règne de David et Salomon, 40 jours de jeûne d'Élie, 40 jours de tentation de Jésus, 40 jours entre Résurrection et Ascension.", detail: "Genèse 7:4 ; Exode 24:18 ; Matthieu 4:2 ; Actes 1:3" },
+      { name: "50 — Jubilé & Grâce", subtitle: "Nombre de la libération", description: "50 ans = Jubilé (libération, remise des terres). 50 jours entre Pessah et Shavouot = Pentecôte. Les 50 colonnes du Tabernacle. La Pentecôte chrétienne = effusion de l'Esprit après 50 jours.", detail: "Lévitique 25:10 ; Actes 2:1" },
+      { name: "70 — Nations & Complétude étendue", subtitle: "Nombre de la plénitude nationale", description: "70 nations de la Table des nations (Genèse 10). 70 anciens d'Israël (Exode 24:1). 70 ans d'exil babylonien. 70 semaines de Daniel. Jésus envoie 70 disciples (Luc 10). 70 membres du Sanhédrin.", detail: "Genèse 10 ; Daniel 9:24 ; Luc 10:1" },
+      { name: "— UNITÉS DE GROUPE —", subtitle: "", description: "", detail: "" },
+      { name: "Dizaine (עֲשָׂרָה)", subtitle: "Unité militaire et sociale de base", description: "La plus petite unité d'organisation sociale. Jéthro conseille à Moïse d'organiser le peuple en unités de 10 (Exode 18:21). Chef de dizaine = officier le plus bas dans la hiérarchie militaire d'Israël. Le minyan synagogal = 10.", detail: "Exode 18:21,25 ; Deutéronome 1:15" },
+      { name: "Cinquantaine (חֲמִשִּׁים)", subtitle: "Groupe de 50 personnes", description: "Unité intermédiaire dans l'organisation militaire de Moïse. Les chefs de cinquantaine supervisaient 5 dizaines. Élie est confronté à deux groupes de 50 soldats envoyés par le roi Achazia (2 Rois 1:9-14).", detail: "Exode 18:21 ; 2 Rois 1:9-14" },
+      { name: "Centaine (מֵאָה)", subtitle: "Groupe de 100 personnes", description: "Unité importante dans l'organisation d'Israël. Les chefs de centaine sont mentionnés dans l'organisation de l'armée et de la nation. Jésus fait asseoir la foule par groupes de 50 et de 100 (Marc 6:40).", detail: "Exode 18:21 ; Nombres 31:14 ; Marc 6:40" },
+      { name: "Millier (אֶלֶף)", subtitle: "Tribu / clan / unité de 1000", description: "'Elef' = mille, mais aussi 'clan' ou 'tribu' dans certains contextes. Les tribus étaient divisées en milliers pour les recensements militaires. Chef de millier = officier supérieur. Gédéon dit : 'Mon clan est le plus faible... je suis le dernier dans la maison de mon père.'", detail: "Exode 18:21 ; Juges 6:15 ; Nombres 1:16" },
+      { name: "Myriade (רְבָבָה)", subtitle: "10 000 — nombre de l'innombrable", description: "10 000 — le plus grand nombre courant dans la numération hébraïque ancienne. Exprime l'immensité : 'Moïse avait 10 000 fois 10 000 enfants d'Israël' (idiome d'abondance). David : 'Saül en a tué mille, et David dix mille' (1 Samuel 18:7).", detail: "1 Samuel 18:7 ; Deutéronome 32:30 ; Apocalypse 5:11 (myriades de myriades)" },
+      { name: "— DIVISIONS DU TEMPS —", subtitle: "", description: "", detail: "" },
+      { name: "Heure (שָׁעָה)", subtitle: "1/12 du jour ou de la nuit", description: "Les Hébreux divisaient le jour (lever au coucher du soleil) en 12 heures de longueur variable selon les saisons. La 'troisième heure' = 9h du matin, la 'sixième heure' = midi, la 'neuvième heure' = 15h (heure de la prière et de la mort de Jésus).", detail: "Matthieu 20:3-9 ; Marc 15:25,33,34 ; Actes 3:1" },
+      { name: "Veille (אַשְׁמוּרָה)", subtitle: "Division de la nuit en 3 ou 4 parties", description: "La nuit était divisée en veilles militaires. L'AT hébreu utilise 3 veilles : veille du soir, veille de minuit, veille du matin. Le NT romain utilise 4 veilles : soir, minuit, chant du coq, matin. Jésus marche sur l'eau à la 4e veille (Matthieu 14:25).", detail: "Juges 7:19 ; Lamentations 2:19 ; Matthieu 14:25" },
+      { name: "Semaine Sabbatique (שְׁמִטָּה)", subtitle: "Cycle de 7 ans", description: "Tous les 7 ans, la terre se repose (Lévitique 25:1-7) : pas de semailles ni de récolte. Les dettes envers les Israélites sont remises (Deutéronome 15:1-3). Les esclaves hébreux sont libérés (Exode 21:2). La non-observance de ces années sabbatiques est une des causes de l'exil babylonien (2 Chroniques 36:21).", detail: "Lévitique 25:1-7 ; Deutéronome 15:1 ; 2 Chroniques 36:21" },
+      { name: "Génération (דּוֹר)", subtitle: "~40 ans dans la Bible", description: "Une génération biblique = environ 40 ans (les 40 ans dans le désert = une génération). Matthieu 1:17 structure la généalogie de Jésus en 3 × 14 générations. 'Jusqu'à la 3e et 4e génération' (punition) vs 'jusqu'à mille générations' (bénédiction, Exode 20:5-6).", detail: "Exode 20:5-6 ; Nombres 14:33 ; Matthieu 1:17" }
+    ]
+  },
+  {
     id: "vetements",
     label: "Vêtements & Habits",
     emoji: "👘",
