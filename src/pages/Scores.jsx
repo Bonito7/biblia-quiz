@@ -2,10 +2,23 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Trophy, Medal, TrendingUp } from "lucide-react";
 import { base44 } from "@/api/base44Client";
+import { scoresTranslations } from "../lib/quizTranslations";
+import { getLanguage } from "../lib/i18n";
 
 export default function Scores() {
   const [scores, setScores] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [lang, setLang] = useState(getLanguage());
+
+  useEffect(() => {
+    const onStorage = () => {
+      const currentLang = getLanguage();
+      setLang(prev => prev !== currentLang ? currentLang : prev);
+    };
+    window.addEventListener("storage", onStorage);
+    const interval = setInterval(onStorage, 500);
+    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
+  }, []);
 
   useEffect(() => {
     base44.entities.QuizScore.list("-created_date", 50)
@@ -20,6 +33,10 @@ export default function Scores() {
     }
     return acc;
   }, {});
+
+  const labels = scoresTranslations[lang] || scoresTranslations.fr;
+  const locales = { fr: "fr-FR", en: "en-US", es: "es-ES", pt: "pt-BR", ru: "ru-RU", zh: "zh-CN", hi: "hi-IN", sw: "sw-TZ" };
+  const locale = locales[lang] || "fr-FR";
 
   if (loading) {
     return (
@@ -39,15 +56,15 @@ export default function Scores() {
         <div className="w-12 h-12 mx-auto rounded-xl bg-primary/10 flex items-center justify-center mb-4">
           <Trophy className="w-6 h-6 text-primary" />
         </div>
-        <h1 className="font-heading text-3xl font-bold mb-2">Vos Scores</h1>
-        <p className="text-muted-foreground text-sm">Suivez votre progression biblique</p>
+        <h1 className="font-heading text-3xl font-bold mb-2">{labels.yourScores}</h1>
+        <p className="text-muted-foreground text-sm">{labels.trackProgress}</p>
       </motion.div>
 
       {scores.length === 0 ? (
         <div className="text-center py-16">
           <Medal className="w-12 h-12 text-muted-foreground/30 mx-auto mb-4" />
-          <p className="text-muted-foreground">Aucun score enregistré pour le moment.</p>
-          <p className="text-sm text-muted-foreground/70 mt-1">Jouez un quiz pour commencer !</p>
+          <p className="text-muted-foreground">{labels.noScores}</p>
+          <p className="text-sm text-muted-foreground/70 mt-1">{labels.playQuiz}</p>
         </div>
       ) : (
         <>
@@ -56,7 +73,7 @@ export default function Scores() {
             <div className="mb-8">
               <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-3 flex items-center gap-2">
                 <TrendingUp className="w-4 h-4" />
-                Meilleurs scores
+                {labels.bestScores}
               </h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {Object.entries(bestByCategory).map(([cat, s], i) => (
@@ -72,7 +89,7 @@ export default function Scores() {
                     </div>
                     <div className="min-w-0">
                       <p className="text-sm font-medium truncate">{cat}</p>
-                      <p className="text-xs text-muted-foreground">{s.score}/{s.total_questions} bonnes réponses</p>
+                      <p className="text-xs text-muted-foreground">{s.score}/{s.total_questions} {labels.goodAnswers}</p>
                     </div>
                   </motion.div>
                 ))}
@@ -83,7 +100,7 @@ export default function Scores() {
           {/* History */}
           <div>
             <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-3">
-              Historique
+              {labels.history}
             </h2>
             <div className="space-y-2">
               {scores.map((s, i) => (
@@ -104,7 +121,7 @@ export default function Scores() {
                   <div className="flex-1 min-w-0">
                     <p className="text-sm font-medium truncate">{s.category}</p>
                     <p className="text-xs text-muted-foreground">
-                      {new Date(s.created_date).toLocaleDateString("fr-FR", {
+                      {new Date(s.created_date).toLocaleDateString(locale, {
                         day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit"
                       })}
                     </p>

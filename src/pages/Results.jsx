@@ -5,6 +5,8 @@ import { Trophy, RotateCcw, Home, Star, Award, Frown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { base44 } from "@/api/base44Client";
 import { categories } from "../lib/quizData";
+import { categoryTranslations, resultsTranslations } from "../lib/quizTranslations";
+import { getLanguage } from "../lib/i18n";
 
 export default function Results() {
   const navigate = useNavigate();
@@ -14,26 +16,39 @@ export default function Results() {
   const total = parseInt(params.get("total") || "0");
   const percentage = total > 0 ? Math.round((score / total) * 100) : 0;
   const [saved, setSaved] = useState(false);
+  const [lang, setLang] = useState(getLanguage());
+
+  useEffect(() => {
+    const onStorage = () => {
+      const currentLang = getLanguage();
+      setLang(prev => prev !== currentLang ? currentLang : prev);
+    };
+    window.addEventListener("storage", onStorage);
+    const interval = setInterval(onStorage, 500);
+    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
+  }, []);
 
   const category = categories.find(c => c.id === categoryId);
+  const categoryName = category ? categoryTranslations[categoryId][lang]?.name || categoryId : null;
+  const labels = resultsTranslations[lang] || resultsTranslations.fr;
 
   // Save score
   useEffect(() => {
-    if (!saved && category && total > 0) {
+    if (!saved && category && total > 0 && categoryName) {
       base44.entities.QuizScore.create({
-        category: category.name,
+        category: categoryName,
         score,
         total_questions: total,
         percentage
       }).then(() => setSaved(true)).catch(() => {});
     }
-  }, [saved, category, score, total, percentage]);
+  }, [saved, category, score, total, percentage, categoryName]);
 
   const getResultMessage = () => {
-    if (percentage >= 90) return { icon: Trophy, text: "Exceptionnel !", subtitle: "Vous êtes un véritable érudit biblique !", color: "text-amber-500" };
-    if (percentage >= 70) return { icon: Award, text: "Très bien !", subtitle: "Vous connaissez bien la Bible !", color: "text-emerald-500" };
-    if (percentage >= 50) return { icon: Star, text: "Pas mal !", subtitle: "Continuez à étudier la Parole.", color: "text-blue-500" };
-    return { icon: Frown, text: "Courage !", subtitle: "La Bible regorge de trésors à découvrir.", color: "text-muted-foreground" };
+    if (percentage >= 90) return { icon: Trophy, text: labels.exceptional, subtitle: labels.exceptionalSub, color: "text-amber-500" };
+    if (percentage >= 70) return { icon: Award, text: labels.veryGood, subtitle: labels.veryGoodSub, color: "text-emerald-500" };
+    if (percentage >= 50) return { icon: Star, text: labels.notBad, subtitle: labels.notBadSub, color: "text-blue-500" };
+    return { icon: Frown, text: labels.keepGoing, subtitle: labels.keepGoingSub, color: "text-muted-foreground" };
   };
 
   const result = getResultMessage();
@@ -42,8 +57,8 @@ export default function Results() {
   if (!category) {
     return (
       <div className="max-w-2xl mx-auto px-4 py-20 text-center">
-        <p className="text-muted-foreground mb-4">Résultats introuvables</p>
-        <Button onClick={() => navigate("/")}>Retour à l'accueil</Button>
+        <p className="text-muted-foreground mb-4">{labels.resultsNotFound}</p>
+        <Button onClick={() => navigate("/")}>{labels.backHome}</Button>
       </div>
     );
   }
@@ -74,7 +89,7 @@ export default function Results() {
 
         {/* Score Card */}
         <div className="bg-card border border-border/50 rounded-2xl p-6 sm:p-8 shadow-sm mb-8">
-          <p className="text-sm text-muted-foreground mb-3">{category.name}</p>
+          <p className="text-sm text-muted-foreground mb-3">{categoryName}</p>
 
           {/* Score Circle */}
           <div className="relative w-36 h-36 mx-auto mb-5">
@@ -108,15 +123,15 @@ export default function Results() {
           <div className="grid grid-cols-3 gap-3 text-center">
             <div className="p-3 rounded-xl bg-emerald-50 border border-emerald-100">
               <p className="font-heading text-lg font-bold text-emerald-600">{score}</p>
-              <p className="text-[10px] text-emerald-600/70 uppercase tracking-wider">Correctes</p>
+              <p className="text-[10px] text-emerald-600/70 uppercase tracking-wider">{labels.correct}</p>
             </div>
             <div className="p-3 rounded-xl bg-red-50 border border-red-100">
               <p className="font-heading text-lg font-bold text-red-500">{total - score}</p>
-              <p className="text-[10px] text-red-500/70 uppercase tracking-wider">Incorrectes</p>
+              <p className="text-[10px] text-red-500/70 uppercase tracking-wider">{labels.incorrect}</p>
             </div>
             <div className="p-3 rounded-xl bg-blue-50 border border-blue-100">
               <p className="font-heading text-lg font-bold text-blue-600">{total}</p>
-              <p className="text-[10px] text-blue-600/70 uppercase tracking-wider">Total</p>
+              <p className="text-[10px] text-blue-600/70 uppercase tracking-wider">{labels.total}</p>
             </div>
           </div>
         </div>
@@ -130,12 +145,12 @@ export default function Results() {
             className="gap-2 rounded-xl"
           >
             <RotateCcw className="w-4 h-4" />
-            Recommencer
+            {labels.restart}
           </Button>
           <Link to="/">
             <Button size="lg" className="gap-2 rounded-xl w-full">
               <Home className="w-4 h-4" />
-              Autres catégories
+              {labels.otherCategories}
             </Button>
           </Link>
         </div>

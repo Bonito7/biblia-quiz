@@ -1,8 +1,29 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { difficulties } from "../lib/quizData";
+import { useState, useEffect } from "react";
+import { getLanguage } from "../lib/i18n";
+import { categoryTranslations, difficultyTranslations } from "../lib/quizTranslations";
 
 export default function DifficultySelector({ category, onClose }) {
+  const [lang, setLang] = useState(getLanguage());
+
+  useEffect(() => {
+    const onStorage = () => {
+      const currentLang = getLanguage();
+      setLang(prev => prev !== currentLang ? currentLang : prev);
+    };
+    window.addEventListener("storage", onStorage);
+    const interval = setInterval(onStorage, 500);
+    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
+  }, []);
+
+  const categoryTrans = categoryTranslations[category.id][lang] || categoryTranslations[category.id].fr;
+  const labels = {
+    chooseDifficulty: { fr: "Choisissez votre niveau", en: "Choose your difficulty", es: "Elige tu dificultad", pt: "Escolha sua dificuldade", ru: "Выберите уровень сложности", zh: "选择难度", hi: "अपनी कठिनाई चुनें", sw: "Chagua ugumu" }[lang],
+    cancel: { fr: "Annuler", en: "Cancel", es: "Cancelar", pt: "Cancelar", ru: "Отмена", zh: "取消", hi: "रद्द करें", sw: "Ghairi" }[lang]
+  };
+
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -20,37 +41,40 @@ export default function DifficultySelector({ category, onClose }) {
         onClick={e => e.stopPropagation()}
       >
         <div className={`h-1 -mt-6 -mx-6 mb-5 rounded-t-2xl bg-gradient-to-r ${category.color}`} />
-        <h3 className="font-heading text-xl font-semibold mb-1">{category.name}</h3>
-        <p className="text-sm text-muted-foreground mb-5">Choisissez votre niveau</p>
+        <h3 className="font-heading text-xl font-semibold mb-1">{categoryTrans.name}</h3>
+        <p className="text-sm text-muted-foreground mb-5">{labels.chooseDifficulty}</p>
 
         <div className="space-y-3">
-          {difficulties.map((diff, i) => (
-            <motion.div
-              key={diff.id}
-              initial={{ opacity: 0, x: -10 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: i * 0.08 }}
-            >
-              <Link
-                to={`/quiz/${category.id}?difficulty=${diff.id}`}
-                className={`flex items-center gap-4 p-4 rounded-xl border-2 ${diff.bg} hover:scale-[1.02] transition-transform duration-200 block`}
+          {difficulties.map((diff, i) => {
+            const diffTrans = difficultyTranslations[diff.id][lang] || difficultyTranslations[diff.id].fr;
+            return (
+              <motion.div
+                key={diff.id}
+                initial={{ opacity: 0, x: -10 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: i * 0.08 }}
               >
-                <span className="text-2xl">{diff.icon}</span>
-                <div className="flex-1">
-                  <p className={`font-semibold ${diff.color}`}>{diff.label}</p>
-                  <p className="text-xs text-muted-foreground">{diff.description}</p>
-                </div>
-                <span className="text-muted-foreground text-sm">→</span>
-              </Link>
-            </motion.div>
-          ))}
+                <Link
+                  to={`/quiz/${category.id}?difficulty=${diff.id}`}
+                  className={`flex items-center gap-4 p-4 rounded-xl border-2 ${diff.bg} hover:scale-[1.02] transition-transform duration-200 block`}
+                >
+                  <span className="text-2xl">{diff.icon}</span>
+                  <div className="flex-1">
+                    <p className={`font-semibold ${diff.color}`}>{diffTrans.label}</p>
+                    <p className="text-xs text-muted-foreground">{diffTrans.description}</p>
+                  </div>
+                  <span className="text-muted-foreground text-sm">→</span>
+                </Link>
+              </motion.div>
+            );
+          })}
         </div>
 
         <button
           onClick={onClose}
           className="mt-4 w-full text-sm text-muted-foreground hover:text-foreground transition-colors py-2"
         >
-          Annuler
+          {labels.cancel}
         </button>
       </motion.div>
     </motion.div>
