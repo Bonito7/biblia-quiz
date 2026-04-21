@@ -241,33 +241,40 @@ export default function VieSocialeJuive() {
   useEffect(() => {
     if (isFrench) {
       setTranslatedItems(null);
+      setTranslating(false);
       return;
     }
 
     const cacheKey = `${activeSection}-${lang}`;
     if (translationCache[cacheKey]) {
       setTranslatedItems(translationCache[cacheKey]);
+      setTranslating(false);
       return;
     }
 
-    abortRef.current = false;
+    // Capture les valeurs courantes pour éviter les fermetures périmées
+    const currentSection = sections.find(s => s.id === activeSection);
+    const currentLang = lang;
+    const currentLangName = langName;
+    let cancelled = false;
+
     setTranslating(true);
     setTranslatedItems(null);
 
     base44.integrations.Core.InvokeLLM({
       model: "claude_sonnet_4_6",
-      prompt: `You are a professional biblical studies translator. Translate ALL the following JSON items from French to ${langName}.
+      prompt: `You are a professional biblical studies translator. Translate ALL the following JSON items from French to ${currentLangName}.
 
 STRICT RULES:
-1. Translate EVERY field: name, subtitle, description, detail.
+1. Translate EVERY field: name, subtitle, description, detail — into ${currentLangName}.
 2. Keep Hebrew text in parentheses (כּוֹר, שֶׁקֶל, etc.) COMPLETELY UNCHANGED.
-3. Keep section headers starting with "—" UNCHANGED (just copy them as-is).
-4. Keep biblical references (e.g. Genèse 1:1, Matthieu 5:3, Lévitique 25) UNCHANGED — only translate surrounding text.
-5. Translate ALL ${section.items.length} items — do not skip any.
-6. Return ONLY the JSON object with the "items" array. No markdown, no explanation.
+3. Keep section headers starting with "—" UNCHANGED (copy them exactly as-is, do not translate them).
+4. Keep biblical references (e.g. Genèse 1:1, Matthieu 5:3, Lévitique 25) UNCHANGED — only translate the surrounding text.
+5. You MUST return EXACTLY ${currentSection.items.length} items in the array — one for each input item, in the same order.
+6. Return ONLY valid JSON with the "items" array. No markdown, no explanation.
 
-JSON to translate:
-${JSON.stringify(section.items.map(i => ({ name: i.name, subtitle: i.subtitle, description: i.description, detail: i.detail })))}`,
+JSON to translate (${currentSection.items.length} items):
+${JSON.stringify(currentSection.items.map(i => ({ name: i.name, subtitle: i.subtitle, description: i.description, detail: i.detail })))}`,
       response_json_schema: {
         type: "object",
         properties: {
@@ -286,25 +293,25 @@ ${JSON.stringify(section.items.map(i => ({ name: i.name, subtitle: i.subtitle, d
         }
       }
     }).then(result => {
-      if (abortRef.current) return;
+      if (cancelled) return;
       const translated = result.items || [];
-      // Merge translated data back, preserving original as fallback
-      const full = section.items.map((item, idx) => {
+      const full = currentSection.items.map((item, idx) => {
         const t = translated[idx];
         return t ? { ...item, ...t } : item;
       });
       translationCache[cacheKey] = full;
       setTranslatedItems(full);
     }).catch(() => {
-      if (!abortRef.current) setTranslatedItems(null);
+      // En cas d'erreur, on affiche le français comme fallback
+      if (!cancelled) setTranslatedItems(currentSection.items);
     }).finally(() => {
-      if (!abortRef.current) setTranslating(false);
+      if (!cancelled) setTranslating(false);
     });
 
-    return () => { abortRef.current = true; };
+    return () => { cancelled = true; };
   }, [activeSection, lang]);
 
-  const displayedItems = (!isFrench && translatedItems) ? translatedItems : section.items;
+  const displayedItems = isFrench ? section.items : (translatedItems || section.items);
 
   // Labels statiques traduits pour les 8 langues
   const sectionLabels = {
@@ -381,17 +388,17 @@ ${JSON.stringify(section.items.map(i => ({ name: i.name, subtitle: i.subtitle, d
 
       {/* Translation indicator */}
       {translating && (
-        <div className="flex items-center gap-2 text-xs text-muted-foreground mb-4 px-1">
-          <Loader2 className="w-3.5 h-3.5 animate-spin" />
-          <span>{translatingLabel[lang] || translatingLabel.fr} ({langName})…</span>
+        <div className="flex items-center gap-2 text-sm text-primary mb-5 px-1 py-3 bg-primary/5 rounded-xl border border-primary/20">
+          <Loader2 className="w-4 h-4 animate-spin flex-shrink-0" />
+          <span className="font-medium">{translatingLabel[lang] || translatingLabel.fr} — {langName}…</span>
         </div>
       )}
 
       <AnimatePresence mode="wait">
         <motion.div
-          key={activeSection + lang}
+          key={activeSection + lang + (translating ? "-loading" : "-done")}
           initial={{ opacity: 0, y: 8 }}
-          animate={{ opacity: 1, y: 0 }}
+          animate={{ opacity: translating ? 0.35 : 1, y: 0 }}
           exit={{ opacity: 0 }}
           transition={{ duration: 0.2 }}
           className="space-y-2"
