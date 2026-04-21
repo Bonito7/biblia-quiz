@@ -99,11 +99,16 @@ export default function Quiz() {
     );
   }
 
+  const translatingMsg = {
+    fr: "Traduction en cours", en: "Translating", es: "Traduciendo",
+    pt: "Traduzindo", ru: "Перевод", zh: "翻译中", hi: "अनुवाद हो रहा है", sw: "Inatafsiriwa"
+  }[lang];
+
   if (translatingQuestions) {
     return (
       <div className="max-w-2xl mx-auto px-4 py-20 text-center">
         <Loader2 className="w-6 h-6 animate-spin mx-auto mb-3 text-primary" />
-        <p className="text-muted-foreground">Traduction en cours...</p>
+        <p className="text-muted-foreground">{translatingMsg}...</p>
       </div>
     );
   }

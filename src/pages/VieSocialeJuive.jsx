@@ -352,10 +352,7 @@ ${JSON.stringify(snapSection.items.map(i => ({ name: i.name, subtitle: i.subtitl
     sw: "Sherehe, kalenda, sarafu, vipimo na mavazi — maisha ya kila siku na ya ibada ya watu wa Kiebrania katika Biblia"
   };
 
-  const translatingLabel = {
-    fr: "Traduction en cours", en: "Translating", es: "Traduciendo",
-    pt: "Traduzindo", ru: "Перевод", zh: "翻译中", hi: "अनुवाद हो रहा है", sw: "Inatafsiriwa"
-  };
+  const translatingLabel = { fr: "Traduction en cours", en: "Translating", es: "Traduciendo", pt: "Traduzindo", ru: "Перевод", zh: "翻译中", hi: "अनुवाद हो रहा है", sw: "Inatafsiriwa" };
 
   const getLabelForSection = (sectionId) => {
     const labels = sectionLabels[sectionId];
