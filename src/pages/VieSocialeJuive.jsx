@@ -1,5 +1,8 @@
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { base44 } from "@/api/base44Client";
+import { getLanguage, LANGUAGES } from "../lib/i18n";
+import { Loader2 } from "lucide-react";
 
 const sections = [
   {
@@ -210,21 +213,142 @@ const sections = [
   }
 ];
 
+// Cache de traductions en mémoire : { "sectionId-lang": [...items traduits] }
+const translationCache = {};
+
 export default function VieSocialeJuive() {
   const [activeSection, setActiveSection] = useState("fetes");
   const [expanded, setExpanded] = useState(null);
+  const [lang, setLang] = useState(getLanguage());
+  const [translatedItems, setTranslatedItems] = useState(null);
+  const [translating, setTranslating] = useState(false);
+  const abortRef = useRef(false);
 
   const section = sections.find(s => s.id === activeSection);
-  const displayItems = section.items.filter(i => i.name.startsWith("—") || i.description);
+  const isFrench = lang === "fr";
+  const langName = LANGUAGES.find(l => l.code === lang)?.name || lang;
+
+  // Traduit la section active si la langue n'est pas le français
+  useEffect(() => {
+    // Surveille les changements de langue
+    const interval = setInterval(() => {
+      const currentLang = getLanguage();
+      if (currentLang !== lang) setLang(currentLang);
+    }, 300);
+    return () => clearInterval(interval);
+  }, [lang]);
+
+  useEffect(() => {
+    if (isFrench) {
+      setTranslatedItems(null);
+      return;
+    }
+
+    const cacheKey = `${activeSection}-${lang}`;
+    if (translationCache[cacheKey]) {
+      setTranslatedItems(translationCache[cacheKey]);
+      return;
+    }
+
+    abortRef.current = false;
+    setTranslating(true);
+    setTranslatedItems(null);
+
+    // On extrait uniquement les items non-headers pour les traduire
+    const itemsToTranslate = section.items.filter(i => !i.name.startsWith("—"));
+
+    base44.integrations.Core.InvokeLLM({
+      prompt: `Translate the following JSON array from French to ${langName}. 
+Keep all Hebrew text in parentheses (like כּוֹר, שֶׁקֶל, etc.) UNCHANGED. 
+Keep all biblical references (like Genèse 1:1, Matthieu 5:3) UNCHANGED — only translate the surrounding text.
+Keep the JSON structure exactly. Return ONLY valid JSON array, no markdown, no explanation.
+
+${JSON.stringify(itemsToTranslate.map(i => ({ name: i.name, subtitle: i.subtitle, description: i.description, detail: i.detail })))}`,
+      response_json_schema: {
+        type: "object",
+        properties: {
+          items: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                name: { type: "string" },
+                subtitle: { type: "string" },
+                description: { type: "string" },
+                detail: { type: "string" }
+              }
+            }
+          }
+        }
+      }
+    }).then(result => {
+      if (abortRef.current) return;
+      // Reconstruit le tableau complet avec headers en place
+      const translated = result.items || [];
+      let tIdx = 0;
+      const full = section.items.map(item => {
+        if (item.name.startsWith("—")) return item;
+        const t = translated[tIdx++];
+        return t ? { ...item, ...t } : item;
+      });
+      translationCache[cacheKey] = full;
+      setTranslatedItems(full);
+    }).catch(() => {
+      if (!abortRef.current) setTranslatedItems(null);
+    }).finally(() => {
+      if (!abortRef.current) setTranslating(false);
+    });
+
+    return () => { abortRef.current = true; };
+  }, [activeSection, lang]);
+
+  const displayedItems = (!isFrench && translatedItems) ? translatedItems : section.items;
+
+  // Labels de section traduits
+  const sectionLabels = {
+    fetes: { fr: "Fêtes & Sabbat", en: "Feasts & Sabbath", es: "Fiestas y Sábado", pt: "Festas e Sábado", de: "Feste & Sabbat", ar: "الأعياد والسبت", zh: "节期与安息日", he: "חגים ושבת", ru: "Праздники и Суббота", it: "Feste e Sabato" },
+    mois: { fr: "Calendrier & Mois", en: "Calendar & Months", es: "Calendario y Meses", pt: "Calendário e Meses", de: "Kalender & Monate", ar: "التقويم والأشهر", zh: "日历与月份", he: "לוח שנה וחודשים", ru: "Календарь и Месяцы", it: "Calendario e Mesi" },
+    monnaie: { fr: "Monnaie & Commerce", en: "Currency & Commerce", es: "Moneda y Comercio", pt: "Moeda e Comércio", de: "Währung & Handel", ar: "العملة والتجارة", zh: "货币与商业", he: "מטבע ומסחר", ru: "Валюта и Торговля", it: "Valuta e Commercio" },
+    mesures: { fr: "Poids, Longueurs & Volumes", en: "Weights, Lengths & Volumes", es: "Pesos, Longitudes y Volúmenes", pt: "Pesos, Comprimentos e Volumes", de: "Gewichte, Längen & Volumen", ar: "الأوزان والأطوال والحجوم", zh: "重量、长度与容积", he: "משקלות, אורכים ונפחים", ru: "Веса, Длины и Объёмы", it: "Pesi, Lunghezze e Volumi" },
+    symbolique: { fr: "Symbolique des Nombres", en: "Symbolism of Numbers", es: "Simbolismo de los Números", pt: "Simbolismo dos Números", de: "Symbolik der Zahlen", ar: "رمزية الأعداد", zh: "数字的象征意义", he: "סמליות המספרים", ru: "Символика Чисел", it: "Simbolismo dei Numeri" },
+    quantites: { fr: "Mesures de Quantité", en: "Measures of Quantity", es: "Medidas de Cantidad", pt: "Medidas de Quantidade", de: "Mengenmaße", ar: "مقاييس الكميات", zh: "数量单位", he: "מידות כמות", ru: "Единицы количества", it: "Misure di Quantità" },
+    vetements: { fr: "Vêtements & Habits", en: "Clothing & Garments", es: "Vestimenta y Ropas", pt: "Vestimentas e Roupas", de: "Kleidung & Gewänder", ar: "الملابس والأثواب", zh: "服饰与衣物", he: "בגדים ולבושים", ru: "Одежда и Одеяния", it: "Abbigliamento e Vesti" }
+  };
+
+  const pageTitle = {
+    fr: "Vie Sociale & Culturelle des Juifs", en: "Jewish Social & Cultural Life", es: "Vida Social y Cultural Judía",
+    pt: "Vida Social e Cultural Judaica", de: "Jüdisches Sozial- und Kulturleben", ar: "الحياة الاجتماعية والثقافية اليهودية",
+    zh: "犹太社会与文化生活", he: "החיים החברתיים והתרבותיים היהודיים", ru: "Еврейская социальная и культурная жизнь", it: "Vita Sociale e Culturale Ebraica"
+  };
+  const pageSubtitle = {
+    fr: "Fêtes, calendrier, monnaie, mesures et vêtements — la vie quotidienne et rituelle du peuple hébreu dans la Bible",
+    en: "Feasts, calendar, currency, measures and garments — the daily and ritual life of the Hebrew people in the Bible",
+    es: "Fiestas, calendario, moneda, medidas y vestimentas — la vida cotidiana y ritual del pueblo hebreo en la Biblia",
+    pt: "Festas, calendário, moeda, medidas e vestimentas — a vida diária e ritual do povo hebreu na Bíblia",
+    de: "Feste, Kalender, Währung, Maße und Gewänder — das tägliche und rituelle Leben des hebräischen Volkes in der Bibel",
+    ar: "الأعياد والتقويم والعملة والمقاييس والملابس — الحياة اليومية والطقسية للشعب العبري في الكتاب المقدس",
+    zh: "节期、历法、货币、度量衡与服饰——圣经中希伯来人的日常与礼仪生活",
+    he: "חגים, לוח שנה, מטבע, מידות ובגדים — חיי היומיום והפולחן של העם העברי בתנ\"ך",
+    ru: "Праздники, календарь, валюта, меры и одежда — повседневная и ритуальная жизнь еврейского народа в Библии",
+    it: "Feste, calendario, moneta, misure e abiti — la vita quotidiana e rituale del popolo ebraico nella Bibbia"
+  };
+
+  const getLabelForSection = (sectionId) => {
+    const labels = sectionLabels[sectionId];
+    if (!labels) return sections.find(s => s.id === sectionId)?.label || sectionId;
+    return labels[lang] || labels.fr;
+  };
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
       {/* Header */}
       <div className="text-center mb-8">
         <div className="text-5xl mb-3">🕍</div>
-        <h1 className="font-heading text-3xl sm:text-4xl font-bold mb-2">Vie Sociale & Culturelle des Juifs</h1>
+        <h1 className="font-heading text-3xl sm:text-4xl font-bold mb-2">
+          {pageTitle[lang] || pageTitle.fr}
+        </h1>
         <p className="text-muted-foreground text-sm max-w-xl mx-auto">
-          Fêtes, calendrier, monnaie, mesures et vêtements — la vie quotidienne et rituelle du peuple hébreu dans la Bible
+          {pageSubtitle[lang] || pageSubtitle.fr}
         </p>
       </div>
 
@@ -240,22 +364,29 @@ export default function VieSocialeJuive() {
                 : "bg-card border border-border text-muted-foreground hover:bg-muted"
             }`}
           >
-            {s.emoji} {s.label}
+            {s.emoji} {getLabelForSection(s.id)}
           </button>
         ))}
       </div>
 
+      {/* Translation indicator */}
+      {translating && (
+        <div className="flex items-center gap-2 text-xs text-muted-foreground mb-4 px-1">
+          <Loader2 className="w-3.5 h-3.5 animate-spin" />
+          <span>Traduction en cours ({langName})…</span>
+        </div>
+      )}
+
       <AnimatePresence mode="wait">
         <motion.div
-          key={activeSection}
+          key={activeSection + lang}
           initial={{ opacity: 0, y: 8 }}
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0 }}
           transition={{ duration: 0.2 }}
           className="space-y-2"
         >
-          {section.items.map((item, i) => {
-            // Section headers
+          {displayedItems.map((item, i) => {
             if (item.name.startsWith("—")) {
               return (
                 <div key={i} className="pt-4 pb-1">
@@ -269,7 +400,7 @@ export default function VieSocialeJuive() {
                 key={item.name}
                 initial={{ opacity: 0, y: 6 }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: i * 0.04 }}
+                transition={{ delay: i * 0.03 }}
               >
                 <button
                   onClick={() => setExpanded(expanded === item.name ? null : item.name)}
