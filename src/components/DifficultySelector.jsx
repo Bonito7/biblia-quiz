@@ -1,29 +1,14 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { difficulties } from "../lib/quizData";
-import { useState, useEffect } from "react";
-import { getLanguage } from "../lib/i18n";
-import { categoryTranslations, difficultyTranslations } from "../lib/quizTranslations";
+
+const difficultyLabels = {
+  debutant: { label: "🌱 Débutant", description: "Questions simples pour commencer" },
+  intermediaire: { label: "📖 Intermédiaire", description: "Pour ceux qui connaissent bien la Bible" },
+  expert: { label: "🔥 Expert", description: "Questions difficiles pour les passionnés" }
+};
 
 export default function DifficultySelector({ category, onClose }) {
-  const [lang, setLang] = useState(getLanguage());
-
-  useEffect(() => {
-    const onStorage = () => {
-      const currentLang = getLanguage();
-      setLang(prev => prev !== currentLang ? currentLang : prev);
-    };
-    window.addEventListener("storage", onStorage);
-    const interval = setInterval(onStorage, 500);
-    return () => { window.removeEventListener("storage", onStorage); clearInterval(interval); };
-  }, []);
-
-  const categoryTrans = categoryTranslations[category.id][lang] || categoryTranslations[category.id].fr;
-  const labels = {
-    chooseDifficulty: { fr: "Choisissez votre niveau", en: "Choose your difficulty", es: "Elige tu dificultad", pt: "Escolha sua dificuldade", ru: "Выберите уровень сложности", zh: "选择难度", hi: "अपनी कठिनाई चुनें", sw: "Chagua ugumu" }[lang],
-    cancel: { fr: "Annuler", en: "Cancel", es: "Cancelar", pt: "Cancelar", ru: "Отмена", zh: "取消", hi: "रद्द करें", sw: "Ghairi" }[lang]
-  };
-
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -41,12 +26,12 @@ export default function DifficultySelector({ category, onClose }) {
         onClick={e => e.stopPropagation()}
       >
         <div className={`h-1 -mt-6 -mx-6 mb-5 rounded-t-2xl bg-gradient-to-r ${category.color}`} />
-        <h3 className="font-heading text-xl font-semibold mb-1">{categoryTrans.name}</h3>
-        <p className="text-sm text-muted-foreground mb-5">{labels.chooseDifficulty}</p>
+        <h3 className="font-heading text-xl font-semibold mb-1">{category.name}</h3>
+        <p className="text-sm text-muted-foreground mb-5">Choisissez votre niveau</p>
 
         <div className="space-y-3">
           {difficulties.map((diff, i) => {
-            const diffTrans = difficultyTranslations[diff.id][lang] || difficultyTranslations[diff.id].fr;
+            const d = difficultyLabels[diff.id] || { label: diff.id, description: "" };
             return (
               <motion.div
                 key={diff.id}
@@ -60,8 +45,8 @@ export default function DifficultySelector({ category, onClose }) {
                 >
                   <span className="text-2xl">{diff.icon}</span>
                   <div className="flex-1">
-                    <p className={`font-semibold ${diff.color}`}>{diffTrans.label}</p>
-                    <p className="text-xs text-muted-foreground">{diffTrans.description}</p>
+                    <p className={`font-semibold ${diff.color}`}>{d.label}</p>
+                    <p className="text-xs text-muted-foreground">{d.description}</p>
                   </div>
                   <span className="text-muted-foreground text-sm">→</span>
                 </Link>
@@ -74,7 +59,7 @@ export default function DifficultySelector({ category, onClose }) {
           onClick={onClose}
           className="mt-4 w-full text-sm text-muted-foreground hover:text-foreground transition-colors py-2"
         >
-          {labels.cancel}
+          Annuler
         </button>
       </motion.div>
     </motion.div>
