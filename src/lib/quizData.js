@@ -7,13 +7,13 @@ import { geographie } from './data/geographie';
 import { chronologie } from './data/chronologie';
 
 export const categories = [
-  { id: "ancien_testament", icon: "ScrollText", color: "from-amber-500 to-orange-600", questionsCount: 240 },
-  { id: "nouveau_testament", icon: "BookOpen", color: "from-blue-500 to-indigo-600", questionsCount: 240 },
-  { id: "personnages", icon: "Users", color: "from-emerald-500 to-teal-600", questionsCount: 240 },
-  { id: "versets", icon: "Quote", color: "from-purple-500 to-violet-600", questionsCount: 240 },
-  { id: "propheties", icon: "Eye", color: "from-rose-500 to-pink-600", questionsCount: 135 },
-  { id: "geographie", icon: "MapPin", color: "from-cyan-500 to-sky-600", questionsCount: 135 },
-  { id: "chronologie", icon: "Clock", color: "from-indigo-500 to-purple-600", questionsCount: 135 }
+  { id: "ancien_testament", name: "Ancien Testament", description: "Les récits fondateurs de la foi hébraïque", icon: "ScrollText", color: "from-amber-500 to-orange-600", questionsCount: 240 },
+  { id: "nouveau_testament", name: "Nouveau Testament", description: "La vie de Jésus et les écrits apostoliques", icon: "BookOpen", color: "from-blue-500 to-indigo-600", questionsCount: 240 },
+  { id: "personnages", name: "Personnages Bibliques", description: "Les grands héros et figures de la Bible", icon: "Users", color: "from-emerald-500 to-teal-600", questionsCount: 240 },
+  { id: "versets", name: "Versets & Citations", description: "Retrouvez les passages et citations célèbres", icon: "Quote", color: "from-purple-500 to-violet-600", questionsCount: 240 },
+  { id: "propheties", name: "Prophéties", description: "Les annonces et accomplissements prophétiques", icon: "Eye", color: "from-rose-500 to-pink-600", questionsCount: 135 },
+  { id: "geographie", name: "Géographie Biblique", description: "Les lieux saints et terres de la Bible", icon: "MapPin", color: "from-cyan-500 to-sky-600", questionsCount: 135 },
+  { id: "chronologie", name: "Chronologie", description: "L'histoire biblique dans l'ordre des temps", icon: "Clock", color: "from-indigo-500 to-purple-600", questionsCount: 135 }
 ];
 
 export const difficulties = [
