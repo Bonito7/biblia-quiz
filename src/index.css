@@ -82,9 +82,13 @@
 
 @layer base {
   * {
-    @apply border-border outline-ring/50;
+    @apply border-border outline-ring/50 select-none;
   }
   body {
     @apply bg-background text-foreground font-body;
+    overscroll-behavior: none;
+  }
+  input, textarea, [contenteditable] {
+    @apply select-text;
   }
 }

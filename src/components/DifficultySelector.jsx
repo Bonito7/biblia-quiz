@@ -1,47 +1,38 @@
-import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { difficulties } from "../lib/quizData";
+import {
+  Drawer,
+  DrawerContent,
+  DrawerHeader,
+  DrawerTitle,
+  DrawerDescription,
+  DrawerClose,
+} from "@/components/ui/drawer";
 
 const difficultyLabels = {
   debutant: { label: "🌱 Débutant", description: "Questions simples pour commencer" },
   intermediaire: { label: "📖 Intermédiaire", description: "Pour ceux qui connaissent bien la Bible" },
-  expert: { label: "🔥 Expert", description: "Questions difficiles pour les passionnés" }
+  expert: { label: "🔥 Expert", description: "Questions difficiles pour les passionnés" },
 };
 
 export default function DifficultySelector({ category, onClose }) {
   return (
-    <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm px-4"
-      onClick={onClose}
-    >
-      <motion.div
-        initial={{ scale: 0.9, opacity: 0, y: 20 }}
-        animate={{ scale: 1, opacity: 1, y: 0 }}
-        exit={{ scale: 0.9, opacity: 0 }}
-        transition={{ type: "spring", stiffness: 300, damping: 25 }}
-        className="bg-card border border-border/60 rounded-2xl p-6 w-full max-w-sm shadow-2xl"
-        onClick={e => e.stopPropagation()}
-      >
-        <div className={`h-1 -mt-6 -mx-6 mb-5 rounded-t-2xl bg-gradient-to-r ${category.color}`} />
-        <h3 className="font-heading text-xl font-semibold mb-1">{category.name}</h3>
-        <p className="text-sm text-muted-foreground mb-5">Choisissez votre niveau</p>
+    <Drawer open={!!category} onOpenChange={(open) => { if (!open) onClose(); }}>
+      <DrawerContent>
+        <div className={`h-1 w-full bg-gradient-to-r ${category?.color}`} />
+        <DrawerHeader className="text-left px-6 pt-4 pb-2">
+          <DrawerTitle className="font-heading text-xl">{category?.name}</DrawerTitle>
+          <DrawerDescription>Choisissez votre niveau de difficulté</DrawerDescription>
+        </DrawerHeader>
 
-        <div className="space-y-3">
-          {difficulties.map((diff, i) => {
+        <div className="px-6 pb-4 space-y-3">
+          {difficulties.map((diff) => {
             const d = difficultyLabels[diff.id] || { label: diff.id, description: "" };
             return (
-              <motion.div
-                key={diff.id}
-                initial={{ opacity: 0, x: -10 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: i * 0.08 }}
-              >
+              <DrawerClose asChild key={diff.id}>
                 <Link
-                  to={`/quiz/${category.id}?difficulty=${diff.id}`}
-                  className={`flex items-center gap-4 p-4 rounded-xl border-2 ${diff.bg} hover:scale-[1.02] transition-transform duration-200 block`}
+                  to={`/quiz/${category?.id}?difficulty=${diff.id}`}
+                  className={`flex items-center gap-4 p-4 rounded-xl border-2 ${diff.bg} hover:scale-[1.01] active:scale-[0.99] transition-transform duration-150 block`}
                 >
                   <span className="text-2xl">{diff.icon}</span>
                   <div className="flex-1">
@@ -50,18 +41,19 @@ export default function DifficultySelector({ category, onClose }) {
                   </div>
                   <span className="text-muted-foreground text-sm">→</span>
                 </Link>
-              </motion.div>
+              </DrawerClose>
             );
           })}
         </div>
 
-        <button
-          onClick={onClose}
-          className="mt-4 w-full text-sm text-muted-foreground hover:text-foreground transition-colors py-2"
-        >
-          Annuler
-        </button>
-      </motion.div>
-    </motion.div>
+        <div className="px-6 pb-6" style={{ paddingBottom: "calc(1.5rem + env(safe-area-inset-bottom))" }}>
+          <DrawerClose asChild>
+            <button className="w-full text-sm text-muted-foreground hover:text-foreground transition-colors py-2">
+              Annuler
+            </button>
+          </DrawerClose>
+        </div>
+      </DrawerContent>
+    </Drawer>
   );
 }

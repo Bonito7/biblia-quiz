@@ -1,4 +1,5 @@
 import { Toaster } from "@/components/ui/toaster"
+import { useEffect } from 'react';
 import { QueryClientProvider } from '@tanstack/react-query'
 import { queryClientInstance } from '@/lib/query-client'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
@@ -20,6 +21,7 @@ import CharlesWesley from './pages/CharlesWesley';
 import WesleyParents from './pages/WesleyParents';
 import WesleySermons from './pages/WesleySermons';
 import WesleyTravels from './pages/WesleyTravels';
+import Settings from './pages/Settings';
 
 const AuthenticatedApp = () => {
   const { isLoadingAuth, isLoadingPublicSettings, authError, navigateToLogin } = useAuth();
@@ -52,6 +54,7 @@ const AuthenticatedApp = () => {
         <Route path="/quiz/:categoryId" element={<Quiz />} />
         <Route path="/results" element={<Results />} />
         <Route path="/scores" element={<Scores />} />
+        <Route path="/settings" element={<Settings />} />
         <Route path="/maps" element={<BibleMaps />} />
         <Route path="/noms-de-dieu" element={<NomsDesDieu />} />
         <Route path="/vie-sociale" element={<VieSocialeJuive />} />
@@ -70,7 +73,27 @@ const AuthenticatedApp = () => {
 };
 
 
+function useDarkMode() {
+  useEffect(() => {
+    const saved = localStorage.getItem("theme");
+    if (saved === "dark") {
+      document.documentElement.classList.add("dark");
+    } else if (saved === "light") {
+      document.documentElement.classList.remove("dark");
+    } else {
+      // System preference
+      const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      document.documentElement.classList.toggle("dark", prefersDark);
+      const mq = window.matchMedia("(prefers-color-scheme: dark)");
+      const handler = (e) => document.documentElement.classList.toggle("dark", e.matches);
+      mq.addEventListener("change", handler);
+      return () => mq.removeEventListener("change", handler);
+    }
+  }, []);
+}
+
 function App() {
+  useDarkMode();
 
   return (
     <AuthProvider>

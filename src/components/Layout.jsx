@@ -1,16 +1,17 @@
 import { Outlet, Link, useLocation } from "react-router-dom";
-import { BookOpen, Home, Trophy, Map, Star, Users } from "lucide-react";
+import { BookOpen, Home, Trophy, Map, Star, Users, Settings } from "lucide-react";
+
+const navItems = [
+  { to: "/", icon: Home, label: "Accueil" },
+  { to: "/maps", icon: Map, label: "Cartes" },
+  { to: "/noms-de-dieu", icon: Star, label: "Noms" },
+  { to: "/vie-sociale", icon: Users, label: "Vie Juive" },
+  { to: "/scores", icon: Trophy, label: "Scores" },
+  { to: "/settings", icon: Settings, label: "Réglages" },
+];
 
 export default function Layout() {
   const location = useLocation();
-
-  const navItems = [
-    { to: "/", icon: Home, label: "Accueil" },
-    { to: "/maps", icon: Map, label: "Cartes" },
-    { to: "/noms-de-dieu", icon: Star, label: "Noms de Dieu" },
-    { to: "/vie-sociale", icon: Users, label: "Vie Juive" },
-    { to: "/scores", icon: Trophy, label: "Scores" },
-  ];
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
@@ -26,36 +27,35 @@ export default function Layout() {
               <p className="text-[10px] text-muted-foreground leading-tight tracking-wide uppercase">Testez vos connaissances</p>
             </div>
           </Link>
-          <nav className="flex items-center gap-1 overflow-x-auto max-w-full">
-            {navItems.map(({ to, icon: Icon, label }) => (
-              <Link
-                key={to}
-                to={to}
-                className={`flex items-center gap-1.5 px-2.5 py-2 rounded-lg text-sm transition-colors whitespace-nowrap flex-shrink-0 ${
-                  location.pathname === to ? "bg-primary/10 text-primary font-medium" : "text-muted-foreground hover:text-foreground hover:bg-muted"
-                }`}
-              >
-                <Icon className="w-4 h-4" />
-                <span className="hidden md:inline">{label}</span>
-              </Link>
-            ))}
-          </nav>
         </div>
       </header>
 
       {/* Main Content */}
-      <main className="flex-1">
+      <main className="flex-1 pb-20">
         <Outlet />
       </main>
 
-      {/* Footer */}
-      <footer className="border-t border-border/50 py-6 mt-auto">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center">
-          <p className="text-xs text-muted-foreground">
-            Biblia-Quiz — Explorez la Bible à travers des quiz
-          </p>
+      {/* Bottom Navigation */}
+      <nav className="fixed bottom-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-t border-border/50"
+        style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
+        <div className="flex items-center justify-around px-2 py-2 max-w-lg mx-auto">
+          {navItems.map(({ to, icon: Icon, label }) => {
+            const active = location.pathname === to;
+            return (
+              <Link
+                key={to}
+                to={to}
+                className={`flex flex-col items-center gap-0.5 px-3 py-1.5 rounded-xl transition-colors min-w-[44px] ${
+                  active ? "text-primary" : "text-muted-foreground"
+                }`}
+              >
+                <Icon className={`w-5 h-5 transition-transform ${active ? "scale-110" : ""}`} />
+                <span className="text-[10px] font-medium">{label}</span>
+              </Link>
+            );
+          })}
         </div>
-      </footer>
+      </nav>
     </div>
   );
 }
