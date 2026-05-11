@@ -4,11 +4,13 @@ import { Sparkles } from "lucide-react";
 import { categories } from "../lib/quizData";
 import CategoryCard from "../components/CategoryCard";
 import DifficultySelector from "../components/DifficultySelector";
+import PullToRefresh from "../components/PullToRefresh";
 
 export default function Home() {
   const [selectedCategory, setSelectedCategory] = useState(null);
 
   return (
+    <PullToRefresh onRefresh={() => new Promise(r => setTimeout(r, 500))}>
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
       {/* Hero */}
       <motion.div
@@ -64,5 +66,6 @@ export default function Home() {
         ))}
       </motion.div>
     </div>
+    </PullToRefresh>
   );
 }

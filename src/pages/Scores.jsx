@@ -1,18 +1,21 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { motion } from "framer-motion";
 import { Trophy, Medal, TrendingUp } from "lucide-react";
 import { base44 } from "@/api/base44Client";
+import PullToRefresh from "../components/PullToRefresh";
 
 export default function Scores() {
   const [scores, setScores] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    base44.entities.QuizScore.list("-created_date", 50)
-      .then(setScores)
-      .catch(() => {})
-      .finally(() => setLoading(false));
+  const fetchScores = useCallback(async () => {
+    const data = await base44.entities.QuizScore.list("-created_date", 50).catch(() => []);
+    setScores(data);
   }, []);
+
+  useEffect(() => {
+    fetchScores().finally(() => setLoading(false));
+  }, [fetchScores]);
 
   const bestByCategory = scores.reduce((acc, s) => {
     if (!acc[s.category] || s.percentage > acc[s.category].percentage) {
@@ -33,6 +36,7 @@ export default function Scores() {
   }
 
   return (
+    <PullToRefresh onRefresh={fetchScores}>
     <div className="max-w-2xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
       <motion.div
         initial={{ opacity: 0, y: -10 }}
@@ -120,5 +124,6 @@ export default function Scores() {
         </>
       )}
     </div>
+    </PullToRefresh>
   );
 }
