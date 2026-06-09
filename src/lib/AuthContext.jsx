@@ -1,144 +1,91 @@
 import React, { createContext, useState, useContext, useEffect } from 'react';
-import { base44 } from '@/api/base44Client';
-import { appParams } from '@/lib/app-params';
-import { createAxiosClient } from '@base44/sdk/dist/utils/axios-client';
 
 const AuthContext = createContext();
 
+const STORAGE_KEY_PHONE = 'bibliaQuiz_phone';
+const BACKEND_URL = import.meta.env.VITE_PAYMENT_BACKEND_URL || '';
+
 export const AuthProvider = ({ children }) => {
-  const [user, setUser] = useState(null);
+  const [phone, setPhone] = useState(null);
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [isLoadingAuth, setIsLoadingAuth] = useState(true);
-  const [isLoadingPublicSettings, setIsLoadingPublicSettings] = useState(true);
-  const [authError, setAuthError] = useState(null);
-  const [appPublicSettings, setAppPublicSettings] = useState(null); // Contains only { id, public_settings }
+  const [isPaid, setIsPaid] = useState(false);
+  const [isLoadingPayment, setIsLoadingPayment] = useState(false);
 
+  // On mount: rehydrate phone from localStorage
   useEffect(() => {
-    checkAppState();
+    const savedPhone = localStorage.getItem(STORAGE_KEY_PHONE);
+    if (savedPhone) {
+      setPhone(savedPhone);
+      setIsAuthenticated(true);
+      checkPaymentStatus(savedPhone);
+    }
+    setIsLoadingAuth(false);
   }, []);
 
-  const checkAppState = async () => {
+  const checkPaymentStatus = async (userId) => {
+    if (!userId) return;
     try {
-      setIsLoadingPublicSettings(true);
-      setAuthError(null);
-      
-      // First, check app public settings (with token if available)
-      // This will tell us if auth is required, user not registered, etc.
-      const appClient = createAxiosClient({
-        baseURL: `/api/apps/public`,
-        headers: {
-          'X-App-Id': appParams.appId
-        },
-        token: appParams.token, // Include token if available
-        interceptResponses: true
-      });
-      
-      try {
-        const publicSettings = await appClient.get(`/prod/public-settings/by-id/${appParams.appId}`);
-        setAppPublicSettings(publicSettings);
-        
-        // If we got the app public settings successfully, check if user is authenticated
-        if (appParams.token) {
-          await checkUserAuth();
+      setIsLoadingPayment(true);
+
+      // Check local cache first for offline resilience
+      const localPaid = localStorage.getItem(`bibliaQuiz_paid_${userId}`) === 'true';
+
+      const response = await fetch(`${BACKEND_URL}/api/payments/status/biblia-quiz/${encodeURIComponent(userId)}`);
+      if (response.ok) {
+        const data = await response.json();
+        setIsPaid(data.paid);
+        if (data.paid) {
+          localStorage.setItem(`bibliaQuiz_paid_${userId}`, 'true');
         } else {
-          setIsLoadingAuth(false);
-          setIsAuthenticated(false);
+          // If backend says not paid but local cache says paid, trust local cache
+          // (handles webhook delay)
+          if (localPaid) setIsPaid(true);
         }
-        setIsLoadingPublicSettings(false);
-      } catch (appError) {
-        console.error('App state check failed:', appError);
-        
-        // Handle app-level errors
-        if (appError.status === 403 && appError.data?.extra_data?.reason) {
-          const reason = appError.data.extra_data.reason;
-          if (reason === 'auth_required') {
-            setAuthError({
-              type: 'auth_required',
-              message: 'Authentication required'
-            });
-          } else if (reason === 'user_not_registered') {
-            setAuthError({
-              type: 'user_not_registered',
-              message: 'User not registered for this app'
-            });
-          } else {
-            setAuthError({
-              type: reason,
-              message: appError.message
-            });
-          }
-        } else {
-          setAuthError({
-            type: 'unknown',
-            message: appError.message || 'Failed to load app'
-          });
-        }
-        setIsLoadingPublicSettings(false);
-        setIsLoadingAuth(false);
+      } else {
+        // Backend error: fall back to local cache
+        setIsPaid(localPaid);
       }
     } catch (error) {
-      console.error('Unexpected error:', error);
-      setAuthError({
-        type: 'unknown',
-        message: error.message || 'An unexpected error occurred'
-      });
-      setIsLoadingPublicSettings(false);
-      setIsLoadingAuth(false);
+      console.error('Error checking payment status:', error);
+      const localPaid = localStorage.getItem(`bibliaQuiz_paid_${userId}`) === 'true';
+      setIsPaid(localPaid);
+    } finally {
+      setIsLoadingPayment(false);
     }
   };
 
-  const checkUserAuth = async () => {
-    try {
-      // Now check if the user is authenticated
-      setIsLoadingAuth(true);
-      const currentUser = await base44.auth.me();
-      setUser(currentUser);
-      setIsAuthenticated(true);
-      setIsLoadingAuth(false);
-    } catch (error) {
-      console.error('User auth check failed:', error);
-      setIsLoadingAuth(false);
-      setIsAuthenticated(false);
-      
-      // If user auth fails, it might be an expired token
-      if (error.status === 401 || error.status === 403) {
-        setAuthError({
-          type: 'auth_required',
-          message: 'Authentication required'
-        });
-      }
-    }
+  const loginWithPhone = async (sanitizedPhone) => {
+    localStorage.setItem(STORAGE_KEY_PHONE, sanitizedPhone);
+    setPhone(sanitizedPhone);
+    setIsAuthenticated(true);
+    await checkPaymentStatus(sanitizedPhone);
   };
 
-  const logout = (shouldRedirect = true) => {
-    setUser(null);
+  const logout = () => {
+    const savedPhone = localStorage.getItem(STORAGE_KEY_PHONE);
+    // Keep paid status in local cache so user doesn't have to re-verify after logout
+    localStorage.removeItem(STORAGE_KEY_PHONE);
+    setPhone(null);
     setIsAuthenticated(false);
-    
-    if (shouldRedirect) {
-      // Use the SDK's logout method which handles token cleanup and redirect
-      base44.auth.logout(window.location.href);
-    } else {
-      // Just remove the token without redirect
-      base44.auth.logout();
-    }
-  };
-
-  const navigateToLogin = () => {
-    // Use the SDK's redirectToLogin method
-    base44.auth.redirectToLogin(window.location.href);
+    setIsPaid(false);
   };
 
   return (
-    <AuthContext.Provider value={{ 
-      user, 
-      isAuthenticated, 
+    <AuthContext.Provider value={{
+      // Expose phone as "user" for backward compat with PaymentGate
+      user: phone ? { id: phone, phone } : null,
+      phone,
+      isAuthenticated,
       isLoadingAuth,
-      isLoadingPublicSettings,
-      authError,
-      appPublicSettings,
+      isLoadingPublicSettings: false, // No longer needed, kept for App.jsx compat
+      authError: null,                // No longer needed
+      isPaid,
+      isLoadingPayment,
+      loginWithPhone,
       logout,
-      navigateToLogin,
-      checkAppState
+      checkPaymentStatus: () => checkPaymentStatus(phone),
+      navigateToLogin: () => {},      // No-op, kept for App.jsx compat
     }}>
       {children}
     </AuthContext.Provider>

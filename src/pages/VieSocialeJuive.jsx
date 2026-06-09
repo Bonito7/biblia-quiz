@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { base44 } from "@/api/base44Client";
 import { getLanguage, LANGUAGES } from "../lib/i18n";
 import { Loader2 } from "lucide-react";
 
@@ -260,56 +259,11 @@ export default function VieSocialeJuive() {
     const snapCacheKey = cacheKey;
     let cancelled = false;
 
-    setTranslating(true);
-    setTranslatedItems(null);
+    // Traduction LLM non disponible — afficher en français par défaut
+    setTranslatedItems(section.items);
+    setTranslating(false);
+    return;
 
-    base44.integrations.Core.InvokeLLM({
-      model: "claude_sonnet_4_6",
-      prompt: `You are a professional biblical studies translator. Translate ALL the following JSON items from French to ${snapLangName}.
-
-STRICT RULES:
-1. Translate EVERY field: name, subtitle, description, detail — into ${snapLangName}.
-2. Keep Hebrew text in parentheses (כּוֹר, שֶׁקֶל, etc.) COMPLETELY UNCHANGED.
-3. Keep section headers starting with "—" UNCHANGED (copy them exactly as-is, never translate them).
-4. Keep biblical references (e.g. Genèse 1:1, Matthieu 5:3, Lévitique 25) UNCHANGED — only translate surrounding text.
-5. Return EXACTLY ${snapSection.items.length} items — one per input item, same order, no skips.
-6. Return ONLY valid JSON with an "items" array. No markdown, no explanation.
-
-JSON to translate (${snapSection.items.length} items):
-${JSON.stringify(snapSection.items.map(i => ({ name: i.name, subtitle: i.subtitle, description: i.description, detail: i.detail })))}`,
-      response_json_schema: {
-        type: "object",
-        properties: {
-          items: {
-            type: "array",
-            items: {
-              type: "object",
-              properties: {
-                name: { type: "string" },
-                subtitle: { type: "string" },
-                description: { type: "string" },
-                detail: { type: "string" }
-              }
-            }
-          }
-        }
-      }
-    }).then(result => {
-      if (cancelled) return;
-      const translated = result.items || [];
-      const full = snapSection.items.map((item, idx) => {
-        const t = translated[idx];
-        return t ? { ...item, ...t } : item;
-      });
-      translationCache[snapCacheKey] = full;
-      setTranslatedItems(full);
-    }).catch(() => {
-      if (!cancelled) setTranslatedItems(snapSection.items);
-    }).finally(() => {
-      if (!cancelled) setTranslating(false);
-    });
-
-    return () => { cancelled = true; };
   }, [activeSection, lang]);
 
   // Reset expanded quand on change de section

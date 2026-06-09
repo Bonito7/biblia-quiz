@@ -13,7 +13,6 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
-import { base44 } from "@/api/base44Client";
 import { useAuth } from "@/lib/AuthContext";
 
 export default function Settings() {
@@ -29,12 +28,10 @@ export default function Settings() {
   };
 
   const handleDeleteAccount = async () => {
-    try {
-      await base44.auth.deleteAccount();
-    } catch {
-      // fallback: just logout
-      logout();
-    }
+    // Clear all local data and log out
+    const keys = Object.keys(localStorage).filter(k => k.startsWith('bibliaQuiz'));
+    keys.forEach(k => localStorage.removeItem(k));
+    logout();
   };
 
   return (

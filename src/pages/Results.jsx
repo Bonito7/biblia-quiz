@@ -3,7 +3,6 @@ import { Link, useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Trophy, RotateCcw, Home, Star, Award, Frown } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { base44 } from "@/api/base44Client";
 import { categories } from "../lib/quizData";
 
 export default function Results() {
@@ -21,12 +20,24 @@ export default function Results() {
 
   useEffect(() => {
     if (!saved && category && total > 0 && categoryName) {
-      base44.entities.QuizScore.create({
-        category: categoryName,
-        score,
-        total_questions: total,
-        percentage
-      }).then(() => setSaved(true)).catch(() => {});
+      try {
+        const existing = JSON.parse(localStorage.getItem('bibliaQuiz_scores') || '[]');
+        const newEntry = {
+          id: Date.now().toString(),
+          category: categoryName,
+          score,
+          total_questions: total,
+          percentage,
+          created_date: new Date().toISOString()
+        };
+        existing.unshift(newEntry);
+        // Keep last 200 entries max
+        if (existing.length > 200) existing.splice(200);
+        localStorage.setItem('bibliaQuiz_scores', JSON.stringify(existing));
+        setSaved(true);
+      } catch (e) {
+        console.error('Failed to save score:', e);
+      }
     }
   }, [saved, category, score, total, percentage, categoryName]);
 

@@ -1,7 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 import { motion } from "framer-motion";
 import { Trophy, Medal, TrendingUp } from "lucide-react";
-import { base44 } from "@/api/base44Client";
 import PullToRefresh from "../components/PullToRefresh";
 
 export default function Scores() {
@@ -9,8 +8,12 @@ export default function Scores() {
   const [loading, setLoading] = useState(true);
 
   const fetchScores = useCallback(async () => {
-    const data = await base44.entities.QuizScore.list("-created_date", 50).catch(() => []);
-    setScores(data);
+    try {
+      const data = JSON.parse(localStorage.getItem('bibliaQuiz_scores') || '[]');
+      setScores(data);
+    } catch {
+      setScores([]);
+    }
   }, []);
 
   useEffect(() => {
