@@ -61,6 +61,17 @@ export default function Layout() {
             <Outlet />
           </motion.div>
         </AnimatePresence>
+
+        <footer className="mt-8 pb-4">
+          <div className="max-w-lg mx-auto px-4 text-center">
+            <Link
+              to="/privacy"
+              className="text-[11px] text-muted-foreground/50 hover:text-muted-foreground transition-colors"
+            >
+              Règles de confidentialité
+            </Link>
+          </div>
+        </footer>
       </main>
 
       {/* Bottom Navigation */}
