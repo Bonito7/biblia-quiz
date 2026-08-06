@@ -63,12 +63,19 @@ export default function Layout() {
         </AnimatePresence>
 
         <footer className="mt-8 pb-4">
-          <div className="max-w-lg mx-auto px-4 text-center">
+          <div className="max-w-lg mx-auto px-4 text-center flex items-center justify-center gap-2">
             <Link
               to="/privacy"
               className="text-[11px] text-muted-foreground/50 hover:text-muted-foreground transition-colors"
             >
               Règles de confidentialité
+            </Link>
+            <span className="text-[11px] text-muted-foreground/50">•</span>
+            <Link
+              to="/apropos"
+              className="text-[11px] text-muted-foreground/50 hover:text-muted-foreground transition-colors"
+            >
+              À propos
             </Link>
           </div>
         </footer>

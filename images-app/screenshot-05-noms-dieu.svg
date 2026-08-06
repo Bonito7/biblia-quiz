@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDF8F0"/>
+      <stop offset="100%" stop-color="#F0E6D6"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4A036"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FAFAF5"/>
+    </linearGradient>
+  </defs>
+  <rect width="390" height="844" fill="url(#bg)"/>
+
+  <!-- Status bar -->
+  <text x="20" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1C1917">9:41</text>
+  <rect x="340" y="18" width="16" height="8" rx="2" fill="none" stroke="#1C1917" stroke-width="0.6"/>
+  <rect x="341" y="19" width="5" height="6" rx="1" fill="#1C1917"/>
+  <rect x="354" y="19" width="8" height="6" rx="2" fill="#1C1917" opacity="0.4"/>
+  <circle cx="330" cy="22" r="2.5" fill="#1C1917" opacity="0.4"/>
+
+  <!-- Header -->
+  <rect x="0" y="40" width="390" height="50" fill="#FDF8F0"/>
+  <text x="48" y="70" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1C1917">📖 Noms de Dieu</text>
+
+  <!-- Search bar -->
+  <rect x="16" y="100" width="358" height="40" rx="20" fill="#FFF" opacity="0.7"/>
+  <text x="42" y="126" font-family="Inter, sans-serif" font-size="12" fill="#A38A5C">🔍 Rechercher un nom...</text>
+
+  <!-- Cards -->
+  <g transform="translate(16, 156)">
+    <rect x="0" y="0" width="358" height="68" rx="12" fill="url(#cardBg)"/>
+    <rect x="14" y="14" width="40" height="40" rx="10" fill="url(#gold)"/>
+    <text x="34" y="40" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#FFF" text-anchor="middle">אל</text>
+    <text x="66" y="34" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1C1917">Elohim (אֱלֹהִים)</text>
+    <text x="66" y="52" font-family="Inter, sans-serif" font-size="10" fill="#78716C">Dieu Créateur, Puissant</text>
+
+    <rect x="0" y="80" width="358" height="68" rx="12" fill="url(#cardBg)"/>
+    <rect x="14" y="94" width="40" height="40" rx="10" fill="url(#gold)"/>
+    <text x="34" y="120" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#FFF" text-anchor="middle">יהוה</text>
+    <text x="66" y="114" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1C1917">YHWH (יהוה)</text>
+    <text x="66" y="132" font-family="Inter, sans-serif" font-size="10" fill="#78716C">"Je suis", l'Éternel</text>
+
+    <rect x="0" y="160" width="358" height="68" rx="12" fill="url(#cardBg)"/>
+    <rect x="14" y="174" width="40" height="40" rx="10" fill="url(#gold)"/>
+    <text x="34" y="200" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#FFF" text-anchor="middle">שדי</text>
+    <text x="66" y="194" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1C1917">El Shaddai (אֵל שַׁדַּי)</text>
+    <text x="66" y="212" font-family="Inter, sans-serif" font-size="10" fill="#78716C">Dieu Tout-Puissant</text>
+
+    <rect x="0" y="240" width="358" height="68" rx="12" fill="url(#cardBg)"/>
+    <rect x="14" y="254" width="40" height="40" rx="10" fill="url(#gold)"/>
+    <text x="34" y="280" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#FFF" text-anchor="middle">עליון</text>
+    <text x="66" y="274" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1C1917">Elyon (עֶלְיוֹן)</text>
+    <text x="66" y="292" font-family="Inter, sans-serif" font-size="10" fill="#78716C">Dieu Très-Haut</text>
+
+    <rect x="0" y="320" width="358" height="68" rx="12" fill="url(#cardBg)"/>
+    <rect x="14" y="334" width="40" height="40" rx="10" fill="url(#gold)"/>
+    <text x="34" y="360" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#FFF" text-anchor="middle">עולם</text>
+    <text x="66" y="354" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1C1917">El Olam (אֵל עוֹלָם)</text>
+    <text x="66" y="372" font-family="Inter, sans-serif" font-size="10" fill="#78716C">Dieu Éternel</text>
+
+    <rect x="0" y="400" width="358" height="68" rx="12" fill="url(#cardBg)"/>
+    <rect x="14" y="414" width="40" height="40" rx="10" fill="url(#gold)"/>
+    <text x="34" y="440" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#FFF" text-anchor="middle">ראה</text>
+    <text x="66" y="434" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1C1917">El Roï (אֵל רֳאִי)</text>
+    <text x="66" y="452" font-family="Inter, sans-serif" font-size="10" fill="#78716C">Dieu qui voit</text>
+  </g>
+
+  <!-- Bottom nav -->
+  <rect x="0" y="780" width="390" height="64" fill="#FDF8F0"/>
+  <line x1="0" y1="780" x2="390" y2="780" stroke="#E8DDD0" stroke-width="0.5"/>
+  <g font-family="Inter, sans-serif" font-size="9" fill="#78716C" text-anchor="middle">
+    <text x="45" y="825">Accueil</text>
+    <text x="120" y="825">Cartes</text>
+    <text x="195" y="825" fill="#D4A036" font-weight="600">Noms</text>
+    <text x="270" y="825">Scores</text>
+    <text x="345" y="825">Réglages</text>
+  </g>
+  <circle cx="45" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="120" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="195" cy="810" r="3" fill="#D4A036"/>
+  <circle cx="270" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="345" cy="810" r="3" fill="#D4D0C8"/>
+  <rect x="130" y="830" width="130" height="4" rx="2" fill="#D4D0C8"/>
+</svg>

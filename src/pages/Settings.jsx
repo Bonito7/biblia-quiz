@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { ArrowLeft, Trash2, LogOut, Moon, Sun } from "lucide-react";
+import { ArrowLeft, Trash2, LogOut, Moon, Sun, Info } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   AlertDialog,
@@ -64,6 +64,15 @@ export default function Settings() {
             <span className={`absolute top-1 w-4 h-4 bg-white rounded-full shadow transition-transform ${darkMode ? "translate-x-6" : "translate-x-1"}`} />
           </button>
         </div>
+
+        {/* About */}
+        <button
+          onClick={() => navigate("/apropos")}
+          className="flex items-center gap-3 w-full p-4 bg-card border border-border/50 rounded-xl hover:bg-muted transition-colors"
+        >
+          <Info className="w-5 h-5 text-primary" />
+          <p className="font-medium text-sm">À propos de l'application</p>
+        </button>
 
         {/* Logout */}
         <button

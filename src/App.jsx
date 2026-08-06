@@ -22,6 +22,7 @@ import WesleySermons from './pages/WesleySermons';
 import WesleyTravels from './pages/WesleyTravels';
 import Settings from './pages/Settings';
 import Privacy from './pages/Privacy';
+import APropos from './pages/APropos';
 import PaymentGate from '@/components/PaymentGate';
 import LoginScreen from '@/components/LoginScreen';
 
@@ -56,6 +57,7 @@ const AuthenticatedApp = () => {
           <Route path="/noms-de-dieu" element={<NomsDesDieu />} />
           <Route path="/vie-sociale" element={<VieSocialeJuive />} />
           <Route path="/privacy" element={<Privacy />} />
+          <Route path="/apropos" element={<APropos />} />
         </Route>
         <Route element={<WesleyLayout />}>
           <Route path="/wesley" element={<WesleyHome />} />

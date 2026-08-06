@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+  <defs>
+    <linearGradient id="bgDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1614"/>
+      <stop offset="100%" stop-color="#292118"/>
+    </linearGradient>
+    <linearGradient id="goldAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E8B84B"/>
+      <stop offset="100%" stop-color="#C28A2A"/>
+    </linearGradient>
+    <linearGradient id="goldShine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F5D78E" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F5D78E" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#F5D78E" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="phoneBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2A2520"/>
+      <stop offset="100%" stop-color="#1C1815"/>
+    </linearGradient>
+    <linearGradient id="quizProgress" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8B84B"/>
+      <stop offset="100%" stop-color="#C28A2A"/>
+    </linearGradient>
+    <linearGradient id="btnCorrect" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#16A34A"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="phoneShadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Dark background -->
+  <rect width="1024" height="500" fill="url(#bgDark)"/>
+
+  <!-- Subtle ornamental pattern -->
+  <g opacity="0.04">
+    <line x1="0" y1="0" x2="1024" y2="500" stroke="#E8B84B" stroke-width="0.5"/>
+    <line x1="1024" y1="0" x2="0" y2="500" stroke="#E8B84B" stroke-width="0.5"/>
+    <line x1="512" y1="0" x2="512" y2="500" stroke="#E8B84B" stroke-width="0.5"/>
+    <line x1="0" y1="250" x2="1024" y2="250" stroke="#E8B84B" stroke-width="0.5"/>
+  </g>
+
+  <!-- Decorative radial glow -->
+  <circle cx="300" cy="250" r="280" fill="url(#goldShine)"/>
+  <circle cx="750" cy="250" r="200" fill="url(#goldShine)"/>
+
+  <!-- ===== LEFT SIDE: App icon & branding ===== -->
+  <g transform="translate(60, 0)">
+    <!-- Logo -->
+    <rect x="0" y="70" width="56" height="56" rx="14" fill="url(#goldAccent)"/>
+    <text x="28" y="106" font-family="'Times New Roman', Georgia, serif" font-size="28" font-weight="700" fill="#1A1614" text-anchor="middle">B</text>
+
+    <text x="70" y="96" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="#F5F0EB" letter-spacing="0.5">Biblia-Quiz</text>
+    <text x="70" y="118" font-family="'Inter', Arial, sans-serif" font-size="11" fill="#C28A2A" letter-spacing="4">TESTEZ VOS CONNAISSANCES</text>
+
+    <!-- Verse -->
+    <text x="0" y="175" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="500" fill="#F5D78E" font-style="italic" opacity="0.9">
+      « Ta parole est une lampe
+    </text>
+    <text x="0" y="203" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="500" fill="#F5D78E" font-style="italic" opacity="0.9">
+      à mes pieds »
+    </text>
+    <text x="0" y="226" font-family="'Inter', Arial, sans-serif" font-size="12" fill="#A8A29E">— Psaume 119:105</text>
+
+    <!-- Description -->
+    <text x="0" y="270" font-family="'Inter', Arial, sans-serif" font-size="13" fill="#D6D3CC" max-width="320">
+      Des quiz interactifs pour approfondir votre connaissance de l'Ancien et du Nouveau Testament.
+    </text>
+
+    <!-- Features list -->
+    <g transform="translate(0, 310)">
+      <rect x="0" y="0" width="16" height="16" rx="4" fill="#C28A2A" opacity="0.2"/>
+      <text x="24" y="12" font-family="'Inter', Arial, sans-serif" font-size="12" fill="#D6D3CC">1365 questions réparties en 7 catégories</text>
+
+      <rect x="0" y="28" width="16" height="16" rx="4" fill="#C28A2A" opacity="0.2"/>
+      <text x="24" y="40" font-family="'Inter', Arial, sans-serif" font-size="12" fill="#D6D3CC">Quiz chronométrés et classement</text>
+
+      <rect x="0" y="56" width="16" height="16" rx="4" fill="#C28A2A" opacity="0.2"/>
+      <text x="24" y="68" font-family="'Inter', Arial, sans-serif" font-size="12" fill="#D6D3CC">Cartes bibliques interactives</text>
+    </g>
+
+    <!-- Coming soon -->
+    <g transform="translate(0, 420)">
+      <rect x="0" y="0" width="260" height="40" rx="8" fill="none" stroke="#C28A2A" stroke-width="0.5" opacity="0.4"/>
+      <text x="130" y="18" font-family="'Inter', Arial, sans-serif" font-size="8" fill="#C28A2A" text-anchor="middle" letter-spacing="3">BIENTÔT DISPONIBLE SUR</text>
+      <text x="80" y="33" font-family="'Inter', Arial, sans-serif" font-size="11" font-weight="600" fill="#F5F0EB" text-anchor="middle">App Store</text>
+      <text x="180" y="33" font-family="'Inter', Arial, sans-serif" font-size="11" font-weight="600" fill="#F5F0EB" text-anchor="middle">Google Play</text>
+      <circle cx="130" cy="28" r="2" fill="#C28A2A"/>
+    </g>
+  </g>
+
+  <!-- ===== RIGHT SIDE: Phone mockup ===== -->
+  <g transform="translate(580, 45)" filter="url(#phoneShadow)">
+    <!-- Phone body -->
+    <rect x="0" y="0" width="240" height="420" rx="28" fill="url(#phoneBody)"/>
+    <rect x="3" y="3" width="234" height="414" rx="25" fill="#1C1815"/>
+    <!-- Screen -->
+    <rect x="8" y="8" width="224" height="404" rx="22" fill="#221D1A"/>
+
+    <!-- Status bar -->
+    <rect x="8" y="8" width="224" height="30" rx="22" fill="#1A1614"/>
+    <text x="24" y="27" font-family="'Inter', Arial, sans-serif" font-size="10" font-weight="600" fill="#F5F0EB">9:41</text>
+    <rect x="185" y="20" width="18" height="10" rx="3" fill="none" stroke="#F5F0EB" stroke-width="0.8" opacity="0.6"/>
+    <rect x="186" y="21" width="6" height="8" rx="1.5" fill="#22C55E"/>
+    <rect x="202" y="22" width="10" height="6" rx="2" fill="#F5F0EB" opacity="0.4"/>
+    <circle cx="170" cy="25" r="3" fill="#F5F0EB" opacity="0.4"/>
+
+    <!-- Quiz header -->
+    <rect x="8" y="38" width="224" height="50" rx="0" fill="#1A1614"/>
+    <!-- Back button -->
+    <text x="24" y="68" font-family="'Inter', Arial, sans-serif" font-size="14" fill="#F5F0EB" opacity="0.6">←</text>
+    <text x="46" y="68" font-family="'Inter', Arial, sans-serif" font-size="12" font-weight="600" fill="#F5F0EB">Ancien Testament</text>
+    <!-- Progress -->
+    <text x="200" y="68" font-family="'Inter', Arial, sans-serif" font-size="11" fill="#C28A2A" font-weight="600">3/10</text>
+
+    <!-- Progress bar -->
+    <rect x="10" y="82" width="220" height="4" rx="2" fill="#3A3330"/>
+    <rect x="10" y="82" width="70" height="4" rx="2" fill="url(#quizProgress)"/>
+
+    <!-- Question card -->
+    <rect x="18" y="98" width="204" height="60" rx="10" fill="#2A2520"/>
+    <text x="34" y="120" font-family="'Inter', Arial, sans-serif" font-size="10" fill="#A8A29E">Question 3 sur 10</text>
+    <text x="34" y="144" font-family="'Playfair Display', Georgia, serif" font-size="14" fill="#F5F0EB">
+      Quel prophète fut avalé par une baleine ?
+    </text>
+
+    <!-- Answer options -->
+    <rect x="18" y="172" width="204" height="44" rx="10" fill="url(#btnCorrect)"/>
+    <text x="34" y="200" font-family="'Inter', Arial, sans-serif" font-size="12" font-weight="600" fill="#FFF">Jonas</text>
+    <text x="198" y="200" font-family="'Inter', Arial, sans-serif" font-size="11" fill="#FFF" opacity="0.8">✓</text>
+
+    <rect x="18" y="224" width="204" height="44" rx="10" fill="#3A3330"/>
+    <text x="34" y="252" font-family="'Inter', Arial, sans-serif" font-size="12" fill="#D6D3CC">Élie</text>
+
+    <rect x="18" y="276" width="204" height="44" rx="10" fill="#3A3330"/>
+    <text x="34" y="304" font-family="'Inter', Arial, sans-serif" font-size="12" fill="#D6D3CC">Jérémie</text>
+
+    <rect x="18" y="328" width="204" height="44" rx="10" fill="#3A3330"/>
+    <text x="34" y="356" font-family="'Inter', Arial, sans-serif" font-size="12" fill="#D6D3CC">Ésaïe</text>
+
+    <!-- Bottom tab bar -->
+    <rect x="8" y="382" width="224" height="30" rx="0" fill="#1A1614"/>
+    <circle cx="40" cy="397" r="4" fill="#C28A2A"/>
+    <circle cx="90" cy="397" r="4" fill="#524B45"/>
+    <circle cx="140" cy="397" r="4" fill="#524B45"/>
+    <circle cx="190" cy="397" r="4" fill="#524B45"/>
+    <text x="40" y="410" font-family="'Inter', Arial, sans-serif" font-size="7" fill="#C28A2A" text-anchor="middle">Accueil</text>
+    <text x="90" y="410" font-family="'Inter', Arial, sans-serif" font-size="7" fill="#524B45" text-anchor="middle">Quiz</text>
+    <text x="140" y="410" font-family="'Inter', Arial, sans-serif" font-size="7" fill="#524B45" text-anchor="middle">Scores</text>
+    <text x="190" y="410" font-family="'Inter', Arial, sans-serif" font-size="7" fill="#524B45" text-anchor="middle">Profil</text>
+  </g>
+
+  <!-- Decorative corner elements -->
+  <path d="M0,0 L40,0 L0,40 Z" fill="#C28A2A" opacity="0.08"/>
+  <path d="M1024,500 L984,500 L1024,460 Z" fill="#C28A2A" opacity="0.08"/>
+
+  <!-- Small golden dot ornaments -->
+  <circle cx="50" cy="45" r="2" fill="#E8B84B" opacity="0.3"/>
+  <circle cx="960" cy="40" r="2" fill="#E8B84B" opacity="0.3"/>
+  <circle cx="970" cy="470" r="1.5" fill="#E8B84B" opacity="0.25"/>
+</svg>

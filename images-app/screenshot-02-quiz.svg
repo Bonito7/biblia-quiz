@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDF8F0"/>
+      <stop offset="100%" stop-color="#F0E6D6"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4A036"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+    <linearGradient id="progress" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D4A036"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+  <rect width="390" height="844" fill="url(#bg)"/>
+
+  <!-- Status bar -->
+  <text x="20" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1C1917">9:41</text>
+  <rect x="340" y="18" width="16" height="8" rx="2" fill="none" stroke="#1C1917" stroke-width="0.6"/>
+  <rect x="341" y="19" width="5" height="6" rx="1" fill="#1C1917"/>
+  <rect x="354" y="19" width="8" height="6" rx="2" fill="#1C1917" opacity="0.4"/>
+  <circle cx="330" cy="22" r="2.5" fill="#1C1917" opacity="0.4"/>
+
+  <!-- Header -->
+  <rect x="0" y="40" width="390" height="50" fill="#FDF8F0"/>
+  <text x="16" y="70" font-family="Inter, sans-serif" font-size="16" fill="#1C1917" opacity="0.5">←</text>
+  <text x="42" y="70" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1C1917">Ancien Testament</text>
+  <text x="350" y="70" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#D4A036">3/10</text>
+
+  <!-- Progress bar -->
+  <rect x="0" y="90" width="390" height="4" fill="#E8DDD0"/>
+  <rect x="0" y="90" width="117" height="4" fill="url(#progress)"/>
+
+  <!-- Question -->
+  <rect x="16" y="110" width="358" height="80" rx="12" fill="#FFF" opacity="0.7"/>
+  <text x="30" y="134" font-family="Inter, sans-serif" font-size="10" fill="#A38A5C" font-weight="500">Question 3 sur 10</text>
+  <text x="30" y="162" font-family="Georgia, serif" font-size="17" fill="#1C1917" font-weight="600">Quel prophète fut avalé par</text>
+  <text x="30" y="184" font-family="Georgia, serif" font-size="17" fill="#1C1917" font-weight="600">un grand poisson ?</text>
+
+  <!-- Timer -->
+  <rect x="300" y="118" width="60" height="24" rx="12" fill="#FFF" opacity="0.7"/>
+  <text x="330" y="134" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#D4A036" text-anchor="middle">⏱ 0:42</text>
+
+  <!-- Answers -->
+  <g transform="translate(16, 210)">
+    <rect x="0" y="0" width="358" height="56" rx="12" fill="#DC2625" opacity="0.08"/>
+    <rect x="0" y="0" width="4" height="56" rx="2" fill="#DC2625"/>
+    <text x="20" y="34" font-family="Inter, sans-serif" font-size="14" fill="#DC2625" font-weight="500">Élie</text>
+    <text x="324" y="34" font-family="Inter, sans-serif" font-size="14" fill="#DC2625">✕</text>
+
+    <rect x="0" y="68" width="358" height="56" rx="12" fill="#22C55E" opacity="0.12"/>
+    <rect x="0" y="68" width="4" height="56" rx="2" fill="#22C55E"/>
+    <text x="20" y="102" font-family="Inter, sans-serif" font-size="14" fill="#22C55E" font-weight="600">Jonas</text>
+    <text x="324" y="102" font-family="Inter, sans-serif" font-size="14" fill="#22C55E">✓</text>
+
+    <rect x="0" y="136" width="358" height="56" rx="12" fill="#1C1917" opacity="0.04"/>
+    <text x="20" y="170" font-family="Inter, sans-serif" font-size="14" fill="#1C1917" opacity="0.6">Jérémie</text>
+
+    <rect x="0" y="204" width="358" height="56" rx="12" fill="#1C1917" opacity="0.04"/>
+    <text x="20" y="238" font-family="Inter, sans-serif" font-size="14" fill="#1C1917" opacity="0.6">Ésaïe</text>
+  </g>
+
+  <!-- Explanation -->
+  <rect x="16" y="500" width="358" height="70" rx="12" fill="#D4A036" opacity="0.06"/>
+  <text x="30" y="524" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#D4A036">Explication</text>
+  <text x="30" y="544" font-family="Inter, sans-serif" font-size="11" fill="#78716C">Jonas fut avalé par un grand poisson après être</text>
+  <text x="30" y="560" font-family="Inter, sans-serif" font-size="11" fill="#78716C">tombé du bateau (Livre de Jonas, chapitre 1-2).</text>
+
+  <!-- Next button -->
+  <rect x="16" y="590" width="358" height="48" rx="12" fill="url(#gold)"/>
+  <text x="195" y="620" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#FFF" text-anchor="middle">Question suivante →</text>
+
+  <!-- Bottom nav -->
+  <rect x="0" y="780" width="390" height="64" fill="#FDF8F0"/>
+  <line x1="0" y1="780" x2="390" y2="780" stroke="#E8DDD0" stroke-width="0.5"/>
+  <g font-family="Inter, sans-serif" font-size="9" fill="#78716C" text-anchor="middle">
+    <text x="45" y="825">Accueil</text>
+    <text x="120" y="825">Cartes</text>
+    <text x="195" y="825">Noms</text>
+    <text x="270" y="825">Scores</text>
+    <text x="345" y="825">Réglages</text>
+  </g>
+  <circle cx="45" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="120" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="195" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="270" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="345" cy="810" r="3" fill="#D4D0C8"/>
+  <rect x="130" y="830" width="130" height="4" rx="2" fill="#D4D0C8"/>
+</svg>

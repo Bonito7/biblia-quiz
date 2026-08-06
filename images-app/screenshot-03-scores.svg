@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDF8F0"/>
+      <stop offset="100%" stop-color="#F0E6D6"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4A036"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+  <rect width="390" height="844" fill="url(#bg)"/>
+
+  <!-- Status bar -->
+  <text x="20" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1C1917">9:41</text>
+  <rect x="340" y="18" width="16" height="8" rx="2" fill="none" stroke="#1C1917" stroke-width="0.6"/>
+  <rect x="341" y="19" width="5" height="6" rx="1" fill="#1C1917"/>
+  <rect x="354" y="19" width="8" height="6" rx="2" fill="#1C1917" opacity="0.4"/>
+  <circle cx="330" cy="22" r="2.5" fill="#1C1917" opacity="0.4"/>
+
+  <!-- Header -->
+  <rect x="0" y="40" width="390" height="50" fill="#FDF8F0"/>
+  <text x="48" y="70" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1C1917">🏆 Scores</text>
+
+  <!-- Results card -->
+  <rect x="45" y="100" width="300" height="130" rx="16" fill="url(#gold)"/>
+  <text x="195" y="140" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#FFF" text-anchor="middle">8/10</text>
+  <text x="195" y="165" font-family="Inter, sans-serif" font-size="13" fill="#FFF" opacity="0.8" text-anchor="middle">Bonnes réponses</text>
+  <text x="195" y="218" font-family="Inter, sans-serif" font-size="11" fill="#FFF" opacity="0.7" text-anchor="middle">Ancien Testament • 2 min 30 sec</text>
+
+  <!-- Stats row -->
+  <g transform="translate(30, 260)">
+    <rect x="0" y="0" width="105" height="70" rx="12" fill="#FFF" opacity="0.7"/>
+    <text x="52" y="30" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#D4A036" text-anchor="middle">80%</text>
+    <text x="52" y="50" font-family="Inter, sans-serif" font-size="9" fill="#78716C" text-anchor="middle">Précision</text>
+
+    <rect x="115" y="0" width="105" height="70" rx="12" fill="#FFF" opacity="0.7"/>
+    <text x="167" y="30" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#D4A036" text-anchor="middle">150s</text>
+    <text x="167" y="50" font-family="Inter, sans-serif" font-size="9" fill="#78716C" text-anchor="middle">Temps moyen</text>
+
+    <rect x="230" y="0" width="105" height="70" rx="12" fill="#FFF" opacity="0.7"/>
+    <text x="282" y="30" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#D4A036" text-anchor="middle">#4</text>
+    <text x="282" y="50" font-family="Inter, sans-serif" font-size="9" fill="#78716C" text-anchor="middle">Classement</text>
+  </g>
+
+  <!-- Leaderboard title -->
+  <text x="30" y="380" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#1C1917">Classement général</text>
+
+  <!-- Leaderboard -->
+  <g transform="translate(16, 400)">
+    <!-- Top 3 -->
+    <rect x="0" y="0" width="358" height="44" rx="10" fill="#FFF" opacity="0.7"/>
+    <text x="18" y="28" font-family="Inter, sans-serif" font-size="11" fill="#D4A036" font-weight="700">1</text>
+    <rect x="34" y="12" width="24" height="24" rx="12" fill="#D4A036"/>
+    <text x="46" y="29" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#FFF" text-anchor="middle">JD</text>
+    <text x="66" y="28" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1C1917">Jean Dupont</text>
+    <text x="310" y="28" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#D4A036">95%</text>
+
+    <rect x="0" y="52" width="358" height="44" rx="10" fill="#FFF" opacity="0.7"/>
+    <text x="18" y="80" font-family="Inter, sans-serif" font-size="11" fill="#78716C" font-weight="700">2</text>
+    <rect x="34" y="64" width="24" height="24" rx="12" fill="#D4D0C8"/>
+    <text x="46" y="81" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#FFF" text-anchor="middle">MP</text>
+    <text x="66" y="80" font-family="Inter, sans-serif" font-size="12" fill="#1C1917">Marie Pierre</text>
+    <text x="310" y="80" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#D4A036">92%</text>
+
+    <rect x="0" y="104" width="358" height="44" rx="10" fill="#FFF" opacity="0.7"/>
+    <text x="18" y="132" font-family="Inter, sans-serif" font-size="11" fill="#78716C" font-weight="700">3</text>
+    <rect x="34" y="116" width="24" height="24" rx="12" fill="#D4D0C8"/>
+    <text x="46" y="133" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#FFF" text-anchor="middle">PK</text>
+    <text x="66" y="132" font-family="Inter, sans-serif" font-size="12" fill="#1C1917">Paul Kouamé</text>
+    <text x="310" y="132" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#D4A036">88%</text>
+
+    <!-- Current user (highlighted) -->
+    <rect x="0" y="156" width="358" height="44" rx="10" fill="#D4A036" opacity="0.1"/>
+    <rect x="0" y="156" width="4" height="44" rx="2" fill="#D4A036"/>
+    <text x="18" y="184" font-family="Inter, sans-serif" font-size="11" fill="#D4A036" font-weight="700">4</text>
+    <rect x="34" y="168" width="24" height="24" rx="12" fill="url(#gold)"/>
+    <text x="46" y="185" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#FFF" text-anchor="middle">VO</text>
+    <text x="66" y="184" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1C1917">Vous</text>
+    <text x="310" y="184" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#D4A036">80%</text>
+
+    <rect x="0" y="208" width="358" height="44" rx="10" fill="#FFF" opacity="0.5"/>
+    <text x="18" y="236" font-family="Inter, sans-serif" font-size="11" fill="#78716C" font-weight="700">5</text>
+    <rect x="34" y="220" width="24" height="24" rx="12" fill="#D4D0C8" opacity="0.6"/>
+    <text x="46" y="237" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#FFF" text-anchor="middle">AB</text>
+    <text x="66" y="236" font-family="Inter, sans-serif" font-size="12" fill="#1C1917" opacity="0.6">Alice B.</text>
+    <text x="310" y="236" font-family="Inter, sans-serif" font-size="12" fill="#D4A036" opacity="0.6">75%</text>
+  </g>
+
+  <!-- Retry button -->
+  <rect x="16" y="680" width="358" height="48" rx="12" fill="url(#gold)"/>
+  <text x="195" y="710" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#FFF" text-anchor="middle">Rejouer</text>
+
+  <!-- Bottom nav -->
+  <rect x="0" y="780" width="390" height="64" fill="#FDF8F0"/>
+  <line x1="0" y1="780" x2="390" y2="780" stroke="#E8DDD0" stroke-width="0.5"/>
+  <g font-family="Inter, sans-serif" font-size="9" fill="#78716C" text-anchor="middle">
+    <text x="45" y="825">Accueil</text>
+    <text x="120" y="825">Cartes</text>
+    <text x="195" y="825">Noms</text>
+    <text x="270" y="825" fill="#D4A036" font-weight="600">Scores</text>
+    <text x="345" y="825">Réglages</text>
+  </g>
+  <circle cx="45" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="120" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="195" cy="810" r="3" fill="#D4D0C8"/>
+  <circle cx="270" cy="810" r="3" fill="#D4A036"/>
+  <circle cx="345" cy="810" r="3" fill="#D4D0C8"/>
+  <rect x="130" y="830" width="130" height="4" rx="2" fill="#D4D0C8"/>
+</svg>
