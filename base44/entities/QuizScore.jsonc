@@ -1,0 +1,32 @@
+{
+  "name": "QuizScore",
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "string",
+      "title": "Cat\u00e9gorie"
+    },
+    "score": {
+      "type": "number",
+      "title": "Score"
+    },
+    "total_questions": {
+      "type": "number",
+      "title": "Total Questions"
+    },
+    "percentage": {
+      "type": "number",
+      "title": "Pourcentage"
+    },
+    "player_name": {
+      "type": "string",
+      "title": "Nom du joueur"
+    }
+  },
+  "required": [
+    "category",
+    "score",
+    "total_questions",
+    "percentage"
+  ]
+}
