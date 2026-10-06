@@ -33,3 +33,4 @@ dist-ssr
 # Local backend sub-repository
 Backend-paiement-marchand-app/
 
+base44/.app.jsonc
