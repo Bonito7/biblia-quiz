@@ -38,9 +38,19 @@ const AuthenticatedApp = () => {
     );
   }
 
-  // Not logged in → show phone login screen
+  // Not logged in → public pages stay reachable (privacy policy must be
+  // accessible without authentication, e.g. for Google's review), the rest
+  // falls back to the phone login screen.
   if (!isAuthenticated) {
-    return <LoginScreen />;
+    return (
+      <Routes>
+        <Route element={<Layout />}>
+          <Route path="/privacy" element={<Privacy />} />
+          <Route path="/apropos" element={<APropos />} />
+        </Route>
+        <Route path="*" element={<LoginScreen />} />
+      </Routes>
+    );
   }
 
   // Logged in → check payment status before showing the app
