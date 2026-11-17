@@ -1,0 +1,143 @@
+{
+  "wesleyTravels": {
+    "title": "Los viajes de Juan Wesley",
+    "subtitle": "400.000 kilómetros recorridos principalmente a caballo, el equivalente a dar 10 vueltas a la Tierra. Wesley no tenía catedral: toda Gran Bretaña era su parroquia.",
+    "statistics": [
+      {
+        "value": "400.000",
+        "unit": "kilómetros",
+        "label": "Viajó en 50 años.",
+        "icon": "🐎"
+      },
+      {
+        "value": "8.000",
+        "unit": "kilómetros/año",
+        "label": "En promedio por año",
+        "icon": "📅"
+      },
+      {
+        "value": "40.000+",
+        "unit": "sermones",
+        "label": "Predicado al aire libre",
+        "icon": "🗣️"
+      },
+      {
+        "value": "88",
+        "unit": "años",
+        "label": "Edad al morir: activa hasta el final",
+        "icon": "✝️"
+      }
+    ],
+    "regions": [
+      {
+        "region": "Norte de Inglaterra",
+        "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "color": "from-blue-600 to-blue-800",
+        "visits": "Visitado más de 40 veces entre 1742 y 1790",
+        "places": [
+          {
+            "name": "Newcastle-upon-Tyne",
+            "lat": "54.97",
+            "lon": "-1.61",
+            "note": "Primer gran avance en el Norte (1742). Wesley fundó allí Orphan House, su primera institución benéfica importante."
+          },
+          {
+            "name": "leeds",
+            "lat": "53.8",
+            "lon": "-1.55",
+            "note": "Centro de Metodismo Industrial. Wesley celebra allí varias conferencias anuales."
+          },
+          {
+            "name": "Brístol",
+            "lat": "51.45",
+            "lon": "-2.59",
+            "note": "Cuna del metodismo (1739). Primera predicación al aire libre en Kingswood. The New Room: la primera capilla metodista."
+          },
+          {
+            "name": "Epworth (Lincolnshire)",
+            "lat": "53.53",
+            "lon": "-0.81",
+            "note": "Ciudad natal de John y Charles. Wesley predica allí, junto a la tumba de su padre, después de que se le negó la entrada a la iglesia."
+          }
+        ]
+      },
+      {
+        "region": "Escocia e Irlanda",
+        "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "color": "from-emerald-600 to-emerald-800",
+        "visits": "22 viajes a Escocia, 43 viajes a Irlanda",
+        "places": [
+          {
+            "name": "Edimburgo",
+            "lat": "55.95",
+            "lon": "-3.19",
+            "note": "Primer viaje en 1751. Wesley predicó allí ante miles de personas a pesar de la hostilidad inicial de los presbiterianos."
+          },
+          {
+            "name": "Dublín",
+            "lat": "53.33",
+            "lon": "-6.25",
+            "note": "Centro para el metodismo irlandés. Wesley hizo 43 viajes allí, cruzando el Mar de Irlanda a la edad de 80 años."
+          },
+          {
+            "name": "Corcho",
+            "lat": "51.9",
+            "lon": "-8.47",
+            "note": "Escena de los violentos disturbios antimetodistas de 1749. Wesley regresó allí valientemente al año siguiente."
+          }
+        ]
+      },
+      {
+        "region": "Cornualles y Gales",
+        "emoji": "🌊",
+        "color": "from-cyan-600 to-sky-800",
+        "visits": "32 viajes a Cornualles, principal campo de evangelización",
+        "places": [
+          {
+            "name": "Redruth (Cornualles)",
+            "lat": "50.23",
+            "lon": "-5.23",
+            "note": "Capital del metodismo de Cornualles. Decenas de miles de mineros se convirtieron. Las sociedades metodistas de Cornualles se encuentran entre las más fuertes."
+          },
+          {
+            "name": "San Ives",
+            "lat": "50.21",
+            "lon": "-5.48",
+            "note": "Primer avance en Cornualles (1743). Wesley baja a las minas para predicar a los mineros después del trabajo."
+          },
+          {
+            "name": "Cardiff",
+            "lat": "51.48",
+            "lon": "-3.18",
+            "note": "Puerta de entrada al metodismo en Gales, terreno difícil pero fértil."
+          }
+        ]
+      },
+      {
+        "region": "América (Georgia)",
+        "emoji": "🇺🇸",
+        "color": "from-red-600 to-rose-800",
+        "visits": "Misión 1735-1738: fracaso pastoral, revelación espiritual",
+        "places": [
+          {
+            "name": "Sabana, Georgia",
+            "lat": "32.08",
+            "lon": "-81.1",
+            "note": "Base de la misión americana de Wesley (1736-1737). Párroco de una parroquia colonial. Misión difícil, relaciones complicadas."
+          },
+          {
+            "name": "Frederica (Georgia)",
+            "lat": "31.23",
+            "lon": "-81.39",
+            "note": "Lugar de un violento conflicto pastoral que precipitó la partida de Wesley. Regresa a Inglaterra convencido de que aún no ha encontrado la verdadera fe."
+          }
+        ]
+      }
+    ],
+    "journal": {
+      "label": "📔 Diario de Juan Wesley",
+      "quote": "\"A las 4 de la mañana partí hacia Epworth. A las 6 de la mañana prediqué en un campo a unas 200 personas a pesar del viento y la lluvia. A las 10 de la mañana llegué a Newcastle donde prediqué de nuevo. A las 3 de la tarde cabalgué hasta Durham...\"",
+      "attribution": "— Extracto típico del diario de Wesley, julio de 1757."
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "wesleyTravels": {
+    "title": "The Travels of John Wesley",
+    "subtitle": "400,000 km traveled mainly on horseback — the equivalent of going around the Earth 10 times. Wesley had no cathedral: the whole of Britain was his parish.",
+    "statistics": [
+      {
+        "value": "400,000",
+        "unit": "km",
+        "label": "Traveled in 50 years",
+        "icon": "🐎"
+      },
+      {
+        "value": "8,000",
+        "unit": "km/year",
+        "label": "On average per year",
+        "icon": "📅"
+      },
+      {
+        "value": "40,000+",
+        "unit": "sermons",
+        "label": "Preached in the open air",
+        "icon": "🗣️"
+      },
+      {
+        "value": "88",
+        "unit": "years",
+        "label": "Age at death — active until the end",
+        "icon": "✝️"
+      }
+    ],
+    "regions": [
+      {
+        "region": "Northern England",
+        "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "color": "from-blue-600 to-blue-800",
+        "visits": "Visited 40+ times between 1742 and 1790",
+        "places": [
+          {
+            "name": "Newcastle upon Tyne",
+            "lat": "54.97",
+            "lon": "-1.61",
+            "note": "First major breakthrough in the North (1742). Wesley founded Orphan House there — his first major charitable institution."
+          },
+          {
+            "name": "Leeds",
+            "lat": "53.8",
+            "lon": "-1.55",
+            "note": "Center for Industrial Methodism. Wesley holds several annual conferences there."
+          },
+          {
+            "name": "Bristol",
+            "lat": "51.45",
+            "lon": "-2.59",
+            "note": "Cradle of Methodism (1739). First open-air preaching at Kingswood. The New Room — the first Methodist chapel."
+          },
+          {
+            "name": "Epworth (Lincolnshire)",
+            "lat": "53.53",
+            "lon": "-0.81",
+            "note": "Hometown of John and Charles. Wesley preaches there at his father's grave after being refused entry into the church."
+          }
+        ]
+      },
+      {
+        "region": "Scotland & Ireland",
+        "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "color": "from-emerald-600 to-emerald-800",
+        "visits": "22 trips to Scotland, 43 trips to Ireland",
+        "places": [
+          {
+            "name": "Edinburgh",
+            "lat": "55.95",
+            "lon": "-3.19",
+            "note": "First trip in 1751. Wesley preached there before thousands of people despite the initial hostility of the Presbyterians."
+          },
+          {
+            "name": "Dublin",
+            "lat": "53.33",
+            "lon": "-6.25",
+            "note": "Center for Irish Methodism. Wesley made 43 voyages there — crossing the Irish Sea at the age of 80."
+          },
+          {
+            "name": "Cork",
+            "lat": "51.9",
+            "lon": "-8.47",
+            "note": "Scene from the violent anti-Methodist riots of 1749. Wesley courageously returned there the following year."
+          }
+        ]
+      },
+      {
+        "region": "Cornwall & Wales",
+        "emoji": "🌊",
+        "color": "from-cyan-600 to-sky-800",
+        "visits": "32 trips to Cornwall, the main ground for evangelization",
+        "places": [
+          {
+            "name": "Redruth (Cornwall)",
+            "lat": "50.23",
+            "lon": "-5.23",
+            "note": "Capital of Cornish Methodism. Tens of thousands of miners converted. The Methodist societies of Cornwall are among the strongest."
+          },
+          {
+            "name": "St Ives",
+            "lat": "50.21",
+            "lon": "-5.48",
+            "note": "First breakthrough in Cornwall (1743). Wesley goes down into the mines to preach to the miners after work."
+          },
+          {
+            "name": "Cardiff",
+            "lat": "51.48",
+            "lon": "-3.18",
+            "note": "Gateway to Methodism in Wales, difficult but fertile ground."
+          }
+        ]
+      },
+      {
+        "region": "America (Georgia)",
+        "emoji": "🇺🇸",
+        "color": "from-red-600 to-rose-800",
+        "visits": "Mission 1735–1738 — pastoral failure, spiritual revelation",
+        "places": [
+          {
+            "name": "Savannah, Georgia",
+            "lat": "32.08",
+            "lon": "-81.1",
+            "note": "Base of the American mission of Wesley (1736-1737). Pastor of a colonial parish. Difficult mission, complicated relationships."
+          },
+          {
+            "name": "Frederica (Georgia)",
+            "lat": "31.23",
+            "lon": "-81.39",
+            "note": "Place of a violent pastoral conflict which precipitated the departure of Wesley. He returns to England convinced that he has not yet found the true faith."
+          }
+        ]
+      }
+    ],
+    "journal": {
+      "label": "📔 Journal of John Wesley",
+      "quote": "\"At 4 a.m. set out for Epworth. At 6 a.m. preached in a field to about 200 people despite wind and rain. At 10 a.m. arrived in Newcastle where I preached again. At 3 p.m. rode to Durham...\"",
+      "attribution": "— Typical extract from Wesley's journal, July 1757"
+    }
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "chronologie": {
+    "debutant": [
+      {
+        "question": "What event marks the beginning of the Bible?",
+        "options": [
+          "Noah's flood",
+          "The creation of the world",
+          "Abraham's call",
+          "The birth of Moses"
+        ],
+        "correct": 1,
+        "explanation": "The Bible begins with the story of God's creation of the world in 6 days (Genesis 1)."
+      },
+      {
+        "question": "In what chronological order did these events occur?",
+        "options": [
+          "Abraham → Moses → David → Jesus",
+          "David → Moses → Abraham → Jesus",
+          "Moses → Abraham → David → Jesus",
+          "Jesus → Abraham → Moses → David"
+        ],
+        "correct": 0,
+        "explanation": "The order is: Abraham (c. 2000 BC) → Moses (c. 1300 BC) → David (c. 1000 BC) → Jesus (c. 1 BC)."
+      },
+      {
+        "question": "How many days did it take God to create the world?",
+        "options": [
+          "5 days",
+          "6 days",
+          "7 days",
+          "40 days"
+        ],
+        "correct": 1,
+        "explanation": "God created in 6 days and rested on the 7th day (Genesis 1-2)."
+      },
+      {
+        "question": "How many years did the Israelites wander in the desert?",
+        "options": [
+          "7 years",
+          "20 years",
+          "40 years",
+          "70 years old"
+        ],
+        "correct": 2,
+        "explanation": "The Israelites wandered for 40 years in the wilderness because of their lack of faith (Numbers 14:33)."
+      },
+      {
+        "question": "What was the first event following the creation of man?",
+        "options": [
+          "The flood",
+          "The Tower of Babel",
+          "The fall of Adam and Eve",
+          "Abraham's call"
+        ],
+        "correct": 2,
+        "explanation": "After the creation of Adam and Eve, the Bible recounts their sin and fall in the Garden of Eden (Genesis 3)."
+      },
+      {
+        "question": "Before or after the flood was the Tower of Babel located?",
+        "options": [
+          "Before the flood",
+          "After the flood",
+          "During the flood",
+          "The Tower of Babel and the Flood are simultaneous"
+        ],
+        "correct": 1,
+        "explanation": "The Tower of Babel was built after the flood by Noah's descendants (Genesis 11:1-9)."
+      },
+      {
+        "question": "Which king reigned before David in Israel?",
+        "options": [
+          "Solomon",
+          "Rehoboam",
+          "Saul",
+          "Samuel"
+        ],
+        "correct": 2,
+        "explanation": "Saul was the first king of Israel, anointed by the prophet Samuel before David succeeded him (1 Samuel 9-11)."
+      },
+      {
+        "question": "Who reigned after David?",
+        "options": [
+          "Rehoboam",
+          "Solomon",
+          "Jeroboam",
+          "Asa"
+        ],
+        "correct": 1,
+        "explanation": "Solomon, son of David, succeeded him on the throne of Israel (1 Kings 1-2)."
+      },
+      {
+        "question": "What event followed the death of Solomon?",
+        "options": [
+          "The construction of the Temple",
+          "The division of the kingdom in two",
+          "The Babylonian Exile",
+          "The Assyrian conquest"
+        ],
+        "correct": 1,
+        "explanation": "After Solomon's death, the kingdom was divided into two: Israel in the north and Judah in the south (1 Kings 12)."
+      },
+      {
+        "question": "Which people destroyed Jerusalem and took the Jews into exile?",
+        "options": [
+          "The Assyrians",
+          "The Persians",
+          "The Babylonians",
+          "The Greeks"
+        ],
+        "correct": 2,
+        "explanation": "Nebuchadnezzar and the Babylonians destroyed Jerusalem and the Temple in 586 BC. (2 Kings 25)."
+      },
+      {
+        "question": "Who allowed the Jews to return to Israel after the Babylonian exile?",
+        "options": [
+          "Alexander the Great",
+          "Cyrus the Great of Persia",
+          "Darius the Mede",
+          "Artaxerxes"
+        ],
+        "correct": 1,
+        "explanation": "Cyrus the Great of Persia issued an edict in 538 BC. allowing Jews to return to Israel (Ezra 1:1-4)."
+      },
+      {
+        "question": "In what period of history was the birth of Jesus located?",
+        "options": [
+          "Under the reign of Nebuchadnezzar",
+          "Under the reign of Cyrus",
+          "Under the reign of Herod the Great and the Roman Empire",
+          "During the reign of Alexander the Great"
+        ],
+        "correct": 2,
+        "explanation": "Jesus was born during the reign of Herod the Great, when Judea was under Roman rule (Matthew 2:1)."
+      },
+      {
+        "question": "What event marks the beginning of the Christian Church?",
+        "options": [
+          "The birth of Jesus",
+          "The resurrection of Jesus",
+          "Pentecost (outpouring of the Holy Spirit)",
+          "The baptism of Jesus"
+        ],
+        "correct": 2,
+        "explanation": "Pentecost, 50 days after Easter, marks the birth of the Church with the outpouring of the Holy Spirit (Acts 2)."
+      },
+      {
+        "question": "In what order did these events of the Passion occur?",
+        "options": [
+          "Last Supper → Crucifixion → Gethsemane → Resurrection",
+          "Last Supper → Gethsemane → Crucifixion → Resurrection",
+          "Gethsemane → Last Supper → Resurrection → Crucifixion",
+          "Crucifixion → Last Supper → Resurrection → Gethsemane"
+        ],
+        "correct": 1,
+        "explanation": "Order: The Last Supper (Thursday evening) → Gethsemane and arrest → trial → Crucifixion (Friday) → Resurrection (Sunday morning)."
+      },
+      {
+        "question": "How many days did Jesus appear after his resurrection before his ascension?",
+        "options": [
+          "7 days",
+          "14 days",
+          "40 days",
+          "50 days"
+        ],
+        "correct": 2,
+        "explanation": "Jesus manifested himself for 40 days after his resurrection before ascending to heaven (Acts 1:3)."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "In what chronological order should these patriarchs be placed: Noah, Abraham, Isaac, Jacob?",
+        "options": [
+          "Abraham → Noah → Isaac → Jacob",
+          "Noah → Abraham → Isaac → Jacob",
+          "Isaac → Noah → Jacob → Abraham",
+          "Jacob → Isaac → Abraham → Noah"
+        ],
+        "correct": 1,
+        "explanation": "Order: Noah (after creation) → Abraham (c. 2000 BC) → Isaac (his son) → Jacob (son of Isaac)."
+      },
+      {
+        "question": "When was the first Temple in Jerusalem destroyed?",
+        "options": [
+          "722 BC AD",
+          "605 BC AD",
+          "586 BC AD",
+          "539 BC AD"
+        ],
+        "correct": 2,
+        "explanation": "Solomon's Temple was destroyed by Nebuchadnezzar in 586 BC. BC during the capture of Jerusalem."
+      },
+      {
+        "question": "What period approximately corresponds to Moses historically?",
+        "options": [
+          "3000-2500 BC AD",
+          "2000-1800 BC AD",
+          "1300-1200 BC AD",
+          "800-700 BC AD"
+        ],
+        "correct": 2,
+        "explanation": "Most historians place Moses and the Exodus around 1280-1250 BC. BC under Ramses II of Egypt."
+      },
+      {
+        "question": "In what order do the great empires of Daniel 2 follow one another?",
+        "options": [
+          "Persia → Babylon → Greece → Rome",
+          "Babylon → Persia → Greece → Rome",
+          "Greece → Persia → Babylon → Rome",
+          "Rome → Greece → Persia → Babylon"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 2 and 7: Babylon (gold) → Persia (silver) → Greece (brass) → Rome (iron). Order corresponding to historical succession."
+      },
+      {
+        "question": "When did the prophets Amos and Hosea prophesie?",
+        "options": [
+          "Period of the Patriarchs",
+          "Period of the United Kingdom under David/Solomon",
+          "Period of the divided kingdom (8th century BC)",
+          "Period of the Babylonian exile"
+        ],
+        "correct": 2,
+        "explanation": "Amos and Hosea prophesied in the 8th century BC (around 760-720), in the Northern Kingdom, shortly before the fall of Samaria (722 BC)."
+      },
+      {
+        "question": "What is the approximate date of the writing of the oldest Gospel?",
+        "options": [
+          "Around 30-40 AD. AD",
+          "Around 50-60 AD. AD",
+          "Around 65-70 AD. AD",
+          "Around 90-100 AD. AD"
+        ],
+        "correct": 2,
+        "explanation": "Mark, considered the oldest gospel, is generally dated to 65-70 AD. BC, before or after the destruction of the Temple."
+      },
+      {
+        "question": "When did the city of Samaria (Northern Kingdom) fall?",
+        "options": [
+          "722 BC BC under the Assyrians",
+          "586 BC BC under the Babylonians",
+          "539 BC BC under the Persians",
+          "331 BC BC under Alexander"
+        ],
+        "correct": 0,
+        "explanation": "Samaria fell in 722 BC. BC under Sargon II of Assyria, leading to the deportation of the 10 tribes (2 Kings 17)."
+      },
+      {
+        "question": "When did Paul write his epistles chronologically?",
+        "options": [
+          "After the 4 gospels",
+          "Before the 4 Gospels (c. 50-62 AD)",
+          "Simultaneously with the gospels",
+          "In the 80s and 90s AD. AD"
+        ],
+        "correct": 1,
+        "explanation": "The Epistles of Paul (c. 50-62 AD) are the oldest NT texts, predating the written Gospels."
+      },
+      {
+        "question": "In what chronological order should these books of the NT be placed: John, Mark, Acts, Revelation?",
+        "options": [
+          "John → Mark → Acts → Revelation",
+          "Mark → Acts → John → Revelation",
+          "Acts → John → Mark → Revelation",
+          "Revelation → Mark → John → Acts"
+        ],
+        "correct": 1,
+        "explanation": "Approximate dating: Mark (65-70) → Acts (80-85) → John (90-95) → Revelation (95-96 AD)."
+      },
+      {
+        "question": "When did Alexander the Great conquer Judea?",
+        "options": [
+          "450 BC AD",
+          "400 BC AD",
+          "333-332 BC AD",
+          "200 BC AD"
+        ],
+        "correct": 2,
+        "explanation": "Alexander the Great conquered Palestine in 333-332 BC. BC, opening the Hellenistic period which would have a profound impact on Judaism."
+      },
+      {
+        "question": "Approximately how long did Abraham and Jesus last?",
+        "options": [
+          "500 years",
+          "1000 years",
+          "2000 years",
+          "3000 years"
+        ],
+        "correct": 2,
+        "explanation": "Abraham is dated around 2000 BC. BC and Jesus was born around 4-6 BC. BC, approximately 2000 years apart."
+      },
+      {
+        "question": "Approximately when did the destruction of the Second Temple take place?",
+        "options": [
+          "40 AD AD",
+          "57 AD AD",
+          "70 AD AD",
+          "100 AD AD"
+        ],
+        "correct": 2,
+        "explanation": "The Second Temple was destroyed by Titus and the Roman armies in 70 AD. BC, as Jesus prophesied (Matthew 24:2)."
+      },
+      {
+        "question": "What OT event immediately precedes the period of Judges?",
+        "options": [
+          "The Exodus from Egypt",
+          "The conquest of Canaan under Joshua",
+          "Saul's reign",
+          "The construction of the Tabernacle"
+        ],
+        "correct": 1,
+        "explanation": "The conquest of Canaan under Joshua immediately precedes the period of the Judges. After Joshua's death, each tribe had its own rulers (Judges 1-2)."
+      },
+      {
+        "question": "When did Jeremiah prophesy about the Babylonian exile?",
+        "options": [
+          "After exile",
+          "During exile only",
+          "Before and during the exile (from approximately 627 BC until 586)",
+          "Before the 150 year exile"
+        ],
+        "correct": 2,
+        "explanation": "Jeremiah began prophesying in 627 BC. (reign of Josiah) and continued through the destruction of Jerusalem in 586 BC. AD"
+      },
+      {
+        "question": "In what order did the 3 kings of the United Kingdom reign?",
+        "options": [
+          "David → Saul → Solomon",
+          "Saul → Solomon → David",
+          "Saul → David → Solomon",
+          "Solomon → David → Saul"
+        ],
+        "correct": 2,
+        "explanation": "Order of the first 3 kings: Saul (around 1050-1010) → David (around 1010-970) → Solomon (around 970-931 BC)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "What is the generally accepted date for the division of the Kingdom of Israel?",
+        "options": [
+          "1050 BC AD",
+          "970 BC AD",
+          "931 BC AD",
+          "722 BC AD"
+        ],
+        "correct": 2,
+        "explanation": "The division of the kingdom under Rehoboam is conventionally dated to 931 BC. BC, after the death of Solomon."
+      },
+      {
+        "question": "What is the main challenge of the 'Judges timeline' in biblical studies?",
+        "options": [
+          "Lack of sources",
+          "The sum of the years of the Judges totals over 400 years while 1 Kings 6:1 speaks of 480 years between the Exodus and the Temple",
+          "The Judges are not dated",
+          "Too much archaeological precision"
+        ],
+        "correct": 1,
+        "explanation": "Classic problem: the cumulative sum of the periods of the Judges exceeds 400 years. The solution: some periods overlap and are regional, not national."
+      },
+      {
+        "question": "What is the meaning of the number '40' in biblical chronology (40 years of desert, 40 days of flood, etc.)?",
+        "options": [
+          "A literally exact number always",
+          "A symbolic Hebrew number denoting a period of complete testing/transformation, without excluding historical reality",
+          "A figure always rounded approximately",
+          "A purely ritual number without history"
+        ],
+        "correct": 1,
+        "explanation": "The Hebrew '40' is both potentially literal AND loaded with symbolic meaning (full proof). We must not oppose symbolism and history."
+      },
+      {
+        "question": "What is the high vs. low dating of the Exodus and what are the implications?",
+        "options": [
+          "No disagreement between historians",
+          "High dating: ~1446 BC. (1 Kings 6:1); low: ~1270 BC (Ramses II). The issue: the identity of the Pharaoh of the Exodus and the archaeological correspondence",
+          "The Exodus is universally dated to 1300 BC. AD",
+          "The debate is purely theological without historical basis"
+        ],
+        "correct": 1,
+        "explanation": "1 Kings 6:1: 480 years before the Temple (970 BC) = ~1446 BC (Thoutmosis III?). The low dating (~1270) follows Ramses II and the city of Pi-Ramses."
+      },
+      {
+        "question": "What is the chronological framework of documentary theory (JEDP) concerning the writing of the Pentateuch?",
+        "options": [
+          "Entirely in the time of Moses (around 1300 BC)",
+          "Sources J (900 BC), E (800), D (622), P (500-400) — Pentateuch finalized around 400 BC AD",
+          "During the Babylonian exile only",
+          "Written in the 2nd century BC. AD"
+        ],
+        "correct": 1,
+        "explanation": "Documentary theory classifies: Yahwist (J, ~900), Elohist (E, ~800), Deuteronomist (D, ~622), Priestly (P, ~500-450). Strongly contested by evangelicals."
+      },
+      {
+        "question": "When and how was the NT canon officially established?",
+        "options": [
+          "By Jesus himself",
+          "Progressively from the 2nd to the 4th century, with the canon of Athanasius (367 AD) and the councils of Carthage (397, 419)",
+          "By the Council of Nicaea (325)",
+          "By a formal apostolic decision of the 1st century"
+        ],
+        "correct": 1,
+        "explanation": "The process of canonization of the NT: increasing use since the 2nd century, list of Athanasius (367), Council of Carthage (397) confirming the 27 books."
+      },
+      {
+        "question": "How did the writing of the Gospel of John date in relation to the Johannine epistles and the Apocalypse?",
+        "options": [
+          "Jean writes everything simultaneously",
+          "Gospel (~90-95) → Epistles (95-100) → Apocalypse (95-96 or earlier under Nero)",
+          "Apocalypse written before the Gospel according to Neronian dating",
+          "Both dates are also attested in the manuscripts"
+        ],
+        "correct": 2,
+        "explanation": "Dominant dating: Gospel of John (~90-95), Epistles John (~90-100), Apocalypse (~95-96 under Domitian, or ~65-68 under Nero according to Neronian dating)."
+      },
+      {
+        "question": "What is the chronological relationship between the epistles of Paul and the writing of the synoptic gospels?",
+        "options": [
+          "The gospels precede Paul",
+          "The epistles of Paul (50-62) precede the synoptic gospels (Mark ~65-70; Matthew and Luke ~80-85)",
+          "Paul writes while Mark writes",
+          "Simultaneity is Proven by Manuscripts"
+        ],
+        "correct": 1,
+        "explanation": "The Pauline epistles (50-62 AD) constitute the oldest written Christian texts we have, predating the written gospels."
+      },
+      {
+        "question": "What is the challenge of OT 'absolute chronology' versus internal biblical chronology?",
+        "options": [
+          "No challenge: the two match perfectly",
+          "The sum of the years of the kings of Israel and Judah does not correspond exactly to the Assyrian and Babylonian chronologies, requiring corrections for coregencies",
+          "The Bible gives no date",
+          "Mesopotamian chronology is wrong"
+        ],
+        "correct": 1,
+        "explanation": "Thiele's royal lists (1951): numerous coregencies and different counting systems explain the apparent discrepancies. Synchronization with Assyria and Babylon is possible within ±1-2 years."
+      },
+      {
+        "question": "What is the theological significance of the concept of 'fullness of times' (Galatians 4:4) in biblical chronology?",
+        "options": [
+          "A simple rhetorical formula",
+          "The conviction that the incarnation arrives at the precise moment desired by God: pax romana, Greek koiné, Jewish diaspora, intensified messianic expectation",
+          "A historical coincidence",
+          "A purely eschatological concept of the future"
+        ],
+        "correct": 1,
+        "explanation": "The 'pleroma tou chronou' (Galatians 4:4): the Pax Romana (safe roads), the common Greek language, the global Jewish diaspora and intensified messianic expectation created a unique providential context."
+      },
+      {
+        "question": "What is the difference between the 'chronos' and 'kairos' calendar in biblical theology of time?",
+        "options": [
+          "These are Greek synonyms",
+          "'Chronos' = sequential quantitative time; 'Kairos' = opportune moment charged with theological and decisive meaning — God's time in history",
+          "'Kairos' = past; 'chronos' = future",
+          "The distinction is post-apostolic"
+        ],
+        "correct": 1,
+        "explanation": "'Chronos' (χρόνος) = succession of measurable time. 'Kairos' (καιρός) = decisive, timely and theologically charged moment. The Incarnation is the Kairos par excellence (Mark 1:15)."
+      },
+      {
+        "question": "What is the meaning of 'millennium' in Revelation 20 and the 3 major interpretations?",
+        "options": [
+          "A literal future reign of 1000 years: only interpretation",
+          "(1) Premillennialism: future literal reign; (2) Amillennialism: symbolic period (Church era); (3) Postmillennialism: gradual reign before the return of Christ",
+          "A historical past only",
+          "A non-Christian concept"
+        ],
+        "correct": 1,
+        "explanation": "The 3 positions: (1) Premillennialism — Christ returns BEFORE the literal millennium; (2) Amillennialism — the millennium = present reign of Christ (patristic majority); (3) Postmillennialism — the millennium precedes the return of Christ."
+      },
+      {
+        "question": "What is the dating of the book of Daniel and the debate between prophetic interpretation and Maccabean writing?",
+        "options": [
+          "6th century BC BC only",
+          "Lives. (internal date of the author Daniel) vs. 2nd c. (165 BC, critical position: 'prophecies after the fact' of the Maccabean era)",
+          "1st century AD AD",
+          "9th century BC AD"
+        ],
+        "correct": 1,
+        "explanation": "Daniel appears as written in the 6th century. (Babylonian exile). Historical criticism dates its writing to ~165 BC. (Antiochus IV) — 'vaticinium ex eventu'. Issue: the possibility of predictive prophecy."
+      },
+      {
+        "question": "What is the chronological relationship between the Jewish Passover and the death of Jesus according to the synopsis of the gospels?",
+        "options": [
+          "The 4 gospels agree perfectly",
+          "The synoptics place the Last Supper on the evening of Passover; John places it on the day before (14 Nisan) — classic tension in exegesis",
+          "John and the synoptics are identical",
+          "The date is impossible to determine"
+        ],
+        "correct": 1,
+        "explanation": "Classic tension: synoptics (the Last Supper = paschal meal, 15 Nisan) vs John (Jesus dies on 14 Nisan, when the paschal lamb was being immolated). Several solutions proposed."
+      },
+      {
+        "question": "What is the chronological framework of the Protestant Reformation and its relationship with the rediscovery of the Bible?",
+        "options": [
+          "16th century AD AD",
+          "15th century AD AD",
+          "14th century AD AD",
+          "17th century AD AD"
+        ],
+        "correct": 0,
+        "explanation": "The Protestant Reformation: Luther published his 95 theses in 1517. The invention of printing (Gutenberg ~1450) and the rediscovery of NT Greek (Erasmus 1516) made possible the diffusion of the Bible in vernacular languages."
+      }
+    ]
+  }
+}

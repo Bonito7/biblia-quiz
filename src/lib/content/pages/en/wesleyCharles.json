@@ -1,0 +1,94 @@
+{
+  "charlesWesley": {
+    "title": "Charles Wesley",
+    "subtitle": "December 18, 1707 — March 29, 1788 · Epworth → London",
+    "bio": "Co-founder of Methodism with his brother John, Charles Wesley is above all the greatest hymnographer in the English language. Its 6,500 hymns have shaped global Protestant spirituality and remain sung in all Christian traditions in the 21st century.",
+    "tabs": [
+      {
+        "id": "hymns",
+        "icon": "🎵",
+        "label": "Hymns",
+        "labelKey": "wesley.nav.hymns"
+      },
+      {
+        "id": "bio",
+        "icon": "📖",
+        "label": "Biography",
+        "labelKey": null
+      }
+    ],
+    "labels": {
+      "original": "🇬🇧 Original",
+      "translation": "🇫🇷 Translation",
+      "theme": "🎯 Theme:"
+    },
+    "hymns": [
+      {
+        "title": "And Can It Be (1738)",
+        "fr": "What a marvel — can I believe it?",
+        "occasion": "Composed shortly after Charles's conversion, on May 21, 1738, 3 days before John's Aldersgate experience.",
+        "stanza": "And can it be that I should gain\nAn interest in the Saviour's blood?\nDied He for me, who caused His pain?\nFor me, who Him to death pursued?\nAmazing love! how can it be\nThat Thou, my God, should not die for me?",
+        "fr_stanza": "What a marvel! Can I have part\nTo the blood shed by my Savior?\nWas it for me that he suffered,\nFor me, the cause of his pain?\nAmazing love! How can it be\nThat you, my God, died for me?",
+        "theme": "Justification by faith, wonder of grace"
+      },
+      {
+        "title": "O for a Thousand Tongues (1739)",
+        "fr": "O for a thousand languages",
+        "occasion": "Written for the first anniversary of his conversion. It is the first hymn in the first official Methodist collection.",
+        "stanza": "O for a thousand tongues to sing\nMy great Redeemer's praise,\nThe glories of my God and King,\nThe triumphs of His grace!",
+        "fr_stanza": "O for a thousand tongues to sing\nThe praises of my Redeemer,\nThe glories of my God-King,\nThe triumphs of His grace!",
+        "theme": "Praise, evangelization, joy of salvation"
+      },
+      {
+        "title": "Hark! The Herald Angels Sing (1739)",
+        "fr": "Here is the angel of the Lord",
+        "occasion": "Originally 'Hark how all the welkin rings' — title modified by George Whitefield. One of the most sung Christmas carols in the world.",
+        "stanza": "Hark! the herald angels sing,\n'Glory to the newborn King!\nPeace on earth and mercy mild,\nGod and sinners reconciled!'",
+        "fr_stanza": "Here is the angel of the Lord!\nGlory to the newborn King!\nPeace on earth, immense grace,\nGod and sinners reconciled!",
+        "theme": "Incarnation, Christmas, reconciliation"
+      },
+      {
+        "title": "Christ the Lord Is Risen Today (1739)",
+        "fr": "Christ the Lord is risen",
+        "occasion": "Written for the First Methodist Chapel (The Foundery, London). Sung on Easter morning around the world.",
+        "stanza": "Christ the Lord is risen today, Alleluia!\nSons of men and angels say, Alleluia!\nRaise your joys and triumphs high, Alleluia!\nSing, ye heavens, and earth reply, Alleluia!",
+        "fr_stanza": "Christ the Lord is risen, Hallelujah!\nAngels and men, proclaim, Alleluia!\nRaise your joys and your songs, Alleluia!\nMay the heavens and the earth respond, Alleluia!",
+        "theme": "Resurrection, victory over death, Easter joy"
+      },
+      {
+        "title": "Love Divine, All Loves Excelling (1747)",
+        "fr": "Divine love, which surpasses all love",
+        "occasion": "Canticle on Sanctification — Charles's theological masterpiece. Expresses the 'Christian perfection' dear to John Wesley.",
+        "stanza": "Love divine, all loves excelling,\nJoy of heaven to earth come down!\nFix in us Thy humble dwelling,\nAll Thy faithful thanks crown.",
+        "fr_stanza": "Divine love, surpassing all love,\nJoy from heaven descended to earth!\nCome and stay in our humble abode,\nCrown all your faithful mercies.",
+        "theme": "Sanctification, Christian perfection, love of God"
+      },
+      {
+        "title": "Soldiers of Christ, Arise (1749)",
+        "fr": "Soldiers of Christ, arise",
+        "occasion": "Written during the period of persecution against Methodists. Encourage believers to put on the spiritual armor of Ephesians 6.",
+        "stanza": "Soldiers of Christ, arise,\nAnd put your armor on,\nStrong in the strength which God supplies\nThrough His eternal Son.",
+        "fr_stanza": "Soldiers of Christ, arise,\nPut on your armor,\nStrong in the strength that God grants\nBy his eternal Son.",
+        "theme": "Spiritual warfare, perseverance, armor from Ephesians 6"
+      }
+    ],
+    "biography": [
+      {
+        "period": "Birth & Childhood (1707–1720)",
+        "text": "Charles Wesley was born on December 18, 1707 in Epworth, 18th of 19 children of Samuel and Susanna. Born prematurely, he is so weak that he does not cry and remains wrapped in wool for several weeks. His mother Susanna devotes special attention to him. As a child, he showed early musical and literary sensitivity under his mother's rigorous education."
+      },
+      {
+        "period": "Westminster & Oxford (1716–1735)",
+        "text": "Charles attended Westminster School (1716) where he excelled in Greek and Latin. In 1726 he entered Christ Church College, Oxford. It was he who, in 1729, founded the 'Holy Club' in Oxford - before his brother John took over its management. George Whitefield will join them. Charles was ordained as an Anglican deacon and priest in 1735, just before the mission to Georgia."
+      },
+      {
+        "period": "Conversion (May 21, 1738)",
+        "text": "Charles's conversion precedes John's by 3 days. On May 21, 1738, sick and lying at a friend's house, Charles read Isaiah 40 and the words struck him like a revelation. He receives assurance of his salvation. That evening he wrote 'And Can It Be' — his first great hymn. When John tells him of his own conversion 3 days later, they sing together."
+      },
+      {
+        "period": "The Hymnographer of the Revival (1738–1788)",
+        "text": "For 50 years, Charles transformed Wesleyan theology into song. He composes on average one hymn per week — sometimes several per day. He composed on horseback, dictating the verses to his companion. His hymns are his preaching: they teach grace, sanctification, the Trinity, resurrection with incomparable lyrical beauty. John said that Charles' hymns were his best theology."
+      }
+    ]
+  }
+}

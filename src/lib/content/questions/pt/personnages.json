@@ -1,0 +1,1726 @@
+{
+  "personnages": {
+    "debutant": [
+      {
+        "question": "Quem matou o gigante Golias?",
+        "options": [
+          "Saulo",
+          "Jônatas",
+          "Davi",
+          "Sansão"
+        ],
+        "correct": 2,
+        "explanation": "O jovem Davi matou Golias com uma funda e uma pedra (1 Samuel 17)."
+      },
+      {
+        "question": "Qual profeta foi levado ao céu em uma carruagem de fogo?",
+        "options": [
+          "Elias",
+          "Eliseu",
+          "Isaías",
+          "Ezequiel"
+        ],
+        "correct": 0,
+        "explanation": "Elias foi elevado ao céu em uma carruagem de fogo (2 Reis 2:11)."
+      },
+      {
+        "question": "Quem foi jogado na cova dos leões?",
+        "options": [
+          "Jeremias",
+          "Danilo",
+          "Ezequiel",
+          "Oséias"
+        ],
+        "correct": 1,
+        "explanation": "Daniel foi jogado na cova dos leões, mas Deus o protegeu (Daniel 6)."
+      },
+      {
+        "question": "Qual rei era conhecido por sua grande sabedoria?",
+        "options": [
+          "Davi",
+          "Salomão",
+          "Ezequias",
+          "Josias"
+        ],
+        "correct": 1,
+        "explanation": "O rei Salomão era famoso por sua extraordinária sabedoria (1 Reis 3:12)."
+      },
+      {
+        "question": "Quem traiu Jesus por 30 moedas de prata?",
+        "options": [
+          "Pedra",
+          "Tomás",
+          "Judas Iscariotes",
+          "Mateus"
+        ],
+        "correct": 2,
+        "explanation": "Judas Iscariotes traiu Jesus por 30 moedas de prata (Mateus 26:15)."
+      },
+      {
+        "question": "Qual mulher encontrou o túmulo de Jesus vazio primeiro?",
+        "options": [
+          "Maria, mãe de Jesus",
+          "Maria Madalena",
+          "Marta",
+          "Salomé"
+        ],
+        "correct": 1,
+        "explanation": "Maria Madalena foi a primeira a descobrir o túmulo vazio (João 20:1)."
+      },
+      {
+        "question": "Quem era o irmão de Moisés?",
+        "options": [
+          "Aarão",
+          "Josué",
+          "Calebe",
+          "Eleazar"
+        ],
+        "correct": 0,
+        "explanation": "Aarão era o irmão mais velho de Moisés (Êxodo 7:7)."
+      },
+      {
+        "question": "Qual personagem bíblico viveu mais?",
+        "options": [
+          "Adão",
+          "Noé",
+          "Matusalém",
+          "Enoch"
+        ],
+        "correct": 2,
+        "explanation": "Matusalém viveu 969 anos, o mais longo da Bíblia (Gênesis 5:27)."
+      },
+      {
+        "question": "Qual apóstolo é apelidado de “o incrédulo”?",
+        "options": [
+          "Pedra",
+          "Jeans",
+          "Tomás",
+          "André"
+        ],
+        "correct": 2,
+        "explanation": "Tomé duvidou da ressurreição de Jesus até vê-la (João 20:24-29)."
+      },
+      {
+        "question": "Qual mulher judia se tornou rainha da Pérsia e salvou o seu povo?",
+        "options": [
+          "Débora",
+          "Rute",
+          "Ester",
+          "Judite"
+        ],
+        "correct": 2,
+        "explanation": "Ester era uma mulher judia que se tornou rainha da Pérsia e salvou o seu povo."
+      },
+      {
+        "question": "Quem foi o pai terreno de Jesus?",
+        "options": [
+          "Joaquim",
+          "José",
+          "Zacarias",
+          "Simeão"
+        ],
+        "correct": 1,
+        "explanation": "José era o pai adotivo (terrestre) de Jesus (Mateus 1:16)."
+      },
+      {
+        "question": "Qual discípulo amado de Jesus escreveu o Evangelho que leva o seu nome?",
+        "options": [
+          "Pedra",
+          "Jeans",
+          "Mateus",
+          "Lucas"
+        ],
+        "correct": 1,
+        "explanation": "O Apóstolo João, o discípulo amado, escreveu o Evangelho de João."
+      },
+      {
+        "question": "Quem era a sogra de Ruth?",
+        "options": [
+          "Orpa",
+          "Débora",
+          "Noemi",
+          "Ana"
+        ],
+        "correct": 2,
+        "explanation": "Noemi era a sogra de Rute (Rute 1)."
+      },
+      {
+        "question": "Qual profeta anunciou a vinda de João Batista?",
+        "options": [
+          "Jeremias",
+          "Ezequiel",
+          "Isaías",
+          "Miquéias"
+        ],
+        "correct": 2,
+        "explanation": "Isaías profetizou: “Uma voz clama no deserto: Preparai o caminho do Senhor” (Isaías 40:3)."
+      },
+      {
+        "question": "Quem foi o primeiro rei de Israel?",
+        "options": [
+          "Davi",
+          "Saulo",
+          "Samuel",
+          "Josué"
+        ],
+        "correct": 1,
+        "explanation": "Saul foi o primeiro rei de Israel, ungido por Samuel (1 Samuel 10:1)."
+      },
+      {
+        "question": "Qual criança foi resgatada das águas do Nilo em uma cesta?",
+        "options": [
+          "Aarão",
+          "Josué",
+          "Moisés",
+          "Samuel"
+        ],
+        "correct": 2,
+        "explanation": "Moisés foi escondido num cesto de vime no Nilo para escapar ao decreto do Faraó (Êxodo 2:3)."
+      },
+      {
+        "question": "Quem disse a frase 'Eu e minha casa serviremos ao Senhor'?",
+        "options": [
+          "Moisés",
+          "Josué",
+          "Davi",
+          "Elias"
+        ],
+        "correct": 1,
+        "explanation": "Josué declarou: 'Eu e a minha casa serviremos ao Senhor' (Josué 24:15)."
+      },
+      {
+        "question": "Qual personagem do NT ressuscitou Dorcas (Tabitha) em Jaffa?",
+        "options": [
+          "Paulo",
+          "Barnabé",
+          "Pedra",
+          "Jeans"
+        ],
+        "correct": 2,
+        "explanation": "Pedro ressuscitou Dorcas em Jafa (Atos 9:40)."
+      },
+      {
+        "question": "Qual filho de Jacó foi vendido por seus irmãos?",
+        "options": [
+          "Ruben",
+          "Judá",
+          "Benjamin",
+          "José"
+        ],
+        "correct": 3,
+        "explanation": "José foi vendido por seus irmãos a mercadores ismaelitas (Gênesis 37:28)."
+      },
+      {
+        "question": "Quem foi o pai de João Batista?",
+        "options": [
+          "Zebedeu",
+          "Zacarias",
+          "Alfa",
+          "Clopas"
+        ],
+        "correct": 1,
+        "explanation": "João Batista era filho do sacerdote Zacarias e Isabel (Lucas 1:5-13)."
+      },
+      {
+        "question": "Quem foi Nicodemos no Novo Testamento?",
+        "options": [
+          "Um centurião romano",
+          "Um líder fariseu",
+          "Um escriba",
+          "Um samaritano"
+        ],
+        "correct": 1,
+        "explanation": "Nicodemos era um líder fariseu que veio a Jesus à noite (João 3:1-2)."
+      },
+      {
+        "question": "Qual era a verdadeira função de Zaqueu antes de sua conversão?",
+        "options": [
+          "Pescador",
+          "Chefe coletor de impostos",
+          "Pastor",
+          "Comerciante Roxo"
+        ],
+        "correct": 1,
+        "explanation": "Zaqueu era o principal cobrador de impostos em Jericó e era rico (Lucas 19:2)."
+      },
+      {
+        "question": "Qual mulher ungiu os pés de Jesus com perfume na casa de Simão, o fariseu?",
+        "options": [
+          "Maria de Betânia",
+          "Maria Madalena",
+          "Marta",
+          "Uma mulher pecadora (Lucas 7)"
+        ],
+        "correct": 3,
+        "explanation": "Lucas 7 relata que uma mulher pecadora (não identificada) lavou os pés de Jesus com suas lágrimas e os ungiu com perfume na casa de Simão, o fariseu."
+      },
+      {
+        "question": "Quem era Ana no Novo Testamento?",
+        "options": [
+          "A mãe de Samuel",
+          "Uma profetisa que reconheceu Jesus quando criança no Templo",
+          "A esposa de Pedro",
+          "A mãe de João Batista"
+        ],
+        "correct": 1,
+        "explanation": "Ana era uma profetisa idosa que reconheceu o menino Jesus como o Messias no Templo e deu graças a Deus (Lucas 2:36-38)."
+      },
+      {
+        "question": "Qual apóstolo era irmão de Pedro?",
+        "options": [
+          "Jeans",
+          "Jacques",
+          "André",
+          "Filipe"
+        ],
+        "correct": 2,
+        "explanation": "André era irmão de Pierre (Simon). Ambos eram pescadores no Lago da Galiléia (Mateus 4:18)."
+      },
+      {
+        "question": "Qual mulher no livro dos Juízes matou o general inimigo Sísera com uma estaca?",
+        "options": [
+          "Débora",
+          "Míriam",
+          "Yael",
+          "Abigail"
+        ],
+        "correct": 2,
+        "explanation": "Jael, esposa de Héber, o queneu, matou o general Sísera cravando uma estaca em seu templo enquanto ele dormia (Juízes 4:21)."
+      },
+      {
+        "question": "Quem foi Simeão no Evangelho de Lucas?",
+        "options": [
+          "Um apóstolo de Jesus",
+          "Um velho justo que esperou pela consolação de Israel e abençoou o menino Jesus no Templo",
+          "O pai de João Batista",
+          "Um sacerdote do Templo"
+        ],
+        "correct": 1,
+        "explanation": "Simeão era um homem justo e piedoso, guiado pelo Espírito no Templo, que reconheceu o menino Jesus como “a luz para iluminar as nações” (Lucas 2:25-32)."
+      },
+      {
+        "question": "Quem era Barnabé no livro de Atos?",
+        "options": [
+          "Secretária de Paulo",
+          "Levita de Chipre, companheiro de Paulo nas suas missões",
+          "Um líder da Igreja de Roma",
+          "Um dos 12 apóstolos originais"
+        ],
+        "correct": 1,
+        "explanation": "Barnabé (José de Chipre) foi um levita generoso, o primeiro defensor de Paulo em Jerusalém e seu companheiro na primeira viagem missionária (Atos 4:36; 9:27; 13:2)."
+      },
+      {
+        "question": "Qual personagem do NT ficou cego no caminho para Damasco?",
+        "options": [
+          "Étienne",
+          "Ananias",
+          "Saulo (Paulo)",
+          "Silas"
+        ],
+        "correct": 2,
+        "explanation": "Saulo (futuro Paulo) ficou cego por uma luz vinda do céu no caminho para Damasco durante seu encontro com o Ressuscitado (Atos 9:3-9)."
+      },
+      {
+        "question": "Quem era Lídia nos Atos dos Apóstolos?",
+        "options": [
+          "Uma profetisa de Jerusalém",
+          "Um comerciante roxo convertido em Filipos, o primeiro cristão na Europa",
+          "A esposa de um governador romano",
+          "Um ex-escravo libertado por Paulo"
+        ],
+        "correct": 1,
+        "explanation": "Lídia, uma comerciante roxa de Tiatira, é considerada a primeira convertida na Europa — batizada com sua família depois de ouvir Paulo em Filipos (Atos 16:14-15)."
+      },
+      {
+        "question": "Qual personagem do AT é referido como 'ele andou com Deus, e então não existia mais, porque Deus o levou'?",
+        "options": [
+          "Noé",
+          "Abraão",
+          "Enoch",
+          "Elias"
+        ],
+        "correct": 2,
+        "explanation": "Enoque 'andou com Deus e não existiu mais, porque Deus o levou' - levado embora sem morrer (Gênesis 5:24)."
+      },
+      {
+        "question": "Qual era a relação entre Eliseu e Elias?",
+        "options": [
+          "Pai e filho",
+          "Mestre e discípulo/sucessor",
+          "Irmãos",
+          "Amigos políticos"
+        ],
+        "correct": 1,
+        "explanation": "Elias era o mestre e Eliseu seu discípulo. Quando Elias foi levado, Eliseu recebeu uma porção dobrada do seu espírito e tornou-se seu sucessor profético (2 Reis 2:9-15)."
+      },
+      {
+        "question": "Quem foi Gamaliel no Novo Testamento?",
+        "options": [
+          "Um sumo sacerdote",
+          "Eminente doutor da Lei, mestre de Paulo, que defendeu os apóstolos no Sinédrio",
+          "Um juiz romano",
+          "Um companheiro de viagem de Paulo"
+        ],
+        "correct": 1,
+        "explanation": "Gamaliel foi um proeminente médico farisaico do Sinédrio que aconselhou cautela ao lidar com os apóstolos (Atos 5:34-39). Paulo se autodenomina seu ex-aluno (Atos 22:3)."
+      },
+      {
+        "question": "Qual personagem do NT, cego de nascença, foi curado por Jesus e se tornou uma testemunha corajosa?",
+        "options": [
+          "Bartimeu",
+          "O homem que nasceu cego em João 9",
+          "O homem de Jericó",
+          "Lázaro"
+        ],
+        "correct": 1,
+        "explanation": "João 9 descreve a cura do cego de nascença — um sinal de Cristo, “luz do mundo”. Apesar da pressão dos fariseus, ele corajosamente confessa que Jesus veio de Deus."
+      },
+      {
+        "question": "Quem era Febe (Febe) ​​no NT?",
+        "options": [
+          "A filha de Filipe, o Evangelista",
+          "Uma diaconisa da Igreja de Cencréia, recomendada por Paulo em Romanos 16",
+          "A esposa de Áquila",
+          "A mãe de Timóteo"
+        ],
+        "correct": 1,
+        "explanation": "Febe é apresentada por Paulo em Romanos 16:1-2 como 'diakonos' (diaconisa/serva) da Igreja de Cencréia e 'prostatis' (benfeitora/padroeira) de muitos - provavelmente a mensageira que leva a epístola aos romanos."
+      },
+      {
+        "question": "Quem era Timóteo nas epístolas de Paulo?",
+        "options": [
+          "Um governador romano cristão",
+          "Filho espiritual de Paulo, seu representante de confiança e coautor de diversas epístolas",
+          "Um companheiro de Pierre",
+          "Um dos 12 apóstolos"
+        ],
+        "correct": 1,
+        "explanation": "Timóteo era o jovem colaborador de Paulo, a quem ele chama de “meu filho amado e fiel no Senhor” (1 Coríntios 4:17). Filho de mãe judia crente (Eunice) e pai grego (2 Timóteo 1:5)."
+      },
+      {
+        "question": "Qual personagem do AT foi chamado de 'Quedorlaomer' derrotado por Abraão?",
+        "options": [
+          "Um rei cananeu",
+          "Um rei de Elão que capturou Ló",
+          "Um rei filisteu",
+          "Um rei da Babilônia"
+        ],
+        "correct": 1,
+        "explanation": "Quedorlaomer, rei de Elam, capturou Ló durante a guerra dos reis. Abraão, com 318 servos, derrotou-o e libertou Ló (Gênesis 14:1-16)."
+      },
+      {
+        "question": "Quem foi Priscila (Prisca) no Novo Testamento?",
+        "options": [
+          "Uma profetisa da Igreja de Jerusalém",
+          "A esposa de Áquila, colaboradora de Paulo e instrutora de Apolo",
+          "irmã de Paulo",
+          "A esposa de um presbítero da Igreja de Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Priscila e seu marido Áquila eram fazedores de tendas e cooperadores de Paulo (Atos 18:2-3). Juntos, eles ensinaram o eloqüente Apolo (Atos 18:26). Priscilla é frequentemente mencionada primeiro – um sinal de seu papel proeminente."
+      },
+      {
+        "question": "Qual personagem do NT foi levado ao terceiro céu em uma visão de acordo com 2 Coríntios 12?",
+        "options": [
+          "Pedra",
+          "Jeans",
+          "Paulo",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Paulo relata em 2 Coríntios 12:2-4 que foi arrebatado ao terceiro céu e ouviu palavras inefáveis ​​– uma experiência mística única que também lhe deu “um espinho na carne”."
+      },
+      {
+        "question": "Quem foi Jônatas no Primeiro Livro de Samuel?",
+        "options": [
+          "filho de Davi",
+          "Filho de Saul e amigo leal de Davi",
+          "Um general do exército",
+          "Um sacerdote de Deus"
+        ],
+        "correct": 1,
+        "explanation": "Jônatas, filho do rei Saul, era o melhor amigo de Davi. O amor deles é descrito como “superando o amor das mulheres” (2 Samuel 1:26). Jônatas protegeu Davi do ciúme assassino de seu pai."
+      },
+      {
+        "question": "Qual personagem do livro de Rute é o 'parente próximo redentor' (go'el) que se casa com Rute?",
+        "options": [
+          "Elimeleque",
+          "Mahlon",
+          "Boaz",
+          "Marido de Orpa"
+        ],
+        "correct": 2,
+        "explanation": "Boaz é o 'go'el' (גֹּאֵל, redentor/defensor da família) que, por generosidade e fidelidade ao costume do levirato, casa-se com Rute para perpetuar o nome de seu falecido marido e proteger Noemi (Rute 4:9-10)."
+      },
+      {
+        "question": "Quem era Abigail no Antigo Testamento?",
+        "options": [
+          "A esposa de Davi",
+          "A sábia esposa de Nabal que impediu Davi de derramar sangue",
+          "A Rainha de Salomão",
+          "Uma profetisa de Israel"
+        ],
+        "correct": 1,
+        "explanation": "Abigail, uma mulher inteligente casada com o brutal Nabal, acalmou sabiamente a ira de Davi. Após a morte de Nabal, Davi casou-se com ela (1 Samuel 25)."
+      },
+      {
+        "question": "Qual personagem é chamado de 'amigo de Deus' (Khalil Allah) na tradição bíblica?",
+        "options": [
+          "Noé",
+          "Abraão",
+          "Isaque",
+          "Davi"
+        ],
+        "correct": 1,
+        "explanation": "Abraão é chamado de 'amigo de Deus' em Isaías 41:8, Tiago 2:23 e na tradição islâmica (Khalil Allah). Ele é o modelo de fé em Deus."
+      },
+      {
+        "question": "Quem foi Áquila nos Atos dos Apóstolos?",
+        "options": [
+          "Um líder das sinagogas de Corinto",
+          "Judeu do Ponto, fabricante de tendas, marido de Priscila e companheiro de Paulo",
+          "Um discípulo de João Batista",
+          "Um ancião da Igreja de Antioquia"
+        ],
+        "correct": 1,
+        "explanation": "Áquilas era um judeu do Ponto (região de Türkiye), expulso de Roma com sua esposa Priscila pelo édito de Cláudio. Paulo os conheceu em Corinto e trabalhou com eles como fabricante de tendas (Atos 18:1-3)."
+      },
+      {
+        "question": "Qual personagem do livro de Daniel teve uma visão dos quatro animais e do Filho do Homem?",
+        "options": [
+          "Ezequiel",
+          "Danilo",
+          "Zacarias",
+          "Nabucodonosor"
+        ],
+        "correct": 1,
+        "explanation": "O próprio Daniel teve uma visão das quatro grandes bestas simbolizando quatro reinos e o “Filho do Homem” recebendo o governo eterno do Ancião de Dias (Daniel 7)."
+      },
+      {
+        "question": "Quem foi Estêvão nos Atos dos Apóstolos?",
+        "options": [
+          "Um dos 12 apóstolos",
+          "Um dos 7 diáconos, homem cheio de fé e do Espírito, primeiro mártir cristão",
+          "Um escriba de Paulo",
+          "Um companheiro de Barnabé"
+        ],
+        "correct": 1,
+        "explanation": "Estêvão foi um dos 7 diáconos eleitos em Jerusalém (Atos 6:5). Homem «cheio de fé e do Espírito Santo», foi apedrejado até à morte depois de um discurso magistral perante o Sinédrio — o primeiro mártir da Igreja (Act 7,59)."
+      },
+      {
+        "question": "Qual rei de Israel foi julgado por não esperar por Samuel antes de oferecer o sacrifício?",
+        "options": [
+          "Davi",
+          "Saulo",
+          "Salomão",
+          "Jeroboão"
+        ],
+        "correct": 1,
+        "explanation": "O próprio Saul ofereceu o sacrifício sem esperar por Samuel, o que lhe valeu a rejeição de Deus: 'Não guardaste o que o Senhor teu Deus te ordenou' (1 Samuel 13:13-14)."
+      },
+      {
+        "question": "Qual personagem do NT proclamou: ‘Eis o Cordeiro de Deus, que tira o pecado do mundo’?",
+        "options": [
+          "O próprio Jesus",
+          "Pedra",
+          "João Batista",
+          "João Apóstolo"
+        ],
+        "correct": 2,
+        "explanation": "João Batista apontou para Jesus dizendo: “Eis o Cordeiro de Deus, que tira o pecado do mundo” (João 1:29) — uma das declarações cristológicas mais importantes do NT."
+      },
+      {
+        "question": "Quem foi Herodias na história da morte de João Batista?",
+        "options": [
+          "Filha do rei Herodes",
+          "A esposa adúltera de Herodes Antipas que exigiu a cabeça de João Batista",
+          "A governanta do palácio",
+          "A Profetisa do Templo"
+        ],
+        "correct": 1,
+        "explanation": "Herodias era a esposa ilegítima de Herodes Antipas (casou-se em violação da lei judaica, tendo João Batista o denunciado). Ela manipulou sua filha Salomé para exigir a decapitação de João (Marcos 6:17-28)."
+      },
+      {
+        "question": "Qual personagem do AT está associado à construção da Torre de Babel de acordo com a tradição judaica?",
+        "options": [
+          "Caim",
+          "Nimrod",
+          "Labão",
+          "Terá"
+        ],
+        "correct": 1,
+        "explanation": "Segundo a tradição judaica, Nimrod, “poderoso caçador diante do Senhor”, está associado à construção da Torre de Babel (Gênesis 10:8-10)."
+      },
+      {
+        "question": "Qual discípulo de Jesus apoiou financeiramente o seu ministério e foi cobrador de impostos em Cafarnaum?",
+        "options": [
+          "Jeans",
+          "Levi (Mateus)",
+          "Zaqueu",
+          "Simão, o Zelote"
+        ],
+        "correct": 1,
+        "explanation": "Levi (Mateus) era cobrador de impostos em Cafarnaum. Jesus chamou-o: 'Segue-me', e Levi levantou-se e seguiu-o. Ele então deu uma grande festa para seus amigos em homenagem a Jesus (Lucas 5:27-29)."
+      },
+      {
+        "question": "Quem era Raabe no livro de Josué?",
+        "options": [
+          "Uma profetisa de Israel",
+          "Uma prostituta de Jericó que escondeu espiões e foi salva com sua família",
+          "A esposa de Josué",
+          "A Filha do Rei de Jericó"
+        ],
+        "correct": 1,
+        "explanation": "Raabe, a esposa de Jericó, escondeu os espiões de Josué e fez com que fugissem com um cordão escarlate (Josué 2). É mencionado na genealogia de Jesus (Mateus 1:5) e citado como exemplo de fé (Hebreus 11:31)."
+      },
+      {
+        "question": "Qual personagem do NT foi apelidado de ‘filho do trovão’ com seu irmão?",
+        "options": [
+          "Pedro e André",
+          "Tiago e João, filhos de Zebedeu",
+          "Filipe e Bartolomeu",
+          "Tomé e Mateus"
+        ],
+        "correct": 1,
+        "explanation": "Jesus apelidou os filhos de Zebedeu — Tiago e João — de “Boanerges”, isto é, “filhos do trovão” (Marcos 3,17), sem dúvida por causa do seu temperamento impetuoso (cf. Lucas 9,54)."
+      },
+      {
+        "question": "Quem era Tito nas epístolas de Paulo?",
+        "options": [
+          "Secretária de Pierre",
+          "Companheiro grego de Paulo, representante de confiança enviado a Creta e Corinto",
+          "Um dos 12 apóstolos",
+          "Genro de Paulo"
+        ],
+        "correct": 1,
+        "explanation": "Tito era um colaborador grego de Paulo – um sinal de abertura aos gentios (Gálatas 2:3). Paulo enviou-lhe uma carta pastoral (epístola a Tito) para organizar as Igrejas de Creta."
+      },
+      {
+        "question": "Quem foi Salomé nos Evangelhos?",
+        "options": [
+          "Filha de Herodias que dançou para Herodes",
+          "Um discípulo de Jesus presente na crucificação e no túmulo",
+          "Ambos (dois personagens diferentes)",
+          "Uma profetisa de Jerusalém"
+        ],
+        "correct": 2,
+        "explanation": "Existem duas Salomés no NT: (1) a filha de Herodias que dançou e pediu a cabeça de João (Marcos 6:22); (2) A discípula de Jesus (provavelmente a esposa de Zebedeu e mãe de Tiago e João) presente na crucificação e no túmulo vazio (Marcos 15:40; 16:1)."
+      },
+      {
+        "question": "Qual personagem do AT é descrito como “um homem segundo o coração de Deus”, apesar de seus pecados?",
+        "options": [
+          "Abraão",
+          "Moisés",
+          "Davi",
+          "Salomão"
+        ],
+        "correct": 2,
+        "explanation": "David é chamado de “um homem segundo o coração de Deus” (1 Samuel 13:14; Actos 13:22) – não porque fosse perfeito (o caso Bate-Seba mostra isso), mas por causa da sua fé, do seu arrependimento sincero e do seu amor ardente por Deus (Salmo 51)."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "Qual rei de Israel é descrito como “um homem segundo o coração de Deus”?",
+        "options": [
+          "Josué",
+          "Saulo",
+          "Davi",
+          "Salomão"
+        ],
+        "correct": 2,
+        "explanation": "Davi é descrito como “um homem segundo o coração de Deus” (1 Samuel 13:14, Atos 13:22)."
+      },
+      {
+        "question": "Qual juíza de Israel levou Baraque à vitória contra Sísera?",
+        "options": [
+          "Míriam",
+          "Débora",
+          "Ana",
+          "Abigail"
+        ],
+        "correct": 1,
+        "explanation": "Débora, profetisa e juíza, conduziu Israel à vitória (Juízes 4-5)."
+      },
+      {
+        "question": "Qual personagem interpretou a misteriosa escrita 'Mené, led, tekel, upharsin'?",
+        "options": [
+          "Esdras",
+          "Danilo",
+          "Ezequiel",
+          "Zacarias"
+        ],
+        "correct": 1,
+        "explanation": "Daniel interpretou a escrita na parede na festa de Belsazar (Daniel 5)."
+      },
+      {
+        "question": "Qual era a nacionalidade de Ruth?",
+        "options": [
+          "Amonite",
+          "Moabita",
+          "edomita",
+          "filisteu"
+        ],
+        "correct": 1,
+        "explanation": "Rute era moabita, vinda de Moabe com sua sogra Noemi (Rute 1:4)."
+      },
+      {
+        "question": "Qual personagem ressuscitou Dorcas (Tabitha) em Jaffa?",
+        "options": [
+          "Paulo",
+          "Barnabé",
+          "Pedra",
+          "Jeans"
+        ],
+        "correct": 2,
+        "explanation": "Pedro ressuscitou Dorcas em Jafa (Atos 9:40)."
+      },
+      {
+        "question": "Qual rei de Israel escreveu Provérbios e Eclesiastes?",
+        "options": [
+          "Davi",
+          "Salomão",
+          "Ezequias",
+          "Josias"
+        ],
+        "correct": 1,
+        "explanation": "Salomão é o principal autor de Provérbios e Eclesiastes."
+      },
+      {
+        "question": "Quem acompanhou Paulo na sua primeira viagem missionária?",
+        "options": [
+          "Silas",
+          "Timóteo",
+          "Barnabé",
+          "Lucas"
+        ],
+        "correct": 2,
+        "explanation": "Barnabé e João Marcos acompanharam Paulo na primeira viagem missionária (Atos 13:2)."
+      },
+      {
+        "question": "Qual profeta viveu 3 dias na barriga de um peixe?",
+        "options": [
+          "Elias",
+          "Eliseu",
+          "Jonas",
+          "Naum"
+        ],
+        "correct": 2,
+        "explanation": "Jonas passou 3 dias na barriga do grande peixe (Jonas 1:17)."
+      },
+      {
+        "question": "Qual apóstolo foi o primeiro a ser martirizado entre os Doze?",
+        "options": [
+          "Étienne",
+          "Tiago, filho de Zebedeu",
+          "Pedra",
+          "André"
+        ],
+        "correct": 1,
+        "explanation": "Tiago, filho de Zebedeu, foi o primeiro dos apóstolos a ser martirizado (Atos 12:2)."
+      },
+      {
+        "question": "Qual rainha estrangeira visitou Salomão para testar sua sabedoria?",
+        "options": [
+          "A Rainha do Egito",
+          "A Rainha de Sabá",
+          "A Rainha de Tiro",
+          "Jezabel"
+        ],
+        "correct": 1,
+        "explanation": "A Rainha de Sabá visitou Salomão para testar sua sabedoria com enigmas (1 Reis 10)."
+      },
+      {
+        "question": "Quem abençoou Abraão depois da batalha dos reis?",
+        "options": [
+          "Sem",
+          "Melquisedeque",
+          "Abimeleque",
+          "Lote"
+        ],
+        "correct": 1,
+        "explanation": "Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, abençoou Abraão (Gênesis 14:18-20)."
+      },
+      {
+        "question": "Qual mulher escondeu os espiões enviados por Josué a Jericó?",
+        "options": [
+          "Débora",
+          "Abigail",
+          "Raabe",
+          "Tamar"
+        ],
+        "correct": 2,
+        "explanation": "Raabe, uma prostituta de Jericó, escondeu os espiões de Josué (Josué 2)."
+      },
+      {
+        "question": "Quem é chamado de “pai dos crentes” na teologia bíblica?",
+        "options": [
+          "Noé",
+          "Abraão",
+          "Isaque",
+          "Jacó"
+        ],
+        "correct": 1,
+        "explanation": "Abraão é chamado de 'pai dos que crêem' em Romanos 4:11."
+      },
+      {
+        "question": "Qual juiz em Israel fez a promessa imprudente que levou à morte de sua filha?",
+        "options": [
+          "Gideão",
+          "Sansão",
+          "Jefté",
+          "Eúde"
+        ],
+        "correct": 2,
+        "explanation": "Jefté fez um voto precipitado e sua filha foi a vítima (Juízes 11:30-40)."
+      },
+      {
+        "question": "Quem foi Priscila no Novo Testamento?",
+        "options": [
+          "Uma profetisa de Jerusalém",
+          "A esposa de Aquilas, colaborador de Paulo",
+          "A filha de Filipe, o Evangelista",
+          "Irmã de Lázaro"
+        ],
+        "correct": 1,
+        "explanation": "Priscila (ou Prisca) era esposa de Áquila, artesão e colaborador de Paulo, que instruiu Apolo (Atos 18:26)."
+      },
+      {
+        "question": "Qual patriarca vendeu seu direito de primogenitura por um prato de lentilhas?",
+        "options": [
+          "Jacó",
+          "Esaú",
+          "Isaque",
+          "José"
+        ],
+        "correct": 1,
+        "explanation": "Esaú vendeu seu direito de primogenitura a seu irmão Jacó por um prato de lentilhas (Gênesis 25:33)."
+      },
+      {
+        "question": "Qual mulher cantou uma canção de vitória após cruzar o Mar Vermelho?",
+        "options": [
+          "Sara",
+          "Rute",
+          "Míriam",
+          "Débora"
+        ],
+        "correct": 2,
+        "explanation": "Miriã, irmã de Moisés, cantou um cântico de vitória com pandeiro (Êxodo 15:20-21)."
+      },
+      {
+        "question": "Qual apóstolo escreveu três epístolas e o Apocalipse de acordo com a tradição?",
+        "options": [
+          "Pedra",
+          "Paulo",
+          "Jeans",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "A tradição atribui as três epístolas (1, 2, 3 João) e o Apocalipse a João."
+      },
+      {
+        "question": "Quem foi o porta-voz de Israel que Deus escolheu em Arão para ajudar Moisés?",
+        "options": [
+          "Josué",
+          "Aarão",
+          "Calebe",
+          "Eleazar"
+        ],
+        "correct": 1,
+        "explanation": "Deus nomeou Arão, irmão de Moisés e bom orador, para ser seu porta-voz perante Faraó (Êxodo 4:14-16)."
+      },
+      {
+        "question": "Qual mulher do NT cuidava dos doentes e pobres em Jaffa, conhecida por suas obras de caridade?",
+        "options": [
+          "Lídia",
+          "Priscila",
+          "Dorcas (Tabita)",
+          "Febe"
+        ],
+        "correct": 2,
+        "explanation": "Dorcas (Tabita) era conhecida por suas obras de caridade – ela fazia roupas para viúvas (Atos 9:36). Pedro a ressuscitou."
+      },
+      {
+        "question": "Qual profeta confrontou o Rei Davi após seu pecado com Bate-Seba?",
+        "options": [
+          "Deus",
+          "Natan",
+          "Achimeer",
+          "Sadoc"
+        ],
+        "correct": 1,
+        "explanation": "Natã confrontou Davi com a parábola das ovelhas, revelando seu pecado de assassinato e adultério (2 Samuel 12:1-13)."
+      },
+      {
+        "question": "Quem foi Apolo e por que ele foi notável?",
+        "options": [
+          "Um filósofo grego convertido em Corinto",
+          "Judeu de Alexandria, eloqüente e versado nas Escrituras, ensinado por Priscila e Áquila",
+          "Um discípulo direto de Jesus",
+          "Um rival de Paulo"
+        ],
+        "correct": 1,
+        "explanation": "Apolo era um judeu alexandrino eloquente e biblicamente poderoso, inicialmente sabendo apenas do batismo de João. Priscila e Áquila o instruíram mais detalhadamente (Atos 18:24-26)."
+      },
+      {
+        "question": "Qual rei reformou Judá depois de descobrir o Livro da Lei no Templo?",
+        "options": [
+          "Ezequias",
+          "Josias",
+          "Josafá",
+          "Asa"
+        ],
+        "correct": 1,
+        "explanation": "Josias empreendeu uma reforma profunda após a descoberta do Livro da Lei (2 Reis 22-23) — renovando a aliança e destruindo altares idólatras."
+      },
+      {
+        "question": "Qual era o verdadeiro nome de Barnabé e sua tribo?",
+        "options": [
+          "José, tribo de Benjamim",
+          "Judas, tribo de Judá",
+          "José, tribo de Levi (Levita de Chipre)",
+          "Simão, tribo de Simeão"
+        ],
+        "correct": 2,
+        "explanation": "O nome de Barnabé era José e ele era um levita de Chipre. Os apóstolos deram-lhe o apelido de Barnabé (“filho da consolação”, Atos 4:36)."
+      },
+      {
+        "question": "Quais são os dois personagens do Antigo Testamento que aparecem durante a Transfiguração de Jesus?",
+        "options": [
+          "Abraão e Elias",
+          "Moisés e Elias",
+          "Moisés e Ezequiel",
+          "Elias e Eliseu"
+        ],
+        "correct": 1,
+        "explanation": "Moisés (representando a Lei) e Elias (representando os Profetas) apareceram com Jesus (Mateus 17:3)."
+      },
+      {
+        "question": "Qual mulher em Atos tinha quatro filhas que profetizavam?",
+        "options": [
+          "Priscila",
+          "Lídia",
+          "As filhas de Filipe Evangelista",
+          "Febe"
+        ],
+        "correct": 2,
+        "explanation": "Filipe, o evangelista, tinha quatro filhas virgens que profetizavam (Atos 21:9)."
+      },
+      {
+        "question": "De acordo com a genealogia de Mateus, quantas gerações existiram entre Abraão e Jesus?",
+        "options": [
+          "28 gerações",
+          "42 gerações",
+          "36 gerações",
+          "40 gerações"
+        ],
+        "correct": 1,
+        "explanation": "Mateus organiza a genealogia em 3 grupos de 14 gerações (Mateus 1:17)."
+      },
+      {
+        "question": "Qual é o nome da serva egípcia de Abraão, mãe de Ismael?",
+        "options": [
+          "Zilpa",
+          "Bilha",
+          "ágar",
+          "Ketura"
+        ],
+        "correct": 2,
+        "explanation": "Hagar era a serva egípcia de Sara, mãe de Ismael (Gênesis 16:1-16)."
+      },
+      {
+        "question": "Qual era a tribo do apóstolo Paulo?",
+        "options": [
+          "Judá",
+          "Levi",
+          "Benjamin",
+          "Efraim"
+        ],
+        "correct": 2,
+        "explanation": "Paulo era da tribo de Benjamim (Romanos 11:1; Filipenses 3:5)."
+      },
+      {
+        "question": "Qual personagem do NT, centurião romano, é descrito como um “homem piedoso e temente a Deus” e o primeiro gentio batizado?",
+        "options": [
+          "O centurião de Cafarnaum",
+          "Cornélio",
+          "O centurião da crucificação",
+          "Sérgio Paulo"
+        ],
+        "correct": 1,
+        "explanation": "Cornélio, centurião de Cesaréia, era um homem piedoso que temia a Deus. Pedro o visitou após uma visão divina e o batizou – o primeiro batismo oficial de um gentio (Atos 10)."
+      },
+      {
+        "question": "Quem era Áquila nas epístolas de Paulo?",
+        "options": [
+          "Um líder da sinagoga",
+          "Marido de Priscila, fazedor de tendas e fiel colaborador de Paulo",
+          "O governador de Corinto",
+          "O pai de Timóteo"
+        ],
+        "correct": 1,
+        "explanation": "Áquila e sua esposa Priscila são mencionados diversas vezes no NT (Atos 18:2-3; Romanos 16:3-4; 1 Coríntios 16:19) como valiosos colaboradores de Paulo — Paulo os chama de “meus colaboradores em Cristo Jesus, que arriscaram suas cabeças pela minha vida”."
+      },
+      {
+        "question": "Qual personagem do AT é descrito como “o mais humilde de todos os homens na face da terra”?",
+        "options": [
+          "Abraão",
+          "Moisés",
+          "Samuel",
+          "Davi"
+        ],
+        "correct": 1,
+        "explanation": "Números 12:3 descreve Moisés: 'Ora, Moisés era um homem muito humilde, mais humilde do que qualquer outro na face da terra.'"
+      },
+      {
+        "question": "Quem eram Eunice e Loide nas epístolas de Paulo?",
+        "options": [
+          "Duas diaconisas da Igreja de Éfeso",
+          "Mãe e avó de Timóteo, mulheres de fé sincera",
+          "Irmãs de Priscila",
+          "Duas profetisas da Igreja de Roma"
+        ],
+        "correct": 1,
+        "explanation": "2 Timóteo 1:5: Paulo elogia a fé sincera de Timóteo, que habitou primeiro em sua avó Lóide e em sua mãe Eunice - testemunhando a importância de transmitir a fé na família."
+      },
+      {
+        "question": "Qual rei de Israel sofreu ataques de ciúme contra Davi e acabou tragicamente com sua vida?",
+        "options": [
+          "Roboão",
+          "Jeroboão",
+          "Saulo",
+          "Acabe"
+        ],
+        "correct": 2,
+        "explanation": "Saul foi atormentado pelo ciúme de Davi depois que Davi matou Golias. Seus acessos de ciúme, sua tentativa de homicídio e seu recurso final à bruxa de En-dor mostram seu trágico afastamento de Deus (1 Samuel 18-31)."
+      },
+      {
+        "question": "Qual é o significado do nome 'João Batista' em seu papel profético?",
+        "options": [
+          "Aquele que batiza com água",
+          "O precursor do Messias, voz que clama no deserto, cumprindo a profecia de Elias",
+          "O primeiro cristão",
+          "Primo de Jesus"
+        ],
+        "correct": 1,
+        "explanation": "João Batista é o precursor profetizado (Isaías 40:3; Malaquias 4:5; Lucas 1:76-77). Ele prepara o caminho para o Messias através de um batismo de arrependimento e Jesus diz dele: “Entre os nascidos de mulher não apareceu nenhum maior do que João Batista” (Mateus 11:11)."
+      },
+      {
+        "question": "Quem foi Simão de Cirene na Paixão de Jesus?",
+        "options": [
+          "Um discípulo fiel",
+          "Um transeunte foi requisitado para carregar a cruz de Jesus",
+          "Um centurião romano",
+          "Um membro do Sinédrio"
+        ],
+        "correct": 1,
+        "explanation": "Simão de Cirene era um transeunte (possivelmente vindo do Norte da África para a Páscoa) que os soldados forçaram a carregar a cruz de Jesus (Mateus 27:32). Marcos menciona que ele era o pai de Alexandre e Rufo – provavelmente conhecido pela comunidade cristã."
+      },
+      {
+        "question": "Qual personagem do NT é descrito como “o discípulo amado” de Jesus?",
+        "options": [
+          "Pedra",
+          "João filho de Zebedeu",
+          "Lázaro",
+          "Tomás"
+        ],
+        "correct": 1,
+        "explanation": "João, filho de Zebedeu, é geralmente identificado como “o discípulo a quem Jesus amava” (João 13:23; 19:26; 20:2; 21:7,20) – sem que o seu nome alguma vez tenha sido mencionado no 4º Evangelho."
+      },
+      {
+        "question": "Quem foi José de Arimateia nos Evangelhos?",
+        "options": [
+          "Um apóstolo secreto",
+          "Membro rico do Sinédrio, discípulo secreto de Jesus que reivindicou seu corpo para sepultamento",
+          "Um fariseu convertido no Pentecostes",
+          "Um parente próximo de Jesus"
+        ],
+        "correct": 1,
+        "explanation": "José de Arimateia era um membro rico e respeitado do Sinédrio, um discípulo secreto de Jesus. Após a crucificação, ele ousou pedir a Pilatos o corpo de Jesus e colocou-o em seu novo túmulo (Mateus 27:57-60; João 19:38)."
+      },
+      {
+        "question": "Qual personagem do NT foi o primeiro bispo da Igreja de Jerusalém segundo a tradição?",
+        "options": [
+          "Pedra",
+          "Jeans",
+          "Tiago, irmão do Senhor",
+          "Paulo"
+        ],
+        "correct": 2,
+        "explanation": "Tiago, o irmão do Senhor (não o apóstolo filho de Zebedeu), era o líder reconhecido da Igreja em Jerusalém (Atos 15:13; Gálatas 2:9: 'Tiago, Cefas e João, contados como colunas'). Ele foi martirizado por volta de 62 DC. ANÚNCIO"
+      },
+      {
+        "question": "Que ato de generosidade Zaqueu realizou depois de conhecer Jesus?",
+        "options": [
+          "Ele deu todos os seus bens aos apóstolos",
+          "Ele prometeu dar metade de seus bens aos pobres e retribuir aqueles a quem havia ofendido 4 vezes.",
+          "Ele construiu uma sinagoga",
+          "Ele parou de cobrar impostos"
+        ],
+        "correct": 1,
+        "explanation": "Zaqueu disse a Jesus: 'Senhor, dou metade dos meus bens aos pobres; e se fiz mal a alguém, retribuirei quatro vezes mais” (Lucas 19:8). Jesus responde: 'A salvação entrou nesta casa.'"
+      },
+      {
+        "question": "Quem foi Antipas mencionado em Apocalipse 2:13 como “minha fiel testemunha”?",
+        "options": [
+          "Um dos 7 anjos do Apocalipse",
+          "Um mártir da Igreja de Pérgamo",
+          "Rei Herodes Antipas",
+          "Um presbítero da Igreja de Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Antipas é mencionado em Apocalipse 2:13 como “minha fiel testemunha, que foi morto entre vós, onde Satanás tem o seu trono” – um mártir da Igreja de Pérgamo, provavelmente sob Domiciano."
+      },
+      {
+        "question": "Qual personagem do NT é considerado o convertido mais famoso da Colina de Marte (Areópago) em Atenas?",
+        "options": [
+          "Silas",
+          "Lídia",
+          "Dionísio, o Areopagita",
+          "Áquila"
+        ],
+        "correct": 2,
+        "explanation": "Atos 17:34: 'Alguns homens juntaram-se a Paulo e acreditaram, incluindo Dionísio, o Areopagita, e uma mulher chamada Dâmaris.' Dionísio, membro do ilustre conselho do Areópago, é o convertido mais notável no discurso de Paulo em Atenas."
+      },
+      {
+        "question": "Qual personagem do AT prefigura tipologicamente Cristo como “profeta, sacerdote e rei”?",
+        "options": [
+          "Abraão",
+          "Moisés",
+          "Melquisedeque",
+          "Davi"
+        ],
+        "correct": 2,
+        "explanation": "Melquisedeque (Gênesis 14:18; Salmo 110:4) é rei de Salém E sacerdote do Deus Altíssimo – a única figura no AT que combina realeza e sacerdócio, prefigurando o triplo ofício de Cristo (profeta-sacerdote-rei) de acordo com a epístola aos Hebreus (cap. 7)."
+      },
+      {
+        "question": "Quem foi Silas (Silvain) e qual foi o seu papel com Paul?",
+        "options": [
+          "Um secretário grego",
+          "Colega missionário, cidadão romano e profeta, co-autor de 1-2 Tessalonicenses com Paulo",
+          "Apenas um discípulo de Pedro",
+          "Um iniciante na fé"
+        ],
+        "correct": 1,
+        "explanation": "Silas (Silvain) foi um profeta reconhecido da Igreja de Jerusalém (Atos 15:32), um cidadão romano como Paulo (Atos 16:37). Ele se tornou companheiro de Paulo na 2ª viagem missionária e é mencionado em 1-2 Tessalonicenses e 1 Pedro 5:12."
+      },
+      {
+        "question": "Qual foi o papel de Calebe na conquista de Canaã e por que ele é exemplar?",
+        "options": [
+          "Ele substituiu Josué após sua morte",
+          "Sozinho com Josué por ter confiado em Deus durante a exploração de Canaã, ele herdou Hebron aos 85 anos",
+          "Ele conquistou Jericó",
+          "Ele foi o primeiro sumo sacerdote em Canaã"
+        ],
+        "correct": 1,
+        "explanation": "Calebe foi um dos dois exploradores (junto com Josué) que encorajou Israel a entrar em Canaã, apesar dos gigantes. Como recompensa pela sua fé, Deus deu-lhe Hebron — que ele conquistou aos 85 anos! (Josué 14:10-14)"
+      },
+      {
+        "question": "Quem era Êutico no livro de Atos e o que aconteceu com ele?",
+        "options": [
+          "Um perseguidor convertido da Igreja",
+          "Um jovem que adormeceu durante o sermão de Paulo, caiu de uma janela e foi ressuscitado por Paulo",
+          "Um escravo libertado por Paulo",
+          "Um líder da Igreja de Trôade"
+        ],
+        "correct": 1,
+        "explanation": "Atos 20:9-12: Em Trôade, durante um sermão de Paulo que durou até meia-noite, Êutico adormeceu e caiu de uma janela do terceiro andar – morrendo com a queda. Paulo inclinou-se sobre ele e disse: 'Sua alma está nele' - ele ressuscitou para alívio de todos."
+      },
+      {
+        "question": "Qual profeta do AT anunciou: 'O espírito do Senhor está sobre mim, porque ele me ungiu para levar boas novas aos pobres' - um texto que Jesus aplicou a si mesmo?",
+        "options": [
+          "Jeremias",
+          "Miquéias",
+          "Isaías",
+          "Ezequiel"
+        ],
+        "correct": 2,
+        "explanation": "Isaías 61:1-2 diz: 'O Espírito do Senhor está sobre mim... para trazer boas novas aos pobres.' Jesus leu este texto na sinagoga de Nazaré e declarou: “Hoje se cumpriu esta Escritura aos vossos ouvidos” (Lucas 4:18-21)."
+      },
+      {
+        "question": "Qual personagem do NT foi dominado pelo Espírito e transportado de Jericó para Azot após batizar o eunuco etíope?",
+        "options": [
+          "Paulo",
+          "Barnabé",
+          "Filipe, o Evangelista",
+          "Pedra"
+        ],
+        "correct": 2,
+        "explanation": "O Evangelista Filipe batizou o eunuco etíope nas águas do deserto. Então 'o Espírito do Senhor levou Filipe; o eunuco não o viu mais e continuou feliz seu caminho. Filipe encontrou-se em Azot' (Atos 8:39-40)."
+      },
+      {
+        "question": "Qual foi o pecado de Ananias e Safira nos Atos dos Apóstolos?",
+        "options": [
+          "Eles roubaram dinheiro do tesouro da Igreja",
+          "Venderam terrenos mas ficaram com parte do preço, fingindo dar tudo – mentira ao Espírito Santo",
+          "Eles adoravam um ídolo",
+          "Eles se recusaram a ser batizados"
+        ],
+        "correct": 1,
+        "explanation": "Ananias e Safira venderam um terreno, guardaram parte em segredo e trouxeram o restante fingindo dar tudo. Pedro disse-lhes: 'Vocês não mentiram aos homens, mas a Deus'. Ambos caíram mortos (Atos 5:1-11)."
+      },
+      {
+        "question": "Quem foi Onésimo e qual é o seu lugar na epístola a Filemom?",
+        "options": [
+          "Um líder da Igreja de Colossos",
+          "Escravo fugitivo convertido por Paulo na prisão, que Paulo devolve ao seu senhor Filêmon como ‘irmão amado’",
+          "Secretária de Paulo",
+          "Um servo da Igreja de Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Onésimo era o escravo fugitivo de Filemom. Convertido por Paulo na prisão, é reenviado ao seu senhor com a carta de Paulo: “Eu o mando de volta... receba-o, não mais como escravo, mas... como irmão amado” (Filêmon 10-16) — um apelo discreto à libertação no amor cristão."
+      },
+      {
+        "question": "Qual é o significado da mudança do nome de Jacó para Israel na teologia bíblica?",
+        "options": [
+          "Uma simples mudança cultural",
+          "Uma virada existencial: de 'aquele que suplanta' (Jacó) para 'aquele que lutou com Deus' (Israel) — transformação através da luta e da graça",
+          "Um erro de tradução",
+          "Um título honorário de chefe"
+        ],
+        "correct": 1,
+        "explanation": "A luta de Jacó com Deus em Peniel (Gênesis 32) é um momento de transformação: Jacó, o 'suplantador' (aquev = calcanhar), torna-se Israel, 'aquele que luta com Deus e com os homens'. Sua claudicação depois daquela noite testemunha o encontro real. Esta mudança de nome é fundamental para o povo de Deus."
+      },
+      {
+        "question": "Quem foi Simão, o Zelote, entre os 12 apóstolos e o que sabemos sobre ele?",
+        "options": [
+          "Um fariseu rigoroso",
+          "Ex-membro do movimento nacionalista anti-romano zelote, apóstolo de Jesus",
+          "Um estudioso da Torá",
+          "Um pescador galileu"
+        ],
+        "correct": 1,
+        "explanation": "Simão, o Zelote (Mateus 10:4; Lucas 6:15) provavelmente estava associado ao movimento zelote – nacionalistas judeus preparados para a violência armada contra Roma. O fato de um fanático e um publicano (Mateus) terem sido apóstolos de Jesus ilustra a revolução de valores trazida pelo Evangelho."
+      },
+      {
+        "question": "Quem foi Hanna (Hannah) no Primeiro Livro de Samuel e qual é o seu papel teológico?",
+        "options": [
+          "A esposa do sumo sacerdote Eli",
+          "A mulher estéril que orou com lágrimas, recebeu Samuel como presente de Deus e ofereceu um cântico profético",
+          "A Profetisa do Templo",
+          "A mãe de Saulo"
+        ],
+        "correct": 1,
+        "explanation": "Ana, esposa de Elcana, era estéril e atormentada por sua rival Penina. Sua oração chorosa no Tabernáculo (1 Samuel 1:10-11) expressou total entrega a Deus. Samuel foi concedido a ela, que ela dedicou a Deus. Seu canto (1 Samuel 2,1-10) prefigura o Magnificat de Maria (Lucas 1,46-55)."
+      },
+      {
+        "question": "Qual personagem do livro de Daniel foi preservado na fornalha ardente com três companheiros?",
+        "options": [
+          "O próprio Daniel",
+          "Sadraque, Mesaque e Abednego (Hananias, Misael e Azarias)",
+          "Esdras e Neemias",
+          "Ezequiel"
+        ],
+        "correct": 1,
+        "explanation": "Sadraque, Mesaque e Abednego (seus nomes babilônicos; nomes hebraicos: Hananias, Misael, Azarias) recusaram-se a curvar-se diante da estátua de Nabucodonosor e foram jogados em uma fornalha aquecida 7 vezes mais quente que o normal - mas escaparam ilesos com 'um quarto homem' (Daniel 3)."
+      },
+      {
+        "question": "Quem foi Malco na história da Paixão de Jesus?",
+        "options": [
+          "O servo do Sumo Sacerdote cuja orelha Pedro cortou e depois foi curado por Jesus",
+          "Um soldado romano que prendeu Jesus",
+          "Um discípulo de Judas",
+          "O Guardião da Tumba"
+        ],
+        "correct": 0,
+        "explanation": "Malco era servo do Sumo Sacerdote Caifás. Pedro cortou a orelha direita durante a prisão de Jesus no Getsêmani. Jesus disse a Pedro: 'Larga a tua espada', e curou a orelha de Malco – o milagre final de cura de Jesus (Lucas 22:50-51; João 18:10)."
+      },
+      {
+        "question": "Qual personagem do AT é mencionado em Hebreus 11 como tendo “deixado o Egito sem temer a ira do rei”?",
+        "options": [
+          "Abraão",
+          "José",
+          "Moisés",
+          "Calebe"
+        ],
+        "correct": 2,
+        "explanation": "Hebreus 11:27: 'Pela fé Moisés saiu do Egito, não temendo a ira do rei, ficando como se visse Aquele que é invisível.' Moisés é apresentado na sala da fé (Hebreus 11) como um modelo de perseverança pela fé."
+      },
+      {
+        "question": "Quem foi Tibério César mencionado no Evangelho de Lucas para situar cronologicamente o ministério de João Batista?",
+        "options": [
+          "Um cônsul romano",
+          "O imperador romano reinante na época do batismo de Jesus (27/28 DC) de acordo com Lucas 3:1",
+          "Um governador da Judéia",
+          "O sucessor de Herodes, o Grande"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 3:1 situa o início do ministério de João Batista: 'No décimo quinto ano do reinado de Tibério César' - um dos poucos sincronismos históricos precisos no NT, permitindo que o batismo de Jesus seja datado por volta de 27-28 DC. ANÚNCIO"
+      },
+      {
+        "question": "Qual foi o papel de Joabe no reinado de Davi e como ele morreu?",
+        "options": [
+          "Sumo Sacerdote de Jerusalém",
+          "General-chefe do exército de Davi, que cometeu assassinato e foi executado por ordem de Salomão",
+          "Profeta real",
+          "Tesoureiro de Davi"
+        ],
+        "correct": 1,
+        "explanation": "Joabe era o poderoso general-chefe de Davi e seu sobrinho (filho de sua irmã Ceruia). Ele matou Abner traiçoeiramente (2 Samuel 3:27) e Amasa (2 Samuel 20:10) e participou do assassinato de Absalão. Em seu leito de morte, Davi pediu a Salomão que o punisse – Salomão o executou (1 Reis 2:34)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "Qual é o nome da primeira esposa de Saulo de acordo com as Escrituras?",
+        "options": [
+          "Mikal",
+          "Mérab",
+          "Ainoã",
+          "Rizpa"
+        ],
+        "correct": 2,
+        "explanation": "Ainoã de Jezreel foi a primeira esposa de Saul (1 Samuel 14:50)."
+      },
+      {
+        "question": "Quem foi Teófilo, a quem Lucas dirige os seus dois escritos?",
+        "options": [
+          "Um escravo liberto",
+          "Um oficial romano de alto escalão",
+          "Um sacerdote judeu convertido",
+          "Sua identidade é desconhecida ou simbólica"
+        ],
+        "correct": 3,
+        "explanation": "A identidade exata de Théophile permanece em debate. Poderia ser um nome simbólico (“amigo de Deus”) ou um chefe real (Lucas 1:3)."
+      },
+      {
+        "question": "Qual profeta se casou com uma mulher adúltera por obediência a Deus?",
+        "options": [
+          "Amós",
+          "Oséias",
+          "Joel",
+          "Obadias"
+        ],
+        "correct": 1,
+        "explanation": "Oséias casou-se com Gômer, uma esposa infiel, simbolizando a infidelidade de Israel a Deus (Oséias 1:2-3)."
+      },
+      {
+        "question": "Qual é a relação entre João Batista e Jesus de acordo com o Evangelho de Lucas?",
+        "options": [
+          "Irmãos",
+          "Primos",
+          "Tio-sobrinho",
+          "Sem parentesco sanguíneo"
+        ],
+        "correct": 1,
+        "explanation": "Isabel, mãe de João Batista, era “parente” de Maria (Lucas 1:36), tornando João e Jesus primos."
+      },
+      {
+        "question": "De acordo com Hebreus 11, qual patriarca foi levado sem morrer?",
+        "options": [
+          "Noé",
+          "Abraão",
+          "Enoch",
+          "Elias"
+        ],
+        "correct": 2,
+        "explanation": "Enoque foi levado por Deus sem morte (Gênesis 5:24, Hebreus 11:5)."
+      },
+      {
+        "question": "Qual personagem do AT é interpretado tipologicamente como prefigurando o “Servo Sofredor” de Isaías 53?",
+        "options": [
+          "Moisés",
+          "Josué",
+          "O Servo Sofredor (tipo de Cristo)",
+          "Ciro da Pérsia"
+        ],
+        "correct": 2,
+        "explanation": "Isaías 53 descreve o 'Servo Sofredor', interpretado cristãmente como uma profecia messiânica sobre Jesus."
+      },
+      {
+        "question": "Quem foi Apolo e qual foi seu treinamento?",
+        "options": [
+          "Discípulo de João Batista de Alexandria, eloquente nas Escrituras",
+          "Um sacerdote convertido de Jerusalém",
+          "Um filósofo grego convertido em Corinto",
+          "Secretária de Paulo"
+        ],
+        "correct": 0,
+        "explanation": "Apolo era um judeu eloquente e bíblico de Alexandria, ensinado por Priscila e Áquila (Atos 18:24-26)."
+      },
+      {
+        "question": "Qual rei de Israel está associado à reforma por ter redescoberto o Livro da Lei no Templo?",
+        "options": [
+          "Ezequias",
+          "Josias",
+          "Josafá",
+          "Asa"
+        ],
+        "correct": 1,
+        "explanation": "O rei Josias reformou profundamente Israel após a descoberta do Livro da Lei (2 Reis 22-23)."
+      },
+      {
+        "question": "Qual era o verdadeiro nome de Barnabé?",
+        "options": [
+          "José",
+          "Simeão",
+          "Judas",
+          "Matias"
+        ],
+        "correct": 0,
+        "explanation": "O nome de Barnabé era José. Os apóstolos deram-lhe o apelido de Barnabé, que significa “filho da consolação” (Atos 4:36)."
+      },
+      {
+        "question": "Quais são os dois personagens do Antigo Testamento que aparecem durante a Transfiguração?",
+        "options": [
+          "Abraão e Elias",
+          "Moisés e Elias",
+          "Moisés e Ezequiel",
+          "Elias e Eliseu"
+        ],
+        "correct": 1,
+        "explanation": "Moisés (representando a Lei) e Elias (representando os Profetas) apareceram com Jesus (Mateus 17:3)."
+      },
+      {
+        "question": "Qual foi o papel exato de Febe mencionado em Romanos 16:1?",
+        "options": [
+          "Profetisa da Igreja de Roma",
+          "Diaconisa (diakonos) da Igreja de Cencréia",
+          "Esposa de um ancião coríntio",
+          "Professor viajante"
+        ],
+        "correct": 1,
+        "explanation": "Paulo apresenta Febe como 'diakonos' da Igreja de Cencréia e 'prostatis' (serva/benfeitora) de muitos (Romanos 16:1-2)."
+      },
+      {
+        "question": "Qual é o nome aramaico de Pedro dado pelo próprio Jesus?",
+        "options": [
+          "Simão",
+          "Kêphas (Céphas)",
+          "Bar-Jona",
+          "Andreas"
+        ],
+        "correct": 1,
+        "explanation": "Jesus deu-lhe o nome aramaico 'Kêphas' (pedra), traduzido para o grego como 'Petros' (Pedro) (João 1:42)."
+      },
+      {
+        "question": "De acordo com 1 Samuel 28, o que Saul fez antes da batalha fatal de Gilboa?",
+        "options": [
+          "Ele jejuou por 40 dias",
+          "Ele consultou a bruxa de En-Dor para evocar o espírito de Samuel",
+          "Ele ofereceu um sacrifício ilegal",
+          "Ele negou publicamente a Deus"
+        ],
+        "correct": 1,
+        "explanation": "Saul, em desespero, consultou o necromante de En-Dor para animar Samuel (1 Samuel 28:7-25)."
+      },
+      {
+        "question": "Quem foi Nicodemos no contexto da Paixão segundo João 19?",
+        "options": [
+          "Um simples observador neutro",
+          "Membro do Sinédrio que, com José de Arimateia, enterrou Jesus com 30 kg de especiarias",
+          "Um discípulo de João Batista",
+          "Um mensageiro de Pilatos"
+        ],
+        "correct": 1,
+        "explanation": "João 19:39-40: Nicodemos veio com uma mistura de mirra e aloé pesando cerca de 30 kg, e com José de Arimateia enterraram Jesus de acordo com o costume judaico. Chegando à noite em João 3, ele ousou aparecer publicamente na cruz."
+      },
+      {
+        "question": "Qual é o perfil do Anticristo nas epístolas joaninas em comparação com as interpretações populares?",
+        "options": [
+          "Uma futura figura política global única",
+          "Qualquer pessoa ou espírito que negue que Jesus veio em carne e que Cristo é o Filho de Deus",
+          "O próprio Satanás",
+          "Apenas um falso profeta religioso"
+        ],
+        "correct": 1,
+        "explanation": "1 João 2:18,22 e 4:3: 'o anticristo é aquele que nega o Pai e o Filho' e 'todo espírito que não confessa Jesus é o anticristo'. João usa o termo no plural (muitos anticristos) – designando primeiro os separatistas Docet que negaram a encarnação real, antes de qualquer figura futura específica."
+      },
+      {
+        "question": "Qual é a jornada teológica de Pedro mostrando sua transformação segundo os Evangelhos e Atos?",
+        "options": [
+          "Peter é sempre forte e nunca falha",
+          "De Simão, um pescador impulsivo, ele se tornou Kephas (Pedro) pela fé, falhou quando foi negado, foi restaurado e se tornou um pilar da Igreja primitiva",
+          "Pedro tornou-se infalível depois do Pentecostes",
+          "Pedro e Paulo nunca tiveram um desentendimento"
+        ],
+        "correct": 1,
+        "explanation": "A trajetória de Pedro é uma das mais comoventes do NT: Simão, o pescador impulsivo (João 1:42), rebatizado de Kephas por Jesus; confessor (“Tu és o Cristo”, Mateus 16:16); renegado na noite do julgamento (3 negações); restaurado pelo Jesus ressuscitado (João 21:15-17); pregador corajoso no Pentecostes (Atos 2); e corrigido por Paulo em Antioquia (Gálatas 2:11-14) — uma vida de graça e crescimento."
+      },
+      {
+        "question": "Qual é o significado teológico da descendência de Paulo de 'Ismael versus Isaque' em Gálatas 4?",
+        "options": [
+          "Uma simples história de família",
+          "Uma alegoria: Ismael (nascido da carne, escravidão à Lei) vs Isaque (nascido da promessa, liberdade em Cristo)",
+          "A superioridade étnica de Isaac",
+          "A origem dos povos árabe e judeu"
+        ],
+        "correct": 1,
+        "explanation": "Paulo usa Hagar/Ismael e Sara/Isaac como alegoria (Gálatas 4:22-31): Hagar representa a Lei Mosaica/Sinai/escravidão; Sara representa a promessa/Jerusalém acima/liberdade. Os crentes são “filhos da promessa como Isaque”, livres da Lei para viver na liberdade de Cristo."
+      },
+      {
+        "question": "Quem foi Tértulo e que papel desempenhou ele no julgamento de Paulo em Cesaréia?",
+        "options": [
+          "Um advogado de Jerusalém contratado pelos sumos sacerdotes para acusar Paulo perante o governador Félix",
+          "O secretário de Paulo que escreveu suas epístolas",
+          "Um convertido da Igreja de Corinto",
+          "Um juiz romano"
+        ],
+        "correct": 0,
+        "explanation": "Atos 24:1-8: Os sumos sacerdotes foram a Cesaréia com um advogado chamado Tértulo para apresentar acusações contra Paulo perante o governador Félix. Tértulo lisonjeou Félix e depois acusou Paulo de ser um “perturbador, incitando sedições entre todos os judeus do mundo” e profanando o Templo."
+      },
+      {
+        "question": "Qual é o significado teológico da “restauração de Pedro” em João 21:15-17 e por que Jesus usa duas palavras gregas diferentes para “amor”?",
+        "options": [
+          "As duas palavras são sinônimos perfeitos sem nuances",
+          "Jesus usa ágape (amor absoluto) e Pedro responde com phileo (amor emocional) — diálogo revelando a humildade de Pedro após sua negação",
+          "Jesus usa a philia para todos; a distinção não é intencional",
+          "Pierre diz ágape às três perguntas"
+        ],
+        "correct": 1,
+        "explanation": "Em João 21:15-17, Jesus pergunta três vezes a Pedro se ele o ama – correspondendo às três negações. A distinção agapao/phileo é debatida: alguns vêem na descida de Jesus a phileo (v.17) uma graciosa condescendência em encontrar Pedro onde ele está. A tríplice restauração apaga a tríplice negação e confirma Pedro no seu papel pastoral (“apascenta as minhas ovelhas”)."
+      },
+      {
+        "question": "Qual é a relação entre Herodes, o Grande, Herodes Antipas e Herodes Agripa no contexto do NT?",
+        "options": [
+          "O mesmo personagem em momentos diferentes",
+          "Herodes, o Grande (nascimento de Jesus), seu filho Herodes Antipas (João Batista/Jesus), seu neto Agripa (Atos 12 – morte de Tiago)",
+          "Reis de diferentes dinastias sem laços familiares",
+          "Todos os governadores romanos"
+        ],
+        "correct": 1,
+        "explanation": "Dinastia herodiana: Herodes, o Grande (37-4 aC) = massacre dos Inocentes (Mateus 2). Seu filho Herodes Antipas (4 AC-39 DC) = morte de João Batista e interrogatório de Jesus (Lucas 23:7-12). Seu neto Agripa I (37-44 DC) = morte de Tiago e prisão de Pedro (Atos 12)."
+      },
+      {
+        "question": "Quem foi Epafrodito na carta aos Filipenses e por que Paulo o menciona com emoção?",
+        "options": [
+          "Um líder da Igreja de Éfeso",
+          "O enviado da Igreja de Filipos a Paulo na prisão, que quase morreu de doença enquanto o servia",
+          "Secretário de Paulo para a carta",
+          "Um falso profeta que Paulo corrige"
+        ],
+        "correct": 1,
+        "explanation": "Filipenses 2:25-30: Epafrodito foi o emissário da Igreja de Filipos que veio fornecer apoio financeiro a Paulo na prisão. Ele ficou gravemente doente — a ponto de estar “quase morto” — enquanto servia a Paulo. Paulo o homenageia como 'meu irmão, meu colega de trabalho e meu camarada de armas' e o envia de volta a Filipos com sua carta."
+      },
+      {
+        "question": "Qual é o significado da “dupla vocação” de Moisés – criado na corte do Faraó E pastor no deserto – na teologia bíblica?",
+        "options": [
+          "Um simples acidente biográfico",
+          "Treinamento providencial: conhecimento do Egito + humildade do deserto, preparando o libertador através de 80 anos de treinamento divino",
+          "Um símbolo de dupla personalidade",
+          "Prova de que Deus está errado em suas escolhas"
+        ],
+        "correct": 1,
+        "explanation": "Os primeiros 80 anos de Moisés divididos em dois: 40 anos ‘instruídos em toda a sabedoria dos egípcios’ (Atos 7:22) para conhecer a corte do Faraó + 40 anos pastoreando em Midiã pela humildade e conhecimento do deserto (Êxodo 3:1). Este duplo treinamento providencial equipou Moisés perfeitamente para conduzir Israel para fora do Egito através do deserto."
+      },
+      {
+        "question": "Qual é o papel do 'Anjo do Senhor' no Antigo Testamento e sua ligação com a cristologia?",
+        "options": [
+          "Um anjo mensageiro comum",
+          "Uma aparição pré-encarnatória do Filho de Deus (teofania de Cristo), recebendo adoração reservada somente a Deus",
+          "Arcanjo Miguel",
+          "Um título honorário para os grandes profetas"
+        ],
+        "correct": 1,
+        "explanation": "'O Anjo do Senhor' (מַלְאַךְ יְהוָה) em Gênesis 16:10-13; 22:11-12; Êxodo 3:2-6; Juízes 13:22 é identificado com o próprio YHWH, recebe adoração divina e fala na primeira pessoa divina. A teologia patrística e reformada vê isso como uma teofania pré-encarnatória do Filho – preparando a encarnação."
+      },
+      {
+        "question": "Qual é o conteúdo da 'confissão de Pedro' em Mateus 16:16 e seu significado eclesiológico?",
+        "options": [
+          "'Tu és o Messias, o Filho do Deus vivo'",
+          "'Você é um grande profeta enviado por Deus'",
+          "'Tu és o Filho do Homem predito por Daniel'",
+          "'Tu és o Senhor e Salvador do mundo'"
+        ],
+        "correct": 0,
+        "explanation": "Pedro confessa em Mateus 16:16: “Tu és o Cristo, o Filho do Deus vivo” – combinando o título messiânico judaico (Cristo/Messias) e a filiação divina única. Jesus responde que esta revelação vem “de meu Pai que está nos céus” (não da carne) e anuncia a fundação da Igreja nesta confissão. Pedro recebe as 'chaves do Reino' (v.19)."
+      },
+      {
+        "question": "Quem foi Listra em Atos e que erro grave foi cometido durante a visita de Paulo e Barnabé?",
+        "options": [
+          "Uma cidade na Galileia onde Pedro pregou",
+          "Uma cidade na Licaônia onde os moradores confundiram Paulo e Barnabé com Zeus e Hermes após um milagre de cura",
+          "Apenas a cidade natal de Timothy",
+          "Um centro de idolatria ateniense"
+        ],
+        "correct": 1,
+        "explanation": "Atos 14:8-18: Em Listra (Licônia), Paulo cura um coxo. Os habitantes gritaram em licaônico: 'Os deuses tornaram-se como homens e estão descendo até nós!' Chamaram Barnabé de “Zeus” e Paulo de “Hermes”. Paulo e Barnabé rasgaram as roupas e refutaram veementemente a idolatria — mas tiveram dificuldade em impedir a multidão de oferecer sacrifícios."
+      },
+      {
+        "question": "Qual foi a natureza do conflito entre Paulo e Barnabé em Atos 15:36-41 e qual foi o resultado?",
+        "options": [
+          "Um desacordo doutrinário sobre a circuncisão",
+          "Um desacordo pastoral sobre João Marcos (que abandonou a primeira viagem) — resultando em duas equipes missionárias",
+          "Um ciúme pessoal de Barnabé",
+          "Um conflito financeiro"
+        ],
+        "correct": 1,
+        "explanation": "Após o Concílio de Jerusalém, Paulo e Barnabé se separaram porque João Marcos, primo de Barnabé, abandonou a primeira viagem (Atos 13:13). Barnabas queria dar-lhe uma segunda chance; Paulo recusou-se firmemente a fazê-lo. Resultado: duas equipes — Paul + Silas (rumo à Síria e Cilícia) e Barnabas + Jean-Marc (rumo ao Chipre). Mais tarde, Paulo reconciliou-se com Marcos e chama-o de “proveitoso para o ministério” (2 Timóteo 4:11)."
+      },
+      {
+        "question": "Qual é o significado teológico do 'sacrifício de Isaque' (Akedah) na tradição judaica e cristã?",
+        "options": [
+          "Um simples teste de fé sem significado tipológico",
+          "A Akedah (Gênesis 22): modelo tipológico do sacrifício do único Filho de Deus — Abraão/Deus Pai, Isaque/Cristo, o carneiro/Cristo substituto",
+          "Um vestígio das religiões ANE",
+          "Uma história sem aplicação ao NT"
+        ],
+        "correct": 1,
+        "explanation": "A Akedah (עֲקֵדָה, 'amarração de Isaque') é central para a teologia do AT e do NT. Os paralelos são impressionantes: filho único amado, madeira carregada nas costas, Monte Moriá (mesma colina do Gólgota de acordo com 2 Crônicas 3:1), um carneiro 'no lugar de seu filho' (Gênesis 22:13) — tipificando o substituto de Cristo. João 3:16 (“seu único Filho”) ecoa Gênesis 22:2 (“seu único filho”)."
+      },
+      {
+        "question": "Qual é o papel de Melquisedeque na teologia hebraica e como ele prefigura o sacerdócio de Cristo?",
+        "options": [
+          "Melquisedeque é apenas um personagem histórico incidental",
+          "Melquisedeque (Gênesis 14:18-20; Salmos 110:4) prenuncia o sacerdócio eterno de Cristo: sem genealogia conhecida, sem começo ou fim mencionado – 'como o Filho de Deus, ele permanece sacerdote para sempre'",
+          "Melquisedeque era um anjo",
+          "Melquisedeque representa apenas a realeza"
+        ],
+        "correct": 1,
+        "explanation": "Hebreus 7 desenvolve a tipologia melquisedeciana: (1) Nome = 'rei da justiça'; (2) Salém = 'rei da paz'; (3) Sem pai, mãe, genealogia no texto = sem começo nem fim tipologicamente; (4) Recebeu o dízimo de Abraão, abençoado Abraão – portanto superior a Levi. Hebreus 7:17 (Salmos 110:4): 'Tu és sacerdote para sempre, segundo a ordem de Melquisedeque.'"
+      },
+      {
+        "question": "Quem foi Ágabo em Atos e qual a sua contribuição para a pneumatologia do NT?",
+        "options": [
+          "Um apóstolo da Igreja de Antioquia",
+          "Um profeta de Jerusalém que profetizou a fome e o cativeiro de Paulo — testificando da continuação da profecia na Igreja primitiva",
+          "Um líder da Igreja de Roma",
+          "Um companheiro de viagem de Paulo"
+        ],
+        "correct": 1,
+        "explanation": "Ágabo é um profeta viajante mencionado duas vezes: (1) Atos 11:28: ele profetizou uma grande fome (cumprida sob Cláudio) — permitindo que a Igreja de Antioquia enviasse socorro a Jerusalém; (2) Atos 21:10-11: Ele pegou o cinto de Paulo, amarrou-se de mãos e pés e profetizou seu cativeiro em Jerusalém. Ágabo testemunha a realidade do ministério profético na Igreja do primeiro século."
+      },
+      {
+        "question": "Qual é o significado do chamado de Deus a Ciro, rei persa, como 'seu ungido' (mashiah) em Isaías 45:1?",
+        "options": [
+          "Ciro realmente era o Messias previsto",
+          "Deus pode usar governantes não-judeus como instrumentos de sua glória e de seu plano redentor para Israel",
+          "É um erro de tradução",
+          "Isaías falou de um futuro rei de Israel"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 45:1 chama Ciro, um rei persa não-judeu, de 'seu ungido' (mashiah) – a única ocorrência deste termo aplicada a um não-israelita. Deus disse sobre Ciro: 'Eu o tomei pela sua mão direita... para subjugar as nações que estão sob ele.' Isto ilustra a soberania absoluta de Deus usando as nações para o Seu plano redentor (libertação de Israel da Babilônia em 538 AC)."
+      },
+      {
+        "question": "Qual é a contribuição única de Lucas como historiador-teólogo em seus dois escritos (Evangelho + Atos)?",
+        "options": [
+          "Lucas é o menos confiável dos evangelistas",
+          "Lucas é o único autor do NT a escrever uma obra em dois volumes mostrando a continuidade do plano divino de Jesus para a Igreja universal",
+          "Lucas se dirige apenas aos judeus",
+          "Luc simplesmente copia Marc sem originalidade"
+        ],
+        "correct": 1,
+        "explanation": "Lucas-Atos forma uma obra bipartida única no NT: o volume 1 (o Evangelho) conta o que “Jesus começou a fazer e a ensinar”; Atos conta o que Jesus continuou através do seu Espírito na Igreja. A progressão geográfica (Galiléia → Jerusalém → Samaria → fim da terra, Atos 1:8) ilustra o alcance universal do Evangelho."
+      },
+      {
+        "question": "Quem foi Erasto mencionado em Romanos 16:23 e 2 Timóteo 4:20?",
+        "options": [
+          "Um simples amigo de Paulo",
+          "O ecónomo (tesoureiro público) da cidade de Corinto e colaborador de Paulo — confirmado por uma inscrição arqueológica",
+          "Um falso profeta de Corinto",
+          "Um escravo liberto de Phebe"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 16:23: 'Erasto, o tesoureiro da cidade, saúda você.' Uma inscrição arqueológica datada do século I foi descoberta em Corinto: 'Erasto pavimentou [a praça] às suas próprias custas em gratidão por sua agilidade' - uma das confirmações arqueológicas mais precisas de um personagem do NT."
+      },
+      {
+        "question": "Qual é o papel do apóstolo João na cidade de Éfeso de acordo com a tradição patrística e como a sua presença ali é teologicamente significativa?",
+        "options": [
+          "João nunca esteve em Éfeso",
+          "João se estabeleceu em Éfeso, ali cuidou de Maria, fundou uma escola teológica e ali morreu idoso - centro da alta cristologia joanina",
+          "João só foi a Roma com Pedro",
+          "João passou toda a sua vida na Galiléia"
+        ],
+        "correct": 1,
+        "explanation": "A tradição patrística unânime (Irineu, Clemente de Alexandria, Eusébio) coloca João em Éfeso após a guerra judaico-romana (66-70 DC): ele cuidou de Maria lá (João 19:27), morreu lá em grande idade (apenas o apóstolo morreu naturalmente), formou discípulos lá (incluindo Policarpo) e escreveu o Evangelho, as epístolas e o Apocalipse lá. Éfeso tornou-se assim o berço da alta cristologia joanina."
+      },
+      {
+        "question": "Qual é o significado do termo 'Boanerges' dado por Jesus a Tiago e João e como sua trajetória ilustra a transformação pela graça?",
+        "options": [
+          "Um título honorário de liderança",
+          "'Filhos do trovão' - descrevendo seu temperamento impetuoso que foi transformado: João tornou-se o apóstolo do amor (agapè), Tiago o primeiro mártir apostólico",
+          "Um apelido carinhoso sem escopo",
+          "Um título profético sobre seu futuro ministério"
+        ],
+        "correct": 1,
+        "explanation": "Marcos 3:17: Jesus os apelidou de Boanerges (“filhos do trovão”) – provavelmente por causa de seu pedido para lançar fogo sobre os samaritanos (Lucas 9:54) ou por sua ambição exclusiva (Marcos 10:35-40). A transformação é impressionante: João, o “filho do trovão”, tornou-se o apóstolo do amor (“meus filhos, amem-se uns aos outros”, segundo Jerônimo); Tiago se tornou o primeiro apóstolo martirizado (Atos 12:2)."
+      },
+      {
+        "question": "Quem foi o Anjo Gabriel nos dois grandes anúncios de Lucas 1 e qual é o seu significado na revelação bíblica?",
+        "options": [
+          "Um anjo mensageiro comum",
+          "Um dos principais anjos (Príncipe da Presença Divina) — intérprete das visões de Daniel, arauto de João Batista e de Jesus",
+          "Um título simbólico sem ser pessoal",
+          "O Anjo do Senhor / Teofania de Cristo"
+        ],
+        "correct": 1,
+        "explanation": "Gabriel (\"Deus é a minha força\") aparece em Daniel 8:16 e 9:21 como o intérprete das visões de Daniel, depois em Lucas 1 como o arauto de João Batista (para Zacarias) e Jesus (para Maria). Sua progressão na revelação divina é notável: Daniel anuncia as 70 semanas (Daniel 9) → Gabriel anuncia sua realização a Maria (Lucas 1). Na tradição judaica intertestamentária (Livro de Enoque, Livro de Tobias), Gabriel é um dos 4/7 anjos diante do trono de Deus."
+      },
+      {
+        "question": "Qual é o significado simbólico e teológico dos “12 apóstolos” na teologia do NT?",
+        "options": [
+          "Uma figura organizacional prática",
+          "Os 12 apóstolos correspondem às 12 tribos de Israel — sinalizando que Jesus está reconstruindo Israel em torno de si, cumprido escatologicamente na Nova Jerusalém com os 12 fundamentos",
+          "12 é um número sem significado simbólico na Bíblia",
+          "Os 12 representam as 12 nações do mundo"
+        ],
+        "correct": 1,
+        "explanation": "O número 12 é altamente simbólico: os 12 apóstolos correspondem às 12 tribos de Israel (Mateus 19:28: 'julgarás as doze tribos de Israel'). Jesus reconstrói simbolicamente Israel em torno de si. Apocalipse 21:14: A Nova Jerusalém tem 12 fundamentos que levam os nomes dos 12 apóstolos – convergência da esperança de Israel e da Igreja."
+      },
+      {
+        "question": "Qual o perfil de Timóteo revelado pelas epístolas pastorais e qual a sua contribuição para o ministério apostólico?",
+        "options": [
+          "Um jovem líder autoritário e sem problemas",
+          "Um jovem líder (nascido de um casamento misto judô-grego) tímido e muitas vezes doente, treinado por Paulo, representante de confiança entre Paulo e as Igrejas",
+          "Um simples secretário de Paulo sem autoridade",
+          "Um apóstolo da mesma categoria de Paulo"
+        ],
+        "correct": 1,
+        "explanation": "Timóteo é um retrato comovente: filho de mãe judia crente (Eunice) e pai grego (não crente, Atos 16:1), provavelmente tímido (2 Timóteo 1:7: 'porque Deus não nos deu o espírito de timidez'), muitas vezes doente (1 Timóteo 5:23: 'toma um pouco de vinho para o estômago'), muitas vezes ansioso (1 Coríntios 16:10-11). Contudo, Paulo enviou-o em missão à Macedónia, a Corinto, a Tessalónica — confiando-lhe as Igrejas mais difíceis. Modelo de lealdade na fraqueza."
+      },
+      {
+        "question": "Qual é o significado do nome 'Jesus' (Yeshua) e como ele revela sua missão?",
+        "options": [
+          "'Filho de Deus' em hebraico",
+          "'O Senhor salva' (YHWH + yasha = salvar) - seu nome É sua missão de acordo com Mateus 1:21",
+          "'Ungido do Senhor' (sinônimo de Messias)",
+          "'Luz das nações' em aramaico"
+        ],
+        "correct": 1,
+        "explanation": "Yeshua (יֵשׁוּעַ) é a contração de Yehoshua ('YHWH é salvação/salva'). O anjo disse a José: 'Você lhe dará o nome de Jesus, porque ele salvará o seu povo dos seus pecados' (Mateus 1:21). Seu nome já anuncia sua missão soteriológica. 'Jesus' era um nome comum no Judaísmo do século I - mas a sua vida fez dele o Nome 'acima de todo nome' (Filipenses 2:9)."
+      },
+      {
+        "question": "Qual é o retrato de João Batista no Evangelho de João comparado com os Sinópticos?",
+        "options": [
+          "Jean oferece mais detalhes biográficos do que os sinópticos",
+          "João apresenta João Batista apenas como 'testemunha' da Luz e nunca como precursor batizador, acentuando a subordinação cristológica",
+          "Os dois retratos são idênticos",
+          "João Batista está ausente do Evangelho de João"
+        ],
+        "correct": 1,
+        "explanation": "O Evangelho de João apresenta João Batista de uma forma única: nenhum relato do batismo de Jesus (João não menciona o batismo de Jesus), mas João Batista como 'testemunha da Luz' (João 1:7-8). João diz explicitamente “Eu não sou o Cristo” (João 1:20) e “Ele deve crescer e eu devo diminuir” (João 3:30) – servindo ao único propósito joanino: conduzir a Cristo."
+      },
+      {
+        "question": "Qual é o lugar de Pôncio Pilatos na tradição dos primeiros Credos e por que é teologicamente significativo?",
+        "options": [
+          "Pilatos é mencionado erroneamente nos credos",
+          "'Sofrido sob Pôncio Pilatos' ancora a encarnação e a Paixão na história real e verificável - contra o docetismo e a mitologia",
+          "Pilatos é citado como exemplo de justiça",
+          "Ele é citado para condenar o Império Romano"
+        ],
+        "correct": 1,
+        "explanation": "O Credo dos Apóstolos e o Credo Niceno-Constantinopla incluem “sofreu sob Pôncio Pilatos” – um nome histórico preciso que ancora a morte de Cristo numa realidade histórica datada e verificável. Tertuliano observou que os registros romanos poderiam confirmar esses fatos. Contra o Docetismo: Cristo REALMENTE sofreu sob um verdadeiro governador romano – não apenas na aparência."
+      },
+      {
+        "question": "Qual é a relação entre Enoque (Gênesis 5:24) e os textos intertestamentários (Livro de Enoque) e como isso informa a citação em Judas 14?",
+        "options": [
+          "Judas cita Gênesis diretamente",
+          "Judas 14 cita o Livro de Enoque (1 Enoque 1:9) que desenvolve a tradição de Enoque como profeta – mostrando que os autores do NT poderiam citar textos não canônicos",
+          "Judas e Enoque não são parentes",
+          "Judas cita uma tradição oral independente não relacionada a 1 Enoque"
+        ],
+        "correct": 1,
+        "explanation": "Judas 14-15 cita quase literalmente 1 Enoque 1:9: 'Eis que o Senhor veio com suas santas miríades, para executar o julgamento...' O Livro de Enoque (apócrifo etíope, não canônico) foi muito influente no Judaísmo do 2º Templo e entre os primeiros cristãos. Judas cita esta tradição como uma profecia válida sem canonizar o livro inteiro – uma prática comum na antiguidade (Paulo também cita poetas gregos)."
+      },
+      {
+        "question": "Qual é o retrato completo de Maria (mãe de Jesus) através dos 4 evangelhos e Atos?",
+        "options": [
+          "Maria é onipresente em todos os evangelhos",
+          "Maria raramente está presente: anunciação (Lucas 1), Natividade (Mateus 2; Lucas 2), bodas de Caná (João 2), Cruz (João 19), Cenáculo (Atos 1) — mulher discreta de fé, 'serva do Senhor'",
+          "Maria desempenha um papel como co-redentora nos evangelhos",
+          "Maria está ausente de Atos e das Epístolas"
+        ],
+        "correct": 1,
+        "explanation": "Maria é notavelmente discreta no NT: presente na Anunciação (Lucas 1:38: 'Eu sou a serva do Senhor'), no nascimento, em Caná (João 2:3-5), às vezes com a família buscando Jesus (Mateus 12:46), na Cruz (João 19:26-27) e no Cenáculo orando com os discípulos (Atos 1:14). A epístola joanina e as epístolas de Paulo não mencionam isso. Seu Magnificat (Lucas 1:46-55) é a expressão mais completa de sua teologia."
+      }
+    ]
+  }
+}

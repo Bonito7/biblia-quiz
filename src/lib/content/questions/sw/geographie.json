@@ -1,0 +1,483 @@
+{
+  "geographie": {
+    "debutant": [
+      {
+        "question": "Musa aliwaongoza Waisraeli kwenye bahari gani walipotoka Misri?",
+        "options": [
+          "Bahari ya Mediterania",
+          "Bahari ya Chumvi",
+          "Bahari Nyekundu",
+          "Bahari ya Galilaya"
+        ],
+        "correct": 2,
+        "explanation": "Musa aligawanya Bahari ya Shamu ili kuruhusu Waisraeli kukimbia jeshi la Farao (Kutoka 14)."
+      },
+      {
+        "question": "Yesu alizaliwa katika mji gani?",
+        "options": [
+          "Nazareti",
+          "Yerusalemu",
+          "Bethlehemu",
+          "Kapernaumu"
+        ],
+        "correct": 2,
+        "explanation": "Yesu alizaliwa Bethlehemu ya Yudea, kulingana na unabii wa Mika 5: 2 (Mathayo 2: 1)."
+      },
+      {
+        "question": "Yesu alikulia katika mji gani?",
+        "options": [
+          "Bethlehemu",
+          "Yerusalemu",
+          "Nazareti",
+          "Kapernaumu"
+        ],
+        "correct": 2,
+        "explanation": "Yesu alikulia Nazareti ya Galilaya, ndiyo maana aliitwa ‘Yesu wa Nazareti’ ( Luka 2:51 )."
+      },
+      {
+        "question": "Musa alipokea Amri Kumi juu ya mlima gani?",
+        "options": [
+          "Mlima Karmeli",
+          "Mlima Hermoni",
+          "Mlima Sinai",
+          "Mlima wa Mizeituni"
+        ],
+        "correct": 2,
+        "explanation": "Musa alipokea Amri Kumi kutoka kwa Mungu kwenye Mlima Sinai (Kutoka 20)."
+      },
+      {
+        "question": "Yohana Mbatizaji alitumia mto gani kubatiza?",
+        "options": [
+          "Mto Nile",
+          "Mto Frati",
+          "Tiger",
+          "Yordani"
+        ],
+        "correct": 3,
+        "explanation": "Yohana Mbatizaji alibatiza katika Yordani, na hapo ndipo Yesu alibatizwa (Mathayo 3:13)."
+      },
+      {
+        "question": "Yesu alikamatwa katika bustani gani?",
+        "options": [
+          "Bustani ya Edeni",
+          "Rose Garden",
+          "Bustani ya Gethsemane",
+          "Bustani ya Joseph"
+        ],
+        "correct": 2,
+        "explanation": "Yesu aliomba na alikamatwa katika bustani ya Gethsemane, chini ya Mlima wa Mizeituni (Mathayo 26:36)."
+      },
+      {
+        "question": "Je, Ibrahimu alipokea mwito wa Mungu kwenda nchi gani?",
+        "options": [
+          "Kanaani",
+          "Mesopotamia (Uru ya Wakaldayo)",
+          "Misri",
+          "Uarabuni"
+        ],
+        "correct": 1,
+        "explanation": "Ibrahimu (Abramu) alipokea mwito wa Mungu kwenda Uru kutoka kwa Wakaldayo huko Mesopotamia (Mwanzo 11:31; Matendo 7:2-4)."
+      },
+      {
+        "question": "Waisraeli waliondoka katika nchi gani wakati wa kutoka?",
+        "options": [
+          "Babeli",
+          "Ashuru",
+          "Misri",
+          "Kanaani"
+        ],
+        "correct": 2,
+        "explanation": "Kutoka ni kutoka kwa watu wa Kiebrania kutoka Misri chini ya uongozi wa Musa (Kutoka 12-15)."
+      },
+      {
+        "question": "Ni juu ya mlima gani safina ya Nuhu ilikaa baada ya gharika?",
+        "options": [
+          "Mlima Sinai",
+          "Mlima Ararati",
+          "Mlima Karmeli",
+          "Mlima Hermoni"
+        ],
+        "correct": 1,
+        "explanation": "Safina ya Nuhu ilitua juu ya Milima ya Ararati (Mwanzo 8:4)."
+      },
+      {
+        "question": "Paulo aliongoka akiwa njiani katika jiji gani?",
+        "options": [
+          "Yerusalemu",
+          "Antiokia",
+          "Damasko",
+          "Korintho"
+        ],
+        "correct": 2,
+        "explanation": "Paulo (Sauli) alipata maono yake ya Kristo aliyefufuka akiwa njiani kuelekea Damasko (Matendo 9:3)."
+      },
+      {
+        "question": "Yohana aliandika Apocalypse kwenye kisiwa gani?",
+        "options": [
+          "Kupro",
+          "Malta",
+          "Patmo",
+          "Krete"
+        ],
+        "correct": 2,
+        "explanation": "Yohana alipokea maono ya Ufunuo akiwa uhamishoni kwenye kisiwa cha Patmo (Ufunuo 1:9)."
+      },
+      {
+        "question": "Ni bahari gani Paulo alivunjikiwa na meli?",
+        "options": [
+          "Bahari Nyekundu",
+          "Bahari Nyeusi",
+          "Bahari ya Mediterania",
+          "Bahari ya Chumvi"
+        ],
+        "correct": 2,
+        "explanation": "Paulo alivunjikiwa na meli karibu na kisiwa cha Malta katika Bahari ya Mediterania (Matendo 27-28)."
+      },
+      {
+        "question": "Sulemani alijenga Hekalu katika mji gani?",
+        "options": [
+          "Bethlehemu",
+          "Hebron",
+          "Yerusalemu",
+          "Samaria"
+        ],
+        "correct": 2,
+        "explanation": "Sulemani alijenga Hekalu la kwanza kwenye Mlima Moria huko Yerusalemu (1 Wafalme 6)."
+      },
+      {
+        "question": "Ni wapi ambapo Abrahamu alikuwa tayari kumtoa Isaka?",
+        "options": [
+          "Mlima Sinai",
+          "Mlima Moria",
+          "Mlima Karmeli",
+          "Mlima Horebu"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alikuwa amemwomba Ibrahimu aende katika nchi ya Moria kumtoa Isaka (Mwanzo 22:2)."
+      },
+      {
+        "question": "Bahari kuu ya ndani ya Galilaya ni nini?",
+        "options": [
+          "Ziwa Tiberia (Bahari ya Galilaya)",
+          "Bahari ya Chumvi",
+          "Ziwa la Houleh",
+          "Bahari Nyekundu"
+        ],
+        "correct": 0,
+        "explanation": "Ziwa la Tiberia, ambalo pia linaitwa Bahari ya Galilaya au Ziwa la Genesareti, lilikuwa kitovu cha huduma ya Yesu huko Galilaya."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "Jiji la kale la Yerusalemu liliitwaje kabla ya kutekwa na Daudi?",
+        "options": [
+          "Hebron",
+          "Jebusi",
+          "Salem",
+          "Betheli"
+        ],
+        "correct": 1,
+        "explanation": "Yerusalemu iliitwa Yebusi, iliyokaliwa na Wayebusi, kabla ya kutekwa na Daudi (2 Samweli 5:6-9)."
+      },
+      {
+        "question": "Mesopotamia ilikuwa kati ya mito gani miwili?",
+        "options": [
+          "Mto Nile na Yordani",
+          "Tigri na Frati",
+          "Mto Frati na Yordani",
+          "Mto Nile na Frati"
+        ],
+        "correct": 1,
+        "explanation": "Mesopotamia (kutoka kwa Kigiriki: 'ardhi kati ya mito') iko kati ya Tigri na Eufrate, katika eneo ambalo sasa ni Iraki."
+      },
+      {
+        "question": "Katika mji gani Paulo alipata Kanisa baada ya kukaa kwa miezi 18?",
+        "options": [
+          "Efeso",
+          "Filipi",
+          "Korintho",
+          "Thesaloniki"
+        ],
+        "correct": 2,
+        "explanation": "Paulo alikaa miezi 18 huko Korintho wakati wa safari yake ya 2 ya umishonari kutafuta Kanisa huko (Matendo 18:11)."
+      },
+      {
+        "question": "Mji mkuu wa Ufalme wa Kaskazini (Israeli) ulikuwa nini?",
+        "options": [
+          "Yerusalemu",
+          "Silo",
+          "Samaria",
+          "Betheli"
+        ],
+        "correct": 2,
+        "explanation": "Samaria ilijengwa na Mfalme Omri kama mji mkuu wa Ufalme wa Kaskazini (1 Wafalme 16:24)."
+      },
+      {
+        "question": "Bahari ya Chumvi ina kina kirefu kiasi gani ikilinganishwa na usawa wa bahari?",
+        "options": [
+          "200 m chini",
+          "430 m chini",
+          "100 m chini",
+          "600 m chini"
+        ],
+        "correct": 1,
+        "explanation": "Bahari ya Chumvi ndio sehemu ya chini kabisa ya uso wa dunia, takriban 430 m chini ya usawa wa bahari."
+      },
+      {
+        "question": "Ni nchi gani ya sasa inalingana hasa na Kanaani ya kale?",
+        "options": [
+          "Syria na Lebanon pekee",
+          "Israel, Palestina, sehemu ya Lebanon na Jordan",
+          "Israel ya sasa pekee",
+          "Misri na Sinai"
+        ],
+        "correct": 1,
+        "explanation": "Kanaani ilifunika Israeli ya kisasa, maeneo ya Palestina, sehemu ya Lebanon na Yordani."
+      },
+      {
+        "question": "Ni kwenye mlima gani Eliya alikabiliana na manabii wa Baali?",
+        "options": [
+          "Mlima Sinai",
+          "Mlima Hermoni",
+          "Mlima Karmeli",
+          "Mlima Tabori"
+        ],
+        "correct": 2,
+        "explanation": "Eliya aliwapa changamoto manabii 450 wa Baali chini ya Mlima Karmeli, unaoelekea Mediterania (1 Wafalme 18)."
+      },
+      {
+        "question": "Ni katika jiji gani Paulo alifungwa kwa miaka 2 kabla ya kwenda Rumi?",
+        "options": [
+          "Yerusalemu",
+          "Kaisaria Maritime",
+          "Antiokia",
+          "Efeso"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alifungwa kwa miaka 2 huko Kaisaria Maritime mbele ya Gavana Felix, kisha Festo (Matendo 24:27)."
+      },
+      {
+        "question": "Ni mji gani wa kibiblia ulijulikana kwa ukahaba wake mtakatifu na biashara, iliyoharibiwa kulingana na Ufunuo?",
+        "options": [
+          "Efeso",
+          "Babeli",
+          "Korintho",
+          "Antiokia"
+        ],
+        "correct": 1,
+        "explanation": "Babeli ni ishara ya apocalyptic ya mji usio wa Mungu na biashara isiyo ya haki (Ufunuo 18). Kihistoria, miji kadhaa inapendekezwa (Roma, Babeli)."
+      },
+      {
+        "question": "Yesu alijaribiwa katika jangwa gani kwa siku 40?",
+        "options": [
+          "Jangwa la Negev",
+          "Jangwa la Yudea",
+          "Jangwa la Sinai",
+          "Jangwa la Arabia"
+        ],
+        "correct": 1,
+        "explanation": "Mapokeo yanaweka majaribu ya Yesu katika Jangwa la Yudea, mashariki mwa Yerusalemu na Yeriko."
+      },
+      {
+        "question": "Ni jiji gani lilikuwa bandari ya kwanza ya Paulo alipokuwa akisafiri kutoka Yerusalemu kwenda Rumi?",
+        "options": [
+          "Alexandria",
+          "Athene",
+          "Antiokia ya Siria",
+          "Seleucia"
+        ],
+        "correct": 3,
+        "explanation": "Antiokia ya Shamu (kupitia bandari yake Seleukia) ilikuwa kituo cha kimishenari ambapo Paulo alianzia katika safari zake (Matendo 13:4)."
+      },
+      {
+        "question": "Jiji la Tarso, nchi ya nyumbani ya Paulo, lilikuwa katika eneo gani la kijiografia?",
+        "options": [
+          "Ugiriki",
+          "Kilikia (Türkiye ya sasa)",
+          "Syria",
+          "Makedonia"
+        ],
+        "correct": 1,
+        "explanation": "Tarso iko Kilikia, eneo ambalo sasa ni kusini mwa Türkiye. Kwa kiburi Paulo alijiita ‘mwenyeji wa Tarso’ ( Matendo 21:39 )."
+      },
+      {
+        "question": "Jina halisi la Kiebrania la Nchi ya Ahadi ni nini?",
+        "options": [
+          "Nchi ya Kanaani",
+          "Ardhi ya Asali na Maziwa",
+          "Eretz Israel",
+          "Nchi Takatifu"
+        ],
+        "correct": 0,
+        "explanation": "Nchi ya Ahadi inajulikana kama 'Nchi ya Kanaani' (Eretz Kena'an) katika Agano la Kale, baada ya jina la mkaaji wake wa awali."
+      },
+      {
+        "question": "Je, misafara ilivuka Kanaani kwa njia gani katika Agano la Kale?",
+        "options": [
+          "Kupitia Maris (Njia ya Bahari) kando ya pwani",
+          "Njia ya Wahenga milimani",
+          "Barabara ya kifalme mashariki mwa Yordani",
+          "Barabara hizi zote zilitumika"
+        ],
+        "correct": 3,
+        "explanation": "Njia kuu tatu: (1) Kupitia Maris pwani; (2) Njia ya Wahenga (milima); (3) Barabara ya kifalme mashariki mwa Yordani - zote zimetajwa katika Agano la Kale."
+      },
+      {
+        "question": "Makanisa 7 yalipokea Apocalypse wapi?",
+        "options": [
+          "Katika Palestina",
+          "Katika Asia Ndogo (Türkiye ya sasa)",
+          "Katika Ugiriki",
+          "Nchini Misri"
+        ],
+        "correct": 1,
+        "explanation": "Makanisa 7 (Efeso, Smirna, Pergamo, Thiatira, Sardi, Filadelfia, Laodikia) yote yalikuwa Asia Ndogo (Ufunuo 1:11)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "Je, ni nini umuhimu wa kijiografia wa dhana ya 'Nchi ya Ahadi' katika theolojia ya Agano?",
+        "options": [
+          "Eneo rahisi la kisiasa",
+          "Alama ya urithi wa kimungu, mahali pa uwepo wa Mungu na kielelezo cha pumziko la eskatologia.",
+          "Mchango wa kijiografia bila umuhimu wa ishara",
+          "Eneo lililotekwa na jeshi pekee"
+        ],
+        "correct": 1,
+        "explanation": "Dunia (eretz) iko katika theolojia ya Biblia: mahali pa Uwepo wa Mungu, utimilifu wa ahadi kwa Ibrahimu, na utangulizi wa urithi wa eskatological (Waebrania 11:10,16)."
+      },
+      {
+        "question": "Je! ni umuhimu gani wa kitheolojia wa Yerusalemu kama 'kitovu cha ulimwengu' (Ezekieli 38:12)?",
+        "options": [
+          "Taarifa halisi ya kijiografia",
+          "Umuhimu wa Yerusalemu katika mpango wa Mungu kama mahali pa kukutania kati ya mbingu na dunia, Mungu na wanadamu",
+          "Mfano wa kisiasa tu",
+          "Dhana iliyokuzwa tu katika Agano Jipya"
+        ],
+        "correct": 1,
+        "explanation": "'katikati ya dunia' (tabbur ha-aretz) katika Ezekieli 38:12 inaelezea umuhimu wa kitheolojia na eskatolojia wa Yerusalemu katika mpango wa kiungu."
+      },
+      {
+        "question": "Je, ni ipi njia sahihi ya kijiografia ya safari ya kwanza ya umishonari ya Paulo kulingana na Matendo?",
+        "options": [
+          "Antiokia → Kupro → Perge → Antiokia ya Pisidia → Ikoniamu → Listra → Derbe → kurudi",
+          "Antiokia → Athene → Korintho → Roma",
+          "Yerusalemu → Antiokia → Efeso → Rumi",
+          "Tarso → Yerusalemu → Dameski → Antiokia"
+        ],
+        "correct": 0,
+        "explanation": "Safari ya 1 (Matendo 13-14): Antiokia → Seleukia → Kupro (Salami, Pafo) → Perge → Antiokia ya Pisidia → Ikoniamu → Listra → Derbe → kurudi."
+      },
+      {
+        "question": "Je, umuhimu wa kijiografia wa Kanaani kati ya Misri na Mesopotamia ulikuwa upi?",
+        "options": [
+          "Eneo la pekee lisilo na umuhimu wowote",
+          "Ukanda wa kimkakati kati ya falme mbili kuu, mahali pa kupita na migogoro ya mara kwa mara",
+          "Eneo la kilimo bila masuala ya kijeshi",
+          "Jangwa lisilokaliwa na watu"
+        ],
+        "correct": 1,
+        "explanation": "Kanaani ilikuwa 'daraja la nchi kavu' kati ya Misri na Mesopotamia - nafasi yake ya kimkakati inaelezea uvamizi mwingi na kutawaliwa mfululizo na madola makubwa."
+      },
+      {
+        "question": "Je, ni katika mtazamo gani wa eskatolojia Zekaria anaelezea mabadiliko ya kijiografia ya Yerusalemu (Zekaria 14)?",
+        "options": [
+          "Mabadiliko ya kiishara kabisa",
+          "Mlima wa Mizeituni utapasuliwa, Yerusalemu utainuliwa juu, na maji yaliyo hai yatatiririka mashariki na magharibi.",
+          "Uharibifu wa mwisho wa Yerusalemu",
+          "Maono ya historia ya zamani"
+        ],
+        "correct": 1,
+        "explanation": "Zekaria 14 inaelezea mabadiliko ya eskatolojia: Mlima wa Mizeituni kupasuliwa (mst.4), Yerusalemu iliyoinuliwa (mst.10), maji ya uzima yakitiririka kwenye bahari mbili (mst.8)."
+      },
+      {
+        "question": "Nini maana ya mfano ya Yordani katika theolojia ya Biblia?",
+        "options": [
+          "Mpaka rahisi wa kijiografia",
+          "Ishara ya kifungu cha mabadiliko: kutoka utumwa hadi uhuru (Kutoka), kutoka kwa kutangatanga hadi urithi (Yoshua), kutoka dhambi hadi neema (ubatizo)",
+          "Mto mtakatifu usio na maana ya mfano",
+          "Ishara ya kipekee ya kifo"
+        ],
+        "correct": 1,
+        "explanation": "Yordani huvuka nyakati kuu za kibiblia: kuvuka kwenye ardhi kavu (Yoshua 3-4), ubatizo wa Yesu, uponyaji wa Naamani - ishara ya vifungu vya kubadilisha."
+      },
+      {
+        "question": "Je, kuna uhusiano gani kati ya jiografia ya hadithi ya uumbaji (Mwanzo 2) na mito ya Edeni?",
+        "options": [
+          "Mito ya kubuni bila msingi wa kijiografia",
+          "Pishoni, Gihoni, Hidekeli (Tiger) na Phrati (Euphrates) zinapendekeza eneo huko Mesopotamia, lakini maandishi hayo yana umuhimu wa kikosmolojia.",
+          "Mito ya Kiafrika pekee",
+          "Mito inawakilisha pekee pointi 4 kuu"
+        ],
+        "correct": 1,
+        "explanation": "Mwanzo 2:10-14: Tigri na Eufrate zinatambulika. Pishoni na Gihoni zinajadiliwa. Maandishi yana wigo wa kijiografia na ulimwengu (bustani kama hekalu la ulimwengu)."
+      },
+      {
+        "question": "Kwa nini jiji la Efeso lilikuwa muhimu kimkakati kwa misheni ya Paulo?",
+        "options": [
+          "Kwa bandari yake tu",
+          "Mji mkuu wa jimbo la Asia, njia kuu za kibiashara na kidini, kitovu cha ibada ya Artemi - msingi bora wa kueneza injili Asia yote.",
+          "Ilikuwa ni mji wa nyumbani kwa Paulo",
+          "Paulo alikaa huko kwa siku chache tu"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alikaa Efeso kwa miaka 3 (Matendo 19-20). Mji wa Efeso ukiwa njia panda ya kibiashara na kidini, iliwezesha kufikia Asia Ndogo yote."
+      },
+      {
+        "question": "Je, ni nini umuhimu wa 'Barabara ya Wahenga' katika jiografia ya Mwanzo?",
+        "options": [
+          "Njia rahisi ya biashara",
+          "Mhimili wa kaskazini-kusini katika eneo la milima la Kanaani (Beer-Sheva, Hebroni, Betheli, Shekemu) ukiashiria mahali pa muungano wa Abrahamu, Isaka na Yakobo.",
+          "Barabara ya kwenda uhamishoni",
+          "Ratiba kutoka kwa Yakobo pekee"
+        ],
+        "correct": 1,
+        "explanation": "Wahenga wanafuata mhimili katika miinuko ya Kanaani: Beer-sheba (agano) → Hebroni (mazishi) → Betheli (maono) → Shekemu (madhabahu) - kila hatua inaashiria tendo la muungano."
+      },
+      {
+        "question": "Je, jiografia ya Ufunuo (Babeli dhidi ya Yerusalemu Mpya) inaundaje theolojia yake?",
+        "options": [
+          "Hii ni miji miwili ya baadaye ya kimwili",
+          "Miji miwili inafananisha mifumo miwili ya kiroho inayopingana: Babeli (dola ya sanamu na yenye kukandamiza) dhidi ya Yerusalemu Mpya (mji wa Mungu na Mwana-Kondoo)",
+          "Mfano rahisi wa kisiasa wa Kirumi bila umuhimu wa kitheolojia",
+          "Maelezo ya usanifu tu"
+        ],
+        "correct": 1,
+        "explanation": "Apocalypse inapinga 'miji' miwili ya mfano: Babeli (Ufu 17-18) = mfumo wa ulimwengu unaompinga Mungu; Yerusalemu Mpya (Ufu 21-22) = mji kamili wa uwepo wa Mungu."
+      },
+      {
+        "question": "Nini maana ya ishara ya jangwa (mipau ya katikati) katika theolojia ya kibiblia?",
+        "options": [
+          "Eneo rahisi la kijiografia lisiloweza kukaribishwa",
+          "Mahali pa kujaribiwa, kukutana na Mungu, malezi ya kiroho na ushiriki wa kimungu (Hosea 2:14)",
+          "Ishara ya kipekee ya kifo na hukumu",
+          "Mahali hasi kabisa"
+        ],
+        "correct": 1,
+        "explanation": "'Mipaka ya katikati' (jangwa) haina utata: mahali pa majaribu NA ya kukutana kwa karibu sana na Mungu. Hosea 2:14: 'Nitamwongoza mpaka nyikani na kusema na moyo wake.'"
+      },
+      {
+        "question": "Je, ni nini umuhimu wa kitheolojia wa 'kupaa kwenda Yerusalemu' katika muhtasari wa injili?",
+        "options": [
+          "Safari rahisi ya kijiografia",
+          "Kupanda kwa eskatolojia na dhabihu: Yesu anapanda kwa makusudi kwenda Yerusalemu ili kutimiza mateso yake (Luka 9:51: 'alifanya uamuzi wa kutembea kuelekea Yerusalemu')",
+          "Hitilafu ya urambazaji",
+          "Safari ya watalii wa kidini"
+        ],
+        "correct": 1,
+        "explanation": "'Kupaa' kwenda Yerusalemu ni motisha kuu ya kitheolojia (Luka 9:51-19:44): Yesu anapaa kama Mtumishi Mteso hadi mahali pa dhabihu, ufufuo na kuanzishwa kwa Ufalme."
+      },
+      {
+        "question": "Nini maana ya jina 'Babeli' katika 1 Petro 5:13 na muktadha wake halisi wa kijiografia?",
+        "options": [
+          "Mji halisi wa Babeli huko Mesopotamia",
+          "Jina la siri la Roma, kama katika Ufunuo - matumizi ya kawaida katika fasihi ya Kiyahudi ya baada ya 70 AD. AD",
+          "Alexandria huko Misri",
+          "Antiokia ya Siria"
+        ],
+        "correct": 1,
+        "explanation": "Takriban wanahistoria wote wanatambulisha 'Babeli' katika 1 Petro 5:13 na Rumi. Matumizi sawa katika Ufunuo na fasihi ya Kiyahudi ya baada ya miaka ya 70 ili kutaja dola dhalimu."
+      }
+    ]
+  }
+}

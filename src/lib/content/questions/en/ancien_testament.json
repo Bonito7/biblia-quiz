@@ -1,0 +1,1462 @@
+{
+  "ancien_testament": {
+    "debutant": [
+      {
+        "question": "What is the first book of the Bible?",
+        "options": [
+          "Exodus",
+          "Genesis",
+          "Leviticus",
+          "Numbers"
+        ],
+        "correct": 1,
+        "explanation": "Genesis is the first book of the Bible, meaning 'beginning'."
+      },
+      {
+        "question": "Who built the ark to survive the flood?",
+        "options": [
+          "Abraham",
+          "Moses",
+          "Noah",
+          "David"
+        ],
+        "correct": 2,
+        "explanation": "Noah built the ark according to God's command (Genesis 6-9)."
+      },
+      {
+        "question": "How many days did it take God to create the world?",
+        "options": [
+          "5 days",
+          "6 days",
+          "7 days",
+          "10 days"
+        ],
+        "correct": 1,
+        "explanation": "God created the world in 6 days and rested on the 7th day."
+      },
+      {
+        "question": "Who received the Ten Commandments on Mount Sinai?",
+        "options": [
+          "Abraham",
+          "Moses",
+          "Aaron",
+          "Joshua"
+        ],
+        "correct": 1,
+        "explanation": "Moses received the Ten Commandments from God on Mount Sinai (Exodus 20)."
+      },
+      {
+        "question": "Which king of Israel wrote most of the Psalms?",
+        "options": [
+          "Solomon",
+          "Saul",
+          "David",
+          "Hezekiah"
+        ],
+        "correct": 2,
+        "explanation": "King David is the primary author of the Psalms."
+      },
+      {
+        "question": "Who was swallowed by a big fish?",
+        "options": [
+          "Jonah",
+          "Elijah",
+          "Elisha",
+          "Amos"
+        ],
+        "correct": 0,
+        "explanation": "Jonah was swallowed by a large fish after fleeing God's mission (Jonah 1:17)."
+      },
+      {
+        "question": "Who was Abraham's wife?",
+        "options": [
+          "Rachael",
+          "Sarah",
+          "Rebecca",
+          "Lea"
+        ],
+        "correct": 1,
+        "explanation": "Sarah was Abraham's wife (Genesis 17:15)."
+      },
+      {
+        "question": "How many plagues did God send on Egypt?",
+        "options": [
+          "7",
+          "8",
+          "10",
+          "12"
+        ],
+        "correct": 2,
+        "explanation": "God sent 10 plagues on Egypt (Exodus 7-12)."
+      },
+      {
+        "question": "What garden did Adam and Eve live in?",
+        "options": [
+          "Garden of Gethsemane",
+          "Garden of Eden",
+          "Abraham's Garden",
+          "Garden of Sinai"
+        ],
+        "correct": 1,
+        "explanation": "Adam and Eve lived in the Garden of Eden (Genesis 2)."
+      },
+      {
+        "question": "Which sea did Moses cross with the people of Israel?",
+        "options": [
+          "The Mediterranean Sea",
+          "The Dead Sea",
+          "The Red Sea",
+          "The Sea of ​​Galilee"
+        ],
+        "correct": 2,
+        "explanation": "Moses parted the Red Sea to allow the people of Israel to escape Egypt (Exodus 14)."
+      },
+      {
+        "question": "What is the name of the first man created by God?",
+        "options": [
+          "Noah",
+          "Abel",
+          "Adam",
+          "Seth"
+        ],
+        "correct": 2,
+        "explanation": "Adam is the first man created by God (Genesis 2:7)."
+      },
+      {
+        "question": "How many sons did Jacob have?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "correct": 2,
+        "explanation": "Jacob had 12 sons who gave birth to the 12 tribes of Israel."
+      },
+      {
+        "question": "What is the first commandment of the Ten Commandments?",
+        "options": [
+          "You will not kill",
+          "You will have no other gods before me",
+          "You will not steal",
+          "Honor your father and your mother"
+        ],
+        "correct": 1,
+        "explanation": "The first commandment forbids having other gods (Exodus 20:3)."
+      },
+      {
+        "question": "What animal spoke to Eve in the Garden of Eden?",
+        "options": [
+          "An eagle",
+          "A lion",
+          "A snake",
+          "A donkey"
+        ],
+        "correct": 2,
+        "explanation": "The serpent tempted Eve by offering to eat the forbidden fruit (Genesis 3:1)."
+      },
+      {
+        "question": "Who was the son of Abraham and Sarah?",
+        "options": [
+          "Ishmael",
+          "Isaac",
+          "Jacob",
+          "Esau"
+        ],
+        "correct": 1,
+        "explanation": "Isaac was the miraculous son of Abraham and Sarah in their old age (Genesis 21:3)."
+      },
+      {
+        "question": "Who was Cain in the Bible?",
+        "options": [
+          "Noah's son",
+          "The first son of Adam and Eve",
+          "Noah's brother",
+          "One of the prophets"
+        ],
+        "correct": 1,
+        "explanation": "Cain was the first son of Adam and Eve, who killed his brother Abel (Genesis 4)."
+      },
+      {
+        "question": "Which people did Joshua lead to the Promised Land?",
+        "options": [
+          "The Egyptians",
+          "The Philistines",
+          "The Israelites",
+          "The Babylonians"
+        ],
+        "correct": 2,
+        "explanation": "Joshua led the people of Israel to the Promised Land after the death of Moses (Joshua 1)."
+      },
+      {
+        "question": "What is the name of Moses' sister?",
+        "options": [
+          "Deborah",
+          "Miriam",
+          "Rachael",
+          "Sarah"
+        ],
+        "correct": 1,
+        "explanation": "Miriam was the sister of Moses and Aaron (Exodus 15:20)."
+      },
+      {
+        "question": "In which book of the Bible is the creation story found?",
+        "options": [
+          "Exodus",
+          "Genesis",
+          "Leviticus",
+          "Deuteronomy"
+        ],
+        "correct": 1,
+        "explanation": "The creation story is found in the first two chapters of Genesis."
+      },
+      {
+        "question": "Which king of Israel built the first Temple in Jerusalem?",
+        "options": [
+          "David",
+          "Saul",
+          "Solomon",
+          "Rehoboam"
+        ],
+        "correct": 2,
+        "explanation": "King Solomon built the first Temple in Jerusalem (1 Kings 6)."
+      },
+      {
+        "question": "What is the meaning of the rainbow after the flood?",
+        "options": [
+          "A sign of natural beauty",
+          "God's covenant not to destroy the earth again with a flood",
+          "A danger signal",
+          "The presence of God"
+        ],
+        "correct": 1,
+        "explanation": "The rainbow is the sign of God's covenant with Noah and every living creature (Genesis 9:13-16)."
+      },
+      {
+        "question": "What is the name of the mountain where Abraham was to sacrifice his son?",
+        "options": [
+          "Mount Sinai",
+          "Mount Moriah",
+          "Mount Horeb",
+          "Mount Carmel"
+        ],
+        "correct": 1,
+        "explanation": "God asked Abraham to sacrifice Isaac on Mount Moriah (Genesis 22:2)."
+      },
+      {
+        "question": "Which son of Jacob was sold into slavery by his brothers?",
+        "options": [
+          "Benjamin",
+          "Judah",
+          "Ruben",
+          "Joseph"
+        ],
+        "correct": 3,
+        "explanation": "Joseph was sold by his brothers to Ishmaelite merchants for 20 pieces of silver (Genesis 37:28)."
+      },
+      {
+        "question": "What plant did God use to speak to Moses?",
+        "options": [
+          "A palm tree",
+          "A burning bush",
+          "A fig tree",
+          "A cedar"
+        ],
+        "correct": 1,
+        "explanation": "God spoke to Moses from a bush that burned without being consumed (Exodus 3:2-4)."
+      },
+      {
+        "question": "What miraculous food did God send the Israelites in the desert?",
+        "options": [
+          "Ordinary bread",
+          "Manna and quails",
+          "Figs and dates",
+          "Dried fish"
+        ],
+        "correct": 1,
+        "explanation": "God sent manna every morning and quails to feed the Israelites (Exodus 16)."
+      },
+      {
+        "question": "What sacred object contained the tables of the Law?",
+        "options": [
+          "The 7-branched candlestick",
+          "The Ark of the Covenant",
+          "The golden altar",
+          "The veil of the Temple"
+        ],
+        "correct": 1,
+        "explanation": "The Ark of the Covenant contained the tablets of the Law, the pot of manna, and Aaron's staff."
+      },
+      {
+        "question": "What river did the Israelites cross to enter the Promised Land?",
+        "options": [
+          "The Nile",
+          "The Tiger",
+          "The Euphrates",
+          "The Jordan"
+        ],
+        "correct": 3,
+        "explanation": "The Israelites crossed the Jordan on dry ground to enter Canaan (Joshua 3)."
+      },
+      {
+        "question": "Who was Ruth to Naomi?",
+        "options": [
+          "His biological daughter",
+          "His servant",
+          "His daughter-in-law",
+          "Her cousin"
+        ],
+        "correct": 2,
+        "explanation": "Ruth was the daughter-in-law of Naomi, wife of her son Mahlon (Ruth 1:4)."
+      },
+      {
+        "question": "Which enemy of Israel captured the Ark of the Covenant?",
+        "options": [
+          "The Babylonians",
+          "The Philistines",
+          "The Assyrians",
+          "The Moabites"
+        ],
+        "correct": 1,
+        "explanation": "The Philistines captured the Ark of the Covenant at the Battle of Ebenezer (1 Samuel 4:11)."
+      },
+      {
+        "question": "What animal spoke to Balaam in the Old Testament?",
+        "options": [
+          "A horse",
+          "A lion",
+          "A donkey",
+          "An eagle"
+        ],
+        "correct": 2,
+        "explanation": "Balaam's donkey spoke when she saw the angel of the Lord (Numbers 22:28-30)."
+      },
+      {
+        "question": "What is the shortest book in the Old Testament?",
+        "options": [
+          "Obadiah",
+          "Haggai",
+          "Jonah",
+          "Nahum"
+        ],
+        "correct": 0,
+        "explanation": "The book of Obadiah is the shortest in the Old Testament with only 21 verses."
+      },
+      {
+        "question": "Which prophet was carried to heaven in a whirlwind?",
+        "options": [
+          "Elisha",
+          "Elijah",
+          "Isaiah",
+          "Ezekiel"
+        ],
+        "correct": 1,
+        "explanation": "Elijah was carried up into heaven in a whirlwind with a chariot of fire (2 Kings 2:11)."
+      },
+      {
+        "question": "Which king of Babylon destroyed the Temple in Jerusalem?",
+        "options": [
+          "Cyrus",
+          "Darius",
+          "Nebuchadnezzar",
+          "Xerxes"
+        ],
+        "correct": 2,
+        "explanation": "Nebuchadnezzar II destroyed Solomon's Temple in 586 BC. (2 Kings 25:9)."
+      },
+      {
+        "question": "Which Persian king allowed Jews to return to Israel?",
+        "options": [
+          "Darius",
+          "Xerxes",
+          "Cyrus",
+          "Artaxerxes"
+        ],
+        "correct": 2,
+        "explanation": "The decree of Cyrus (538 BC) authorized the Jews to return to Israel (Ezra 1:1-4)."
+      },
+      {
+        "question": "Who was Esther in the Bible?",
+        "options": [
+          "A prophetess of Israel",
+          "A Jew who became Queen of Persia who saved her people",
+          "The high priest's wife",
+          "A judge from Israel"
+        ],
+        "correct": 1,
+        "explanation": "Esther was an orphaned Jew who became queen of Persia and foiled Haman's plot against the Jews."
+      },
+      {
+        "question": "What holiday commemorates the Exodus from Egypt?",
+        "options": [
+          "Pentecost",
+          "Passover (Pesach)",
+          "Yom Kippur",
+          "The Feast of Tabernacles"
+        ],
+        "correct": 1,
+        "explanation": "Passover (Pesach) commemorates the exodus from Egypt and the deliverance of the people of Israel (Exodus 12:14)."
+      },
+      {
+        "question": "Which book describes the purity laws and sacrifices of Israel?",
+        "options": [
+          "Exodus",
+          "Numbers",
+          "Leviticus",
+          "Deuteronomy"
+        ],
+        "correct": 2,
+        "explanation": "Leviticus contains the laws regarding sacrifices, ritual purity, and priestly worship."
+      },
+      {
+        "question": "Which prophet announced 'a voice crying in the desert'?",
+        "options": [
+          "Jeremiah",
+          "Ezekiel",
+          "Isaiah",
+          "Micah"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah 40:3 says 'A voice cries in the wilderness: Prepare the way of the LORD'."
+      },
+      {
+        "question": "What is the last book of the Old Testament in the Christian Bible?",
+        "options": [
+          "Zechariah",
+          "Haggai",
+          "Malachi",
+          "Ezra"
+        ],
+        "correct": 2,
+        "explanation": "Malachi is the last book of the Old Testament."
+      },
+      {
+        "question": "Which king of Israel committed adultery with Bathsheba?",
+        "options": [
+          "Saul",
+          "David",
+          "Solomon",
+          "Rehoboam"
+        ],
+        "correct": 1,
+        "explanation": "King David committed adultery with Bathsheba and had her husband Uriah the Hittite killed (2 Samuel 11)."
+      },
+      {
+        "question": "Which prophet denounced David after his sin?",
+        "options": [
+          "Elijah",
+          "Nathan",
+          "Elisha",
+          "Gad"
+        ],
+        "correct": 1,
+        "explanation": "The prophet Nathan confronted David with the parable of the sheep (2 Samuel 12:1-7)."
+      },
+      {
+        "question": "Which prophet announced the 'Suffering Servant of the Lord'?",
+        "options": [
+          "Jeremiah",
+          "Isaiah",
+          "Ezekiel",
+          "Micah"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 42, 49, 50 and 52-53 contain the 4 poems of the Suffering Servant."
+      },
+      {
+        "question": "What is the meaning of the word 'Torah'?",
+        "options": [
+          "Divine law/teaching",
+          "Holy history",
+          "Prophecy",
+          "Alliance"
+        ],
+        "correct": 0,
+        "explanation": "Torah means 'teaching' or 'divine law' in Hebrew, designating the first five books of the Bible."
+      },
+      {
+        "question": "How many kings reigned over united Israel before the division?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correct": 2,
+        "explanation": "Three kings ruled over united Israel: Saul, David and Solomon."
+      },
+      {
+        "question": "Which prophet announced the promise of a 'new heart and a new spirit'?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Joel"
+        ],
+        "correct": 2,
+        "explanation": "Ezekiel 36:26: 'I will give you a new heart, and put a new spirit within you.'"
+      },
+      {
+        "question": "Which prophet announced that the Messiah would be born in Bethlehem?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Micah",
+          "Zechariah"
+        ],
+        "correct": 2,
+        "explanation": "Micah 5:2 prophesies that the Messiah will be born in Bethlehem of Ephrathah."
+      },
+      {
+        "question": "What is the meaning of the name 'Immanuel' in Isaiah 7:14?",
+        "options": [
+          "God saves",
+          "God is with us",
+          "God is great",
+          "God is light"
+        ],
+        "correct": 1,
+        "explanation": "'Immanuel' (עִמָּנוּאֵל) means 'God is with us' — a promise of an incarnate divine presence."
+      },
+      {
+        "question": "What is the prophetic text that announces 'Wonderful, Counselor, Mighty God, Everlasting Father, Prince of Peace'?",
+        "options": [
+          "Micah 5:2",
+          "Isaiah 9:5-6",
+          "Zechariah 9:9",
+          "Jeremiah 23:5"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 9:5-6 announces the birth of a child with messianic names."
+      },
+      {
+        "question": "Which enemy captured Jerusalem and deported Israel to Babylon?",
+        "options": [
+          "Cyrus of Persia",
+          "Nebuchadnezzar of Babylon",
+          "Sennacherib of Assyria",
+          "Pharaoh of Egypt"
+        ],
+        "correct": 1,
+        "explanation": "Nebuchadnezzar II destroyed Jerusalem and deported the people in 587 BC. (2 Kings 24-25)."
+      },
+      {
+        "question": "Which book of the Bible describes the rebuilding of the Temple after the exile?",
+        "options": [
+          "Nehemiah",
+          "Haggai",
+          "Ezra",
+          "Malachi"
+        ],
+        "correct": 2,
+        "explanation": "The book of Ezra describes the return of the exiles and the rebuilding of the Temple in Jerusalem."
+      },
+      {
+        "question": "Which king of Israel built a swimming pool and an aqueduct in Jerusalem before the Assyrian assault?",
+        "options": [
+          "David",
+          "Solomon",
+          "Hezekiah",
+          "Josiah"
+        ],
+        "correct": 2,
+        "explanation": "Hezekiah dug the tunnel of Siloam to bring water to Jerusalem (2 Kings 20:20)."
+      },
+      {
+        "question": "What event caused the kingdom of Israel to be divided in two?",
+        "options": [
+          "David's death",
+          "Rehoboam's refusal to reduce the people's taxes",
+          "The war against the Philistines",
+          "Solomon's death alone"
+        ],
+        "correct": 1,
+        "explanation": "Rehoboam's refusal to lighten the people's yoke caused the secession of the 10 northern tribes (1 Kings 12)."
+      },
+      {
+        "question": "Who was the first judge of Israel mentioned in the book of Judges?",
+        "options": [
+          "Samson",
+          "Gideon",
+          "Otniel",
+          "Deborah"
+        ],
+        "correct": 2,
+        "explanation": "Otniel, nephew of Caleb, is the first judge of Israel mentioned (Judges 3:9)."
+      },
+      {
+        "question": "How long is a jubilee in Israel?",
+        "options": [
+          "7 years",
+          "25 years old",
+          "40 years",
+          "50 years"
+        ],
+        "correct": 3,
+        "explanation": "The jubilee occurred every 50 years: the lands returned to their original owners (Leviticus 25:10)."
+      },
+      {
+        "question": "Which prophet was thrown into a cistern by his enemies?",
+        "options": [
+          "Elijah",
+          "Jeremiah",
+          "Daniel",
+          "Jonah"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah was thrown into a cistern by enemies (Jeremiah 38:6)."
+      },
+      {
+        "question": "What prophecy of Zechariah announces the triumphal entry of the Messiah on a donkey?",
+        "options": [
+          "Zechariah 3:8",
+          "Zechariah 9:9",
+          "Zechariah 12:10",
+          "Zechariah 14:4"
+        ],
+        "correct": 1,
+        "explanation": "Zechariah 9:9: 'Behold, your king comes to you, righteous and victorious, lowly and riding on a donkey'."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "Which book of the Bible describes the construction of Solomon's Temple?",
+        "options": [
+          "1 Samuel",
+          "1 Kings",
+          "1 Chronicles",
+          "Ezra"
+        ],
+        "correct": 1,
+        "explanation": "The construction of Solomon's Temple is described in 1 Kings 6-8."
+      },
+      {
+        "question": "How many years did the Israelites wander in the desert?",
+        "options": [
+          "20 years",
+          "30 years",
+          "40 years",
+          "50 years"
+        ],
+        "correct": 2,
+        "explanation": "The Israelites wandered for 40 years in the wilderness because of their unbelief (Numbers 14:33)."
+      },
+      {
+        "question": "Which judge in Israel had superhuman strength linked to his hair?",
+        "options": [
+          "Gideon",
+          "Jephthah",
+          "Samson",
+          "Deborah"
+        ],
+        "correct": 2,
+        "explanation": "Samson derived his strength from his uncut hair (Judges 13-16)."
+      },
+      {
+        "question": "Which prophet faced 450 prophets of Baal on Mount Carmel?",
+        "options": [
+          "Elisha",
+          "Elijah",
+          "Isaiah",
+          "Jeremiah"
+        ],
+        "correct": 1,
+        "explanation": "Elijah confronted the prophets of Baal on Mount Carmel (1 Kings 18)."
+      },
+      {
+        "question": "Which city did the Israelites circle 7 times before it collapsed?",
+        "options": [
+          "Ai",
+          "Jericho",
+          "Gibeon",
+          "Hebron"
+        ],
+        "correct": 1,
+        "explanation": "The walls of Jericho collapsed after the Israelites circled them 7 times (Joshua 6)."
+      },
+      {
+        "question": "What non-Israelite woman said to her mother-in-law, 'Where you go, I will go'?",
+        "options": [
+          "Orpa",
+          "Ruth",
+          "Tamar",
+          "Rahab"
+        ],
+        "correct": 1,
+        "explanation": "Ruth spoke these words to Naomi (Ruth 1:16)."
+      },
+      {
+        "question": "Which book of the Bible contains the prophecy of 'dry bones' coming to life?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Daniel"
+        ],
+        "correct": 2,
+        "explanation": "The vision of the valley of dry bones is found in Ezekiel 37."
+      },
+      {
+        "question": "Which king of Babylon received the interpretation of the writing on the wall?",
+        "options": [
+          "Nebuchadnezzar",
+          "Belshazzar",
+          "Cyrus",
+          "Darius"
+        ],
+        "correct": 1,
+        "explanation": "Daniel interpreted the mysterious writing during Belshazzar's feast (Daniel 5)."
+      },
+      {
+        "question": "Which book of the Bible is entirely a love poem?",
+        "options": [
+          "Psalms",
+          "Proverbs",
+          "Ecclesiastes",
+          "Song of Songs"
+        ],
+        "correct": 3,
+        "explanation": "The Song of Songs is a love poem attributed to Solomon."
+      },
+      {
+        "question": "Which character interpreted the dreams of the Pharaoh of Egypt?",
+        "options": [
+          "Moses",
+          "Joseph",
+          "Daniel",
+          "Abraham"
+        ],
+        "correct": 1,
+        "explanation": "Joseph interpreted Pharaoh's dreams about 7 years of plenty and famine (Genesis 41)."
+      },
+      {
+        "question": "How many men did Gideon use to defeat the Midianites?",
+        "options": [
+          "100",
+          "300",
+          "600",
+          "1000"
+        ],
+        "correct": 1,
+        "explanation": "God reduced Gideon's army to 300 men (Judges 7:7)."
+      },
+      {
+        "question": "Which Assyrian king deported the 10 tribes of the Northern Kingdom?",
+        "options": [
+          "Nebuchadnezzar",
+          "Sennacherib",
+          "Shalmanesar V / Sargon II",
+          "Cyrus"
+        ],
+        "correct": 2,
+        "explanation": "Shalmanasar V and Sargon II deported the northern tribes in 722 BC. (2 Kings 17)."
+      },
+      {
+        "question": "Which woman was transformed into a pillar of salt?",
+        "options": [
+          "Sarah",
+          "Lot's wife",
+          "Rebecca",
+          "Lea"
+        ],
+        "correct": 1,
+        "explanation": "Lot's wife turned away despite the warning and was turned into a pillar of salt (Genesis 19:26)."
+      },
+      {
+        "question": "What sacrifice was Abraham willing to offer at God's command?",
+        "options": [
+          "A lamb without blemish",
+          "His entire herd",
+          "His son Isaac",
+          "His house"
+        ],
+        "correct": 2,
+        "explanation": "God commanded Abraham to sacrifice his son Isaac as a test of faith (Genesis 22)."
+      },
+      {
+        "question": "Which prophet is nicknamed 'the weeping prophet'?",
+        "options": [
+          "Isaiah",
+          "Amos",
+          "Jeremiah",
+          "Habakkuk"
+        ],
+        "correct": 2,
+        "explanation": "Jeremiah is nicknamed 'the weeping prophet' because of the many laments in his book."
+      },
+      {
+        "question": "What is the longest prophetic book in the Old Testament?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Daniel"
+        ],
+        "correct": 1,
+        "explanation": "The book of Jeremiah is the longest prophetic book with 52 chapters."
+      },
+      {
+        "question": "Which king of Israel built altars to idols to please his foreign wives?",
+        "options": [
+          "Ahab",
+          "David",
+          "Solomon",
+          "Jeroboam"
+        ],
+        "correct": 2,
+        "explanation": "Solomon built altars to foreign gods to please his wives (1 Kings 11:4-8)."
+      },
+      {
+        "question": "How long was the Babylonian exile prophesied by Jeremiah?",
+        "options": [
+          "40 years",
+          "50 years",
+          "70 years old",
+          "100 years"
+        ],
+        "correct": 2,
+        "explanation": "Jeremiah prophesied a 70-year exile in Babylon (Jeremiah 25:11-12)."
+      },
+      {
+        "question": "Which prophet had a vision of the 'heavenly chariot' with living creatures and wheels?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Daniel"
+        ],
+        "correct": 2,
+        "explanation": "Ezekiel had a vision of the heavenly chariot (merkabah) with living creatures and wheels (Ezekiel 1)."
+      },
+      {
+        "question": "How many books of wisdom are in the Old Testament?",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "9"
+        ],
+        "correct": 1,
+        "explanation": "The 5 books of wisdom are: Job, Psalms, Proverbs, Ecclesiastes and Song of Solomon."
+      },
+      {
+        "question": "What is the main theme of the book of Ecclesiastes?",
+        "options": [
+          "The creation of the world",
+          "The Vanity of All Things and the Wisdom to Fear God",
+          "Prayer and worship",
+          "God's Covenant with Israel"
+        ],
+        "correct": 1,
+        "explanation": "Ecclesiastes explores the meaning of life and concludes that all is vanity except fearing God (Ecclesiastes 12:13)."
+      },
+      {
+        "question": "In which book do we find the vision of the four empires represented by a statue?",
+        "options": [
+          "Isaiah",
+          "Ezekiel",
+          "Daniel",
+          "Zechariah"
+        ],
+        "correct": 2,
+        "explanation": "Daniel 2 describes Nebuchadnezzar's vision of a four-part statue representing four successive empires."
+      },
+      {
+        "question": "Which prophet called Israel to return: 'Return to me and I will return to you'?",
+        "options": [
+          "Joel",
+          "Haggai",
+          "Zechariah",
+          "Malachi"
+        ],
+        "correct": 3,
+        "explanation": "Malachi 3:7: 'Return to me, and I will return to you, says the LORD of hosts.'"
+      },
+      {
+        "question": "What is the meaning of the name 'Bethel' given by Jacob?",
+        "options": [
+          "house of peace",
+          "House of God",
+          "House of Prayer",
+          "House of Glory"
+        ],
+        "correct": 1,
+        "explanation": "Bethel means 'House of God', the name given by Jacob after his vision of the ladder (Genesis 28:19)."
+      },
+      {
+        "question": "Which OT book contains the largest psalm with 176 verses?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Psalms (Psalm 119)",
+          "Proverbs"
+        ],
+        "correct": 2,
+        "explanation": "Psalm 119 is the longest chapter in the entire Bible at 176 verses."
+      },
+      {
+        "question": "Which book tells of the return of the Jews from exile and the reconstruction of the walls?",
+        "options": [
+          "Ezra",
+          "Nehemiah",
+          "Haggai",
+          "Both: Ezra and Nehemiah"
+        ],
+        "correct": 3,
+        "explanation": "Ezra describes the rebuilding of the Temple and Nehemiah the rebuilding of the walls of Jerusalem after the exile."
+      },
+      {
+        "question": "What was Amos' profession before becoming a prophet?",
+        "options": [
+          "Priest",
+          "Shepherd and sycamore farmer",
+          "Scribe",
+          "Soldier"
+        ],
+        "correct": 1,
+        "explanation": "Amos was a shepherd and sycamore farmer in Tekoa (Amos 1:1, 7:14)."
+      },
+      {
+        "question": "What is the role of the High Priest on Yom Kippur?",
+        "options": [
+          "Reading the Torah in public",
+          "Entering the Holy of Holies to sprinkle the atoning blood",
+          "Distribute food to the poor",
+          "Crown the king"
+        ],
+        "correct": 1,
+        "explanation": "The High Priest entered the Holy of Holies once a year on Yom Kippur (Leviticus 16)."
+      },
+      {
+        "question": "Which book describes the wars of conquest of Canaan under Joshua?",
+        "options": [
+          "Numbers",
+          "Deuteronomy",
+          "Joshua",
+          "Judges"
+        ],
+        "correct": 2,
+        "explanation": "The book of Joshua describes the conquest of the Promised Land by the Israelites."
+      },
+      {
+        "question": "What is the most cited Old Testament book in the New Testament?",
+        "options": [
+          "Genesis",
+          "The Psalms",
+          "Isaiah",
+          "Deuteronomy"
+        ],
+        "correct": 1,
+        "explanation": "The book of Psalms is the most cited in the NT, followed closely by Isaiah and Deuteronomy."
+      },
+      {
+        "question": "What is the meaning of 'Shema Israel' in Deuteronomy 6:4?",
+        "options": [
+          "'Blessed be the Lord'",
+          "'Hear, O Israel: the LORD is our God, the LORD is one'",
+          "'Be holy, for I am holy'",
+          "'Love your neighbor as yourself'"
+        ],
+        "correct": 1,
+        "explanation": "The Shema (Deuteronomy 6:4) is the fundamental profession of faith of Judaism."
+      },
+      {
+        "question": "How many minor prophets make up the 'Book of the Twelve'?",
+        "options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "correct": 1,
+        "explanation": "The 'Book of the Twelve' includes 12 minor prophets from Hosea to Malachi."
+      },
+      {
+        "question": "What is the meaning of the term 'tohu wa-bohu' in Genesis 1:2?",
+        "options": [
+          "The primordial chaos formless and empty",
+          "The darkness of the night",
+          "Absolute nothingness",
+          "The universal flood"
+        ],
+        "correct": 0,
+        "explanation": "'Tohu wa-bohu' refers to the formless, empty chaos that preceded orderly creation (Genesis 1:2)."
+      },
+      {
+        "question": "What Hebrew term describes the 'luminous presence of God' that dwelt in the Temple?",
+        "options": [
+          "Kavod (glory)",
+          "Shekinah (inhabitant presence)",
+          "Ruah (spirit)",
+          "Emits (truth)"
+        ],
+        "correct": 1,
+        "explanation": "The 'Shekinah' is a rabbinic term for the indwelling presence of God, linked to the cloud of glory (Exodus 40:34-38)."
+      },
+      {
+        "question": "What is the meaning of 'circumcision of the heart' in Deuteronomy 30:6?",
+        "options": [
+          "A symbolic physical operation",
+          "An inner transformation of obedience from the external to the heart",
+          "A spiritual puberty rite",
+          "Abandoning sexual sin"
+        ],
+        "correct": 1,
+        "explanation": "The 'circumcision of the heart' represents inward obedience and love to God, as opposed to purely outward observance."
+      },
+      {
+        "question": "What is the role of the 'scapegoat' (Azazel) in Leviticus 16?",
+        "options": [
+          "A sacrifice for the sins of the people",
+          "The symbolic transfer of the sins of the people onto a goat hunted in the desert",
+          "A sacrifice for the priests alone",
+          "A rite of purification of the Temple"
+        ],
+        "correct": 1,
+        "explanation": "The High Priest confessed Israel's sins on the goat, then the goat was taken into the wilderness for 'Azazel' (Leviticus 16:21-22)."
+      },
+      {
+        "question": "What is the meaning of the Hebrew term 'hesed' often translated 'faithful love'?",
+        "options": [
+          "romantic love",
+          "Faithful love in the covenant, combining love, loyalty and mercy",
+          "divine wrath",
+          "divine holiness"
+        ],
+        "correct": 1,
+        "explanation": "'Hesed' (חֶסֶד) is a rich term for faithful covenant love — a fundamental characteristic of God in Exodus 34:6-7."
+      },
+      {
+        "question": "Which prophet compared God to a potter and Israel to clay?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Zechariah"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah received the vision of the potter and the clay to illustrate God's sovereignty (Jeremiah 18:1-6)."
+      },
+      {
+        "question": "What is the significance of God's promise to Abraham in Genesis 12:3?",
+        "options": [
+          "A promise limited to Israel alone",
+          "'All the families of the earth will be blessed in you' - universal scope",
+          "A conditional covenant based on obedience alone",
+          "A promise of territory only"
+        ],
+        "correct": 1,
+        "explanation": "Genesis 12:3 contains the first promise of universal blessing — 'all families of the earth shall be blessed in you'."
+      },
+      {
+        "question": "What is the content of the messianic promise in 2 Samuel 7 made to David?",
+        "options": [
+          "David will not die",
+          "A descendant of David will reign forever",
+          "The Temple will be built by David himself",
+          "Israel will never be invaded again"
+        ],
+        "correct": 1,
+        "explanation": "2 Samuel 7:12-16: God promises David a descendant whose 'the throne of his kingdom will be established forever.'"
+      },
+      {
+        "question": "What is the meaning of 'Day of the Lord' (Yom Yahveh) in the prophets?",
+        "options": [
+          "An annual day of celebration",
+          "A day of divine intervention of judgment and eschatological salvation",
+          "The weekly Sabbath",
+          "The Feast of Trumpets"
+        ],
+        "correct": 1,
+        "explanation": "The 'Day of the Lord' is a prophetic concept of decisive divine intervention to judge the nations and deliver Israel (Amos 5:18-20; Joel 2:31)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "What is the Hebrew meaning of the name 'Yahweh'?",
+        "options": [
+          "mighty God",
+          "I am the one who is",
+          "Lord of armies",
+          "eternal God"
+        ],
+        "correct": 1,
+        "explanation": "Yahweh comes from the Hebrew verb 'to be' and means 'I am he who am' (Exodus 3:14)."
+      },
+      {
+        "question": "Which king of Israel married Jezebel, leading Israel into idolatry?",
+        "options": [
+          "Jeroboam",
+          "Ahab",
+          "Omri",
+          "Zimri"
+        ],
+        "correct": 1,
+        "explanation": "King Ahab married Jezebel, daughter of the king of Sidon, leading Israel into the worship of Baal (1 Kings 16:31)."
+      },
+      {
+        "question": "According to Ezekiel, how many faces did the living creatures in his vision have?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ],
+        "correct": 2,
+        "explanation": "The living creatures in Ezekiel's vision had 4 faces: man, lion, ox and eagle (Ezekiel 1:10)."
+      },
+      {
+        "question": "In which book is the '70 weeks' prophecy found?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Daniel",
+          "Zechariah"
+        ],
+        "correct": 2,
+        "explanation": "The 70 weeks prophecy is found in Daniel 9:24-27."
+      },
+      {
+        "question": "What is the Hebrew name for the book of Exodus?",
+        "options": [
+          "Bereshit",
+          "Shemot",
+          "Vayikra",
+          "Bamidbar"
+        ],
+        "correct": 1,
+        "explanation": "The book of Exodus is called 'Shemot' (names) in Hebrew, after its opening words."
+      },
+      {
+        "question": "Which tribe of Israel did not receive territory when Canaan was divided?",
+        "options": [
+          "Ruben",
+          "Simeon",
+          "Levi",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "The tribe of Levi was not given territory because it was dedicated to serving the Temple (Numbers 18:20)."
+      },
+      {
+        "question": "Which prophet was commanded by God to marry a prostitute as a prophetic sign?",
+        "options": [
+          "Amos",
+          "Hosea",
+          "Joel",
+          "Micah"
+        ],
+        "correct": 1,
+        "explanation": "Hosea married Gomer by divine command as a symbol of Israel's unfaithfulness to God (Hosea 1:2)."
+      },
+      {
+        "question": "How many years did it take Solomon to build the Temple in Jerusalem?",
+        "options": [
+          "5 years",
+          "7 years",
+          "10 years",
+          "14 years old"
+        ],
+        "correct": 1,
+        "explanation": "Solomon took 7 years to build the Temple (1 Kings 6:38)."
+      },
+      {
+        "question": "Which prophet predicted the birth of a child called 'Emmanuel'?",
+        "options": [
+          "Micah",
+          "Isaiah",
+          "Jeremiah",
+          "Zechariah"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah predicted the birth of Immanuel in Isaiah 7:14."
+      },
+      {
+        "question": "In the book of Job, how many sons and daughters did Job have at the beginning?",
+        "options": [
+          "7 sons and 3 daughters",
+          "3 sons and 7 daughters",
+          "7 sons and 7 daughters",
+          "10 sons and 3 daughters"
+        ],
+        "correct": 0,
+        "explanation": "Job had 7 sons and 3 daughters at the beginning of the book (Job 1:2)."
+      },
+      {
+        "question": "What is the meaning of the name 'Israel' given to Jacob after his struggle?",
+        "options": [
+          "Servant of God",
+          "The one who wrestled with God",
+          "Chosen by God",
+          "Prince of Peace"
+        ],
+        "correct": 1,
+        "explanation": "Israel means 'one who wrestled with God', a name given after Jacob's struggle (Genesis 32:28)."
+      },
+      {
+        "question": "Which king brought the golden calves to Bethel and Dan?",
+        "options": [
+          "Solomon",
+          "Rehoboam",
+          "Jeroboam I",
+          "Ahab"
+        ],
+        "correct": 2,
+        "explanation": "Jeroboam I set up two golden calves in Bethel and Dan (1 Kings 12:28-29)."
+      },
+      {
+        "question": "Which book contains the promise of the 'new covenant'?",
+        "options": [
+          "Isaiah 54",
+          "Jeremiah 31",
+          "Ezekiel 36",
+          "Zechariah 9"
+        ],
+        "correct": 1,
+        "explanation": "The promise of a new covenant is found in Jeremiah 31:31-34."
+      },
+      {
+        "question": "What Hebrew term for 'holy' is repeated three times in the vision in Isaiah 6?",
+        "options": [
+          "Shalom",
+          "Kadosh",
+          "Chesed",
+          "Emeth"
+        ],
+        "correct": 1,
+        "explanation": "'Kadosh' is repeated three times ('Holy, Holy, Holy') in the vision of Isaiah 6:3, the 'Trisagion'."
+      },
+      {
+        "question": "Which Middle Eastern legal document is structurally close to the Sinaitic alliance?",
+        "options": [
+          "The Code of Hammurabi",
+          "Hittite overlord treaties",
+          "The Assyrian annals",
+          "Ugaritic texts"
+        ],
+        "correct": 1,
+        "explanation": "The Hittite suzerainty treaties (14th-13th centuries BC) share a similar structure to the Sinai alliance."
+      },
+      {
+        "question": "What is the central theological content of the book of Job?",
+        "options": [
+          "The reward of the righteous",
+          "The question of the suffering of the righteous and the sovereignty of God in the face of simplistic theodicies",
+          "The existence of Satan",
+          "Intercessory prayer"
+        ],
+        "correct": 1,
+        "explanation": "Job challenges the theology of retribution and poses the question of innocent suffering in the face of God's absolute sovereignty."
+      },
+      {
+        "question": "Which Exodus text describes divine self-revelation as 'merciful and compassionate God'?",
+        "options": [
+          "Exodus 3:14",
+          "Exodus 20:1-17",
+          "Exodus 34:6-7",
+          "Exodus 19:5-6"
+        ],
+        "correct": 2,
+        "explanation": "Exodus 34:6-7: 'The LORD God, merciful and gracious, slow to anger, abounding in love and faithfulness...' — the '13 divine attributes'."
+      },
+      {
+        "question": "Which OT figure combines royalty AND priesthood, prefiguring Christ?",
+        "options": [
+          "Abraham",
+          "Moses",
+          "Melchizedek",
+          "David"
+        ],
+        "correct": 2,
+        "explanation": "Melchizedek, king of Salem AND priest of the Most High God (Genesis 14:18), is the only figure combining kingship and priesthood."
+      },
+      {
+        "question": "What is the concept of 'remain faithful' (she'ar) in prophetic theology?",
+        "options": [
+          "All of Israel saved by grace",
+          "A small faithful group remaining after the judgment, carrying the promises",
+          "The 10 lost tribes",
+          "The Jews returned from Babylon"
+        ],
+        "correct": 1,
+        "explanation": "The 'remnant' (she'ar) designates the faithful group who survive divine judgment and remain bearers of the promises of salvation — central in Isaiah (10:20-22)."
+      },
+      {
+        "question": "What is the textual phenomenon distinguishing the two accounts of creation in Genesis 1 and Genesis 2?",
+        "options": [
+          "Two different languages",
+          "The use of different divine names: Elohim (ch.1) and YHWH-Elohim (ch.2)",
+          "Different authors clearly identified",
+          "Writing dates 500 years apart"
+        ],
+        "correct": 1,
+        "explanation": "Genesis 1 uses 'Elohim' exclusively, while Genesis 2 uses 'YHWH-Elohim'. This distinction is at the heart of documentary theory (J, E, D, P)."
+      },
+      {
+        "question": "What is the structure of Genesis organized around the term 'toledot' (generations)?",
+        "options": [
+          "10 sections introduced by 'here are the generations of...'",
+          "7 days of creation + 7 patriarchs",
+          "5 books like the Pentateuch",
+          "12 sections corresponding to the 12 tribes"
+        ],
+        "correct": 0,
+        "explanation": "Genesis is structured around 10 occurrences of 'these are the generations of...' (toledot), forming 10 narrative sections."
+      },
+      {
+        "question": "Which prophecy of Daniel speaks of a 'Son of man' receiving an everlasting kingdom?",
+        "options": [
+          "The vision of the 4 beasts and the Son of man coming on the clouds",
+          "The vision of the 4 metal statue",
+          "The vision of the ram and the goat",
+          "The 70 week vision"
+        ],
+        "correct": 0,
+        "explanation": "Daniel 7:13-14 describes the 'Son of Man' coming on the clouds and receiving dominion, glory and kingdom from the Ancient of Days."
+      },
+      {
+        "question": "In the Deuteronomist tradition, what is the theological criterion for judging the kings of Israel?",
+        "options": [
+          "Their military victories",
+          "Their loyalty to the covenant and centralized worship in Jerusalem",
+          "The economic prosperity of the kingdom",
+          "Their obedience to the prophets"
+        ],
+        "correct": 1,
+        "explanation": "Deuteronomistic history evaluates kings according to their faithfulness to the covenant, especially the centralization of worship in Jerusalem and the rejection of idols."
+      },
+      {
+        "question": "What OT concept states that God is radically different and distinct from creation?",
+        "options": [
+          "Divine immanence",
+          "Divine transcendence (Kadosh: radical separation)",
+          "Hebrew pantheism",
+          "The divine emanation"
+        ],
+        "correct": 1,
+        "explanation": "God's 'qedushâh' (holiness) signifies his absolute transcendence—he is radically 'other' than creation (Isaiah 6:3; Hosea 11:9)."
+      },
+      {
+        "question": "What is the meaning of the imago Dei (image of God) in Genesis 1:26-27?",
+        "options": [
+          "Physical resemblance to God",
+          "Man bearing the divine likeness: relationship, reason, creativity and royal vocation on creation",
+          "Immortality of the soul only",
+          "A poetic metaphor without ontological significance"
+        ],
+        "correct": 1,
+        "explanation": "The imago Dei designates: (1) viceregency — man as God's representative over creation; (2) the capacity for relationship with God; (3) sexual difference as a reflection of intradivine communion."
+      },
+      {
+        "question": "What is the theological term for 'creation from nothing' in Judeo-Christian theology?",
+        "options": [
+          "Creatio ex materia",
+          "Creatio ex nihilo",
+          "Emanatio divina",
+          "Demiurgia"
+        ],
+        "correct": 1,
+        "explanation": "'Creatio ex nihilo' is the doctrine that God created the universe without pre-existing matter — developed in Patristic theology from 2 Maccabees 7:28."
+      },
+      {
+        "question": "What is the canonical status of the deuterocanonical books according to the different Christian traditions?",
+        "options": [
+          "Canonical in all traditions",
+          "Canonical for Catholics/Orthodox, apocryphal for Protestants",
+          "Rejected by all traditions",
+          "Accepted as comments only"
+        ],
+        "correct": 1,
+        "explanation": "Deuterocanonicals have been included in Catholic and Orthodox Bibles since the Council of Trent (1546), but excluded from the Protestant canon which follows the Hebrew Jewish list."
+      },
+      {
+        "question": "What is the theological significance of the Hebrew term 'hesed' in Exodus 34:6-7?",
+        "options": [
+          "romantic love",
+          "Faithful covenant love, combining loyalty, kindness and mercy",
+          "divine wrath",
+          "divine holiness"
+        ],
+        "correct": 1,
+        "explanation": "'Chesed' is relational justice: when God 'does justice', He is faithful to His covenant commitments—justice and salvation are almost synonymous in Isaiah 40-55."
+      },
+      {
+        "question": "What is the significance of the 'Holy of Holies' in the Tabernacle and Temple?",
+        "options": [
+          "The main hall of the Temple",
+          "The most holy place where the Ark rested and where only the High Priest could enter once a year",
+          "The outdoor esplanade",
+          "The treasurers' room"
+        ],
+        "correct": 1,
+        "explanation": "The 'Holy of Holies' was separated by a veil, where the Ark rested. Only the High Priest could enter, once a year, on Yom Kippur (Leviticus 16)."
+      },
+      {
+        "question": "What is the hermeneutic significance of the typological reading of the Old Testament?",
+        "options": [
+          "Pure allegorism replacing the literal meaning",
+          "Reading OT events, people and institutions as 'types' prefiguring their fulfillment in the NT",
+          "The simple prophetic quote",
+          "The rejection of the historical meaning of the OT"
+        ],
+        "correct": 1,
+        "explanation": "The typology sees in the people (Adam, Moses), events (Exodus, manna) and institutions (Temple, sacrifices) of the OT real prefigurations of their fulfillment in Christ."
+      },
+      {
+        "question": "What is the main poetic structure of the Psalms and its distinctive feature?",
+        "options": [
+          "The sound rhyme as in French",
+          "Parallelism (synonymous, antithetical, synthetic) — the meaning responds from one verse to another",
+          "The metaphor alone",
+          "The chronological narration"
+        ],
+        "correct": 1,
+        "explanation": "Hebrew poetry uses parallelism: (1) synonymic (2nd verse repeats the 1st); (2) antithetical (contrast); (3) synthetic (completes and expands) — a feature that survives translation."
+      },
+      {
+        "question": "What is the eschatological meaning of the Sabbath according to Hebrews 4:9-11?",
+        "options": [
+          "A simple weekly physical rest",
+          "The Sabbath is an eschatological foretaste of eternal rest in Christ — 'there remains a Sabbath rest for the people of God'",
+          "A purely hygienic rule",
+          "A legal command without symbolic significance"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 4:9-11: The Sabbath points to the final eschatological 'rest' in Christ—cessation from one's own works to enter into God's rest."
+      },
+      {
+        "question": "What is the meaning of the rite of the 'scapegoat' (Azazel) in Leviticus 16?",
+        "options": [
+          "A sacrifice for the sins of the people",
+          "The symbolic transfer of the sins of the people onto a goat hunted in the desert",
+          "A sacrifice for the priests alone",
+          "A rite of purification of the Temple"
+        ],
+        "correct": 1,
+        "explanation": "The High Priest confessed Israel's sins on the goat, then the goat was taken into the desert symbolizing the transfer of sins (Leviticus 16:21-22)."
+      },
+      {
+        "question": "What is the meaning of the Hebrew term 'dabar' used for 'Word of God' in the prophetic texts?",
+        "options": [
+          "Simple verbal communication",
+          "Word/event of creative and effective power, achieving what it says",
+          "Command without own force",
+          "Poetic metaphor of the divine"
+        ],
+        "correct": 1,
+        "explanation": "'Dabar' (דָּבָר) means both the word AND the event/deed — the Word of God brings about what it says (Isaiah 55:11: 'it will not return to me void')."
+      },
+      {
+        "question": "What is the meaning of the 'Aaronic blessing' in Numbers 6:24-26?",
+        "options": [
+          "'May the Lord bless you and keep you'",
+          "'Be strong and courageous'",
+          "'The Lord is your shepherd'",
+          "'I am the Lord your God'"
+        ],
+        "correct": 0,
+        "explanation": "The Aaronic blessing begins with 'The Lord bless you and keep you' (Numbers 6:24) — a triune priestly formula combining blessing, grace and peace."
+      }
+    ]
+  }
+}

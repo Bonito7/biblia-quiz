@@ -1,0 +1,683 @@
+{
+  "sections": [
+    {
+      "id": "fetes",
+      "emoji": "🕍",
+      "color": "from-blue-600 to-indigo-700",
+      "items": [
+        {
+          "name": "Shabbat (שַׁבָּת)",
+          "subtitle": "Kila wiki - Ijumaa jioni hadi Jumamosi jioni",
+          "description": "Sabato ya kila juma, yenye msingi wa Uumbaji (Mwanzo 2:3) na Sheria (Kutoka 20:8-11). Kukoma kabisa kwa kazi, milo ya sherehe, sinagogi. Inaashiria Agano kati ya Mungu na Israeli (Kutoka 31:13). Halakha inaorodhesha kategoria 39 za kazi zilizopigwa marufuku.",
+          "detail": "Muda: masaa 25. Huanza na mwanamke kuwasha mishumaa. Inaisha na Havdalah (kujitenga)."
+        },
+        {
+          "name": "Pasaka - Pesa (פֶּסַח)",
+          "subtitle": "14-21 Nissan (Machi-Aprili)",
+          "description": "Kumbukumbu ya Kutoka Misri (Kutoka 12). Chakula cha Seder na kondoo wa Pasaka, mimea chungu, matzot (mkate usiotiwa chachu). Kusoma Haggadah. Nyumba zinatakaswa na chachu yote (hametz) - ishara ya dhambi na kiburi.",
+          "detail": "Muda: Siku 7 (8 katika diaspora). Vikombe 4 vya divai vinaashiria ahadi 4 za kimungu za Kutoka 6:6-7."
+        },
+        {
+          "name": "Pentekoste - Shavuot (שָׁבוּעוֹת)",
+          "subtitle": "6-7 Sivan (Mei-Juni) - siku 50 baada ya Pasaka",
+          "description": "Tamasha la Wiki/Mavuno. Kumbukumbu ya zawadi ya Torati pale Sinai. Sadaka ya matunda ya kwanza (bikourim). Tunasoma kitabu cha Ruthu. Katika Agano Jipya: siku ya Pentekoste (Matendo 2) inaangukia siku hii.",
+          "detail": "Muda: Siku 1 (2 katika diaspora). Sinagogi limepambwa kwa kijani kibichi kinachoamsha Mlima Sinai."
+        },
+        {
+          "name": "Rosh Hashana (רֹאשׁ הַשָּׁנָה)",
+          "subtitle": "1-2 Tishri (Septemba-Oktoba)",
+          "description": "Mwaka Mpya wa Kiyahudi - kihalisi 'kichwa cha mwaka'. Hukumu ya kimungu ya mfano: Mungu hufungua Vitabu vya uzima. Sauti ya Shofar (pembe ya kondoo dume) mara 100. Kipindi cha toba (Yamim Noraim). Asali na tufaha kwa 'heri ya mwaka mpya'.",
+          "detail": "Muda: siku 2. Huanza siku 10 za toba ambayo itaisha Yom Kippur."
+        },
+        {
+          "name": "Yom Kippur (יוֹם כִּפּוּר)",
+          "subtitle": "10 Tishri - Siku Kuu ya Upatanisho",
+          "description": "Siku kuu ya mwaka wa Kiyahudi. Mfungo wa saa 25, ibada tano za maombi, maungamo ya pamoja. Wakati wa Hekalu: Kuhani Mkuu huingia mara moja kwa mwaka katika Patakatifu pa Patakatifu ili kunyunyiza kiti cha rehema kwa damu (Mambo ya Walawi 16). Mbuzi wa Azazeli anapelekwa jangwani.",
+          "detail": "Marufuku: kula, kunywa, kuosha, mahusiano ya ndoa, manukato, viatu vya ngozi."
+        },
+        {
+          "name": "Sukkot (סֻכּוֹת)",
+          "subtitle": "15-21 Tishri - Sikukuu ya Vibanda",
+          "description": "Kuadhimisha miaka 40 jangwani. Ujenzi wa vibanda (sukkot) na paa za kijani zinaonyesha anga. Tunakula huko, kuomba, wakati mwingine kulala kwa siku 7. Aina 4: loulav (mtende), etrog (citron), myrtle, Willow - ilihamia kwenye pointi 4 za kardinali.",
+          "detail": "Likizo ya furaha zaidi. Siku ya 7 (Hoshana Rabba) ni siku ya kufungwa kwa mwisho kwa hukumu."
+        },
+        {
+          "name": "Hanukkah (חֲנֻכָּה)",
+          "subtitle": "25 Kislev - siku 8 (Novemba-Desemba)",
+          "description": "Sikukuu ya Taa - ukumbusho wa kuwekwa wakfu upya kwa Hekalu (165 KK) baada ya ushindi wa Wamakabayo dhidi ya Antiochos IV. Muujiza wa mafuta (mafuta ya siku 1 huwaka siku 8). Taa ya Hanoukia (kinara cha matawi 9), michezo ya dreidel, donuts.",
+          "detail": "Isiyo ya kibiblia (maagano baina ya agano). Imetajwa katika Yohana 10:22 ('Sikukuu ya Kuweka wakfu')."
+        },
+        {
+          "name": "Purimu (פּוּרִים)",
+          "subtitle": "14 Adari (Februari-Machi)",
+          "description": "Likizo ya furaha zaidi - ukumbusho wa wokovu wa Wayahudi huko Uajemi (kitabu cha Esta). Kusoma Megila (kitabu cha Esta) katika sinagogi. Kelele zinafanywa kwa jina la Hamani. Mavazi, karamu, zawadi za chakula (mishloah manot), michango kwa masikini.",
+          "detail": "Muda: Siku 1. 'Purimu' = kuchora kura - Hamani alipiga kura kuchagua siku ya mauaji."
+        },
+        {
+          "name": "Mwaka wa Yubile (יוֹבֵל)",
+          "subtitle": "Kila baada ya miaka 50",
+          "description": "Baada ya majuma 7 ya miaka (miaka 49), mwaka wa 50 ni Yubile (Mambo ya Walawi 25). Ukombozi wa watumwa wote wa Kiebrania, kurudi kwa kila familia kwenye ardhi ya mababu zao, msamaha wa madeni. Sauti ya Shofar kwenye Yom Kippur ya Mwaka wa Jubilee. Yesu ananukuu Isaya 61 ('mwaka wa neema') mwanzoni mwa huduma yake.",
+          "detail": "Mwaka wa Sabato (kila miaka 7) hutangulia Yubile: dunia inapumzika, madeni yamesamehewa."
+        }
+      ]
+    },
+    {
+      "id": "mois",
+      "emoji": "📅",
+      "color": "from-teal-600 to-emerald-700",
+      "items": [
+        {
+          "name": "Nissan (נִיסָן)",
+          "subtitle": "Mwezi mtakatifu wa 1 - Machi / Aprili",
+          "description": "Mwezi wa kwanza wa kalenda ya kiliturujia. Mwezi wa Pasaka (Pasaka). Kutoka 12:2 “Mwezi huu utakuwa mwanzo wa miezi kwenu, na mwezi wa kwanza wa mwaka kwenu. Mwezi wa ukombozi na miujiza.",
+          "detail": "siku 30. Mwanzo wa spring. Maporomoko ya upepo yalisimama siku ya 16 ya Nissan."
+        },
+        {
+          "name": "Iyar (אִיָּר)",
+          "subtitle": "Mwezi wa 2 - Aprili / Mei",
+          "description": "Mwezi wa uponyaji (herufi za mwanzo = Ani YHWH Ropheka - 'Mimi ndimi Bwana nikuponyaye'). Pesah Sheni (Pasaka ya Pili) tarehe 14 Iyar kwa wale waliokuwa najisi.",
+          "detail": "siku 29. Kuhesabu Omer inaendelea."
+        },
+        {
+          "name": "Sivan (סיוָן)",
+          "subtitle": "Mwezi wa 3 - Mei / Juni",
+          "description": "Mwezi wa kutolewa kwa Torati pale Sinai. Sikukuu ya Shavuot (Pentekoste) siku ya Sivan 6. Mwezi unaohusishwa na ufunuo wa Mungu na Sheria.",
+          "detail": "siku 30. Katika AJ: Pentekoste ya Matendo 2 inaangukia mwezi huu."
+        },
+        {
+          "name": "Tamuzi (תַּמּוּז)",
+          "subtitle": "Mwezi wa 4 - Juni / Julai",
+          "description": "Mwezi wa maombolezo - kwenye Tamuzi 17, Musa anavunja Meza za Sheria. Mwanzo wa kipindi cha wiki 3 za maombolezo hadi 9 Av.",
+          "detail": "siku 29."
+        },
+        {
+          "name": "Av (אָב)",
+          "subtitle": "Mwezi wa 5 - Julai / Agosti",
+          "description": "Mwezi wa huzuni zaidi. Tarehe 9 Av (Ticha B'Av): uharibifu wa Hekalu la 1 (586 KK) na Hekalu la 2 (70 BK), kufukuzwa kutoka Uhispania (1492), na majanga mengi ya Kiyahudi. Saa 25 haraka.",
+          "detail": "siku 30. Siku ya 15 ya Av kwa kushangaza ni likizo ya furaha (sikukuu ya upendo)."
+        },
+        {
+          "name": "Elul (אֱלוּל)",
+          "subtitle": "Mwezi wa 6 - Agosti / Septemba",
+          "description": "Mwezi wa toba kabla ya Rosh Hashanah. Shofar hupulizwa kila asubuhi. Mfalme yuko shambani—mfano wa ukaribu wa Mungu kwa watu wake kabla ya hukumu.",
+          "detail": "siku 29. Usomaji wa kila siku wa Zaburi 27."
+        },
+        {
+          "name": "Tishri",
+          "subtitle": "Mwezi wa 7 - Septemba / Oktoba",
+          "description": "Mwezi mtukufu zaidi - Rosh Hashanah (1-2), Yom Kippur (10), Sukkot (15-21), Shemini Atzeret (22), Simchat Torah (23). Mwezi wa 7 unaonyesha ukamilifu wa nambari 7.",
+          "detail": "siku 30. Kuanza kwa mwaka wa kalenda (ingawa mwezi wa 7 wa kiliturujia)."
+        },
+        {
+          "name": "Heshvan (חֶשְׁוָן)",
+          "subtitle": "Mwezi wa 8 - Oktoba / Novemba",
+          "description": "Mwezi tu bila sherehe. Wakati mwingine huitwa 'Mar-Cheshvan' (Bitter Cheshvan). Mapokeo yanasema kwamba kuwekwa wakfu kwa Hekalu la Sulemani kulipaswa kufanyika hapo. Mwezi wa mvua katika Israeli - mafuriko yalianza Keshvan 17.",
+          "detail": "Siku 29 au 30."
+        },
+        {
+          "name": "Kislev",
+          "subtitle": "Mwezi wa 9 - Novemba / Desemba",
+          "description": "Mwezi wa Hanukka (25 Kislev). Katika baadhi ya mila, miezi ya ndoto na maono (ndoto za Yusufu, maono ya Zekaria). Kislev 19 ni Mwaka Mpya wa Hasidic.",
+          "detail": "Siku 29 au 30."
+        },
+        {
+          "name": "Tevet (טֵבֵת)",
+          "subtitle": "Mwezi wa 10 - Desemba / Januari",
+          "description": "Sura ya 8: Ptolemy II alitafsiri Torati kwa Kigiriki (Septuagint) - iliyofungwa na wengine. Fungu la 10: kuanza kwa kuzingirwa kwa Yerusalemu na Nebukadneza.",
+          "detail": "siku 29."
+        },
+        {
+          "name": "Shevat (שְׁבָט)",
+          "subtitle": "Mwezi wa 11 - Januari / Februari",
+          "description": "Tarehe 15 Shevat: Rosh Hashanah LaIlanot - Mwaka Mpya wa Miti (Tu BiShvat). Upandaji miti upya, kuonja aina 7 za Israeli. Miti ya mlozi inachanua katika Israeli.",
+          "detail": "siku 30."
+        },
+        {
+          "name": "Adari (אֲדָר)",
+          "subtitle": "Mwezi wa 12 - Februari / Machi",
+          "description": "Mwezi wa furaha zaidi. Purim on Adari 14. Wakisema: 'Adari inapoingia, furaha huongezeka.' Mwezi wa kuzaliwa na kufa kwa Musa (7 Adari).",
+          "detail": "siku 29. Miaka mirefu: Adar I (30d) + Adar II (29d)."
+        }
+      ]
+    },
+    {
+      "id": "monnaie",
+      "emoji": "🪙",
+      "color": "from-amber-600 to-yellow-700",
+      "items": [
+        {
+          "name": "Guera (גֵּרָה)",
+          "subtitle": "Sehemu ndogo ya fedha",
+          "description": "1/20 ya karne. Pesa ndogo kabisa iliyotajwa kwenye Torati. Imetumika kwa sensa ya nusu karne.",
+          "detail": "Mambo ya Walawi 27:25; Kutoka 30:13"
+        },
+        {
+          "name": "Beka (בֶּקַע)",
+          "subtitle": "Nusu shekeli",
+          "description": "Sawa na guera 10 = 1/2 shekeli. Ilitumika katika sensa ya kwanza ya Israeli (Kutoka 38:26). Uzito wa takriban gramu 5-6.",
+          "detail": "Mwanzo 24:22; Kutoka 38:26"
+        },
+        {
+          "name": "Shekeli (שֶׁקֶל)",
+          "subtitle": "Kitengo cha msingi - ~ 11-14g fedha",
+          "description": "Sehemu ya msingi ya fedha ya Biblia ya Kiebrania. 'Shekeli ya patakatifu' ni nzito kidogo. Ibrahimu ana uzito wa shekeli 400 za fedha kununua pango la Makpela (Mwanzo 23). Yusufu akauzwa kwa shekeli 20 za fedha.",
+          "detail": "Shekeli 1 = guera 20 = beka 2. Yuda alimuuza Yesu kwa shekeli 30 (bei ya mtumwa, Kut 21:32)."
+        },
+        {
+          "name": "Yangu (מָנֶה)",
+          "subtitle": "50 shekeli",
+          "description": "Kitengo cha kati. Mina 1 = shekeli 50 (matumizi ya kawaida) au shekeli 60 (kiwango cha Babeli). Inatumika katika biashara muhimu na katika maelezo ya Hekalu la Ezekieli.",
+          "detail": "Ezekieli 45:12; Nehemia 7:71-72"
+        },
+        {
+          "name": "Kipaji",
+          "subtitle": "shekeli 3,000 = mina 60",
+          "description": "Sehemu kubwa zaidi ya uzito/thamani. Talanta ya dhahabu ilikuwa bahati kubwa - takriban kilo 34 za dhahabu au fedha. Daudi anakusanya talanta 3,000 za dhahabu kwa ajili ya ujenzi wa Hekalu. Mfano wa talanta (Mathayo 25) unatumia thamani hii.",
+          "detail": "1 Mambo ya Nyakati 29:7; Mathayo 18:24 (talanta 10,000 = deni lisiloweza kulipwa)"
+        },
+        {
+          "name": "dinari ya Kirumi (דִּינָר)",
+          "subtitle": "Mara NT - mshahara wa kila siku",
+          "description": "Wakati wa Yesu, dinari (dinari) ilikuwa fedha ya kawaida ya Milki ya Roma. Dinari moja = siku 1 ya kazi kwa mfanyakazi wa shambani (Mathayo 20:2). Yesu anaomba kuona dinari wakati wa mabishano ya kodi (Mathayo 22:19).",
+          "detail": "Drakma ya Kigiriki ilikuwa na thamani sawa. Wakanushaji 100 = takriban mgodi 1."
+        }
+      ]
+    },
+    {
+      "id": "mesures",
+      "emoji": "⚖️",
+      "color": "from-slate-600 to-gray-700",
+      "items": [
+        {
+          "name": "UZITO -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Guera (גֵּרָה)",
+          "subtitle": "Uzito ~0.57g",
+          "description": "Sehemu ndogo zaidi ya uzito. guera 20 = shekeli 1.",
+          "detail": "Mambo ya Walawi 27:25"
+        },
+        {
+          "name": "Shekeli (שֶׁקֶל)",
+          "subtitle": "~11.4g (madhabahu ~14g)",
+          "description": "Kitengo cha msingi cha uzito. 'Shekeli ya patakatifu' iko juu kidogo. Uzito unaotumika kwenye mizani kupima fedha, dhahabu na vifaa vya thamani.",
+          "detail": "Mwanzo 23:15; Kutoka 30:13"
+        },
+        {
+          "name": "Yangu (מָנֶה)",
+          "subtitle": "Shekeli 50 = ~ 570g",
+          "description": "Kitengo cha biashara cha kati. Inatumika katika biashara kubwa.",
+          "detail": "Ezekieli 45:12"
+        },
+        {
+          "name": "Kipaji",
+          "subtitle": "shekeli 3,000 = ~ 34 kg",
+          "description": "Uzito mzito zaidi. Talanta ya dhahabu au fedha inawakilisha bahati. Jiwe la Mvua ya mawe la Ufunuo lina uzito wa talanta moja (Ufu. 16:21).",
+          "detail": "Kutoka 25:39; 1 Wafalme 9:14"
+        },
+        {
+          "name": "- UREFU -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Kidole (אֶצְבַּע)",
+          "subtitle": "~ 1.85cm",
+          "description": "Sehemu ndogo zaidi ya urefu wa kibiblia. Vidole 4 = kiganja 1.",
+          "detail": "Yeremia 52:21"
+        },
+        {
+          "name": "Kiganja / Kiganja (טֶפַח)",
+          "subtitle": "~ 7.4cm",
+          "description": "Vidole 4 kwa upande. 3 mapezi = 1 span.",
+          "detail": "Kutoka 25:25; 1 Wafalme 7:26"
+        },
+        {
+          "name": "Empan (זֶרֶת)",
+          "subtitle": "~22cm",
+          "description": "Umbali kati ya kidole gumba kilichopanuliwa na kidole kidogo. Vipimo 2 = dhiraa 1.",
+          "detail": "Kutoka 28:16; 1 Samweli 17:4 (Goliathi: dhiraa 6 span 1)"
+        },
+        {
+          "name": "Mraba (אַמָּה)",
+          "subtitle": "~ 44-52cm",
+          "description": "Umbali kutoka kwa kiwiko hadi ncha za vidole. Sehemu kuu ya usanifu wa Bibilia. Safina ya Nuhu: dhiraa 300 × 50 × 30. Hekalu la Sulemani: 60 × 20 × 30 dhiraa.",
+          "detail": "Mwanzo 6:15; 1 Wafalme 6:2; Ezekieli anatumia 'dhiraa kubwa' ya sm 52."
+        },
+        {
+          "name": "Mlango (miwa, קָנֶה)",
+          "subtitle": "dhiraa 6 = ~ 2.6 m",
+          "description": "Iliyotumiwa na Ezekieli kupima Hekalu la eskatolojia. Kipimo cha malaika cha Hekalu la Ufunuo (11:1).",
+          "detail": "Ezekieli 40:5; Ufunuo 11:1"
+        },
+        {
+          "name": "Uwanja (stadion)",
+          "subtitle": "~185 m (Kigiriki)",
+          "description": "Kipimo cha Kigiriki kilichotumika katika Agano Jipya. Emau ni stadia 60 kutoka Yerusalemu (Luka 24:13 ≈ km 11). Yerusalemu Mpya: umbali wa kilomita 12,000 kando (Ufu. 21:16).",
+          "detail": "Luka 24:13; Yohana 6:19; Ufu 21:16"
+        },
+        {
+          "name": "Maili ya Kirumi / Ligi",
+          "subtitle": "~1,480m",
+          "description": "Maili ya Kirumi (miliarium) = 1,000 hatua mbili = ~ 1.48 km. Yesu alisema, ‘Mtu akikulazimisha mwendo wa maili moja, nenda naye mbili’ (Mathayo 5:41).",
+          "detail": "Mathayo 5:41; Luka 24:13"
+        },
+        {
+          "name": "Sabato (njia ya sabato)",
+          "subtitle": "~900m",
+          "description": "Umbali wa juu unaoruhusiwa kwa kutembea siku ya Sabato kulingana na mapokeo ya marabi (kulingana na Hesabu 35:5). Mlima wa Mizeituni ni 'njia ya Sabato' kutoka Yerusalemu.",
+          "detail": "Matendo 1:12"
+        },
+        {
+          "name": "- JUZUU -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Kumbukumbu (לֹג)",
+          "subtitle": "~ lita 0.31",
+          "description": "Kipimo kidogo zaidi cha kiasi cha kioevu. 4 magogo = 1 kav. Inatumika kwa mafuta katika sheria za utakaso.",
+          "detail": "Mambo ya Walawi 14:10"
+        },
+        {
+          "name": "Kav (kab)",
+          "subtitle": "~ lita 1.2",
+          "description": "Kipimo kidogo cha kavu. Wakati wa kuzingirwa kwa Samaria, kav ya kinyesi cha njiwa iliuzwa kwa shekeli 5 za fedha (njaa kali, 2 Wafalme 6:25).",
+          "detail": "2 Wafalme 6:25"
+        },
+        {
+          "name": "Omeri (עֹמֶר)",
+          "subtitle": "~lita 2.2 = 1/10 ya efa",
+          "description": "Mgao wa kila siku wa mana kwa kila mtu (Kutoka 16:16). Umoja wa Sikukuu ya Mganda wa Kwanza (Mambo ya Walawi 23:10-11).",
+          "detail": "Kutoka 16:16,36"
+        },
+        {
+          "name": "Seah (סְאָה)",
+          "subtitle": "~ lita 7 = 1/3 ya efa",
+          "description": "Sara anatayarisha sea 3 za unga kwa ajili ya wageni 3 wa Abrahamu (Mwanzo 18:6). Mwanamke anaficha chachu katika seah 3 za unga (Mathayo 13:33).",
+          "detail": "Mwanzo 18:6; Mathayo 13:33"
+        },
+        {
+          "name": "Efa (אֵיפָה)",
+          "subtitle": "~ lita 22",
+          "description": "Sehemu kuu ya kipimo kavu. Pishi = 1/10 ya efa. Inatumika kwa matoleo ya nafaka (Mambo ya Walawi 5:11). Lazima uwe mwadilifu: 'Utakuwa na efa moja tu ya haki' (Mambo ya Walawi 19:36).",
+          "detail": "Mambo ya Walawi 5:11; Ezekieli 45:11"
+        },
+        {
+          "name": "Hin (הין)",
+          "subtitle": "~ lita 4 (kioevu)",
+          "description": "Kioevu sawa na efa. Kutumika kupima mafuta na divai kwa libations. Saa 1 = magogo 12.",
+          "detail": "Kutoka 29:40; Ezekieli 4:11"
+        },
+        {
+          "name": "Bafu (בַּת)",
+          "subtitle": "~ lita 22 (= efa)",
+          "description": "Kiwango cha msingi cha kioevu. Bafu 10 = 1 kor (homeri). Bahari ya shaba ya Hekalu la Sulemani ilikuwa na bathi 2,000 (1 Wafalme 7:26).",
+          "detail": "1 Wafalme 7:26; Ezekieli 45:14"
+        },
+        {
+          "name": "Homer / Kor",
+          "subtitle": "~ lita 220 = efa 10",
+          "description": "Kipimo kikubwa zaidi cha kiasi. Kware jangwani: watu walikusanya angalau homeri 10 (Hesabu 11:32). Ezekieli 45:14: bathi 10 = homeri 1.",
+          "detail": "Hesabu 11:32; Ezekieli 45:11,14"
+        }
+      ]
+    },
+    {
+      "id": "symbolique",
+      "emoji": "✡️",
+      "color": "from-indigo-600 to-blue-700",
+      "items": [
+        {
+          "name": "1 - Umoja wa Kimungu (אֶחָד)",
+          "subtitle": "Mmoja, mmoja, wa pekee",
+          "description": "Umoja kamili wa Mungu: 'Sikieni Israeli, BWANA Mungu wetu, BWANA ndiye Mmoja' (Kumbukumbu la Torati 6:4-Shema). Nambari ya 1 inaelezea kutolinganishwa kwa Mungu, upekee wa Muungano. Hakuna mungu mwingine. Katika Agano Jipya: 'Kuna Mungu mmoja, na mpatanishi mmoja' (1 Timotheo 2:5).",
+          "detail": "Kumbukumbu la Torati 6:4; 1 Timotheo 2:5; Waefeso 4:4-6"
+        },
+        {
+          "name": "2 - Ushuhuda & Uwili",
+          "subtitle": "Uthibitisho, mashahidi wawili",
+          "description": "Sheria inahitaji mashahidi 2 au 3 kuthibitisha ukweli (Kumbukumbu la Torati 19:15). Yesu anawatuma wanafunzi wake 2 kwa 2 (Marko 6:7). Vibao 2 vya Sheria. Maagano 2. Makerubi 2 juu ya Sanduku Apocalypse inazungumza juu ya mashahidi 2 (Ufu. 11). 2 pia inaweza kuashiria mgawanyiko: wema/uovu, mwanga/giza.",
+          "detail": "Kumbukumbu la Torati 19:15; Marko 6:7; Ufunuo 11:3"
+        },
+        {
+          "name": "3 - Utatu & Utimilifu wa Kimungu",
+          "subtitle": "Ukamilifu wa mbinguni",
+          "description": "Idadi ya utimilifu wa kimungu. Wahenga 3 (Ibrahimu, Isaka, Yakobo). Hija 3 za kila mwaka. Sehemu 3 za Hekalu (ua, mahali patakatifu, Patakatifu pa Patakatifu). Siku 3 za Yona na ufufuo wa Yesu. Trisagion: 'Mtakatifu, Mtakatifu, Mtakatifu' (Isaya 6:3). Sala ya kila siku ya Kiyahudi inasemwa mara 3.",
+          "detail": "Isaya 6:3; Yona 1:17; Mathayo 12:40"
+        },
+        {
+          "name": "4 - Ulimwengu na Uumbaji",
+          "subtitle": "Pembe 4 za dunia",
+          "description": "Pointi 4 za kardinali = ulimwengu wa ulimwengu ulioumbwa. pepo 4, mito 4 ya paradiso (Mwanzo 2:10-14), viumbe hai 4 vya gari la kiungu (Ezekieli 1; Ufunuo 4). Aina 4 za Sukkot zilichafuka kuelekea pande 4. Falme 4 za Danieli. Injili 4.",
+          "detail": "Mwanzo 2:10; Ezekieli 1:5; Danieli 7:3; Ufunuo 4:6"
+        },
+        {
+          "name": "5 - Neema na Torati",
+          "subtitle": "Vitabu 5 vya Musa",
+          "description": "5 = vitabu 5 vya Torati (Pentateuch). 5 = neema kwa Kiebrania (ḥen). Sadaka 5 za Mambo ya Walawi. Daudi alichagua mawe 5 laini dhidi ya Goliathi (1 Samweli 17:40). Mabaraza 5 ya Bethzatha (Yohana 5:2). Mikate 5 ya kuzidisha (Mathayo 14:17).",
+          "detail": "1 Samweli 17:40; Yohana 5:2; Mathayo 14:17"
+        },
+        {
+          "name": "6 - Kutokamilika na Kazi ya Kibinadamu",
+          "subtitle": "Idadi ya mtu",
+          "description": "Siku 6 za kazi (kabla ya Sabato). Mwanadamu aliumbwa siku ya 6. 6 miji ya makimbilio. Goliathi ana urefu wa dhiraa 6 na span 1, ana silaha 6. 666 ( Ufunuo 13:18 ) = hali ya kutokamilika imefikia kiwango cha juu zaidi, ile namba 6 inayofananisha mtu anayedai kuchukua mahali pa Mungu (7) bila kumfikia.",
+          "detail": "Kutoka 20:9; Mwanzo 1:31; Ufunuo 13:18"
+        },
+        {
+          "name": "7 - Ukamilifu na Agano",
+          "subtitle": "Nambari takatifu kwa ubora",
+          "description": "'Sheva' (7) anashiriki mzizi wa 'kiapo' (shevua) - kwa Kiebrania, kuapa ni 'kufunga kwa 7'. Siku 7 za Uumbaji, sikukuu 7, mishumaa 7 ya Menorah, miaka 7 ya sabato, mara 7 kusamehe × 70 (Mathayo 18:22). Ufunuo hutumia 7 zaidi ya mara 50 (mihuri, baragumu, bakuli, barua, roho). 777 = utimilifu kabisa.",
+          "detail": "Mwanzo 2:2; Mathayo 18:22; Ufunuo 1:4"
+        },
+        {
+          "name": "8 - Mwanzo mpya",
+          "subtitle": "Zaidi ya mzunguko wa 7",
+          "description": "8 = siku ya kwanza baada ya Sabato kamili = ufufuo, uumbaji mpya. Tohara siku ya 8 (Mwanzo 17:12) = kuingia katika Agano, mwanzo mpya. Yesu anafufua siku ya kwanza ya juma = siku ya nane ya mfano. Watu 8 waliokolewa ndani ya safina (1 Petro 3:20). Hanukkah Menorah ina matawi 8.",
+          "detail": "Mwanzo 17:12; 1 Petro 3:20; Yohana 20:1"
+        },
+        {
+          "name": "10 - Sheria na Uadilifu",
+          "subtitle": "Desimali ya ukamilifu",
+          "description": "Amri 10, mapigo 10 ya Misri, vizazi 10 kutoka Nuhu hadi Ibrahimu, vizazi 10 kutoka kwa Ibrahimu hadi Nuhu. Zaka = 1/10. Minyan ya sinagogi = wanaume 10 wazima (akidi ya maombi). Wanawali 10 (Mathayo 25). nyuzi 10 za kinubi cha Daudi.",
+          "detail": "Kutoka 20; Mwanzo 5; Mathayo 25:1"
+        },
+        {
+          "name": "12 - Serikali ya kimungu",
+          "subtitle": "Idadi ya watu wa Mungu",
+          "description": "Wana 12 wa Yakobo = makabila 12 ya Israeli. Mitume 12. Miezi 12 ya mwaka. Mikate 12 ya uwepo (1 kwa kabila). 12 mawe ya kifuani. chemchemi 12 katika Elimu (Kutoka 15:27). Yerusalemu Mpya: milango 12, misingi 12, viwanja 12,000 kila upande, wateule 144,000 (12×12×1,000).",
+          "detail": "Mwanzo 49; Mathayo 10:1; Ufunuo 21:12-21"
+        },
+        {
+          "name": "17 - Ushindi & Neema",
+          "subtitle": "7 + 10 = ukamilifu wa Fa",
+          "description": "Idadi ndogo inayojulikana lakini tajiri: jumla ya 10 (Sheria) na 7 (ukamilifu). Joseph aliuzwa akiwa na umri wa miaka 17 - mwanzo wa njia yake ya ushindi. Safina ya Nuhu ilisimama siku ya 17 ya mwezi wa 7 (Mwanzo 8:4). Katika Agano Jipya, Warumi 8 - sura ya ushindi - inaorodhesha mambo 17 ambayo hayatengani na upendo wa Mungu.",
+          "detail": "Mwanzo 37:2; Mwanzo 8:4; Warumi 8:35-39"
+        },
+        {
+          "name": "40 - Jaribio & Mabadiliko",
+          "subtitle": "Muda wa vipindi vya utakaso",
+          "description": "Siku 40 za mafuriko. Miaka 40 jangwani. Siku 40 za Musa pale Sinai (mara mbili). Siku 40 za Eliya jangwani. Miaka 40 ya utawala wa Daudi na Sulemani. Siku 40 za majaribu ya Yesu. Siku 40 kati ya Ufufuo na Kupaa. 40 = muda kamili wa majaribio unaopelekea mageuzi.",
+          "detail": "Mwanzo 7:4; Kutoka 24:18; Mathayo 4:2; Matendo 1:3"
+        },
+        {
+          "name": "50 - Yubile na Pentekoste",
+          "subtitle": "Neema juu",
+          "description": "Miaka 50 = Yubile (ukombozi wa ulimwengu wote, kukabidhiwa ardhi, Mambo ya Walawi 25). Siku 50 kati ya Pasaka na Shavuot = Pentekoste. nguzo 50 katika ua wa maskani. vifungo 50 vya dhahabu na shaba vinavyounganisha papi za Maskani. Pentekoste ya Kikristo (Matendo 2) inaangukia siku 50 haswa baada ya Pasaka.",
+          "detail": "Mambo ya Walawi 25:10; Kutoka 26:6; Matendo 2:1"
+        },
+        {
+          "name": "70 - Mataifa na Ukamilifu uliopanuliwa",
+          "subtitle": "Ulimwengu wa wokovu",
+          "description": "Mataifa 70 kutoka katika Jedwali la Mataifa (Mwanzo 10) = wanadamu wote. wazee 70 wa Israeli. Miaka 70 ya uhamisho wa Babeli (Yeremia 25:11). majuma 70 ya Danieli (9:24). Yesu anatuma wanafunzi 70 ( Luka 10:1 )—mmoja kwa kila taifa. Wajumbe 70 wa Sanhedrini. nafsi 70 kutoka nyumba ya Yakobo huko Misri.",
+          "detail": "Mwanzo 10; Yeremia 25:11; Danieli 9:24; Luka 10:1"
+        },
+        {
+          "name": "153 - Samaki Wakubwa",
+          "subtitle": "Nambari ya Ajabu ya Yohana 21",
+          "description": "Yohana 21:11: samaki wa kimuujiza baada ya Ufufuo = samaki wakubwa 153 haswa. Mababa wa Kanisa walikisia mengi: Jerome alisema kuwa kuna aina 153 za samaki zinazojulikana = uvuvi unaashiria watu wote wa dunia. Kihesabu: 153 = 1³+5³+3³ na jumla kutoka 1 hadi 17.",
+          "detail": "Yohana 21:11"
+        },
+        {
+          "name": "666 - Idadi ya Mnyama",
+          "subtitle": "Kutokamilika kwa binadamu mara tatu",
+          "description": "Ufunuo 13:18: 'Namba ya mnyama huyo... ni hesabu ya mwanadamu, na hesabu yake ni 666.' Katika gematria (numerology ya Kiebrania), 666 inalingana na 'Neron Caesar' kwa Kiebrania - dokezo linalowezekana kwa mateso ya Warumi. Kwa mfano: wale 6 waliorudiwa mara 3 = mtu (6) ambaye anataka kufikia ukamilifu wa kimungu (7) bila kuufikia.",
+          "detail": "Ufunuo 13:18; 1 Wafalme 10:14 (Talanta 666 za dhahabu ya Sulemani)"
+        }
+      ]
+    },
+    {
+      "id": "quantites",
+      "emoji": "🔢",
+      "color": "from-purple-600 to-violet-700",
+      "items": [
+        {
+          "name": "- NAMBA ZA MFANO -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "3 - Utatu & Utimilifu wa Kimungu",
+          "subtitle": "Idadi ya utimilifu wa kimungu",
+          "description": "Nambari ya 3 inaonyesha utimilifu wa kimungu: mababu 3 (Ibrahimu, Isaka, Yakobo), sehemu 3 za Hekalu, safari 3 za kila mwaka za lazima, siku 3 za ufufuo wa Yona na Yesu. Trisagion: 'Mtakatifu, Mtakatifu, Mtakatifu' (Isaya 6:3).",
+          "detail": "Yona 1:17; Mathayo 12:40; Isaya 6:3"
+        },
+        {
+          "name": "7 - Ukamilifu na Agano",
+          "subtitle": "Idadi ya mafanikio",
+          "description": "Nambari ya mfano zaidi katika Biblia. Siku 7 za Uumbaji, sikukuu 7 za kila mwaka, mishumaa 7 ya Menora, miaka 7 ya sabato, majuma 70 ya Danieli. 'Sheva' (7) anashiriki mzizi wa 'kiapo' (shevua) - kuapa kwa 7.",
+          "detail": "Ufunuo: mihuri 7, baragumu 7, bakuli 7. 777 = utimilifu kabisa."
+        },
+        {
+          "name": "10 - Sheria na Uadilifu",
+          "subtitle": "Decimal ya ukamilifu",
+          "description": "Amri 10, mapigo 10 ya Misri, vizazi 10 kutoka Nuhu hadi Ibrahimu. Zaka = 1/10. Akidi ya sinagogi (minyan) = wanaume 10 wazima. Wanawali 10 wa mfano huo.",
+          "detail": "Kutoka 20; Mwanzo 5; Mathayo 25:1"
+        },
+        {
+          "name": "12 - Serikali ya kimungu",
+          "subtitle": "Idadi ya watu wa Mungu",
+          "description": "Wana 12 wa Yakobo = makabila 12 ya Israeli. Mitume 12. Miezi 12. 12 mikate ya uwepo. 12 mawe ya kifuani. Yerusalemu Mpya: malango 12, misingi 12, stadi 12,000 kila upande, 144,000 (12×12×1000).",
+          "detail": "Mwanzo 49; Mathayo 10:1; Ufunuo 21"
+        },
+        {
+          "name": "40 - Jaribio & Mabadiliko",
+          "subtitle": "Muda wa vipindi vya majaribio",
+          "description": "Siku 40 za gharika, miaka 40 jangwani, siku 40 za Musa huko Sinai, miaka 40 ya utawala wa Daudi na Sulemani, siku 40 za kufunga kwa Eliya, siku 40 za majaribu ya Yesu, siku 40 kati ya Ufufuo na Kupaa.",
+          "detail": "Mwanzo 7:4; Kutoka 24:18; Mathayo 4:2; Matendo 1:3"
+        },
+        {
+          "name": "50 - Yubile na Neema",
+          "subtitle": "Idadi ya kutolewa",
+          "description": "Miaka 50 = Yubile (ukombozi, makabidhiano ya ardhi). Siku 50 kati ya Pasaka na Shavuot = Pentekoste. Nguzo 50 za Maskani. Pentekoste ya Kikristo = kumiminwa kwa Roho baada ya siku 50.",
+          "detail": "Mambo ya Walawi 25:10; Matendo 2:1"
+        },
+        {
+          "name": "70 - Mataifa na Ukamilifu uliopanuliwa",
+          "subtitle": "Idadi ya utimilifu wa kitaifa",
+          "description": "mataifa 70 kutoka katika Jedwali la Mataifa (Mwanzo 10). wazee 70 wa Israeli (Kutoka 24:1). Miaka 70 ya uhamisho wa Babeli. Wiki 70 za Danieli. Yesu anawatuma wanafunzi 70 (Luka 10). Wajumbe 70 wa Sanhedrini.",
+          "detail": "Mwanzo 10; Danieli 9:24; Luka 10:1"
+        },
+        {
+          "name": "- VITENGO VYA VIKUNDI -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Kumi (עֲשָׂרָה)",
+          "subtitle": "Kitengo cha msingi cha kijeshi na kijamii",
+          "description": "Sehemu ndogo zaidi ya shirika la kijamii. Yethro anamshauri Musa kuwapanga watu katika vitengo vya 10 (Kutoka 18:21). Mkuu wa kumi = afisa wa chini kabisa katika uongozi wa kijeshi wa Israeli. Sinagogi minyan = 10.",
+          "detail": "Kutoka 18:21,25; Kumbukumbu la Torati 1:15"
+        },
+        {
+          "name": "Hamsini (חֲמִשִּׁים)",
+          "subtitle": "Kikundi cha watu 50",
+          "description": "Kitengo cha kati katika shirika la kijeshi la Musa. Viongozi wa hamsini walisimamia makumi tano. Eliya anakabiliana na makundi mawili ya askari 50 waliotumwa na Mfalme Ahazia (2 Wafalme 1:9-14).",
+          "detail": "Kutoka 18:21; 2 Wafalme 1:9-14"
+        },
+        {
+          "name": "Mia (מֵאָה)",
+          "subtitle": "Kikundi cha watu 100",
+          "description": "Kitengo muhimu katika shirika la Israeli. Viongozi wa mia wametajwa katika shirika la jeshi na taifa. Yesu aliketisha umati katika vikundi vya watu 50 na 100 (Marko 6:40).",
+          "detail": "Kutoka 18:21; Hesabu 31:14; Marko 6:40"
+        },
+        {
+          "name": "Elfu (אֶלֶף)",
+          "subtitle": "Kabila/ukoo/kitengo cha 1000",
+          "description": "'Elef' = elfu, lakini pia 'ukoo' au 'kabila' katika miktadha fulani. Makabila yaligawanywa katika maelfu kwa sensa za kijeshi. Kiongozi wa elfu = afisa mkuu. Gideoni akasema: 'Ukoo wangu ndio dhaifu zaidi...mimi ndiye wa mwisho katika nyumba ya baba yangu.'",
+          "detail": "Kutoka 18:21; Waamuzi 6:15; Hesabu 1:16"
+        },
+        {
+          "name": "Miriadi (רְבָבָה)",
+          "subtitle": "10,000 - idadi ya wasiohesabika",
+          "description": "10,000 - nambari kubwa zaidi ya kawaida katika hesabu za kale za Kiebrania. Inaeleza ukubwa: 'Musa alikuwa na wana wa Israeli 10,000 mara 10,000' (maneno ya wingi). Daudi: 'Sauli aliua elfu, na Daudi elfu kumi' (1 Samweli 18:7).",
+          "detail": "1 Samweli 18:7; Kumbukumbu la Torati 32:30; Ufunuo 5:11 (mamia ya maelfu)"
+        },
+        {
+          "name": "- MGAWANYO WA WAKATI -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Saa (שָׁעָה)",
+          "subtitle": "1/12 ya mchana au usiku",
+          "description": "Waebrania waligawanya siku (mawio hadi machweo) katika masaa 12 ya urefu tofauti kulingana na msimu. 'Saa ya tatu' = 9 a.m., 'saa sita' = mchana, 'saa tisa' = 3 p.m. (wakati wa maombi na kifo cha Yesu).",
+          "detail": "Mathayo 20:3-9; Marko 15:25,33,34; Matendo 3:1"
+        },
+        {
+          "name": "Tazama (אַשְׁמוּרָה)",
+          "subtitle": "Mgawanyiko wa usiku katika sehemu 3 au 4",
+          "description": "Usiku huo uligawanywa katika mikesha ya kijeshi. Agano la Kale la Kiebrania linatumia zamu 3: za jioni, za usiku wa manane, za asubuhi. Agano Jipya la Kirumi linatumia saa 4: jioni, usiku wa manane, jogoo, asubuhi. Yesu anatembea juu ya maji katika zamu ya 4 (Mathayo 14:25).",
+          "detail": "Waamuzi 7:19; Maombolezo 2:19; Mathayo 14:25"
+        },
+        {
+          "name": "Wiki ya Sabato (שְׁמִטָּה)",
+          "subtitle": "Mzunguko wa miaka 7",
+          "description": "Kila baada ya miaka 7, dunia hutulia (Mambo ya Walawi 25:1-7): hakuna kupanda wala kuvuna. Madeni wanayodaiwa Waisraeli yanasamehewa (Kumbukumbu la Torati 15:1-3). Watumwa wa Kiebrania wamewekwa huru (Kutoka 21:2). Kukosa kuadhimisha miaka hii ya sabato ni mojawapo ya sababu za uhamisho wa Babeli (2 Mambo ya Nyakati 36:21).",
+          "detail": "Mambo ya Walawi 25:1-7; Kumbukumbu la Torati 15:1; 2 Mambo ya Nyakati 36:21"
+        },
+        {
+          "name": "Kizazi (דוֹר)",
+          "subtitle": "~miaka 40 katika Biblia",
+          "description": "Kizazi kimoja cha kibiblia = takriban miaka 40 (miaka 40 jangwani = kizazi kimoja). Mathayo 1:17 inaunda nasaba ya Yesu katika vizazi 3 × 14. 'Hata kizazi cha 3 na cha 4' (adhabu) dhidi ya 'hata vizazi elfu' (baraka, Kutoka 20:5-6).",
+          "detail": "Kutoka 20:5-6; Hesabu 14:33; Mathayo 1:17"
+        }
+      ]
+    },
+    {
+      "id": "vetements",
+      "emoji": "👘",
+      "color": "from-rose-600 to-red-700",
+      "items": [
+        {
+          "name": "- MAVAZI YA KAWAIDA -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Touniqa / Kétonet (כֻּתֹּנֶת)",
+          "subtitle": "Nguo ndefu - vazi la msingi",
+          "description": "Shati refu linalovaliwa karibu na ngozi na wanaume na wanawake. Inaweza kuwa kitani (makuhani) au pamba. Yusufu anapokea 'kanzu ya rangi nyingi' maarufu (au ya mikono mirefu, ketone passim) kutoka kwa baba yake Yakobo.",
+          "detail": "Mwanzo 37:3; Yohana 19:23 (Vazi la Yesu lisilo na mshono)"
+        },
+        {
+          "name": "Nguo / Simlah (שִׂמְלָה)",
+          "subtitle": "Kanzu kubwa ya mstatili",
+          "description": "Kipande cha mstatili cha kitambaa kinachovaliwa juu ya kanzu. Pia hutumika kama kifuniko usiku. Sheria inakataza kuweka vazi la maskini kama rehani baada ya jua kutua (Kutoka 22:25-26).",
+          "detail": "Kumbukumbu la Torati 22:12 (pindo za kona)"
+        },
+        {
+          "name": "Meil (מְעִיל)",
+          "subtitle": "Nguo isiyo na mikono, mavazi ya bibi arusi",
+          "description": "Mavazi ya sherehe huvaliwa na watu wa vyeo vya juu. Samweli alivaa bora zaidi. Sauli analirarua jicho la Samweli ( 1 Samweli 15:27 )—mfano wa ufalme uliopasuka. Daudi anacheza kwenye meil (2 Samweli 6:14).",
+          "detail": "1 Samweli 2:19; 1 Samweli 15:27; Ayubu 29:14"
+        },
+        {
+          "name": "Ukanda / Hagora (חֲגוֹרָה)",
+          "subtitle": "Ukanda, ukanda",
+          "description": "Nyongeza muhimu ya kukunja kanzu wakati wa kufanya kazi au kupigana. 'Jifunge kiuno' = kujitayarisha kwa ajili ya hatua. Yohana Mbatizaji huvaa mkanda wa ngozi (Mathayo 3:4).",
+          "detail": "Waefeso 6:14 (mfano wa ukweli)"
+        },
+        {
+          "name": "Viatu (סַנְדָּל)",
+          "subtitle": "Viatu vya ngozi",
+          "description": "Waebrania walivaa viatu vya ngozi - nyayo zilizofungwa na laces. Kuvua kiatu = kuacha haki (Ruthu 4:7) au ishara ya kutostahili (Yohana 1:27). Mungu alimwambia Musa, ‘Vua viatu vyako’ (Kutoka 3:5).",
+          "detail": "Amosi 2:6 (inauzwa kwa jozi ya viatu)"
+        },
+        {
+          "name": "Tzitsit (צִיצִית)",
+          "subtitle": "Pindo za ibada kwenye pembe za vazi",
+          "description": "Hesabu 15:38-39 inaamuru kufunga pindo (tzitsit) kwenye pembe nne za vazi kwa uzi wa bluu (tekhelet). Ukumbusho wa amri zote. Mwanamke anayetokwa na damu anagusa 'pindo la vazi la Yesu' (tsitsit).",
+          "detail": "Mathayo 9:20; Kumbukumbu la Torati 22:12"
+        },
+        {
+          "name": "Phylacteries / Tefillin (תְּפִלִּין)",
+          "subtitle": "Sanduku za ngozi zenye maandishi ya kibiblia",
+          "description": "Sanduku ndogo nyeusi za ngozi huvaliwa kwenye mkono wa kushoto na paji la uso wakati wa sala ya asubuhi (isipokuwa Shabbat). Ina vifungu 4 kutoka kwa Torati (Kut.13:1-10; Kut.13:11-16; Kumb.6:4-9; Kum.11:13-21). Kulingana na Kumbukumbu la Torati 6:8.",
+          "detail": "Mathayo 23:5 (Yesu anashutumu filakteria zilizopanuliwa)"
+        },
+        {
+          "name": "- VAZI LA KUKUHANI -",
+          "subtitle": "Mambo ya Walawi 8; Kutoka 28-29",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Breeches za kitani (מִכְנָסַיִם)",
+          "subtitle": "Nguo za ndani za kikuhani za lazima",
+          "description": "Suruali ya kitani nyeupe inayofunika kutoka kwenye figo hadi kwenye mapaja. Makuhani wote walivaa ili kuficha uchi wao wakati wa huduma kwenye madhabahu. Ukumbusho wa utakatifu na unyenyekevu mbele za Mungu.",
+          "detail": "Kutoka 28:42; Mambo ya Walawi 6:3"
+        },
+        {
+          "name": "Nguo ya kitani (כֻּתֹּנֶת בַּד)",
+          "subtitle": "Nguo ndefu ya kitani nyeupe - makuhani wa kawaida",
+          "description": "Nguo nyeupe iliyopambwa ambayo huvaliwa na makuhani wote. Kitani nyeupe kinaashiria usafi. Inakwenda chini kwa miguu. Kwa makuhani wa kawaida, ni vazi linaloonekana zaidi.",
+          "detail": "Kutoka 28:39; Mambo ya Walawi 8:13"
+        },
+        {
+          "name": "Mkanda uliopambwa (אַבְנֵט)",
+          "subtitle": "Ukanda wa kitani wa rangi nyingi",
+          "description": "Mkanda wa kitani safi nyeupe na nyuzi za rangi (bluu, zambarau, nyekundu) huvaliwa na makuhani wa kawaida, na hata kupambwa zaidi kwa Kuhani Mkuu. Iliruhusu kanzu hiyo kukunjwa.",
+          "detail": "Kutoka 28:39; 39:29"
+        },
+        {
+          "name": "kilemba / kilemba (מִגְבָּעָה)",
+          "subtitle": "Mavazi ya kichwa ya makuhani wa kawaida",
+          "description": "Kofia ya kitani nyeupe kwa makuhani wa kawaida. Tofauti na kilemba kikubwa (mitznefet) cha Kuhani Mkuu. Ishara ya utumishi mtakatifu na heshima ya ukuhani.",
+          "detail": "Kutoka 28:40; 29:9"
+        },
+        {
+          "name": "- VAZI LA KUHANI MKUU -",
+          "subtitle": "mavazi 8 kwa jumla (4 kati ya makuhani + 4 ya ziada)",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Mavazi ya bluu",
+          "subtitle": "Mavazi ya bluu yote - chini ya Efodi",
+          "description": "Mavazi ya pamba ya bluu isiyo na mshono (tekhelet), na mpaka wa makomamanga katika nyuzi za rangi zinazobadilishana na kengele za dhahabu. Kengele zililia kuashiria uwepo wa Kuhani Mkuu mahali patakatifu.",
+          "detail": "Kutoka 28:31-35 — ‘ili asife’"
+        },
+        {
+          "name": "Efodi (אֵפוֹד)",
+          "subtitle": "Apron ya Kuhani Mkuu - kitani na dhahabu",
+          "description": "Vazi la pekee la Kuhani Mkuu, lililotengenezwa kwa uzi wa dhahabu, sufu ya buluu, ya zambarau, nyekundu na kitani nzuri iliyosokotwa. Huvaliwa kwenye kifua kama apron ya corselet. Mawe mawili ya shohamu kwenye mbao za mabega yana majina ya makabila 12 (6 kila upande).",
+          "detail": "Kutoka 28:6-14 — Kuhani Mkuu ‘analeta’ Israeli mbele za Mungu"
+        },
+        {
+          "name": "Bamba la matiti la Hukumu (חֹשֶׁן)",
+          "subtitle": "Mawe 12 ya thamani - makabila 12",
+          "description": "Kipande cha mraba (22 × 22 cm) cha kitambaa sawa na Efodi, huvaliwa kwenye kifua. Weka mawe ya thamani 12 katika safu 4, kila moja ikichorwa kwa jina la kabila la Israeli. Iliyomo Ourim na Tummim.",
+          "detail": "Kutoka 28:15-30; mawe 12 yanawakilisha msingi wa Yerusalemu Mpya ( Ufu. 21:19-20 )."
+        },
+        {
+          "name": "Urimu na Thumimu",
+          "subtitle": "Taa na Ukamilifu - neno la Mungu",
+          "description": "Vitu vya ajabu vilivyowekwa kwenye dirii ili kushauriana na Mungu. Asili yao halisi haijulikani (mawe, kete?). Ourim = 'Taa', Toummim = 'Ukamilifu'. Hutumika kupata majibu ya kimungu katika maamuzi muhimu ya kitaifa.",
+          "detail": "Kutoka 28:30; Hesabu 27:21; 1 Samweli 28:6"
+        },
+        {
+          "name": "Turban Kubwa (מִצְנֶפֶת)",
+          "subtitle": "Kifuniko cha Kuhani Mkuu katika kitani nzuri",
+          "description": "kilemba kikubwa cha kitani nyeupe, tofauti na kofia ya makuhani wa kawaida. Upepo wa dhahabu (tsits) umewekwa kwenye kilemba na kamba ya bluu.",
+          "detail": "Kutoka 28:36-38; Mambo ya Walawi 8:9"
+        },
+        {
+          "name": "Blade ya Dhahabu (ציץ)",
+          "subtitle": "Bamba la dhahabu: 'UTAKATIFU ​​KWA BWANA'",
+          "description": "Ubao wa dhahabu safi uliounganishwa mbele ya kilemba kwa kamba ya buluu. Imechorwa kwa maandishi: 'Qodesh the YHWH' — 'Utakatifu kwa Bwana'. Kuhani Mkuu 'hubeba' uovu wa matoleo ya Israeli kwa upanga huu.",
+          "detail": "Kutoka 28:36-38 - 'ili wapate neema mbele za BWANA'"
+        }
+      ]
+    }
+  ]
+}

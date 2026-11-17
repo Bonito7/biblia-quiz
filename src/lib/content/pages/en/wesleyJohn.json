@@ -1,0 +1,97 @@
+{
+  "johnWesley": {
+    "title": "John Wesley",
+    "subtitle": "June 28, 1703 — March 2, 1791 · Epworth → London",
+    "bio": "Anglican priest, theologian, social reformer and co-founder of Methodism. Considered one of the most influential figures in 18th-century Christianity, his evangelical revival transformed England and set the stage for great global missions.",
+    "sections": [
+      {
+        "id": "youth",
+        "label": "Youth & Training",
+        "icon": "🎓",
+        "content": [
+          {
+            "title": "Birth and childhood (1703–1714)",
+            "text": "John Wesley was born on June 28, 1703 in Epworth, Lincolnshire, 15th of 19 children of Samuel and Susanna Wesley. At the age of 5, he was miraculously saved from the fire in the presbytery (1709). His mother sees him as 'a brand snatched from the fire' - an image that will mark his entire life. He will be educated mainly by his mother until he is 11 years old.",
+            "verse": "“A brand plucked out of the fire” — Zechariah 3:2, personal motto of John Wesley"
+          },
+          {
+            "title": "Oxford—The Holy Club (1720–1735)",
+            "text": "John entered Christ Church College, Oxford, in 1720. In 1729, with his brother Charles and George Whitefield, he founded the 'Holy Club' - mockingly nicknamed 'Methodists' because of their rigorous method of piety: daily prayer at fixed times, fasting on Wednesdays and Fridays, prison visits, systematic Bible study. The term 'Methodist' will remain.",
+            "verse": "Holy Club agenda: rise at 4 a.m., prayer 5-6 a.m., study until 9 p.m., examination of conscience before bed"
+          },
+          {
+            "title": "Mission to Georgia (1735–1738)",
+            "text": "Ordained an Anglican priest in 1728, John left as a missionary in Georgia (America) from 1735 to 1738. This trip was a pastoral failure but a spiritual revelation: on the boat, Moravians sang and prayed without fear in the storm. John is overwhelmed by their serene faith in the face of death. He returned to England depressed but transformed.",
+            "verse": "John Wesley in his diary: 'I went to America to convert the Indians, but who will convert me?'"
+          }
+        ]
+      },
+      {
+        "id": "conversion",
+        "label": "Conversion & Awakening",
+        "icon": "🔥",
+        "content": [
+          {
+            "title": "Aldersgate — May 24, 1738",
+            "text": "May 24, 1738 is the founding date of Methodism. John attends a Moravian meeting in Aldersgate Street, London. While reading Luther's commentary on Romans, he wrote: 'I felt my heart strangely warmed. I felt that I trusted in Christ alone for salvation, and I was assured that Christ had taken away my sins, even my own, and had saved me from the law of sin and death.'",
+            "verse": "This experience — the assurance of salvation — would become central to Wesleyan theology."
+          },
+          {
+            "title": "Preaching in the open air (1739)",
+            "text": "In February 1739, George Whitefield invited John to preach in the open air in Bristol. John, a convinced Anglican, hesitates — he believes that preaching outside a church is irregular. Then he relents and gathers thousands of workers from the Kingswood mines. He wrote: 'I renounce all dignity of being solely interior. The world is my parish.' The awakening begins.",
+            "verse": "“The World is My Parish” — Motto That Will Guide 50 Years of Outdoor Ministry"
+          },
+          {
+            "title": "Organization of Societies (1739–1744)",
+            "text": "Wesley organizes believers into 'societies' subdivided into 'classes' of 12 members with a leader. This system of intensive pastoral monitoring is revolutionary: every week, each member reports on their spiritual state. Wesley also published his first standard sermons and the 'General Rules' which would become the basis of Methodism.",
+            "verse": "The 3 General Rules: (1) Do no harm, (2) Do all the good possible, (3) Use all means of grace"
+          }
+        ]
+      },
+      {
+        "id": "theology",
+        "label": "Theology",
+        "icon": "📖",
+        "content": [
+          {
+            "title": "Prevenient Grace",
+            "text": "Wesley teaches that God grants all human beings 'prevenient grace'—a grace that precedes faith and partially restores the free will lost in the Fall. This grace explains why the universal invitation of the Gospel is sincere: God makes the response of faith possible for all, without exception. This is his response to Calvinism.",
+            "verse": "Titus 2:11: 'The grace of God, the source of salvation for all men, has been manifested.'"
+          },
+          {
+            "title": "Sanctification and Christian Perfection",
+            "text": "Wesley's distinctive concept: 'Christian perfection' or 'complete holiness'. It is not an absolute impeccability but a state where love for God and neighbor is the dominant motivation — a deep inner purification. Wesley distinguishes it from justification (forgiveness): it is the work of the Holy Spirit which transforms the heart. He published 'A Plain Account of Christian Perfection' (1766).",
+            "verse": "1 Thessalonians 5:23: 'May the God of peace himself sanctify you completely.'"
+          },
+          {
+            "title": "Wesleyan Quadrilateral",
+            "text": "Wesley's theological method is based on 4 sources: (1) Scripture — first and supreme authority; (2) Tradition — the heritage of the ancient Church; (3) Reason — God's gift for understanding Revelation; (4) Experience — the inner confirmation of biblical truths. This quadrangle remains the official theological method of the United Methodist Church.",
+            "verse": "Wesley: 'Scripture alone contains all the truth necessary for salvation.'"
+          }
+        ]
+      },
+      {
+        "id": "social",
+        "label": "Social Action",
+        "icon": "🤝",
+        "content": [
+          {
+            "title": "The Poor and the Oppressed",
+            "text": "Wesley was deeply committed to the poor. He founded free medical dispensaries for the poor, interest-free loans for artisans in difficulty, and schools for the children of miners. He published 'Primitive Physick' (1747), an inexpensive medical guide for the poor. For Wesley, social holiness is inseparable from personal holiness.",
+            "verse": "“Religion that does not begin with the heart is not real, but that which stops there is not great enough. » —Wesley"
+          },
+          {
+            "title": "Opposition to Slavery",
+            "text": "One of Wesley's bravest fights was his opposition to slavery. In 1774 he published 'Thoughts Upon Slavery', one of the most powerful anti-slavery pamphlets of its time. He denounces slavery as 'the sum of all villainies'. His last letter (February 24, 1791), written to William Wilberforce, urges him to continue his abolitionist struggle. Wesley died 6 days later.",
+            "verse": "Last letter to Wilberforce (1791): 'Continue in the name of God and his power... God will make you triumph.'"
+          },
+          {
+            "title": "Education and Publications",
+            "text": "Wesley founded Kingswood School (1748) for miners' children and the Orphan House orphanage in Newcastle. He published a library of 50 volumes 'A Christian Library' at a reduced price for the working classes. He published a dictionary, a medical manual, and natural history treatises. In total: 400 original publications. He wanted educated Christians, not just pious ones.",
+            "verse": "Wesley: 'Spread the books, spread knowledge of all kinds, spread it as widely as possible.'"
+          }
+        ]
+      }
+    ]
+  }
+}

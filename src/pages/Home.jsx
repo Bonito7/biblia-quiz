@@ -1,13 +1,16 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Sparkles } from "lucide-react";
-import { categories } from "../lib/quizData";
+import { useCategories, totalQuestions } from "../lib/quizData";
+import { useTranslation } from "../lib/i18n";
 import CategoryCard from "../components/CategoryCard";
 import DifficultySelector from "../components/DifficultySelector";
 import PullToRefresh from "../components/PullToRefresh";
 
 export default function Home() {
   const [selectedCategory, setSelectedCategory] = useState(null);
+  const { t } = useTranslation();
+  const categories = useCategories();
 
   return (
     <PullToRefresh onRefresh={() => new Promise(r => setTimeout(r, 500))}>
@@ -21,13 +24,13 @@ export default function Home() {
       >
         <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary/10 text-primary text-xs font-medium mb-5">
           <Sparkles className="w-3.5 h-3.5" />
-          Testez vos connaissances bibliques
+          {t("home.badge")}
         </div>
         <h1 className="font-heading text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight mb-4">
-          Biblia-Quiz
+          {t("home.title")}
         </h1>
         <p className="text-muted-foreground text-base sm:text-lg max-w-xl mx-auto leading-relaxed">
-          Explorez la Bible à travers des quiz interactifs sur l'Ancien et le Nouveau Testament
+          {t("home.subtitle")}
         </p>
       </motion.div>
 
@@ -55,9 +58,9 @@ export default function Home() {
         className="mt-14 grid grid-cols-3 gap-4 max-w-md mx-auto"
       >
         {[
-          { value: "7", label: "Catégories" },
-          { value: "1365", label: "Questions" },
-          { value: "∞", label: "Sagesse" }
+          { value: String(categories.length), label: t("home.statCategories") },
+          { value: String(totalQuestions), label: t("home.statQuestions") },
+          { value: "∞", label: t("home.statWisdom") }
         ].map((stat) => (
           <div key={stat.label} className="text-center">
             <p className="font-heading text-2xl font-bold text-primary">{stat.value}</p>

@@ -1,0 +1,117 @@
+{
+  "wesleyParents": {
+    "title": "Samuel & Susanna",
+    "surname": "Wesley",
+    "subtitle": "The parents who formed two of the greatest Christian reformers of the 18th century",
+    "selectors": {
+      "susanna": "👩 Susanna Wesley",
+      "samuel": "👨Samuel Wesley"
+    },
+    "susanna": {
+      "name": "Susanna Wesley",
+      "years": "1669–1742",
+      "tagline": "25th child of a dissident minister · Mother of 19 · “The mother of Methodism”",
+      "bio": "Susanna Annesley is one of the most remarkable women of the 18th century. Brilliant self-taught, she read Greek, Latin and Hebrew. Mother of 19 children (9 of whom died at a young age), she devoted her life to the systematic education of her children according to a method that she had developed herself. John Wesley said, “My mother taught me more about religion than all the theologians I have read.”",
+      "methodTitle": "Susanna's Education Method",
+      "methodIntro": "Susanna wrote down her educational method in a long letter to John in 1732 — one of the most remarkable educational documents of the 18th century.",
+      "categories": [
+        {
+          "id": "all",
+          "label": "All"
+        },
+        {
+          "id": "Discipline",
+          "label": "Discipline"
+        },
+        {
+          "id": "Éducation",
+          "label": "Education"
+        },
+        {
+          "id": "Formation spirituelle",
+          "label": "Spiritual training"
+        },
+        {
+          "id": "Justice & Grâce",
+          "label": "Justice & Grace"
+        },
+        {
+          "id": "Intégrité",
+          "label": "Integrity"
+        },
+        {
+          "id": "Générosité",
+          "label": "Generosity"
+        }
+      ],
+      "rules": [
+        {
+          "rule": "Rule 1 — Absolute obedience from the first cry",
+          "detail": "Susanna taught that the first rule of education is to break the child's self-will before it takes root. 'Conquering their will and accustoming them to obedience is the basis of education.' Not out of cruelty, but to form moral character. Wesley children learned to obey from nursery.",
+          "category": "Discipline"
+        },
+        {
+          "rule": "Rule 2 — No child eats between meals",
+          "detail": "Meals were taken at set times and snacking was absolutely forbidden. Bodily self-discipline was the foundation of spiritual self-discipline. Susanna saw appetite control as training to master all passions.",
+          "category": "Discipline"
+        },
+        {
+          "rule": "Rule 3 — The alphabet at 5 years old, the Bible at 6 years old",
+          "detail": "Every child started reading on their 5th birthday with the alphabet — without exception. The first text read in its entirety was Genesis chapter 1. By age 6, they could read the Bible fluently. Susanna herself taught each child several hours a day.",
+          "category": "Education"
+        },
+        {
+          "rule": "Rule 4 — One full day per child each week",
+          "detail": "With 19 children, Susanna set aside an entire afternoon per week for each child, individually. This weekly tête-à-tête was devoted to personal religious instruction, self-examination, and character formation. John had Thursday, Charles had Saturday.",
+          "category": "Spiritual training"
+        },
+        {
+          "rule": "Rule 5 — Never punish the same offense twice",
+          "detail": "Susanna had a strict rule of justice: a fault confessed and punished could never be punished. She said that eternally repeating a mistake that had already been settled was unfair and created bitterness. This principle of grace after judgment had a profound effect on John, who developed the doctrine of the assurance of forgiveness.",
+          "category": "Justice & Grace"
+        },
+        {
+          "rule": "Rule 6 — Immediate praise for the truth spoken",
+          "detail": "A child who immediately confessed to a fault, even a serious one, was always rewarded with praise for his sincerity — and often exempted from punishment. 'He who lies to escape punishment deserves double punishment — for the mistake and for the lie.' The truth was sacred in the Wesley household.",
+          "category": "Integrity"
+        },
+        {
+          "rule": "Rule 7 — No Property Between Siblings",
+          "detail": "The Wesley children were taught to share freely. Taking without asking was punished, but sharing freely was abundantly praised. Susanna wanted to form generous hearts, not miserly characters. This concern for the poor will be found in all of John's social action.",
+          "category": "Generosity"
+        },
+        {
+          "rule": "Rule 8 — Always promise and always deliver",
+          "detail": "Susanna never promised what she could not keep, and demanded the same integrity from her children. A promise made to a child was as sacred as a promise made to an adult. This training in reliability of speech is directly linked to John Wesley's commitment to accuracy in his journals and pastoral contracts.",
+          "category": "Integrity"
+        }
+      ]
+    },
+    "samuel": {
+      "name": "Samuel Wesley",
+      "years": "1662–1735",
+      "role": "Father, Anglican priest, poet",
+      "portrait": "👨‍💼",
+      "tagline": "Rector of Epworth · Anglican priest · Poet · Bible scholar",
+      "bio": "Samuel Wesley, son of a persecuted dissident pastor, freely chose the Church of England. Despite a life marked by poverty and adversity, he never left his post at Epworth. A great scholar, he passed on to his children a love of classical languages, intellectual rigor and tenacity in the face of adversity.",
+      "contributions": [
+        {
+          "title": "Classical and intellectual training",
+          "text": "Samuel Wesley, himself the son of a dissident pastor, studied brilliantly at Oxford (Exeter College) despite great poverty. He financed his studies by copying manuscripts. He passed on to his children a taste for classical languages ​​(Greek, Latin, Hebrew), poetry and intellectual rigor. John Wesley was admitted to Christ Church College, Oxford—the most prestigious—on his father's academic reputation."
+        },
+        {
+          "title": "The Rector of Epworth — Faith in Adversity",
+          "text": "Samuel was rector of Epworth, Lincolnshire, for 38 years (1697–1735), under difficult conditions. He was imprisoned for debt in 1705. In 1709, the presbytery was burned (the work of enemies). He lived in poverty with 19 children. This tenacity in the face of adversity—refusing to flee his post despite opposition—had a profound impact on John, who also faced violent persecution."
+        },
+        {
+          "title": "The work on Job and biblical rigor",
+          "text": "Samuel spent the last years of his life writing a monumental commentary on the book of Job—a scholarly study in Latin. On his deathbed he bequeathed this unfinished manuscript to John. Samuel's love of serious study of Scripture, his rigorous philological method, were the foundation on which John built his own biblical theology."
+        },
+        {
+          "title": "Final Appeal to John on Holiness",
+          "text": "On his deathbed (April 25, 1735), Samuel said his last words to John: 'The inner thing, John, the inner thing. Pay attention to inner religion.' This moment is decisive: Samuel does not insist on ritual or external form, but on the inner transformation of the heart — which will become the very essence of Methodism."
+        }
+      ]
+    }
+  }
+}

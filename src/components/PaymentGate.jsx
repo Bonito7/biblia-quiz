@@ -4,9 +4,11 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { BookOpen, Loader2, LogOut, Map, Award, ShieldCheck, Sparkles, RefreshCw } from 'lucide-react';
 import { motion } from 'framer-motion';
+import { useTranslation } from '@/lib/i18n';
 
 export default function PaymentGate({ children }) {
   const { user, phone, isPaid, isLoadingPayment, checkPaymentStatus, logout } = useAuth();
+  const { t } = useTranslation();
   const userId = phone || user?.id || user?.email || 'guest';
   const [isInitiating, setIsInitiating] = useState(false);
   const [isChecking, setIsChecking] = useState(false);
@@ -17,7 +19,7 @@ export default function PaymentGate({ children }) {
     return (
       <div className="fixed inset-0 flex flex-col items-center justify-center bg-slate-950">
         <Loader2 className="w-8 h-8 animate-spin text-amber-500 mb-2" />
-        <p className="text-slate-400 text-sm">Vérification de votre statut de paiement...</p>
+        <p className="text-slate-400 text-sm">{t("payment.checkingPaymentStatus")}</p>
       </div>
     );
   }
@@ -33,7 +35,7 @@ export default function PaymentGate({ children }) {
       setIsInitiating(true);
       setErrorMessage(null);
       const backendUrl = import.meta.env.VITE_PAYMENT_BACKEND_URL || '';
-      
+
       const response = await fetch(`${backendUrl}/api/payments/initiate`, {
         method: 'POST',
         headers: {
@@ -43,7 +45,7 @@ export default function PaymentGate({ children }) {
           userId: userId,
           appId: 'biblia-quiz',
           amount: 5000,
-          title: 'Accès complet - Biblia Quiz'
+          title: `${t("payment.title")} - Biblia Quiz`
         }),
       });
 
@@ -52,7 +54,7 @@ export default function PaymentGate({ children }) {
       }
 
       const data = await response.json();
-      
+
       if (data.paymentUrl) {
         // Redirect the user to the Jeko payment page
         window.location.href = data.paymentUrl;
@@ -61,9 +63,7 @@ export default function PaymentGate({ children }) {
       }
     } catch (error) {
       console.error('Payment initiation error:', error);
-      setErrorMessage(
-        "Une erreur s'est produite lors de la connexion au serveur de paiement. Veuillez réessayer."
-      );
+      setErrorMessage(t("payment.errorServer"));
       setIsInitiating(false);
     }
   };
@@ -76,33 +76,17 @@ export default function PaymentGate({ children }) {
       await checkPaymentStatus();
     } catch (error) {
       console.error('Error checking payment:', error);
-      setErrorMessage("Impossible de vérifier le statut. Veuillez réessayer.");
+      setErrorMessage(t("payment.errorStatus"));
     } finally {
       setIsChecking(false);
     }
   };
 
   const features = [
-    {
-      icon: BookOpen,
-      title: "Toutes les catégories débloquées",
-      desc: "Accédez à plus de 1000 questions (Ancien/Nouveau Testament, Wesley, Vie Sociale Juive)."
-    },
-    {
-      icon: Map,
-      title: "Cartes bibliques interactives",
-      desc: "Visualisez les voyages de Paul, l'Exode et les lieux saints en haute résolution."
-    },
-    {
-      icon: Award,
-      title: "Suivi des scores & progression",
-      desc: "Enregistrez vos scores, comparez vos performances et mesurez votre progression."
-    },
-    {
-      icon: ShieldCheck,
-      title: "Accès à vie sans publicité",
-      desc: "Payez une seule fois, profitez de toutes les futures mises à jour gratuitement."
-    }
+    { icon: BookOpen, key: "categories" },
+    { icon: Map, key: "maps" },
+    { icon: Award, key: "scores" },
+    { icon: ShieldCheck, key: "noAds" },
   ];
 
   return (
@@ -121,13 +105,13 @@ export default function PaymentGate({ children }) {
           <CardHeader className="text-center border-b border-slate-800/60 pb-8 pt-8">
             <div className="mx-auto inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-500/10 text-amber-400 text-xs font-semibold mb-4 border border-amber-500/20">
               <Sparkles className="w-3.5 h-3.5" />
-              Accès Premium Biblia-Quiz
+              {t("payment.badge")}
             </div>
             <CardTitle className="font-heading text-3xl sm:text-4xl font-bold tracking-tight bg-gradient-to-r from-amber-400 via-orange-400 to-yellow-500 bg-clip-text text-transparent">
-              Débloquez la Sagesse
+              {t("payment.title")}
             </CardTitle>
             <CardDescription className="text-slate-400 mt-2 max-w-md mx-auto text-sm sm:text-base">
-              Rejoignez les passionnés de la Bible et approfondissez vos connaissances avec notre expérience complète.
+              {t("payment.subtitle")}
             </CardDescription>
           </CardHeader>
 
@@ -142,8 +126,8 @@ export default function PaymentGate({ children }) {
                       <Icon className="w-5 h-5" />
                     </div>
                     <div>
-                      <h4 className="font-semibold text-slate-200 text-sm">{feat.title}</h4>
-                      <p className="text-xs text-slate-400 mt-1 leading-relaxed">{feat.desc}</p>
+                      <h4 className="font-semibold text-slate-200 text-sm">{t(`payment.features.${feat.key}.title`)}</h4>
+                      <p className="text-xs text-slate-400 mt-1 leading-relaxed">{t(`payment.features.${feat.key}.desc`)}</p>
                     </div>
                   </div>
                 );
@@ -155,13 +139,13 @@ export default function PaymentGate({ children }) {
               <div className="absolute top-0 right-0 p-3 text-amber-500/10 pointer-events-none">
                 <ShieldCheck className="w-24 h-24" />
               </div>
-              <p className="text-xs text-slate-400 uppercase tracking-widest font-semibold">Paiement unique</p>
+              <p className="text-xs text-slate-400 uppercase tracking-widest font-semibold">{t("payment.oneTime")}</p>
               <div className="flex items-baseline justify-center gap-1 mt-2">
                 <span className="text-4xl sm:text-5xl font-black text-amber-400 tracking-tight">5 000</span>
-                <span className="text-lg sm:text-xl font-bold text-slate-300">F CFA</span>
+                <span className="text-lg sm:text-xl font-bold text-slate-300">{t("payment.currency")}</span>
               </div>
               <p className="text-xs text-slate-400 mt-2">
-                Paiement sécurisé via <b>Jeko</b> (Wave, Orange, MTN, Moov, Djamo, etc.)
+                {t("payment.securePayment", { provider: "Jeko" })}
               </p>
             </div>
 
@@ -182,11 +166,11 @@ export default function PaymentGate({ children }) {
                 {isInitiating ? (
                   <>
                     <Loader2 className="w-5 h-5 animate-spin" />
-                    Redirection...
+                    {t("payment.redirecting")}
                   </>
                 ) : (
                   <>
-                    Débloquer maintenant
+                    {t("payment.unlockNow")}
                   </>
                 )}
               </Button>
@@ -200,25 +184,25 @@ export default function PaymentGate({ children }) {
                 {isChecking ? (
                   <>
                     <Loader2 className="w-4 h-4 animate-spin" />
-                    Vérification...
+                    {t("payment.checking")}
                   </>
                 ) : (
                   <>
                     <RefreshCw className="w-4 h-4" />
-                    Vérifier mon paiement
+                    {t("payment.checkPayment")}
                   </>
                 )}
               </Button>
             </div>
 
             <div className="flex items-center justify-between w-full text-xs text-slate-500 mt-2 px-2">
-              <span>Connecté en tant que: <strong className="text-slate-400">{userId}</strong></span>
+              <span>{t("payment.connectedAs")} <strong className="text-slate-400">{userId}</strong></span>
               <button
                 onClick={() => logout()}
                 className="flex items-center gap-1 text-slate-400 hover:text-red-400 transition-colors font-medium bg-transparent border-0 cursor-pointer"
               >
                 <LogOut className="w-3.5 h-3.5" />
-                Se déconnecter
+                {t("payment.logout")}
               </button>
             </div>
           </CardFooter>

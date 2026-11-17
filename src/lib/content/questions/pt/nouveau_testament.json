@@ -1,0 +1,1352 @@
+{
+  "nouveau_testament": {
+    "debutant": [
+      {
+        "question": "Em que cidade Jesus nasceu?",
+        "options": [
+          "Nazaré",
+          "Jerusalém",
+          "Belém",
+          "Cafarnaum"
+        ],
+        "correct": 2,
+        "explanation": "Jesus nasceu em Belém da Judéia (Mateus 2:1)."
+      },
+      {
+        "question": "Quantos apóstolos Jesus escolheu?",
+        "options": [
+          "7",
+          "10",
+          "12",
+          "14"
+        ],
+        "correct": 2,
+        "explanation": "Jesus escolheu 12 apóstolos (Mateus 10:1-4)."
+      },
+      {
+        "question": "Qual apóstolo negou Jesus três vezes?",
+        "options": [
+          "Jeans",
+          "Pedra",
+          "Jacques",
+          "Tomás"
+        ],
+        "correct": 1,
+        "explanation": "Pedro negou Jesus três vezes antes do galo cantar (Mateus 26:34)."
+      },
+      {
+        "question": "Qual é o primeiro milagre de Jesus?",
+        "options": [
+          "Cure um cego",
+          "Ande sobre a água",
+          "Transforme água em vinho",
+          "Multiplique os pães"
+        ],
+        "correct": 2,
+        "explanation": "O primeiro milagre de Jesus foi transformar água em vinho nas bodas de Caná (João 2:1-11)."
+      },
+      {
+        "question": "Quem batizou Jesus?",
+        "options": [
+          "Pedra",
+          "João Batista",
+          "André",
+          "Paulo"
+        ],
+        "correct": 1,
+        "explanation": "João Batista batizou Jesus no rio Jordão (Mateus 3:13-17)."
+      },
+      {
+        "question": "Qual é o último livro do Novo Testamento?",
+        "options": [
+          "Judas",
+          "Hebreus",
+          "Apocalipse",
+          "3 João"
+        ],
+        "correct": 2,
+        "explanation": "Apocalipse (Apocalipse) é o último livro do Novo Testamento."
+      },
+      {
+        "question": "Quantos dias Jesus passou no deserto?",
+        "options": [
+          "7 dias",
+          "30 dias",
+          "40 dias",
+          "50 dias"
+        ],
+        "correct": 2,
+        "explanation": "Jesus passou 40 dias e 40 noites no deserto (Mateus 4:2)."
+      },
+      {
+        "question": "Quantos pães Jesus usou para alimentar 5.000 pessoas?",
+        "options": [
+          "2",
+          "5",
+          "7",
+          "12"
+        ],
+        "correct": 1,
+        "explanation": "Jesus usou 5 pães e 2 peixes para alimentar a multidão (João 6:9)."
+      },
+      {
+        "question": "Em qual evangelho encontramos a parábola do filho pródigo?",
+        "options": [
+          "Mateus",
+          "Marca",
+          "Lucas",
+          "Jeans"
+        ],
+        "correct": 2,
+        "explanation": "A parábola do filho pródigo é encontrada apenas no Evangelho de Lucas (Lucas 15:11-32)."
+      },
+      {
+        "question": "Qual é o nome da mãe de Jesus?",
+        "options": [
+          "Elisabete",
+          "Ana",
+          "Casado",
+          "Marta"
+        ],
+        "correct": 2,
+        "explanation": "Maria é a mãe de Jesus (Lucas 1:27)."
+      },
+      {
+        "question": "Onde Jesus foi crucificado?",
+        "options": [
+          "O Monte das Oliveiras",
+          "Gólgota",
+          "Monte Sinai",
+          "Belém"
+        ],
+        "correct": 1,
+        "explanation": "Jesus foi crucificado no Gólgota, “lugar da caveira” (João 19:17)."
+      },
+      {
+        "question": "Quantos dias depois de sua morte Jesus ressuscitou?",
+        "options": [
+          "1 dia",
+          "2 dias",
+          "3 dias",
+          "7 dias"
+        ],
+        "correct": 2,
+        "explanation": "Jesus ressuscitou no terceiro dia (1 Coríntios 15:4)."
+      },
+      {
+        "question": "Qual apóstolo era cobrador de impostos?",
+        "options": [
+          "Pedra",
+          "Mateus",
+          "Jeans",
+          "Filipe"
+        ],
+        "correct": 1,
+        "explanation": "Mateus (Levi) era cobrador de impostos antes de seguir Jesus (Mateus 9:9)."
+      },
+      {
+        "question": "Quantos evangelhos existem no Novo Testamento?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correct": 2,
+        "explanation": "Existem 4 evangelhos: Mateus, Marcos, Lucas e João."
+      },
+      {
+        "question": "Quem escreveu mais epístolas do Novo Testamento?",
+        "options": [
+          "Pedra",
+          "Jeans",
+          "Paulo",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "O apóstolo Paulo escreveu 13 epístolas do Novo Testamento."
+      },
+      {
+        "question": "O que representa a pomba que desceu sobre Jesus durante seu batismo?",
+        "options": [
+          "Um anjo da guarda",
+          "O Espírito Santo",
+          "Paz divina",
+          "A alma de João Batista"
+        ],
+        "correct": 1,
+        "explanation": "A pomba representa o Espírito Santo descendo sobre Jesus no seu batismo (Mateus 3:16)."
+      },
+      {
+        "question": "Que evento é celebrado pelos cristãos na Páscoa?",
+        "options": [
+          "O nascimento de Jesus",
+          "O batismo de Jesus",
+          "A ressurreição de Jesus",
+          "A ascensão de Jesus"
+        ],
+        "correct": 2,
+        "explanation": "A Páscoa celebra a ressurreição de Jesus Cristo no terceiro dia após sua crucificação."
+      },
+      {
+        "question": "Que oração Jesus ensinou aos seus discípulos?",
+        "options": [
+          "Salmo 23",
+          "A oração do Pai Nosso",
+          "O Shemá Israel",
+          "A oração do Sumo Sacerdote"
+        ],
+        "correct": 1,
+        "explanation": "Jesus ensinou o 'Pai Nosso' aos seus discípulos (Mateus 6:9-13)."
+      },
+      {
+        "question": "Onde Jesus foi tentado por Satanás?",
+        "options": [
+          "Nas margens do Jordão",
+          "No deserto",
+          "No Monte das Oliveiras",
+          "Em Jerusalém"
+        ],
+        "correct": 1,
+        "explanation": "Jesus foi tentado por Satanás durante 40 dias no deserto (Mateus 4:1)."
+      },
+      {
+        "question": "Qual é o principal mandamento que Jesus dá em João 13?",
+        "options": [
+          "Ore sem cessar",
+          "Amem um ao outro",
+          "Carregue sua cruz",
+          "Jejue regularmente"
+        ],
+        "correct": 1,
+        "explanation": "Jesus disse: “Amai-vos uns aos outros, como eu vos amei” (João 13:34)."
+      },
+      {
+        "question": "Em que cidade Jesus cresceu?",
+        "options": [
+          "Belém",
+          "Jerusalém",
+          "Nazaré",
+          "Cafarnaum"
+        ],
+        "correct": 2,
+        "explanation": "Jesus cresceu em Nazaré da Galiléia (Lucas 2:51)."
+      },
+      {
+        "question": "Qual foi a profissão de José, pai de Jesus?",
+        "options": [
+          "Pescador",
+          "Pastor",
+          "Carpinteiro",
+          "Agricultor"
+        ],
+        "correct": 2,
+        "explanation": "José era carpinteiro (Mateus 13:55)."
+      },
+      {
+        "question": "Em qual árvore Zaqueu subiu para ver Jesus?",
+        "options": [
+          "Um cedro",
+          "Uma palmeira",
+          "Um sicômoro",
+          "Uma figueira"
+        ],
+        "correct": 2,
+        "explanation": "Zaqueu, de pequena estatura, subiu em um sicômoro para ver Jesus passando (Lucas 19:4)."
+      },
+      {
+        "question": "Quantos dias depois de sua ressurreição Jesus ascendeu ao céu?",
+        "options": [
+          "3 dias",
+          "7 dias",
+          "40 dias",
+          "50 dias"
+        ],
+        "correct": 2,
+        "explanation": "Jesus ascendeu ao céu 40 dias após sua ressurreição (Atos 1:3)."
+      },
+      {
+        "question": "O que é o Pentecostes celebrado nos Atos dos Apóstolos?",
+        "options": [
+          "A ascensão de Jesus",
+          "A descida do Espírito Santo sobre os discípulos",
+          "O nascimento da Igreja Católica",
+          "O primeiro domingo depois da Páscoa"
+        ],
+        "correct": 1,
+        "explanation": "Pentecostes é a descida do Espírito Santo sobre os discípulos reunidos em Jerusalém, 50 dias depois da Páscoa (Atos 2)."
+      },
+      {
+        "question": "Qual era o nome de nascimento do apóstolo Paulo?",
+        "options": [
+          "Simão",
+          "Saulo",
+          "Silas",
+          "Barnabé"
+        ],
+        "correct": 1,
+        "explanation": "O nome de Paulo era Saulo de Tarso antes de sua conversão na estrada para Damasco (Atos 9:1)."
+      },
+      {
+        "question": "Quantos livros existem no Novo Testamento?",
+        "options": [
+          "24",
+          "27",
+          "30",
+          "39"
+        ],
+        "correct": 1,
+        "explanation": "O Novo Testamento contém 27 livros."
+      },
+      {
+        "question": "Que milagre Jesus realizou em seu amigo Lázaro?",
+        "options": [
+          "Cure sua cegueira",
+          "Acalme sua tempestade",
+          "ressuscitá-lo dos mortos",
+          "Multiplique seu pão"
+        ],
+        "correct": 2,
+        "explanation": "Jesus ressuscitou Lázaro 4 dias após sua morte em Betânia (João 11:43-44)."
+      },
+      {
+        "question": "Que título Jesus usa com mais frequência para se referir a si mesmo?",
+        "options": [
+          "Filho de Deus",
+          "Senhor",
+          "Filho do homem",
+          "messias"
+        ],
+        "correct": 2,
+        "explanation": "Jesus refere-se a si mesmo com mais frequência como “Filho do Homem” (mais de 80 vezes nos evangelhos)."
+      },
+      {
+        "question": "Qual livro do NT descreve as viagens missionárias de Paulo?",
+        "options": [
+          "Romanos",
+          "Gálatas",
+          "Atos dos Apóstolos",
+          "Efésios"
+        ],
+        "correct": 2,
+        "explanation": "Os Atos dos Apóstolos descrevem as três viagens missionárias de Paulo e o nascimento das primeiras Igrejas."
+      },
+      {
+        "question": "Qual é o significado da palavra “evangelho”?",
+        "options": [
+          "Boas notícias",
+          "mensagem divina",
+          "palavra sagrada",
+          "Verdade eterna"
+        ],
+        "correct": 0,
+        "explanation": "A palavra “evangelho” vem do grego “euangelion” que significa “boas novas”."
+      },
+      {
+        "question": "Em que evangelho se encontra o Sermão da Montanha?",
+        "options": [
+          "Marca",
+          "Lucas",
+          "Mateus",
+          "Jeans"
+        ],
+        "correct": 2,
+        "explanation": "O Sermão da Montanha, incluindo as Bem-aventuranças e o Pai Nosso, encontra-se em Mateus 5-7."
+      },
+      {
+        "question": "Qual apóstolo escreveu Apocalipse?",
+        "options": [
+          "Paulo",
+          "Pedra",
+          "Jeans",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "O Apocalipse foi escrito por João na ilha de Patmos (Apocalipse 1:1,9)."
+      },
+      {
+        "question": "Qual personagem do NT procurou Jesus à noite para falar sobre o novo nascimento?",
+        "options": [
+          "José de Arimatéia",
+          "Nicodemos",
+          "Gamaliel",
+          "Simeão"
+        ],
+        "correct": 1,
+        "explanation": "Nicodemos, líder dos fariseus, veio até Jesus à noite para discutir o Reino de Deus (João 3:1-2)."
+      },
+      {
+        "question": "Qual é o significado da palavra “Cristo”?",
+        "options": [
+          "Salvador",
+          "Ungido (Messias em grego)",
+          "Filho de Deus",
+          "Senhor"
+        ],
+        "correct": 1,
+        "explanation": "'Cristo' vem do grego 'Christos' que significa 'ungido', equivalente à palavra hebraica 'Messias'."
+      },
+      {
+        "question": "Que feriado judaico Jesus celebrou na Última Ceia?",
+        "options": [
+          "Yom Kipur",
+          "Sucot",
+          "Páscoa",
+          "Pentecostes"
+        ],
+        "correct": 2,
+        "explanation": "A Última Ceia foi uma refeição pascal que Jesus celebrou com seus discípulos (Mateus 26:17-20)."
+      },
+      {
+        "question": "Que cidade foi o centro do ministério de Jesus na Galiléia?",
+        "options": [
+          "Nazaré",
+          "Cafarnaum",
+          "Caná",
+          "Tiberíades"
+        ],
+        "correct": 1,
+        "explanation": "Cafarnaum foi a base do ministério galileu de Jesus, chamada “sua própria cidade” (Mateus 9:1)."
+      },
+      {
+        "question": "Qual discípulo de Jesus era médico?",
+        "options": [
+          "Marca",
+          "Jeans",
+          "Lucas",
+          "Tito"
+        ],
+        "correct": 2,
+        "explanation": "Lucas era médico (“o médico amado”, Colossenses 4:14) e escreveu o Evangelho de Lucas e Atos."
+      },
+      {
+        "question": "Que parábola Jesus conta para descrever os diferentes tipos de corações que recebem a Palavra?",
+        "options": [
+          "A Parábola dos Talentos",
+          "A parábola do semeador",
+          "A Parábola da Pérola",
+          "A parábola do fermento"
+        ],
+        "correct": 1,
+        "explanation": "A parábola do semeador descreve 4 tipos de solo/coração que recebem a Palavra de Deus de maneira diferente (Mateus 13:1-23)."
+      },
+      {
+        "question": "Que nome Jesus dá a Simão após sua confissão de fé?",
+        "options": [
+          "Filho de Jonas",
+          "Kephas (Pedra = Rocha)",
+          "O Amado",
+          "O pequeno"
+        ],
+        "correct": 1,
+        "explanation": "Jesus disse a Simão: “Tu és Pedro (Kephas), e sobre esta pedra edificarei a minha Igreja” (Mateus 16:18)."
+      },
+      {
+        "question": "Qual é a mensagem central do Evangelho?",
+        "options": [
+          "Obedeça aos mandamentos",
+          "Jesus morreu e ressuscitou pelos nossos pecados",
+          "Ser batizado",
+          "Vá para a igreja"
+        ],
+        "correct": 1,
+        "explanation": "O evangelho é que Jesus Cristo morreu pelos nossos pecados, foi sepultado e ressuscitou (1 Coríntios 15:3-4)."
+      },
+      {
+        "question": "Quem foi Pôncio Pilatos na Paixão de Jesus?",
+        "options": [
+          "O Sumo Sacerdote que julgou Jesus",
+          "O governador romano que sentenciou Jesus à morte",
+          "Um fariseu que defendeu Jesus",
+          "Um soldado romano"
+        ],
+        "correct": 1,
+        "explanation": "Pôncio Pilatos foi o governador romano da Judéia que, embora reconhecendo a inocência de Jesus, condenou-o à crucificação (João 18:38; 19:16)."
+      },
+      {
+        "question": "Que símbolo Jesus usa em João 15 para descrever seu relacionamento com os crentes?",
+        "options": [
+          "O pastor e as ovelhas",
+          "A videira e os ramos",
+          "Pão e vinho",
+          "Luz e escuridão"
+        ],
+        "correct": 1,
+        "explanation": "Jesus disse: “Eu sou a videira, vocês são os ramos” (João 15:5)."
+      },
+      {
+        "question": "Qual é o significado de 'Emanuel'?",
+        "options": [
+          "Deus é ótimo",
+          "Deus conosco",
+          "Deus nos salve",
+          "Deus é luz"
+        ],
+        "correct": 1,
+        "explanation": "'Emanuel' significa 'Deus conosco' (Mateus 1:23, citando Isaías 7:14)."
+      },
+      {
+        "question": "Que país Jesus visitou como refugiado quando criança?",
+        "options": [
+          "Síria",
+          "Egito",
+          "Grécia",
+          "Pérsia"
+        ],
+        "correct": 1,
+        "explanation": "José, Maria e o menino Jesus fugiram para o Egito para escapar do massacre de Herodes (Mateus 2:13-15)."
+      },
+      {
+        "question": "Qual apóstolo escreveu duas epístolas do NT e era casado?",
+        "options": [
+          "Paulo",
+          "Jeans",
+          "Pedra",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Pedro escreveu duas epístolas (1 e 2 Pedro) e era casado (Mateus 8:14 menciona sua sogra)."
+      },
+      {
+        "question": "O que significa o termo “apóstolo”?",
+        "options": [
+          "Testemunha ocular",
+          "Enviado (aquele que é enviado em missão)",
+          "Discípulo próximo",
+          "Pregador"
+        ],
+        "correct": 1,
+        "explanation": "'Apóstolo' vem do grego 'apostolos' que significa 'aquele que é enviado'."
+      },
+      {
+        "question": "Quantas viagens missionárias Paulo completou de acordo com Atos?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correct": 1,
+        "explanation": "Atos descreve três grandes viagens missionárias de Paulo (Atos 13-14; 15-18; 18-21)."
+      },
+      {
+        "question": "O que 'Pentecostes' significa literalmente em grego?",
+        "options": [
+          "Festa do Espírito Santo",
+          "Quinquagésimo (50º dia após a Páscoa)",
+          "Festa das primícias",
+          "Reunião de Nações"
+        ],
+        "correct": 1,
+        "explanation": "Pentecostes vem do grego 'pentêkostê' que significa 'quinquagésimo' (Atos 2:1)."
+      },
+      {
+        "question": "Qual discípulo pediu a Jesus que lhe mostrasse o caminho para o Pai?",
+        "options": [
+          "André",
+          "Tomás",
+          "Filipe",
+          "Natanael"
+        ],
+        "correct": 2,
+        "explanation": "Filipe disse a Jesus: 'Senhor, mostra-nos o Pai'. Jesus responde: “Quem me vê, vê o Pai” (João 14:8-9)."
+      },
+      {
+        "question": "Qual episódio mostra Jesus ainda criança no Templo de Jerusalém?",
+        "options": [
+          "Batismo",
+          "Jesus entre os médicos aos 12 anos",
+          "A fuga para o Egito",
+          "A apresentação no Templo"
+        ],
+        "correct": 1,
+        "explanation": "Aos 12 anos, Jesus permaneceu no Templo de Jerusalém entre os doutores da Lei (Lucas 2:41-50)."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "Em que montanha Jesus foi transfigurado?",
+        "options": [
+          "Monte das Oliveiras",
+          "Monte Sinai",
+          "Monte Tabor",
+          "Monte Hermom"
+        ],
+        "correct": 2,
+        "explanation": "A tradição coloca a Transfiguração no Monte Tabor (Mateus 17:1-9)."
+      },
+      {
+        "question": "Qual personagem do NT pediu a cabeça de João Batista?",
+        "options": [
+          "Herodíade",
+          "Salomé",
+          "Pilatos",
+          "Herodes Antipas"
+        ],
+        "correct": 0,
+        "explanation": "Herodias solicitou a cabeça de João Batista através de sua filha (Marcos 6:24-25)."
+      },
+      {
+        "question": "Em que livro encontramos o discurso de Pedro no Pentecostes?",
+        "options": [
+          "Jeans",
+          "Atos dos Apóstolos",
+          "Romanos",
+          "1 Pedro"
+        ],
+        "correct": 1,
+        "explanation": "O discurso de Pedro no Pentecostes se encontra em Atos 2."
+      },
+      {
+        "question": "Qual mulher do NT derramou perfume nos pés de Jesus?",
+        "options": [
+          "Maria de Betânia",
+          "Maria Madalena",
+          "Marta",
+          "Susana"
+        ],
+        "correct": 0,
+        "explanation": "Maria de Betânia ungiu os pés de Jesus com unguento caro (João 12:3)."
+      },
+      {
+        "question": "Qual era o trabalho de Pedro antes de seguir Jesus?",
+        "options": [
+          "Carpinteiro",
+          "Pescador",
+          "Pastor",
+          "Agricultor"
+        ],
+        "correct": 1,
+        "explanation": "Pedro era pescador no Lago da Galiléia (Mateus 4:18)."
+      },
+      {
+        "question": "Qual apóstolo caminhou sobre as águas em direção a Jesus?",
+        "options": [
+          "Jeans",
+          "André",
+          "Pedra",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Pedro caminhou sobre as águas para se juntar a Jesus (Mateus 14:29)."
+      },
+      {
+        "question": "Qual é a primeira epístola de Paulo cronologicamente?",
+        "options": [
+          "Gálatas",
+          "1 Tessalonicenses",
+          "Romanos",
+          "1 Coríntios"
+        ],
+        "correct": 1,
+        "explanation": "1 Tessalonicenses é considerada a epístola mais antiga de Paulo (c. 50 DC)."
+      },
+      {
+        "question": "Qual livro descreve a visão da nova Jerusalém?",
+        "options": [
+          "Ezequiel",
+          "Danilo",
+          "Apocalipse",
+          "Zacarias"
+        ],
+        "correct": 2,
+        "explanation": "A Nova Jerusalém é descrita em Apocalipse 21."
+      },
+      {
+        "question": "Quem disse 'já não sou eu que vivo, é Cristo quem vive em mim'?",
+        "options": [
+          "Pedra",
+          "Jeans",
+          "Paulo",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Paulo escreve isso em Gálatas 2:20."
+      },
+      {
+        "question": "Qual mulher do NT era uma comerciante roxa?",
+        "options": [
+          "Priscila",
+          "Lídia",
+          "Febe",
+          "Trifeno"
+        ],
+        "correct": 1,
+        "explanation": "Lídia era uma comerciante roxa da cidade de Tiatira (Atos 16:14)."
+      },
+      {
+        "question": "Em qual evangelho Jesus diz 'Eu sou a luz do mundo'?",
+        "options": [
+          "Mateus",
+          "Marca",
+          "Lucas",
+          "Jeans"
+        ],
+        "correct": 3,
+        "explanation": "É no Evangelho de João que Jesus faz as declarações 'Eu sou...' (João 8:12)."
+      },
+      {
+        "question": "Qual discípulo foi escolhido para substituir Judas entre os Doze?",
+        "options": [
+          "Barnabé",
+          "Matias",
+          "Silas",
+          "Étienne"
+        ],
+        "correct": 1,
+        "explanation": "Matias foi escolhido por sorteio para substituir Judas (Atos 1:26)."
+      },
+      {
+        "question": "Quem é o primeiro mártir cristão mencionado em Atos?",
+        "options": [
+          "Jacques",
+          "Pedra",
+          "Étienne",
+          "Paulo"
+        ],
+        "correct": 2,
+        "explanation": "Estêvão foi o primeiro mártir cristão, apedrejado até a morte após seu discurso perante o Sinédrio (Atos 7:59)."
+      },
+      {
+        "question": "Em que cidade Paulo e Silas foram presos antes que um terremoto abrisse os portões?",
+        "options": [
+          "Antioquia",
+          "Corinto",
+          "Filipos",
+          "Salónica"
+        ],
+        "correct": 2,
+        "explanation": "Em Filipos, um terremoto abriu as portas da prisão (Atos 16:26)."
+      },
+      {
+        "question": "Que parábola Jesus conta para explicar quem é o nosso próximo?",
+        "options": [
+          "A Parábola dos Talentos",
+          "A parábola do Bom Samaritano",
+          "A parábola do semeador",
+          "A parábola da ovelha perdida"
+        ],
+        "correct": 1,
+        "explanation": "A parábola do Bom Samaritano responde: 'Quem é o meu próximo?' (Lucas 10:25-37)."
+      },
+      {
+        "question": "Que evento marca o início da Igreja de acordo com Atos?",
+        "options": [
+          "A ressurreição de Jesus",
+          "A subida",
+          "Pentecostes",
+          "O batismo de Cornélio"
+        ],
+        "correct": 2,
+        "explanation": "O Pentecostes, com a efusão do Espírito Santo, é o ponto de partida da Igreja (Atos 2)."
+      },
+      {
+        "question": "O que há de especial no Evangelho de João em comparação com os três sinópticos?",
+        "options": [
+          "É mais curto",
+          "Não contém parábolas, mas sinais e discursos reveladores",
+          "Foi escrito em aramaico",
+          "Ele é o único a mencionar a ressurreição"
+        ],
+        "correct": 1,
+        "explanation": "João difere dos sinópticos: não há parábolas em sentido estrito, mas 7 “sinais” milagrosos e 7 declarações principais de “eu sou” revelando a identidade divina de Jesus."
+      },
+      {
+        "question": "Que conceito teológico Paulo desenvolve principalmente na epístola aos Romanos?",
+        "options": [
+          "Ética cristã",
+          "Justificação somente pela fé",
+          "O retorno de Cristo",
+          "A organização da Igreja"
+        ],
+        "correct": 1,
+        "explanation": "O livro de Romanos é a grande exposição da justificação pela fé (Romanos 1-8)."
+      },
+      {
+        "question": "Qual é a doutrina principal da epístola aos Hebreus?",
+        "options": [
+          "O retorno de Cristo",
+          "A superioridade do sacerdócio de Cristo sobre o sacerdócio levítico",
+          "Graça e fé",
+          "O batismo dos crentes"
+        ],
+        "correct": 1,
+        "explanation": "A epístola aos Hebreus demonstra a superioridade de Cristo como sumo sacerdote segundo a ordem de Melquisedeque."
+      },
+      {
+        "question": "Qual apóstolo se recusou a acreditar na ressurreição antes de ver e tocar Jesus?",
+        "options": [
+          "Pedra",
+          "André",
+          "Tomás",
+          "Filipe"
+        ],
+        "correct": 2,
+        "explanation": "Tomé disse: 'Se eu não ver em suas mãos a marca dos pregos... não acreditarei' (João 20:25)."
+      },
+      {
+        "question": "Qual foi o principal problema abordado por Paulo em Gálatas?",
+        "options": [
+          "Imoralidade sexual",
+          "Divisões na Igreja",
+          "A falsa doutrina de que a circuncisão e a Lei de Moisés eram necessárias para a salvação",
+          "Falta de generosidade"
+        ],
+        "correct": 2,
+        "explanation": "Paulo luta em Gálatas contra os “judaizantes” que ensinavam que a fé em Cristo não era suficiente."
+      },
+      {
+        "question": "Que decisão importante o Concílio de Jerusalém (Atos 15) tomou?",
+        "options": [
+          "A lista dos livros canônicos do NT",
+          "Os gentios não precisam ser circuncidados para serem salvos",
+          "A eleição do primeiro bispo de Roma",
+          "A proibição do casamento para pastores"
+        ],
+        "correct": 1,
+        "explanation": "O Concílio de Jerusalém decidiu que os gentios não precisavam ser circuncidados para serem salvos (Atos 15)."
+      },
+      {
+        "question": "Qual é o significado teológico do termo “redenção” no NT?",
+        "options": [
+          "Simples perdão dos pecados",
+          "A redenção de um escravo pelo pagamento de um preço - Cristo nos redimiu com seu sangue",
+          "A transformação moral do crente",
+          "A aceitação de Deus"
+        ],
+        "correct": 1,
+        "explanation": "Redenção (apolitrose) significa literalmente a redenção de um escravo – Cristo nos redimiu por um preço (1 Coríntios 6:20)."
+      },
+      {
+        "question": "Qual é o conteúdo do hino a Cristo em Filipenses 2:6-11 (kenosis)?",
+        "options": [
+          "A vitória de Cristo sobre a morte",
+          "O rebaixamento voluntário de Cristo e sua exaltação por Deus",
+          "A segunda vinda de Cristo",
+          "A encarnação apenas"
+        ],
+        "correct": 1,
+        "explanation": "O hino de Filipenses 2,6-11 descreve a kenosis: Cristo “esvaziou-se” assumindo a forma de servo, e então Deus o exaltou."
+      },
+      {
+        "question": "Qual é o assunto principal da epístola de Tiago?",
+        "options": [
+          "A teologia da graça",
+          "Fé viva expressa através de obras",
+          "Vida após a morte",
+          "O Espírito Santo"
+        ],
+        "correct": 1,
+        "explanation": "Tiago enfatiza que a fé sem obras é morta (Tiago 2:17)."
+      },
+      {
+        "question": "Qual é a conexão entre a Ceia do Senhor e a Páscoa na teologia do NT?",
+        "options": [
+          "Sem link",
+          "A Última Ceia cumpre e substitui a Páscoa Judaica – Cristo é o Cordeiro Pascal",
+          "A Última Ceia é inteiramente nova, sem nenhuma conexão com o AT",
+          "A Páscoa e a Última Ceia são ritos paralelos não relacionados"
+        ],
+        "correct": 1,
+        "explanation": "Paulo diz: “Cristo, nossa Páscoa, foi sacrificado” (1 Coríntios 5:7). A Última Ceia é o cumprimento da Páscoa."
+      },
+      {
+        "question": "Qual doutrina cristológica é condenada por João em suas epístolas (docetismo)?",
+        "options": [
+          "Que Jesus era um homem simples",
+          "Que Jesus não veio em carne – negando a encarnação real",
+          "Que Jesus não ressuscitou",
+          "Que Jesus é inferior ao Pai"
+        ],
+        "correct": 1,
+        "explanation": "Jean luta contra o docetismo. 1 João 4:2: 'Todo espírito que confessa que Jesus Cristo veio em carne é de Deus.'"
+      },
+      {
+        "question": "Qual apóstolo foi o primeiro a reconhecer que o evangelho se estendia aos não-judeus (gentios)?",
+        "options": [
+          "Paulo",
+          "Pedra",
+          "Barnabé",
+          "Jacques"
+        ],
+        "correct": 1,
+        "explanation": "Pedro recebeu uma visão do pano com animais impuros e foi enviado ao centurião Cornélio – o primeiro batismo de um gentio (Atos 10)."
+      },
+      {
+        "question": "Qual é a diferença entre 'justificação' e 'santificação' na teologia paulina?",
+        "options": [
+          "Estes são sinônimos",
+          "A justificação é o ato legal de Deus nos declarando justos; santificação é o processo de transformação em Cristo",
+          "A justificação vem das nossas obras; a santificação da fé",
+          "A justificativa é final; a santificação é impossível"
+        ],
+        "correct": 1,
+        "explanation": "A justificação é um ato instantâneo de Deus declarando o pecador justo. Santificação é o processo contínuo de transformação."
+      },
+      {
+        "question": "Qual é o conteúdo da grande oração sacerdotal de Jesus em João 17?",
+        "options": [
+          "Oração pela cura dos enfermos",
+          "Oração pela glória do Pai, pela proteção dos discípulos e pela unidade de todos os crentes",
+          "Oração por perdão dos inimigos",
+          "Oração pelo fim dos tempos"
+        ],
+        "correct": 1,
+        "explanation": "João 17: para sua própria glorificação (v.1-5), para seus discípulos (v.6-19) e para todos os futuros crentes (v.20-26)."
+      },
+      {
+        "question": "Qual texto do NT descreve o 'fruto do Espírito' em 9 características?",
+        "options": [
+          "Romanos 8:5-9",
+          "1 Coríntios 13:4-7",
+          "Gálatas 5:22-23",
+          "Efésios 5:9"
+        ],
+        "correct": 2,
+        "explanation": "Gálatas 5:22-23 lista os 9 frutos do Espírito: amor, alegria, paz, paciência, benignidade, bondade, fidelidade, mansidão, autocontrole."
+      },
+      {
+        "question": "Qual é o problema que Paulo aborda em 1 Coríntios?",
+        "options": [
+          "A heresia gnóstica",
+          "Divisões na Igreja, Imoralidade, Dons Espirituais Mal utilizados",
+          "Recusa da circuncisão",
+          "Falta de generosidade financeira"
+        ],
+        "correct": 1,
+        "explanation": "1 Coríntios aborda múltiplas questões: facções, imoralidade, casamento, carne sacrificada, adoração e doação, ressurreição."
+      },
+      {
+        "question": "Qual é o significado do termo “graça” (charis) na teologia do NT?",
+        "options": [
+          "Uma cortesia humana",
+          "Favor divino imerecido concedido gratuitamente por Deus para a salvação",
+          "Um sentimento espiritual interior",
+          "A beleza moral do crente"
+        ],
+        "correct": 1,
+        "explanation": "'Charis' é a graça divina – o favor absolutamente gratuito e imerecido de Deus (Efésios 2:8-9)."
+      },
+      {
+        "question": "Qual é o tema central da epístola aos Hebreus expresso pela repetição de “melhor” (kreittôn)?",
+        "options": [
+          "A superioridade da Igreja sobre Israel",
+          "A superioridade absoluta de Cristo e da nova aliança sobre tudo o que aconteceu antes",
+          "A superioridade dos judeus sobre os gentios",
+          "A superioridade de Paulo sobre os outros apóstolos"
+        ],
+        "correct": 1,
+        "explanation": "A Epístola aos Hebreus usa 'kreittôn' (melhor) 13 vezes: melhor nome, melhor aliança, melhores promessas, melhor sacrifício."
+      },
+      {
+        "question": "Qual é a contribuição única do evangelho de Lucas para a teologia do NT?",
+        "options": [
+          "Ênfase na divindade de Cristo",
+          "Ênfase na oração, no Espírito Santo, nas mulheres, nos pobres e no alcance universal da salvação",
+          "O tema do Logotipos",
+          "A controvérsia anti-fariseu"
+        ],
+        "correct": 1,
+        "explanation": "Lucas distingue-se: pela centralidade da oração, pelo Espírito Santo, pelos marginalizados (mulheres, pobres, pecadores, samaritanos, gentios)."
+      },
+      {
+        "question": "Qual é o significado do termo “encarnação” na cristologia do NT?",
+        "options": [
+          "A ressurreição de Jesus",
+          "O Eterno Filho de Deus Assumindo Plena Natureza Humana",
+          "A aparição humana de Deus no AT",
+          "O nascimento de Jesus apenas"
+        ],
+        "correct": 1,
+        "explanation": "A encarnação refere-se ao ato pelo qual o eterno Filho de Deus assumiu uma natureza humana plena em João 1:14: 'O Verbo se fez carne.'"
+      },
+      {
+        "question": "Qual é a relação entre “lei” e “evangelho” na teologia paulina?",
+        "options": [
+          "Lei e evangelho são os mesmos",
+          "A Lei revela o pecado e conduz a Cristo; o Evangelho anuncia a graça gratuita",
+          "A Lei substitui o Evangelho no NT",
+          "O Evangelho abole completamente a Lei sem deixar vestígios"
+        ],
+        "correct": 1,
+        "explanation": "Paulo: “A lei é a nossa professora para nos levar a Cristo” (Gálatas 3:24). A Lei acusa, o Evangelho liberta."
+      },
+      {
+        "question": "Qual é o significado da 'Nova Aliança' estabelecida por Jesus na Última Ceia?",
+        "options": [
+          "Um símbolo comemorativo simples",
+          "O cumprimento de Jeremias 31:31-34: perdão dos pecados, lei nos corações, acesso direto a Deus através do sangue de Cristo",
+          "A criação de uma nova religião separada do Judaísmo",
+          "Uma aliança condicional baseada em nossa obediência"
+        ],
+        "correct": 1,
+        "explanation": "Jesus disse: “Este cálice é a nova aliança no meu sangue” (Lucas 22:20) – cumprindo a promessa de Jeremias 31:31-34."
+      }
+    ],
+    "expert": [
+      {
+        "question": "Que termo grego se refere à segunda vinda de Cristo nas epístolas?",
+        "options": [
+          "Querigma",
+          "Parusia",
+          "Epifania",
+          "Teofania"
+        ],
+        "correct": 1,
+        "explanation": "O termo grego 'Parousia' (παρουσία) refere-se à segunda vinda de Cristo (1 Tessalonicenses 4:15)."
+      },
+      {
+        "question": "Em Apocalipse 2-3, a quantas igrejas Jesus se dirige?",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "12"
+        ],
+        "correct": 2,
+        "explanation": "Jesus dirige suas mensagens a 7 Igrejas na Ásia Menor (Apocalipse 2-3)."
+      },
+      {
+        "question": "Que termo teológico paulino significa “reconciliação por substituição”?",
+        "options": [
+          "Justificação",
+          "Propiciação",
+          "Santificação",
+          "Redenção"
+        ],
+        "correct": 1,
+        "explanation": "'Propitação' (ἱλαστήριον) refere-se ao ato que apazigua a justa ira de Deus (Romanos 3:25)."
+      },
+      {
+        "question": "De acordo com Paulo em Efésios, em que está fundada a Igreja?",
+        "options": [
+          "Somente Cristo",
+          "Apóstolos e profetas, tendo Cristo como pedra angular",
+          "12 apóstolos",
+          "Fé e obras"
+        ],
+        "correct": 1,
+        "explanation": "A Igreja está fundada nos apóstolos e profetas, sendo Cristo a pedra angular (Efésios 2:20)."
+      },
+      {
+        "question": "Em João 1, que termo grego é traduzido como “Palavra”?",
+        "options": [
+          "Rema",
+          "Logotipos",
+          "Pneuma",
+          "Sofia"
+        ],
+        "correct": 1,
+        "explanation": "João usa 'Logos' (λόγος) para se referir a Cristo (João 1:1)."
+      },
+      {
+        "question": "Qual cidade é enigmaticamente chamada de 'Babilônia' em 1 Pedro 5:13?",
+        "options": [
+          "Antioquia",
+          "Alexandria",
+          "Roma",
+          "Corinto"
+        ],
+        "correct": 2,
+        "explanation": "Os historiadores concordam que “Babilônia” em 1 Pedro 5:13 refere-se a Roma."
+      },
+      {
+        "question": "Em Hebreus 7, a que ordem sacerdotal o sacerdócio de Cristo é comparado?",
+        "options": [
+          "Ordem de Aarão",
+          "Ordem de Melquisedeque",
+          "Ordem de Levi",
+          "Ordem de Sadoc"
+        ],
+        "correct": 1,
+        "explanation": "Cristo é declarado “sumo sacerdote segundo a ordem de Melquisedeque” (Hebreus 7:17)."
+      },
+      {
+        "question": "Qual é o significado do termo 'Abba' em Romanos 8:15?",
+        "options": [
+          "Senhor",
+          "Pai (termo aramaico íntimo)",
+          "Deus Todo-Poderoso",
+          "Santo"
+        ],
+        "correct": 1,
+        "explanation": "'Abba' é o termo aramaico afetuoso para 'Pai', equivalente a 'Papai'."
+      },
+      {
+        "question": "No Apocalipse, qual é o número da 'Besta'?",
+        "options": [
+          "616",
+          "666",
+          "777",
+          "888"
+        ],
+        "correct": 1,
+        "explanation": "O número da Besta é 666 (Apocalipse 13:18)."
+      },
+      {
+        "question": "Que doutrina afirma que as duas naturezas de Cristo coexistem sem mistura ou confusão?",
+        "options": [
+          "Monofisismo",
+          "Arianismo",
+          "Calcedonismo",
+          "Nestorianismo"
+        ],
+        "correct": 2,
+        "explanation": "O Concílio de Calcedônia (451) definiu as duas naturezas completas de Cristo."
+      },
+      {
+        "question": "Em que colina Paulo proferiu seu discurso aos atenienses (Atos 17)?",
+        "options": [
+          "A Acrópole",
+          "O Areópago (Colina de Marte)",
+          "Pireu",
+          "A ágora"
+        ],
+        "correct": 1,
+        "explanation": "Paulo fez seu discurso no Areópago de Atenas (Atos 17:22)."
+      },
+      {
+        "question": "Que termo grego do NT descreve a coligação da Igreja Cristã?",
+        "options": [
+          "Sinagoga",
+          "Eclésia",
+          "Koinônia",
+          "Didaquê"
+        ],
+        "correct": 1,
+        "explanation": "'Ekklesia' (ἐκκλησία) significa 'assembléia dos chamados'."
+      },
+      {
+        "question": "Na teologia paulina, o que é “justificação pela fé” (dikaiôsis)?",
+        "options": [
+          "Um processo de moralização progressiva",
+          "Um ato legal divino pelo qual o pecador é declarado justo",
+          "A recompensa pelas boas obras",
+          "Perdão condicional dos pecados"
+        ],
+        "correct": 1,
+        "explanation": "Para Paulo, a justificação é um ato legal (forense) pelo qual Deus declara o pecador justo com base na fé em Cristo."
+      },
+      {
+        "question": "Que conceito central joanino descreve a “habitação” de Cristo no crente?",
+        "options": [
+          "Koinonia (comunhão)",
+          "Menein (permanecer)",
+          "Pistis (fé)",
+          "Ágape (amor)"
+        ],
+        "correct": 1,
+        "explanation": "O verbo 'menein' (μένειν, permanecer) é central em João 15:4-7 e 1 João 4:16."
+      },
+      {
+        "question": "Que fonte hipotética designa o material comum a Mateus e Lucas, ausente em Marcos?",
+        "options": [
+          "Proto-Mateus",
+          "A fonte Q (O quê)",
+          "A lógica de Pedro",
+          "Documento M"
+        ],
+        "correct": 1,
+        "explanation": "A 'fonte Q' (do alemão Quelle = fonte) é uma fonte hipotética das palavras de Jesus."
+      },
+      {
+        "question": "Qual é a questão principal do 'problema sinóptico' na teologia bíblica?",
+        "options": [
+          "Por que existem 4 evangelhos e não apenas um",
+          "Como explicar as semelhanças e diferenças entre Mateus, Marcos e Lucas",
+          "A autenticidade do evangelho de João",
+          "A data de composição dos evangelhos"
+        ],
+        "correct": 1,
+        "explanation": "O 'problema sinóptico' trata da dependência literária entre Mateus, Marcos e Lucas."
+      },
+      {
+        "question": "Qual é o significado teológico do termo “expiação” (hilasmos) em 1 João 2:2?",
+        "options": [
+          "O castigo dos pecadores",
+          "O ato pelo qual Cristo satisfaz a justiça divina e apazigua a ira de Deus pelos nossos pecados",
+          "Perdão incondicional simples",
+          "Um rito litúrgico"
+        ],
+        "correct": 1,
+        "explanation": "'Hilasmos' significa 'propiciação' – o ato pelo qual Cristo cumpre os requisitos da santidade divina (1 João 2:2; 4:10; Romanos 3:25)."
+      },
+      {
+        "question": "Qual é a estrutura do “Discurso Apocalíptico” de Jesus em Mateus 24-25?",
+        "options": [
+          "Uma lista simples de sinais cronológicos",
+          "Uma resposta a duas questões (destruição do Templo / sinal da Parousia) com dupla perspectiva profética",
+          "Um discurso futuro puramente escatológico",
+          "Uma alegoria sobre a vida da Igreja"
+        ],
+        "correct": 1,
+        "explanation": "Mateus 24-25 responde às perguntas dos discípulos sobre a destruição do Templo E a Parousia final, entrelaçando os dois horizontes."
+      },
+      {
+        "question": "Qual é o significado do termo 'kenosis' na cristologia paulina (Filipenses 2:7)?",
+        "options": [
+          "A gloriosa ressurreição",
+          "O auto-esvaziamento do Filho - ele renunciou ao exercício independente de certos atributos divinos ao encarnar",
+          "Sofrimento na cruz",
+          "A humilhação social de Jesus"
+        ],
+        "correct": 1,
+        "explanation": "Kenosis (κένωσις): o Filho de Deus 'esvaziou-se' (ekénôsen) assumindo a forma de servo (Filipenses 2:7)."
+      },
+      {
+        "question": "Qual é a diferença entre 'rhema' e 'logos' no NT grego?",
+        "options": [
+          "Sem diferença",
+          "'Logos' significa a imutável Palavra divina (João 1:1); 'rhemah' refere-se a uma palavra específica falada (Romanos 10:17)",
+          "'Logos' é o NT, 'rhema' é o AT",
+          "'Logos' é o ensinamento, 'rhema' é a profecia"
+        ],
+        "correct": 1,
+        "explanation": "'Logos' tende para a Palavra divina geral, 'rhema' para uma palavra falada específica. Romanos 10:17: 'A fé vem pelo ouvir.'"
+      },
+      {
+        "question": "Qual é o significado da afirmação “Antes que Abraão existisse, eu sou” (João 8:58)?",
+        "options": [
+          "Uma simples afirmação de preexistência",
+          "Uma reivindicação de identidade divina absoluta: o nome divino 'Eu Sou' (YHWH, Êxodo 3:14) aplica-se a Cristo",
+          "Um simples sinal de grandeza espiritual",
+          "Uma formulação aramaica idiomática"
+        ],
+        "correct": 1,
+        "explanation": "João 8:58: 'Ego eimi' refere-se diretamente ao nome divino YHWH ('Eu sou aquele que sou', Êxodo 3:14). Os judeus que procuravam apedrejá-lo confirmam que entendiam a reivindicação divina."
+      },
+      {
+        "question": "Qual é o significado do termo 'metanoia' (arrependimento) nos evangelhos em relação ao simples arrependimento?",
+        "options": [
+          "Um sentimento passageiro de remorso",
+          "Uma mudança radical na orientação mental, espiritual e prática – uma virada existencial em direção a Deus",
+          "Uma prática ritual de expiação",
+          "A simples admissão dos próprios defeitos"
+        ],
+        "correct": 1,
+        "explanation": "'Metanoia' (meta = mudança + noein = pensar) designa uma mudança radical e total de rumo existencial. João Batista e Jesus proclamam a metanoia como condição de entrada no Reino."
+      },
+      {
+        "question": "Qual é o significado do termo “propiciação” (hilastêrion) em Romanos 3:25 e como ele se relaciona com o AT?",
+        "options": [
+          "Uma simples metáfora de perdão",
+          "O ‘propiciatório’ ou propiciatório da Arca – Jesus é o seu cumprimento na sua própria pessoa",
+          "Um termo filosófico grego não relacionado ao AT",
+          "Um rito penitencial humano"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 3:25 usa 'hilastêrion' – o mesmo termo que a LXX para 'kapporeth' (tampa da Arca). Deus apresentou publicamente Cristo como ESTE lugar de propiciação."
+      },
+      {
+        "question": "Qual é a fórmula batismal trinitária de Mateus 28:19 e seu significado dogmático?",
+        "options": [
+          "Três batismos separados para cada pessoa divina",
+          "Um único batismo em um único 'Nome' Trinitário (singular) - testemunhando a unidade e a tripersonalidade de Deus",
+          "Uma fórmula litúrgica sem significado dogmático",
+          "Um desenvolvimento pós-apostólico"
+        ],
+        "correct": 1,
+        "explanation": "Mateus 28:19: 'em nome' (eis to onoma, singular) do Pai, do Filho e do Espírito Santo - o 'nome' singular testemunha a unidade divina na tríplice distinção pessoal."
+      },
+      {
+        "question": "Qual é o significado da imagem do “Cordeiro de Deus” (João 1:29) na teologia sacrificial?",
+        "options": [
+          "Apenas um símbolo de gentileza",
+          "Convergência entre o cordeiro pascal (Êxodo 12), o Servo Sofredor (Isaías 53:7), os sacrifícios diários e o Cordeiro do Apocalipse",
+          "Um título de majestade real",
+          "Uma referência ao bode expiatório de Levítico 16"
+        ],
+        "correct": 1,
+        "explanation": "A imagem do cordeiro em João 1,29 é uma convergência tipológica: cordeiro pascal, Servo sofredor, sacrifício diário e o Cordeiro do Apocalipse."
+      },
+      {
+        "question": "Qual é o significado de 'telos' em Mateus 5:48 ('sede perfeitos como é perfeito o vosso Pai celestial')?",
+        "options": [
+          "Perfeição moral absoluta impossível",
+          "'Telos' = completo, realizado, maduro - exige maturidade e integridade no amor",
+          "Sinônimo de 'sagrado' (hagios)",
+          "Um ideal platônico de excelência moral"
+        ],
+        "correct": 1,
+        "explanation": "'Teleios' vem de 'telos' (objetivo, realização) – não perfeição perfeita, mas amadurecimento e amor realizado. O contexto é sobre amar seus inimigos como Deus ama a todos."
+      },
+      {
+        "question": "Qual é o significado da fórmula batismal “em nome do Pai, do Filho e do Espírito Santo” na teologia trinitária?",
+        "options": [
+          "Três batismos separados",
+          "Um único batismo em um único 'Nome' Trinitário (singular) - testemunhando a unidade e a tripersonalidade de Deus",
+          "Uma fórmula litúrgica sem significado dogmático",
+          "Um desenvolvimento pós-apostólico ausente do NT primitivo"
+        ],
+        "correct": 1,
+        "explanation": "Mateus 28:19: 'em nome' (singular) testemunha a unidade divina na tríplice distinção pessoal. Este versículo é um dos fundamentos da doutrina trinitária."
+      },
+      {
+        "question": "Qual é o significado cósmico da reconciliação em Colossenses 1:20?",
+        "options": [
+          "Somente a reconciliação dos seres humanos com Deus",
+          "A reconciliação de “todas as coisas” – céu e terra – através do sangue de Cristo",
+          "A apocatástase (salvação universal de todos os seres)",
+          "A pacificação dos conflitos humanos só"
+        ],
+        "correct": 1,
+        "explanation": "Colossenses 1:20 declara que Deus se propôs 'reconciliar consigo todas as coisas por meio de Cristo'. A redenção tem significado cósmico."
+      },
+      {
+        "question": "Qual é o significado da “ressurreição do corpo” como uma esperança cristã distinta da imortalidade platônica da alma?",
+        "options": [
+          "São conceitos equivalentes",
+          "A ressurreição envolve a reabilitação da pessoa inteira, corpo e alma; A imortalidade platônica liberta a alma do corpo",
+          "A ressurreição é simplesmente a sobrevivência da alma",
+          "A ressurreição não é ensinada consistentemente no NT"
+        ],
+        "correct": 1,
+        "explanation": "A ressurreição cristã envolve a reabilitação de toda a pessoa. O corpo não é uma prisão, mas uma boa criação destinada a uma transformação gloriosa (1 Coríntios 15:35-54)."
+      },
+      {
+        "question": "Qual é o significado de 'mistério' (mustêrion) em Paulo em Efésios 3:6?",
+        "options": [
+          "Um segredo esotérico reservado para iniciados",
+          "O que estava escondido em épocas passadas e agora revelado: co-herdeiros gentios com Israel no único Corpo de Cristo",
+          "Um dogma incompreensível",
+          "Um rito litúrgico secreto"
+        ],
+        "correct": 1,
+        "explanation": "'Mustêrion' em Paulo designa uma revelação divina progressivamente realizada: 'as nações são co-herdeiros, membros do mesmo corpo' (Efésios 3:6)."
+      },
+      {
+        "question": "Qual é a teologia do Espírito Santo desenvolvida em João 14-16?",
+        "options": [
+          "O espírito é uma força impessoal divina",
+          "O Espírito Santo é a terceira pessoa divina: Consolador, Espírito da verdade, convencidor do pecado e da justiça",
+          "O Espírito é um anjo intermediário",
+          "O Espírito é uma metáfora apenas para inspiração profética"
+        ],
+        "correct": 1,
+        "explanation": "João 14-16 revela o Paráclito como uma pessoa divina: ele ensina (14:26), testemunha (15:26), convence do pecado (16:8) e glorifica a Cristo (16:14)."
+      },
+      {
+        "question": "Qual é o significado de “dupla imputação” na soteriologia reformada do NT?",
+        "options": [
+          "Dois pecados atribuídos ao mesmo indivíduo",
+          "O pecado de todos imputado a Cristo, e a justiça de Cristo imputada aos crentes",
+          "Justificação e santificação como dois atos separados",
+          "Pecado original e pecado atual"
+        ],
+        "correct": 1,
+        "explanation": "Dupla imputação: (1) os pecados dos crentes são imputados a Cristo (2 Coríntios 5:21) e (2) a perfeita justiça de Cristo é imputada aos crentes através da fé (Romanos 5:17)."
+      },
+      {
+        "question": "Qual é o significado do conceito de 'união com Cristo' (in Christô) que aparece mais de 160 vezes em Paulo?",
+        "options": [
+          "Uma metáfora retórica",
+          "A união mística e real do crente com a pessoa de Cristo ressuscitado, fundamento de toda a vida cristã",
+          "Membro da Igreja institucional",
+          "Conformidade com os ensinamentos de Jesus"
+        ],
+        "correct": 1,
+        "explanation": "'In Christô' (mais de 160 ocorrências): a união mística, vital e real do crente com o Cristo ressuscitado - base da justificação, santificação, adoção e glorificação."
+      }
+    ]
+  }
+}

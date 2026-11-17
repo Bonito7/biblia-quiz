@@ -1,0 +1,516 @@
+{
+  "propheties": {
+    "debutant": [
+      {
+        "question": "¿Qué profeta anunció el nacimiento del Mesías en Belén?",
+        "options": [
+          "Isaías",
+          "Miqueas",
+          "Jeremías",
+          "Zacarías"
+        ],
+        "correct": 1,
+        "explanation": "Miqueas 5:2: 'Y tú, Belén Efrata... de ti saldrá el que gobernará sobre Israel'."
+      },
+      {
+        "question": "¿Qué profecía de Isaías habla de una virgen dando a luz?",
+        "options": [
+          "Isaías 9:6",
+          "Isaías 7:14",
+          "Isaías 53:5",
+          "Isaías 40:3"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 7:14: 'He aquí, la virgen concebirá y dará a luz un hijo, y llamarán su nombre Emanuel.'"
+      },
+      {
+        "question": "¿Qué profeta anunció un 'corazón nuevo' para el pueblo?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel",
+          "joel"
+        ],
+        "correct": 2,
+        "explanation": "Ezequiel 36:26: 'Os daré un corazón nuevo, y pondré espíritu nuevo dentro de vosotros.'"
+      },
+      {
+        "question": "¿Quién profetizó que los huesos secos volverían a vivir?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel",
+          "Daniel"
+        ],
+        "correct": 2,
+        "explanation": "Ezequiel tuvo una visión del valle de los huesos secos que cobraba vida (Ezequiel 37)."
+      },
+      {
+        "question": "¿Qué profecía anuncia 'una voz que clama en el desierto'?",
+        "options": [
+          "Miqueas 5:2",
+          "Isaías 40:3",
+          "Malaquías 3:1",
+          "Zacarías 9:9"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 40:3 se cita en los 4 evangelios para designar a Juan el Bautista preparando el camino."
+      },
+      {
+        "question": "¿Qué profecía presagia que el rey entrará a Jerusalén montado en un asno?",
+        "options": [
+          "Isaías 9:6",
+          "Zacarías 9:9",
+          "Miqueas 5:2",
+          "Malaquías 4:5"
+        ],
+        "correct": 1,
+        "explanation": "Zacarías 9:9 se cita durante la entrada triunfal de Jesús a Jerusalén (Mateo 21:5)."
+      },
+      {
+        "question": "¿Qué profeta habló de los 'sufrimientos del Siervo' traspasado por nuestros pecados?",
+        "options": [
+          "Jeremías",
+          "Ezequiel",
+          "Isaías",
+          "Zacarías"
+        ],
+        "correct": 2,
+        "explanation": "Isaías 53 describe al Siervo Sufriente \"herido por nuestros pecados, molido por nuestras iniquidades\"."
+      },
+      {
+        "question": "¿Quién profetizó el derramamiento del Espíritu sobre toda carne?",
+        "options": [
+          "Amós",
+          "joel",
+          "Nahúm",
+          "Abdías"
+        ],
+        "correct": 1,
+        "explanation": "Joel 2:28: 'Después de esto derramaré mi Espíritu sobre toda carne'. Pedro cita esta profecía en Pentecostés (Hechos 2:17)."
+      },
+      {
+        "question": "¿Qué profeta anunció el nuevo pacto escrito en el corazón?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel",
+          "Oseas"
+        ],
+        "correct": 1,
+        "explanation": "Jeremías 31:31-34: 'He aquí vienen días... en que haré un nuevo pacto con Israel'."
+      },
+      {
+        "question": "¿Qué profeta predijo el regreso de Elías antes del gran día del Señor?",
+        "options": [
+          "Zacarías",
+          "Hageo",
+          "Malaquías",
+          "Habacuc"
+        ],
+        "correct": 2,
+        "explanation": "Malaquías 4:5: 'He aquí, yo os envío el profeta Elías antes que venga el día del Señor'."
+      },
+      {
+        "question": "¿Cuántos profetas mayores hay en el Antiguo Testamento?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correct": 1,
+        "explanation": "Los 4 profetas mayores son: Isaías, Jeremías, Ezequiel y Daniel."
+      },
+      {
+        "question": "¿Qué profecía habla de que el Mesías será vendido por 30 piezas de plata?",
+        "options": [
+          "Isaías 53",
+          "Zacarías 11:12-13",
+          "Miqueas 5:2",
+          "Daniel 9:25"
+        ],
+        "correct": 1,
+        "explanation": "Zacarías 11:12-13 predice las 30 piezas de plata: el precio de la traición de Judas (Mateo 27:9)."
+      },
+      {
+        "question": "¿Quién profetizó que el Mesías sería llamado desde Egipto?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Oseas",
+          "Amós"
+        ],
+        "correct": 2,
+        "explanation": "Oseas 11:1: 'De Egipto llamé a mi hijo', cumplido durante la huida de Jesús a Egipto (Mateo 2:15)."
+      },
+      {
+        "question": "¿Qué profecía interpretó Daniel para Nabucodonosor con respecto a 4 reinos?",
+        "options": [
+          "La visión del valle.",
+          "La visión de la estatua de los 4 metales.",
+          "La visión de las 4 bestias.",
+          "La visión de las 70 semanas"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 2: la estatua con cabeza de oro, cofre de plata, vientre de bronce y pies de barro representa 4 imperios."
+      },
+      {
+        "question": "¿Qué profeta predijo que las naciones marcharían a Sión para aprender la ley?",
+        "options": [
+          "Amós",
+          "Isaías",
+          "Nahúm",
+          "Sofonías"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 2:2-4 / Miqueas 4:1-3: Subirán las naciones al monte de Jehová para aprender sus caminos."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "¿Cuánto tiempo profetizó Jeremías el exilio en Babilonia?",
+        "options": [
+          "40 años",
+          "50 años",
+          "70 años",
+          "100 años"
+        ],
+        "correct": 2,
+        "explanation": "Jeremías 25:11-12 y 29:10: el exilio duraría 70 años antes del regreso."
+      },
+      {
+        "question": "¿Qué representa la 'piedra angular' en Isaías 28:16?",
+        "options": [
+          "Templo de Salomón",
+          "La Roca del Sinaí",
+          "Un precioso fundamento puesto por Dios que simboliza al Mesías",
+          "La ley de Moisés"
+        ],
+        "correct": 2,
+        "explanation": "Isaías 28:16: 'Pongo en Sion una piedra, piedra probada, piedra angular, preciosa', citado por Pedro (1 Pedro 2:6) para Cristo."
+      },
+      {
+        "question": "¿Qué profecía de Miqueas también anuncia el contexto del nacimiento mesiánico?",
+        "options": [
+          "Miqueas 4:1",
+          "Miqueas 5:2",
+          "Miqueas 6:8",
+          "Miqueas 7:18"
+        ],
+        "correct": 1,
+        "explanation": "Miqueas 5:2: 'Y tú, Belén Efrata... de ti me saldrá uno que gobernará sobre Israel, cuyo origen es desde tiempos antiguos.'"
+      },
+      {
+        "question": "¿Qué describe la profecía de las '70 semanas' en Daniel 9?",
+        "options": [
+          "la inundación",
+          "El período que conduce a la venida del Mesías y el fin del Templo",
+          "Sólo el exilio babilónico",
+          "La construcción del Templo"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 9:24-27: Las 70 semanas de años cubren el período hasta el Mesías-Príncipe y la destrucción del Templo."
+      },
+      {
+        "question": "¿Qué profecía de Isaías describe el reinado de paz mesiánica con el lobo y el cordero?",
+        "options": [
+          "Isaías 7:14",
+          "Isaías 9:6",
+          "Isaías 11:6-9",
+          "Isaías 53:5"
+        ],
+        "correct": 2,
+        "explanation": "Isaías 11:6-9: 'El lobo morará con el cordero... porque la tierra será llena del conocimiento de Jehová.'"
+      },
+      {
+        "question": "En Isaías 9:6, ¿cuál es uno de los nombres mesiánicos que significa \"Padre Eterno\"?",
+        "options": [
+          "Asesor admirable",
+          "Dios poderoso",
+          "Padre Eterno",
+          "Príncipe de la paz"
+        ],
+        "correct": 2,
+        "explanation": "Isaías 9:6 enumera 4 nombres: Admirable Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz."
+      },
+      {
+        "question": "¿Qué profecía de Zacarías dice que mirarán al que traspasaron?",
+        "options": [
+          "Zacarías 9:9",
+          "Zacarías 11:12",
+          "Zacarías 12:10",
+          "Zacarías 14:4"
+        ],
+        "correct": 2,
+        "explanation": "Zacarías 12:10: 'Mirarán a mí, a quien traspasaron', citado en Juan 19:37."
+      },
+      {
+        "question": "¿Qué profeta usó su propia vida matrimonial como una profecía viviente?",
+        "options": [
+          "Amós",
+          "Oseas",
+          "joel",
+          "Abdías"
+        ],
+        "correct": 1,
+        "explanation": "Oseas se casó con Gomer, una mujer infiel, para simbolizar la infidelidad de Israel y el amor fiel de Dios."
+      },
+      {
+        "question": "¿Qué profetizó Ezequiel 37 con la visión de los huesos?",
+        "options": [
+          "resurrección individual",
+          "La restauración nacional de Israel",
+          "el juicio final",
+          "La creación de una nueva alianza"
+        ],
+        "correct": 1,
+        "explanation": "Ezequiel 37 es una metáfora de la restauración nacional y espiritual del Israel disperso."
+      },
+      {
+        "question": "¿En qué profecía se llama al Mesías \"Renuevo de David\"?",
+        "options": [
+          "Isaías 11:1",
+          "Jeremías 23:5",
+          "Zacarías 3:8",
+          "los tres"
+        ],
+        "correct": 3,
+        "explanation": "El 'Renuevo' o 'Renuevo' davídico aparece en Isaías (11:1), Jeremías (23:5; 33:15), Zacarías (3:8; 6:12)."
+      },
+      {
+        "question": "¿Qué significa la profecía del 'día del Señor' en Amós 5:18?",
+        "options": [
+          "Un día de celebración",
+          "Una advertencia: será un día de oscuridad, sin luz para quienes buscan el juicio de los demás",
+          "El fin del mundo",
+          "El sábado"
+        ],
+        "correct": 1,
+        "explanation": "Amós pone patas arriba la expectativa popular: el 'Día del Señor' será oscuridad para un Israel desobediente."
+      },
+      {
+        "question": "¿Qué profecía habla del Mesías como \"Luz para las naciones\"?",
+        "options": [
+          "Isaías 9:2",
+          "Isaías 42:6",
+          "Isaías 49:6",
+          "Isaías 60:1"
+        ],
+        "correct": 2,
+        "explanation": "Isaías 49:6: 'Te haré luz de las naciones, para llevar mi salvación hasta los confines de la tierra'."
+      },
+      {
+        "question": "¿Qué profeta profetizó el juicio de Nínive, la capital asiria?",
+        "options": [
+          "Amós",
+          "Miqueas",
+          "Nahúm",
+          "Habacuc"
+        ],
+        "correct": 2,
+        "explanation": "El libro de Nahum está enteramente dedicado a la profecía del juicio de Nínive, cumplido en el año 612 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué profetiza Joel 2:28-32 cumplido según Pedro en Pentecostés?",
+        "options": [
+          "La venida de Juan el Bautista",
+          "El derramamiento del Espíritu sobre toda carne con señales proféticas",
+          "La destrucción de Jerusalén",
+          "la resurrección"
+        ],
+        "correct": 1,
+        "explanation": "Pedro cita Joel 2:28-32 en Hechos 2:17-21 para explicar Pentecostés."
+      },
+      {
+        "question": "¿Cuál es la profecía de la 'sierva sufriente' de Isaías 52:13-53:12?",
+        "options": [
+          "Una profecía sobre Jeremías",
+          "El retrato del Mesías sufriendo, rechazado, cargando con nuestros pecados",
+          "Una descripción del exilio babilónico.",
+          "Una profecía sobre el rey Ciro"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 52:13-53:12 es el cuarto cántico del Siervo, citado más de 40 veces en el Nuevo Testamento para Cristo."
+      }
+    ],
+    "expert": [
+      {
+        "question": "¿Cuál es la estructura de las 4 'canciones de siervos' en Isaías?",
+        "options": [
+          "Isaías 40, 45, 49, 53",
+          "Isaías 42, 49, 50, 52:13-53:12",
+          "Isaías 41, 46, 51, 54",
+          "Isaías 43, 47, 52, 55"
+        ],
+        "correct": 1,
+        "explanation": "Los 4 cánticos del Siervo son: Isaías 42:1-9; 49:1-13; 50:4-11; 52:13-53:12."
+      },
+      {
+        "question": "¿Qué significa el término hebreo 'almah' en Isaías 7:14 y por qué se debate?",
+        "options": [
+          "Sólo significa \"mujer joven\" sin implicación de virginidad.",
+          "'Almah' designa a una mujer joven en edad de casarse, a menudo virgen; la Septuaginta se traduce como \"partenos\" (virgen)",
+          "Significa exclusivamente 'virgen' en hebreo.",
+          "Es un término técnico para profecía."
+        ],
+        "correct": 1,
+        "explanation": "'Almah' (עַלְמָה) = mujer joven en edad de casarse. La LXX lo traduce \"partenos\" (virgen). Mateo 1:23 cita la LXX para su cumplimiento en María."
+      },
+      {
+        "question": "¿Cuál es el debate hermenéutico sobre la profecía del doble cumplimiento (sensus plenior)?",
+        "options": [
+          "Las profecías sólo tienen un significado literal.",
+          "El 'sensus plenior' reconoce un significado literal inmediato Y un cumplimiento más profundo pretendido por Dios en Cristo",
+          "Las profecías tienen sólo un significado alegórico.",
+          "No hay profecías mesiánicas en el Antiguo Testamento"
+        ],
+        "correct": 1,
+        "explanation": "El 'sensus plenior' (significado más completo): el autor humano profetiza para su contexto inmediato, pero Dios inscribe un cumplimiento más profundo (por ejemplo, Oseas 11,1 citado en Mt 2,15)."
+      },
+      {
+        "question": "¿Cuál es el significado de las '70 semanas' en Daniel 9:24 según diferentes interpretaciones?",
+        "options": [
+          "Literalmente 70 semanas de días (490 días)",
+          "70 semanas de años = 490 años, que abarcan diferentes períodos según las interpretaciones (históricas, escatológicas)",
+          "Un número simbólico sin cronología precisa",
+          "Sólo una profecía ya cumplida en el año 70 d.C. ANUNCIO"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 9: 70 semanas = 70 × 7 años = 490 años. Debate entre: (1) realización total en el 70 d.C. ANUNCIO; (2) futura semana final escatológica; (3) interpretación puramente simbólica."
+      },
+      {
+        "question": "¿Cuál es el significado teológico de 'Siervo del Señor' en Isaías 40-55 (Deutero-Isaías)?",
+        "options": [
+          "El Siervo es Israel exclusivamente colectivo",
+          "El Siervo oscila entre el Israel colectivo y una figura individual, culminando en el retrato de un sustituto inocente en Isaías 53.",
+          "El Siervo es sólo una figura histórica (Ciro)",
+          "El Siervo es exclusivamente el propio profeta Isaías"
+        ],
+        "correct": 1,
+        "explanation": "La tensión es intencional: el Siervo es a veces Israel (42,19; 49,3), a veces distinto de Israel (49,5-6; 53), convergiendo en una figura individual sufriente."
+      },
+      {
+        "question": "¿En qué se diferencia el método tipológico del alegorismo en la interpretación profética?",
+        "options": [
+          "Estos son métodos idénticos.",
+          "La tipología conserva el sentido histórico literal como un tipo real que prefigura su antitipo; El alegorismo reemplaza el significado literal con un significado espiritual arbitrario.",
+          "La tipología es postapostólica, el alegorismo es apostólico.",
+          "El alegorismo es más riguroso que la tipología"
+        ],
+        "correct": 1,
+        "explanation": "Distinción crucial: (1) Tipológica: los acontecimientos históricos reales del Antiguo Testamento prefiguran su cumplimiento cristológico; (2) Alegórico: el significado literal se convierte en símbolo puro sin base histórica."
+      },
+      {
+        "question": "¿Cuál es el significado del término hebreo 'nabi' (profeta) en su dimensión fundamental?",
+        "options": [
+          "Sólo predice el futuro",
+          "'Nabi' designa a alguien que habla en nombre de Dios: portavoz (que anuncia), así como predictor (predicción).",
+          "Solo intérprete de sueños",
+          "Líder militar religioso"
+        ],
+        "correct": 1,
+        "explanation": "'Nabi' (נָבִיא): el profeta es ante todo un portavoz de Dios para su tiempo presente (hablar). La predicción (predicción) es una dimensión entre otras."
+      },
+      {
+        "question": "¿Cuál es la relación entre la profecía de Jeremías 31:31-34 y el libro de Hebreos?",
+        "options": [
+          "Hebreos no cita a Jeremías",
+          "Hebreos 8:8-12 cita Jeremías 31 en su totalidad para demostrar que el Nuevo Pacto en Cristo hace obsoleto el Antiguo.",
+          "Hebreos cita a Jeremías para defender la Ley Mosaica",
+          "Jeremías 31 se interpreta alegóricamente sólo en Hebreos"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos 8:8-12 es la cita del Antiguo Testamento más larga en el Nuevo Testamento: Jeremías 31:31-34, lo que demuestra la superioridad del Nuevo Pacto."
+      },
+      {
+        "question": "¿Hasta qué punto se 'cumple' la profecía de Isaías 40:3 (la voz en el desierto) en el Nuevo Testamento?",
+        "options": [
+          "No se menciona en el NT.",
+          "Los 4 evangelios lo citan para Juan Bautista, pero con diferentes modificaciones revelando su propia cristología.",
+          "Sólo Mateo lo cita.",
+          "Sólo se menciona en Juan."
+        ],
+        "correct": 1,
+        "explanation": "Mateo (3:3), Marcos (1:3), Lucas (3:4-6), Juan (1:23) todos citan Isaías 40:3. Pero Lucas también cita Isaías 40:4-5 para enfatizar el alcance universal."
+      },
+      {
+        "question": "¿Cuál es el significado escatológico de la 'resurrección' en Ezequiel 37 versus Isaías 26:19?",
+        "options": [
+          "Ambos textos hablan sólo de la resurrección individual.",
+          "Ezequiel 37 es una metáfora nacional; Isaías 26:19 tiende más hacia la resurrección individual real",
+          "Ninguno habla de resurrección.",
+          "Ambas son alegorías sin significado escatológico."
+        ],
+        "correct": 1,
+        "explanation": "Ezequiel 37 = restauración nacional de Israel (metáfora). Isaías 26,19: 'Vuestros muertos vivirán, mis cadáveres resucitarán' tiende a una esperanza de resurrección individual."
+      },
+      {
+        "question": "¿Cuál es la profecía mesiánica implícita en el Salmo 22 y su relación con la Pasión?",
+        "options": [
+          "Sin conexión con la Pasión",
+          "El Salmo 22 contiene múltiples detalles (burla, compartir ropa, sed) citados en las historias de la Pasión.",
+          "Esto es puramente una queja del David histórico.",
+          "Sólo el versículo 1 (\"Dios mío, Dios mío...\") es relevante"
+        ],
+        "correct": 1,
+        "explanation": "El Salmo 22 es citado masivamente en los relatos de la Pasión: v.1 (Mt 27,46), v.7-8 (Mt 27,39-43), v.16 (Jn 19,37), v.18 (Jn 19,24)."
+      },
+      {
+        "question": "¿Cómo interpretar la profecía de 'Gog y Magog' de Ezequiel 38-39?",
+        "options": [
+          "Geopolítica futura exclusivamente literal",
+          "Símbolo escatológico de una coalición enemiga final contra Israel, retomado en Apocalipsis 20",
+          "Completamente realizado en la antigüedad.",
+          "Metáfora de los babilonios únicamente."
+        ],
+        "correct": 1,
+        "explanation": "Gog/Magog (Ez 38-39): contexto escatológico simbólico retomado en Apocalipsis 20:8. Las interpretaciones varían: futuro literal (dispensacionalismo), simbólico (amilenialismo)."
+      },
+      {
+        "question": "¿Qué profecía de Sofonías presagia el humilde 'resto fiel' que heredará las promesas?",
+        "options": [
+          "Sofonías 1:14",
+          "Sofonías 2:3",
+          "Sofonías 3:12-13",
+          "Sofonías 3:17"
+        ],
+        "correct": 2,
+        "explanation": "Sofonías 3:12-13: 'Dejaré entre vosotros un pueblo humilde y pobre; confiarán en el nombre del Señor.' — fundamento del concepto de \"resto\" en las Bienaventuranzas."
+      },
+      {
+        "question": "¿Cuál es la relación entre la profecía del 'Hijo del Hombre en las nubes' (Daniel 7:13) y la cristología de Marcos?",
+        "options": [
+          "Sin informe",
+          "Jesús aplica explícitamente Daniel 7:13 durante su juicio (Marcos 14:62), afirmando su identidad como el divino Hijo del Hombre.",
+          "Sólo Juan cita Daniel 7",
+          "Es una interpolación tardía."
+        ],
+        "correct": 1,
+        "explanation": "Marcos 14:62: Jesús dijo al sumo sacerdote 'verás al Hijo del Hombre sentado a la diestra del poder y viniendo sobre las nubes' - cita directa de Daniel 7:13 + Salmo 110:1."
+      },
+      {
+        "question": "¿Cuál es la profecía de Isaías 11:1-10 y su triple dimensión mesiánica?",
+        "options": [
+          "Sólo político",
+          "Una descendencia de Jesé: (1) dotada del Espíritu de 7 dones, (2) gobernando con justicia para los pobres, (3) restaurando la creación (paz cósmica)",
+          "Sólo espiritual sin dimensión política.",
+          "Una profecía sólo sobre Zorobabel"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 11: (1) la unción del Espíritu (v.1-3); (2) gobierno justo para los humildes (v.4-5); (3) paz cósmica restaurada (v.6-9): tres dimensiones mesiánicas complementarias."
+      },
+      {
+        "question": "¿Por qué se cita Isaías 53:4 de manera diferente en Mateo 8:17 versus 1 Pedro 2:24?",
+        "options": [
+          "Esta es una cita errónea",
+          "Mateo aplica el versículo a las curaciones físicas de Jesús; Pedro lo aplica al pecado, ilustrando la riqueza hermenéutica del texto.",
+          "Pedro corrige a Mateo",
+          "Ambas citas son idénticas."
+        ],
+        "correct": 1,
+        "explanation": "Isaías 53:4: Mateo 8:17 = curaciones (significado literal de enfermedades); 1 Pedro 2:24 = pecados. Ambos son legítimos porque el texto hebreo contiene ambas dimensiones."
+      }
+    ]
+  }
+}

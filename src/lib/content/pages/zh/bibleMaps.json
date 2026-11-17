@@ -1,0 +1,200 @@
+{
+  "periods": [
+    {
+      "id": "creation",
+      "label": "创造与洪水",
+      "emoji": "🌍",
+      "years": "公元前2000年之前",
+      "color": "from-emerald-500 to-teal-600",
+      "description": "起源于圣经的古代世界：伊甸园、诺亚洪水和巴别塔之后的国家分散。",
+      "maps": [
+        {
+          "title": "伊甸园——传统地点",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "传统认为​​伊甸园位于美索不达米亚，底格里斯河和幼发拉底河的交汇处（创世记 2:10-14）。",
+          "details": "伊甸园的 4 条河：比顺河、基训河、希德克尔河（老虎河）和帕拉河（幼发拉底河）"
+        },
+        {
+          "title": "诺亚方舟——亚拉拉山",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "方舟停泊在现今突厥东部的亚拉拉山（创世记 8:4）。",
+          "details": "亚拉拉山峰海拔 5,165 m，位于土耳其和亚美尼亚边境"
+        },
+        {
+          "title": "巴别塔 — 示拿平原",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "巴别塔（巴比伦）位于美索不达米亚的示拿平原（创世记 11:2）。",
+          "details": "考古学家在巴比伦和乌尔发现了巨大的金字形神塔"
+        }
+      ]
+    },
+    {
+      "id": "patriarches",
+      "label": "族长",
+      "emoji": "🏕️",
+      "years": "公元前 2000 年–公元 1700 年",
+      "color": "from-amber-500 to-orange-600",
+      "description": "亚伯拉罕、以撒和雅各穿越迦南、埃及和美索不达米亚的旅程。",
+      "maps": [
+        {
+          "title": "亚伯拉罕的旅程——从吾珥到迦南",
+          "image": "https://images.unsplash.com/photo-1605101100278-5d1deb2b6498?w=800&q=80",
+          "caption": "亚伯拉罕从迦勒底的吾珥出发，经过哈兰，下到迦南，到了埃及（创世记11-12）。",
+          "details": "从美索不达米亚到迦南，2000多公里的旅程"
+        },
+        {
+          "title": "族长时代的迦南",
+          "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?w=800&q=80",
+          "caption": "族长圣地：示剑、伯特利、希伯伦、贝尔是巴——族长之路。",
+          "details": "亚伯拉罕、以撒和雅各沿着迦南地建造了祭坛"
+        },
+        {
+          "title": "约瑟时代的埃及",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "约瑟夫被卖到埃及成为总督。歌珊地迎来了雅各的家人（创世记 37-50）。",
+          "details": "尼罗河三角洲和歌珊地区是希伯来人居住的地方"
+        }
+      ]
+    },
+    {
+      "id": "exode",
+      "label": "出埃及记与沙漠",
+      "emoji": "🌵",
+      "years": "公元前 1300–1200 年",
+      "color": "from-yellow-500 to-amber-600",
+      "description": "离开埃及，在西奈沙漠度过四十年，到达迦南门口。",
+      "maps": [
+        {
+          "title": "出埃及之路——从埃及到西奈半岛",
+          "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80",
+          "caption": "以色列人渡过红海，进入沙漠，前往西奈山（出埃及记 14-19）。",
+          "details": "提出了几条出埃及路线：北部路线、中部或南部路线"
+        },
+        {
+          "title": "西奈山 — 启示之地",
+          "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
+          "caption": "西奈山（穆萨山或何烈山）是摩西接受十诫的地方（出埃及记 19-20）。",
+          "details": "西奈半岛是希伯来人40年漂泊的场景"
+        },
+        {
+          "title": "沙漠中的 40 年 — 阶段",
+          "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80",
+          "caption": "从加低斯巴尼亚到摩押平原，人民的舞台：以琳、玛拉、利非丁、加低斯……",
+          "details": "民数记 33 章列出了从离开埃及到进入迦南的 40 个步骤"
+        }
+      ]
+    },
+    {
+      "id": "conquete",
+      "label": "征服与审判者",
+      "emoji": "⚔️",
+      "years": "公元前 1200 年–公元 1050 年",
+      "color": "from-red-500 to-rose-600",
+      "description": "约书亚统治下渡过约旦河、支派的分布和士师时期。",
+      "maps": [
+        {
+          "title": "约书亚征服迦南",
+          "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?w=800&q=80",
+          "caption": "约书亚领导了3次战役：中部（耶利哥、艾城）、南部和北部征服迦南（约书亚记1-12）。",
+          "details": "耶利哥城的陷落开启了征服迦南的主要战役"
+        },
+        {
+          "title": "以色列12个部落的分布",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "12 个部落各有其领土。利未得到的不是领土，而是逃城（约书亚记13-21）。",
+          "details": "流便支派、迦得支派和玛拿西半支派定居在约旦河东边"
+        },
+        {
+          "title": "士师时代——外部威胁",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "士师治下以色列的敌人：非利士人（西海岸）、摩押人（东）、米甸人（南）、迦南人（北）。",
+          "details": "士师的循环：悖逆→压迫→悔改→拯救→平安"
+        }
+      ]
+    },
+    {
+      "id": "royaume",
+      "label": "联合王国及分裂国家",
+      "emoji": "👑",
+      "years": "公元前 1050–722 年",
+      "color": "from-blue-500 to-indigo-600",
+      "description": "扫罗、大卫和所罗门的统治，然后分裂为以色列和犹大国。",
+      "maps": [
+        {
+          "title": "大卫和所罗门统治下的联合王国",
+          "image": "https://images.unsplash.com/photo-1560713781-d8f7a1ece0f3?w=800&q=80",
+          "caption": "大卫征服了耶路撒冷，并将王国从埃及扩展到幼发拉底河。所罗门建造圣殿（列王纪上 4-8 章）。",
+          "details": "从耶布斯人手中征服耶路撒冷，成为政治和宗教首都"
+        },
+        {
+          "title": "耶路撒冷 — 大卫城",
+          "image": "https://images.unsplash.com/photo-1548710428-8f6b8e617ec0?w=800&q=80",
+          "caption": "大卫在耶路撒冷（锡安）建立了他的首都，并将约柜带到那里（撒母耳记下 5-6）。",
+          "details": "摩利亚山上有所罗门圣殿，建于 7 年（公元前 966-959 年）"
+        },
+        {
+          "title": "王国分裂——以色列和犹大",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "所罗门之后：北方（以色列，10 个部落，首都撒玛利亚）和南方（犹大，2 个部落，首都耶路撒冷）（列王纪上 12）。",
+          "details": "北方王国将持续200年（公元前931-722年），犹大王国将持续340年（公元前931-586年）"
+        }
+      ]
+    },
+    {
+      "id": "exil",
+      "label": "流亡与回归",
+      "emoji": "🏛️",
+      "years": "公元前 722–400 年",
+      "color": "from-purple-500 to-violet-600",
+      "description": "撒玛利亚陷落（722 年）、耶路撒冷被毁（586 年）、流亡巴比伦以及在居鲁士统治下回归。",
+      "maps": [
+        {
+          "title": "亚述人的驱逐——公元前 722 年",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "亚述萨尔贡二世将 10 个北方部落驱逐到美索不达米亚（列王记下 17）。撒玛利亚人将会参与其中。",
+          "details": "外来人口定居撒玛利亚，形成了撒玛利亚人的混血民族"
+        },
+        {
+          "title": "巴比伦帝国和犹大的流放",
+          "image": "https://images.unsplash.com/photo-1605101100278-5d1deb2b6498?w=800&q=80",
+          "caption": "尼布甲尼撒摧毁了耶路撒冷（586 年）并将犹大精英驱逐到巴比伦。但以理和以西结在那里发预言。",
+          "details": "连续3次驱逐：公元前605年、公元前597年和公元前586年。 J.C. 耶利米仍然留在犹太"
+        },
+        {
+          "title": "流亡归来——居鲁士法令",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "公元前538年。公元前，居鲁士大帝允许犹太人返回并重建圣殿（以斯拉记 1）。",
+          "details": "所罗巴伯领导第一次回归（538年），以斯拉第二次回归（458年），尼希米第三次回归（公元前445年）"
+        }
+      ]
+    },
+    {
+      "id": "nt",
+      "label": "新约时代",
+      "emoji": "✝️",
+      "years": "公元前 4 年 — 公元 100 年",
+      "color": "from-cyan-500 to-sky-600",
+      "description": "耶稣时代的巴勒斯坦、保罗的传教之旅和福音的传播。",
+      "maps": [
+        {
+          "title": "耶稣时代的巴勒斯坦",
+          "image": "https://images.unsplash.com/photo-1548710428-8f6b8e617ec0?w=800&q=80",
+          "caption": "巴勒斯坦分为加利利、撒玛利亚和犹太。耶稣出生在伯利恒，在拿撒勒长大，在加利利传道。",
+          "details": "提比里亚湖（加利利海）是耶稣加利利事工的中心"
+        },
+        {
+          "title": "保罗的传教之旅",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "保罗完成了 3 次传教之旅，从安提阿出发，向土耳其、希腊传福音，最后到达罗马。",
+          "details": "第一次旅程（使徒行传 13-14 章）：塞浦路斯和小亚细亚。第二名：马其顿和希腊。第三名：以弗所"
+        },
+        {
+          "title": "罗马帝国与福音的传播",
+          "image": "https://images.unsplash.com/photo-1560713781-d8f7a1ece0f3?w=800&q=80",
+          "caption": "罗马和平、罗马道路和通用希腊语促进了福音的传播。",
+          "details": "在不到300年的时间里，基督教从耶路撒冷传播到帝国的尽头"
+        }
+      ]
+    }
+  ]
+}

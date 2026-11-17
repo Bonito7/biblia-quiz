@@ -1,0 +1,1462 @@
+{
+  "ancien_testament": {
+    "debutant": [
+      {
+        "question": "¿Cuál es el primer libro de la Biblia?",
+        "options": [
+          "éxodo",
+          "Génesis",
+          "Levíticio",
+          "Números"
+        ],
+        "correct": 1,
+        "explanation": "Génesis es el primer libro de la Biblia y significa \"principio\"."
+      },
+      {
+        "question": "¿Quién construyó el arca para sobrevivir al diluvio?",
+        "options": [
+          "Abrahán",
+          "Moisés",
+          "Noé",
+          "David"
+        ],
+        "correct": 2,
+        "explanation": "Noé construyó el arca según el mandato de Dios (Génesis 6-9)."
+      },
+      {
+        "question": "¿Cuántos días le tomó a Dios crear el mundo?",
+        "options": [
+          "5 dias",
+          "6 dias",
+          "7 dias",
+          "10 dias"
+        ],
+        "correct": 1,
+        "explanation": "Dios creó el mundo en 6 días y descansó el séptimo día."
+      },
+      {
+        "question": "¿Quién recibió los Diez Mandamientos en el monte Sinaí?",
+        "options": [
+          "Abrahán",
+          "Moisés",
+          "Aarón",
+          "Josué"
+        ],
+        "correct": 1,
+        "explanation": "Moisés recibió los Diez Mandamientos de Dios en el monte Sinaí (Éxodo 20)."
+      },
+      {
+        "question": "¿Qué rey de Israel escribió la mayoría de los Salmos?",
+        "options": [
+          "Salomón",
+          "Saúl",
+          "David",
+          "Ezequías"
+        ],
+        "correct": 2,
+        "explanation": "El rey David es el autor principal de los Salmos."
+      },
+      {
+        "question": "¿A quién se tragó un pez grande?",
+        "options": [
+          "Jonás",
+          "Elías",
+          "Elíseo",
+          "Amós"
+        ],
+        "correct": 0,
+        "explanation": "Jonás fue tragado por un pez grande después de huir de la misión de Dios (Jonás 1:17)."
+      },
+      {
+        "question": "¿Quién fue la esposa de Abraham?",
+        "options": [
+          "raquel",
+          "sara",
+          "rebeca",
+          "Pasto"
+        ],
+        "correct": 1,
+        "explanation": "Sara era la esposa de Abraham (Génesis 17:15)."
+      },
+      {
+        "question": "¿Cuántas plagas envió Dios sobre Egipto?",
+        "options": [
+          "7",
+          "8",
+          "10",
+          "12"
+        ],
+        "correct": 2,
+        "explanation": "Dios envió 10 plagas sobre Egipto (Éxodo 7-12)."
+      },
+      {
+        "question": "¿En qué jardín vivieron Adán y Eva?",
+        "options": [
+          "Huerto de Getsemaní",
+          "Jardín del Edén",
+          "El jardín de Abraham",
+          "Jardín del Sinaí"
+        ],
+        "correct": 1,
+        "explanation": "Adán y Eva vivieron en el Jardín del Edén (Génesis 2)."
+      },
+      {
+        "question": "¿Qué mar cruzó Moisés con el pueblo de Israel?",
+        "options": [
+          "El mar Mediterráneo",
+          "El Mar Muerto",
+          "El Mar Rojo",
+          "El Mar de Galilea"
+        ],
+        "correct": 2,
+        "explanation": "Moisés dividió el Mar Rojo para permitir que el pueblo de Israel escapara de Egipto (Éxodo 14)."
+      },
+      {
+        "question": "¿Cómo se llama el primer hombre creado por Dios?",
+        "options": [
+          "Noé",
+          "Abel",
+          "Adán",
+          "set"
+        ],
+        "correct": 2,
+        "explanation": "Adán es el primer hombre creado por Dios (Génesis 2:7)."
+      },
+      {
+        "question": "¿Cuántos hijos tuvo Jacob?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "correct": 2,
+        "explanation": "Jacob tuvo 12 hijos que dieron origen a las 12 tribus de Israel."
+      },
+      {
+        "question": "¿Cuál es el primer mandamiento de los Diez Mandamientos?",
+        "options": [
+          "no matarás",
+          "No tendrás otros dioses delante de mí.",
+          "no robaras",
+          "Honra a tu padre y a tu madre."
+        ],
+        "correct": 1,
+        "explanation": "El primer mandamiento prohíbe tener otros dioses (Éxodo 20:3)."
+      },
+      {
+        "question": "¿Qué animal le habló a Eva en el Jardín del Edén?",
+        "options": [
+          "un águila",
+          "un leon",
+          "una serpiente",
+          "un burro"
+        ],
+        "correct": 2,
+        "explanation": "La serpiente tentó a Eva ofreciéndole comer del fruto prohibido (Génesis 3:1)."
+      },
+      {
+        "question": "¿Quién fue el hijo de Abraham y Sara?",
+        "options": [
+          "Ismael",
+          "isaac",
+          "jacob",
+          "Esaú"
+        ],
+        "correct": 1,
+        "explanation": "Isaac fue el hijo milagroso de Abraham y Sara en su vejez (Génesis 21:3)."
+      },
+      {
+        "question": "¿Quién era Caín en la Biblia?",
+        "options": [
+          "el hijo de noe",
+          "El primer hijo de Adán y Eva",
+          "el hermano de noe",
+          "uno de los profetas"
+        ],
+        "correct": 1,
+        "explanation": "Caín fue el primer hijo de Adán y Eva, quien mató a su hermano Abel (Génesis 4)."
+      },
+      {
+        "question": "¿A qué pueblo condujo Josué a la Tierra Prometida?",
+        "options": [
+          "Los egipcios",
+          "Los filisteos",
+          "Los israelitas",
+          "Los babilonios"
+        ],
+        "correct": 2,
+        "explanation": "Josué condujo al pueblo de Israel a la Tierra Prometida después de la muerte de Moisés (Josué 1)."
+      },
+      {
+        "question": "¿Cómo se llama la hermana de Moisés?",
+        "options": [
+          "Débora",
+          "Miriam",
+          "raquel",
+          "sara"
+        ],
+        "correct": 1,
+        "explanation": "Miriam era hermana de Moisés y Aarón (Éxodo 15:20)."
+      },
+      {
+        "question": "¿En qué libro de la Biblia se encuentra la historia de la creación?",
+        "options": [
+          "éxodo",
+          "Génesis",
+          "Levíticio",
+          "Deuteronomio"
+        ],
+        "correct": 1,
+        "explanation": "La historia de la creación se encuentra en los dos primeros capítulos del Génesis."
+      },
+      {
+        "question": "¿Qué rey de Israel construyó el primer templo en Jerusalén?",
+        "options": [
+          "David",
+          "Saúl",
+          "Salomón",
+          "Roboam"
+        ],
+        "correct": 2,
+        "explanation": "El rey Salomón construyó el primer templo en Jerusalén (1 Reyes 6)."
+      },
+      {
+        "question": "¿Cuál es el significado del arco iris después del diluvio?",
+        "options": [
+          "Un signo de belleza natural.",
+          "El pacto de Dios de no volver a destruir la tierra con un diluvio",
+          "Una señal de peligro",
+          "La presencia de Dios"
+        ],
+        "correct": 1,
+        "explanation": "El arco iris es la señal del pacto de Dios con Noé y todo ser viviente (Génesis 9:13-16)."
+      },
+      {
+        "question": "¿Cómo se llama el monte donde Abraham debía sacrificar a su hijo?",
+        "options": [
+          "Monte Sinaí",
+          "Monte Moriah",
+          "Monte Horeb",
+          "Monte Carmelo"
+        ],
+        "correct": 1,
+        "explanation": "Dios le pidió a Abraham que sacrificara a Isaac en el monte Moriah (Génesis 22:2)."
+      },
+      {
+        "question": "¿Qué hijo de Jacob fue vendido como esclavo por sus hermanos?",
+        "options": [
+          "Benjamín",
+          "Judá",
+          "Rubén",
+          "José"
+        ],
+        "correct": 3,
+        "explanation": "José fue vendido por sus hermanos a mercaderes ismaelitas por 20 piezas de plata (Génesis 37:28)."
+      },
+      {
+        "question": "¿Qué planta usó Dios para hablarle a Moisés?",
+        "options": [
+          "una palmera",
+          "Una zarza ardiente",
+          "una higuera",
+          "un cedro"
+        ],
+        "correct": 1,
+        "explanation": "Dios habló a Moisés desde una zarza que ardía sin consumirse (Éxodo 3:2-4)."
+      },
+      {
+        "question": "¿Qué alimento milagroso envió Dios a los israelitas en el desierto?",
+        "options": [
+          "pan ordinario",
+          "maná y codornices",
+          "higos y dátiles",
+          "Pescado seco"
+        ],
+        "correct": 1,
+        "explanation": "Dios envió maná cada mañana y codornices para alimentar a los israelitas (Éxodo 16)."
+      },
+      {
+        "question": "¿Qué objeto sagrado contenía las tablas de la Ley?",
+        "options": [
+          "El candelero de 7 brazos",
+          "El Arca de la Alianza",
+          "El altar dorado",
+          "El velo del templo"
+        ],
+        "correct": 1,
+        "explanation": "El Arca de la Alianza contenía las tablas de la Ley, la vasija de maná y la vara de Aarón."
+      },
+      {
+        "question": "¿Qué río cruzaron los israelitas para entrar a la Tierra Prometida?",
+        "options": [
+          "El Nilo",
+          "el tigre",
+          "El Éufrates",
+          "El Jordán"
+        ],
+        "correct": 3,
+        "explanation": "Los israelitas cruzaron el Jordán sobre tierra seca para entrar a Canaán (Josué 3)."
+      },
+      {
+        "question": "¿Quién era Rut para Noemí?",
+        "options": [
+          "Su hija biológica",
+          "su sirviente",
+          "Su nuera",
+          "su prima"
+        ],
+        "correct": 2,
+        "explanation": "Rut era nuera de Noemí, esposa de su hijo Mahlón (Rut 1:4)."
+      },
+      {
+        "question": "¿Qué enemigo de Israel capturó el Arca de la Alianza?",
+        "options": [
+          "Los babilonios",
+          "Los filisteos",
+          "Los asirios",
+          "Los moabitas"
+        ],
+        "correct": 1,
+        "explanation": "Los filisteos capturaron el Arca de la Alianza en la batalla de Ebenezer (1 Samuel 4:11)."
+      },
+      {
+        "question": "¿Qué animal le habló a Balaam en el Antiguo Testamento?",
+        "options": [
+          "un caballo",
+          "un leon",
+          "un burro",
+          "un águila"
+        ],
+        "correct": 2,
+        "explanation": "La asna de Balaam habló cuando vio al ángel del Señor (Números 22:28-30)."
+      },
+      {
+        "question": "¿Cuál es el libro más corto del Antiguo Testamento?",
+        "options": [
+          "Abdías",
+          "Hageo",
+          "Jonás",
+          "Nahúm"
+        ],
+        "correct": 0,
+        "explanation": "El libro de Abdías es el más corto del Antiguo Testamento con sólo 21 versículos."
+      },
+      {
+        "question": "¿Qué profeta fue llevado al cielo en un torbellino?",
+        "options": [
+          "Elíseo",
+          "Elías",
+          "Isaías",
+          "Ezequiel"
+        ],
+        "correct": 1,
+        "explanation": "Elías fue llevado al cielo en un torbellino con un carro de fuego (2 Reyes 2:11)."
+      },
+      {
+        "question": "¿Qué rey de Babilonia destruyó el templo de Jerusalén?",
+        "options": [
+          "Ciro",
+          "Darío",
+          "Nabucodonosor",
+          "Jerjes"
+        ],
+        "correct": 2,
+        "explanation": "Nabucodonosor II destruyó el templo de Salomón en el año 586 a.C. (2 Reyes 25:9)."
+      },
+      {
+        "question": "¿Qué rey persa permitió que los judíos regresaran a Israel?",
+        "options": [
+          "Darío",
+          "Jerjes",
+          "Ciro",
+          "Artajerjes"
+        ],
+        "correct": 2,
+        "explanation": "El decreto de Ciro (538 a.C.) autorizó a los judíos a regresar a Israel (Esdras 1:1-4)."
+      },
+      {
+        "question": "¿Quién era Ester en la Biblia?",
+        "options": [
+          "Una profetisa de Israel",
+          "Una judía que se convirtió en reina de Persia y salvó a su pueblo.",
+          "La esposa del sumo sacerdote",
+          "Un juez de Israel"
+        ],
+        "correct": 1,
+        "explanation": "Ester era una judía huérfana que se convirtió en reina de Persia y frustró el complot de Amán contra los judíos."
+      },
+      {
+        "question": "¿Qué festividad conmemora el Éxodo de Egipto?",
+        "options": [
+          "Pentecostés",
+          "Pascua (Pesaj)",
+          "Yom Kipur",
+          "La Fiesta de los Tabernáculos"
+        ],
+        "correct": 1,
+        "explanation": "La Pascua (Pesaj) conmemora el éxodo de Egipto y la liberación del pueblo de Israel (Éxodo 12:14)."
+      },
+      {
+        "question": "¿Qué libro describe las leyes de pureza y los sacrificios de Israel?",
+        "options": [
+          "éxodo",
+          "Números",
+          "Levíticio",
+          "Deuteronomio"
+        ],
+        "correct": 2,
+        "explanation": "Levítico contiene las leyes relativas a los sacrificios, la pureza ritual y el culto sacerdotal."
+      },
+      {
+        "question": "¿Qué profeta anunció 'una voz que clama en el desierto'?",
+        "options": [
+          "Jeremías",
+          "Ezequiel",
+          "Isaías",
+          "Miqueas"
+        ],
+        "correct": 2,
+        "explanation": "Isaías 40:3 dice: \"Una voz clama en el desierto: Preparad el camino del Señor\"."
+      },
+      {
+        "question": "¿Cuál es el último libro del Antiguo Testamento en la Biblia cristiana?",
+        "options": [
+          "Zacarías",
+          "Hageo",
+          "Malaquías",
+          "Esdras"
+        ],
+        "correct": 2,
+        "explanation": "Malaquías es el último libro del Antiguo Testamento."
+      },
+      {
+        "question": "¿Qué rey de Israel cometió adulterio con Betsabé?",
+        "options": [
+          "Saúl",
+          "David",
+          "Salomón",
+          "Roboam"
+        ],
+        "correct": 1,
+        "explanation": "El rey David cometió adulterio con Betsabé e hizo matar a su marido Urías el hitita (2 Samuel 11)."
+      },
+      {
+        "question": "¿Qué profeta denunció a David después de su pecado?",
+        "options": [
+          "Elías",
+          "natán",
+          "Elíseo",
+          "Dios"
+        ],
+        "correct": 1,
+        "explanation": "El profeta Natán confrontó a David con la parábola de las ovejas (2 Samuel 12:1-7)."
+      },
+      {
+        "question": "¿Qué profeta anunció al 'Siervo sufriente del Señor'?",
+        "options": [
+          "Jeremías",
+          "Isaías",
+          "Ezequiel",
+          "Miqueas"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 42, 49, 50 y 52-53 contienen los 4 poemas del Siervo Sufriente."
+      },
+      {
+        "question": "¿Cuál es el significado de la palabra 'Torá'?",
+        "options": [
+          "Ley divina/enseñanza",
+          "santa historia",
+          "Profecía",
+          "Alianza"
+        ],
+        "correct": 0,
+        "explanation": "Torá significa \"enseñanza\" o \"ley divina\" en hebreo y designa los cinco primeros libros de la Biblia."
+      },
+      {
+        "question": "¿Cuántos reyes reinaron sobre el Israel unido antes de la división?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correct": 2,
+        "explanation": "Tres reyes gobernaron sobre el Israel unido: Saúl, David y Salomón."
+      },
+      {
+        "question": "¿Qué profeta anunció la promesa de un 'corazón nuevo y un espíritu nuevo'?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel",
+          "joel"
+        ],
+        "correct": 2,
+        "explanation": "Ezequiel 36:26: 'Os daré un corazón nuevo, y pondré espíritu nuevo dentro de vosotros.'"
+      },
+      {
+        "question": "¿Qué profeta anunció que el Mesías nacería en Belén?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Miqueas",
+          "Zacarías"
+        ],
+        "correct": 2,
+        "explanation": "Miqueas 5:2 profetiza que el Mesías nacerá en Belén de Efrata."
+      },
+      {
+        "question": "¿Cuál es el significado del nombre 'Emanuel' en Isaías 7:14?",
+        "options": [
+          "dios salva",
+          "dios esta con nosotros",
+          "Dios es grande",
+          "Dios es luz"
+        ],
+        "correct": 1,
+        "explanation": "'Emmanuel' (עִמָּנוּאֵל) significa 'Dios está con nosotros', una promesa de una presencia divina encarnada."
+      },
+      {
+        "question": "¿Cuál es el texto profético que anuncia 'Admirable, Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz'?",
+        "options": [
+          "Miqueas 5:2",
+          "Isaías 9:5-6",
+          "Zacarías 9:9",
+          "Jeremías 23:5"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 9:5-6 anuncia el nacimiento de un niño con nombres mesiánicos."
+      },
+      {
+        "question": "¿Qué enemigo capturó Jerusalén y deportó a Israel a Babilonia?",
+        "options": [
+          "Ciro de Persia",
+          "Nabucodonosor de Babilonia",
+          "Senaquerib de Asiria",
+          "faraón de egipto"
+        ],
+        "correct": 1,
+        "explanation": "Nabucodonosor II destruyó Jerusalén y deportó al pueblo en el 587 a.C. (2 Reyes 24-25)."
+      },
+      {
+        "question": "¿Qué libro de la Biblia describe la reconstrucción del Templo después del exilio?",
+        "options": [
+          "Nehemías",
+          "Hageo",
+          "Esdras",
+          "Malaquías"
+        ],
+        "correct": 2,
+        "explanation": "El libro de Esdras describe el regreso de los exiliados y la reconstrucción del Templo en Jerusalén."
+      },
+      {
+        "question": "¿Qué rey de Israel construyó una piscina y un acueducto en Jerusalén antes del asalto asirio?",
+        "options": [
+          "David",
+          "Salomón",
+          "Ezequías",
+          "Josías"
+        ],
+        "correct": 2,
+        "explanation": "Ezequías cavó el túnel de Siloé para llevar agua a Jerusalén (2 Reyes 20:20)."
+      },
+      {
+        "question": "¿Qué acontecimiento provocó que el reino de Israel se dividiera en dos?",
+        "options": [
+          "la muerte de david",
+          "La negativa de Roboam a reducir los impuestos del pueblo",
+          "La guerra contra los filisteos",
+          "La muerte de Salomón sola"
+        ],
+        "correct": 1,
+        "explanation": "La negativa de Roboam a aligerar el yugo del pueblo provocó la secesión de las 10 tribus del norte (1 Reyes 12)."
+      },
+      {
+        "question": "¿Quién fue el primer juez de Israel mencionado en el libro de Jueces?",
+        "options": [
+          "Sansón",
+          "Gedeón",
+          "Otniel",
+          "Débora"
+        ],
+        "correct": 2,
+        "explanation": "Otniel, sobrino de Caleb, es el primer juez de Israel mencionado (Jueces 3:9)."
+      },
+      {
+        "question": "¿Cuánto dura un jubileo en Israel?",
+        "options": [
+          "7 años",
+          "25 años",
+          "40 años",
+          "50 años"
+        ],
+        "correct": 3,
+        "explanation": "El jubileo ocurría cada 50 años: las tierras regresaban a sus dueños originales (Levítico 25:10)."
+      },
+      {
+        "question": "¿Qué profeta fue arrojado a una cisterna por sus enemigos?",
+        "options": [
+          "Elías",
+          "Jeremías",
+          "Daniel",
+          "Jonás"
+        ],
+        "correct": 1,
+        "explanation": "Jeremías fue arrojado a una cisterna por sus enemigos (Jeremías 38:6)."
+      },
+      {
+        "question": "¿Qué profecía de Zacarías anuncia la entrada triunfal del Mesías montado en un asno?",
+        "options": [
+          "Zacarías 3:8",
+          "Zacarías 9:9",
+          "Zacarías 12:10",
+          "Zacarías 14:4"
+        ],
+        "correct": 1,
+        "explanation": "Zacarías 9:9: 'He aquí, tu rey viene a ti, justo y victorioso, humilde y montado en un asno'."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "¿Qué libro de la Biblia describe la construcción del Templo de Salomón?",
+        "options": [
+          "1 Samuel",
+          "1 Reyes",
+          "1 crónicas",
+          "Esdras"
+        ],
+        "correct": 1,
+        "explanation": "La construcción del Templo de Salomón se describe en 1 Reyes 6-8."
+      },
+      {
+        "question": "¿Cuántos años vagaron los israelitas por el desierto?",
+        "options": [
+          "20 años",
+          "30 años",
+          "40 años",
+          "50 años"
+        ],
+        "correct": 2,
+        "explanation": "Los israelitas vagaron durante 40 años por el desierto a causa de su incredulidad (Números 14:33)."
+      },
+      {
+        "question": "¿Qué juez de Israel tenía una fuerza sobrehumana ligada a su cabello?",
+        "options": [
+          "Gedeón",
+          "Jefté",
+          "Sansón",
+          "Débora"
+        ],
+        "correct": 2,
+        "explanation": "Sansón obtuvo su fuerza de su cabello sin cortar (Jueces 13-16)."
+      },
+      {
+        "question": "¿Qué profeta se enfrentó a 450 profetas de Baal en el monte Carmelo?",
+        "options": [
+          "Elíseo",
+          "Elías",
+          "Isaías",
+          "Jeremías"
+        ],
+        "correct": 1,
+        "explanation": "Elías se enfrentó a los profetas de Baal en el monte Carmelo (1 Reyes 18)."
+      },
+      {
+        "question": "¿Qué ciudad rodearon los israelitas 7 veces antes de colapsar?",
+        "options": [
+          "Ai",
+          "Jericó",
+          "Gabaón",
+          "Hebrón"
+        ],
+        "correct": 1,
+        "explanation": "Los muros de Jericó se derrumbaron después de que los israelitas los rodearon 7 veces (Josué 6)."
+      },
+      {
+        "question": "¿Qué mujer no israelita le dijo a su suegra: 'A donde tú vayas, yo iré'?",
+        "options": [
+          "Orpa",
+          "Piedad",
+          "tamar",
+          "Rahab"
+        ],
+        "correct": 1,
+        "explanation": "Rut le dijo estas palabras a Noemí (Rut 1:16)."
+      },
+      {
+        "question": "¿Qué libro de la Biblia contiene la profecía de que los 'huesos secos' cobrarán vida?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel",
+          "Daniel"
+        ],
+        "correct": 2,
+        "explanation": "La visión del valle de los huesos secos se encuentra en Ezequiel 37."
+      },
+      {
+        "question": "¿Qué rey de Babilonia recibió la interpretación de la escritura en la pared?",
+        "options": [
+          "Nabucodonosor",
+          "Baltasar",
+          "Ciro",
+          "Darío"
+        ],
+        "correct": 1,
+        "explanation": "Daniel interpretó la misteriosa escritura durante la fiesta de Belsasar (Daniel 5)."
+      },
+      {
+        "question": "¿Qué libro de la Biblia es enteramente un poema de amor?",
+        "options": [
+          "salmos",
+          "Proverbios",
+          "Eclesiastés",
+          "Cantar de los cantares"
+        ],
+        "correct": 3,
+        "explanation": "El Cantar de los Cantares es un poema de amor atribuido a Salomón."
+      },
+      {
+        "question": "¿Qué personaje interpretó los sueños del faraón de Egipto?",
+        "options": [
+          "Moisés",
+          "José",
+          "Daniel",
+          "Abrahán"
+        ],
+        "correct": 1,
+        "explanation": "José interpretó los sueños de Faraón acerca de 7 años de abundancia y hambre (Génesis 41)."
+      },
+      {
+        "question": "¿Cuántos hombres usó Gedeón para derrotar a los madianitas?",
+        "options": [
+          "100",
+          "300",
+          "600",
+          "1000"
+        ],
+        "correct": 1,
+        "explanation": "Dios redujo el ejército de Gedeón a 300 hombres (Jueces 7:7)."
+      },
+      {
+        "question": "¿Qué rey asirio deportó a las 10 tribus del Reino del Norte?",
+        "options": [
+          "Nabucodonosor",
+          "Senaquerib",
+          "Salmanasar V / Sargón II",
+          "Ciro"
+        ],
+        "correct": 2,
+        "explanation": "Salmanasar V y Sargón II deportaron a las tribus del norte en el 722 a.C. (2 Reyes 17)."
+      },
+      {
+        "question": "¿Qué mujer se transformó en estatua de sal?",
+        "options": [
+          "sara",
+          "la esposa de lote",
+          "rebeca",
+          "Pasto"
+        ],
+        "correct": 1,
+        "explanation": "La esposa de Lot se alejó a pesar de la advertencia y fue convertida en estatua de sal (Génesis 19:26)."
+      },
+      {
+        "question": "¿Qué sacrificio estaba dispuesto a ofrecer Abraham por orden de Dios?",
+        "options": [
+          "Un cordero sin defecto",
+          "toda su manada",
+          "su hijo isaac",
+          "su casa"
+        ],
+        "correct": 2,
+        "explanation": "Dios le ordenó a Abraham que sacrificara a su hijo Isaac como prueba de fe (Génesis 22)."
+      },
+      {
+        "question": "¿A qué profeta se le apoda 'el profeta llorón'?",
+        "options": [
+          "Isaías",
+          "Amós",
+          "Jeremías",
+          "Habacuc"
+        ],
+        "correct": 2,
+        "explanation": "A Jeremías se le apoda \"el profeta llorón\" debido a los muchos lamentos en su libro."
+      },
+      {
+        "question": "¿Cuál es el libro profético más largo del Antiguo Testamento?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel",
+          "Daniel"
+        ],
+        "correct": 1,
+        "explanation": "El libro de Jeremías es el libro profético más largo con 52 capítulos."
+      },
+      {
+        "question": "¿Qué rey de Israel construyó altares a los ídolos para complacer a sus esposas extranjeras?",
+        "options": [
+          "Acab",
+          "David",
+          "Salomón",
+          "Botella grande"
+        ],
+        "correct": 2,
+        "explanation": "Salomón construyó altares a dioses extranjeros para complacer a sus esposas (1 Reyes 11:4-8)."
+      },
+      {
+        "question": "¿Cuánto tiempo profetizó Jeremías el exilio en Babilonia?",
+        "options": [
+          "40 años",
+          "50 años",
+          "70 años",
+          "100 años"
+        ],
+        "correct": 2,
+        "explanation": "Jeremías profetizó un exilio de 70 años en Babilonia (Jeremías 25:11-12)."
+      },
+      {
+        "question": "¿Qué profeta tuvo una visión del 'carro celestial' con seres vivientes y ruedas?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel",
+          "Daniel"
+        ],
+        "correct": 2,
+        "explanation": "Ezequiel tuvo una visión del carro celestial (merkabah) con seres vivientes y ruedas (Ezequiel 1)."
+      },
+      {
+        "question": "¿Cuántos libros de sabiduría hay en el Antiguo Testamento?",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "9"
+        ],
+        "correct": 1,
+        "explanation": "Los 5 libros de la sabiduría son: Job, Salmos, Proverbios, Eclesiastés y Cantares de Salomón."
+      },
+      {
+        "question": "¿Cuál es el tema principal del libro de Eclesiastés?",
+        "options": [
+          "La creación del mundo.",
+          "La vanidad de todas las cosas y la sabiduría de temer a Dios",
+          "Oración y adoración",
+          "El pacto de Dios con Israel"
+        ],
+        "correct": 1,
+        "explanation": "Eclesiastés explora el significado de la vida y concluye que todo es vanidad excepto el temor a Dios (Eclesiastés 12:13)."
+      },
+      {
+        "question": "¿En qué libro encontramos la visión de los cuatro imperios representados por una estatua?",
+        "options": [
+          "Isaías",
+          "Ezequiel",
+          "Daniel",
+          "Zacarías"
+        ],
+        "correct": 2,
+        "explanation": "Daniel 2 describe la visión de Nabucodonosor de una estatua de cuatro partes que representa cuatro imperios sucesivos."
+      },
+      {
+        "question": "¿Qué profeta llamó a Israel a regresar: 'Vuelve a mí y yo volveré a ti'?",
+        "options": [
+          "joel",
+          "Hageo",
+          "Zacarías",
+          "Malaquías"
+        ],
+        "correct": 3,
+        "explanation": "Malaquías 3:7: 'Volveos a mí, y yo volveré a vosotros, dice Jehová de los ejércitos'."
+      },
+      {
+        "question": "¿Cuál es el significado del nombre 'Betel' dado por Jacob?",
+        "options": [
+          "casa de paz",
+          "casa de dios",
+          "Casa de Oración",
+          "casa de la gloria"
+        ],
+        "correct": 1,
+        "explanation": "Betel significa 'Casa de Dios', nombre dado por Jacob después de su visión de la escalera (Génesis 28:19)."
+      },
+      {
+        "question": "¿Qué libro del Antiguo Testamento contiene el salmo más grande con 176 versículos?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Salmos (Salmo 119)",
+          "Proverbios"
+        ],
+        "correct": 2,
+        "explanation": "El Salmo 119 es el capítulo más largo de toda la Biblia con 176 versículos."
+      },
+      {
+        "question": "¿Qué libro habla del regreso de los judíos del exilio y de la reconstrucción de las murallas?",
+        "options": [
+          "Esdras",
+          "Nehemías",
+          "Hageo",
+          "Ambos: Esdras y Nehemías"
+        ],
+        "correct": 3,
+        "explanation": "Esdras describe la reconstrucción del Templo y Nehemías la reconstrucción de los muros de Jerusalén después del exilio."
+      },
+      {
+        "question": "¿Cuál fue la profesión de Amós antes de convertirse en profeta?",
+        "options": [
+          "Sacerdote",
+          "Pastor y granjero de sicómoro",
+          "Escriba",
+          "Soldado"
+        ],
+        "correct": 1,
+        "explanation": "Amós era pastor y cultivador de sicomoros en Tecoa (Amós 1:1, 7:14)."
+      },
+      {
+        "question": "¿Cuál es el papel del Sumo Sacerdote en Yom Kipur?",
+        "options": [
+          "Leer la Torá en público",
+          "Entrar al Lugar Santísimo para rociar la sangre expiatoria",
+          "Distribuir comida a los pobres.",
+          "coronar al rey"
+        ],
+        "correct": 1,
+        "explanation": "El Sumo Sacerdote entraba al Lugar Santísimo una vez al año en Yom Kipur (Levítico 16)."
+      },
+      {
+        "question": "¿Qué libro describe las guerras de conquista de Canaán bajo el mando de Josué?",
+        "options": [
+          "Números",
+          "Deuteronomio",
+          "Josué",
+          "jueces"
+        ],
+        "correct": 2,
+        "explanation": "El libro de Josué describe la conquista de la Tierra Prometida por los israelitas."
+      },
+      {
+        "question": "¿Cuál es el libro del Antiguo Testamento más citado en el Nuevo Testamento?",
+        "options": [
+          "Génesis",
+          "los salmos",
+          "Isaías",
+          "Deuteronomio"
+        ],
+        "correct": 1,
+        "explanation": "El libro de los Salmos es el más citado en el Nuevo Testamento, seguido de cerca por Isaías y Deuteronomio."
+      },
+      {
+        "question": "¿Cuál es el significado de 'Shema Israel' en Deuteronomio 6:4?",
+        "options": [
+          "'Bendito sea el Señor'",
+          "'Escucha, oh Israel: Jehová es nuestro Dios, Jehová uno es'",
+          "'Sed santos, porque yo soy santo'",
+          "'Ama a tu prójimo como a ti mismo'"
+        ],
+        "correct": 1,
+        "explanation": "El Shemá (Deuteronomio 6:4) es la profesión de fe fundamental del judaísmo."
+      },
+      {
+        "question": "¿Cuántos profetas menores componen el 'Libro de los Doce'?",
+        "options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "correct": 1,
+        "explanation": "El 'Libro de los Doce' incluye 12 profetas menores desde Oseas hasta Malaquías."
+      },
+      {
+        "question": "¿Cuál es el significado del término 'tohu wa-bohu' en Génesis 1:2?",
+        "options": [
+          "El caos primordial informe y vacío.",
+          "La oscuridad de la noche",
+          "nada absoluta",
+          "El diluvio universal"
+        ],
+        "correct": 0,
+        "explanation": "'Tohu wa-bohu' se refiere al caos vacío y sin forma que precedió a la creación ordenada (Génesis 1:2)."
+      },
+      {
+        "question": "¿Qué término hebreo describe la 'presencia luminosa de Dios' que habitaba en el Templo?",
+        "options": [
+          "Kavod (gloria)",
+          "Shekinah (presencia de habitantes)",
+          "Ruah (espíritu)",
+          "Emite (verdad)"
+        ],
+        "correct": 1,
+        "explanation": "La 'Shekinah' es un término rabínico para la presencia interior de Dios, vinculada a la nube de gloria (Éxodo 40:34-38)."
+      },
+      {
+        "question": "¿Cuál es el significado de 'circuncisión del corazón' en Deuteronomio 30:6?",
+        "options": [
+          "Una operación física simbólica",
+          "Una transformación interior de la obediencia desde lo exterior al corazón.",
+          "Un rito espiritual de la pubertad",
+          "Abandonando el pecado sexual"
+        ],
+        "correct": 1,
+        "explanation": "La 'circuncisión del corazón' representa la obediencia interior y el amor a Dios, en contraposición a la observancia puramente exterior."
+      },
+      {
+        "question": "¿Cuál es el papel del 'chivo expiatorio' (Azazel) en Levítico 16?",
+        "options": [
+          "Un sacrificio por los pecados del pueblo.",
+          "La transferencia simbólica de los pecados del pueblo a una cabra cazada en el desierto",
+          "Un sacrificio solo para los sacerdotes.",
+          "Un rito de purificación del Templo"
+        ],
+        "correct": 1,
+        "explanation": "El Sumo Sacerdote confesó los pecados de Israel sobre el macho cabrío, luego el macho cabrío fue llevado al desierto para 'Azazel' (Levítico 16:21-22)."
+      },
+      {
+        "question": "¿Cuál es el significado del término hebreo \"hesed\", que a menudo se traduce como \"amor fiel\"?",
+        "options": [
+          "amor romantico",
+          "Amor fiel en la alianza, combinando amor, lealtad y misericordia.",
+          "ira divina",
+          "santidad divina"
+        ],
+        "correct": 1,
+        "explanation": "'Hesed' (חֶסֶד) es un término rico para el amor fiel del pacto, una característica fundamental de Dios en Éxodo 34:6-7."
+      },
+      {
+        "question": "¿Qué profeta comparó a Dios con un alfarero y a Israel con barro?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel",
+          "Zacarías"
+        ],
+        "correct": 1,
+        "explanation": "Jeremías recibió la visión del alfarero y el barro para ilustrar la soberanía de Dios (Jeremías 18:1-6)."
+      },
+      {
+        "question": "¿Cuál es el significado de la promesa de Dios a Abraham en Génesis 12:3?",
+        "options": [
+          "Una promesa limitada sólo a Israel",
+          "'Todas las familias de la tierra serán benditas en ti' - alcance universal",
+          "Un pacto condicional basado únicamente en la obediencia",
+          "Una promesa de territorio solamente"
+        ],
+        "correct": 1,
+        "explanation": "Génesis 12:3 contiene la primera promesa de bendición universal: \"todas las familias de la tierra serán benditas en ti\"."
+      },
+      {
+        "question": "¿Cuál es el contenido de la promesa mesiánica hecha a David en 2 Samuel 7?",
+        "options": [
+          "david no morirá",
+          "Un descendiente de David reinará para siempre",
+          "El Templo será construido por el mismo David",
+          "Israel nunca más será invadido"
+        ],
+        "correct": 1,
+        "explanation": "2 Samuel 7:12-16: Dios promete a David un descendiente cuyo 'trono de su reino será establecido para siempre'."
+      },
+      {
+        "question": "¿Cuál es el significado del 'Día del Señor' (Yom Yahveh) en los profetas?",
+        "options": [
+          "Un día anual de celebración",
+          "Un día de intervención divina de juicio y salvación escatológica",
+          "El sábado semanal",
+          "La fiesta de las trompetas"
+        ],
+        "correct": 1,
+        "explanation": "El 'Día del Señor' es un concepto profético de intervención divina decisiva para juzgar a las naciones y liberar a Israel (Amós 5:18-20; Joel 2:31)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "¿Cuál es el significado hebreo del nombre 'Yahvé'?",
+        "options": [
+          "Dios poderoso",
+          "yo soy el que es",
+          "Señor de los ejércitos",
+          "dios eterno"
+        ],
+        "correct": 1,
+        "explanation": "Yahvé proviene del verbo hebreo 'ser' y significa 'Yo soy el que soy' (Éxodo 3:14)."
+      },
+      {
+        "question": "¿Qué rey de Israel se casó con Jezabel, lo que llevó a Israel a la idolatría?",
+        "options": [
+          "Botella grande",
+          "Acab",
+          "Omrí",
+          "Zimri"
+        ],
+        "correct": 1,
+        "explanation": "El rey Acab se casó con Jezabel, hija del rey de Sidón, lo que llevó a Israel a la adoración de Baal (1 Reyes 16:31)."
+      },
+      {
+        "question": "Según Ezequiel, ¿cuántas caras tenían los seres vivientes en su visión?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ],
+        "correct": 2,
+        "explanation": "Los seres vivientes en la visión de Ezequiel tenían 4 caras: hombre, león, buey y águila (Ezequiel 1:10)."
+      },
+      {
+        "question": "¿En qué libro se encuentra la profecía de las '70 semanas'?",
+        "options": [
+          "Isaías",
+          "Jeremías",
+          "Daniel",
+          "Zacarías"
+        ],
+        "correct": 2,
+        "explanation": "La profecía de las 70 semanas se encuentra en Daniel 9:24-27."
+      },
+      {
+        "question": "¿Cuál es el nombre hebreo del libro del Éxodo?",
+        "options": [
+          "Bereshit",
+          "Shemot",
+          "Vaikrá",
+          "Bamidbar"
+        ],
+        "correct": 1,
+        "explanation": "El libro del Éxodo se llama 'Shemot' (nombres) en hebreo, por sus palabras iniciales."
+      },
+      {
+        "question": "¿Qué tribu de Israel no recibió territorio cuando se dividió Canaán?",
+        "options": [
+          "Rubén",
+          "Simeón",
+          "leví",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "A la tribu de Leví no se le dio territorio porque estaba dedicada a servir al Templo (Números 18:20)."
+      },
+      {
+        "question": "¿A qué profeta Dios le ordenó casarse con una prostituta como señal profética?",
+        "options": [
+          "Amós",
+          "Oseas",
+          "joel",
+          "Miqueas"
+        ],
+        "correct": 1,
+        "explanation": "Oseas se casó con Gomer por orden divina como símbolo de la infidelidad de Israel a Dios (Oseas 1:2)."
+      },
+      {
+        "question": "¿Cuántos años le tomó a Salomón construir el Templo en Jerusalén?",
+        "options": [
+          "5 años",
+          "7 años",
+          "10 años",
+          "14 años"
+        ],
+        "correct": 1,
+        "explanation": "Salomón tardó 7 años en construir el Templo (1 Reyes 6:38)."
+      },
+      {
+        "question": "¿Qué profeta predijo el nacimiento de un niño llamado 'Emmanuel'?",
+        "options": [
+          "Miqueas",
+          "Isaías",
+          "Jeremías",
+          "Zacarías"
+        ],
+        "correct": 1,
+        "explanation": "Isaías predijo el nacimiento de Emanuel en Isaías 7:14."
+      },
+      {
+        "question": "En el libro de Job, ¿cuántos hijos e hijas tuvo Job al principio?",
+        "options": [
+          "7 hijos y 3 hijas",
+          "3 hijos y 7 hijas",
+          "7 hijos y 7 hijas",
+          "10 hijos y 3 hijas"
+        ],
+        "correct": 0,
+        "explanation": "Job tenía 7 hijos y 3 hijas al comienzo del libro (Job 1:2)."
+      },
+      {
+        "question": "¿Cuál es el significado del nombre 'Israel' que se le dio a Jacob después de su lucha?",
+        "options": [
+          "siervo de dios",
+          "El que luchó con Dios",
+          "Elegido por Dios",
+          "Príncipe de la paz"
+        ],
+        "correct": 1,
+        "explanation": "Israel significa \"el que luchó con Dios\", nombre dado después de la lucha de Jacob (Génesis 32:28)."
+      },
+      {
+        "question": "¿Qué rey llevó los becerros de oro a Betel y Dan?",
+        "options": [
+          "Salomón",
+          "Roboam",
+          "Jeroboam I",
+          "Acab"
+        ],
+        "correct": 2,
+        "explanation": "Jeroboam instaló dos becerros de oro en Betel y Dan (1 Reyes 12:28-29)."
+      },
+      {
+        "question": "¿Qué libro contiene la promesa del 'nuevo pacto'?",
+        "options": [
+          "Isaías 54",
+          "Jeremías 31",
+          "Ezequiel 36",
+          "Zacarías 9"
+        ],
+        "correct": 1,
+        "explanation": "La promesa de un nuevo pacto se encuentra en Jeremías 31:31-34."
+      },
+      {
+        "question": "¿Qué término hebreo para \"santo\" se repite tres veces en la visión de Isaías 6?",
+        "options": [
+          "Shalom",
+          "Kadosh",
+          "Jésed",
+          "emeth"
+        ],
+        "correct": 1,
+        "explanation": "'Kadosh' se repite tres veces ('Santo, Santo, Santo') en la visión de Isaías 6:3, el 'Trisagion'."
+      },
+      {
+        "question": "¿Qué documento legal de Medio Oriente es estructuralmente cercano a la alianza Sinaítica?",
+        "options": [
+          "El Código de Hammurabi",
+          "Tratados de señores hititas",
+          "Los anales asirios",
+          "Textos ugaríticos"
+        ],
+        "correct": 1,
+        "explanation": "Los tratados de soberanía hititas (siglos XIV-XIII a. C.) comparten una estructura similar a la alianza del Sinaí."
+      },
+      {
+        "question": "¿Cuál es el contenido teológico central del libro de Job?",
+        "options": [
+          "La recompensa de los justos",
+          "La cuestión del sufrimiento de los justos y la soberanía de Dios frente a las teodiceas simplistas",
+          "La existencia de satanás",
+          "Oración intercesora"
+        ],
+        "correct": 1,
+        "explanation": "Job desafía la teología de la retribución y plantea la cuestión del sufrimiento inocente frente a la soberanía absoluta de Dios."
+      },
+      {
+        "question": "¿Qué texto del Éxodo describe la autorrevelación divina como \"Dios misericordioso y compasivo\"?",
+        "options": [
+          "Éxodo 3:14",
+          "Éxodo 20:1-17",
+          "Éxodo 34:6-7",
+          "Éxodo 19:5-6"
+        ],
+        "correct": 2,
+        "explanation": "Éxodo 34:6-7: 'Jehová Dios, misericordioso y clemente, lento para la ira, grande en amor y fidelidad...' - los '13 atributos divinos'."
+      },
+      {
+        "question": "¿Qué figura del Antiguo Testamento combina realeza Y sacerdocio, prefigurando a Cristo?",
+        "options": [
+          "Abrahán",
+          "Moisés",
+          "Melquisedec",
+          "David"
+        ],
+        "correct": 2,
+        "explanation": "Melquisedec, rey de Salem Y sacerdote del Dios Altísimo (Génesis 14:18), es la única figura que combina realeza y sacerdocio."
+      },
+      {
+        "question": "¿Cuál es el concepto de \"permanecer fiel\" (she'ar) en la teología profética?",
+        "options": [
+          "Todo Israel salvo por gracia",
+          "Un pequeño grupo fiel que permaneció después del juicio, llevando las promesas.",
+          "Las 10 tribus perdidas",
+          "Los judíos regresaron de Babilonia"
+        ],
+        "correct": 1,
+        "explanation": "El 'remanente' (she'ar) designa al grupo fiel que sobrevive al juicio divino y sigue siendo portador de las promesas de salvación, algo central en Isaías (10:20-22)."
+      },
+      {
+        "question": "¿Cuál es el fenómeno textual que distingue los dos relatos de la creación en Génesis 1 y Génesis 2?",
+        "options": [
+          "Dos idiomas diferentes",
+          "El uso de diferentes nombres divinos: Elohim (cap.1) y YHWH-Elohim (cap.2)",
+          "Diferentes autores claramente identificados",
+          "La escritura data con 500 años de diferencia"
+        ],
+        "correct": 1,
+        "explanation": "Génesis 1 usa 'Elohim' exclusivamente, mientras que Génesis 2 usa 'YHWH-Elohim'. Esta distinción está en el corazón de la teoría documental (J, E, D, P)."
+      },
+      {
+        "question": "¿Cuál es la estructura del Génesis organizada en torno al término 'toledot' (generaciones)?",
+        "options": [
+          "10 secciones introducidas por 'aquí están las generaciones de...'",
+          "7 días de creación + 7 patriarcas",
+          "5 libros como el Pentateuco",
+          "12 secciones correspondientes a las 12 tribus"
+        ],
+        "correct": 0,
+        "explanation": "El Génesis se estructura en torno a 10 apariciones de 'estas son las generaciones de...' (toledot), formando 10 secciones narrativas."
+      },
+      {
+        "question": "¿Qué profecía de Daniel habla de un 'Hijo del Hombre' que recibirá un reino eterno?",
+        "options": [
+          "La visión de las 4 bestias y el Hijo del Hombre viniendo sobre las nubes.",
+          "La visión de las 4 estatuas de metal.",
+          "La visión del carnero y el macho cabrío.",
+          "La visión de las 70 semanas"
+        ],
+        "correct": 0,
+        "explanation": "Daniel 7:13-14 describe al 'Hijo del Hombre' viniendo sobre las nubes y recibiendo dominio, gloria y reino del Anciano de Días."
+      },
+      {
+        "question": "En la tradición deuteronomista, ¿cuál es el criterio teológico para juzgar a los reyes de Israel?",
+        "options": [
+          "Sus victorias militares",
+          "Su lealtad al pacto y al culto centralizado en Jerusalén",
+          "La prosperidad económica del reino.",
+          "Su obediencia a los profetas"
+        ],
+        "correct": 1,
+        "explanation": "La historia deuteronomista evalúa a los reyes según su fidelidad al pacto, especialmente la centralización del culto en Jerusalén y el rechazo de los ídolos."
+      },
+      {
+        "question": "¿Qué concepto del Antiguo Testamento afirma que Dios es radicalmente diferente y distinto de la creación?",
+        "options": [
+          "Inmanencia divina",
+          "Trascendencia divina (Kadosh: separación radical)",
+          "panteísmo hebreo",
+          "La emanación divina"
+        ],
+        "correct": 1,
+        "explanation": "La 'qedushâh' (santidad) de Dios significa su trascendencia absoluta: él es radicalmente 'otro' que la creación (Isaías 6:3; Oseas 11:9)."
+      },
+      {
+        "question": "¿Cuál es el significado de la imago Dei (imagen de Dios) en Génesis 1:26-27?",
+        "options": [
+          "Semejanza física con Dios",
+          "El hombre portador de la semejanza divina: relación, razón, creatividad y vocación real en la creación.",
+          "Sólo la inmortalidad del alma.",
+          "Una metáfora poética sin significado ontológico"
+        ],
+        "correct": 1,
+        "explanation": "La imago Dei designa: (1) virreinato: el hombre como representante de Dios sobre la creación; (2) la capacidad de relación con Dios; (3) la diferencia sexual como reflejo de la comunión intradivina."
+      },
+      {
+        "question": "¿Cuál es el término teológico para la \"creación de la nada\" en la teología judeocristiana?",
+        "options": [
+          "Creatio ex materia",
+          "Creatio ex nihilo",
+          "Emanatio divina",
+          "Demiurgia"
+        ],
+        "correct": 1,
+        "explanation": "'Creatio ex nihilo' es la doctrina de que Dios creó el universo sin materia preexistente, desarrollada en la teología patrística a partir de 2 Macabeos 7:28."
+      },
+      {
+        "question": "¿Cuál es el estatus canónico de los libros deuterocanónicos según las diferentes tradiciones cristianas?",
+        "options": [
+          "Canónico en todas las tradiciones.",
+          "Canónico para católicos/ortodoxos, apócrifo para protestantes",
+          "Rechazado por todas las tradiciones.",
+          "Aceptado solo como comentarios"
+        ],
+        "correct": 1,
+        "explanation": "Los deuterocanónicos han sido incluidos en las Biblias católicas y ortodoxas desde el Concilio de Trento (1546), pero excluidos del canon protestante que sigue la lista judía hebrea."
+      },
+      {
+        "question": "¿Cuál es el significado teológico del término hebreo 'hesed' en Éxodo 34:6-7?",
+        "options": [
+          "amor romantico",
+          "Amor fiel de alianza, que combina lealtad, bondad y misericordia.",
+          "ira divina",
+          "santidad divina"
+        ],
+        "correct": 1,
+        "explanation": "'Chesed' es justicia relacional: cuando Dios 'hace justicia', es fiel a los compromisos de su pacto; justicia y salvación son casi sinónimos en Isaías 40-55."
+      },
+      {
+        "question": "¿Cuál es el significado del 'Lugar Santísimo' en el Tabernáculo y el Templo?",
+        "options": [
+          "El salón principal del Templo",
+          "El lugar santísimo donde reposaba el Arca y donde sólo el Sumo Sacerdote podía entrar una vez al año",
+          "La explanada al aire libre",
+          "La sala de los tesoreros"
+        ],
+        "correct": 1,
+        "explanation": "El 'Lugar Santísimo' estaba separado por un velo, donde reposaba el Arca. Sólo el Sumo Sacerdote podía entrar, una vez al año, en Yom Kipur (Levítico 16)."
+      },
+      {
+        "question": "¿Cuál es el significado hermenéutico de la lectura tipológica del Antiguo Testamento?",
+        "options": [
+          "Puro alegorismo reemplazando el significado literal.",
+          "Lectura de eventos, personas e instituciones del Antiguo Testamento como 'tipos' que prefiguran su cumplimiento en el Nuevo Testamento.",
+          "La simple cita profética",
+          "El rechazo del significado histórico del AT"
+        ],
+        "correct": 1,
+        "explanation": "La tipología ve en el pueblo (Adán, Moisés), los acontecimientos (Éxodo, maná) y las instituciones (Templo, sacrificios) del AT prefiguraciones reales de su cumplimiento en Cristo."
+      },
+      {
+        "question": "¿Cuál es la principal estructura poética de los Salmos y su rasgo distintivo?",
+        "options": [
+          "El sonido rima como en francés.",
+          "Paralelismo (sinónimo, antitético, sintético): el significado responde de un verso a otro",
+          "La metáfora sola",
+          "La narración cronológica"
+        ],
+        "correct": 1,
+        "explanation": "La poesía hebrea usa paralelismo: (1) sinónimo (el segundo verso repite el primero); (2) antitético (contraste); (3) sintético (completa y expande): una característica que sobrevive a la traducción."
+      },
+      {
+        "question": "¿Cuál es el significado escatológico del sábado según Hebreos 4:9-11?",
+        "options": [
+          "Un sencillo descanso físico semanal",
+          "El sábado es un anticipo escatológico del descanso eterno en Cristo: \"queda un descanso sabático para el pueblo de Dios\"",
+          "Una regla puramente higiénica",
+          "Un mandato legal sin significado simbólico"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos 4:9-11: El sábado señala el 'reposo' escatológico final en Cristo: el cese de las propias obras para entrar en el reposo de Dios."
+      },
+      {
+        "question": "¿Cuál es el significado del rito del 'chivo expiatorio' (Azazel) en Levítico 16?",
+        "options": [
+          "Un sacrificio por los pecados del pueblo.",
+          "La transferencia simbólica de los pecados del pueblo a una cabra cazada en el desierto",
+          "Un sacrificio solo para los sacerdotes.",
+          "Un rito de purificación del Templo"
+        ],
+        "correct": 1,
+        "explanation": "El Sumo Sacerdote confesaba los pecados de Israel sobre el macho cabrío, luego el macho cabrío era llevado al desierto simbolizando la transferencia de los pecados (Levítico 16:21-22)."
+      },
+      {
+        "question": "¿Cuál es el significado del término hebreo 'dabar' usado para 'Palabra de Dios' en los textos proféticos?",
+        "options": [
+          "comunicación verbal sencilla",
+          "Palabra/evento de poder creativo y efectivo, logrando lo que dice",
+          "Mando sin fuerza propia",
+          "Metáfora poética de lo divino"
+        ],
+        "correct": 1,
+        "explanation": "'Dabar' (דָּבָר) significa tanto la palabra como el evento/hecho: la Palabra de Dios produce lo que dice (Isaías 55:11: 'no volverá a mí vacía')."
+      },
+      {
+        "question": "¿Cuál es el significado de la 'bendición de Aarón' en Números 6:24-26?",
+        "options": [
+          "'Que el Señor os bendiga y os guarde'",
+          "'Sé fuerte y valiente'",
+          "'El Señor es tu pastor'",
+          "'Yo soy el Señor tu Dios'"
+        ],
+        "correct": 0,
+        "explanation": "La bendición aarónica comienza con 'El Señor te bendiga y te guarde' (Números 6:24), una fórmula sacerdotal trina que combina bendición, gracia y paz."
+      }
+    ]
+  }
+}

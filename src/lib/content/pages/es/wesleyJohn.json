@@ -1,0 +1,97 @@
+{
+  "johnWesley": {
+    "title": "Juan Wesley",
+    "subtitle": "28 de junio de 1703 — 2 de marzo de 1791 · Epworth → Londres",
+    "bio": "Sacerdote anglicano, teólogo, reformador social y cofundador del metodismo. Considerado una de las figuras más influyentes del cristianismo del siglo XVIII, su resurgimiento evangélico transformó Inglaterra y preparó el escenario para grandes misiones globales.",
+    "sections": [
+      {
+        "id": "youth",
+        "label": "Juventud y Formación",
+        "icon": "🎓",
+        "content": [
+          {
+            "title": "Nacimiento e infancia (1703-1714)",
+            "text": "John Wesley nació el 28 de junio de 1703 en Epworth, Lincolnshire, el decimoquinto de 19 hijos de Samuel y Susanna Wesley. A los 5 años se salvó milagrosamente del incendio del presbiterio (1709). Su madre lo ve como \"un tizón arrebatado del fuego\", una imagen que marcará toda su vida. Será educado principalmente por su madre hasta los 11 años.",
+            "verse": "“Un tizón arrebatado del fuego” – Zacarías 3:2, lema personal de John Wesley"
+          },
+          {
+            "title": "Oxford: el club sagrado (1720-1735)",
+            "text": "John ingresó en Christ Church College, Oxford, en 1720. En 1729, con su hermano Charles y George Whitefield, fundó el 'Holy Club', apodado burlonamente 'Metodistas' debido a su riguroso método de piedad: oración diaria a horas fijas, ayuno los miércoles y viernes, visitas a las cárceles, estudio bíblico sistemático. El término \"metodista\" permanecerá.",
+            "verse": "Agenda del Holy Club: levantarse a las 4 a. m., oración de 5 a 6 a. m., estudiar hasta las 9 p. m., examen de conciencia antes de acostarse"
+          },
+          {
+            "title": "Misión a Georgia (1735-1738)",
+            "text": "Ordenado sacerdote anglicano en 1728, Juan partió como misionero a Georgia (Estados Unidos) de 1735 a 1738. Este viaje fue un fracaso pastoral pero una revelación espiritual: en el barco, los moravos cantaban y rezaban sin miedo en la tormenta. Juan queda abrumado por su fe serena ante la muerte. Regresó a Inglaterra deprimido pero transformado.",
+            "verse": "John Wesley en su diario: 'Fui a América para convertir a los indios, pero ¿quién me convertirá a mí?'"
+          }
+        ]
+      },
+      {
+        "id": "conversion",
+        "label": "Conversión y despertar",
+        "icon": "🔥",
+        "content": [
+          {
+            "title": "Aldersgate - 24 de mayo de 1738",
+            "text": "El 24 de mayo de 1738 es la fecha de fundación del metodismo. John asiste a una reunión de Moravia en Aldersgate Street, Londres. Mientras leía el comentario de Lutero a Romanos, escribió: 'Sentí que mi corazón se calentaba extrañamente. Sentí que confiaba únicamente en Cristo para la salvación, y tuve la seguridad de que Cristo había quitado mis pecados, incluso los míos propios, y me había salvado de la ley del pecado y de la muerte.'",
+            "verse": "Esta experiencia –la seguridad de la salvación– llegaría a ser central para la teología wesleyana."
+          },
+          {
+            "title": "Predicando al aire libre (1739)",
+            "text": "En febrero de 1739, George Whitefield invitó a John a predicar al aire libre en Bristol. John, un anglicano convencido, duda: cree que predicar fuera de una iglesia es irregular. Luego cede y reúne a miles de trabajadores de las minas de Kingswood. Escribió: 'Renuncio a toda dignidad de ser únicamente interior. El mundo es mi parroquia.' Comienza el despertar.",
+            "verse": "“El mundo es mi parroquia”: lema que guiará 50 años de ministerio al aire libre"
+          },
+          {
+            "title": "Organización de sociedades (1739-1744)",
+            "text": "Wesley organiza a los creyentes en \"sociedades\" subdivididas en \"clases\" de 12 miembros con un líder. Este sistema de seguimiento pastoral intensivo es revolucionario: cada semana, cada miembro informa sobre su estado espiritual. Wesley también publicó sus primeros sermones estándar y las \"Reglas generales\" que se convertirían en la base del metodismo.",
+            "verse": "Las 3 Reglas Generales: (1) No hacer daño, (2) Hacer todo el bien posible, (3) Usar todos los medios de gracia"
+          }
+        ]
+      },
+      {
+        "id": "theology",
+        "label": "Teología",
+        "icon": "📖",
+        "content": [
+          {
+            "title": "Gracia Preventiva",
+            "text": "Wesley enseña que Dios concede a todos los seres humanos la 'gracia preveniente', una gracia que precede a la fe y restaura parcialmente el libre albedrío perdido en la Caída. Esta gracia explica por qué la invitación universal del Evangelio es sincera: Dios hace posible la respuesta de fe para todos, sin excepción. Esta es su respuesta al calvinismo.",
+            "verse": "Tito 2:11: 'La gracia de Dios, fuente de salvación para todos los hombres, ha sido manifestada'."
+          },
+          {
+            "title": "Santificación y perfección cristiana",
+            "text": "El concepto distintivo de Wesley: \"perfección cristiana\" o \"completa santidad\". No se trata de una impecabilidad absoluta, sino de un estado en el que el amor a Dios y al prójimo es la motivación dominante: una profunda purificación interior. Wesley lo distingue de la justificación (perdón): es la obra del Espíritu Santo que transforma el corazón. Publicó 'Un relato sencillo de la perfección cristiana' (1766).",
+            "verse": "1 Tesalonicenses 5:23: 'El mismo Dios de paz os santifique por completo'."
+          },
+          {
+            "title": "Cuadrilátero wesleyano",
+            "text": "El método teológico de Wesley se basa en 4 fuentes: (1) Escritura — autoridad primera y suprema; (2) Tradición: la herencia de la Iglesia antigua; (3) Razón: el don de Dios para comprender la Revelación; (4) Experiencia: la confirmación interna de las verdades bíblicas. Este cuadrilátero sigue siendo el método teológico oficial de la Iglesia Metodista Unida.",
+            "verse": "Wesley: 'Sólo las Escrituras contienen toda la verdad necesaria para la salvación'."
+          }
+        ]
+      },
+      {
+        "id": "social",
+        "label": "Acción Social",
+        "icon": "🤝",
+        "content": [
+          {
+            "title": "Los pobres y los oprimidos",
+            "text": "Wesley estaba profundamente comprometido con los pobres. Fundó dispensarios médicos gratuitos para los pobres, préstamos sin intereses para los artesanos en dificultades y escuelas para los hijos de los mineros. Publicó 'Primitive Physick' (1747), una guía médica económica para los pobres. Para Wesley, la santidad social es inseparable de la santidad personal.",
+            "verse": "“La religión que no comienza con el corazón no es real, pero la que termina allí no es lo suficientemente grande. » —Wesley"
+          },
+          {
+            "title": "Oposición a la esclavitud",
+            "text": "Una de las luchas más valientes de Wesley fue su oposición a la esclavitud. En 1774 publicó 'Pensamientos sobre la esclavitud', uno de los panfletos contra la esclavitud más poderosos de su época. Denuncia la esclavitud como \"la suma de todas las villanías\". Su última carta (24 de febrero de 1791), escrita a William Wilberforce, lo insta a continuar su lucha abolicionista. Wesley murió 6 días después.",
+            "verse": "Última carta a Wilberforce (1791): 'Continúa en el nombre de Dios y de su poder... Dios te hará triunfar'."
+          },
+          {
+            "title": "Educación y publicaciones",
+            "text": "Wesley fundó la escuela Kingswood (1748) para hijos de mineros y el orfanato Orphan House en Newcastle. Publicó una biblioteca de 50 volúmenes 'Una biblioteca cristiana' a un precio reducido para las clases trabajadoras. Publicó un diccionario, un manual médico y tratados de historia natural. En total: 400 publicaciones originales. Quería cristianos educados, no sólo piadosos.",
+            "verse": "Wesley: 'Difunde los libros, difunde el conocimiento de todo tipo, difunde lo más ampliamente posible'."
+          }
+        ]
+      }
+    ]
+  }
+}

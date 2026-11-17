@@ -1,0 +1,72 @@
+{
+  "wesleySermons": {
+    "title": "Mahubiri ya John Wesley",
+    "subtitle": "Mahubiri 44 ya Kawaida - msingi rasmi wa kitheolojia wa Methodisti ya Ulimwengu. Wesley alizichapisha kama msingi wa mafundisho ya kuwafundisha wahubiri wake.",
+    "searchPlaceholder": "Natafuta mahubiri...",
+    "sermons": [
+      {
+        "number": 1,
+        "title": "Wokovu kwa Imani",
+        "fr": "Wokovu kwa Imani",
+        "date": "1738",
+        "text": "Waefeso 2:8",
+        "summary": "Mahubiri ya kwanza ya viwango 44. Wesley anathibitisha kwamba wokovu ni kwa neema pekee, inayopokelewa kwa njia ya imani—si kwa wema, kazi, au wema wa asili wa mwanadamu. Anatofautisha imani mfu (kielimu) na imani hai (imani ya moyo). Mahubiri haya yalihubiriwa huko Oxford muda mfupi baada ya majaribio ya Aldersgate.",
+        "key_quote": "\"Imani inayohalalisha si imani rahisi ya kiakili bali ni tumaini kamili na lililo hai katika Kristo, katika damu yake, katika sifa zake.\""
+      },
+      {
+        "number": 2,
+        "title": "Karibu Mkristo",
+        "fr": "Karibu Mkristo",
+        "date": "1741",
+        "text": "Matendo 26:28",
+        "summary": "Moja ya mahubiri ya Wesley yenye kupenya zaidi. Anafafanua aina mbili: 'karibu Mkristo' (mtendaji wa nje, mwaminifu, wa kidini, lakini bila mabadiliko ya ndani) na 'Mkristo kabisa' (upendo wa Mungu na jirani unaotawala moyo). Wesley alihubiri mahubiri haya huko Oxford mnamo 1741, akiwapa changamoto wasomi wenzake.",
+        "key_quote": "\"Ninaogopa kwamba wengi wa wale wanaojiita Wakristo ni karibu tu Wakristo - na kwamba wao wenyewe hawajui.\""
+      },
+      {
+        "number": 5,
+        "title": "Kuhesabiwa Haki kwa Imani",
+        "fr": "Kuhesabiwa Haki kwa Imani",
+        "date": "1746",
+        "text": "Warumi 4:5",
+        "summary": "Wesley anafafanua fundisho la kuhesabiwa haki dhidi ya makosa mawili: wale wanaokataa (kuchanganya kuhesabiwa haki na utakaso) na wale wanaofanya yote juu yake (kupuuza kukua katika utakatifu). Kuhesabiwa haki ni msamaha wa dhambi za wakati uliopita na kurudishwa kwa kibali cha Mungu—tofauti lakini kisichoweza kutenganishwa na kuzaliwa upya.",
+        "key_quote": "“Kuhesabiwa haki ni kusamehewa—kwamba Mungu anatukubali kana kwamba hatujawahi kufanya dhambi.”"
+      },
+      {
+        "number": 9,
+        "title": "Roho ya Utumwa na Kupitishwa",
+        "fr": "Roho ya Utumwa na Kupitishwa",
+        "date": "1746",
+        "text": "Warumi 8:15",
+        "summary": "Wesley anaeleza hali tatu za kiroho: mtu wa asili (bila kufahamu dhambi yake), mtu chini ya sheria (aliyehukumiwa na dhambi lakini bila nguvu ya kuinuka), na mtu chini ya neema (aliyewekwa huru na kuchukuliwa kama mtoto wa Mungu). Mahubiri haya ni muhimu ili kuelewa maendeleo ya kiroho katika theolojia ya Wesley.",
+        "key_quote": "“Roho wa kufanywa wana analia ndani yetu, Aba, Baba!"
+      },
+      {
+        "number": 13,
+        "title": "Juu ya Dhambi kwa Waumini",
+        "fr": "Dhambi miongoni mwa Waumini",
+        "date": "1763",
+        "text": "2 Wakorintho 5:17",
+        "summary": "Wesley anakubali kwa uaminifu kwamba dhambi inabaki katika waumini waliozaliwa upya—lakini kama mabaki walioshindwa, si kama mamlaka inayotawala. Mahubiri haya yanastahilisha fundisho lake la ukamilifu wa Kikristo: kuzaliwa mara ya pili haimaanishi kutotenda dhambi tena, lakini kutotawaliwa tena na dhambi.",
+        "key_quote": "\"Bado kuna mabaki ya dhambi katika walio bora wa waumini - lakini mabaki haya hayana mamlaka tena juu yao.\""
+      },
+      {
+        "number": 43,
+        "title": "Njia Bora Zaidi",
+        "fr": "Njia ya Juu",
+        "date": "1787",
+        "text": "1 Wakorintho 12:31",
+        "summary": "Moja ya mahubiri makuu ya mwisho ya Wesley (alikuwa na umri wa miaka 84). Analinganisha njia mbili za kuishi: njia ya kawaida ya Mkristo wa kawaida (kuepuka dhambi nzito, kutekeleza wajibu wa msingi) na njia ya juu zaidi ya upendo mkamilifu. Anamsihi kila muumini kulenga kilele-sio upatanishi wa kiroho.",
+        "key_quote": "\"Usikubaliane na njia ya kawaida. Njia ya upendo kamili iko wazi kwa wote - kwa nini usimame katikati?\""
+      },
+      {
+        "number": 44,
+        "title": "Matumizi ya Pesa",
+        "fr": "Matumizi ya Pesa",
+        "date": "1760",
+        "text": "Luka 16:9",
+        "summary": "Mahubiri ya kijamii maarufu zaidi ya Wesley, yaliyofupishwa katika sheria 3: (1) Pata chochote unachoweza (kwa kufanya kazi kwa uaminifu); (2) Okoa kila kitu unachoweza (hakuna gharama zisizo za lazima); (3) Toa chochote unachoweza (wagawie wahitaji). Wesley mwenyewe aliishi kwa kanuni hii - alitoa 90% ya mapato yake.",
+        "key_quote": "\"Pata chochote unachoweza. Okoa chochote unachoweza. Toa chochote unachoweza.\""
+      }
+    ]
+  }
+}

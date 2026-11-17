@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { ArrowLeft, Trash2, LogOut, Moon, Sun, Info } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import {
   AlertDialog,
   AlertDialogAction,
@@ -14,10 +13,13 @@ import {
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
 import { useAuth } from "@/lib/AuthContext";
+import { useTranslation } from "@/lib/i18n";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 
 export default function Settings() {
   const navigate = useNavigate();
   const { logout } = useAuth();
+  const { t } = useTranslation();
   const [darkMode, setDarkMode] = useState(document.documentElement.classList.contains("dark"));
 
   const toggleDark = () => {
@@ -42,19 +44,26 @@ export default function Settings() {
         className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors mb-6 h-11"
       >
         <ArrowLeft className="w-4 h-4" />
-        Retour
+        {t("common.back")}
       </button>
 
-      <h1 className="font-heading text-2xl font-bold mb-8">Réglages</h1>
+      <h1 className="font-heading text-2xl font-bold mb-8">{t("settings.title")}</h1>
 
       <div className="space-y-4">
+        {/* Language */}
+        <div className="p-4 bg-card border border-border/50 rounded-xl">
+          <p className="font-medium text-sm mb-1">{t("settings.languageSection")}</p>
+          <p className="text-xs text-muted-foreground mb-3">{t("settings.languageDesc")}</p>
+          <LanguageSwitcher variant="full" />
+        </div>
+
         {/* Dark mode toggle */}
         <div className="flex items-center justify-between p-4 bg-card border border-border/50 rounded-xl">
           <div className="flex items-center gap-3">
             {darkMode ? <Moon className="w-5 h-5 text-primary" /> : <Sun className="w-5 h-5 text-primary" />}
             <div>
-              <p className="font-medium text-sm">Mode sombre</p>
-              <p className="text-xs text-muted-foreground">{darkMode ? "Activé" : "Désactivé"}</p>
+              <p className="font-medium text-sm">{t("settings.darkMode")}</p>
+              <p className="text-xs text-muted-foreground">{darkMode ? t("settings.enabled") : t("settings.disabled")}</p>
             </div>
           </div>
           <button
@@ -71,7 +80,7 @@ export default function Settings() {
           className="flex items-center gap-3 w-full p-4 bg-card border border-border/50 rounded-xl hover:bg-muted transition-colors"
         >
           <Info className="w-5 h-5 text-primary" />
-          <p className="font-medium text-sm">À propos de l'application</p>
+          <p className="font-medium text-sm">{t("settings.aboutApp")}</p>
         </button>
 
         {/* Logout */}
@@ -80,7 +89,7 @@ export default function Settings() {
           className="flex items-center gap-3 w-full p-4 bg-card border border-border/50 rounded-xl hover:bg-muted transition-colors"
         >
           <LogOut className="w-5 h-5 text-muted-foreground" />
-          <p className="font-medium text-sm">Se déconnecter</p>
+          <p className="font-medium text-sm">{t("settings.logout")}</p>
         </button>
 
         {/* Delete account */}
@@ -88,23 +97,23 @@ export default function Settings() {
           <AlertDialogTrigger asChild>
             <button className="flex items-center gap-3 w-full p-4 bg-card border border-destructive/30 rounded-xl hover:bg-destructive/5 transition-colors">
               <Trash2 className="w-5 h-5 text-destructive" />
-              <p className="font-medium text-sm text-destructive">Supprimer mon compte</p>
+              <p className="font-medium text-sm text-destructive">{t("settings.deleteAccount")}</p>
             </button>
           </AlertDialogTrigger>
           <AlertDialogContent>
             <AlertDialogHeader>
-              <AlertDialogTitle>Supprimer le compte ?</AlertDialogTitle>
+              <AlertDialogTitle>{t("settings.deleteDialogTitle")}</AlertDialogTitle>
               <AlertDialogDescription>
-                Cette action est irréversible. Toutes vos données et scores seront définitivement supprimés.
+                {t("settings.deleteDialogDesc")}
               </AlertDialogDescription>
             </AlertDialogHeader>
             <AlertDialogFooter>
-              <AlertDialogCancel>Annuler</AlertDialogCancel>
+              <AlertDialogCancel>{t("common.cancel")}</AlertDialogCancel>
               <AlertDialogAction
                 onClick={handleDeleteAccount}
                 className="bg-destructive hover:bg-destructive/90"
               >
-                Supprimer
+                {t("common.delete")}
               </AlertDialogAction>
             </AlertDialogFooter>
           </AlertDialogContent>

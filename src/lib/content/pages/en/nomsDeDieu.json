@@ -1,0 +1,221 @@
+{
+  "divineNameCategories": [
+    {
+      "id": "elohim",
+      "label": "Main Divine Names",
+      "emoji": "✡️",
+      "color": "from-indigo-600 to-blue-700",
+      "names": [
+        {
+          "hebrew": "אֵל",
+          "transliteration": "El",
+          "meaning": "God, the Mighty",
+          "usage": "The oldest and universal form of the divine name. Used alone or as a prefix/suffix in other names (El-Shaddai, Elohim). Transcends Semitic cultures.",
+          "references": "Genesis 14:18; Numbers 23:8; Psalm 19:1",
+          "occurrences": "~250 times"
+        },
+        {
+          "hebrew": "אֱלֹהִים",
+          "transliteration": "Elohim",
+          "meaning": "God (plural of majesty)",
+          "usage": "Most common name in the OT. Grammatical plural used with a singular verb — sign of fullness and majesty. Some see it as a prefiguration of the Trinity. Used as early as Genesis 1:1.",
+          "references": "Genesis 1:1; Psalm 68:5",
+          "occurrences": "~2,600 times"
+        },
+        {
+          "hebrew": "יהוה",
+          "transliteration": "YHWH (Yahweh / Jehovah)",
+          "meaning": "I AM WHO I AM / The Eternal",
+          "usage": "God's own name, revealed to Moses at the burning bush (Exodus 3:14). Sacred Tetagram — Jews do not pronounce it and say 'Adonai' instead. It is the name of the Alliance, of presence and fidelity.",
+          "references": "Exodus 3:14-15; Isaiah 42:8",
+          "occurrences": "~6,800 times"
+        },
+        {
+          "hebrew": "אֲדֹנָי",
+          "transliteration": "Adonai",
+          "meaning": "Lord, Sovereign Master",
+          "usage": "Title of absolute sovereignty. Used in place of YHWH in the synagogue reading. Expresses God's total lordship over all creation and His people.",
+          "references": "Psalm 8:1; Isaiah 6:1",
+          "occurrences": "~450 times"
+        }
+      ]
+    },
+    {
+      "id": "compounds",
+      "label": "Compound Names with El",
+      "emoji": "🔗",
+      "color": "from-violet-600 to-purple-700",
+      "names": [
+        {
+          "hebrew": "אֵל שַׁדַּי",
+          "transliteration": "El-Shaddai",
+          "meaning": "God Almighty / God with breasts (feeder)",
+          "usage": "Name revealed to Abraham. 'Shaddai' probably comes from 'shad' (breast) — nourishing and sufficient God, or from 'shadad' (destroy) — Almighty God. Both meanings coexist: absolute strength and maternal care.",
+          "references": "Genesis 17:1; Exodus 6:3; Job 1:1",
+          "occurrences": "~48 times"
+        },
+        {
+          "hebrew": "אֵל עֶלְיוֹן",
+          "transliteration": "El-Elyon",
+          "meaning": "Most High God",
+          "usage": "Name used by Melchizedek (Genesis 14:18). Expresses the absolute transcendence of God above all gods and all authority. Used in contexts of victory and sovereignty.",
+          "references": "Genesis 14:18-20; Psalm 78:35",
+          "occurrences": "~28 times"
+        },
+        {
+          "hebrew": "אֵל עוֹלָם",
+          "transliteration": "El-Olam",
+          "meaning": "Eternal God",
+          "usage": "Name revealed in Beersheba. 'Olam' = eternity, permanence. God whose nature transcends time and whose promises never end. Abraham plants a tamarisk tree to celebrate this name.",
+          "references": "Genesis 21:33; Isaiah 40:28",
+          "occurrences": "~4 times explicit"
+        },
+        {
+          "hebrew": "אֵל רֹאִי",
+          "transliteration": "El-Roi",
+          "meaning": "God who sees",
+          "usage": "Name given by Hagar in the desert (Genesis 16). The only name for God given by a woman in the Bible. Expresses that God sees the suffering of the forgotten and excluded.",
+          "references": "Genesis 16:13",
+          "occurrences": "Unique"
+        },
+        {
+          "hebrew": "אֵל קַנָּא",
+          "transliteration": "El-Qanna",
+          "meaning": "Jealous God / Fiery God",
+          "usage": "Expresses God's exclusive and passionate love for his people — like a husband jealous of the exclusivity of married love. It's not jealousy-envy but jealousy-fidelity.",
+          "references": "Exodus 20:5; Deuteronomy 4:24",
+          "occurrences": "~6 times"
+        }
+      ]
+    },
+    {
+      "id": "yhwh_compounds",
+      "label": "Compound Names with YHWH",
+      "emoji": "✨",
+      "color": "from-amber-600 to-orange-700",
+      "names": [
+        {
+          "hebrew": "יהוה יִרְאֶה",
+          "transliteration": "YHWH-Yirei",
+          "meaning": "The Lord will provide",
+          "usage": "Revealed to Abraham on Mount Moriah, after God provides a ram to replace Isaac. This name establishes the doctrine of divine providence: God sees in advance and provides.",
+          "references": "Genesis 22:14",
+          "occurrences": "Unique"
+        },
+        {
+          "hebrew": "יהוה נִסִּי",
+          "transliteration": "YHWH-Nissi",
+          "meaning": "The Lord is my banner",
+          "usage": "Revealed after the victory over Amalek. Moses raises his hands and Israel wins. The altar built is called 'The Lord is my standard' — a sign that God himself is the standard under which we fight.",
+          "references": "Exodus 17:15",
+          "occurrences": "Unique"
+        },
+        {
+          "hebrew": "יהוה שָׁלוֹם",
+          "transliteration": "YHWH-Shalom",
+          "meaning": "The Lord is peace",
+          "usage": "Revealed to Gideon, who feared he would die after seeing the angel of the Lord. Name of an altar built in Ophrah. Shalom = wholeness, prosperity, harmony, absence of internal war.",
+          "references": "Judges 6:24",
+          "occurrences": "Unique"
+        },
+        {
+          "hebrew": "יהוה רֹעִי",
+          "transliteration": "YHWH-King",
+          "meaning": "The Lord is my shepherd",
+          "usage": "The most beloved name of the Hebrew people. Psalm 23 — David expresses the relationship of total trust with God as shepherd: direction, nourishment, protection, presence in death. Jesus appropriated the title (John 10).",
+          "references": "Psalm 23:1; John 10:11",
+          "occurrences": "~1 time explicit + contexts"
+        },
+        {
+          "hebrew": "יהוה צְבָאוֹת",
+          "transliteration": "YHWH-Zabaoth",
+          "meaning": "The Lord of hosts",
+          "usage": "Name of the military and celestial power of God. 'Tzabaot' = armies (armies of Israel + heavenly armies). Reveals that God is the commander-in-chief of the forces of heaven and earth.",
+          "references": "1 Samuel 1:3; Isaiah 6:3",
+          "occurrences": "~285 times"
+        },
+        {
+          "hebrew": "יהוה רָפְאֶךָ",
+          "transliteration": "YHWH-Ropheka",
+          "meaning": "The Lord who heals you",
+          "usage": "Revealed to Marah, after God makes bitter waters sweet. God reveals himself as a healer of his people—physically (diseases) and spiritually (wounds of the heart and of sin).",
+          "references": "Exodus 15:26",
+          "occurrences": "Unique"
+        },
+        {
+          "hebrew": "יהוה שַׁמָּה",
+          "transliteration": "YHWH-Shammah",
+          "meaning": "The Lord is there",
+          "usage": "Last name revealed in the OT, by Ezekiel to designate the restored Jerusalem. The presence of God is the ultimate definition of the perfect city. Foreshadows the New Jerusalem (Revelation 21:3).",
+          "references": "Ezekiel 48:35",
+          "occurrences": "Unique"
+        },
+        {
+          "hebrew": "יהוה צִדְקֵנוּ",
+          "transliteration": "YHWH-Tsidqenu",
+          "meaning": "The Lord our righteousness",
+          "usage": "Messianic name revealed by Jeremiah to designate the future king of the line of David. This king (the Messiah) will himself be the righteousness of God for his people—foreshadowing justification by faith.",
+          "references": "Jeremiah 23:6; 33:16",
+          "occurrences": "2 times"
+        },
+        {
+          "hebrew": "יהוה מְקַדִּשְׁכֶם",
+          "transliteration": "YHWH-Meqaddishkem",
+          "meaning": "The Lord who sanctifies you",
+          "usage": "Revealed in the context of the Sabbath law. God does not just justify — he sanctifies, sets apart, makes holy. The Sabbath is the sign of this continued sanctification.",
+          "references": "Exodus 31:13; Leviticus 20:8",
+          "occurrences": "~4 times"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Other Divine Titles",
+      "emoji": "👑",
+      "color": "from-rose-600 to-pink-700",
+      "names": [
+        {
+          "hebrew": "הָאָבִּיר",
+          "transliteration": "Ha-Avir / Mighty of Jacob",
+          "meaning": "The Mighty, the Bull of Jacob",
+          "usage": "Title used in Jacob's blessings. 'Avir' = strong as a bull. Expresses the raw power of God as protector and defender of his people.",
+          "references": "Genesis 49:24; Psalm 132:2",
+          "occurrences": "~6 times"
+        },
+        {
+          "hebrew": "קְדוֹשׁ יִשְׂרָאֵל",
+          "transliteration": "Qedosh Yisrael",
+          "meaning": "The Holy One of Israel",
+          "usage": "Title dear to the prophet Isaiah (25 occurrences in his book). Expresses the absolute holiness of God — his radical otherness, his purity, his moral integrity. Holiness is the central attribute of Isaiah 6.",
+          "references": "Isaiah 1:4; 6:3",
+          "occurrences": "~30 times"
+        },
+        {
+          "hebrew": "גֹּאֵל",
+          "transliteration": "Go'el",
+          "meaning": "The Redeemer/Avenger of Blood",
+          "usage": "Hebrew legal term for the close relative who redeems an impoverished family member. Applied to God: he redeems Israel from slavery and repairs what was lost. Ruth and Boaz illustrate this concept.",
+          "references": "Isaiah 41:14; Ruth 3:9; Job 19:25",
+          "occurrences": "~20 times (applied to God)"
+        },
+        {
+          "hebrew": "מֶלֶךְ",
+          "transliteration": "Melek",
+          "meaning": "King",
+          "usage": "God is presented as king of Israel and the universe. Central title in the royal Psalms (93, 96-99). The OT theocracy is based on this title: God himself is the true king.",
+          "references": "Psalm 93:1; Isaiah 44:6",
+          "occurrences": "Very numerous"
+        },
+        {
+          "hebrew": "אָבִינוּ",
+          "transliteration": "Avinu",
+          "meaning": "Our Father",
+          "usage": "Title of filial intimacy, developed in prayer. Rare in the OT (Isaiah 63:16), it expresses the relationship of paternal tenderness. Jesus will make it the main name in the Lord's Prayer ('Our Father').",
+          "references": "Isaiah 63:16; 64:8; Matthew 6:9",
+          "occurrences": "~15 times (AT + NT)"
+        }
+      ]
+    }
+  ],
+  "pronunciationNote": "The sacred Tetagram (יהוה - YHWH) is never pronounced in Jewish tradition out of respect for divine holiness. The synagogue readers say “Adonai” in his place. The vocalization “Jehovah” is a medieval combination of the consonants of YHWH and the vowels of Adonai."
+}

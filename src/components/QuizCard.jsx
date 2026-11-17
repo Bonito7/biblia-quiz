@@ -1,9 +1,11 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { CheckCircle, XCircle } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import { useTranslation } from "@/lib/i18n";
 
 export default function QuizCard({ question, questionIndex, totalQuestions, selectedAnswer, onAnswer, showResult }) {
+  const { t } = useTranslation();
+
   return (
     <motion.div
       key={questionIndex}
@@ -17,7 +19,7 @@ export default function QuizCard({ question, questionIndex, totalQuestions, sele
       <div className="mb-6">
         <div className="flex justify-between items-center mb-2">
           <span className="text-xs font-medium text-muted-foreground">
-            Question {questionIndex + 1} sur {totalQuestions}
+            {t("quiz.progress", { n: questionIndex + 1, total: totalQuestions })}
           </span>
           <span className="text-xs font-medium text-primary">
             {Math.round(((questionIndex + 1) / totalQuestions) * 100)}%
@@ -96,7 +98,7 @@ export default function QuizCard({ question, questionIndex, totalQuestions, sele
                   : "bg-amber-50 border border-amber-200 text-amber-800"
               )}>
                 <p className="font-semibold mb-1">
-                  {selectedAnswer === question.correct ? "✨ Excellent !" : "📖 Bonne à savoir :"}
+                  {selectedAnswer === question.correct ? t("quiz.correctTitle") : t("quiz.goodToKnow")}
                 </p>
                 <p>{question.explanation}</p>
               </div>

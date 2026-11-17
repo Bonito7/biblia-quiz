@@ -1,0 +1,97 @@
+{
+  "johnWesley": {
+    "title": "João Wesley",
+    "subtitle": "28 de junho de 1703 — 2 de março de 1791 · Epworth → Londres",
+    "bio": "Padre anglicano, teólogo, reformador social e cofundador do Metodismo. Considerado uma das figuras mais influentes do cristianismo do século XVIII, o seu renascimento evangélico transformou a Inglaterra e preparou o terreno para grandes missões globais.",
+    "sections": [
+      {
+        "id": "youth",
+        "label": "Juventude e Treinamento",
+        "icon": "🎓",
+        "content": [
+          {
+            "title": "Nascimento e infância (1703-1714)",
+            "text": "John Wesley nasceu em 28 de junho de 1703 em Epworth, Lincolnshire, 15º de 19 filhos de Samuel e Susanna Wesley. Aos 5 anos foi salvo milagrosamente do incêndio do presbitério (1709). Sua mãe o vê como 'um tição arrancado do fogo' - uma imagem que marcará toda a sua vida. Ele será educado principalmente pela mãe até os 11 anos.",
+            "verse": "“Um tição tirado do fogo” – Zacarias 3:2, lema pessoal de John Wesley"
+          },
+          {
+            "title": "Oxford — O Clube Sagrado (1720–1735)",
+            "text": "John ingressou no Christ Church College, Oxford, em 1720. Em 1729, com seu irmão Charles e George Whitefield, ele fundou o 'Holy Club' - apelidado zombeteiramente de 'Metodistas' por causa de seu método rigoroso de piedade: oração diária em horários fixos, jejum às quartas e sextas-feiras, visitas às prisões, estudo sistemático da Bíblia. O termo 'metodista' permanecerá.",
+            "verse": "Agenda do Holy Club: levantar às 4h, oração das 5h às 6h, estudar até as 21h, exame de consciência antes de dormir"
+          },
+          {
+            "title": "Missão na Geórgia (1735-1738)",
+            "text": "Ordenado sacerdote anglicano em 1728, John partiu como missionário na Geórgia (América) de 1735 a 1738. Esta viagem foi um fracasso pastoral, mas uma revelação espiritual: no barco, os Morávios cantaram e rezaram sem medo na tempestade. John fica impressionado com sua fé serena diante da morte. Ele voltou para a Inglaterra deprimido, mas transformado.",
+            "verse": "John Wesley em seu diário: 'Fui para a América para converter os índios, mas quem me converterá?'"
+          }
+        ]
+      },
+      {
+        "id": "conversion",
+        "label": "Conversão e Despertar",
+        "icon": "🔥",
+        "content": [
+          {
+            "title": "Aldersgate – 24 de maio de 1738",
+            "text": "24 de maio de 1738 é a data de fundação do Metodismo. John participa de uma reunião da Morávia em Aldersgate Street, Londres. Ao ler o comentário de Lutero sobre Romanos, ele escreveu: “Senti meu coração estranhamente aquecido. Senti que confiava somente em Cristo para a salvação, e tive a certeza de que Cristo havia tirado meus pecados, até mesmo os meus, e me salvou da lei do pecado e da morte.'",
+            "verse": "Esta experiência – a certeza da salvação – tornar-se-ia central para a teologia wesleyana."
+          },
+          {
+            "title": "Pregação ao ar livre (1739)",
+            "text": "Em fevereiro de 1739, George Whitefield convidou John para pregar ao ar livre em Bristol. John, um anglicano convicto, hesita – ele acredita que pregar fora da igreja é irregular. Então ele cede e reúne milhares de trabalhadores das minas de Kingswood. Ele escreveu: “Renuncio a toda dignidade de ser apenas interior. O mundo é minha paróquia. O despertar começa.",
+            "verse": "“O mundo é minha paróquia” – lema que guiará 50 anos de ministério ao ar livre"
+          },
+          {
+            "title": "Organização das Sociedades (1739-1744)",
+            "text": "Wesley organiza os crentes em “sociedades” subdivididas em “classes” de 12 membros com um líder. Este sistema de acompanhamento pastoral intensivo é revolucionário: todas as semanas, cada membro relata o seu estado espiritual. Wesley também publicou os seus primeiros sermões padrão e as “Regras Gerais” que se tornariam a base do Metodismo.",
+            "verse": "As 3 regras gerais: (1) Não faça mal, (2) Faça todo o bem possível, (3) Use todos os meios da graça"
+          }
+        ]
+      },
+      {
+        "id": "theology",
+        "label": "Teologia",
+        "icon": "📖",
+        "content": [
+          {
+            "title": "Graça Preveniente",
+            "text": "Wesley ensina que Deus concede a todos os seres humanos a 'graça preveniente' - uma graça que precede a fé e restaura parcialmente o livre arbítrio perdido na Queda. Esta graça explica porque o convite universal do Evangelho é sincero: Deus torna possível a resposta de fé para todos, sem exceção. Esta é a sua resposta ao calvinismo.",
+            "verse": "Tito 2:11: 'A graça de Deus, fonte de salvação para todos os homens, foi manifestada.'"
+          },
+          {
+            "title": "Santificação e Perfeição Cristã",
+            "text": "O conceito distintivo de Wesley: 'perfeição cristã' ou 'santidade completa'. Não é uma impecabilidade absoluta, mas um estado onde o amor a Deus e ao próximo é a motivação dominante – uma profunda purificação interior. Wesley distingue isso da justificação (perdão): é a obra do Espírito Santo que transforma o coração. Ele publicou 'Um relato simples da perfeição cristã' (1766).",
+            "verse": "1 Tessalonicenses 5:23: 'Que o próprio Deus da paz os santifique completamente.'"
+          },
+          {
+            "title": "Quadrilátero Wesleyano",
+            "text": "O método teológico de Wesley é baseado em 4 fontes: (1) Escrituras – autoridade primeira e suprema; (2) Tradição — herança da Igreja antiga; (3) Razão — o dom de Deus para a compreensão do Apocalipse; (4) Experiência — a confirmação interior das verdades bíblicas. Este quadrilátero continua a ser o método teológico oficial da Igreja Metodista Unida.",
+            "verse": "Wesley: 'Somente as Escrituras contêm toda a verdade necessária para a salvação.'"
+          }
+        ]
+      },
+      {
+        "id": "social",
+        "label": "Ação Social",
+        "icon": "🤝",
+        "content": [
+          {
+            "title": "Os pobres e os oprimidos",
+            "text": "Wesley estava profundamente comprometido com os pobres. Ele fundou dispensários médicos gratuitos para os pobres, empréstimos sem juros para artesãos em dificuldades e escolas para filhos de mineiros. Ele publicou 'Primitive Physick' (1747), um guia médico barato para os pobres. Para Wesley, a santidade social é inseparável da santidade pessoal.",
+            "verse": "“A religião que não começa no coração não é real, mas aquela que termina aí não é grande o suficiente. » —Wesley"
+          },
+          {
+            "title": "Oposição à escravidão",
+            "text": "Uma das lutas mais corajosas de Wesley foi a sua oposição à escravidão. Em 1774 ele publicou 'Pensamentos sobre a Escravidão', um dos mais poderosos panfletos antiescravidão de seu tempo. Ele denuncia a escravidão como “a soma de todas as vilanias”. Sua última carta (24 de fevereiro de 1791), escrita a William Wilberforce, exorta-o a continuar sua luta abolicionista. Wesley morreu 6 dias depois.",
+            "verse": "Última carta a Wilberforce (1791): 'Continue em nome de Deus e do seu poder... Deus te fará triunfar.'"
+          },
+          {
+            "title": "Educação e Publicações",
+            "text": "Wesley fundou a Kingswood School (1748) para filhos de mineiros e o orfanato Orphan House em Newcastle. Publicou uma biblioteca de 50 volumes 'Uma Biblioteca Cristã' a preço reduzido para as classes trabalhadoras. Publicou um dicionário, um manual médico e tratados de história natural. No total: 400 publicações originais. Ele queria cristãos instruídos, não apenas piedosos.",
+            "verse": "Wesley: 'Divulgue os livros, divulgue conhecimento de todos os tipos, divulgue-o tão amplamente quanto possível.'"
+          }
+        ]
+      }
+    ]
+  }
+}

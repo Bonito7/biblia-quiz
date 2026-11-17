@@ -1,0 +1,200 @@
+{
+  "periods": [
+    {
+      "id": "creation",
+      "label": "Creación e inundación",
+      "emoji": "🌍",
+      "years": "Antes del año 2000 a.C. d.C.",
+      "color": "from-emerald-500 to-teal-600",
+      "description": "El mundo antiguo de orígenes bíblicos: el Edén, el diluvio de Noé y la dispersión de las naciones después de Babel.",
+      "maps": [
+        {
+          "title": "El Jardín del Edén – Ubicación tradicional",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "La tradición sitúa el Edén en Mesopotamia, en la confluencia del Tigris y el Éufrates (Génesis 2:10-14).",
+          "details": "Los 4 ríos del Edén: Pisón, Gihón, Hiddekel (Tigre) y Phrat (Éufrates)"
+        },
+        {
+          "title": "Arca de Noé - Monte Ararat",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "El Arca aterrizó en las montañas Ararat en lo que hoy es el este de Türkiye (Génesis 8:4).",
+          "details": "El monte Ararat alcanza su punto máximo a 5.165 m, en la frontera turco-armenia"
+        },
+        {
+          "title": "La Torre de Babel – Llanura de Sinar",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "Babel (Babilonia) está ubicada en la llanura de Sinar en Mesopotamia (Génesis 11:2).",
+          "details": "Los arqueólogos han descubierto zigurats gigantes en Babilonia y Ur"
+        }
+      ]
+    },
+    {
+      "id": "patriarches",
+      "label": "Patriarcas",
+      "emoji": "🏕️",
+      "years": "2000-1700 a.C. d.C.",
+      "color": "from-amber-500 to-orange-600",
+      "description": "Los viajes de Abraham, Isaac y Jacob por Canaán, Egipto y Mesopotamia.",
+      "maps": [
+        {
+          "title": "El viaje de Abraham: de Ur a Canaán",
+          "image": "https://images.unsplash.com/photo-1605101100278-5d1deb2b6498?w=800&q=80",
+          "caption": "Abraham parte de Ur de los caldeos, pasa por Harrán, desciende a Canaán y a Egipto (Génesis 11-12).",
+          "details": "Un viaje de más de 2.000 km desde Mesopotamia hasta Canaán"
+        },
+        {
+          "title": "Canaán en la época de los Patriarcas",
+          "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?w=800&q=80",
+          "caption": "Los lugares santos de los Patriarcas: Siquem, Betel, Hebrón, Beerseba: la Ruta de los Patriarcas.",
+          "details": "Abraham, Isaac y Jacob construyeron altares a lo largo de Canaán"
+        },
+        {
+          "title": "Egipto en tiempos de José",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "José vendido a Egipto se convierte en gobernador. La tierra de Gosén da la bienvenida a la familia de Jacob (Génesis 37-50).",
+          "details": "El delta del Nilo y la región de Goshen estuvieron habitados por los hebreos."
+        }
+      ]
+    },
+    {
+      "id": "exode",
+      "label": "Éxodo y desierto",
+      "emoji": "🌵",
+      "years": "1300-1200 a. C. d.C.",
+      "color": "from-yellow-500 to-amber-600",
+      "description": "La salida de Egipto, los 40 años en el desierto del Sinaí y la llegada a las puertas de Canaán.",
+      "maps": [
+        {
+          "title": "El camino del Éxodo: de Egipto al Sinaí",
+          "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80",
+          "caption": "Los israelitas cruzan el Mar Rojo y se adentran en el desierto hacia el monte Sinaí (Éxodo 14-19).",
+          "details": "Se proponen varias rutas del Éxodo: ruta norte, ruta central o ruta sur"
+        },
+        {
+          "title": "Monte Sinaí: lugar de revelación",
+          "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
+          "caption": "El Sinaí (Jebel Musa u Horeb) es el lugar donde Moisés recibió los Diez Mandamientos (Éxodo 19-20).",
+          "details": "La península del Sinaí es escenario de los 40 años de peregrinación del pueblo hebreo"
+        },
+        {
+          "title": "40 años en el desierto — Etapas",
+          "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80",
+          "caption": "Desde Cades-Barnea hasta las llanuras de Moab, las etapas del pueblo: Elim, Mara, Refidim, Cades...",
+          "details": "Números 33 enumera 40 pasos desde salir de Egipto hasta entrar a Canaán"
+        }
+      ]
+    },
+    {
+      "id": "conquete",
+      "label": "Conquista y jueces",
+      "emoji": "⚔️",
+      "years": "1200-1050 a. C. d.C.",
+      "color": "from-red-500 to-rose-600",
+      "description": "El cruce del Jordán bajo Josué, la distribución de las tribus y el período de los Jueces.",
+      "maps": [
+        {
+          "title": "La conquista de Canaán bajo Josué",
+          "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?w=800&q=80",
+          "caption": "Josué dirigió 3 campañas: central (Jericó, Hai), sur y norte para conquistar Canaán (Josué 1-12).",
+          "details": "La caída de Jericó abre la campaña central para conquistar Canaán"
+        },
+        {
+          "title": "Distribución de las 12 Tribus de Israel",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Cada una de las 12 tribus recibe su territorio. Leví no recibe territorio sino ciudades de refugio (Josué 13-21).",
+          "details": "Las tribus de Rubén, Gad y la media tribu de Manasés se asientan al este del Jordán."
+        },
+        {
+          "title": "El período de los jueces: amenazas externas",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "Los enemigos de Israel bajo los jueces: filisteos (costa oeste), moabitas (este), madianitas (sur), cananeos (norte).",
+          "details": "El ciclo de los Jueces: desobediencia → opresión → arrepentimiento → liberación → paz"
+        }
+      ]
+    },
+    {
+      "id": "royaume",
+      "label": "Reino Unido y dividido",
+      "emoji": "👑",
+      "years": "1050–722 a.C. d.C.",
+      "color": "from-blue-500 to-indigo-600",
+      "description": "El reinado de Saúl, David y Salomón, luego la división en los reinos de Israel y Judá.",
+      "maps": [
+        {
+          "title": "El Reino Unido bajo David y Salomón",
+          "image": "https://images.unsplash.com/photo-1560713781-d8f7a1ece0f3?w=800&q=80",
+          "caption": "David conquista Jerusalén y extiende el reino desde Egipto hasta el Éufrates. Salomón construye el Templo (1 Reyes 4-8).",
+          "details": "Jerusalén, conquistada a los jebuseos, se convierte en la capital política y religiosa"
+        },
+        {
+          "title": "Jerusalén: la ciudad de David",
+          "image": "https://images.unsplash.com/photo-1548710428-8f6b8e617ec0?w=800&q=80",
+          "caption": "David estableció su capital en Jerusalén (Sión) y llevó allí el Arca del Pacto (2 Samuel 5-6).",
+          "details": "El Monte Moriah alberga el Templo de Salomón, construido en 7 años (966-959 a.C.)"
+        },
+        {
+          "title": "División del Reino: Israel y Judá",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Después de Salomón: el Norte (Israel, 10 tribus, capital Samaria) y el Sur (Judá, 2 tribus, capital Jerusalén) (1 Reyes 12).",
+          "details": "El Reino del Norte durará 200 años (931-722 a.C.), el Reino de Judá 340 años (931-586 a.C.)"
+        }
+      ]
+    },
+    {
+      "id": "exil",
+      "label": "Exilio y regreso",
+      "emoji": "🏛️",
+      "years": "722-400 a. C. d.C.",
+      "color": "from-purple-500 to-violet-600",
+      "description": "La caída de Samaria (722), la destrucción de Jerusalén (586), el exilio a Babilonia y el regreso de Ciro.",
+      "maps": [
+        {
+          "title": "La deportación asiria – 722 a.C. d.C.",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "Sargón II de Asiria deporta a las 10 tribus del norte a Mesopotamia (2 Reyes 17). Los samaritanos se involucrarán.",
+          "details": "Las poblaciones extranjeras se establecieron en Samaria, creando el pueblo mixto de los samaritanos."
+        },
+        {
+          "title": "El imperio babilónico y el exilio de Judá",
+          "image": "https://images.unsplash.com/photo-1605101100278-5d1deb2b6498?w=800&q=80",
+          "caption": "Nabucodonosor destruye Jerusalén (586) y deporta a la élite de Judá a Babilonia. Allí profetizaron Daniel y Ezequiel.",
+          "details": "3 deportaciones sucesivas: 605, 597 y 586 a.C. J.C. Jeremiah permanece en Judea"
+        },
+        {
+          "title": "Regreso del exilio: decreto de Ciro",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "En 538 a.C. BC, Ciro el Grande permite que los judíos regresen y reconstruyan el Templo (Esdras 1).",
+          "details": "Zorobabel lidera el primer regreso (538), Esdras el segundo (458), Nehemías el tercero (445 a. C.)"
+        }
+      ]
+    },
+    {
+      "id": "nt",
+      "label": "tiempos del nuevo testamento",
+      "emoji": "✝️",
+      "years": "4 a.C. a.C. — 100 d.C. d.C.",
+      "color": "from-cyan-500 to-sky-600",
+      "description": "Palestina en tiempos de Jesús, los viajes misioneros de Pablo y la difusión del Evangelio.",
+      "maps": [
+        {
+          "title": "Palestina en la época de Jesús",
+          "image": "https://images.unsplash.com/photo-1548710428-8f6b8e617ec0?w=800&q=80",
+          "caption": "Palestina está dividida en Galilea, Samaria y Judea. Jesús nació en Belén, creció en Nazaret, predicó en Galilea.",
+          "details": "El lago Tiberíades (Mar de Galilea) es el corazón del ministerio galileo de Jesús"
+        },
+        {
+          "title": "Los viajes misioneros de Pablo",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Pablo completó 3 viajes misioneros desde Antioquía, evangelizando Turquía, Grecia y llegando a Roma.",
+          "details": "1er viaje (Hechos 13-14): Chipre y Asia Menor. 2º: Macedonia y Grecia. 3º: Éfeso"
+        },
+        {
+          "title": "El Imperio Romano y la difusión del evangelio",
+          "image": "https://images.unsplash.com/photo-1560713781-d8f7a1ece0f3?w=800&q=80",
+          "caption": "La Pax Romana, las calzadas romanas y el idioma griego común facilitaron la difusión del Evangelio.",
+          "details": "En menos de 300 años, el cristianismo se extendió desde Jerusalén hasta los confines del Imperio"
+        }
+      ]
+    }
+  ]
+}

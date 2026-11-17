@@ -1,0 +1,72 @@
+{
+  "wesleySermons": {
+    "title": "The Sermons of John Wesley",
+    "subtitle": "The 44 Standard Sermons — the official theological basis of World Methodism. Wesley published them as a doctrinal basis for training his preachers.",
+    "searchPlaceholder": "Looking for a sermon...",
+    "sermons": [
+      {
+        "number": 1,
+        "title": "Salvation by Faith",
+        "fr": "Salvation by Faith",
+        "date": "1738",
+        "text": "Ephesians 2:8",
+        "summary": "First sermon of the 44 standards. Wesley establishes that salvation is by grace alone, received through faith—not by man's merits, works, or natural goodness. He distinguishes dead faith (intellectual) from living faith (trust of the heart). This sermon was preached at Oxford shortly after the Aldersgate experiment.",
+        "key_quote": "“The faith that justifies is not a simple intellectual belief but a full and living confidence in Christ, in his blood, in his merits.”"
+      },
+      {
+        "number": 2,
+        "title": "The Almost Christian",
+        "fr": "The Almost Christian",
+        "date": "1741",
+        "text": "Acts 26:28",
+        "summary": "One of Wesley's most penetrating sermons. He describes two categories: the 'almost Christian' (outwardly practicing, honest, religious, but without interior transformation) and the 'completely Christian' (love of God and neighbor dominating the heart). Wesley preached this sermon at Oxford in 1741, challenging his own academic colleagues.",
+        "key_quote": "“I fear that many of those who call themselves Christians are only almost Christians — and that they themselves do not know it.”"
+      },
+      {
+        "number": 5,
+        "title": "Justification by Faith",
+        "fr": "Justification by Faith",
+        "date": "1746",
+        "text": "Romans 4:5",
+        "summary": "Wesley clarifies the doctrine of justification against two errors: those who deny it (confusing justification with sanctification) and those who make it all about it (neglecting growth in holiness). Justification is the forgiveness of past sins and the restoration of God's favor—distinct but inseparable from the new birth.",
+        "key_quote": "“To be justified is to be forgiven—that God accepts us as if we had never sinned.”"
+      },
+      {
+        "number": 9,
+        "title": "The Spirit of Bondage and of Adoption",
+        "fr": "The Spirit of Servitude and Adoption",
+        "date": "1746",
+        "text": "Romans 8:15",
+        "summary": "Wesley describes three spiritual states: the natural man (unconscious of his sin), the man under the law (convicted of sin but without the strength to rise), and the man under grace (liberated and adopted as a child of God). This sermon is essential to understanding spiritual progression in Wesleyan theology.",
+        "key_quote": "“The Spirit of adoption cries within us, Abba, Father!—and this assurance is the privilege of every born again believer.”"
+      },
+      {
+        "number": 13,
+        "title": "On Sin in Believers",
+        "fr": "Sin among Believers",
+        "date": "1763",
+        "text": "2 Corinthians 5:17",
+        "summary": "Wesley honestly acknowledges that sin remains in regenerate believers—but as a defeated remnant, not as a ruling power. This sermon qualifies his doctrine of Christian perfection: being born again does not mean never sinning again, but no longer being dominated by sin.",
+        "key_quote": "“There is still a residue of sin in the best of believers — but this residue no longer has dominion over them.”"
+      },
+      {
+        "number": 43,
+        "title": "The More Excellent Way",
+        "fr": "The Upper Way",
+        "date": "1787",
+        "text": "1 Corinthians 12:31",
+        "summary": "One of Wesley's last great sermons (he was 84). He compares two ways of living: the ordinary way of the average Christian (avoiding gross sins, practicing basic duties) and the higher way of perfect love. He exhorts every believer to aim for the summit—not spiritual mediocrity.",
+        "key_quote": "\"Don't settle for the ordinary path. The path of perfect love is open to all—why stop halfway?\""
+      },
+      {
+        "number": 44,
+        "title": "The Use of Money",
+        "fr": "The Use of Money",
+        "date": "1760",
+        "text": "Luke 16:9",
+        "summary": "Wesley's most famous social sermon, summarized in 3 rules: (1) Earn all you can (by honest labor); (2) Save everything you can (no unnecessary expenses); (3) Give whatever you can (redistribute to the needy). Wesley himself lived by this principle — he gave away 90% of his income.",
+        "key_quote": "\"Earn all you can. Save all you can. Give all you can.\""
+      }
+    ]
+  }
+}

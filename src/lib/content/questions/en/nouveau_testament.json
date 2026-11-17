@@ -1,0 +1,1352 @@
+{
+  "nouveau_testament": {
+    "debutant": [
+      {
+        "question": "In which city was Jesus born?",
+        "options": [
+          "Nazareth",
+          "Jerusalem",
+          "Bethlehem",
+          "Capernaum"
+        ],
+        "correct": 2,
+        "explanation": "Jesus was born in Bethlehem of Judea (Matthew 2:1)."
+      },
+      {
+        "question": "How many apostles did Jesus choose?",
+        "options": [
+          "7",
+          "10",
+          "12",
+          "14"
+        ],
+        "correct": 2,
+        "explanation": "Jesus chose 12 apostles (Matthew 10:1-4)."
+      },
+      {
+        "question": "Which apostle denied Jesus three times?",
+        "options": [
+          "Jeans",
+          "Rock",
+          "Jacques",
+          "Thomas"
+        ],
+        "correct": 1,
+        "explanation": "Peter denied Jesus three times before the rooster crowed (Matthew 26:34)."
+      },
+      {
+        "question": "What is Jesus' first miracle?",
+        "options": [
+          "Heal a blind man",
+          "Walk on water",
+          "Turn water into wine",
+          "Multiply the loaves"
+        ],
+        "correct": 2,
+        "explanation": "Jesus' first miracle was changing water into wine at the wedding in Cana (John 2:1-11)."
+      },
+      {
+        "question": "Who baptized Jesus?",
+        "options": [
+          "Rock",
+          "Jean-Baptiste",
+          "Andrew",
+          "Paul"
+        ],
+        "correct": 1,
+        "explanation": "John the Baptist baptized Jesus in the Jordan River (Matthew 3:13-17)."
+      },
+      {
+        "question": "What is the last book of the New Testament?",
+        "options": [
+          "Jude",
+          "Hebrews",
+          "Apocalypse",
+          "3 John"
+        ],
+        "correct": 2,
+        "explanation": "Revelation (Revelation) is the last book of the New Testament."
+      },
+      {
+        "question": "How many days did Jesus spend in the desert?",
+        "options": [
+          "7 days",
+          "30 days",
+          "40 days",
+          "50 days"
+        ],
+        "correct": 2,
+        "explanation": "Jesus spent 40 days and 40 nights in the desert (Matthew 4:2)."
+      },
+      {
+        "question": "How many loaves did Jesus use to feed 5000 people?",
+        "options": [
+          "2",
+          "5",
+          "7",
+          "12"
+        ],
+        "correct": 1,
+        "explanation": "Jesus used 5 loaves and 2 fish to feed the crowd (John 6:9)."
+      },
+      {
+        "question": "In which gospel do we find the parable of the prodigal son?",
+        "options": [
+          "Matthew",
+          "Mark",
+          "Luke",
+          "Jeans"
+        ],
+        "correct": 2,
+        "explanation": "The parable of the prodigal son is found only in the Gospel of Luke (Luke 15:11-32)."
+      },
+      {
+        "question": "What is the name of Jesus' mother?",
+        "options": [
+          "Elizabeth",
+          "Anne",
+          "Married",
+          "Martha"
+        ],
+        "correct": 2,
+        "explanation": "Mary is the mother of Jesus (Luke 1:27)."
+      },
+      {
+        "question": "Where was Jesus crucified?",
+        "options": [
+          "The Mount of Olives",
+          "Golgotha",
+          "Mount Sinai",
+          "Bethlehem"
+        ],
+        "correct": 1,
+        "explanation": "Jesus was crucified at Golgotha, 'place of the skull' (John 19:17)."
+      },
+      {
+        "question": "How many days after his death did Jesus resurrect?",
+        "options": [
+          "1 day",
+          "2 days",
+          "3 days",
+          "7 days"
+        ],
+        "correct": 2,
+        "explanation": "Jesus was resurrected on the third day (1 Corinthians 15:4)."
+      },
+      {
+        "question": "Which apostle was a tax collector?",
+        "options": [
+          "Rock",
+          "Matthew",
+          "Jeans",
+          "Philip"
+        ],
+        "correct": 1,
+        "explanation": "Matthew (Levi) was a tax collector before following Jesus (Matthew 9:9)."
+      },
+      {
+        "question": "How many gospels are there in the New Testament?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correct": 2,
+        "explanation": "There are 4 gospels: Matthew, Mark, Luke and John."
+      },
+      {
+        "question": "Who wrote the most New Testament epistles?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "Paul",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "The apostle Paul wrote 13 epistles of the New Testament."
+      },
+      {
+        "question": "What does the dove that descended on Jesus during his baptism represent?",
+        "options": [
+          "A guardian angel",
+          "The Holy Spirit",
+          "Divine peace",
+          "The soul of John the Baptist"
+        ],
+        "correct": 1,
+        "explanation": "The dove represents the Holy Spirit descending on Jesus at his baptism (Matthew 3:16)."
+      },
+      {
+        "question": "What event is celebrated by Christians at Easter?",
+        "options": [
+          "The birth of Jesus",
+          "The baptism of Jesus",
+          "The resurrection of Jesus",
+          "The ascension of Jesus"
+        ],
+        "correct": 2,
+        "explanation": "Easter celebrates the resurrection of Jesus Christ on the third day after his crucifixion."
+      },
+      {
+        "question": "What prayer did Jesus teach his disciples?",
+        "options": [
+          "Psalm 23",
+          "The Our Father prayer",
+          "The Shema Israel",
+          "The prayer of the High Priest"
+        ],
+        "correct": 1,
+        "explanation": "Jesus taught the 'Our Father' to his disciples (Matthew 6:9-13)."
+      },
+      {
+        "question": "Where was Jesus tempted by Satan?",
+        "options": [
+          "On the banks of the Jordan",
+          "In the desert",
+          "On the Mount of Olives",
+          "In Jerusalem"
+        ],
+        "correct": 1,
+        "explanation": "Jesus was tempted by Satan for 40 days in the wilderness (Matthew 4:1)."
+      },
+      {
+        "question": "What is the main commandment that Jesus gives in John 13?",
+        "options": [
+          "Pray without ceasing",
+          "Love each other",
+          "Carry your cross",
+          "Fast regularly"
+        ],
+        "correct": 1,
+        "explanation": "Jesus said 'Love one another, as I have loved you' (John 13:34)."
+      },
+      {
+        "question": "In which town did Jesus grow up?",
+        "options": [
+          "Bethlehem",
+          "Jerusalem",
+          "Nazareth",
+          "Capernaum"
+        ],
+        "correct": 2,
+        "explanation": "Jesus grew up in Nazareth of Galilee (Luke 2:51)."
+      },
+      {
+        "question": "What was the profession of Joseph, father of Jesus?",
+        "options": [
+          "Fisherman",
+          "Shepherd",
+          "Carpenter",
+          "Farmer"
+        ],
+        "correct": 2,
+        "explanation": "Joseph was a carpenter (Matthew 13:55)."
+      },
+      {
+        "question": "Which tree did Zacchaeus climb to see Jesus?",
+        "options": [
+          "A cedar",
+          "A palm tree",
+          "A sycamore",
+          "A fig tree"
+        ],
+        "correct": 2,
+        "explanation": "Zacchaeus, small in stature, had climbed a sycamore tree to see Jesus passing by (Luke 19:4)."
+      },
+      {
+        "question": "How many days after his resurrection did Jesus ascend to heaven?",
+        "options": [
+          "3 days",
+          "7 days",
+          "40 days",
+          "50 days"
+        ],
+        "correct": 2,
+        "explanation": "Jesus ascended to heaven 40 days after his resurrection (Acts 1:3)."
+      },
+      {
+        "question": "What is Pentecost celebrated in the Acts of the Apostles?",
+        "options": [
+          "The ascension of Jesus",
+          "The descent of the Holy Spirit on the disciples",
+          "The birth of the Catholic Church",
+          "The first Sunday after Easter"
+        ],
+        "correct": 1,
+        "explanation": "Pentecost is the descent of the Holy Spirit on the disciples gathered in Jerusalem, 50 days after Easter (Acts 2)."
+      },
+      {
+        "question": "What was the birth name of the Apostle Paul?",
+        "options": [
+          "Simon",
+          "Saul",
+          "Silas",
+          "Barnabas"
+        ],
+        "correct": 1,
+        "explanation": "Paul's name was Saul of Tarsus before his conversion on the road to Damascus (Acts 9:1)."
+      },
+      {
+        "question": "How many books are in the New Testament?",
+        "options": [
+          "24",
+          "27",
+          "30",
+          "39"
+        ],
+        "correct": 1,
+        "explanation": "The New Testament contains 27 books."
+      },
+      {
+        "question": "What miracle did Jesus perform on his friend Lazarus?",
+        "options": [
+          "Cure your blindness",
+          "Calm your storm",
+          "resurrect him from the dead",
+          "Multiply your bread"
+        ],
+        "correct": 2,
+        "explanation": "Jesus resurrected Lazarus 4 days after his death in Bethany (John 11:43-44)."
+      },
+      {
+        "question": "What title does Jesus most often use to refer to himself?",
+        "options": [
+          "Son of God",
+          "Lord",
+          "Son of man",
+          "Messiah"
+        ],
+        "correct": 2,
+        "explanation": "Jesus refers to himself most often as 'Son of Man' (more than 80 times in the gospels)."
+      },
+      {
+        "question": "Which NT book describes Paul's missionary journeys?",
+        "options": [
+          "Romans",
+          "Galatians",
+          "Acts of the Apostles",
+          "Ephesians"
+        ],
+        "correct": 2,
+        "explanation": "The Acts of the Apostles describe Paul's 3 missionary journeys and the birth of the first Churches."
+      },
+      {
+        "question": "What is the meaning of the word 'gospel'?",
+        "options": [
+          "Good news",
+          "divine message",
+          "sacred word",
+          "Eternal truth"
+        ],
+        "correct": 0,
+        "explanation": "The word 'gospel' comes from the Greek 'euangelion' meaning 'good news'."
+      },
+      {
+        "question": "In which gospel is the Sermon on the Mount found?",
+        "options": [
+          "Mark",
+          "Luke",
+          "Matthew",
+          "Jeans"
+        ],
+        "correct": 2,
+        "explanation": "The Sermon on the Mount, including the Beatitudes and the Lord's Prayer, is found in Matthew 5-7."
+      },
+      {
+        "question": "Which apostle wrote Revelation?",
+        "options": [
+          "Paul",
+          "Rock",
+          "Jeans",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Revelation was written by John on the island of Patmos (Revelation 1:1,9)."
+      },
+      {
+        "question": "Which NT character sought Jesus at night for a talk about the new birth?",
+        "options": [
+          "Joseph of Arimathea",
+          "Nicodemus",
+          "Gamaliel",
+          "Simeon"
+        ],
+        "correct": 1,
+        "explanation": "Nicodemus, leader of the Pharisees, came to Jesus at night to discuss the Kingdom of God (John 3:1-2)."
+      },
+      {
+        "question": "What is the meaning of the word 'Christ'?",
+        "options": [
+          "Savior",
+          "Anointed (Messiah in Greek)",
+          "Son of God",
+          "Lord"
+        ],
+        "correct": 1,
+        "explanation": "'Christ' comes from the Greek 'Christos' meaning 'anointed', equivalent to the Hebrew word 'Messiah'."
+      },
+      {
+        "question": "What Jewish holiday did Jesus celebrate at the Last Supper?",
+        "options": [
+          "Yom Kippur",
+          "Sukkot",
+          "Passover",
+          "Pentecost"
+        ],
+        "correct": 2,
+        "explanation": "The Last Supper was a Passover meal that Jesus celebrated with his disciples (Matthew 26:17-20)."
+      },
+      {
+        "question": "What city was the center of Jesus' ministry in Galilee?",
+        "options": [
+          "Nazareth",
+          "Capernaum",
+          "Cana",
+          "Tiberias"
+        ],
+        "correct": 1,
+        "explanation": "Capernaum was the base of Jesus' Galilean ministry, called 'his own city' (Matthew 9:1)."
+      },
+      {
+        "question": "Which disciple of Jesus was a doctor?",
+        "options": [
+          "Mark",
+          "Jeans",
+          "Luke",
+          "Titus"
+        ],
+        "correct": 2,
+        "explanation": "Luke was a physician ('the beloved physician', Colossians 4:14) and wrote the Gospel of Luke and Acts."
+      },
+      {
+        "question": "What parable does Jesus tell to describe the different types of hearts receiving the Word?",
+        "options": [
+          "The Parable of the Talents",
+          "The parable of the sower",
+          "The Parable of the Pearl",
+          "The Parable of Leaven"
+        ],
+        "correct": 1,
+        "explanation": "The parable of the sower describes 4 types of ground/heart receiving God's Word differently (Matthew 13:1-23)."
+      },
+      {
+        "question": "What name does Jesus give to Simon after his confession of faith?",
+        "options": [
+          "Son of Jonah",
+          "Kephas (Stone = Rock)",
+          "The Beloved",
+          "The Little"
+        ],
+        "correct": 1,
+        "explanation": "Jesus said to Simon 'You are Peter (Kephas), and on this rock I will build my Church' (Matthew 16:18)."
+      },
+      {
+        "question": "What is the central message of the Gospel?",
+        "options": [
+          "Obey the commandments",
+          "Jesus died and rose again for our sins",
+          "Be baptized",
+          "Go to church"
+        ],
+        "correct": 1,
+        "explanation": "The gospel is that Jesus Christ died for our sins, was buried, and rose again (1 Corinthians 15:3-4)."
+      },
+      {
+        "question": "Who was Pontius Pilate in the Passion of Jesus?",
+        "options": [
+          "The High Priest who judged Jesus",
+          "The Roman governor who sentenced Jesus to death",
+          "A Pharisee who defended Jesus",
+          "A Roman soldier"
+        ],
+        "correct": 1,
+        "explanation": "Pontius Pilate was the Roman governor of Judea who, although recognizing Jesus' innocence, condemned him to crucifixion (John 18:38; 19:16)."
+      },
+      {
+        "question": "What symbol does Jesus use in John 15 to describe his relationship with believers?",
+        "options": [
+          "The Shepherd and the Sheep",
+          "The vine and the branches",
+          "Bread and wine",
+          "Light and darkness"
+        ],
+        "correct": 1,
+        "explanation": "Jesus said 'I am the vine, you are the branches' (John 15:5)."
+      },
+      {
+        "question": "What is the meaning of 'Emmanuel'?",
+        "options": [
+          "God is great",
+          "God with us",
+          "God save us",
+          "God is light"
+        ],
+        "correct": 1,
+        "explanation": "'Immanuel' means 'God with us' (Matthew 1:23, quoting Isaiah 7:14)."
+      },
+      {
+        "question": "Which country did Jesus visit as a refugee as a child?",
+        "options": [
+          "Syria",
+          "Egypt",
+          "Greece",
+          "Persia"
+        ],
+        "correct": 1,
+        "explanation": "Joseph, Mary, and the baby Jesus fled to Egypt to escape Herod's massacre (Matthew 2:13-15)."
+      },
+      {
+        "question": "Which apostle wrote two NT epistles and was married?",
+        "options": [
+          "Paul",
+          "Jeans",
+          "Rock",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Peter wrote two epistles (1 and 2 Peter) and was married (Matthew 8:14 mentions his mother-in-law)."
+      },
+      {
+        "question": "What does the term 'apostle' mean?",
+        "options": [
+          "Eyewitness",
+          "Sent (one who is sent on a mission)",
+          "Close disciple",
+          "Preacher"
+        ],
+        "correct": 1,
+        "explanation": "'Apostle' comes from the Greek 'apostolos' meaning 'one who is sent'."
+      },
+      {
+        "question": "How many missionary journeys did Paul complete according to Acts?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correct": 1,
+        "explanation": "Acts describes 3 major missionary journeys of Paul (Acts 13-14; 15-18; 18-21)."
+      },
+      {
+        "question": "What does 'Pentecost' literally mean in Greek?",
+        "options": [
+          "Feast of the Holy Spirit",
+          "Fiftieth (50th day after Easter)",
+          "Feast of first fruits",
+          "Gathering of Nations"
+        ],
+        "correct": 1,
+        "explanation": "Pentecost comes from the Greek 'pentêkostê' meaning 'fiftieth' (Acts 2:1)."
+      },
+      {
+        "question": "Which disciple asked Jesus to show him the way to the Father?",
+        "options": [
+          "Andrew",
+          "Thomas",
+          "Philip",
+          "Nathanael"
+        ],
+        "correct": 2,
+        "explanation": "Philip said to Jesus, 'Lord, show us the Father.' Jesus responds: 'He who has seen me has seen the Father' (John 14:8-9)."
+      },
+      {
+        "question": "Which episode shows Jesus as a child in the Temple in Jerusalem?",
+        "options": [
+          "Baptism",
+          "Jesus among the doctors at age 12",
+          "The flight into Egypt",
+          "The presentation at the Temple"
+        ],
+        "correct": 1,
+        "explanation": "At age 12, Jesus remained in the Temple in Jerusalem among the doctors of the Law (Luke 2:41-50)."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "On which mountain was Jesus transfigured?",
+        "options": [
+          "Mount of Olives",
+          "Mount Sinai",
+          "Mount Tabor",
+          "Mount Hermon"
+        ],
+        "correct": 2,
+        "explanation": "Tradition places the Transfiguration on Mount Tabor (Matthew 17:1-9)."
+      },
+      {
+        "question": "Which NT character asked for the head of John the Baptist?",
+        "options": [
+          "Herodias",
+          "Salome",
+          "Pilate",
+          "Herod Antipas"
+        ],
+        "correct": 0,
+        "explanation": "Herodias requested John the Baptist's head through his daughter (Mark 6:24-25)."
+      },
+      {
+        "question": "In which book do we find Peter's speech at Pentecost?",
+        "options": [
+          "Jeans",
+          "Acts of the Apostles",
+          "Romans",
+          "1 Peter"
+        ],
+        "correct": 1,
+        "explanation": "Peter's speech at Pentecost is found in Acts 2."
+      },
+      {
+        "question": "Which NT woman poured perfume on Jesus' feet?",
+        "options": [
+          "Mary of Bethany",
+          "Mary Magdalene",
+          "Martha",
+          "Suzanne"
+        ],
+        "correct": 0,
+        "explanation": "Mary of Bethany anointed Jesus' feet with expensive ointment (John 12:3)."
+      },
+      {
+        "question": "What was Peter's job before following Jesus?",
+        "options": [
+          "Carpenter",
+          "Fisherman",
+          "Shepherd",
+          "Farmer"
+        ],
+        "correct": 1,
+        "explanation": "Peter was a fisherman on Lake Galilee (Matthew 4:18)."
+      },
+      {
+        "question": "Which apostle walked on water toward Jesus?",
+        "options": [
+          "Jeans",
+          "Andrew",
+          "Rock",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Peter walked on water to join Jesus (Matthew 14:29)."
+      },
+      {
+        "question": "What is the first epistle of Paul chronologically?",
+        "options": [
+          "Galatians",
+          "1 Thessalonians",
+          "Romans",
+          "1 Corinthians"
+        ],
+        "correct": 1,
+        "explanation": "1 Thessalonians is considered the oldest epistle of Paul (c. 50 AD)."
+      },
+      {
+        "question": "Which book describes the vision of the new Jerusalem?",
+        "options": [
+          "Ezekiel",
+          "Daniel",
+          "Apocalypse",
+          "Zechariah"
+        ],
+        "correct": 2,
+        "explanation": "The New Jerusalem is described in Revelation 21."
+      },
+      {
+        "question": "Who said 'it is no longer I who live, it is Christ who lives in me'?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "Paul",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Paul writes this in Galatians 2:20."
+      },
+      {
+        "question": "Which NT woman was a purple merchant?",
+        "options": [
+          "Priscilla",
+          "Lydia",
+          "Phoebe",
+          "Tryphene"
+        ],
+        "correct": 1,
+        "explanation": "Lydia was a purple merchant from the city of Thyatira (Acts 16:14)."
+      },
+      {
+        "question": "In which gospel does Jesus say 'I am the light of the world'?",
+        "options": [
+          "Matthew",
+          "Mark",
+          "Luke",
+          "Jeans"
+        ],
+        "correct": 3,
+        "explanation": "It is in the Gospel of John that Jesus makes the statements 'I am...' (John 8:12)."
+      },
+      {
+        "question": "Which disciple was chosen to replace Judas among the Twelve?",
+        "options": [
+          "Barnabas",
+          "Matthias",
+          "Silas",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Matthias was chosen by lot to replace Judas (Acts 1:26)."
+      },
+      {
+        "question": "Who is the first Christian martyr mentioned in Acts?",
+        "options": [
+          "Jacques",
+          "Rock",
+          "Etienne",
+          "Paul"
+        ],
+        "correct": 2,
+        "explanation": "Stephen was the first Christian martyr, stoned to death after his speech before the Sanhedrin (Acts 7:59)."
+      },
+      {
+        "question": "In which city were Paul and Silas imprisoned before an earthquake opened the gates?",
+        "options": [
+          "Antioch",
+          "Corinth",
+          "Philippi",
+          "Thessaloniki"
+        ],
+        "correct": 2,
+        "explanation": "In Philippi, an earthquake opened the prison doors (Acts 16:26)."
+      },
+      {
+        "question": "What parable does Jesus tell to explain who our neighbor is?",
+        "options": [
+          "The Parable of the Talents",
+          "The parable of the Good Samaritan",
+          "The parable of the sower",
+          "The Parable of the Lost Sheep"
+        ],
+        "correct": 1,
+        "explanation": "The parable of the Good Samaritan answers 'Who is my neighbor?' (Luke 10:25-37)."
+      },
+      {
+        "question": "What event marks the beginning of the Church according to Acts?",
+        "options": [
+          "The resurrection of Jesus",
+          "The ascent",
+          "Pentecost",
+          "The baptism of Cornelius"
+        ],
+        "correct": 2,
+        "explanation": "Pentecost, with the outpouring of the Holy Spirit, is the starting point of the Church (Acts 2)."
+      },
+      {
+        "question": "What is special about the Gospel of John compared to the three synoptics?",
+        "options": [
+          "It is shorter",
+          "It does not contain parables but revealing signs and speeches",
+          "It was written in Aramaic",
+          "He is the only one to mention the resurrection"
+        ],
+        "correct": 1,
+        "explanation": "John differs from the synoptics: no parables in the strict sense, but 7 miraculous 'signs' and 7 major 'I am' declarations revealing the divine identity of Jesus."
+      },
+      {
+        "question": "What theological concept does Paul mainly develop in the epistle to the Romans?",
+        "options": [
+          "Christian ethics",
+          "Justification by faith alone",
+          "The return of Christ",
+          "The organization of the Church"
+        ],
+        "correct": 1,
+        "explanation": "The book of Romans is the great exposition of justification by faith (Romans 1-8)."
+      },
+      {
+        "question": "What is the main doctrine of the epistle to the Hebrews?",
+        "options": [
+          "The return of Christ",
+          "The superiority of the priesthood of Christ over the Levitical priesthood",
+          "Grace and faith",
+          "The baptism of believers"
+        ],
+        "correct": 1,
+        "explanation": "The epistle to the Hebrews demonstrates the superiority of Christ as high priest according to the order of Melchizedek."
+      },
+      {
+        "question": "Which apostle refused to believe in the resurrection before seeing and touching Jesus?",
+        "options": [
+          "Rock",
+          "Andrew",
+          "Thomas",
+          "Philip"
+        ],
+        "correct": 2,
+        "explanation": "Thomas said 'Except I see in his hands the mark of the nails...I will not believe' (John 20:25)."
+      },
+      {
+        "question": "What was the main problem that Paul addresses in Galatians?",
+        "options": [
+          "Sexual immorality",
+          "Divisions in the Church",
+          "The false doctrine that circumcision and the Law of Moses were necessary for salvation",
+          "Lack of generosity"
+        ],
+        "correct": 2,
+        "explanation": "Paul fights in Galatians the 'Judaizers' who taught that faith in Christ was not enough."
+      },
+      {
+        "question": "What major decision did the Council of Jerusalem (Acts 15) make?",
+        "options": [
+          "The list of canonical books of the NT",
+          "Gentiles do not need to be circumcised to be saved",
+          "The election of the first bishop of Rome",
+          "The ban on marriage for pastors"
+        ],
+        "correct": 1,
+        "explanation": "The Council of Jerusalem decided that Gentiles did not need to be circumcised to be saved (Acts 15)."
+      },
+      {
+        "question": "What is the theological meaning of the term 'redemption' in the NT?",
+        "options": [
+          "Simple forgiveness of sins",
+          "The Redemption of a Slave by the Payment of a Price — Christ has redeemed us by his blood",
+          "The moral transformation of the believer",
+          "God's acceptance"
+        ],
+        "correct": 1,
+        "explanation": "Redemption (apolytrosis) literally means the redemption of a slave—Christ has redeemed us at a price (1 Corinthians 6:20)."
+      },
+      {
+        "question": "What is the content of the hymn to Christ in Philippians 2:6-11 (kenosis)?",
+        "options": [
+          "Christ's victory over death",
+          "The voluntary abasement of Christ and his exaltation by God",
+          "The second coming of Christ",
+          "The incarnation only"
+        ],
+        "correct": 1,
+        "explanation": "The hymn of Philippians 2:6-11 describes kenosis: Christ 'emptied himself' by taking the form of a servant, and then God exalted him."
+      },
+      {
+        "question": "What is the main subject of the epistle of James?",
+        "options": [
+          "The theology of grace",
+          "Living faith expressed through works",
+          "Life after death",
+          "The Holy Spirit"
+        ],
+        "correct": 1,
+        "explanation": "James emphasizes that faith without works is dead (James 2:17)."
+      },
+      {
+        "question": "What is the connection between the Lord's Supper and Passover in NT theology?",
+        "options": [
+          "No link",
+          "The Last Supper fulfills and replaces the Jewish Passover — Christ is the Passover Lamb",
+          "The Last Supper is entirely new with no connection to the OT",
+          "Passover and the Last Supper are unrelated parallel rites"
+        ],
+        "correct": 1,
+        "explanation": "Paul says 'Christ, our Passover, has been sacrificed' (1 Corinthians 5:7). The Last Supper is the fulfillment of the Passover."
+      },
+      {
+        "question": "What Christological doctrine is condemned by John in his epistles (docetism)?",
+        "options": [
+          "That Jesus was a simple man",
+          "That Jesus did not come in the flesh — denying the actual incarnation",
+          "That Jesus is not resurrected",
+          "That Jesus is inferior to the Father"
+        ],
+        "correct": 1,
+        "explanation": "Jean fights Docetism. 1 John 4:2: 'Every spirit that confesses that Jesus Christ has come in the flesh is of God.'"
+      },
+      {
+        "question": "Which apostle was the first to recognize that the gospel extended to non-Jews (Gentiles)?",
+        "options": [
+          "Paul",
+          "Rock",
+          "Barnabas",
+          "Jacques"
+        ],
+        "correct": 1,
+        "explanation": "Peter received a vision of the cloth with unclean animals and was sent to the centurion Cornelius—the first baptism of a Gentile (Acts 10)."
+      },
+      {
+        "question": "What is the difference between 'justification' and 'sanctification' in Pauline theology?",
+        "options": [
+          "These are synonyms",
+          "Justification is the legal act of God declaring us righteous; sanctification is the process of transformation in Christ",
+          "Justification comes from our works; the sanctification of faith",
+          "The justification is final; sanctification is impossible"
+        ],
+        "correct": 1,
+        "explanation": "Justification is an instantaneous act of God declaring the sinner righteous. Sanctification is the ongoing process of transformation."
+      },
+      {
+        "question": "What is the content of Jesus' great priestly prayer in John 17?",
+        "options": [
+          "Prayer for healing of the sick",
+          "Prayer for the glory of the Father, the protection of the disciples and the unity of all believers",
+          "Prayer for forgiveness from enemies",
+          "Prayer for the end times"
+        ],
+        "correct": 1,
+        "explanation": "John 17: for his own glorification (v.1-5), for his disciples (v.6-19) and for all future believers (v.20-26)."
+      },
+      {
+        "question": "Which NT text describes the 'fruit of the Spirit' in 9 characteristics?",
+        "options": [
+          "Romans 8:5-9",
+          "1 Corinthians 13:4-7",
+          "Galatians 5:22-23",
+          "Ephesians 5:9"
+        ],
+        "correct": 2,
+        "explanation": "Galatians 5:22-23 lists the 9 fruits of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control."
+      },
+      {
+        "question": "What is the problem that Paul addresses in 1st Corinthians?",
+        "options": [
+          "The Gnostic heresy",
+          "Divisions in the Church, Immorality, Misused Spiritual Gifts",
+          "Refusal of circumcision",
+          "Lack of financial generosity"
+        ],
+        "correct": 1,
+        "explanation": "1 Corinthians addresses multiple issues: factions, immorality, marriage, sacrificed meat, worship and giving, resurrection."
+      },
+      {
+        "question": "What is the meaning of the term 'grace' (charis) in NT theology?",
+        "options": [
+          "A human courtesy",
+          "Unmerited divine favor freely granted by God for salvation",
+          "An inner spiritual feeling",
+          "The moral beauty of the believer"
+        ],
+        "correct": 1,
+        "explanation": "'Charis' is divine grace—the absolutely free and unmerited favor of God (Ephesians 2:8-9)."
+      },
+      {
+        "question": "What is the central theme of the epistle to the Hebrews expressed by the repetition of 'best' (kreittôn)?",
+        "options": [
+          "The superiority of the Church over Israel",
+          "The absolute superiority of Christ and the new covenant over all that has gone before",
+          "The superiority of the Jews over the Gentiles",
+          "The superiority of Paul over the other apostles"
+        ],
+        "correct": 1,
+        "explanation": "The Epistle to the Hebrews uses 'kreittôn' (better) 13 times: better name, better alliance, better promises, better sacrifice."
+      },
+      {
+        "question": "What is the unique contribution of Luke's gospel to NT theology?",
+        "options": [
+          "Emphasis on the divinity of Christ",
+          "Emphasis on prayer, the Holy Spirit, women, the poor and the universal scope of salvation",
+          "The theme of Logos",
+          "The anti-Pharisee controversy"
+        ],
+        "correct": 1,
+        "explanation": "Luke is distinguished by: the centrality of prayer, the Holy Spirit, the marginalized (women, poor, sinners, Samaritans, Gentiles)."
+      },
+      {
+        "question": "What is the meaning of the term 'incarnation' in NT Christology?",
+        "options": [
+          "The resurrection of Jesus",
+          "The Eternal Son of God Taking Full Human Nature",
+          "The human appearance of God in the OT",
+          "The birth of Jesus only"
+        ],
+        "correct": 1,
+        "explanation": "The incarnation refers to the act by which the eternal Son of God took on a full human nature in John 1:14: 'The Word was made flesh.'"
+      },
+      {
+        "question": "What is the relationship between 'law' and 'gospel' in Pauline theology?",
+        "options": [
+          "Law and gospel are the same",
+          "The Law reveals sin and leads to Christ; the Gospel announces free grace",
+          "The Law replaces the Gospel in the NT",
+          "The Gospel completely abolishes the Law without remainder"
+        ],
+        "correct": 1,
+        "explanation": "Paul: 'The law is our teacher to bring us to Christ' (Galatians 3:24). The Law accuses, the Gospel liberates."
+      },
+      {
+        "question": "What is the meaning of the 'New Covenant' established by Jesus at the Last Supper?",
+        "options": [
+          "A simple commemorative symbol",
+          "The fulfillment of Jeremiah 31:31-34: forgiveness of sins, law in the hearts, direct access to God through the blood of Christ",
+          "The creation of a new religion separate from Judaism",
+          "A conditional covenant based on our obedience"
+        ],
+        "correct": 1,
+        "explanation": "Jesus said 'This cup is the new covenant in my blood' (Luke 22:20) — fulfilling the promise of Jeremiah 31:31-34."
+      }
+    ],
+    "expert": [
+      {
+        "question": "What Greek term refers to the second coming of Christ in the epistles?",
+        "options": [
+          "Kerygma",
+          "Parousia",
+          "Epiphany",
+          "Theophany"
+        ],
+        "correct": 1,
+        "explanation": "The Greek term 'Parousia' (παρουσία) refers to the second coming of Christ (1 Thessalonians 4:15)."
+      },
+      {
+        "question": "In Revelation 2-3, how many churches does Jesus address?",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "12"
+        ],
+        "correct": 2,
+        "explanation": "Jesus addresses his messages to 7 Churches in Asia Minor (Revelation 2-3)."
+      },
+      {
+        "question": "What Pauline theological term means 'reconciliation by substitution'?",
+        "options": [
+          "Justification",
+          "Propitiation",
+          "Sanctification",
+          "Redemption"
+        ],
+        "correct": 1,
+        "explanation": "'Propitation' (ἱλαστήριον) refers to the act which appeases God's righteous wrath (Romans 3:25)."
+      },
+      {
+        "question": "According to Paul in Ephesians, what is the Church founded on?",
+        "options": [
+          "Christ alone",
+          "Apostles and prophets, with Christ as the cornerstone",
+          "12 apostles",
+          "Faith and works"
+        ],
+        "correct": 1,
+        "explanation": "The Church is founded on the apostles and prophets, with Christ being the cornerstone (Ephesians 2:20)."
+      },
+      {
+        "question": "In John 1, what Greek term is translated 'Word'?",
+        "options": [
+          "Rhema",
+          "Logos",
+          "Pneuma",
+          "Sophie"
+        ],
+        "correct": 1,
+        "explanation": "John uses 'Logos' (λόγος) to refer to Christ (John 1:1)."
+      },
+      {
+        "question": "Which city is cryptically referred to as 'Babylon' in 1 Peter 5:13?",
+        "options": [
+          "Antioch",
+          "Alexandria",
+          "Rome",
+          "Corinth"
+        ],
+        "correct": 2,
+        "explanation": "Historians agree that 'Babylon' in 1 Peter 5:13 refers to Rome."
+      },
+      {
+        "question": "In Hebrews 7, to what priestly order is the priesthood of Christ compared?",
+        "options": [
+          "Order of Aaron",
+          "Order of Melchizedek",
+          "Order of Levi",
+          "Order of Sadoc"
+        ],
+        "correct": 1,
+        "explanation": "Christ is declared 'high priest according to the order of Melchizedek' (Hebrews 7:17)."
+      },
+      {
+        "question": "What is the meaning of the term 'Abba' in Romans 8:15?",
+        "options": [
+          "Lord",
+          "Father (intimate Aramaic term)",
+          "Almighty God",
+          "Saint"
+        ],
+        "correct": 1,
+        "explanation": "'Abba' is the affectionate Aramaic term for 'Father', equivalent to 'Daddy'."
+      },
+      {
+        "question": "In Revelation, what is the number of the 'Beast'?",
+        "options": [
+          "616",
+          "666",
+          "777",
+          "888"
+        ],
+        "correct": 1,
+        "explanation": "The number of the Beast is 666 (Revelation 13:18)."
+      },
+      {
+        "question": "What doctrine affirms that the two natures of Christ coexist without mixture or confusion?",
+        "options": [
+          "Monophysitism",
+          "Arianism",
+          "Chalcedonism",
+          "Nestorianism"
+        ],
+        "correct": 2,
+        "explanation": "The Council of Chalcedon (451) defined the two complete natures of Christ."
+      },
+      {
+        "question": "On which hill did Paul deliver his speech to the Athenians (Acts 17)?",
+        "options": [
+          "The Acropolis",
+          "The Areopagus (Mars Hill)",
+          "Piraeus",
+          "The agora"
+        ],
+        "correct": 1,
+        "explanation": "Paul delivered his speech on the Areopagus in Athens (Acts 17:22)."
+      },
+      {
+        "question": "What NT Greek term describes the gathering of the Christian Church?",
+        "options": [
+          "Synagogue",
+          "Ekklesia",
+          "Koinonia",
+          "Didache"
+        ],
+        "correct": 1,
+        "explanation": "'Ekklesia' (ἐκκλησία) means 'assembly of the called out'."
+      },
+      {
+        "question": "In Pauline theology, what is 'justification by faith' (dikaiôsis)?",
+        "options": [
+          "A process of progressive moralization",
+          "A divine legal act by which the sinner is declared righteous",
+          "The reward for good works",
+          "Conditional forgiveness of sins"
+        ],
+        "correct": 1,
+        "explanation": "For Paul, justification is a legal act (forensic) by which God declares the sinner righteous on the basis of faith in Christ."
+      },
+      {
+        "question": "What central Johannine concept describes the 'dwelling' of Christ in the believer?",
+        "options": [
+          "Koinonia (communion)",
+          "Menein (remain)",
+          "Pistis (faith)",
+          "Agape (love)"
+        ],
+        "correct": 1,
+        "explanation": "The verb 'menein' (μένειν, remain) is central in John 15:4-7 and 1 John 4:16."
+      },
+      {
+        "question": "What hypothetical source designates the material common to Matthew and Luke, absent from Mark?",
+        "options": [
+          "Proto-Matthew",
+          "The source Q (What)",
+          "Peter's logia",
+          "Document M"
+        ],
+        "correct": 1,
+        "explanation": "The 'Q source' (from the German Quelle = source) is a hypothetical source of Jesus' sayings."
+      },
+      {
+        "question": "What is the main issue of the 'synoptic problem' in biblical theology?",
+        "options": [
+          "Why there are 4 gospels and not just one",
+          "How to explain the similarities and differences between Matthew, Mark and Luke",
+          "The authenticity of the gospel of John",
+          "The date of composition of the gospels"
+        ],
+        "correct": 1,
+        "explanation": "The 'synoptic problem' deals with the literary dependence between Matthew, Mark and Luke."
+      },
+      {
+        "question": "What is the theological meaning of the term 'atonement' (hilasmos) in 1 John 2:2?",
+        "options": [
+          "The punishment of sinners",
+          "The act by which Christ satisfies divine justice and appeases the wrath of God for our sins",
+          "Simple unconditional forgiveness",
+          "A liturgical rite"
+        ],
+        "correct": 1,
+        "explanation": "'Hilasmos' means 'propitiation' — the act by which Christ fulfills the requirements of divine holiness (1 John 2:2; 4:10; Romans 3:25)."
+      },
+      {
+        "question": "What is the structure of Jesus' 'Apocalyptic Discourse' in Matthew 24-25?",
+        "options": [
+          "A simple list of chronological signs",
+          "An answer to two questions (destruction of the Temple / sign of the Parousia) with a double prophetic perspective",
+          "A purely eschatological future discourse",
+          "An allegory on the life of the Church"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 24-25 answers the disciples' questions about the destruction of the Temple AND the final Parousia, intertwining the two horizons."
+      },
+      {
+        "question": "What is the meaning of the term 'kenosis' in Pauline Christology (Philippians 2:7)?",
+        "options": [
+          "The glorious resurrection",
+          "The self-emptying of the Son—he renounced the independent exercise of certain divine attributes by incarnating",
+          "Suffering on the cross",
+          "The social humiliation of Jesus"
+        ],
+        "correct": 1,
+        "explanation": "Kenosis (κένωσις): the Son of God 'emptied himself' (ekénôsen) by taking the form of a servant (Philippians 2:7)."
+      },
+      {
+        "question": "What is the difference between 'rhema' and 'logos' in the Greek NT?",
+        "options": [
+          "No difference",
+          "'Logos' means the immutable divine Word (John 1:1); 'rhemah' refers to a specific word spoken (Romans 10:17)",
+          "'Logos' is the NT, 'rhema' is the OT",
+          "'Logos' is the teaching, 'rhema' is the prophecy"
+        ],
+        "correct": 1,
+        "explanation": "'Logos' tends towards the overall divine Word, 'rhema' towards a specific spoken word. Romans 10:17: 'Faith comes by hearing.'"
+      },
+      {
+        "question": "What is the significance of the statement 'Before Abraham was, I Am' (John 8:58)?",
+        "options": [
+          "A simple assertion of preexistence",
+          "A claim to absolute divine identity: the divine name 'I Am' (YHWH, Exodus 3:14) applies to Christ",
+          "A simple sign of spiritual greatness",
+          "An idiomatic Aramaic formulation"
+        ],
+        "correct": 1,
+        "explanation": "John 8:58: 'Ego eimi' refers directly to the divine name YHWH ('I am he who am', Exodus 3:14). The Jews seeking to stone him confirm that they understood the divine claim."
+      },
+      {
+        "question": "What is the meaning of the term 'metanoia' (repentance) in the gospels in relation to simple regret?",
+        "options": [
+          "A passing feeling of remorse",
+          "A radical change in mental, spiritual, and practical orientation—existential turn toward God",
+          "A ritual practice of atonement",
+          "The simple admission of one's faults"
+        ],
+        "correct": 1,
+        "explanation": "'Metanoia' (meta = change + noein = think) designates a radical and total change of existential direction. John the Baptist and Jesus proclaim metanoia as a condition of entry into the Kingdom."
+      },
+      {
+        "question": "What is the meaning of the term 'propitiation' (hilastêrion) in Romans 3:25 and how it relates to the OT?",
+        "options": [
+          "A simple metaphor of forgiveness",
+          "The 'mercy seat' or mercy seat of the Ark — Jesus is its fulfillment in his own person",
+          "A Greek philosophical term unrelated to the OT",
+          "A human penitential rite"
+        ],
+        "correct": 1,
+        "explanation": "Romans 3:25 uses 'hilastêrion' — the same term as the LXX for the 'kapporeth' (cover of the Ark). God publicly presented Christ as THIS place of propitiation."
+      },
+      {
+        "question": "What is the Trinitarian baptismal formula of Matthew 28:19 and its dogmatic significance?",
+        "options": [
+          "Three separate baptisms for each divine person",
+          "A single baptism in a single Trinitarian 'Name' (singular) — testifying to the unity and tripersonality of God",
+          "A liturgical formula without dogmatic significance",
+          "A post-apostolic development"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 28:19: 'in the name' (eis to onoma, singular) of the Father, the Son and the Holy Spirit - the singular 'name' testifies to the divine unity in the threefold personal distinction."
+      },
+      {
+        "question": "What is the significance of the image of the 'Lamb of God' (John 1:29) in sacrificial theology?",
+        "options": [
+          "Only a symbol of gentleness",
+          "Convergence between the Passover lamb (Exodus 12), the Suffering Servant (Isaiah 53:7), daily sacrifices and the Lamb of the Apocalypse",
+          "A title of royal majesty",
+          "A reference to the scapegoat of Leviticus 16"
+        ],
+        "correct": 1,
+        "explanation": "The image of the lamb in John 1:29 is a typological convergence: paschal lamb, Suffering Servant, daily sacrifice, and the Lamb of the Apocalypse."
+      },
+      {
+        "question": "What is the meaning of 'telos' in Matthew 5:48 ('be ye perfect as your heavenly Father is perfect')?",
+        "options": [
+          "Absolute moral perfection impossible",
+          "'Telos' = complete, accomplished, mature — call for maturity and integrity in love",
+          "Synonym of 'holy' (hagios)",
+          "A Platonic ideal of moral excellence"
+        ],
+        "correct": 1,
+        "explanation": "'Teleios' comes from 'telos' (goal, accomplishment) — not flawless perfection, but maturation and accomplished love. The context is about loving your enemies as God loves all."
+      },
+      {
+        "question": "What is the meaning of the baptismal formula 'in the name of the Father, of the Son and of the Holy Spirit' in Trinitarian theology?",
+        "options": [
+          "Three separate baptisms",
+          "A single baptism in a single Trinitarian 'Name' (singular) — testifying to the unity and tripersonality of God",
+          "A liturgical formula without dogmatic significance",
+          "A post-apostolic development absent from the primitive NT"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 28:19: 'in the name' (singular) testifies to the divine unity in the threefold personal distinction. This verse is one of the foundations of the Trinitarian doctrine."
+      },
+      {
+        "question": "What is the cosmic significance of the reconciliation in Colossians 1:20?",
+        "options": [
+          "Only the reconciliation of human beings with God",
+          "The reconciliation of 'all things' — heaven and earth — through the blood of Christ",
+          "The apocatastasis (universal salvation of all beings)",
+          "The pacification of human conflicts only"
+        ],
+        "correct": 1,
+        "explanation": "Colossians 1:20 states that God has purposed to 'reconcile all things to himself through Christ.' Redemption has cosmic significance."
+      },
+      {
+        "question": "What is the meaning of the 'resurrection of the body' as a Christian hope distinct from the Platonic immortality of the soul?",
+        "options": [
+          "They are equivalent concepts",
+          "Resurrection involves the rehabilitation of the whole person, body and soul; Platonic immortality frees the soul from the body",
+          "Resurrection is simply the survival of the soul",
+          "Resurrection is not taught in the NT consistently"
+        ],
+        "correct": 1,
+        "explanation": "Christian resurrection involves the rehabilitation of the whole person. The body is not a prison but a good creation destined for glorious transformation (1 Corinthians 15:35-54)."
+      },
+      {
+        "question": "What is the meaning of 'mystery' (mustêrion) in Paul in Ephesians 3:6?",
+        "options": [
+          "An esoteric secret reserved for initiates",
+          "What was hidden in ages past and now revealed: Gentile joint heirs with Israel in the one Body of Christ",
+          "An incomprehensible dogma",
+          "A secret liturgical rite"
+        ],
+        "correct": 1,
+        "explanation": "'Mustêrion' in Paul designates a progressively accomplished divine revelation: 'the nations are joint heirs, members of the same body' (Ephesians 3:6)."
+      },
+      {
+        "question": "What is the theology of the Holy Spirit developed in John 14-16?",
+        "options": [
+          "Spirit is a divine impersonal force",
+          "The Holy Spirit is the third divine person: Comforter, Spirit of truth, convicter of sin and righteousness",
+          "The Spirit is an intermediary angel",
+          "The Spirit is a metaphor for prophetic inspiration only"
+        ],
+        "correct": 1,
+        "explanation": "John 14-16 reveals the Paraclete as a divine person: he teaches (14:26), testifies (15:26), convicts of sin (16:8), and glorifies Christ (16:14)."
+      },
+      {
+        "question": "What is the meaning of 'double imputation' in Reformed NT soteriology?",
+        "options": [
+          "Two sins attributed to the same individual",
+          "The sin of all imputed to Christ, and the righteousness of Christ imputed to believers",
+          "Justification and sanctification as two separate acts",
+          "Original sin and current sin"
+        ],
+        "correct": 1,
+        "explanation": "Double imputation: (1) the sins of believers are imputed to Christ (2 Corinthians 5:21) and (2) the perfect righteousness of Christ is imputed to believers through faith (Romans 5:17)."
+      },
+      {
+        "question": "What is the meaning of the concept of 'union with Christ' (in Christô) which appears more than 160 times in Paul?",
+        "options": [
+          "A rhetorical metaphor",
+          "The mystical and real union of the believer with the person of the resurrected Christ, foundation of all Christian life",
+          "Membership in the institutional Church",
+          "Conformity to the teachings of Jesus"
+        ],
+        "correct": 1,
+        "explanation": "'In Christô' (160+ occurrences): the mystical, vital and real union of the believer with the resurrected Christ - the basis of justification, sanctification, adoption and glorification."
+      }
+    ]
+  }
+}

@@ -34,3 +34,6 @@ dist-ssr
 Backend-paiement-marchand-app/
 
 base44/.app.jsonc
+
+# Cache de traduction (scripts/translate-content.mjs)
+scripts/.translation-cache.json

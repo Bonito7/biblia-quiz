@@ -1,0 +1,200 @@
+{
+  "periods": [
+    {
+      "id": "creation",
+      "label": "Uumbaji na Mafuriko",
+      "emoji": "🌍",
+      "years": "Kabla ya 2000 KK",
+      "color": "from-emerald-500 to-teal-600",
+      "description": "Ulimwengu wa kale wenye asili ya kibiblia: Edeni, gharika ya Nuhu na mtawanyiko wa mataifa baada ya Babeli.",
+      "maps": [
+        {
+          "title": "Bustani ya Edeni - Mahali pa jadi",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Mapokeo yanaweka Edeni huko Mesopotamia, kwenye makutano ya Tigri na Frati (Mwanzo 2:10-14).",
+          "details": "Mito 4 ya Edeni: Pishoni, Gihoni, Hidekeli (Tiger) na Frati (Eufrate)"
+        },
+        {
+          "title": "Safina ya Nuhu - Mlima Ararati",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "Safina ilitua kwenye Milima ya Ararati katika eneo ambalo sasa ni Türkiye ya mashariki (Mwanzo 8:4).",
+          "details": "Mlima Ararati hufikia urefu wa mita 5,165 kwenye mpaka wa Uturuki na Armenia"
+        },
+        {
+          "title": "Mnara wa Babeli - Uwanda wa Shinari",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "Babeli (Babeli) iko kwenye uwanda wa Shinari huko Mesopotamia (Mwanzo 11:2).",
+          "details": "Wanaakiolojia wamegundua ziggurati kubwa huko Babeli na Uru"
+        }
+      ]
+    },
+    {
+      "id": "patriarches",
+      "label": "Wahenga",
+      "emoji": "🏕️",
+      "years": "2000-1700 KK",
+      "color": "from-amber-500 to-orange-600",
+      "description": "Safari za Ibrahimu, Isaka na Yakobo kupitia Kanaani, Misri na Mesopotamia.",
+      "maps": [
+        {
+          "title": "Safari ya Ibrahimu - Kutoka Uru hadi Kanaani",
+          "image": "https://images.unsplash.com/photo-1605101100278-5d1deb2b6498?w=800&q=80",
+          "caption": "Ibrahimu anaondoka Uru wa Wakaldayo, anapitia Harrani, anashuka hadi Kanaani na Misri (Mwanzo 11-12).",
+          "details": "Safari ya zaidi ya kilomita 2,000 kutoka Mesopotamia hadi Kanaani"
+        },
+        {
+          "title": "Kanaani wakati wa Wahenga",
+          "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?w=800&q=80",
+          "caption": "Mahali patakatifu pa Mababu: Shekemu, Betheli, Hebroni, Beer-sheba - Njia ya Wahenga.",
+          "details": "Ibrahimu, Isaka na Yakobo walijenga madhabahu kwenye urefu wa Kanaani"
+        },
+        {
+          "title": "Misri wakati wa Yusufu",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "Yusufu aliyeuzwa Misri anakuwa gavana. Nchi ya Gosheni inakaribisha familia ya Yakobo (Mwanzo 37-50).",
+          "details": "Delta ya Nile na eneo la Gosheni zilikaliwa na Waebrania"
+        }
+      ]
+    },
+    {
+      "id": "exode",
+      "label": "Kutoka na Jangwa",
+      "emoji": "🌵",
+      "years": "1300-1200 KK",
+      "color": "from-yellow-500 to-amber-600",
+      "description": "Toka kutoka Misri, miaka 40 katika jangwa la Sinai na kufika kwenye malango ya Kanaani.",
+      "maps": [
+        {
+          "title": "Njia ya Kutoka - Kutoka Misri hadi Sinai",
+          "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80",
+          "caption": "Waisraeli wanavuka Bahari ya Shamu na kuingia jangwani kuelekea Mlima Sinai (Kutoka 14-19).",
+          "details": "Njia kadhaa za Kutoka zinapendekezwa: njia ya kaskazini, njia ya kati au ya kusini"
+        },
+        {
+          "title": "Mlima Sinai - Mahali pa Ufunuo",
+          "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
+          "caption": "Sinai (Yebel Musa au Horebu) ni mahali ambapo Musa alipokea Amri Kumi (Kutoka 19-20).",
+          "details": "Peninsula ya Sinai ni mandhari ya miaka 40 ya kutangatanga kwa watu wa Kiebrania"
+        },
+        {
+          "title": "Miaka 40 Jangwani - Hatua",
+          "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80",
+          "caption": "Kutoka Kadesh-Barnea mpaka nchi tambarare za Moabu, hatua za watu: Elimu, Mara, Refidimu, Kadeshi...",
+          "details": "Hesabu 33 inaorodhesha hatua 40 kutoka Misri hadi kuingia Kanaani"
+        }
+      ]
+    },
+    {
+      "id": "conquete",
+      "label": "Ushindi na Waamuzi",
+      "emoji": "⚔️",
+      "years": "Miaka ya 1200–1050 KK",
+      "color": "from-red-500 to-rose-600",
+      "description": "Kuvuka kwa Yordani chini ya Yoshua, mgawanyo wa makabila na kipindi cha Waamuzi.",
+      "maps": [
+        {
+          "title": "Kutekwa kwa Kanaani chini ya Yoshua",
+          "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?w=800&q=80",
+          "caption": "Yoshua aliongoza kampeni 3: katikati (Yeriko, Ai), kusini na kaskazini ili kushinda Kanaani (Yoshua 1-12).",
+          "details": "Kuanguka kwa Yeriko kunafungua kampeni kuu ya kuiteka Kanaani"
+        },
+        {
+          "title": "Usambazaji wa Makabila 12 ya Israeli",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Kila moja ya makabila 12 hupokea eneo lake. Lawi hapati eneo bali miji ya makimbilio (Yoshua 13-21).",
+          "details": "Kabila la Reubeni, Gadi na nusu ya kabila la Manase wanakaa mashariki mwa Yordani"
+        },
+        {
+          "title": "Kipindi cha Waamuzi - Vitisho vya Nje",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "Maadui wa Israeli chini ya Waamuzi: Wafilisti (pwani ya magharibi), Wamoabu (mashariki), Wamidiani (kusini), Wakanaani (kaskazini).",
+          "details": "Mzunguko wa Waamuzi: kutotii → uonevu → toba → ukombozi → amani"
+        }
+      ]
+    },
+    {
+      "id": "royaume",
+      "label": "Uingereza & Imegawanywa",
+      "emoji": "👑",
+      "years": "1050–722 KK",
+      "color": "from-blue-500 to-indigo-600",
+      "description": "Utawala wa Sauli, Daudi na Sulemani, kisha mgawanyiko katika falme za Israeli na Yuda.",
+      "maps": [
+        {
+          "title": "Uingereza chini ya David na Solomon",
+          "image": "https://images.unsplash.com/photo-1560713781-d8f7a1ece0f3?w=800&q=80",
+          "caption": "Daudi alishinda Yerusalemu na kupanua ufalme kutoka Misri hadi Frati. Sulemani anajenga Hekalu (1 Wafalme 4-8).",
+          "details": "Yerusalemu, lililotekwa kutoka kwa Wayebusi, linakuwa jiji kuu la kisiasa na kidini"
+        },
+        {
+          "title": "Yerusalemu - Mji wa Daudi",
+          "image": "https://images.unsplash.com/photo-1548710428-8f6b8e617ec0?w=800&q=80",
+          "caption": "Daudi alianzisha makao yake makuu huko Yerusalemu (Sayuni) na kuleta Sanduku la Agano huko (2 Samweli 5-6).",
+          "details": "Mlima Moria ni mwenyeji wa Hekalu la Sulemani, lililojengwa kwa miaka 7 (966-959 KK)."
+        },
+        {
+          "title": "Mgawanyiko wa Ufalme—Israeli na Yuda",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Baada ya Sulemani: Kaskazini (Israeli, makabila 10, mji mkuu Samaria) na Kusini (Yuda, makabila 2, mji mkuu Yerusalemu) (1 Wafalme 12).",
+          "details": "Ufalme wa Kaskazini utadumu miaka 200 (931-722 KK), Ufalme wa Yuda miaka 340 (931-586 KK)"
+        }
+      ]
+    },
+    {
+      "id": "exil",
+      "label": "Kuhamishwa na Kurudi",
+      "emoji": "🏛️",
+      "years": "722–400 KK",
+      "color": "from-purple-500 to-violet-600",
+      "description": "Kuanguka kwa Samaria (722), kuharibiwa kwa Yerusalemu (586), uhamisho wa Babeli na kurudi chini ya Koreshi.",
+      "maps": [
+        {
+          "title": "Uhamisho wa Ashuru - 722 KK",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "Sargon II wa Ashuru anafukuza makabila 10 ya kaskazini hadi Mesopotamia (2 Wafalme 17). Wasamaria watahusika.",
+          "details": "Watu wa kigeni walikaa Samaria, na kuunda mchanganyiko wa Wasamaria"
+        },
+        {
+          "title": "Ufalme wa Babeli na Uhamisho wa Yuda",
+          "image": "https://images.unsplash.com/photo-1605101100278-5d1deb2b6498?w=800&q=80",
+          "caption": "Nebukadneza aharibu Yerusalemu (586) na kuwafukuza watu wa juu wa Yuda hadi Babeli. Danieli na Ezekieli walitabiri hapo.",
+          "details": "Uhamisho 3 mfululizo: 605, 597 na 586 BC. J.C. Jeremiah anabaki Yudea"
+        },
+        {
+          "title": "Kurudi kutoka Uhamisho - Amri ya Koreshi",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "Mwaka 538 KK. KK, Koreshi Mkuu anaruhusu Wayahudi kurudi na kujenga upya Hekalu (Ezra 1).",
+          "details": "Zerubabeli anaongoza kurudi kwa 1 (538), Ezra wa 2 (458), Nehemia wa 3 (445 KK)"
+        }
+      ]
+    },
+    {
+      "id": "nt",
+      "label": "Nyakati za Agano Jipya",
+      "emoji": "✝️",
+      "years": "4 KK - 100 AD",
+      "color": "from-cyan-500 to-sky-600",
+      "description": "Palestina wakati wa Yesu, safari za kimisionari za Paulo na kuenea kwa Injili.",
+      "maps": [
+        {
+          "title": "Palestina wakati wa Yesu",
+          "image": "https://images.unsplash.com/photo-1548710428-8f6b8e617ec0?w=800&q=80",
+          "caption": "Palestina imegawanywa katika Galilaya, Samaria na Yudea. Yesu alizaliwa Bethlehemu, akakulia Nazareti, akahubiri Galilaya.",
+          "details": "Ziwa Tiberia (Bahari ya Galilaya) ni kitovu cha huduma ya Yesu huko Galilaya"
+        },
+        {
+          "title": "Safari za Umishonari za Paulo",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Paulo alimaliza safari 3 za kimisionari kutoka Antiokia, akihubiri Uturuki, Ugiriki na kufika Roma.",
+          "details": "Safari ya 1 (Matendo 13-14): Kupro na Asia Ndogo. 2: Makedonia na Ugiriki. 3: Efeso"
+        },
+        {
+          "title": "Ufalme wa Kirumi na Kuenea kwa Injili",
+          "image": "https://images.unsplash.com/photo-1560713781-d8f7a1ece0f3?w=800&q=80",
+          "caption": "Pax Romana, barabara za Kirumi na lugha ya kawaida ya Kigiriki iliwezesha kuenea kwa Injili.",
+          "details": "Katika muda usiozidi miaka 300, Ukristo ulienea kutoka Yerusalemu hadi miisho ya Milki"
+        }
+      ]
+    }
+  ]
+}

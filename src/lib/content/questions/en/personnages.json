@@ -1,0 +1,1726 @@
+{
+  "personnages": {
+    "debutant": [
+      {
+        "question": "Who killed the giant Goliath?",
+        "options": [
+          "Saul",
+          "Jonathan",
+          "David",
+          "Samson"
+        ],
+        "correct": 2,
+        "explanation": "Young David killed Goliath with a sling and a stone (1 Samuel 17)."
+      },
+      {
+        "question": "Which prophet was taken up to heaven in a chariot of fire?",
+        "options": [
+          "Elijah",
+          "Elisha",
+          "Isaiah",
+          "Ezekiel"
+        ],
+        "correct": 0,
+        "explanation": "Elijah was taken up to heaven in a chariot of fire (2 Kings 2:11)."
+      },
+      {
+        "question": "Who was thrown into the lions' den?",
+        "options": [
+          "Jeremiah",
+          "Daniel",
+          "Ezekiel",
+          "Hosea"
+        ],
+        "correct": 1,
+        "explanation": "Daniel was thrown into the lions' den but God protected him (Daniel 6)."
+      },
+      {
+        "question": "Which king was known for his great wisdom?",
+        "options": [
+          "David",
+          "Solomon",
+          "Hezekiah",
+          "Josiah"
+        ],
+        "correct": 1,
+        "explanation": "King Solomon was renowned for his extraordinary wisdom (1 Kings 3:12)."
+      },
+      {
+        "question": "Who betrayed Jesus for 30 pieces of silver?",
+        "options": [
+          "Rock",
+          "Thomas",
+          "Judas Iscariot",
+          "Matthew"
+        ],
+        "correct": 2,
+        "explanation": "Judas Iscariot betrayed Jesus for 30 pieces of silver (Matthew 26:15)."
+      },
+      {
+        "question": "Which woman found Jesus' tomb empty first?",
+        "options": [
+          "Mary, mother of Jesus",
+          "Mary Magdalene",
+          "Martha",
+          "Salome"
+        ],
+        "correct": 1,
+        "explanation": "Mary Magdalene was the first to discover the empty tomb (John 20:1)."
+      },
+      {
+        "question": "Who was Moses' brother?",
+        "options": [
+          "Aaron",
+          "Joshua",
+          "Caleb",
+          "Eleazar"
+        ],
+        "correct": 0,
+        "explanation": "Aaron was Moses' older brother (Exodus 7:7)."
+      },
+      {
+        "question": "Which biblical character lived the longest?",
+        "options": [
+          "Adam",
+          "Noah",
+          "Methuselah",
+          "Enoch"
+        ],
+        "correct": 2,
+        "explanation": "Methuselah lived 969 years, the longest in the Bible (Genesis 5:27)."
+      },
+      {
+        "question": "Which apostle is nicknamed 'the unbeliever'?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "Thomas",
+          "Andrew"
+        ],
+        "correct": 2,
+        "explanation": "Thomas doubted Jesus' resurrection until he saw it (John 20:24-29)."
+      },
+      {
+        "question": "Which Jewish woman became queen of Persia and saved her people?",
+        "options": [
+          "Deborah",
+          "Ruth",
+          "Esther",
+          "Judith"
+        ],
+        "correct": 2,
+        "explanation": "Esther was a Jewish woman who became queen of Persia and saved her people."
+      },
+      {
+        "question": "Who was Jesus' earthly father?",
+        "options": [
+          "Joachim",
+          "Joseph",
+          "Zechariah",
+          "Simeon"
+        ],
+        "correct": 1,
+        "explanation": "Joseph was the adoptive (earthly) father of Jesus (Matthew 1:16)."
+      },
+      {
+        "question": "Which beloved disciple of Jesus wrote the Gospel that bears his name?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "Matthew",
+          "Luke"
+        ],
+        "correct": 1,
+        "explanation": "The Apostle John, the beloved disciple, wrote the Gospel of John."
+      },
+      {
+        "question": "Who was Ruth's mother-in-law?",
+        "options": [
+          "Orpa",
+          "Deborah",
+          "Naomi",
+          "Hannah"
+        ],
+        "correct": 2,
+        "explanation": "Naomi was Ruth's mother-in-law (Ruth 1)."
+      },
+      {
+        "question": "Which prophet announced the coming of John the Baptist?",
+        "options": [
+          "Jeremiah",
+          "Ezekiel",
+          "Isaiah",
+          "Micah"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah prophesied 'A voice cries in the wilderness: Prepare the way of the Lord' (Isaiah 40:3)."
+      },
+      {
+        "question": "Who was the first king of Israel?",
+        "options": [
+          "David",
+          "Saul",
+          "Samuel",
+          "Joshua"
+        ],
+        "correct": 1,
+        "explanation": "Saul was the first king of Israel, anointed by Samuel (1 Samuel 10:1)."
+      },
+      {
+        "question": "Which child was rescued from the waters of the Nile in a basket?",
+        "options": [
+          "Aaron",
+          "Joshua",
+          "Moses",
+          "Samuel"
+        ],
+        "correct": 2,
+        "explanation": "Moses was hidden in a wicker basket on the Nile to escape Pharaoh's decree (Exodus 2:3)."
+      },
+      {
+        "question": "Who said the phrase 'I and my house will serve the Lord'?",
+        "options": [
+          "Moses",
+          "Joshua",
+          "David",
+          "Elijah"
+        ],
+        "correct": 1,
+        "explanation": "Joshua declared 'I and my house will serve the LORD' (Joshua 24:15)."
+      },
+      {
+        "question": "Which NT character resurrected Dorcas (Tabitha) in Jaffa?",
+        "options": [
+          "Paul",
+          "Barnabas",
+          "Rock",
+          "Jeans"
+        ],
+        "correct": 2,
+        "explanation": "Peter resurrected Dorcas in Jaffa (Acts 9:40)."
+      },
+      {
+        "question": "Which son of Jacob was sold by his brothers?",
+        "options": [
+          "Ruben",
+          "Judah",
+          "Benjamin",
+          "Joseph"
+        ],
+        "correct": 3,
+        "explanation": "Joseph was sold by his brothers to Ishmaelite merchants (Genesis 37:28)."
+      },
+      {
+        "question": "Who was the father of John the Baptist?",
+        "options": [
+          "Zebedee",
+          "Zechariah",
+          "Alphée",
+          "Clopas"
+        ],
+        "correct": 1,
+        "explanation": "John the Baptist was the son of the priest Zechariah and Elizabeth (Luke 1:5-13)."
+      },
+      {
+        "question": "Who was Nicodemus in the New Testament?",
+        "options": [
+          "A Roman centurion",
+          "A Pharisee leader",
+          "A scribe",
+          "A Samaritan"
+        ],
+        "correct": 1,
+        "explanation": "Nicodemus was a Pharisee leader who came to Jesus at night (John 3:1-2)."
+      },
+      {
+        "question": "What was Zacchaeus' real job before his conversion?",
+        "options": [
+          "Fisherman",
+          "Chief Tax Collector",
+          "Shepherd",
+          "Purple Merchant"
+        ],
+        "correct": 1,
+        "explanation": "Zacchaeus was the chief tax collector in Jericho and he was rich (Luke 19:2)."
+      },
+      {
+        "question": "Which woman anointed Jesus' feet with perfume at Simon the Pharisee's house?",
+        "options": [
+          "Mary of Bethany",
+          "Mary Magdalene",
+          "Martha",
+          "A sinful woman (Luke 7)"
+        ],
+        "correct": 3,
+        "explanation": "Luke 7 relates that a sinful woman (unnamed) washed Jesus' feet with her tears and anointed them with perfume at the home of Simon the Pharisee."
+      },
+      {
+        "question": "Who was Hannah in the New Testament?",
+        "options": [
+          "Samuel's mother",
+          "A prophetess who recognized Jesus as a child in the Temple",
+          "Peter's wife",
+          "The mother of Jean-Baptiste"
+        ],
+        "correct": 1,
+        "explanation": "Hannah was an elderly prophetess who recognized the baby Jesus as the Messiah at the Temple and gave thanks to God (Luke 2:36-38)."
+      },
+      {
+        "question": "Which apostle was Peter's brother?",
+        "options": [
+          "Jeans",
+          "Jacques",
+          "Andrew",
+          "Philip"
+        ],
+        "correct": 2,
+        "explanation": "André was the brother of Pierre (Simon). Both were fishermen on Lake Galilee (Matthew 4:18)."
+      },
+      {
+        "question": "Which woman in the book of Judges killed the enemy general Sisera with a stake?",
+        "options": [
+          "Deborah",
+          "Miriam",
+          "Yael",
+          "Abigail"
+        ],
+        "correct": 2,
+        "explanation": "Jael, wife of Heber the Kenite, killed General Sisera by driving a stake through his temple while he slept (Judges 4:21)."
+      },
+      {
+        "question": "Who was Simeon in the Gospel of Luke?",
+        "options": [
+          "An apostle of Jesus",
+          "A righteous old man who waited for the consolation of Israel and blessed the child Jesus in the Temple",
+          "The father of John the Baptist",
+          "A priest of the Temple"
+        ],
+        "correct": 1,
+        "explanation": "Simeon was a righteous and godly man, led by the Spirit in the Temple, who recognized the child Jesus as 'the light to enlighten the nations' (Luke 2:25-32)."
+      },
+      {
+        "question": "Who was Barnabas in the book of Acts?",
+        "options": [
+          "Paul's secretary",
+          "A Levite from Cyprus, companion of Paul in his missions",
+          "A leader of the Church of Rome",
+          "One of the original 12 apostles"
+        ],
+        "correct": 1,
+        "explanation": "Barnabas (Joseph of Cyprus) was a generous Levite, Paul's first defender in Jerusalem and his companion on the first missionary journey (Acts 4:36; 9:27; 13:2)."
+      },
+      {
+        "question": "Which NT character was blinded on the road to Damascus?",
+        "options": [
+          "Etienne",
+          "Ananias",
+          "Saul (Paul)",
+          "Silas"
+        ],
+        "correct": 2,
+        "explanation": "Saul (future Paul) was struck blind by a light from heaven on the road to Damascus during his encounter with the Resurrected One (Acts 9:3-9)."
+      },
+      {
+        "question": "Who was Lydia in the Acts of the Apostles?",
+        "options": [
+          "A prophetess from Jerusalem",
+          "A purple merchant converted in Philippi, the first Christian in Europe",
+          "The wife of a Roman governor",
+          "A former slave freed by Paul"
+        ],
+        "correct": 1,
+        "explanation": "Lydia, a purple merchant from Thyatira, is considered the first convert in Europe — baptized with her family after hearing Paul in Philippi (Acts 16:14-15)."
+      },
+      {
+        "question": "Which OT character is referred to as 'he walked with God, and then he was no more, because God took him'?",
+        "options": [
+          "Noah",
+          "Abraham",
+          "Enoch",
+          "Elijah"
+        ],
+        "correct": 2,
+        "explanation": "Enoch 'walked with God, and was no more, because God took him'—taken away without dying (Genesis 5:24)."
+      },
+      {
+        "question": "What was the relationship between Elisha and Elijah?",
+        "options": [
+          "Father and son",
+          "Master and disciple/successor",
+          "Brothers",
+          "Political friends"
+        ],
+        "correct": 1,
+        "explanation": "Elijah was the master and Elisha his disciple. When Elijah was taken away, Elisha received a double portion of his spirit and became his prophetic successor (2 Kings 2:9-15)."
+      },
+      {
+        "question": "Who was Gamaliel in the New Testament?",
+        "options": [
+          "A high priest",
+          "An eminent doctor of the Law, teacher of Paul, who defended the apostles in the Sanhedrin",
+          "A Roman judge",
+          "A traveling companion of Paul"
+        ],
+        "correct": 1,
+        "explanation": "Gamaliel was a prominent Pharisaic doctor of the Sanhedrin who advised caution when dealing with the apostles (Acts 5:34-39). Paul calls himself his former student (Acts 22:3)."
+      },
+      {
+        "question": "Which NT character, blind since birth, was healed by Jesus and became a courageous witness?",
+        "options": [
+          "Bartimaeus",
+          "The man born blind in John 9",
+          "The man from Jericho",
+          "Lazarus"
+        ],
+        "correct": 1,
+        "explanation": "John 9 describes the healing of the man born blind — a sign of Christ 'light of the world'. Despite pressure from the Pharisees, he courageously confesses Jesus as coming from God."
+      },
+      {
+        "question": "Who was Phoebe (Phoebe) in the NT?",
+        "options": [
+          "The daughter of Philip the Evangelist",
+          "A deaconess from the Cenchreae Church, recommended by Paul in Romans 16",
+          "Aquila's wife",
+          "Timothy's mother"
+        ],
+        "correct": 1,
+        "explanation": "Phebe is introduced by Paul in Romans 16:1-2 as 'diakonos' (deaconess/servant) of the Church of Cenchreae and 'prostatis' (benefactress/patroness) of many — probably the messenger carrying the epistle to the Romans."
+      },
+      {
+        "question": "Who was Timothy in Paul's epistles?",
+        "options": [
+          "A Christian Roman governor",
+          "Paul's spiritual son, his trusted representative and co-author of several epistles",
+          "A companion of Pierre",
+          "One of the 12 apostles"
+        ],
+        "correct": 1,
+        "explanation": "Timothy was Paul's young co-worker, whom he calls 'my beloved and faithful child in the Lord' (1 Corinthians 4:17). Son of a believing Jewish mother (Eunice) and a Greek father (2 Timothy 1:5)."
+      },
+      {
+        "question": "Which OT character was named 'Kedorlaomer' defeated by Abraham?",
+        "options": [
+          "A Canaanite king",
+          "A king of Elam who had captured Lot",
+          "A Philistine king",
+          "A Babylonian king"
+        ],
+        "correct": 1,
+        "explanation": "Chedorlaomer, king of Elam, had captured Lot during the War of the Kings. Abraham, with 318 servants, defeated him and freed Lot (Genesis 14:1-16)."
+      },
+      {
+        "question": "Who was Priscilla (Prisca) in the New Testament?",
+        "options": [
+          "A prophetess of the Church of Jerusalem",
+          "The wife of Aquila, collaborator of Paul and instructor of Apollos",
+          "Paul's sister",
+          "The wife of an elder of the Church of Ephesus"
+        ],
+        "correct": 1,
+        "explanation": "Priscilla and her husband Aquila were tentmakers and co-workers with Paul (Acts 18:2-3). Together they taught the eloquent Apollos (Acts 18:26). Priscilla is often mentioned first — a sign of her preeminent role."
+      },
+      {
+        "question": "Which NT character was taken to the third heaven in a vision according to 2 Corinthians 12?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "Paul",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Paul recounts in 2 Corinthians 12:2-4 that he was caught up to the third heaven and heard ineffable words—a unique mystical experience that also gave him 'a thorn in the flesh'."
+      },
+      {
+        "question": "Who was Jonathan in the First Book of Samuel?",
+        "options": [
+          "David's son",
+          "Saul's son and David's loyal friend",
+          "An army general",
+          "A priest of God"
+        ],
+        "correct": 1,
+        "explanation": "Jonathan, son of King Saul, was David's best friend. Their love is described as 'surpassing the love of women' (2 Samuel 1:26). Jonathan protected David from his father's murderous jealousy."
+      },
+      {
+        "question": "Which character in the book of Ruth is the 'near kinsman redeemer' (go'el) who marries Ruth?",
+        "options": [
+          "Elimelech",
+          "Mahlon",
+          "Boaz",
+          "Orpa's husband"
+        ],
+        "correct": 2,
+        "explanation": "Boaz is the 'go'el' (גֹּאֵל, redeemer/defender of family) who, out of generosity and faithfulness to the custom of levirate, marries Ruth to perpetuate her deceased husband's name and protect Naomi (Ruth 4:9-10)."
+      },
+      {
+        "question": "Who was Abigail in the Old Testament?",
+        "options": [
+          "David's wife",
+          "Nabal's wise wife who stopped David from shedding blood",
+          "The Queen of Solomon",
+          "A prophetess of Israel"
+        ],
+        "correct": 1,
+        "explanation": "Abigail, an intelligent woman married to the brutal Nabal, wisely appeased David's anger. After Nabal died, David married her (1 Samuel 25)."
+      },
+      {
+        "question": "Which character is called 'the friend of God' (Khalil Allah) in the biblical tradition?",
+        "options": [
+          "Noah",
+          "Abraham",
+          "Isaac",
+          "David"
+        ],
+        "correct": 1,
+        "explanation": "Abraham is called 'friend of God' in Isaiah 41:8, James 2:23 and in Islamic tradition (Khalil Allah). He is the model of faith in God."
+      },
+      {
+        "question": "Who was Aquila in the Acts of the Apostles?",
+        "options": [
+          "A leader of the synagogues of Corinth",
+          "A Jew from Pontus, tent maker, husband of Priscilla and companion of Paul",
+          "A disciple of John the Baptist",
+          "An elder of the Church of Antioch"
+        ],
+        "correct": 1,
+        "explanation": "Aquilas was a Jew from Pontus (region of Türkiye), expelled from Rome with his wife Priscilla by the edict of Claudius. Paul met them in Corinth and worked with them as a tent maker (Acts 18:1-3)."
+      },
+      {
+        "question": "Which character in the book of Daniel had a vision of the four beasts and the Son of Man?",
+        "options": [
+          "Ezekiel",
+          "Daniel",
+          "Zechariah",
+          "Nebuchadnezzar"
+        ],
+        "correct": 1,
+        "explanation": "Daniel himself had a vision of the four great beasts symbolizing four kingdoms and the 'Son of Man' receiving eternal rule from the Ancient of Days (Daniel 7)."
+      },
+      {
+        "question": "Who was Stephen in the Acts of the Apostles?",
+        "options": [
+          "One of the 12 apostles",
+          "One of the 7 deacons, man filled with faith and the Spirit, first Christian martyr",
+          "A scribe of Paul",
+          "A companion of Barnabas"
+        ],
+        "correct": 1,
+        "explanation": "Stephen was one of the 7 deacons elected in Jerusalem (Acts 6:5). A man 'full of faith and the Holy Spirit', he was stoned to death after a masterful speech before the Sanhedrin — the Church's first martyr (Acts 7:59)."
+      },
+      {
+        "question": "Which king of Israel was judged for not waiting for Samuel before offering the sacrifice?",
+        "options": [
+          "David",
+          "Saul",
+          "Solomon",
+          "Jeroboam"
+        ],
+        "correct": 1,
+        "explanation": "Saul offered the sacrifice himself without waiting for Samuel, which earned him God's rejection: 'You have not kept what the Lord your God commanded you' (1 Samuel 13:13-14)."
+      },
+      {
+        "question": "Which NT character proclaimed: 'Behold the Lamb of God, who takes away the sin of the world'?",
+        "options": [
+          "Jesus himself",
+          "Rock",
+          "Jean-Baptiste",
+          "John the Apostle"
+        ],
+        "correct": 2,
+        "explanation": "John the Baptist pointed to Jesus by saying 'Behold the Lamb of God, who takes away the sin of the world' (John 1:29) — one of the most important Christological statements in the NT."
+      },
+      {
+        "question": "Who was Herodias in the story of the death of John the Baptist?",
+        "options": [
+          "King Herod's daughter",
+          "The adulterous wife of Herod Antipas who demanded the head of John the Baptist",
+          "The palace housekeeper",
+          "The Prophetess of the Temple"
+        ],
+        "correct": 1,
+        "explanation": "Herodias was the illegitimate wife of Herod Antipas (married in violation of Jewish law, John the Baptist having denounced him). She manipulated her daughter Salome into demanding John's beheading (Mark 6:17-28)."
+      },
+      {
+        "question": "Which OT character is associated with the construction of the Tower of Babel according to Jewish tradition?",
+        "options": [
+          "Cain",
+          "Nimrod",
+          "Laban",
+          "Terah"
+        ],
+        "correct": 1,
+        "explanation": "According to Jewish tradition, Nimrod, 'mighty hunter before the Lord', is associated with the construction of the Tower of Babel (Genesis 10:8-10)."
+      },
+      {
+        "question": "Which disciple of Jesus financially supported his ministry and was a tax collector in Capernaum?",
+        "options": [
+          "Jeans",
+          "Levi (Matthew)",
+          "Zacchaeus",
+          "Simon the Zealot"
+        ],
+        "correct": 1,
+        "explanation": "Levi (Matthew) was a tax collector in Capernaum. Jesus called to him, 'Follow me,' and Levi got up and followed him. He then threw a great feast for his friends in honor of Jesus (Luke 5:27-29)."
+      },
+      {
+        "question": "Who was Rahab in the book of Joshua?",
+        "options": [
+          "A prophetess of Israel",
+          "A Jericho prostitute who hid spies and was saved with her family",
+          "Joshua's wife",
+          "The King of Jericho's Daughter"
+        ],
+        "correct": 1,
+        "explanation": "Rahab, the wife of Jericho, hid Joshua's spies and caused them to flee with a scarlet rope (Joshua 2). It is mentioned in the genealogy of Jesus (Matthew 1:5) and cited as an example of faith (Hebrews 11:31)."
+      },
+      {
+        "question": "Which NT character was nicknamed 'son of thunder' with his brother?",
+        "options": [
+          "Pierre and Andrew",
+          "James and John sons of Zebedee",
+          "Philip and Bartholomew",
+          "Thomas and Matthew"
+        ],
+        "correct": 1,
+        "explanation": "Jesus nicknamed Zebedee's sons — James and John — 'Boanerges', that is, 'sons of thunder' (Mark 3:17), no doubt because of their fiery temperament (cf. Luke 9:54)."
+      },
+      {
+        "question": "Who was Titus in Paul's epistles?",
+        "options": [
+          "Pierre's secretary",
+          "A Greek companion of Paul, trusted representative sent to Crete and Corinth",
+          "One of the 12 apostles",
+          "Paul's son-in-law"
+        ],
+        "correct": 1,
+        "explanation": "Titus was a Greek co-worker with Paul—a sign of openness to the Gentiles (Galatians 2:3). Paul sent him a pastoral letter (epistle to Titus) to organize the Churches of Crete."
+      },
+      {
+        "question": "Who was Salome in the Gospels?",
+        "options": [
+          "Herodias' daughter who danced for Herod",
+          "A disciple of Jesus present at the crucifixion and tomb",
+          "Both (two different characters)",
+          "A prophetess from Jerusalem"
+        ],
+        "correct": 2,
+        "explanation": "There are two Salomes in the NT: (1) the daughter of Herodias who danced and asked for John's head (Mark 6:22); (2) Jesus' disciple (probably Zebedee's wife and mother of James and John) present at the crucifixion and empty tomb (Mark 15:40; 16:1)."
+      },
+      {
+        "question": "Which OT character is described as 'a man after God's own heart' despite his sins?",
+        "options": [
+          "Abraham",
+          "Moses",
+          "David",
+          "Solomon"
+        ],
+        "correct": 2,
+        "explanation": "David is called 'a man after God's own heart' (1 Samuel 13:14; Acts 13:22)—not because he was perfect (the Bathsheba affair shows this), but because of his faith, his sincere repentance, and his ardent love for God (Psalm 51)."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "Which king of Israel is described as 'a man after God's own heart'?",
+        "options": [
+          "Joshua",
+          "Saul",
+          "David",
+          "Solomon"
+        ],
+        "correct": 2,
+        "explanation": "David is described as 'a man after God's own heart' (1 Samuel 13:14, Acts 13:22)."
+      },
+      {
+        "question": "Which female judge of Israel led Barak to victory against Sisera?",
+        "options": [
+          "Miriam",
+          "Deborah",
+          "Hannah",
+          "Abigail"
+        ],
+        "correct": 1,
+        "explanation": "Deborah, prophetess and judge, led Israel to victory (Judges 4-5)."
+      },
+      {
+        "question": "Which character interpreted the mysterious writing 'Mené, led, tekel, upharsin'?",
+        "options": [
+          "Ezra",
+          "Daniel",
+          "Ezekiel",
+          "Zechariah"
+        ],
+        "correct": 1,
+        "explanation": "Daniel interpreted the writing on the wall at Belshazzar's feast (Daniel 5)."
+      },
+      {
+        "question": "What was Ruth's nationality?",
+        "options": [
+          "Ammonite",
+          "Moabite",
+          "Edomite",
+          "Philistine"
+        ],
+        "correct": 1,
+        "explanation": "Ruth was a Moabite, coming from Moab with her mother-in-law Naomi (Ruth 1:4)."
+      },
+      {
+        "question": "Which character resurrected Dorcas (Tabitha) in Jaffa?",
+        "options": [
+          "Paul",
+          "Barnabas",
+          "Rock",
+          "Jeans"
+        ],
+        "correct": 2,
+        "explanation": "Peter resurrected Dorcas in Jaffa (Acts 9:40)."
+      },
+      {
+        "question": "Which king of Israel wrote Proverbs and Ecclesiastes?",
+        "options": [
+          "David",
+          "Solomon",
+          "Hezekiah",
+          "Josiah"
+        ],
+        "correct": 1,
+        "explanation": "Solomon is the primary author of Proverbs and Ecclesiastes."
+      },
+      {
+        "question": "Who accompanied Paul on his first missionary journey?",
+        "options": [
+          "Silas",
+          "Timothy",
+          "Barnabas",
+          "Luke"
+        ],
+        "correct": 2,
+        "explanation": "Barnabas and John Mark accompanied Paul on the first missionary journey (Acts 13:2)."
+      },
+      {
+        "question": "Which prophet lived in the belly of a fish for 3 days?",
+        "options": [
+          "Elijah",
+          "Elisha",
+          "Jonah",
+          "Nahum"
+        ],
+        "correct": 2,
+        "explanation": "Jonah spent 3 days in the belly of the great fish (Jonah 1:17)."
+      },
+      {
+        "question": "Which apostle was the first to be martyred among the Twelve?",
+        "options": [
+          "Etienne",
+          "James son of Zebedee",
+          "Rock",
+          "Andrew"
+        ],
+        "correct": 1,
+        "explanation": "James, son of Zebedee, was the first of the apostles to be martyred (Acts 12:2)."
+      },
+      {
+        "question": "Which foreign queen visited Solomon to test his wisdom?",
+        "options": [
+          "The Queen of Egypt",
+          "The Queen of Sheba",
+          "The Queen of Tire",
+          "Jezebel"
+        ],
+        "correct": 1,
+        "explanation": "The Queen of Sheba visited Solomon to test his wisdom with riddles (1 Kings 10)."
+      },
+      {
+        "question": "Who blessed Abraham after the battle of the kings?",
+        "options": [
+          "Sem",
+          "Melchizedek",
+          "Abimelech",
+          "Batch"
+        ],
+        "correct": 1,
+        "explanation": "Melchizedek, king of Salem and priest of the Most High God, blessed Abraham (Genesis 14:18-20)."
+      },
+      {
+        "question": "Which woman hid the spies sent by Joshua to Jericho?",
+        "options": [
+          "Deborah",
+          "Abigail",
+          "Rahab",
+          "Tamar"
+        ],
+        "correct": 2,
+        "explanation": "Rahab, a prostitute from Jericho, hid Joshua's spies (Joshua 2)."
+      },
+      {
+        "question": "Who is called 'the father of believers' in biblical theology?",
+        "options": [
+          "Noah",
+          "Abraham",
+          "Isaac",
+          "Jacob"
+        ],
+        "correct": 1,
+        "explanation": "Abraham is called 'father of those who believe' in Romans 4:11."
+      },
+      {
+        "question": "Which judge in Israel made the reckless vow that led to his daughter's death?",
+        "options": [
+          "Gideon",
+          "Samson",
+          "Jephthah",
+          "Ehud"
+        ],
+        "correct": 2,
+        "explanation": "Jephthah made a rash vow and his daughter was the victim (Judges 11:30-40)."
+      },
+      {
+        "question": "Who was Priscilla in the New Testament?",
+        "options": [
+          "A prophetess from Jerusalem",
+          "The wife of Aquilas, collaborator of Paul",
+          "The daughter of Philip the Evangelist",
+          "Lazarus' sister"
+        ],
+        "correct": 1,
+        "explanation": "Priscilla (or Prisca) was the wife of Aquila, a craftsman and collaborator of Paul, who instructed Apollos (Acts 18:26)."
+      },
+      {
+        "question": "Which patriarch sold his birthright for a dish of lentils?",
+        "options": [
+          "Jacob",
+          "Esau",
+          "Isaac",
+          "Joseph"
+        ],
+        "correct": 1,
+        "explanation": "Esau sold his birthright to his brother Jacob for a dish of lentils (Genesis 25:33)."
+      },
+      {
+        "question": "Which woman sang a victory song after crossing the Red Sea?",
+        "options": [
+          "Sarah",
+          "Ruth",
+          "Miriam",
+          "Deborah"
+        ],
+        "correct": 2,
+        "explanation": "Miriam, Moses' sister, sang a victory song with tambourine (Exodus 15:20-21)."
+      },
+      {
+        "question": "Which apostle wrote three epistles and the Apocalypse according to tradition?",
+        "options": [
+          "Rock",
+          "Paul",
+          "Jeans",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Tradition attributes the three epistles (1, 2, 3 John) and the Apocalypse to John."
+      },
+      {
+        "question": "Who was the spokesperson for Israel that God chose in Aaron to help Moses?",
+        "options": [
+          "Joshua",
+          "Aaron",
+          "Caleb",
+          "Eleazar"
+        ],
+        "correct": 1,
+        "explanation": "God appointed Aaron, Moses' brother and good orator, to be his spokesman before Pharaoh (Exodus 4:14-16)."
+      },
+      {
+        "question": "Which NT woman cared for the sick and poor in Jaffa, known for her charitable works?",
+        "options": [
+          "Lydia",
+          "Priscilla",
+          "Dorcas (Tabitha)",
+          "Phoebe"
+        ],
+        "correct": 2,
+        "explanation": "Dorcas (Tabitha) was known for her charitable works—she made clothing for widows (Acts 9:36). Peter resurrected her."
+      },
+      {
+        "question": "Which prophet confronted King David after his sin with Bathsheba?",
+        "options": [
+          "Gad",
+          "Nathan",
+          "Achimeer",
+          "Sadoc"
+        ],
+        "correct": 1,
+        "explanation": "Nathan confronted David with the parable of the sheep, revealing his sin of murder and adultery (2 Samuel 12:1-13)."
+      },
+      {
+        "question": "Who was Apollos and why was he remarkable?",
+        "options": [
+          "A Greek philosopher converted in Corinth",
+          "A Jew from Alexandria, eloquent and versed in the Scriptures, taught by Priscilla and Aquila",
+          "A direct disciple of Jesus",
+          "A rival of Paul"
+        ],
+        "correct": 1,
+        "explanation": "Apollos was an eloquent and scripturally powerful Alexandrian Jew, initially knowing only of John's baptism. Priscilla and Aquila instructed him more fully (Acts 18:24-26)."
+      },
+      {
+        "question": "Which king reformed Judah after discovering the Book of the Law in the Temple?",
+        "options": [
+          "Hezekiah",
+          "Josiah",
+          "Jehoshaphat",
+          "Asa"
+        ],
+        "correct": 1,
+        "explanation": "Josiah undertook a profound reform after the discovery of the Book of the Law (2 Kings 22-23) — renewing the covenant and destroying idolatrous altars."
+      },
+      {
+        "question": "What was the real name of Barnabas and his tribe?",
+        "options": [
+          "Joseph, tribe of Benjamin",
+          "Judas, tribe of Judah",
+          "Joseph, tribe of Levi (Levite of Cyprus)",
+          "Simon, tribe of Simeon"
+        ],
+        "correct": 2,
+        "explanation": "Barnabas' name was Joseph and he was a Levite from Cyprus. The apostles gave him the nickname Barnabas ('son of comfort', Acts 4:36)."
+      },
+      {
+        "question": "Which two characters from the Old Testament appear during the Transfiguration of Jesus?",
+        "options": [
+          "Abraham and Elijah",
+          "Moses and Elijah",
+          "Moses and Ezekiel",
+          "Elijah and Elisha"
+        ],
+        "correct": 1,
+        "explanation": "Moses (representing the Law) and Elijah (representing the Prophets) appeared with Jesus (Matthew 17:3)."
+      },
+      {
+        "question": "Which woman in Acts had four daughters who prophesied?",
+        "options": [
+          "Priscilla",
+          "Lydia",
+          "The daughters of Philip the Evangelist",
+          "Phoebe"
+        ],
+        "correct": 2,
+        "explanation": "Philip the evangelist had four virgin daughters who prophesied (Acts 21:9)."
+      },
+      {
+        "question": "According to Matthew's genealogy, how many generations were there between Abraham and Jesus?",
+        "options": [
+          "28 generations",
+          "42 generations",
+          "36 generations",
+          "40 generations"
+        ],
+        "correct": 1,
+        "explanation": "Matthew organizes the genealogy into 3 groups of 14 generations (Matthew 1:17)."
+      },
+      {
+        "question": "What is the name of Abraham's Egyptian servant, mother of Ishmael?",
+        "options": [
+          "Zilpa",
+          "Bilha",
+          "Agar",
+          "Ketura"
+        ],
+        "correct": 2,
+        "explanation": "Hagar was the Egyptian servant of Sarah, mother of Ishmael (Genesis 16:1-16)."
+      },
+      {
+        "question": "What was the tribe of the apostle Paul?",
+        "options": [
+          "Judah",
+          "Levi",
+          "Benjamin",
+          "Ephraim"
+        ],
+        "correct": 2,
+        "explanation": "Paul was from the tribe of Benjamin (Romans 11:1; Philippians 3:5)."
+      },
+      {
+        "question": "Which NT character, Roman centurion, is described as a 'godly, God-fearing man' and the first baptized Gentile?",
+        "options": [
+          "The centurion of Capernaum",
+          "Cornelius",
+          "The centurion of the crucifixion",
+          "Sergius Paulus"
+        ],
+        "correct": 1,
+        "explanation": "Cornelius, centurion of Caesarea, was a pious man who feared God. Peter visited him after a divine vision and baptized him—the first official baptism of a Gentile (Acts 10)."
+      },
+      {
+        "question": "Who was Aquila in Paul's epistles?",
+        "options": [
+          "A synagogue leader",
+          "Priscilla's husband, tent maker and faithful collaborator of Paul",
+          "The governor of Corinth",
+          "Timothy's father"
+        ],
+        "correct": 1,
+        "explanation": "Aquila and his wife Priscilla are mentioned several times in the NT (Acts 18:2-3; Romans 16:3-4; 1 Corinthians 16:19) as valuable co-workers with Paul — Paul calls them 'my co-workers in Christ Jesus, who risked their heads for my life'."
+      },
+      {
+        "question": "Which OT character is described as 'the humblest of all men on the face of the earth'?",
+        "options": [
+          "Abraham",
+          "Moses",
+          "Samuel",
+          "David"
+        ],
+        "correct": 1,
+        "explanation": "Numbers 12:3 describes Moses: 'Now Moses was a very humble man, more humble than any other on the face of the earth.'"
+      },
+      {
+        "question": "Who were Eunice and Lois in Paul's epistles?",
+        "options": [
+          "Two deaconesses from the Church of Ephesus",
+          "Timothy's mother and grandmother, women of sincere faith",
+          "Priscilla's sisters",
+          "Two prophetesses of the Church of Rome"
+        ],
+        "correct": 1,
+        "explanation": "2 Timothy 1:5: Paul praises the sincere faith of Timothy, who dwelt first in his grandmother Lois and his mother Eunice—testifying to the importance of passing on faith in the family."
+      },
+      {
+        "question": "Which king of Israel suffered from fits of jealousy against David and ended his life tragically?",
+        "options": [
+          "Rehoboam",
+          "Jeroboam",
+          "Saul",
+          "Ahab"
+        ],
+        "correct": 2,
+        "explanation": "Saul was tormented by jealousy toward David after David killed Goliath. His fits of jealousy, his attempted murder, and his final recourse to the witch of En-dor show his tragic descent away from God (1 Samuel 18-31)."
+      },
+      {
+        "question": "What is the meaning of the name 'John the Baptist' in its prophetic role?",
+        "options": [
+          "He who baptizes with water",
+          "The forerunner of the Messiah, voice crying in the desert, fulfilling the prophecy of Elijah",
+          "The first Christian",
+          "Jesus' cousin"
+        ],
+        "correct": 1,
+        "explanation": "John the Baptist is the prophesied forerunner (Isaiah 40:3; Malachi 4:5; Luke 1:76-77). He prepares the way for the Messiah through a baptism of repentance and Jesus says of him: 'Among those born of women there has not appeared any greater than John the Baptist' (Matthew 11:11)."
+      },
+      {
+        "question": "Who was Simon of Cyrene in the Passion of Jesus?",
+        "options": [
+          "A faithful disciple",
+          "A passerby requisitioned to carry the cross of Jesus",
+          "A Roman centurion",
+          "A member of the Sanhedrin"
+        ],
+        "correct": 1,
+        "explanation": "Simon of Cyrene was a passerby (possibly coming for Passover from North Africa) whom soldiers forced to carry Jesus' cross (Matthew 27:32). Mark mentions that he was the father of Alexander and Rufus — probably known to the Christian community."
+      },
+      {
+        "question": "Which NT character is described as 'the beloved disciple' of Jesus?",
+        "options": [
+          "Rock",
+          "John son of Zebedee",
+          "Lazarus",
+          "Thomas"
+        ],
+        "correct": 1,
+        "explanation": "John son of Zebedee is generally identified as 'the disciple whom Jesus loved' (John 13:23; 19:26; 20:2; 21:7,20) — without his name ever being mentioned in the 4th Gospel."
+      },
+      {
+        "question": "Who was Joseph of Arimathea in the Gospels?",
+        "options": [
+          "A secret apostle",
+          "A wealthy member of the Sanhedrin, secret disciple of Jesus who claimed his body for burial",
+          "A Pharisee converted at Pentecost",
+          "A close relative of Jesus"
+        ],
+        "correct": 1,
+        "explanation": "Joseph of Arimathea was a wealthy and respected member of the Sanhedrin, a secret disciple of Jesus. After the crucifixion, he dared to ask Pilate for Jesus' body and placed it in his own new tomb (Matthew 27:57-60; John 19:38)."
+      },
+      {
+        "question": "Which NT character was the first bishop of the Church of Jerusalem according to tradition?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "James, brother of the Lord",
+          "Paul"
+        ],
+        "correct": 2,
+        "explanation": "James, the brother of the Lord (not the apostle son of Zebedee), was the recognized leader of the Church in Jerusalem (Acts 15:13; Galatians 2:9: 'James, Kephas and John, counted as pillars'). He was martyred around 62 AD. AD"
+      },
+      {
+        "question": "What act of generosity did Zacchaeus perform after meeting Jesus?",
+        "options": [
+          "He gave all his possessions to the apostles",
+          "He promised to give half of his possessions to the poor and to repay those he had wronged 4 times",
+          "He built a synagogue",
+          "He stopped collecting taxes"
+        ],
+        "correct": 1,
+        "explanation": "Zacchaeus said to Jesus: 'Lord, I give half of my possessions to the poor; and if I have wronged anyone, I will repay him fourfold' (Luke 19:8). Jesus responds: 'Salvation has come into this house.'"
+      },
+      {
+        "question": "Who was Antipas mentioned in Revelation 2:13 as 'my faithful witness'?",
+        "options": [
+          "One of the 7 angels of the Apocalypse",
+          "A martyr of the Church of Pergamum",
+          "King Herod Antipas",
+          "An elder of the Church of Ephesus"
+        ],
+        "correct": 1,
+        "explanation": "Antipas is mentioned in Revelation 2:13 as 'my faithful witness, who was put to death among you, where Satan has his throne' — a martyr of the Church of Pergamum, probably under Domitian."
+      },
+      {
+        "question": "Which NT character is named as the most famous convert from Mars Hill (Areopagus) in Athens?",
+        "options": [
+          "Silas",
+          "Lydia",
+          "Dionysius the Areopagite",
+          "Aquila"
+        ],
+        "correct": 2,
+        "explanation": "Acts 17:34: 'Some men joined Paul and believed, including Dionysius the Areopagite and a woman named Damaris.' Dionysius, a member of the illustrious council of the Areopagus, is the most notable convert in Paul's speech in Athens."
+      },
+      {
+        "question": "Which character from the OT typologically prefigures Christ as 'prophet, priest and king'?",
+        "options": [
+          "Abraham",
+          "Moses",
+          "Melchizedek",
+          "David"
+        ],
+        "correct": 2,
+        "explanation": "Melchizedek (Genesis 14:18; Psalm 110:4) is king of Salem AND priest of the Most High God — the only figure in the OT combining kingship and priesthood, prefiguring the triple office of Christ (prophet-priest-king) according to the epistle to the Hebrews (ch. 7)."
+      },
+      {
+        "question": "Who was Silas (Silvain) and what was his role with Paul?",
+        "options": [
+          "A Greek secretary",
+          "A fellow missionary, Roman citizen and prophet, co-author of 1-2 Thessalonians with Paul",
+          "A disciple of Peter only",
+          "A beginner in faith"
+        ],
+        "correct": 1,
+        "explanation": "Silas (Silvain) was a recognized prophet of the Jerusalem Church (Acts 15:32), a Roman citizen like Paul (Acts 16:37). He became Paul's companion on the 2nd missionary journey and is co-mentioned in 1-2 Thessalonians and 1 Peter 5:12."
+      },
+      {
+        "question": "What role did Caleb play in the conquest of Canaan and why is he exemplary?",
+        "options": [
+          "He replaced Joshua after his death",
+          "Alone with Joshua to have trusted God during the exploration of Canaan, he inherited Hebron at age 85",
+          "He conquered Jericho",
+          "He was the first high priest in Canaan"
+        ],
+        "correct": 1,
+        "explanation": "Caleb was one of two explorers (along with Joshua) who encouraged Israel to enter Canaan despite the giants. As a reward for his faith, God gave him Hebron — which he conquered at age 85! (Joshua 14:10-14)"
+      },
+      {
+        "question": "Who was Eutychus in the book of Acts and what happened to him?",
+        "options": [
+          "A converted persecutor of the Church",
+          "A young man who fell asleep during Paul's sermon, fell from a window and was resurrected by Paul",
+          "A slave freed by Paul",
+          "A leader of the Church of Troas"
+        ],
+        "correct": 1,
+        "explanation": "Acts 20:9-12: At Troas, during a sermon by Paul that lasted until midnight, Eutychus fell asleep and fell from a third-story window—dying from his fall. Paul leaned over him and said 'His soul is in him' — he was resurrected to everyone's relief."
+      },
+      {
+        "question": "Which OT prophet announced: 'The spirit of the Lord is upon me, for he has anointed me to bring good news to the poor' — a text that Jesus applied to himself?",
+        "options": [
+          "Jeremiah",
+          "Micah",
+          "Isaiah",
+          "Ezekiel"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah 61:1-2 says: 'The Spirit of the Lord is upon me...to bring good news to the poor.' Jesus read this text in the synagogue at Nazareth and declared: 'Today this scripture is fulfilled in your hearing' (Luke 4:18-21)."
+      },
+      {
+        "question": "Which NT character was seized by the Spirit and transported from Jericho to Azot after baptizing the Ethiopian eunuch?",
+        "options": [
+          "Paul",
+          "Barnabas",
+          "Philip the Evangelist",
+          "Rock"
+        ],
+        "correct": 2,
+        "explanation": "Philip the Evangelist baptized the Ethiopian eunuch in desert water. Then 'the Spirit of the Lord took away Philip; the eunuch no longer saw him and continued on his way happily. Philip found himself in Azot' (Acts 8:39-40)."
+      },
+      {
+        "question": "What was the sin of Ananias and Sapphira in the Acts of the Apostles?",
+        "options": [
+          "They stole money from the Church treasury",
+          "They sold land but kept part of the price pretending to give everything - a lie to the Holy Spirit",
+          "They worshiped an idol",
+          "They refused to be baptized"
+        ],
+        "correct": 1,
+        "explanation": "Ananias and Sapphira sold a piece of land, kept part secretly and brought the rest pretending to give the whole thing. Peter said to them, 'You have not lied to men, but to God.' Both fell dead (Acts 5:1-11)."
+      },
+      {
+        "question": "Who was Onesimus and what is his place in the epistle to Philemon?",
+        "options": [
+          "A leader of the Church of Colossae",
+          "A runaway slave converted by Paul in prison, whom Paul returns to his master Philemon as 'beloved brother'",
+          "Paul's secretary",
+          "A servant of the Church of Ephesus"
+        ],
+        "correct": 1,
+        "explanation": "Onesimus was Philemon's runaway slave. Converted by Paul in prison, he is sent back to his master with Paul's letter: 'I send him back to you... receive him, no longer as a slave, but... as a beloved brother' (Philemon 10-16) — a discreet call for liberation in Christian love."
+      },
+      {
+        "question": "What is the significance of Jacob's name change to Israel in biblical theology?",
+        "options": [
+          "A simple cultural change",
+          "An existential turning point: from 'the one who supplants' (Jacob) to 'the one who wrestled with God' (Israel) — transformation through struggle and grace",
+          "A translation error",
+          "An honorary title of chief"
+        ],
+        "correct": 1,
+        "explanation": "Jacob's struggle with God at Peniel (Genesis 32) is a moment of transformation: Jacob, the 'supplanter' (aquev = heel), becomes Israel, 'the one who struggles with God and men'. His limp after that night bears witness to the actual encounter. This change of name is foundational for the people of God."
+      },
+      {
+        "question": "Who was Simon the Zealot among the 12 apostles and what do we know about him?",
+        "options": [
+          "A rigorous Pharisee",
+          "A former member of the nationalist anti-Roman Zealot movement, apostle of Jesus",
+          "A Torah scholar",
+          "A Galilean fisherman"
+        ],
+        "correct": 1,
+        "explanation": "Simon the Zealot (Matthew 10:4; Luke 6:15) was probably associated with the Zealot movement—Jewish nationalists prepared for armed violence against Rome. That a zealot and a tax collector (Matthew) were both apostles of Jesus illustrates the revolution of values ​​brought by the Gospel."
+      },
+      {
+        "question": "Who was Hanna (Hannah) in the First Book of Samuel and what is her theological role?",
+        "options": [
+          "The wife of the high priest Eli",
+          "The barren woman who prayed with tears, received Samuel as a gift from God and offered a prophetic song",
+          "The Prophetess of the Temple",
+          "Saul's mother"
+        ],
+        "correct": 1,
+        "explanation": "Hannah, wife of Elcanah, was barren and tormented by her rival Peninnah. His tearful prayer at the Tabernacle (1 Samuel 1:10-11) expressed total surrender to God. Samuel was granted to her, which she dedicated to God. Her song (1 Samuel 2:1-10) prefigures Mary's Magnificat (Luke 1:46-55)."
+      },
+      {
+        "question": "Which character from the book of Daniel was preserved in the fiery furnace with three companions?",
+        "options": [
+          "Daniel himself",
+          "Shadrach, Meshach and Abednego (Hananiah, Mishael and Azariah)",
+          "Ezra and Nehemiah",
+          "Ezekiel"
+        ],
+        "correct": 1,
+        "explanation": "Shadrach, Meshach and Abednego (their Babylonian names; Hebrew names: Hananiah, Mishael, Azariah) refused to bow down before the statue of Nebuchadnezzar and were thrown into a furnace heated 7 times hotter than usual - but escaped unharmed with 'a fourth man' (Daniel 3)."
+      },
+      {
+        "question": "Who was Malchus in the story of the Passion of Jesus?",
+        "options": [
+          "The servant of the High Priest whose ear Peter cut off, then healed by Jesus",
+          "A Roman soldier who arrested Jesus",
+          "A disciple of Judas",
+          "The Tomb Guardian"
+        ],
+        "correct": 0,
+        "explanation": "Malchus was the servant of the High Priest Caiaphas. Peter cut off his right ear during Jesus' arrest in Gethsemane. Jesus said to Peter, 'Put down your sword,' and healed Malchus' ear—Jesus' final miracle of healing (Luke 22:50-51; John 18:10)."
+      },
+      {
+        "question": "Which OT character is mentioned in Hebrews 11 as having 'left Egypt without fearing the wrath of the king'?",
+        "options": [
+          "Abraham",
+          "Joseph",
+          "Moses",
+          "Caleb"
+        ],
+        "correct": 2,
+        "explanation": "Hebrews 11:27: 'By faith Moses departed from Egypt, not fearing the wrath of the king, standing as if he saw Him who is invisible.' Moses is presented in the hall of faith (Hebrews 11) as a model of endurance by faith."
+      },
+      {
+        "question": "Who was Tiberius Caesar mentioned in the Gospel of Luke to chronologically situate the ministry of John the Baptist?",
+        "options": [
+          "A Roman consul",
+          "The reigning Roman emperor at the time of Jesus' baptism (AD 27/28) according to Luke 3:1",
+          "A governor of Judea",
+          "Herod the Great's successor"
+        ],
+        "correct": 1,
+        "explanation": "Luke 3:1 places the beginning of John the Baptist's ministry: 'In the fifteenth year of the reign of Tiberius Caesar' - one of the few precise historical synchronisms in the NT, allowing the baptism of Jesus to be dated around AD 27-28. AD"
+      },
+      {
+        "question": "What was Joab's role in David's reign and how did he die?",
+        "options": [
+          "High Priest of Jerusalem",
+          "Chief general of David's army, who committed murder and was executed by order of Solomon",
+          "Royal prophet",
+          "David's Treasurer"
+        ],
+        "correct": 1,
+        "explanation": "Joab was David's powerful general-in-chief and his nephew (son of his sister Ceruiah). He treacherously killed Abner (2 Samuel 3:27) and Amasa (2 Samuel 20:10), and participated in the murder of Absalom. On his deathbed, David asked Solomon to punish him—Solomon had him executed (1 Kings 2:34)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "What is the name of Saul's first wife according to Scripture?",
+        "options": [
+          "Mikal",
+          "Mérab",
+          "Ahinoam",
+          "Rizpa"
+        ],
+        "correct": 2,
+        "explanation": "Ahinoam of Jezreel was Saul's first wife (1 Samuel 14:50)."
+      },
+      {
+        "question": "Who was Theophilus, to whom Luke addresses his two writings?",
+        "options": [
+          "A freed slave",
+          "A high-ranking Roman official",
+          "A converted Jewish priest",
+          "His identity is unknown or symbolic"
+        ],
+        "correct": 3,
+        "explanation": "The exact identity of Théophile remains debated. It could be a symbolic name ('friend of God') or an actual boss (Luke 1:3)."
+      },
+      {
+        "question": "Which prophet married an adulterous woman out of obedience to God?",
+        "options": [
+          "Amos",
+          "Hosea",
+          "Joel",
+          "Obadiah"
+        ],
+        "correct": 1,
+        "explanation": "Hosea married Gomer, an unfaithful wife, symbolizing Israel's unfaithfulness to God (Hosea 1:2-3)."
+      },
+      {
+        "question": "What is the relationship between John the Baptist and Jesus according to the Gospel of Luke?",
+        "options": [
+          "Brothers",
+          "Cousins",
+          "Uncle-nephew",
+          "Without blood relation"
+        ],
+        "correct": 1,
+        "explanation": "Elizabeth, mother of John the Baptist, was 'related' to Mary (Luke 1:36), making John and Jesus cousins."
+      },
+      {
+        "question": "According to Hebrews 11, which patriarch was taken away without dying?",
+        "options": [
+          "Noah",
+          "Abraham",
+          "Enoch",
+          "Elijah"
+        ],
+        "correct": 2,
+        "explanation": "Enoch was taken by God without death (Genesis 5:24, Hebrews 11:5)."
+      },
+      {
+        "question": "Which OT character is interpreted typologically as prefiguring the 'Suffering Servant' of Isaiah 53?",
+        "options": [
+          "Moses",
+          "Joshua",
+          "The Suffering Servant (type of Christ)",
+          "Cyrus of Persia"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah 53 describes the 'Suffering Servant', interpreted Christianly as a messianic prophecy about Jesus."
+      },
+      {
+        "question": "Who was Apollos and what was his training?",
+        "options": [
+          "A disciple of John the Baptist from Alexandria, eloquent in the Scriptures",
+          "A converted priest from Jerusalem",
+          "A Greek philosopher converted in Corinth",
+          "Paul's secretary"
+        ],
+        "correct": 0,
+        "explanation": "Apollos was an eloquent and Scriptural Jew from Alexandria, taught by Priscilla and Aquila (Acts 18:24-26)."
+      },
+      {
+        "question": "Which king of Israel is associated with the reformation having rediscovered the Book of the Law in the Temple?",
+        "options": [
+          "Hezekiah",
+          "Josiah",
+          "Jehoshaphat",
+          "Asa"
+        ],
+        "correct": 1,
+        "explanation": "King Josiah profoundly reformed Israel after the discovery of the Book of the Law (2 Kings 22-23)."
+      },
+      {
+        "question": "What was Barnabas' real name?",
+        "options": [
+          "Joseph",
+          "Simeon",
+          "Judas",
+          "Matthias"
+        ],
+        "correct": 0,
+        "explanation": "Barnabas' name was Joseph. The apostles gave him the nickname Barnabas, meaning 'son of comfort' (Acts 4:36)."
+      },
+      {
+        "question": "Which two Old Testament characters appear during the Transfiguration?",
+        "options": [
+          "Abraham and Elijah",
+          "Moses and Elijah",
+          "Moses and Ezekiel",
+          "Elijah and Elisha"
+        ],
+        "correct": 1,
+        "explanation": "Moses (representing the Law) and Elijah (representing the Prophets) appeared with Jesus (Matthew 17:3)."
+      },
+      {
+        "question": "What was the exact role of Phoebe mentioned in Romans 16:1?",
+        "options": [
+          "Prophetess of the Church of Rome",
+          "Deaconess (diakonos) of the Church of Cenchreae",
+          "Wife of a Corinthian elder",
+          "Traveling teacher"
+        ],
+        "correct": 1,
+        "explanation": "Paul presents Phebe as 'diakonos' of the Cenchreae Church and 'prostatis' (servant/benefactor) of many (Romans 16:1-2)."
+      },
+      {
+        "question": "What is the Aramaic name for Peter given by Jesus himself?",
+        "options": [
+          "Simon",
+          "Kêphas (Céphas)",
+          "Bar-Jona",
+          "Andreas"
+        ],
+        "correct": 1,
+        "explanation": "Jesus gave him the Aramaic name 'Kêphas' (stone), translated into Greek as 'Petros' (Peter) (John 1:42)."
+      },
+      {
+        "question": "According to 1 Samuel 28, what did Saul do before the fatal battle of Gilboa?",
+        "options": [
+          "He fasted for 40 days",
+          "He consulted the witch of En-Dor to evoke the spirit of Samuel",
+          "He offered an illegal sacrifice",
+          "He publicly denied God"
+        ],
+        "correct": 1,
+        "explanation": "Saul, in despair, consulted the necromancer of En-dor to raise Samuel's spirit (1 Samuel 28:7-25)."
+      },
+      {
+        "question": "Who was Nicodemus in the context of the Passion according to John 19?",
+        "options": [
+          "A simple neutral observer",
+          "A member of the Sanhedrin who, with Joseph of Arimathea, buried Jesus with 30 kg of spices",
+          "A disciple of John the Baptist",
+          "A messenger from Pilate"
+        ],
+        "correct": 1,
+        "explanation": "John 19:39-40: Nicodemus came with a mixture of myrrh and aloe weighing about 30 kg, and with Joseph of Arimathea they buried Jesus according to Jewish custom. Coming at night in John 3, he dared to appear publicly at the cross."
+      },
+      {
+        "question": "What is the profile of the Antichrist in the Johannine epistles compared to popular interpretations?",
+        "options": [
+          "A unique future global political figure",
+          "Any person or spirit denying that Jesus came in the flesh and that Christ is the Son of God",
+          "Satan himself",
+          "A false religious prophet only"
+        ],
+        "correct": 1,
+        "explanation": "1 John 2:18,22 and 4:3: 'the antichrist is he who denies the Father and the Son' and 'every spirit that does not confess Jesus is the antichrist'. John uses the term in the plural (many antichrists) — designating first the Docet secessionists who denied the real incarnation, before any specific future figure."
+      },
+      {
+        "question": "What is Peter's theological journey showing his transformation according to the Gospels and Acts?",
+        "options": [
+          "Peter is always strong and never fails",
+          "From Simon an impulsive fisherman, he became Kephas (Peter) by faith, failed when denied, was restored and became a pillar of the early Church",
+          "Peter became infallible after Pentecost",
+          "Peter and Paul never had a disagreement"
+        ],
+        "correct": 1,
+        "explanation": "Peter's trajectory is one of the most touching in the NT: Simon the impulsive fisherman (John 1:42), renamed Kephas by Jesus; confessor ('You are the Christ', Matthew 16:16); renegade the night of the trial (3 denials); restored by the resurrected Jesus (John 21:15-17); courageous preacher at Pentecost (Acts 2); and corrected by Paul at Antioch (Galatians 2:11-14) — a life of grace and growth."
+      },
+      {
+        "question": "What is the theological significance of Paul's descent from 'Ishmael vs Isaac' in Galatians 4?",
+        "options": [
+          "A simple family story",
+          "An allegory: Ishmael (born of the flesh, slavery to the Law) vs Isaac (born of the promise, freedom in Christ)",
+          "Isaac's ethnic superiority",
+          "The origin of the Arab and Jewish peoples"
+        ],
+        "correct": 1,
+        "explanation": "Paul uses Hagar/Ishmael and Sarah/Isaac as allegory (Galatians 4:22-31): Hagar represents the Mosaic Law/Sinai/slavery; Sarah represents the promise/Jerusalem above/freedom. Believers are 'children of the promise like Isaac', free from the Law to live in the freedom of Christ."
+      },
+      {
+        "question": "Who was Tertullus and what role did he play in Paul's trial at Caesarea?",
+        "options": [
+          "A Jerusalem lawyer hired by the High Priests to accuse Paul before Governor Felix",
+          "Paul's secretary who wrote his epistles",
+          "A convert from the Corinthian Church",
+          "A Roman judge"
+        ],
+        "correct": 0,
+        "explanation": "Acts 24:1-8: The High Priests went down to Caesarea with a lawyer named Tertullus to bring charges against Paul before Governor Felix. Tertullus flattered Felix then accused Paul of being a 'disturber, stirring up seditions among all the Jews of the world' and desecrating the Temple."
+      },
+      {
+        "question": "What is the theological meaning of the 'restoration of Peter' in John 21:15-17 and why does Jesus use two different Greek words for 'love'?",
+        "options": [
+          "The two words are perfect synonyms without nuance",
+          "Jesus uses agapao (absolute love) and Peter responds with phileo (emotional love) — dialogue revealing Peter's humility after his denial",
+          "Jesus uses philia for all; the distinction is not intentional",
+          "Pierre says agapao to the three questions"
+        ],
+        "correct": 1,
+        "explanation": "In John 21:15-17, Jesus asks Peter 3 times if he loves him — corresponding to the 3 denials. The agapao/phileo distinction is debated: some see in Jesus' descent to phileo (v.17) a gracious condescension to meet Peter where he is. The triple restoration erases the triple denial and confirms Peter in his pastoral role ('feed my sheep')."
+      },
+      {
+        "question": "What is the relationship between Herod the Great, Herod Antipas and Herod Agrippa in the context of the NT?",
+        "options": [
+          "The same character at different times",
+          "Herod the Great (birth of Jesus), his son Herod Antipas (John the Baptist/Jesus), his grandson Agrippa (Acts 12 – death of James)",
+          "Kings from different dynasties without family ties",
+          "All Roman governors"
+        ],
+        "correct": 1,
+        "explanation": "Herodian dynasty: Herod the Great (37-4 BC) = massacre of the Innocents (Matthew 2). His son Herod Antipas (4 BC-39 AD) = death of John the Baptist and interrogation of Jesus (Luke 23:7-12). His grandson Agrippa I (37-44 AD) = death of James and imprisonment of Peter (Acts 12)."
+      },
+      {
+        "question": "Who was Epaphroditus in the letter to the Philippians and why does Paul mention him with emotion?",
+        "options": [
+          "A leader of the Church of Ephesus",
+          "The envoy of the Church of Philippi to Paul in prison, who almost died of illness while serving him",
+          "Paul's secretary for the letter",
+          "A false prophet that Paul corrects"
+        ],
+        "correct": 1,
+        "explanation": "Philippians 2:25-30: Epaphroditus was the emissary of the Church of Philippi who came to provide financial support to Paul in prison. He became seriously ill — to the point of being 'near death' — while serving Paul. Paul honors him as 'my brother, my co-worker and my comrade in arms' and sends him back to Philippi with his letter."
+      },
+      {
+        "question": "What is the significance of Moses' 'dual vocation' — raised in Pharaoh's court AND shepherd in the desert — in biblical theology?",
+        "options": [
+          "A simple biographical accident",
+          "Providential training: knowledge of Egypt + humility of the desert, preparing the liberator through 80 years of divine training",
+          "A symbol of dual personality",
+          "Proof that God is wrong in his choices"
+        ],
+        "correct": 1,
+        "explanation": "The first 80 years of Moses divided in two: 40 years 'learned in all the wisdom of the Egyptians' (Acts 7:22) to know the court of the Pharaoh + 40 years shepherd in Midian for humility and knowledge of the desert (Exodus 3:1). This dual providential training perfectly equipped Moses to lead Israel out of Egypt through the desert."
+      },
+      {
+        "question": "What is the role of the 'Angel of the Lord' in the Old Testament and its connection with Christology?",
+        "options": [
+          "An ordinary angel messenger",
+          "A pre-incarnatory appearance of the Son of God (theophany of Christ), receiving adoration reserved for God alone",
+          "Archangel Michael",
+          "An honorary title for the great prophets"
+        ],
+        "correct": 1,
+        "explanation": "'The Angel of the Lord' (מַלְאַךְ יְהוָה) in Genesis 16:10-13; 22:11-12; Exodus 3:2-6; Judges 13:22 is identified with YHWH himself, receives divine worship, and speaks in the first divine person. Patristic and Reformed theology see this as a pre-incarnatory theophany of the Son—preparing the incarnation."
+      },
+      {
+        "question": "What is the content of 'Peter's confession' in Matthew 16:16 and its ecclesiological significance?",
+        "options": [
+          "'You are the Messiah, the Son of the living God'",
+          "'You are a great prophet sent from God'",
+          "'You are the Son of Man foretold by Daniel'",
+          "'You are the Lord and Savior of the world'"
+        ],
+        "correct": 0,
+        "explanation": "Peter confesses in Matthew 16:16: 'You are the Christ, the Son of the living God' — combining the Jewish messianic title (Christ/Messiah) and unique divine sonship. Jesus responds that this revelation comes 'from my Father who is in heaven' (not from the flesh) and announces the founding of the Church on this confession. Peter receives the 'keys of the Kingdom' (v.19)."
+      },
+      {
+        "question": "Who was Lystra in Acts and what serious mistake was made during Paul and Barnabas' visit?",
+        "options": [
+          "A town in Galilee where Peter preached",
+          "A town in Lycaonia where residents mistook Paul and Barnabas for Zeus and Hermes after a healing miracle",
+          "Timothy's hometown only",
+          "A center of Athenian idolatry"
+        ],
+        "correct": 1,
+        "explanation": "Acts 14:8-18: In Lystra (Lycaonia), Paul heals a lame man. The inhabitants cried out in Lycaonian: 'The gods have become like men and are coming down to us!' They called Barnabas 'Zeus' and Paul 'Hermes'. Paul and Barnabas tore their clothes and passionately refuted idolatry—but had difficulty restraining the crowd from offering sacrifices."
+      },
+      {
+        "question": "What was the nature of the conflict between Paul and Barnabas in Acts 15:36-41 and what resulted?",
+        "options": [
+          "A doctrinal disagreement on circumcision",
+          "A pastoral disagreement over John Mark (who had abandoned the first journey) — resulting in two missionary teams",
+          "A personal jealousy of Barnabas",
+          "A financial conflict"
+        ],
+        "correct": 1,
+        "explanation": "After the Council of Jerusalem, Paul and Barnabas separated because John Mark, Barnabas' cousin, abandoned the first journey (Acts 13:13). Barnabas wanted to give him a second chance; Paul firmly refused to do so. Result: two teams — Paul + Silas (towards Syria and Cilicia) and Barnabas + Jean-Marc (towards Cyprus). Later, Paul reconciled with Mark calls it 'profitable for the ministry' (2 Timothy 4:11)."
+      },
+      {
+        "question": "What is the theological significance of the 'sacrifice of Isaac' (Akedah) in Jewish and Christian tradition?",
+        "options": [
+          "A simple test of faith without typological significance",
+          "The Akedah (Genesis 22): typological model of the sacrifice of the only Son of God — Abraham/God the Father, Isaac/Christ, the ram/substitute Christ",
+          "A vestige of ANE religions",
+          "A story without application to the NT"
+        ],
+        "correct": 1,
+        "explanation": "The Akedah (עֲקֵדָה, 'binding of Isaac') is central to the theology of the OT and NT. The parallels are striking: beloved only son, wood carried on his back, Mount Moriah (same hill as Golgotha ​​according to 2 Chronicles 3:1), a ram 'in place of his son' (Genesis 22:13) — typifying Christ substitute. John 3:16 ('his only Son') echoes Genesis 22:2 ('your only son')."
+      },
+      {
+        "question": "What is the role of Melchizedek in Hebrew theology and how does he foreshadow the priesthood of Christ?",
+        "options": [
+          "Melchizedek is just an incidental historical character",
+          "Melchizedek (Genesis 14:18-20; Psalm 110:4) prefigures the eternal priesthood of Christ: with no known genealogy, no beginning or end mentioned — 'like the Son of God, he remains a priest forever'",
+          "Melchizedek was an angel",
+          "Melchizedek only represents royalty"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 7 develops the Melchizedecian typology: (1) Name = 'king of righteousness'; (2) Salem = 'king of peace'; (3) Without father, mother, genealogy in the text = without beginning or end typologically; (4) Received tithe from Abraham, blessed Abraham – superior to Levi therefore. Hebrews 7:17 (Psalm 110:4): 'You are a priest forever according to the order of Melchizedek.'"
+      },
+      {
+        "question": "Who was Agabus in Acts and what is his contribution to NT pneumatology?",
+        "options": [
+          "An apostle of the Church of Antioch",
+          "A Jerusalem prophet who prophesied a famine and Paul's captivity—testifying to continuing prophecy in the early Church",
+          "A leader of the Church of Rome",
+          "A traveling companion of Paul"
+        ],
+        "correct": 1,
+        "explanation": "Agabus is a traveling prophet mentioned twice: (1) Acts 11:28: he prophesied a great famine (fulfilled under Claudius) — enabling the Church of Antioch to send relief to Jerusalem; (2) Acts 21:10-11: He took Paul's belt, bound himself hand and foot, and prophesied his captivity in Jerusalem. Agabus testifies to the reality of the prophetic ministry in the Church of the 1st century."
+      },
+      {
+        "question": "What is the significance of God's calling of Cyrus, Persian king, as 'his anointed' (mashiah) in Isaiah 45:1?",
+        "options": [
+          "Cyrus really was the predicted Messiah",
+          "God can use non-Jewish rulers as instruments of his glory and his redemptive plan for Israel",
+          "It's a translation error",
+          "Isaiah spoke of a future king of Israel"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 45:1 calls Cyrus, a non-Jewish Persian king, 'his anointed' (mashiah) — the only occurrence of this term applied to a non-Israelite. God said of Cyrus: 'I have taken him by his right hand...to subdue the nations under him.' This illustrates the absolute sovereignty of God using the nations for His redemptive plan (liberation of Israel from Babylon in 538 BC)."
+      },
+      {
+        "question": "What is Luke's unique contribution as a historian-theologian in his two writings (Gospel + Acts)?",
+        "options": [
+          "Luke is the least reliable of the evangelists",
+          "Luke is the only NT author to write a two-volume work showing the continuity of Jesus' divine plan to the universal Church",
+          "Luke addresses only Jews",
+          "Luc simply copies Marc without originality"
+        ],
+        "correct": 1,
+        "explanation": "Luke-Acts forms a unique bipartite work in the NT: volume 1 (the Gospel) tells what 'Jesus began to do and teach'; Acts tells what Jesus continued through his Spirit in the Church. The geographic progression (Galilee → Jerusalem → Samaria → end of the earth, Acts 1:8) illustrates the universal reach of the Gospel."
+      },
+      {
+        "question": "Who was Erastus mentioned in Romans 16:23 and 2 Timothy 4:20?",
+        "options": [
+          "A simple friend of Paul",
+          "The bursar (public treasurer) of the city of Corinth and collaborator of Paul — confirmed by an archaeological inscription",
+          "A Corinthian false prophet",
+          "A freed slave of Phebe"
+        ],
+        "correct": 1,
+        "explanation": "Romans 16:23: 'Erastus, the treasurer of the city, greets you.' An archaeological inscription dating from the 1st century was discovered in Corinth: 'Erastus paved [the square] at his own expense in gratitude for his aedility' — one of the most precise archaeological confirmations of an NT character."
+      },
+      {
+        "question": "What is the role of the Apostle John in the city of Ephesus according to patristic tradition and how is his presence there theologically significant?",
+        "options": [
+          "John had never been to Ephesus",
+          "John settled in Ephesus, took care of Mary there, founded a theological school and died there at an old age — center of high Johannine Christology",
+          "John only went to Rome with Peter",
+          "John spent his entire life in Galilee"
+        ],
+        "correct": 1,
+        "explanation": "The unanimous patristic tradition (Irenaeus, Clement of Alexandria, Eusebius) places John in Ephesus after the Jewish-Roman war (66-70 AD): he took care of Mary there (John 19:27), died there at a great age (only apostle died naturally), formed disciples there (including Polycarp) and wrote the Gospel, the epistles and the Apocalypse there. Ephesus thus became the cradle of high Johannine Christology."
+      },
+      {
+        "question": "What is the meaning of the term 'Boanerges' given by Jesus to James and John and how does their trajectory illustrate transformation by grace?",
+        "options": [
+          "An honorary title of leadership",
+          "'Sons of thunder' — describing their fiery temperament which was transformed: John became the apostle of love (agapè), James the first apostolic martyr",
+          "An affectionate nickname without scope",
+          "A prophetic title about their future ministry"
+        ],
+        "correct": 1,
+        "explanation": "Mark 3:17: Jesus nicknamed them Boanerges (“sons of thunder”)—probably because of their request to call fire on the Samaritans (Luke 9:54) or their exclusive ambition (Mark 10:35-40). The transformation is striking: John, the 'son of thunder', became the apostle of love ('my children, love one another', according to Jerome); James became the first martyred apostle (Acts 12:2)."
+      },
+      {
+        "question": "Who was the Angel Gabriel in the two great announcements of Luke 1 and what is his significance in biblical revelation?",
+        "options": [
+          "An ordinary angel messenger",
+          "One of the principal angels (Prince of the Divine Presence) — interpreter of visions of Daniel, herald of John the Baptist and Jesus",
+          "A symbolic title without being personal",
+          "The Angel of the Lord / Christ theophany"
+        ],
+        "correct": 1,
+        "explanation": "Gabriel (\"God is my strength\") appears in Daniel 8:16 and 9:21 as the interpreter of Daniel's visions, then in Luke 1 as the herald of John the Baptist (to Zechariah) and Jesus (to Mary). His progression in divine revelation is remarkable: Daniel announces the 70 weeks (Daniel 9) → Gabriel announces their accomplishment to Mary (Luke 1). In the intertestamental Jewish tradition (Book of Enoch, Book of Tobit), Gabriel is one of the 4/7 angels before the throne of God."
+      },
+      {
+        "question": "What is the symbolic and theological significance of the '12 apostles' in NT theology?",
+        "options": [
+          "A practical organizational figure",
+          "The 12 apostles correspond to the 12 tribes of Israel — signaling that Jesus is rebuilding Israel around himself, fulfilled eschatologically in the New Jerusalem with the 12 foundations",
+          "12 is a number without symbolic significance in the Bible",
+          "The 12 represent the 12 nations of the world"
+        ],
+        "correct": 1,
+        "explanation": "The number 12 is highly symbolic: the 12 apostles correspond to the 12 tribes of Israel (Matthew 19:28: 'you will judge the twelve tribes of Israel'). Jesus symbolically rebuilds Israel around himself. Revelation 21:14: The New Jerusalem has 12 foundations bearing the names of the 12 apostles—convergence of the hope of Israel and the Church."
+      },
+      {
+        "question": "What is the profile of Timothy revealed by the pastoral epistles and what is his contribution to the apostolic ministry?",
+        "options": [
+          "An authoritative and problem-free young leader",
+          "A young leader (born of a mixed Judo-Greek marriage) shy and often ill, trained by Paul, trusted representative between Paul and the Churches",
+          "A simple secretary of Paul without authority",
+          "An apostle of the same rank as Paul"
+        ],
+        "correct": 1,
+        "explanation": "Timothy is a touching portrait: born to a believing Jewish mother (Eunice) and a Greek father (non-believer, Acts 16:1), probably shy (2 Timothy 1:7: 'for God has not given us the spirit of timidity'), often ill (1 Timothy 5:23: 'take a little wine for your stomach'), often anxious (1 Corinthians 16:10-11). However, Paul sent him on a mission to Macedonia, to Corinth, to Thessalonica — entrusting him with the most difficult Churches. Model of loyalty in weakness."
+      },
+      {
+        "question": "What is the meaning of the name 'Jesus' (Yeshua) and how does it reveal his mission?",
+        "options": [
+          "'Son of God' in Hebrew",
+          "'The Lord saves' (YHWH + yasha = save) — his name IS his mission according to Matthew 1:21",
+          "'Anointed of the Lord' (synonymous with Messiah)",
+          "'Light of the nations' in Aramaic"
+        ],
+        "correct": 1,
+        "explanation": "Yeshua (יֵשׁוּעַ) is the contraction of Yehoshua ('YHWH is salvation/saves'). The angel said to Joseph: 'You will call his name Jesus, for he will save his people from their sins' (Matthew 1:21). Its name already announces its soteriological mission. 'Jesus' was a common name in 1st century Judaism — but his life made him the Name 'above every name' (Philippians 2:9)."
+      },
+      {
+        "question": "What is the portrait of John the Baptist in the Gospel of John compared to the Synoptics?",
+        "options": [
+          "Jean offers more biographical details than the synoptics",
+          "John presents John the Baptist only as a 'witness' of the Light and never as a baptizing precursor, accentuating Christological subordination",
+          "The two portraits are identical",
+          "John the Baptist is absent from the Gospel of John"
+        ],
+        "correct": 1,
+        "explanation": "The Gospel of John presents John the Baptist in a unique way: no account of Jesus' baptism (John does not mention baptizing Jesus), but John the Baptist as 'witness to the Light' (John 1:7-8). John explicitly says 'I am not the Christ' (John 1:20) and 'He must increase and I must decrease' (John 3:30) — serving the sole Johannine purpose: to lead to Christ."
+      },
+      {
+        "question": "What is the place of Pontius Pilate in the tradition of the first Creeds and why is it theologically significant?",
+        "options": [
+          "Pilate is mistakenly mentioned in the creeds",
+          "'Suffered under Pontius Pilate' anchors the incarnation and the Passion in real, verifiable history — against docetism and mythology",
+          "Pilate is cited as an example of justice",
+          "He is cited to condemn the Roman Empire"
+        ],
+        "correct": 1,
+        "explanation": "The Apostles' Creed and the Nicene-Constantinople Creed include 'suffered under Pontius Pilate' — a precise historical name anchoring the death of Christ in dated and verifiable historical reality. Tertullian noted that Roman records could confirm these facts. Against Docetism: Christ REALLY suffered under a real Roman governor — not just in appearance."
+      },
+      {
+        "question": "What is the relationship between Enoch (Genesis 5:24) and the intertestamental texts (Book of Enoch) and how does this inform the quotation in Jude 14?",
+        "options": [
+          "Jude quotes Genesis directly",
+          "Jude 14 cites the Book of Enoch (1 Enoch 1:9) which develops the tradition of Enoch as a prophet — showing that NT authors could cite non-canonical texts",
+          "Jude and Enoch are unrelated",
+          "Jude cites an independent oral tradition unrelated to 1 Enoch"
+        ],
+        "correct": 1,
+        "explanation": "Jude 14-15 quotes almost verbatim from 1 Enoch 1:9: 'Behold, the Lord is come with his holy myriads, to execute judgment...' The Book of Enoch (Ethiopian apocryphal, non-canonical) was very influential in 2nd Temple Judaism and among early Christians. Jude cites this tradition as a valid prophecy without canonizing the entire book — a common practice in antiquity (Paul also cites Greek poets)."
+      },
+      {
+        "question": "What is the complete portrait of Mary (mother of Jesus) through the 4 gospels and Acts?",
+        "options": [
+          "Mary is omnipresent in all the gospels",
+          "Mary is rarely present: annunciation (Luke 1), Nativity (Matthew 2; Luke 2), marriage of Cana (John 2), Cross (John 19), Upper Room (Acts 1) — discreet woman of faith, 'servant of the Lord'",
+          "Mary plays a role as co-redemptrix in the gospels",
+          "Mary is absent from Acts and the Epistles"
+        ],
+        "correct": 1,
+        "explanation": "Mary is remarkably discreet in the NT: present at the Annunciation (Luke 1:38: 'I am the handmaid of the Lord'), at the birth, at Cana (John 2:3-5), sometimes with the family seeking Jesus (Matthew 12:46), at the Cross (John 19:26-27), and in the Upper Room praying with the disciples (Acts 1:14). The Johannine epistle and the epistles of Paul do not mention it. His Magnificat (Luke 1:46-55) is the most complete expression of his theology."
+      }
+    ]
+  }
+}

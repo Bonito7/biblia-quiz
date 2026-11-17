@@ -1,0 +1,683 @@
+{
+  "sections": [
+    {
+      "id": "fetes",
+      "emoji": "🕍",
+      "color": "from-blue-600 to-indigo-700",
+      "items": [
+        {
+          "name": "Shabbat (שַׁבָּת)",
+          "subtitle": "Every week — Friday evening to Saturday evening",
+          "description": "The weekly Sabbath, based on Creation (Genesis 2:3) and the Law (Exodus 20:8-11). Total cessation of work, festive meals, synagogue. Symbolizes the Covenant between God and Israel (Exodus 31:13). The halakha lists 39 categories of prohibited work.",
+          "detail": "Duration: 25 hours. Starts with the woman lighting the candles. Ends with Havdalah (separation)."
+        },
+        {
+          "name": "Passover — Pesah (פֶּסַח)",
+          "subtitle": "14-21 Nissan (March-April)",
+          "description": "Commemoration of the Exodus from Egypt (Exodus 12). Seder meal with Passover lamb, bitter herbs, matzot (unleavened bread). Reading the Haggadah. Houses are cleansed of all leaven (hametz) — a symbol of sin and pride.",
+          "detail": "Duration: 7 days (8 in diaspora). The 4 cups of wine symbolize the 4 divine promises of Exodus 6:6-7."
+        },
+        {
+          "name": "Pentecost — Shavuot (שָׁבוּעוֹת)",
+          "subtitle": "6-7 Sivan (May-June) — 50 days after Passover",
+          "description": "Festival of Weeks/Harvest. Commemoration of the gift of the Torah at Sinai. Offering of the first fruits (bikourim). We read the book of Ruth. In NT: the day of Pentecost (Acts 2) falls on this day.",
+          "detail": "Duration: 1 day (2 in diaspora). The synagogue is decorated with greenery evoking Mount Sinai."
+        },
+        {
+          "name": "Rosh Hashanah (רֹאשׁ הַשָּׁנָה)",
+          "subtitle": "1-2 Tishri (September-October)",
+          "description": "Jewish New Year — literally 'head of the year'. Symbolic divine judgment: God opens the Books of life. Sound of the Shofar (ram's horn) 100 times. Period of repentance (Yamim Noraim). Honey and apple for a 'happy new year'.",
+          "detail": "Duration: 2 days. Begins 10 days of penance which ends on Yom Kippur."
+        },
+        {
+          "name": "Yom Kippur (יוֹם כִּפּוּר)",
+          "subtitle": "10 Tishri — Great Day of Atonement",
+          "description": "Most solemn day of the Jewish year. 25-hour fast, five prayer services, collective confessions. At the time of the Temple: the High Priest enters once a year into the Holy of Holies to sprinkle the mercy seat with blood (Leviticus 16). The scapegoat is sent to the desert.",
+          "detail": "Prohibited: eating, drinking, washing, marital relations, perfume, leather shoes."
+        },
+        {
+          "name": "Sukkot (סֻכּוֹת)",
+          "subtitle": "15-21 Tishri — Festival of Cabins",
+          "description": "Commemorating 40 years in the desert. Construction of huts (sukkot) with green roofs revealing the sky. We eat there, pray, sometimes sleep for 7 days. The 4 species: loulav (palm tree), etrog (citron), myrtle, willow — moved towards the 4 cardinal points.",
+          "detail": "The happiest holiday. The 7th day (Hoshana Rabba) is the day of final closure of judgment."
+        },
+        {
+          "name": "Hanukkah (חֲנֻכָּה)",
+          "subtitle": "25 Kislev — 8 days (November-December)",
+          "description": "Festival of Lights — commemoration of the rededication of the Temple (165 BC) after the victory of the Maccabees over Antiochos IV. Oil miracle (1 day oil burns 8 days). Lighting of Hanoukia (9-branched candlestick), dreidel games, donuts.",
+          "detail": "Non-biblical (inter-testamental). Mentioned in John 10:22 ('Feast of Dedication')."
+        },
+        {
+          "name": "Purim (פּוּרִים)",
+          "subtitle": "14 Adar (February-March)",
+          "description": "Most joyous holiday — commemoration of the salvation of the Jews in Persia (book of Esther). Reading of the Megilah (book of Esther) in synagogue. Noise is made in the name of Haman. Costumes, feasts, gifts of food (mishloah manot), donations to the poor.",
+          "detail": "Duration: 1 day. 'Purim' = drawing of lots — Haman cast lots to choose the day of the massacre."
+        },
+        {
+          "name": "Jubilee Year (יוֹבֵל)",
+          "subtitle": "Every 50 years",
+          "description": "After 7 weeks of years (49 years), the year 50 is the Jubilee (Leviticus 25). Liberation of all Hebrew slaves, return of each family to their ancestral land, forgiveness of debts. Sounding of the Shofar on Yom Kippur of the Jubilee Year. Jesus quotes Isaiah 61 ('the year of grace') at the beginning of his ministry.",
+          "detail": "The Sabbatical Year (every 7 years) precedes the Jubilee: the earth rests, debts are forgiven."
+        }
+      ]
+    },
+    {
+      "id": "mois",
+      "emoji": "📅",
+      "color": "from-teal-600 to-emerald-700",
+      "items": [
+        {
+          "name": "Nissan (נִיסָן)",
+          "subtitle": "1st sacred month — March/April",
+          "description": "First month of the liturgical calendar. Month of Passover (Pesach). Exodus 12:2: 'This month shall be the beginning of months for you, and the first of months of the year for you.' Month of deliverance and miracles.",
+          "detail": "30 days. Start of spring. The windfall stopped on the 16th of Nissan."
+        },
+        {
+          "name": "Iyar (אִיָּר)",
+          "subtitle": "2nd month — April/May",
+          "description": "Month of healing (initial letters = Ani YHWH Ropheka — 'I am the Lord who heals you'). Pesah Sheni (Secondary Passover) on 14 Iyar for those who had been impure.",
+          "detail": "29 days. Counting of the Omer continues."
+        },
+        {
+          "name": "Sivan (סִיוָן)",
+          "subtitle": "3rd month — May/June",
+          "description": "Month of the giving of the Torah at Sinai. Feast of Shavuot (Pentecost) on Sivan 6. Month linked to divine revelation and the Law.",
+          "detail": "30 days. In NT: Pentecost of Acts 2 falls this month."
+        },
+        {
+          "name": "Tammuz (תַּמּוּז)",
+          "subtitle": "4th month — June/July",
+          "description": "Month of mourning — on Tammuz 17, Moses breaks the Tables of the Law. Beginning of the 3-week period of mourning leading to 9 Av.",
+          "detail": "29 days."
+        },
+        {
+          "name": "Av (אָב)",
+          "subtitle": "5th month — July/August",
+          "description": "Saddest month. The 9th of Av (Ticha B'Av): destruction of the 1st Temple (586 BC) and the 2nd Temple (70 AD), expulsion from Spain (1492), and numerous Jewish tragedies. 25 hour fast.",
+          "detail": "30 days. The 15th of Av is paradoxically a joyous holiday (feast of love)."
+        },
+        {
+          "name": "Elul (אֱלוּל)",
+          "subtitle": "6th month — August/September",
+          "description": "Month of repentance preceding Rosh Hashanah. The Shofar is blown every morning. The king is in the field — image of God's closeness to his people before judgment.",
+          "detail": "29 days. Daily reading of Psalm 27."
+        },
+        {
+          "name": "Tishri",
+          "subtitle": "7th month — September/October",
+          "description": "Holiest month — Rosh Hashanah (1-2), Yom Kippur (10), Sukkot (15-21), Shemini Atzeret (22), Simchat Torah (23). Month 7 reflects the perfection of the number 7.",
+          "detail": "30 days. Start of the calendar year (although 7th liturgical month)."
+        },
+        {
+          "name": "Heshvan (חֶשְׁוָן)",
+          "subtitle": "8th month — October/November",
+          "description": "Only month without a party. Sometimes called 'Mar-Cheshvan' (Bitter Cheshvan). Tradition says that the dedication of Solomon's Temple was to take place there. Rainy month in Israel — the flood began on Cheshvan 17.",
+          "detail": "29 or 30 days."
+        },
+        {
+          "name": "Kislev",
+          "subtitle": "9th month — November/December",
+          "description": "Month of Hanukkah (25 Kislev). In some traditions, months of dreams and visions (dreams of Joseph, vision of Zechariah). Kislev 19 is the Hasidic New Year.",
+          "detail": "29 or 30 days."
+        },
+        {
+          "name": "Tevet (טֵבֵת)",
+          "subtitle": "10th month — December/January",
+          "description": "Tevet 8: Ptolemy II translated the Torah into Greek (Septuagint) — fasted by some. Tevet 10: start of the siege of Jerusalem by Nebuchadnezzar.",
+          "detail": "29 days."
+        },
+        {
+          "name": "Shevat (שְׁבָט)",
+          "subtitle": "11th month — January/February",
+          "description": "The 15th of Shevat: Rosh Hashanah LaIlanot — New Year of Trees (Tu BiShvat). Reforestation, tasting of the 7 species of Israel. Almond trees are blooming in Israel.",
+          "detail": "30 days."
+        },
+        {
+          "name": "Adar (אֲדָר)",
+          "subtitle": "12th month — February/March",
+          "description": "Happiest month. Purim on Adar 14. Saying: 'When Adar enters, joy increases.' Month of birth and death of Moses (7 Adar).",
+          "detail": "29 days. Leap years: Adar I (30d) + Adar II (29d)."
+        }
+      ]
+    },
+    {
+      "id": "monnaie",
+      "emoji": "🪙",
+      "color": "from-amber-600 to-yellow-700",
+      "items": [
+        {
+          "name": "Guera (גֵּרָה)",
+          "subtitle": "Smallest monetary unit",
+          "description": "1/20 of a century. The smallest currency mentioned in the Torah. Used for the census half-century.",
+          "detail": "Leviticus 27:25; Exodus 30:13"
+        },
+        {
+          "name": "Beka (בֶּקַע)",
+          "subtitle": "Half shekel",
+          "description": "Equivalent to 10 gueras = 1/2 shekel. Used in the first census of Israel (Exodus 38:26). Weighs approximately 5-6 grams.",
+          "detail": "Genesis 24:22; Exodus 38:26"
+        },
+        {
+          "name": "Shekel (שֶׁקֶל)",
+          "subtitle": "Base unit — ~11-14g silver",
+          "description": "Fundamental monetary unit of the Hebrew Bible. The 'sanctuary shekel' is slightly heavier. Abraham weighs 400 shekels of silver to buy the cave of Machpelah (Genesis 23). Joseph sold for 20 shekels of silver.",
+          "detail": "1 shekel = 20 gueras = 2 bekas. Judah sold Jesus for 30 shekels (the price of a slave, Exodus 21:32)."
+        },
+        {
+          "name": "Mine (מָנֶה)",
+          "subtitle": "50 shekels",
+          "description": "Intermediate unit. 1 mina = 50 shekels (common usage) or 60 shekels (Babylonian standard). Used in important trade and in the description of the Temple of Ezekiel.",
+          "detail": "Ezekiel 45:12; Nehemiah 7:71-72"
+        },
+        {
+          "name": "Talent",
+          "subtitle": "3,000 shekels = 60 minas",
+          "description": "The largest unit of weight/value. A talent of gold was a colossal fortune — approximately 34 kg of gold or silver. David collects 3,000 talents of gold for the construction of the Temple. The parable of the talents (Matthew 25) uses this value.",
+          "detail": "1 Chronicles 29:7; Matthew 18:24 (10,000 talents = unpayable debt)"
+        },
+        {
+          "name": "Roman denarius (דִּינָר)",
+          "subtitle": "NT times — daily wage",
+          "description": "At the time of Jesus, the denarius (denarius) was the common currency of the Roman Empire. One denarius = 1 day of work for a farm worker (Matthew 20:2). Jesus asks to see a denarius during the tax controversy (Matthew 22:19).",
+          "detail": "The Greek drachma had a similar value. 100 deniers = approximately 1 mine."
+        }
+      ]
+    },
+    {
+      "id": "mesures",
+      "emoji": "⚖️",
+      "color": "from-slate-600 to-gray-700",
+      "items": [
+        {
+          "name": "- WEIGHT -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Guera (גֵּרָה)",
+          "subtitle": "Weight ~0.57g",
+          "description": "The smallest unit of weight. 20 gueras = 1 shekel.",
+          "detail": "Leviticus 27:25"
+        },
+        {
+          "name": "Shekel (שֶׁקֶל)",
+          "subtitle": "~11.4g (shrine ~14g)",
+          "description": "Basic unit of weight. The 'shekel of the sanctuary' is slightly higher. Weight used on scales to weigh silver, gold and precious materials.",
+          "detail": "Genesis 23:15; Exodus 30:13"
+        },
+        {
+          "name": "Mine (מָנֶה)",
+          "subtitle": "50 shekels = ~570g",
+          "description": "Intermediate business unit. Used in large trades.",
+          "detail": "Ezekiel 45:12"
+        },
+        {
+          "name": "Talent",
+          "subtitle": "3,000 shekels = ~34 kg",
+          "description": "Heaviest weight. A talent of gold or silver represents a fortune. The Hailstone of Revelation weighs one talent (Rev. 16:21).",
+          "detail": "Exodus 25:39; 1 Kings 9:14"
+        },
+        {
+          "name": "— LENGTHS —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Finger (אֶצְבַּע)",
+          "subtitle": "~1.85cm",
+          "description": "The smallest unit of biblical length. 4 fingers = 1 palm.",
+          "detail": "Jeremiah 52:21"
+        },
+        {
+          "name": "Palm / Palm (טֶפַח)",
+          "subtitle": "~7.4cm",
+          "description": "4 fingers side by side. 3 fins = 1 span.",
+          "detail": "Exodus 25:25; 1 Kings 7:26"
+        },
+        {
+          "name": "Empan (זֶרֶת)",
+          "subtitle": "~22cm",
+          "description": "Distance between extended thumb and little finger. 2 spans = 1 cubit.",
+          "detail": "Exodus 28:16; 1 Samuel 17:4 (Goliath: 6 cubits 1 span)"
+        },
+        {
+          "name": "Cubit (אַמָּה)",
+          "subtitle": "~44-52cm",
+          "description": "Distance from elbow to fingertips. Main architectural unit of the Bible. Noah's Ark: 300 × 50 × 30 cubits. Solomon's Temple: 60 × 20 × 30 cubits.",
+          "detail": "Genesis 6:15; 1 Kings 6:2; Ezekiel uses the 'great cubit' of 52 cm."
+        },
+        {
+          "name": "Door (cane, קָנֶה)",
+          "subtitle": "6 cubits = ~2.6 m",
+          "description": "Used by Ezekiel to measure the eschatological Temple. The angelic measure of the Temple of Revelation (11:1).",
+          "detail": "Ezekiel 40:5; Revelation 11:1"
+        },
+        {
+          "name": "Stadium (stádion)",
+          "subtitle": "~185 m (Greek)",
+          "description": "Greek measurement used in the NT. Emmaus is 60 stadia from Jerusalem (Luke 24:13 ≈ 11 km). The New Jerusalem: 12,000 furlongs aside (Rev. 21:16).",
+          "detail": "Luke 24:13; John 6:19; Rev. 21:16"
+        },
+        {
+          "name": "Roman mile / League",
+          "subtitle": "~1,480m",
+          "description": "The Roman mile (miliarium) = 1,000 double steps = ~1.48 km. Jesus said, 'If anyone forces you to go a mile, go with him two' (Matthew 5:41).",
+          "detail": "Matthew 5:41; Luke 24:13"
+        },
+        {
+          "name": "Sabbath (sabbath path)",
+          "subtitle": "~900m",
+          "description": "Maximum distance allowed for walking on the Sabbath according to rabbinical tradition (based on Numbers 35:5). The Mount of Olives is a 'Sabbath way' from Jerusalem.",
+          "detail": "Acts 1:12"
+        },
+        {
+          "name": "— VOLUMES —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Log (לֹג)",
+          "subtitle": "~0.31 liters",
+          "description": "The smallest measure of liquid volume. 4 logs = 1 kav. Used for oil in purification laws.",
+          "detail": "Leviticus 14:10"
+        },
+        {
+          "name": "Kav (קַב)",
+          "subtitle": "~1.2 liters",
+          "description": "Small dry measure. During the siege of Samaria, a kav of pigeon droppings sold for 5 shekels of silver (extreme famine, 2 Kings 6:25).",
+          "detail": "2 Kings 6:25"
+        },
+        {
+          "name": "Omer (עֹמֶר)",
+          "subtitle": "~2.2 liters = 1/10 of an epha",
+          "description": "The daily ration of manna per person (Exodus 16:16). Unity of the Feast of the First Sheaf (Leviticus 23:10-11).",
+          "detail": "Exodus 16:16,36"
+        },
+        {
+          "name": "Seah (סְאָה)",
+          "subtitle": "~7 liters = 1/3 of an epha",
+          "description": "Sarah prepares 3 seah of flour for Abraham's 3 visitors (Genesis 18:6). The woman hides the leaven in 3 seah of flour (Matthew 13:33).",
+          "detail": "Genesis 18:6; Matthew 13:33"
+        },
+        {
+          "name": "Ephah (אֵיפָה)",
+          "subtitle": "~22 liters",
+          "description": "Main unit of dry measurement. The bushel = 1/10 of an ephah. Used for grain offerings (Leviticus 5:11). Must be righteous: 'Thou shalt have but one righteous ephah' (Leviticus 19:36).",
+          "detail": "Leviticus 5:11; Ezekiel 45:11"
+        },
+        {
+          "name": "Hin (הִין)",
+          "subtitle": "~4 liters (liquid)",
+          "description": "Liquid equivalent of epha. Used to measure oil and wine for libations. 1 hr = 12 logs.",
+          "detail": "Exodus 29:40; Ezekiel 4:11"
+        },
+        {
+          "name": "Bath (בַּת)",
+          "subtitle": "~22 liters (= ephah)",
+          "description": "Primary liquid standard. 10 baths = 1 kor (homer). The brazen sea of ​​Solomon's Temple contained 2,000 baths (1 Kings 7:26).",
+          "detail": "1 Kings 7:26; Ezekiel 45:14"
+        },
+        {
+          "name": "Homer / Kor",
+          "subtitle": "~220 liters = 10 ephas",
+          "description": "The largest measurement of volume. Quails in the desert: the people collected at least 10 homers (Numbers 11:32). Ezekiel 45:14: 10 baths = 1 homer.",
+          "detail": "Numbers 11:32; Ezekiel 45:11,14"
+        }
+      ]
+    },
+    {
+      "id": "symbolique",
+      "emoji": "✡️",
+      "color": "from-indigo-600 to-blue-700",
+      "items": [
+        {
+          "name": "1 — Divine Oneness (אֶחָד)",
+          "subtitle": "The One, the one, the unique",
+          "description": "The absolute unity of God: 'Hear Israel, the LORD our God, the LORD is One' (Deuteronomy 6:4—the Shema). The number 1 expresses the incomparability of God, the exclusivity of the Alliance. There is no other god. In the NT: 'There is one God, and one Mediator' (1 Timothy 2:5).",
+          "detail": "Deuteronomy 6:4; 1 Timothy 2:5; Ephesians 4:4-6"
+        },
+        {
+          "name": "2 — Testimony & Duality",
+          "subtitle": "The confirmation, the two witnesses",
+          "description": "The Law requires 2 or 3 witnesses to establish a fact (Deuteronomy 19:15). Jesus sends his disciples out 2 by 2 (Mark 6:7). The 2 Tablets of the Law. The 2 Testaments. The 2 cherubim on the Ark. The Apocalypse speaks of the 2 witnesses (Rev. 11). 2 can also symbolize the division: good/evil, light/darkness.",
+          "detail": "Deuteronomy 19:15; Mark 6:7; Revelation 11:3"
+        },
+        {
+          "name": "3 — Trinity & Divine Fullness",
+          "subtitle": "Heavenly completeness",
+          "description": "The number of divine fullness. 3 patriarchs (Abraham, Isaac, Jacob). 3 annual pilgrimages. 3 sections of the Temple (courtyard, holy place, Holy of Holies). 3 days of Jonah and the resurrection of Jesus. The Trisagion: 'Holy, Holy, Holy' (Isaiah 6:3). The daily Jewish prayer is said 3 times.",
+          "detail": "Isaiah 6:3; Jonah 1:17; Matthew 12:40"
+        },
+        {
+          "name": "4 — Universality & Creation",
+          "subtitle": "The 4 corners of the earth",
+          "description": "4 cardinal points = the universality of the created world. 4 winds, 4 rivers of paradise (Genesis 2:10-14), 4 living beings of the divine chariot (Ezekiel 1; Revelation 4). The 4 species of Sukkot agitated towards the 4 directions. The 4 kingdoms of Daniel. The 4 Gospels.",
+          "detail": "Genesis 2:10; Ezekiel 1:5; Daniel 7:3; Revelation 4:6"
+        },
+        {
+          "name": "5 — Grace & Torah",
+          "subtitle": "The 5 books of Moses",
+          "description": "5 = the 5 books of the Torah (Pentateuch). 5 = grace in Hebrew (ḥen). The 5 offerings of Leviticus. David chose 5 smooth stones against Goliath (1 Samuel 17:40). The 5 porches of Bethesda (John 5:2). The 5 loaves of multiplication (Matthew 14:17).",
+          "detail": "1 Samuel 17:40; John 5:2; Matthew 14:17"
+        },
+        {
+          "name": "6 — Imperfection & Human Work",
+          "subtitle": "The number of man",
+          "description": "6 days of work (before the Sabbath). Man created on the 6th day. 6 cities of refuge. Goliath measures 6 cubits and 1 span, has 6 weapons. 666 (Revelation 13:18) = imperfection brought to its height, the triple 6 symbolizing the man who claims to replace God (7) without ever reaching him.",
+          "detail": "Exodus 20:9; Genesis 1:31; Revelation 13:18"
+        },
+        {
+          "name": "7 — Perfection & Covenant",
+          "subtitle": "The sacred number par excellence",
+          "description": "'Sheva' (7) shares the root of 'oath' (shevua) — in Hebrew, to swear is 'to bind by the 7'. 7 days of Creation, 7 feasts, 7 candles of the Menorah, 7 sabbatical years, 7 times forgiving × 70 (Matthew 18:22). Revelation uses 7 more than 50 times (seals, trumpets, vials, letters, spirits). 777 = absolute fullness.",
+          "detail": "Genesis 2:2; Matthew 18:22; Revelation 1:4"
+        },
+        {
+          "name": "8 — New beginning",
+          "subtitle": "Beyond the cycle of 7",
+          "description": "8 = the first day after the complete Sabbath = resurrection, new creation. Circumcision on the 8th day (Genesis 17:12) = entry into the Covenant, new beginning. Jesus resurrects on the first day of the week = the symbolic 8th day. The 8 people saved in the ark (1 Peter 3:20). The Hanukkah Menorah has 8 branches.",
+          "detail": "Genesis 17:12; 1 Peter 3:20; John 20:1"
+        },
+        {
+          "name": "10 — Law & Integrity",
+          "subtitle": "The decimal of completeness",
+          "description": "10 Commandments, 10 plagues of Egypt, 10 generations from Noah to Abraham, 10 generations from Abraham to Noah. The tithe = 1/10. The synagogal minyan = 10 adult men (prayer quorum). The 10 virgins (Matthew 25). The 10 strings of David's harp.",
+          "detail": "Exodus 20; Genesis 5; Matthew 25:1"
+        },
+        {
+          "name": "12 — Divine government",
+          "subtitle": "The number of God's people",
+          "description": "12 sons of Jacob = 12 tribes of Israel. 12 apostles. 12 months of the year. 12 loaves of presence (1 per tribe). 12 pectoral stones. 12 springs in Elim (Exodus 15:27). The New Jerusalem: 12 gates, 12 foundations, 12,000 stadiums on each side, 144,000 elect (12×12×1,000).",
+          "detail": "Genesis 49; Matthew 10:1; Revelation 21:12-21"
+        },
+        {
+          "name": "17 — Victory & Grace",
+          "subtitle": "7 + 10 = perfection of the Fa",
+          "description": "Little known but rich number: sum of 10 (Law) and 7 (completeness). Joseph was sold at age 17 — the beginning of his path to victory. Noah's ark stops on the 17th day of the 7th month (Genesis 8:4). In the NT, Romans 8 — the victory chapter — lists 17 things that do not separate from the love of God.",
+          "detail": "Genesis 37:2; Genesis 8:4; Romans 8:35-39"
+        },
+        {
+          "name": "40 — Trial & Transformation",
+          "subtitle": "The duration of the purification periods",
+          "description": "40 days of the flood. 40 years in the desert. 40 days of Moses at Sinai (twice). 40 days of Elijah in the desert. 40 years of the reign of David and Solomon. 40 days of temptation of Jesus. 40 days between Resurrection and Ascension. 40 = a complete time of trial leading to a transformation.",
+          "detail": "Genesis 7:4; Exodus 24:18; Matthew 4:2; Acts 1:3"
+        },
+        {
+          "name": "50 — Jubilee & Pentecost",
+          "subtitle": "Grace at the top",
+          "description": "50 years = the Jubilee (universal liberation, handing over of lands, Leviticus 25). 50 days between Passover and Shavuot = Pentecost. 50 columns in the courtyard of the Tabernacle. 50 clasps of gold and brass connecting the panels of the Tabernacle. The Christian Pentecost (Acts 2) falls exactly 50 days after Easter.",
+          "detail": "Leviticus 25:10; Exodus 26:6; Acts 2:1"
+        },
+        {
+          "name": "70 — Nations & Expanded Fullness",
+          "subtitle": "The universality of salvation",
+          "description": "70 nations from the Table of Nations (Genesis 10) = all humanity. 70 elders of Israel. 70 years of Babylonian exile (Jeremiah 25:11). 70 weeks of Daniel (9:24). Jesus sends 70 disciples (Luke 10:1)—one for each nation. 70 members of the Sanhedrin. 70 souls from the house of Jacob in Egypt.",
+          "detail": "Genesis 10; Jeremiah 25:11; Daniel 9:24; Luke 10:1"
+        },
+        {
+          "name": "153 — The Great Fishes",
+          "subtitle": "Mysterious Number of John 21",
+          "description": "John 21:11: the miraculous catch after the Resurrection = exactly 153 large fish. The Fathers of the Church speculated a lot: Jerome said that there were 153 known species of fish = fishing symbolizes all the peoples of the earth. Mathematically: 153 = 1³+5³+3³ and the sum from 1 to 17.",
+          "detail": "John 21:11"
+        },
+        {
+          "name": "666 — The Number of the Beast",
+          "subtitle": "Triple human imperfection",
+          "description": "Revelation 13:18: 'The number of the beast... is the number of a man, and his number is 666.' In gematria (Hebrew numerology), 666 corresponds to 'Neron Caesar' in Hebrew — a probable allusion to Roman persecution. Symbolically: the 6 repeated 3 times = the man (6) who wants to achieve divine perfection (7) without ever achieving it.",
+          "detail": "Revelation 13:18; 1 Kings 10:14 (666 talents of Solomon's gold)"
+        }
+      ]
+    },
+    {
+      "id": "quantites",
+      "emoji": "🔢",
+      "color": "from-purple-600 to-violet-700",
+      "items": [
+        {
+          "name": "— SYMBOLIC NUMBERS —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "3 — Trinity & Divine Fullness",
+          "subtitle": "Number of divine completeness",
+          "description": "The number 3 expresses divine fullness: 3 patriarchs (Abraham, Isaac, Jacob), 3 divisions of the Temple, 3 obligatory annual pilgrimages, 3 days of resurrection of Jonah and Jesus. The Trisagion: 'Holy, Holy, Holy' (Isaiah 6:3).",
+          "detail": "Jonah 1:17; Matthew 12:40; Isaiah 6:3"
+        },
+        {
+          "name": "7 — Perfection & Covenant",
+          "subtitle": "Number of achievement",
+          "description": "The most symbolic number in the Bible. 7 days of Creation, 7 annual festivals, 7 candles of the Menorah, 7 sabbatical years, 70 weeks of Daniel. 'Sheva' (7) shares the root of 'oath' (shevua) — to swear by the 7.",
+          "detail": "Revelation: 7 seals, 7 trumpets, 7 vials. 777 = absolute fullness."
+        },
+        {
+          "name": "10 — Law & Integrity",
+          "subtitle": "Decimal of completeness",
+          "description": "10 Commandments, 10 plagues of Egypt, 10 generations from Noah to Abraham. The tithe = 1/10. A synagogal quorum (minyan) = 10 adult men. The 10 virgins of the parable.",
+          "detail": "Exodus 20; Genesis 5; Matthew 25:1"
+        },
+        {
+          "name": "12 — Divine government",
+          "subtitle": "Number of God's people",
+          "description": "12 sons of Jacob = 12 tribes of Israel. 12 apostles. 12 months. 12 loaves of presence. 12 pectoral stones. The New Jerusalem: 12 gates, 12 foundations, 12,000 stadia on each side, 144,000 (12×12×1000).",
+          "detail": "Genesis 49; Matthew 10:1; Revelation 21"
+        },
+        {
+          "name": "40 — Trial & Transformation",
+          "subtitle": "Duration of probation periods",
+          "description": "40 days of the flood, 40 years in the desert, 40 days of Moses at Sinai, 40 years of the reign of David and Solomon, 40 days of fasting of Elijah, 40 days of temptation of Jesus, 40 days between Resurrection and Ascension.",
+          "detail": "Genesis 7:4; Exodus 24:18; Matthew 4:2; Acts 1:3"
+        },
+        {
+          "name": "50 — Jubilee & Grace",
+          "subtitle": "Number of release",
+          "description": "50 years = Jubilee (liberation, handover of land). 50 days between Passover and Shavuot = Pentecost. The 50 columns of the Tabernacle. Christian Pentecost = outpouring of the Spirit after 50 days.",
+          "detail": "Leviticus 25:10; Acts 2:1"
+        },
+        {
+          "name": "70 — Nations & Extended Completeness",
+          "subtitle": "Number of national fullness",
+          "description": "70 nations from the Table of Nations (Genesis 10). 70 elders of Israel (Exodus 24:1). 70 years of Babylonian exile. 70 weeks of Daniel. Jesus sends 70 disciples (Luke 10). 70 members of the Sanhedrin.",
+          "detail": "Genesis 10; Daniel 9:24; Luke 10:1"
+        },
+        {
+          "name": "— GROUP UNITS —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Ten (עֲשָׂרָה)",
+          "subtitle": "Basic military and social unit",
+          "description": "The smallest unit of social organization. Jethro advises Moses to organize the people into units of 10 (Exodus 18:21). Chief of ten = lowest officer in Israel's military hierarchy. The synagogue minyan = 10.",
+          "detail": "Exodus 18:21,25; Deuteronomy 1:15"
+        },
+        {
+          "name": "Fifty (חֲמִשִּׁים)",
+          "subtitle": "Group of 50 people",
+          "description": "Intermediate unit in Moses' military organization. The leaders of fifty supervised 5 tens. Elijah is confronted by two groups of 50 soldiers sent by King Ahaziah (2 Kings 1:9-14).",
+          "detail": "Exodus 18:21; 2 Kings 1:9-14"
+        },
+        {
+          "name": "Hundred (מֵאָה)",
+          "subtitle": "Group of 100 people",
+          "description": "Important unit in the organization of Israel. The leaders of the hundred are mentioned in the organization of the army and the nation. Jesus seated the crowd in groups of 50 and 100 (Mark 6:40).",
+          "detail": "Exodus 18:21; Numbers 31:14; Mark 6:40"
+        },
+        {
+          "name": "Thousand (אֶלֶף)",
+          "subtitle": "Tribe/clan/unit of 1000",
+          "description": "'Elef' = thousand, but also 'clan' or 'tribe' in certain contexts. Tribes were divided into thousands for military censuses. Leader of a thousand = senior officer. Gideon said: 'My clan is the weakest...I am the last in my father's house.'",
+          "detail": "Exodus 18:21; Judges 6:15; Numbers 1:16"
+        },
+        {
+          "name": "Myriad (רְבָבָה)",
+          "subtitle": "10,000 — number of the innumerable",
+          "description": "10,000 — the largest common number in ancient Hebrew numeration. Expresses the immensity: 'Moses had 10,000 times 10,000 children of Israel' (idiom of abundance). David: 'Saul killed a thousand, and David ten thousand' (1 Samuel 18:7).",
+          "detail": "1 Samuel 18:7; Deuteronomy 32:30; Revelation 5:11 (myriads of myriads)"
+        },
+        {
+          "name": "— DIVISIONS OF TIME —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Time (שָׁעָה)",
+          "subtitle": "1/12 of day or night",
+          "description": "The Hebrews divided the day (sunrise to sunset) into 12 hours of varying length depending on the season. The 'third hour' = 9 a.m., the 'sixth hour' = noon, the 'ninth hour' = 3 p.m. (time of prayer and death of Jesus).",
+          "detail": "Matthew 20:3-9; Mark 15:25,33,34; Acts 3:1"
+        },
+        {
+          "name": "Watch (אַשְׁמוּרָה)",
+          "subtitle": "Division of the night into 3 or 4 parts",
+          "description": "The night was divided into military vigils. The Hebrew OT uses 3 watches: evening watch, midnight watch, morning watch. The Roman NT uses 4 watches: evening, midnight, cockcrow, morning. Jesus walks on water in the 4th watch (Matthew 14:25).",
+          "detail": "Judges 7:19; Lamentations 2:19; Matthew 14:25"
+        },
+        {
+          "name": "Sabbatical Week (שְׁמִטָּה)",
+          "subtitle": "7 year cycle",
+          "description": "Every 7 years, the earth rests (Leviticus 25:1-7): no sowing or harvest. Debts owed to the Israelites are forgiven (Deuteronomy 15:1-3). The Hebrew slaves are freed (Exodus 21:2). Failure to observe these sabbatical years is one of the causes of the Babylonian exile (2 Chronicles 36:21).",
+          "detail": "Leviticus 25:1-7; Deuteronomy 15:1; 2 Chronicles 36:21"
+        },
+        {
+          "name": "Generation (דּוֹר)",
+          "subtitle": "~40 years in the Bible",
+          "description": "One biblical generation = approximately 40 years (the 40 years in the desert = one generation). Matthew 1:17 structures the genealogy of Jesus into 3 × 14 generations. 'Unto the 3rd and 4th generation' (punishment) vs 'unto a thousand generations' (blessing, Exodus 20:5-6).",
+          "detail": "Exodus 20:5-6; Numbers 14:33; Matthew 1:17"
+        }
+      ]
+    },
+    {
+      "id": "vetements",
+      "emoji": "👘",
+      "color": "from-rose-600 to-red-700",
+      "items": [
+        {
+          "name": "— COMMON CLOTHING —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Touniqa / Kétonet (כֻּתֹּנֶת)",
+          "subtitle": "Long tunic — basic garment",
+          "description": "Long shirt worn next to the skin by men and women. Could be linen (priests) or wool. Joseph receives the famous 'tunic of many colors' (or long-sleeved, ketonet passim) from his father Jacob.",
+          "detail": "Genesis 37:3; John 19:23 (Jesus' seamless tunic)"
+        },
+        {
+          "name": "Cloak / Simlah (שִׂמְלָה)",
+          "subtitle": "Large rectangular coat",
+          "description": "Rectangular piece of fabric worn over the tunic. Also served as a cover at night. The Law forbids keeping the poor man's cloak as a pledge after sunset (Exodus 22:25-26).",
+          "detail": "Deuteronomy 22:12 (corner fringes)"
+        },
+        {
+          "name": "Meil (מְעִיל)",
+          "subtitle": "Sleeveless dress, bridesmaid dress",
+          "description": "Ceremonial clothing worn by people of high rank. Samuel wore a better one. Saul tears up Samuel's eye (1 Samuel 15:27)—symbol of the torn kingdom. David dances in meil (2 Samuel 6:14).",
+          "detail": "1 Samuel 2:19; 1 Samuel 15:27; Job 29:14"
+        },
+        {
+          "name": "Belt / Hagora (חֲגוֹרָה)",
+          "subtitle": "Belt, belt",
+          "description": "Essential accessory for rolling up the tunic when working or fighting. 'Gird one's loins' = prepare oneself for action. John the Baptist wears a leather belt (Matthew 3:4).",
+          "detail": "Ephesians 6:14 (metaphor for truth)"
+        },
+        {
+          "name": "Sandals (סַנְדָּל)",
+          "subtitle": "Leather shoes",
+          "description": "The Hebrews wore leather sandals — soles tied with laces. Taking off one's sandal = giving up a right (Ruth 4:7) or sign of unworthiness (John 1:27). God said to Moses, 'Take off your sandals' (Exodus 3:5).",
+          "detail": "Amos 2:6 (sold for a pair of sandals)"
+        },
+        {
+          "name": "Tzitsit (צִיצִית)",
+          "subtitle": "Ritual fringes at the corners of the garment",
+          "description": "Numbers 15:38-39 commands tying fringes (tzitsit) to the four corners of the garment with blue thread (tekhelet). Reminder of all the commandments. The bleeding woman touches the 'edge of Jesus' garment' (tsitsit).",
+          "detail": "Matthew 9:20; Deuteronomy 22:12"
+        },
+        {
+          "name": "Phylacteries / Tefillin (תְּפִלִּין)",
+          "subtitle": "Leather boxes containing biblical texts",
+          "description": "Small black leather boxes worn on the left arm and forehead during morning prayers (except Shabbat). Contain 4 passages from the Torah (Ex.13:1-10; Ex.13:11-16; Dt.6:4-9; Dt.11:13-21). Based on Deuteronomy 6:8.",
+          "detail": "Matthew 23:5 (Jesus criticizes enlarged phylacteries)"
+        },
+        {
+          "name": "— PRIESTLY GARMENTS —",
+          "subtitle": "Leviticus 8; Exodus 28-29",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Linen Breeches (מִכְנָסַיִם)",
+          "subtitle": "Obligatory priestly underwear",
+          "description": "White linen pants covering from the kidneys to the thighs. All priests wore them to cover their nudity during service at the altar. Reminder of holiness and modesty before God.",
+          "detail": "Exodus 28:42; Leviticus 6:3"
+        },
+        {
+          "name": "Linen tunic (כֻּתֹּנֶת בַּד)",
+          "subtitle": "Long white linen robe — ordinary priests",
+          "description": "Embroidered white tunic worn by all priests. White linen symbolizes purity. It goes down to the feet. For ordinary priests, it is the most visible garment.",
+          "detail": "Exodus 28:39; Leviticus 8:13"
+        },
+        {
+          "name": "Embroidered belt (אַבְנֵט)",
+          "subtitle": "Multicolored linen belt",
+          "description": "Belt of fine white linen with colored threads (blue, purple, crimson) worn by ordinary priests, and even more ornate for the High Priest. It allowed the tunic to be rolled up.",
+          "detail": "Exodus 28:39; 39:29"
+        },
+        {
+          "name": "Miter / Turban (מִגְבָּעָה)",
+          "subtitle": "Headgear of ordinary priests",
+          "description": "White linen cap for ordinary priests. Different from the great turban (mitznefet) of the High Priest. Sign of sacred service and priestly dignity.",
+          "detail": "Exodus 28:40; 29:9"
+        },
+        {
+          "name": "— GARMENTS OF THE HIGH PRIEST —",
+          "subtitle": "8 garments in total (the 4 of the priests + 4 additional)",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Blue dress",
+          "subtitle": "All-blue dress — under the Ephod",
+          "description": "Seamless blue wool dress (tekhelet), with a border of pomegranates in alternating colored threads with gold bells. The bells jingled to signal the presence of the High Priest in the holy place.",
+          "detail": "Exodus 28:31-35 — 'so that he may not die'"
+        },
+        {
+          "name": "Ephod (אֵפוֹד)",
+          "subtitle": "Supreme Priestly Apron — linen and gold",
+          "description": "Distinctive vestment of the High Priest, made of gold thread, blue, purple, crimson wool and fine woven linen. Worn on the chest like a corselet apron. Two onyx stones on the shoulder boards bear the names of the 12 tribes (6 per side).",
+          "detail": "Exodus 28:6-14 — The High Priest 'brings' Israel before God"
+        },
+        {
+          "name": "Breastplate of Judgment (חֹשֶׁן)",
+          "subtitle": "12 precious stones — 12 tribes",
+          "description": "Square piece (22×22 cm) of the same fabric as the Ephod, worn on the chest. Set with 12 precious stones in 4 rows, each engraved with the name of a tribe of Israel. Contained the Ourim and Tummim.",
+          "detail": "Exodus 28:15-30; the 12 stones foreshadow the foundations of the New Jerusalem (Rev. 21:19-20)"
+        },
+        {
+          "name": "Urim and Thummim",
+          "subtitle": "Lights and Perfections — divine oracle",
+          "description": "Mysterious objects placed in the breastplate to consult God. Their exact nature is unknown (stones, dice?). Ourim = 'Lights', Toummim = 'Perfections'. Used to obtain divine answers in important national decisions.",
+          "detail": "Exodus 28:30; Numbers 27:21; 1 Samuel 28:6"
+        },
+        {
+          "name": "Large Turban (מִצְנֶפֶת)",
+          "subtitle": "Headdress of the High Priest in fine linen",
+          "description": "Large white linen turban, distinct from the cap of ordinary priests. The gold blade (tsits) is fixed on the turban by a blue cord.",
+          "detail": "Exodus 28:36-38; Leviticus 8:9"
+        },
+        {
+          "name": "Golden Blade (צִיץ)",
+          "subtitle": "Gold plaque: 'HOLINESS TO THE LORD'",
+          "description": "Pure gold blade attached to the front of the turban by a blue cord. Engraved with the inscription: 'Qodesh the YHWH' — 'Holiness to the Lord'. The High Priest 'bears' the iniquity of Israel's offerings with this blade.",
+          "detail": "Exodus 28:36-38 — 'that they may find grace before the LORD'"
+        }
+      ]
+    }
+  ]
+}

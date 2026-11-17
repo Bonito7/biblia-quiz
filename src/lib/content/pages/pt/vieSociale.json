@@ -1,0 +1,683 @@
+{
+  "sections": [
+    {
+      "id": "fetes",
+      "emoji": "🕍",
+      "color": "from-blue-600 to-indigo-700",
+      "items": [
+        {
+          "name": "Shabat (שַׁבָּת)",
+          "subtitle": "Toda semana - sexta à noite a sábado à noite",
+          "description": "O sábado semanal, baseado na Criação (Gênesis 2:3) e na Lei (Êxodo 20:8-11). Cessação total do trabalho, refeições festivas, sinagoga. Simboliza a Aliança entre Deus e Israel (Êxodo 31:13). A halakha lista 39 categorias de trabalho proibido.",
+          "detail": "Duração: 25 horas. Começa com a mulher acendendo as velas. Termina com Havdalá (separação)."
+        },
+        {
+          "name": "Páscoa – Pesah (פֶּסַח)",
+          "subtitle": "14-21 Nissan (março-abril)",
+          "description": "Comemoração do Êxodo do Egito (Êxodo 12). Refeição Seder com cordeiro pascal, ervas amargas, matzot (pão ázimo). Lendo a Hagadá. As casas são limpas de todo fermento (hametz) – um símbolo de pecado e orgulho.",
+          "detail": "Duração: 7 dias (8 na diáspora). As 4 taças de vinho simbolizam as 4 promessas divinas de Êxodo 6:6-7."
+        },
+        {
+          "name": "Pentecostes – Shavuot (שָׁבוּעוֹת)",
+          "subtitle": "6-7 Sivan (maio-junho) – 50 dias após a Páscoa",
+          "description": "Festa das Semanas/Colheita. Comemoração da dádiva da Torá no Sinai. Oferenda das primícias (bikourim). Lemos o livro de Rute. No NT: o dia de Pentecostes (Atos 2) cai neste dia.",
+          "detail": "Duração: 1 dia (2 na diáspora). A sinagoga é decorada com vegetação que evoca o Monte Sinai."
+        },
+        {
+          "name": "Rosh Hashaná (רֹאשׁ הַשָּׁנָה)",
+          "subtitle": "1-2 Tishri (setembro-outubro)",
+          "description": "Ano Novo Judaico - literalmente 'cabeça do ano'. Julgamento divino simbólico: Deus abre os Livros da vida. Som do Shofar (chifre de carneiro) 100 vezes. Período de arrependimento (Yamim Noraim). Mel e maçã para um ‘feliz ano novo’.",
+          "detail": "Duração: 2 dias. Começa 10 dias de penitência que termina em Yom Kippur."
+        },
+        {
+          "name": "Yom Kipur (יוֹם כִּפּוּר)",
+          "subtitle": "10 Tishri – Grande Dia da Expiação",
+          "description": "Dia mais solene do ano judaico. Jejum de 25 horas, cinco cultos de oração, confissões coletivas. Na época do Templo: o Sumo Sacerdote entra uma vez por ano no Santo dos Santos para aspergir com sangue o propiciatório (Levítico 16). O bode expiatório é enviado para o deserto.",
+          "detail": "Proibido: comer, beber, lavar-se, relações conjugais, perfumes, sapatos de couro."
+        },
+        {
+          "name": "Sucot (סֻכּוֹת)",
+          "subtitle": "15-21 Tishri – Festival das Cabanas",
+          "description": "Comemorando 40 anos no deserto. Construção de cabanas (sucot) com telhados verdes revelando o céu. Comemos lá, rezamos, às vezes dormimos 7 dias. As 4 espécies: loulav (palmeira), etrog (cidra), murta, salgueiro - moveram-se em direção aos 4 pontos cardeais.",
+          "detail": "O feriado mais feliz. O 7º dia (Hoshana Rabba) é o dia do encerramento final do julgamento."
+        },
+        {
+          "name": "Hanukkah (חֲנֻכָּה)",
+          "subtitle": "25 Kislev – 8 dias (novembro-dezembro)",
+          "description": "Festival das Luzes — comemoração da rededicação do Templo (165 aC) após a vitória dos Macabeus sobre Antíoco IV. Milagre do óleo (1 dia o óleo queima 8 dias). Iluminação de Hanoukia (castiçal de 9 braços), jogos de piões, donuts.",
+          "detail": "Não bíblico (intertestamentário). Mencionado em João 10:22 ('Festa da Dedicação')."
+        },
+        {
+          "name": "Purim (פּוּרִים)",
+          "subtitle": "14 de Adar (fevereiro a março)",
+          "description": "Feriado muito alegre – comemoração da salvação dos judeus na Pérsia (livro de Ester). Leitura da Meguilá (livro de Ester) na sinagoga. Faz-se barulho em nome de Hamã. Fantasias, festas, presentes de alimentos (mishloah manot), doações aos pobres.",
+          "detail": "Duração: 1 dia. 'Purim' = sorteio — Hamã lançou a sorte para escolher o dia do massacre."
+        },
+        {
+          "name": "Ano do Jubileu (יוֹבֵל)",
+          "subtitle": "A cada 50 anos",
+          "description": "Após 7 semanas de anos (49 anos), o ano 50 é o Jubileu (Levítico 25). Libertação de todos os escravos hebreus, retorno de cada família à sua terra ancestral, perdão das dívidas. Toque do Shofar no Yom Kippur do Ano do Jubileu. Jesus cita Isaías 61 (“o ano da graça”) no início de seu ministério.",
+          "detail": "O Ano Sabático (a cada 7 anos) precede o Jubileu: a terra descansa, as dívidas são perdoadas."
+        }
+      ]
+    },
+    {
+      "id": "mois",
+      "emoji": "📅",
+      "color": "from-teal-600 to-emerald-700",
+      "items": [
+        {
+          "name": "Nissan (נִיסָן)",
+          "subtitle": "1º mês sagrado – março/abril",
+          "description": "Primeiro mês do calendário litúrgico. Mês da Páscoa (Pessach). Êxodo 12:2: 'Este mês será para vós o princípio dos meses, e para vós o primeiro dos meses do ano.' Mês de libertação e milagres.",
+          "detail": "30 dias. Início da primavera. A sorte inesperada parou no dia 16 de Nissan."
+        },
+        {
+          "name": "Iyar (אִיָּר)",
+          "subtitle": "2º mês — abril/maio",
+          "description": "Mês da cura (letras iniciais = Ani YHWH Ropheka — 'Eu sou o Senhor que te cura'). Pesah Sheni (Páscoa Secundária) em 14 de Iyar para aqueles que estavam impuros.",
+          "detail": "29 dias. A contagem do Ômer continua."
+        },
+        {
+          "name": "Sivan (סִיוָן)",
+          "subtitle": "3º mês — maio/junho",
+          "description": "Mês da entrega da Torá no Sinai. Festa de Shavuot (Pentecostes) no dia 6 de Sivan. Mês ligado à revelação divina e à Lei.",
+          "detail": "30 dias. No NT: Pentecostes de Atos 2 cai neste mês."
+        },
+        {
+          "name": "Tamuz (תַּמּוּז)",
+          "subtitle": "4º mês — junho/julho",
+          "description": "Mês de luto – em 17 de Tamuz, Moisés quebra as Tábuas da Lei. Início do período de luto de 3 semanas até 9 Av.",
+          "detail": "29 dias."
+        },
+        {
+          "name": "Av (אָב)",
+          "subtitle": "5º mês – julho/agosto",
+          "description": "Mês mais triste. 9 de Av (Ticha B'Av): destruição do 1º Templo (586 AC) e do 2º Templo (70 DC), expulsão da Espanha (1492) e numerosas tragédias judaicas. 25 horas de jejum.",
+          "detail": "30 dias. O dia 15 de Av é paradoxalmente um feriado alegre (festa do amor)."
+        },
+        {
+          "name": "Elul (אֱלוּל)",
+          "subtitle": "6º mês – agosto/setembro",
+          "description": "Mês de arrependimento que precede Rosh Hashaná. O Shofar é tocado todas as manhãs. O rei está no campo – imagem da proximidade de Deus com o seu povo antes do julgamento.",
+          "detail": "29 dias. Leitura diária do Salmo 27."
+        },
+        {
+          "name": "Tisri",
+          "subtitle": "7º mês – setembro/outubro",
+          "description": "Mês mais sagrado – Rosh Hashaná (1-2), Yom Kippur (10), Sucot (15-21), Shemini Atzeret (22), Simchat Torá (23). O mês 7 reflete a perfeição do número 7.",
+          "detail": "30 dias. Início do ano civil (embora seja o 7º mês litúrgico)."
+        },
+        {
+          "name": "Heshvan (חֶשְׁוָן)",
+          "subtitle": "8º mês – outubro/novembro",
+          "description": "Único mês sem festa. Às vezes chamado de 'Mar-Cheshvan' (Cheshvan amargo). A tradição diz que a dedicação do Templo de Salomão aconteceria ali. Mês chuvoso em Israel — a enchente começou em 17 de Cheshvan.",
+          "detail": "29 ou 30 dias."
+        },
+        {
+          "name": "Kislev",
+          "subtitle": "9º mês – novembro/dezembro",
+          "description": "Mês de Hanukkah (25 Kislev). Em algumas tradições, meses de sonhos e visões (sonhos de José, visão de Zacarias). Kislev 19 é o Ano Novo Hassídico.",
+          "detail": "29 ou 30 dias."
+        },
+        {
+          "name": "Tevet (טֵבֵת)",
+          "subtitle": "10º mês – dezembro/janeiro",
+          "description": "Tevet 8: Ptolomeu II traduziu a Torá para o grego (Septuaginta) – jejuado por alguns. 10 de Tevet: início do cerco de Jerusalém por Nabucodonosor.",
+          "detail": "29 dias."
+        },
+        {
+          "name": "Shevat (שְׁבָט)",
+          "subtitle": "11º mês – janeiro/fevereiro",
+          "description": "15 de Shevat: Rosh Hashanah LaIlanot – Ano Novo das Árvores (Tu BiShvat). Reflorestamento, degustação das 7 espécies de Israel. As amendoeiras estão florescendo em Israel.",
+          "detail": "30 dias."
+        },
+        {
+          "name": "Adar (אֲדָר)",
+          "subtitle": "12º mês – fevereiro/março",
+          "description": "Mês mais feliz. Purim em 14 de Adar. Dizendo: 'Quando Adar entra, a alegria aumenta.' Mês de nascimento e morte de Moisés (7 de Adar).",
+          "detail": "29 dias. Anos bissextos: Adar I (30d) + Adar II (29d)."
+        }
+      ]
+    },
+    {
+      "id": "monnaie",
+      "emoji": "🪙",
+      "color": "from-amber-600 to-yellow-700",
+      "items": [
+        {
+          "name": "Guera (גֵּרָה)",
+          "subtitle": "Menor unidade monetária",
+          "description": "1/20 de século. A menor moeda mencionada na Torá. Usado para o censo há meio século.",
+          "detail": "Levítico 27:25; Êxodo 30:13"
+        },
+        {
+          "name": "Beka (בֶּקַע)",
+          "subtitle": "Meio siclo",
+          "description": "Equivalente a 10 gueras = 1/2 siclo. Usado no primeiro censo de Israel (Êxodo 38:26). Pesa aproximadamente 5-6 gramas.",
+          "detail": "Gênesis 24:22; Êxodo 38:26"
+        },
+        {
+          "name": "Shekel (שֶׁקֶל)",
+          "subtitle": "Unidade base — ~11-14g prata",
+          "description": "Unidade monetária fundamental da Bíblia Hebraica. O 'shekel do santuário' é um pouco mais pesado. Abraão pesa 400 siclos de prata para comprar a caverna de Macpela (Gênesis 23). José foi vendido por 20 siclos de prata.",
+          "detail": "1 siclo = 20 gueras = 2 bekas. Judá vendeu Jesus por 30 siclos (o preço de um escravo, Êxodo 21:32)."
+        },
+        {
+          "name": "Meu (מָנֶה)",
+          "subtitle": "50 siclos",
+          "description": "Unidade intermediária. 1 mina = 50 siclos (uso comum) ou 60 siclos (padrão babilônico). Usado em comércio importante e na descrição do Templo de Ezequiel.",
+          "detail": "Ezequiel 45:12; Neemias 7:71-72"
+        },
+        {
+          "name": "Talento",
+          "subtitle": "3.000 siclos = 60 minas",
+          "description": "A maior unidade de peso/valor. Um talento de ouro representava uma fortuna colossal — aproximadamente 34 kg de ouro ou prata. David arrecada 3.000 talentos de ouro para a construção do Templo. A parábola dos talentos (Mateus 25) utiliza esse valor.",
+          "detail": "1 Crônicas 29:7; Mateus 18:24 (10.000 talentos = dívida impagável)"
+        },
+        {
+          "name": "Denário romano (דִּינָר)",
+          "subtitle": "Tempos NT – salário diário",
+          "description": "Na época de Jesus, o denário (denário) era a moeda comum do Império Romano. Um denário = 1 dia de trabalho para um trabalhador rural (Mateus 20:2). Jesus pede para ver um denário durante a controvérsia tributária (Mateus 22:19).",
+          "detail": "O dracma grego tinha um valor semelhante. 100 negadores = aproximadamente 1 mina."
+        }
+      ]
+    },
+    {
+      "id": "mesures",
+      "emoji": "⚖️",
+      "color": "from-slate-600 to-gray-700",
+      "items": [
+        {
+          "name": "- PESO -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Guera (גֵּרָה)",
+          "subtitle": "Peso ~0,57g",
+          "description": "A menor unidade de peso. 20 gueras = 1 siclo.",
+          "detail": "Levítico 27:25"
+        },
+        {
+          "name": "Shekel (שֶׁקֶל)",
+          "subtitle": "~11,4g (santuário ~14g)",
+          "description": "Unidade básica de peso. O 'shekel do santuário' é um pouco mais alto. Peso usado em balanças para pesar prata, ouro e materiais preciosos.",
+          "detail": "Gênesis 23:15; Êxodo 30:13"
+        },
+        {
+          "name": "Meu (מָנֶה)",
+          "subtitle": "50 siclos = ~570g",
+          "description": "Unidade de negócios intermediária. Utilizado em grandes comércios.",
+          "detail": "Ezequiel 45:12"
+        },
+        {
+          "name": "Talento",
+          "subtitle": "3.000 siclos = ~34 kg",
+          "description": "Peso mais pesado. Um talento de ouro ou prata representa uma fortuna. A pedra de granizo do Apocalipse pesa um talento (Ap 16:21).",
+          "detail": "Êxodo 25:39; 1 Reis 9:14"
+        },
+        {
+          "name": "- COMPRIMENTOS -",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Dedo (אֶצְבַּע)",
+          "subtitle": "~1,85cm",
+          "description": "A menor unidade de comprimento bíblico. 4 dedos = 1 palma.",
+          "detail": "Jeremias 52:21"
+        },
+        {
+          "name": "Palma / Palma (טֶפַח)",
+          "subtitle": "~7,4cm",
+          "description": "4 dedos lado a lado. 3 aletas = 1 vão.",
+          "detail": "Êxodo 25:25; 1 Reis 7:26"
+        },
+        {
+          "name": "Empan (זֶרֶת)",
+          "subtitle": "~22cm",
+          "description": "Distância entre o polegar estendido e o dedo mínimo. 2 vãos = 1 côvado.",
+          "detail": "Êxodo 28:16; 1 Samuel 17:4 (Golias: 6 côvados 1 palmo)"
+        },
+        {
+          "name": "Côvado (אַמָּה)",
+          "subtitle": "~44-52cm",
+          "description": "Distância do cotovelo às pontas dos dedos. Principal unidade arquitetônica da Bíblia. Arca de Noé: 300 × 50 × 30 côvados. Templo de Salomão: 60 × 20 × 30 côvados.",
+          "detail": "Gênesis 6:15; 1 Reis 6:2; Ezequiel usa o 'grande côvado' de 52 cm."
+        },
+        {
+          "name": "Porta (cana, קָנֶה)",
+          "subtitle": "6 côvados = ~2,6 m",
+          "description": "Usado por Ezequiel para medir o Templo escatológico. A medida angélica do Templo do Apocalipse (11:1).",
+          "detail": "Ezequiel 40:5; Apocalipse 11:1"
+        },
+        {
+          "name": "Estádio (estádio)",
+          "subtitle": "~185 m (grego)",
+          "description": "Medida grega usada no NT. Emaús fica a 60 estádios de Jerusalém (Lucas 24:13 ≈ 11 km). A Nova Jerusalém: 12.000 estádios de distância (Ap 21:16).",
+          "detail": "Lucas 24:13; João 6:19; Apocalipse 21:16"
+        },
+        {
+          "name": "Milha romana / Liga",
+          "subtitle": "~1.480m",
+          "description": "A milha romana (miliário) = 1.000 passos duplos = ~1,48 km. Jesus disse: 'Se alguém te obrigar a caminhar uma milha, vá com ele duas' (Mateus 5:41).",
+          "detail": "Mateus 5:41; Lucas 24:13"
+        },
+        {
+          "name": "Sábado (caminho do sábado)",
+          "subtitle": "~900m",
+          "description": "Distância máxima permitida para caminhar no sábado de acordo com a tradição rabínica (com base em Números 35:5). O Monte das Oliveiras é um 'caminho sabático' de Jerusalém.",
+          "detail": "Atos 1:12"
+        },
+        {
+          "name": "— VOLUMES —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Registro (לֹג)",
+          "subtitle": "~0,31 litros",
+          "description": "A menor medida do volume do líquido. 4 toras = 1 kav. Usado para óleo nas leis de purificação.",
+          "detail": "Levítico 14:10"
+        },
+        {
+          "name": "Kav (קַב)",
+          "subtitle": "~1,2 litros",
+          "description": "Pequena medida seca. Durante o cerco de Samaria, um kav de excrementos de pombo foi vendido por 5 siclos de prata (fome extrema, 2 Reis 6:25).",
+          "detail": "2 Reis 6:25"
+        },
+        {
+          "name": "Omer (עֹמֶר)",
+          "subtitle": "~2,2 litros = 1/10 de um epha",
+          "description": "A ração diária de maná por pessoa (Êxodo 16:16). Unidade da Festa do Primeiro Molho (Levítico 23:10-11).",
+          "detail": "Êxodo 16:16,36"
+        },
+        {
+          "name": "Seá (סְאָה)",
+          "subtitle": "~7 litros = 1/3 de um epha",
+          "description": "Sara prepara 3 mares de farinha para os 3 visitantes de Abraão (Gênesis 18:6). A mulher esconde o fermento em 3 mares de farinha (Mateus 13:33).",
+          "detail": "Gênesis 18:6; Mateus 13:33"
+        },
+        {
+          "name": "Efa (אֵיפָה)",
+          "subtitle": "~22 litros",
+          "description": "Unidade principal de medição seca. O alqueire = 1/10 de um efa. Usado para ofertas de cereais (Levítico 5:11). Deve ser justo: 'Terás apenas um efa justo' (Levítico 19:36).",
+          "detail": "Levítico 5:11; Ezequiel 45:11"
+        },
+        {
+          "name": "Hin (הִין)",
+          "subtitle": "~4 litros (líquido)",
+          "description": "Equivalente líquido de epha. Usado para medir azeite e vinho para libações. 1 hora = 12 registros.",
+          "detail": "Êxodo 29:40; Ezequiel 4:11"
+        },
+        {
+          "name": "Banho (בַּת)",
+          "subtitle": "~22 litros (= efa)",
+          "description": "Padrão líquido primário. 10 banhos = 1 kor (homer). O mar de bronze do Templo de Salomão continha 2.000 banhos (1 Reis 7:26).",
+          "detail": "1 Reis 7:26; Ezequiel 45:14"
+        },
+        {
+          "name": "Homero / Kor",
+          "subtitle": "~220 litros = 10 efas",
+          "description": "A maior medida de volume. Codornizes no deserto: o povo coletou pelo menos 10 homers (Números 11:32). Ezequiel 45:14: 10 banhos = 1 homer.",
+          "detail": "Números 11:32; Ezequiel 45:11,14"
+        }
+      ]
+    },
+    {
+      "id": "symbolique",
+      "emoji": "✡️",
+      "color": "from-indigo-600 to-blue-700",
+      "items": [
+        {
+          "name": "1 – Unidade Divina (אֶחָד)",
+          "subtitle": "O Único, o único, o único",
+          "description": "A unidade absoluta de Deus: 'Ouve Israel, o SENHOR nosso Deus, o SENHOR é Um' (Deuteronômio 6:4 – o Shemá). O número 1 expressa a incomparabilidade de Deus, a exclusividade da Aliança. Não existe outro deus. No NT: 'Há um só Deus e um só Mediador' (1 Timóteo 2:5).",
+          "detail": "Deuteronômio 6:4; 1 Timóteo 2:5; Efésios 4:4-6"
+        },
+        {
+          "name": "2 — Testemunho e Dualidade",
+          "subtitle": "A confirmação, as duas testemunhas",
+          "description": "A Lei exige 2 ou 3 testemunhas para estabelecer um fato (Deuteronômio 19:15). Jesus envia seus discípulos de 2 em 2 (Marcos 6:7). As 2 Tábuas da Lei. Os 2 Testamentos. Os 2 querubins na Arca. O Apocalipse fala das 2 testemunhas (Ap 11). 2 também pode simbolizar a divisão: bem/mal, luz/trevas.",
+          "detail": "Deuteronômio 19:15; Marcos 6:7; Apocalipse 11:3"
+        },
+        {
+          "name": "3 – Trindade e Plenitude Divina",
+          "subtitle": "Completude celestial",
+          "description": "O número da plenitude divina. 3 patriarcas (Abraão, Isaque, Jacó). 3 peregrinações anuais. 3 seções do Templo (pátio, lugar sagrado, Santo dos Santos). 3 dias de Jonas e a ressurreição de Jesus. O Trisagion: 'Santo, Santo, Santo' (Isaías 6:3). A oração judaica diária é dita 3 vezes.",
+          "detail": "Isaías 6:3; Jonas 1:17; Mateus 12:40"
+        },
+        {
+          "name": "4 – Universalidade e Criação",
+          "subtitle": "Os 4 cantos da terra",
+          "description": "4 pontos cardeais = a universalidade do mundo criado. 4 ventos, 4 rios do paraíso (Gênesis 2:10-14), 4 seres vivos da carruagem divina (Ezequiel 1; Apocalipse 4). As 4 espécies de Sucot agitaram-se nas 4 direções. Os 4 reinos de Daniel. Os 4 Evangelhos.",
+          "detail": "Gênesis 2:10; Ezequiel 1:5; Daniel 7:3; Apocalipse 4:6"
+        },
+        {
+          "name": "5 – Graça e Torá",
+          "subtitle": "Os 5 livros de Moisés",
+          "description": "5 = os 5 livros da Torá (Pentateuco). 5 = graça em hebraico (ḥen). As 5 ofertas de Levítico. Davi escolheu 5 pedras lisas contra Golias (1 Samuel 17:40). Os 5 pórticos de Betesda (João 5:2). Os 5 pães da multiplicação (Mateus 14:17).",
+          "detail": "1 Samuel 17:40; João 5:2; Mateus 14:17"
+        },
+        {
+          "name": "6 – Imperfeição e Trabalho Humano",
+          "subtitle": "O número do homem",
+          "description": "6 dias de trabalho (antes do sábado). O homem foi criado no 6º dia. 6 cidades de refúgio. Golias mede 6 côvados e 1 palmo, possui 6 armas. 666 (Apocalipse 13:18) = imperfeição levada ao seu auge, o triplo 6 simbolizando o homem que afirma substituir Deus (7) sem nunca alcançá-lo.",
+          "detail": "Êxodo 20:9; Gênesis 1:31; Apocalipse 13:18"
+        },
+        {
+          "name": "7 – Perfeição e Aliança",
+          "subtitle": "O número sagrado por excelência",
+          "description": "'Sheva' (7) compartilha a raiz de 'juramento' (shevua) - em hebraico, jurar é 'ligar pelo 7'. 7 dias de Criação, 7 festas, 7 velas da Menorá, 7 anos sabáticos, 7 tempos de perdão × 70 (Mateus 18:22). Apocalipse usa 7 mais de 50 vezes (selos, trombetas, taças, cartas, espíritos). 777 = plenitude absoluta.",
+          "detail": "Gênesis 2:2; Mateus 18:22; Apocalipse 1:4"
+        },
+        {
+          "name": "8 – Novo começo",
+          "subtitle": "Além do ciclo de 7",
+          "description": "8 = o primeiro dia após o sábado completo = ressurreição, nova criação. Circuncisão no 8º dia (Gênesis 17:12) = entrada na Aliança, novo começo. Jesus ressuscita no primeiro dia da semana = o simbólico 8º dia. As 8 pessoas salvas na arca (1 Pedro 3:20). A Menorá de Hanukkah tem 8 ramos.",
+          "detail": "Gênesis 17:12; 1 Pedro 3:20; João 20:1"
+        },
+        {
+          "name": "10 – Lei e Integridade",
+          "subtitle": "O decimal da completude",
+          "description": "10 Mandamentos, 10 pragas do Egito, 10 gerações de Noé a Abraão, 10 gerações de Abraão a Noé. O dízimo = 1/10. O minyan sinagogal = 10 homens adultos (quórum de oração). As 10 virgens (Mateus 25). As 10 cordas da harpa de David.",
+          "detail": "Êxodo 20; Gênesis 5; Mateus 25:1"
+        },
+        {
+          "name": "12 — Governo divino",
+          "subtitle": "O número do povo de Deus",
+          "description": "12 filhos de Jacó = 12 tribos de Israel. 12 apóstolos. 12 meses do ano. 12 pães da presença (1 por tribo). 12 pedras peitorais. 12 fontes em Elim (Êxodo 15:27). A Nova Jerusalém: 12 portas, 12 fundações, 12.000 estádios de cada lado, 144.000 eleitos (12×12×1.000).",
+          "detail": "Gênesis 49; Mateus 10:1; Apocalipse 21:12-21"
+        },
+        {
+          "name": "17 – Vitória e Graça",
+          "subtitle": "7 + 10 = perfeição do Fa",
+          "description": "Número pouco conhecido mas rico: soma de 10 (Lei) e 7 (completude). Joseph foi vendido aos 17 anos – o início de seu caminho para a vitória. A arca de Noé para no 17º dia do 7º mês (Gênesis 8:4). No NT, Romanos 8 – o capítulo da vitória – lista 17 coisas que não separam o amor de Deus.",
+          "detail": "Gênesis 37:2; Gênesis 8:4; Romanos 8:35-39"
+        },
+        {
+          "name": "40 – Teste e Transformação",
+          "subtitle": "A duração dos períodos de purificação",
+          "description": "40 dias do dilúvio. 40 anos no deserto. 40 dias de Moisés no Sinai (duas vezes). 40 dias de Elias no deserto. 40 anos do reinado de Davi e Salomão. 40 dias de tentação de Jesus. 40 dias entre a Ressurreição e a Ascensão. 40 = um tempo completo de provação que leva a uma transformação.",
+          "detail": "Gênesis 7:4; Êxodo 24:18; Mateus 4:2; Atos 1:3"
+        },
+        {
+          "name": "50 – Jubileu e Pentecostes",
+          "subtitle": "Graça no topo",
+          "description": "50 anos = o Jubileu (libertação universal, entrega de terras, Levítico 25). 50 dias entre Páscoa e Shavuot = Pentecostes. 50 colunas no pátio do Tabernáculo. 50 colchetes de ouro e latão conectando os painéis do Tabernáculo. O Pentecostes Cristão (Atos 2) cai exatamente 50 dias após a Páscoa.",
+          "detail": "Levítico 25:10; Êxodo 26:6; Atos 2:1"
+        },
+        {
+          "name": "70 — Nações e Plenitude Expandida",
+          "subtitle": "A universalidade da salvação",
+          "description": "70 nações da Tabela das Nações (Gênesis 10) = toda a humanidade. 70 anciãos de Israel. 70 anos de exílio na Babilônia (Jeremias 25:11). 70 semanas de Daniel (9:24). Jesus envia 70 discípulos (Lucas 10:1) – um para cada nação. 70 membros do Sinédrio. 70 almas da casa de Jacó no Egito.",
+          "detail": "Gênesis 10; Jeremias 25:11; Daniel 9:24; Lucas 10:1"
+        },
+        {
+          "name": "153 — Os Grandes Peixes",
+          "subtitle": "Número Misterioso de João 21",
+          "description": "João 21:11: a pesca milagrosa após a Ressurreição = exatamente 153 peixes grandes. Os Padres da Igreja especularam muito: Jerônimo disse que existiam 153 espécies de peixes conhecidas = a pesca simboliza todos os povos da terra. Matematicamente: 153 = 1³+5³+3³ e a soma de 1 a 17.",
+          "detail": "João 21:11"
+        },
+        {
+          "name": "666 – O Número da Besta",
+          "subtitle": "Imperfeição humana tripla",
+          "description": "Apocalipse 13:18: 'O número da besta... é o número de um homem, e o seu número é 666.' Na gematria (numerologia hebraica), 666 corresponde a 'Neron César' em hebraico - uma provável alusão à perseguição romana. Simbolicamente: o 6 repetido 3 vezes = o homem (6) que quer alcançar a perfeição divina (7) sem nunca alcançá-la.",
+          "detail": "Apocalipse 13:18; 1 Reis 10:14 (666 talentos do ouro de Salomão)"
+        }
+      ]
+    },
+    {
+      "id": "quantites",
+      "emoji": "🔢",
+      "color": "from-purple-600 to-violet-700",
+      "items": [
+        {
+          "name": "— NÚMEROS SIMBÓLICOS —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "3 – Trindade e Plenitude Divina",
+          "subtitle": "Número da completude divina",
+          "description": "O número 3 expressa a plenitude divina: 3 patriarcas (Abraão, Isaque, Jacó), 3 divisões do Templo, 3 peregrinações anuais obrigatórias, 3 dias de ressurreição de Jonas e Jesus. O Trisagion: 'Santo, Santo, Santo' (Isaías 6:3).",
+          "detail": "Jonas 1:17; Mateus 12:40; Isaías 6:3"
+        },
+        {
+          "name": "7 – Perfeição e Aliança",
+          "subtitle": "Número de conquistas",
+          "description": "O número mais simbólico da Bíblia. 7 dias da Criação, 7 festivais anuais, 7 velas da Menorá, 7 anos sabáticos, 70 semanas de Daniel. 'Sheva' (7) compartilha a raiz de 'juramento' (shevua) – jurar pelo 7.",
+          "detail": "Apocalipse: 7 selos, 7 trombetas, 7 taças. 777 = plenitude absoluta."
+        },
+        {
+          "name": "10 – Lei e Integridade",
+          "subtitle": "Decimal de completude",
+          "description": "10 Mandamentos, 10 pragas do Egito, 10 gerações de Noé a Abraão. O dízimo = 1/10. Um quórum sinagogal (minyan) = 10 homens adultos. As 10 virgens da parábola.",
+          "detail": "Êxodo 20; Gênesis 5; Mateus 25:1"
+        },
+        {
+          "name": "12 — Governo divino",
+          "subtitle": "Número do povo de Deus",
+          "description": "12 filhos de Jacó = 12 tribos de Israel. 12 apóstolos. 12 meses. 12 pães da presença. 12 pedras peitorais. A Nova Jerusalém: 12 portões, 12 fundações, 12.000 estádios de cada lado, 144.000 (12×12×1000).",
+          "detail": "Gênesis 49; Mateus 10:1; Apocalipse 21"
+        },
+        {
+          "name": "40 – Teste e Transformação",
+          "subtitle": "Duração dos períodos de experiência",
+          "description": "40 dias do dilúvio, 40 anos no deserto, 40 dias de Moisés no Sinai, 40 anos do reinado de Davi e Salomão, 40 dias de jejum de Elias, 40 dias de tentação de Jesus, 40 dias entre a Ressurreição e a Ascensão.",
+          "detail": "Gênesis 7:4; Êxodo 24:18; Mateus 4:2; Atos 1:3"
+        },
+        {
+          "name": "50 – Jubileu e Graça",
+          "subtitle": "Número de lançamento",
+          "description": "50 anos = Jubileu (libertação, entrega de terras). 50 dias entre Páscoa e Shavuot = Pentecostes. As 50 colunas do Tabernáculo. Pentecostes cristão = derramamento do Espírito após 50 dias.",
+          "detail": "Levítico 25:10; Atos 2:1"
+        },
+        {
+          "name": "70 - Nações e completude estendida",
+          "subtitle": "Número de plenitude nacional",
+          "description": "70 nações da Tabela das Nações (Gênesis 10). 70 anciãos de Israel (Êxodo 24:1). 70 anos de exílio na Babilônia. 70 semanas de Daniel. Jesus envia 70 discípulos (Lucas 10). 70 membros do Sinédrio.",
+          "detail": "Gênesis 10; Daniel 9:24; Lucas 10:1"
+        },
+        {
+          "name": "— UNIDADES DE GRUPO —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Dez (עֲשָׂרָה)",
+          "subtitle": "Unidade militar e social básica",
+          "description": "A menor unidade de organização social. Jetro aconselha Moisés a organizar o povo em unidades de 10 (Êxodo 18:21). Chefe dos dez = oficial mais baixo da hierarquia militar de Israel. A sinagoga minyan = 10.",
+          "detail": "Êxodo 18:21,25; Deuteronômio 1:15"
+        },
+        {
+          "name": "Cinquenta (חֲמִשִּׁים)",
+          "subtitle": "Grupo de 50 pessoas",
+          "description": "Unidade intermediária na organização militar de Moisés. Os líderes de cinquenta supervisionaram 5 dezenas. Elias é confrontado por dois grupos de 50 soldados enviados pelo rei Acazias (2 Reis 1:9-14).",
+          "detail": "Êxodo 18:21; 2 Reis 1:9-14"
+        },
+        {
+          "name": "Cem (מֵאָה)",
+          "subtitle": "Grupo de 100 pessoas",
+          "description": "Unidade importante na organização de Israel. Os líderes dos cem são mencionados na organização do exército e da nação. Jesus acomodou a multidão em grupos de 50 e 100 (Marcos 6:40).",
+          "detail": "Êxodo 18:21; Números 31:14; Marcos 6:40"
+        },
+        {
+          "name": "Mil (אֶלֶף)",
+          "subtitle": "Tribo/clã/unidade de 1000",
+          "description": "'Elef' = mil, mas também 'clã' ou 'tribo' em certos contextos. As tribos foram divididas em milhares para os censos militares. Líder de mil = oficial superior. Gideão disse: 'Meu clã é o mais fraco...eu sou o último na casa de meu pai.'",
+          "detail": "Êxodo 18:21; Juízes 6:15; Números 1:16"
+        },
+        {
+          "name": "Miríade (רְבָבָה)",
+          "subtitle": "10.000 – número dos inumeráveis",
+          "description": "10.000 — o maior número comum na numeração hebraica antiga. Expressa a imensidão: 'Moisés teve 10.000 vezes 10.000 filhos de Israel' (expressão idiomática da abundância). David: 'Saul matou mil, e David dez mil' (1 Samuel 18:7).",
+          "detail": "1 Samuel 18:7; Deuteronômio 32:30; Apocalipse 5:11 (miríades de miríades)"
+        },
+        {
+          "name": "— DIVISÕES DE TEMPO —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Tempo (שָׁעָה)",
+          "subtitle": "1/12 do dia ou da noite",
+          "description": "Os hebreus dividiam o dia (do nascer ao pôr do sol) em 12 horas de duração variável, dependendo da estação. A 'terceira hora' = 9h, a 'sexta hora' = meio-dia, a 'nona hora' = 15h. (momento de oração e morte de Jesus).",
+          "detail": "Mateus 20:3-9; Marcos 15:25,33,34; Atos 3:1"
+        },
+        {
+          "name": "Assistir (אַשְׁמוּרָה)",
+          "subtitle": "Divisão da noite em 3 ou 4 partes",
+          "description": "A noite foi dividida em vigílias militares. O AT hebraico usa três vigílias: vigília da tarde, vigília da meia-noite e vigília da manhã. O NT Romano usa 4 vigílias: tarde, meia-noite, canto do galo, manhã. Jesus anda sobre as águas na 4ª vigília (Mateus 14:25).",
+          "detail": "Juízes 7:19; Lamentações 2:19; Mateus 14:25"
+        },
+        {
+          "name": "Semana Sabática (שְׁמִטָּה)",
+          "subtitle": "Ciclo de 7 anos",
+          "description": "A cada 7 anos, a terra descansa (Levítico 25:1-7): não há sementeira nem colheita. As dívidas para com os israelitas são perdoadas (Deuteronômio 15:1-3). Os escravos hebreus são libertados (Êxodo 21:2). A não observância desses anos sabáticos é uma das causas do exílio babilônico (2 Crônicas 36:21).",
+          "detail": "Levítico 25:1-7; Deuteronômio 15:1; 2 Crônicas 36:21"
+        },
+        {
+          "name": "Geração (דּוֹר)",
+          "subtitle": "~40 anos na Bíblia",
+          "description": "Uma geração bíblica = aproximadamente 40 anos (os 40 anos no deserto = uma geração). Mateus 1:17 estrutura a genealogia de Jesus em 3 × 14 gerações. 'Até a 3ª e 4ª geração' (punição) vs 'até mil gerações' (bênção, Êxodo 20:5-6).",
+          "detail": "Êxodo 20:5-6; Números 14:33; Mateus 1:17"
+        }
+      ]
+    },
+    {
+      "id": "vetements",
+      "emoji": "👘",
+      "color": "from-rose-600 to-red-700",
+      "items": [
+        {
+          "name": "— ROUPA COMUM —",
+          "subtitle": "",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Touniqa / Cetonet (כֻּתֹּנֶת)",
+          "subtitle": "Túnica longa – peça básica",
+          "description": "Camisa comprida usada junto à pele por homens e mulheres. Pode ser de linho (sacerdotes) ou de lã. José recebe a famosa 'túnica de muitas cores' (ou cetonet passim de mangas compridas) de seu pai Jacó.",
+          "detail": "Gênesis 37:3; João 19:23 (túnica sem costura de Jesus)"
+        },
+        {
+          "name": "Manto / Simlah (שִׂמְלָה)",
+          "subtitle": "Casaco retangular grande",
+          "description": "Peça retangular de tecido usada sobre a túnica. Também serviu como cobertura à noite. A Lei proíbe guardar o manto do pobre como penhor após o pôr do sol (Êxodo 22:25-26).",
+          "detail": "Deuteronômio 22:12 (franjas de canto)"
+        },
+        {
+          "name": "Meil (מְעִיל)",
+          "subtitle": "Vestido sem mangas, vestido de dama de honra",
+          "description": "Roupas cerimoniais usadas por pessoas de alto escalão. Samuel usava um melhor. Saul rasga o olho de Samuel (1 Samuel 15:27) - símbolo do reino dilacerado. David dança em meil (2 Samuel 6:14).",
+          "detail": "1 Samuel 2:19; 1 Samuel 15:27; Jó 29:14"
+        },
+        {
+          "name": "Cinto / Hagora (חֲגוֹרָה)",
+          "subtitle": "Cinto, cinto",
+          "description": "Acessório essencial para enrolar a túnica durante o trabalho ou a luta. 'Gird one's loins' = prepare oneself for action. João Batista usa um cinto de couro (Mateus 3:4).",
+          "detail": "Efésios 6:14 (metáfora da verdade)"
+        },
+        {
+          "name": "Sandálias (סַנְדָּל)",
+          "subtitle": "Sapatos de couro",
+          "description": "Os hebreus usavam sandálias de couro – solas amarradas com cadarços. Tirar a sandália = abrir mão de um direito (Rute 4:7) ou sinal de indignidade (João 1:27). Deus disse a Moisés: “Tire as sandálias” (Êxodo 3:5).",
+          "detail": "Amós 2:6 (vendido por um par de sandálias)"
+        },
+        {
+          "name": "Tzitsit (צִיצִית)",
+          "subtitle": "Franjas rituais nos cantos da roupa",
+          "description": "Números 15:38-39 ordena amarrar franjas (tzitsit) nos quatro cantos da vestimenta com linha azul (tekhelet). Lembrete de todos os mandamentos. A mulher sangrando toca a 'borda da roupa de Jesus' (tsitsit).",
+          "detail": "Mateus 9:20; Deuteronômio 22:12"
+        },
+        {
+          "name": "Filactérios / Tefilin (תְּפִלִּין)",
+          "subtitle": "Caixas de couro contendo textos bíblicos",
+          "description": "Pequenas caixas de couro preto usadas no braço esquerdo e na testa durante as orações matinais (exceto no Shabat). Contém 4 passagens da Torá (Êx.13:1-10; Êx.13:11-16; Dt.6:4-9; Dt.11:13-21). Baseado em Deuteronômio 6:8.",
+          "detail": "Mateus 23:5 (Jesus critica filactérios ampliados)"
+        },
+        {
+          "name": "— VESTUÁRIO SACERDOTAL —",
+          "subtitle": "Levítico 8; Êxodo 28-29",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Calças de linho (מִכְנָסַיִם)",
+          "subtitle": "Roupa interior sacerdotal obrigatória",
+          "description": "Calça de linho branco cobrindo desde os rins até as coxas. Todos os sacerdotes os usavam para cobrir a nudez durante o serviço no altar. Lembrete de santidade e modéstia diante de Deus.",
+          "detail": "Êxodo 28:42; Levítico 6:3"
+        },
+        {
+          "name": "Túnica de linho (כֻּתֹּנֶת בַּד)",
+          "subtitle": "Longo manto de linho branco – sacerdotes comuns",
+          "description": "Túnica branca bordada usada por todos os sacerdotes. O linho branco simboliza a pureza. Desce até os pés. Para os sacerdotes comuns, é a vestimenta mais visível.",
+          "detail": "Êxodo 28:39; Levítico 8:13"
+        },
+        {
+          "name": "Cinto bordado (אַבְנֵט)",
+          "subtitle": "Cinto de linho multicolorido",
+          "description": "Cinto de linho fino branco com fios coloridos (azul, roxo, carmesim) usado pelos sacerdotes comuns, e ainda mais ornamentado para o Sumo Sacerdote. Permitiu que a túnica fosse enrolada.",
+          "detail": "Êxodo 28:39; 39:29"
+        },
+        {
+          "name": "Mitra / Turbante (מִגְבָּעָה)",
+          "subtitle": "Chapelaria de padres comuns",
+          "description": "Boné de linho branco para sacerdotes comuns. Diferente do grande turbante (mitsnefet) do Sumo Sacerdote. Sinal de serviço sagrado e dignidade sacerdotal.",
+          "detail": "Êxodo 28:40; 29:9"
+        },
+        {
+          "name": "— VESTUÁRIO DO SUMO SACERDOTE —",
+          "subtitle": "8 peças de roupa no total (as 4 dos sacerdotes + 4 adicionais)",
+          "description": "",
+          "detail": ""
+        },
+        {
+          "name": "Vestido azul",
+          "subtitle": "Vestido todo azul – sob o Éfode",
+          "description": "Vestido de lã azul sem costuras (tekhelet), com orla de romãs em fios de cores alternadas com sinos dourados. Os sinos tocavam para sinalizar a presença do Sumo Sacerdote no lugar sagrado.",
+          "detail": "Êxodo 28:31-35 - 'para que ele não morra'"
+        },
+        {
+          "name": "Éfode (אֵפוֹד)",
+          "subtitle": "Avental Supremo Sacerdotal – linho e ouro",
+          "description": "Veste distintiva do Sumo Sacerdote, feita de fios de ouro, lã azul, roxa, carmesim e linho fino retorcido. Usado no peito como um avental de corselet. Duas pedras de ônix nas ombreiras trazem os nomes das 12 tribos (6 de cada lado).",
+          "detail": "Êxodo 28:6-14 — O Sumo Sacerdote ‘traz’ Israel diante de Deus"
+        },
+        {
+          "name": "Peitoral do Julgamento (חֹשֶׁן)",
+          "subtitle": "12 pedras preciosas – 12 tribos",
+          "description": "Peça quadrada (22×22 cm) do mesmo tecido do Éfode, usada no peito. Engastados com 12 pedras preciosas dispostas em 4 fileiras, cada uma gravada com o nome de uma tribo de Israel. Continha o Ourim e o Tummim.",
+          "detail": "Êxodo 28:15-30; as 12 pedras prefiguram os fundamentos da Nova Jerusalém (Ap 21:19-20)"
+        },
+        {
+          "name": "Urim e Tumim",
+          "subtitle": "Luzes e Perfeições – oráculo divino",
+          "description": "Objetos misteriosos colocados no peitoral para consultar a Deus. A sua natureza exata é desconhecida (pedras, dados?). Ourim = 'Luzes', Toummim = 'Perfeições'. Usado para obter respostas divinas em decisões nacionais importantes.",
+          "detail": "Êxodo 28:30; Números 27:21; 1Samuel 28:6"
+        },
+        {
+          "name": "Turbante Grande (מִצְנֶפֶת)",
+          "subtitle": "Cocar do Sumo Sacerdote em linho fino",
+          "description": "Grande turbante de linho branco, distinto do boné dos padres comuns. A lâmina dourada (tsits) é fixada no turbante por um cordão azul.",
+          "detail": "Êxodo 28:36-38; Levítico 8:9"
+        },
+        {
+          "name": "Lâmina Dourada (צִיץ)",
+          "subtitle": "Placa de ouro: 'SANTIDADE AO SENHOR'",
+          "description": "Lâmina de ouro puro presa à frente do turbante por um cordão azul. Gravada com a inscrição: 'Qodesh o YHWH' - 'Santidade ao Senhor'. O Sumo Sacerdote 'carrega' a iniquidade das ofertas de Israel com esta lâmina.",
+          "detail": "Êxodo 28:36-38 - 'para que encontrem graça diante do Senhor'"
+        }
+      ]
+    }
+  ]
+}

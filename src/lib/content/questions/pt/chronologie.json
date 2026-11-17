@@ -1,0 +1,505 @@
+{
+  "chronologie": {
+    "debutant": [
+      {
+        "question": "Que evento marca o início da Bíblia?",
+        "options": [
+          "O dilúvio de Noé",
+          "A criação do mundo",
+          "O chamado de Abraão",
+          "O nascimento de Moisés"
+        ],
+        "correct": 1,
+        "explanation": "A Bíblia começa com a história da criação do mundo por Deus em 6 dias (Gênesis 1)."
+      },
+      {
+        "question": "Em que ordem cronológica esses eventos ocorreram?",
+        "options": [
+          "Abraão → Moisés → Davi → Jesus",
+          "Davi → Moisés → Abraão → Jesus",
+          "Moisés → Abraão → Davi → Jesus",
+          "Jesus → Abraão → Moisés → Davi"
+        ],
+        "correct": 0,
+        "explanation": "A ordem é: Abraão (c. 2.000 aC) → Moisés (c. 1.300 aC) → Davi (c. 1.000 aC) → Jesus (c. 1 aC)."
+      },
+      {
+        "question": "Quantos dias Deus levou para criar o mundo?",
+        "options": [
+          "5 dias",
+          "6 dias",
+          "7 dias",
+          "40 dias"
+        ],
+        "correct": 1,
+        "explanation": "Deus criou em 6 dias e descansou no 7º dia (Gênesis 1-2)."
+      },
+      {
+        "question": "Quantos anos os israelitas vagaram pelo deserto?",
+        "options": [
+          "7 anos",
+          "20 anos",
+          "40 anos",
+          "70 anos"
+        ],
+        "correct": 2,
+        "explanation": "Os israelitas vagaram durante 40 anos no deserto por causa da sua falta de fé (Números 14:33)."
+      },
+      {
+        "question": "Qual foi o primeiro evento após a criação do homem?",
+        "options": [
+          "A inundação",
+          "A Torre de Babel",
+          "A queda de Adão e Eva",
+          "O chamado de Abraão"
+        ],
+        "correct": 2,
+        "explanation": "Após a criação de Adão e Eva, a Bíblia relata seus pecados e queda no Jardim do Éden (Gênesis 3)."
+      },
+      {
+        "question": "Antes ou depois do dilúvio a Torre de Babel estava localizada?",
+        "options": [
+          "Antes do dilúvio",
+          "Depois da enchente",
+          "Durante a enchente",
+          "A Torre de Babel e o Dilúvio são simultâneos"
+        ],
+        "correct": 1,
+        "explanation": "A Torre de Babel foi construída após o dilúvio pelos descendentes de Noé (Gênesis 11:1-9)."
+      },
+      {
+        "question": "Qual rei reinou antes de Davi em Israel?",
+        "options": [
+          "Salomão",
+          "Roboão",
+          "Saulo",
+          "Samuel"
+        ],
+        "correct": 2,
+        "explanation": "Saul foi o primeiro rei de Israel, ungido pelo profeta Samuel antes que Davi o sucedesse (1 Samuel 9-11)."
+      },
+      {
+        "question": "Quem reinou depois de Davi?",
+        "options": [
+          "Roboão",
+          "Salomão",
+          "Jeroboão",
+          "Asa"
+        ],
+        "correct": 1,
+        "explanation": "Salomão, filho de Davi, o sucedeu no trono de Israel (1 Reis 1-2)."
+      },
+      {
+        "question": "Que evento se seguiu à morte de Salomão?",
+        "options": [
+          "A construção do Templo",
+          "A divisão do reino em dois",
+          "O Exílio Babilônico",
+          "A conquista assíria"
+        ],
+        "correct": 1,
+        "explanation": "Após a morte de Salomão, o reino foi dividido em dois: Israel no norte e Judá no sul (1 Reis 12)."
+      },
+      {
+        "question": "Que povo destruiu Jerusalém e levou os judeus ao exílio?",
+        "options": [
+          "Os assírios",
+          "Os persas",
+          "Os babilônios",
+          "Os gregos"
+        ],
+        "correct": 2,
+        "explanation": "Nabucodonosor e os babilônios destruíram Jerusalém e o Templo em 586 AC. (2 Reis 25)."
+      },
+      {
+        "question": "Quem permitiu que os judeus retornassem a Israel após o exílio na Babilônia?",
+        "options": [
+          "Alexandre, o Grande",
+          "Ciro, o Grande da Pérsia",
+          "Dario, o Medo",
+          "Artaxerxes"
+        ],
+        "correct": 1,
+        "explanation": "Ciro, o Grande, da Pérsia, emitiu um decreto em 538 AC. permitindo que os judeus retornassem a Israel (Esdras 1:1-4)."
+      },
+      {
+        "question": "Em que período da história ocorreu o nascimento de Jesus?",
+        "options": [
+          "Sob o reinado de Nabucodonosor",
+          "Sob o reinado de Ciro",
+          "Sob o reinado de Herodes, o Grande e do Império Romano",
+          "Durante o reinado de Alexandre, o Grande"
+        ],
+        "correct": 2,
+        "explanation": "Jesus nasceu durante o reinado de Herodes, o Grande, quando a Judéia estava sob domínio romano (Mateus 2:1)."
+      },
+      {
+        "question": "Que evento marca o início da Igreja Cristã?",
+        "options": [
+          "O nascimento de Jesus",
+          "A ressurreição de Jesus",
+          "Pentecostes (derramamento do Espírito Santo)",
+          "O batismo de Jesus"
+        ],
+        "correct": 2,
+        "explanation": "O Pentecostes, 50 dias depois da Páscoa, marca o nascimento da Igreja com o derramamento do Espírito Santo (Atos 2)."
+      },
+      {
+        "question": "Em que ordem ocorreram esses eventos da Paixão?",
+        "options": [
+          "Última Ceia → Crucificação → Getsêmani → Ressurreição",
+          "Última Ceia → Getsêmani → Crucificação → Ressurreição",
+          "Getsêmani → Última Ceia → Ressurreição → Crucificação",
+          "Crucificação → Última Ceia → Ressurreição → Getsêmani"
+        ],
+        "correct": 1,
+        "explanation": "Ordem: A Última Ceia (quinta-feira à noite) → Getsêmani e prisão → julgamento → Crucificação (sexta-feira) → Ressurreição (domingo de manhã)."
+      },
+      {
+        "question": "Quantos dias Jesus apareceu após sua ressurreição antes de sua ascensão?",
+        "options": [
+          "7 dias",
+          "14 dias",
+          "40 dias",
+          "50 dias"
+        ],
+        "correct": 2,
+        "explanation": "Jesus se manifestou durante 40 dias após sua ressurreição antes de ascender ao céu (Atos 1:3)."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "Em que ordem cronológica deveriam ser colocados estes patriarcas: Noé, Abraão, Isaque, Jacó?",
+        "options": [
+          "Abraão → Noé → Isaque → Jacó",
+          "Noé → Abraão → Isaque → Jacó",
+          "Isaque → Noé → Jacó → Abraão",
+          "Jacó → Isaque → Abraão → Noé"
+        ],
+        "correct": 1,
+        "explanation": "Ordem: Noé (após a criação) → Abraão (c. 2.000 a.C.) → Isaque (seu filho) → Jacó (filho de Isaque)."
+      },
+      {
+        "question": "Quando o primeiro Templo de Jerusalém foi destruído?",
+        "options": [
+          "722 AC DC",
+          "605 AC DC",
+          "586 AC DC",
+          "539 AC DC"
+        ],
+        "correct": 2,
+        "explanation": "O Templo de Salomão foi destruído por Nabucodonosor em 586 AC. AC durante a captura de Jerusalém."
+      },
+      {
+        "question": "Que período corresponde aproximadamente historicamente a Moisés?",
+        "options": [
+          "3000-2500 AC DC",
+          "2000-1800 AC DC",
+          "1300-1200 AC DC",
+          "800-700 AC DC"
+        ],
+        "correct": 2,
+        "explanation": "A maioria dos historiadores situa Moisés e o Êxodo por volta de 1280-1250 AC. AC sob Ramsés II do Egito."
+      },
+      {
+        "question": "Em que ordem os grandes impérios de Daniel 2 se sucedem?",
+        "options": [
+          "Pérsia → Babilônia → Grécia → Roma",
+          "Babilônia → Pérsia → Grécia → Roma",
+          "Grécia → Pérsia → Babilônia → Roma",
+          "Roma → Grécia → Pérsia → Babilônia"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 2 e 7: Babilônia (ouro) → Pérsia (prata) → Grécia (latão) → Roma (ferro). Ordem correspondente à sucessão histórica."
+      },
+      {
+        "question": "Quando os profetas Amós e Oséias profetizaram?",
+        "options": [
+          "Período dos Patriarcas",
+          "Período do Reino Unido sob David/Salomão",
+          "Período do reino dividido (século VIII aC)",
+          "Período do exílio babilônico"
+        ],
+        "correct": 2,
+        "explanation": "Amós e Oséias profetizaram no século VIII a.C. (por volta de 760-720), no Reino do Norte, pouco antes da queda de Samaria (722 a.C.)."
+      },
+      {
+        "question": "Qual é a data aproximada da escrita do Evangelho mais antigo?",
+        "options": [
+          "Por volta de 30-40 DC. ANÚNCIO",
+          "Por volta de 50-60 DC. ANÚNCIO",
+          "Por volta de 65-70 DC. ANÚNCIO",
+          "Por volta de 90-100 DC. ANÚNCIO"
+        ],
+        "correct": 2,
+        "explanation": "Marcos, considerado o evangelho mais antigo, é geralmente datado de 65-70 DC. AC, antes ou depois da destruição do Templo."
+      },
+      {
+        "question": "Quando a cidade de Samaria (Reino do Norte) caiu?",
+        "options": [
+          "722 AC AC sob os assírios",
+          "586 AC AC sob os babilônios",
+          "539 AC AC sob os persas",
+          "331 AC AC sob Alexandre"
+        ],
+        "correct": 0,
+        "explanation": "Samaria caiu em 722 AC. AC sob Sargão II da Assíria, levando à deportação das 10 tribos (2 Reis 17)."
+      },
+      {
+        "question": "Quando Paulo escreveu suas epístolas cronologicamente?",
+        "options": [
+          "Depois dos 4 evangelhos",
+          "Antes dos 4 Evangelhos (c. 50-62 DC)",
+          "Simultaneamente com os evangelhos",
+          "Nas décadas de 80 e 90 DC. ANÚNCIO"
+        ],
+        "correct": 1,
+        "explanation": "As Epístolas de Paulo (c. 50-62 DC) são os textos mais antigos do NT, anteriores aos Evangelhos escritos."
+      },
+      {
+        "question": "Em que ordem cronológica deveriam ser colocados estes livros do NT: João, Marcos, Atos, Apocalipse?",
+        "options": [
+          "João → Marcos → Atos → Apocalipse",
+          "Marcos → Atos → João → Apocalipse",
+          "Atos → João → Marcos → Apocalipse",
+          "Apocalipse → Marcos → João → Atos"
+        ],
+        "correct": 1,
+        "explanation": "Datação aproximada: Marcos (65-70) → Atos (80-85) → João (90-95) → Apocalipse (95-96 DC)."
+      },
+      {
+        "question": "Quando Alexandre, o Grande, conquistou a Judéia?",
+        "options": [
+          "450 AC DC",
+          "400 AC DC",
+          "333-332 AC DC",
+          "200 AC DC"
+        ],
+        "correct": 2,
+        "explanation": "Alexandre, o Grande, conquistou a Palestina em 333-332 AC. AC, abrindo o período helenístico que teria um impacto profundo no judaísmo."
+      },
+      {
+        "question": "Aproximadamente quanto tempo durou Abraão e Jesus?",
+        "options": [
+          "500 anos",
+          "1000 anos",
+          "2.000 anos",
+          "3000 anos"
+        ],
+        "correct": 2,
+        "explanation": "Abraão é datado por volta de 2.000 aC. AC e Jesus nasceu por volta de 4-6 AC. AC, com aproximadamente 2.000 anos de diferença."
+      },
+      {
+        "question": "Aproximadamente quando ocorreu a destruição do Segundo Templo?",
+        "options": [
+          "40 DC DC",
+          "57 DC DC",
+          "70 DC DC",
+          "100 DC DC"
+        ],
+        "correct": 2,
+        "explanation": "O Segundo Templo foi destruído por Tito e pelos exércitos romanos em 70 DC. AC, como Jesus profetizou (Mateus 24:2)."
+      },
+      {
+        "question": "Qual evento do AT precede imediatamente o período dos Juízes?",
+        "options": [
+          "O êxodo do Egito",
+          "A conquista de Canaã sob Josué",
+          "O reinado de Saul",
+          "A construção do Tabernáculo"
+        ],
+        "correct": 1,
+        "explanation": "A conquista de Canaã sob Josué precede imediatamente o período dos Juízes. Após a morte de Josué, cada tribo teve seus próprios governantes (Juízes 1-2)."
+      },
+      {
+        "question": "Quando Jeremias profetizou sobre o exílio na Babilônia?",
+        "options": [
+          "Depois do exílio",
+          "Somente durante o exílio",
+          "Antes e durante o exílio (aproximadamente de 627 a.C. até 586)",
+          "Antes do exílio de 150 anos"
+        ],
+        "correct": 2,
+        "explanation": "Jeremias começou a profetizar em 627 AC. (reinado de Josias) e continuou até a destruição de Jerusalém em 586 AC. ANÚNCIO"
+      },
+      {
+        "question": "Em que ordem reinaram os 3 reis do Reino Unido?",
+        "options": [
+          "Davi → Saul → Salomão",
+          "Saul → Salomão → Davi",
+          "Saul → Davi → Salomão",
+          "Salomão → Davi → Saul"
+        ],
+        "correct": 2,
+        "explanation": "Ordem dos 3 primeiros reis: Saul (por volta de 1050-1010) → Davi (por volta de 1010-970) → Salomão (por volta de 970-931 AC)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "Qual é a data geralmente aceita para a divisão do Reino de Israel?",
+        "options": [
+          "1050 AC DC",
+          "970 AC DC",
+          "931 AC DC",
+          "722 AC DC"
+        ],
+        "correct": 2,
+        "explanation": "A divisão do reino sob Roboão é convencionalmente datada de 931 AC. AC, após a morte de Salomão."
+      },
+      {
+        "question": "Qual é o principal desafio da 'linha do tempo dos Juízes' nos estudos bíblicos?",
+        "options": [
+          "Falta de fontes",
+          "A soma dos anos dos Juízes totaliza mais de 400 anos, enquanto 1 Reis 6:1 fala de 480 anos entre o Êxodo e o Templo.",
+          "Os juízes não estão datados",
+          "Muita precisão arqueológica"
+        ],
+        "correct": 1,
+        "explanation": "Problema clássico: a soma acumulada dos períodos dos Juízes ultrapassa 400 anos. A solução: alguns períodos se sobrepõem e são regionais, não nacionais."
+      },
+      {
+        "question": "Qual é o significado do número '40' na cronologia bíblica (40 anos de deserto, 40 dias de dilúvio, etc.)?",
+        "options": [
+          "Um número literalmente exato sempre",
+          "Um número hebraico simbólico que denota um período de teste/transformação completo, sem excluir a realidade histórica",
+          "Uma figura sempre arredondada aproximadamente",
+          "Um número puramente ritual sem história"
+        ],
+        "correct": 1,
+        "explanation": "O hebraico '40' é potencialmente literal E carregado de significado simbólico (prova completa). Não devemos nos opor ao simbolismo e à história."
+      },
+      {
+        "question": "Qual é a datação alta versus baixa do Êxodo e quais são as implicações?",
+        "options": [
+          "Não há desacordo entre historiadores",
+          "Datação elevada: ~1446 AC. (1 Reis 6:1); baixo: ~1270 AC (Ramsés II). A questão: a identidade do Faraó do Êxodo e a correspondência arqueológica",
+          "O Êxodo é universalmente datado de 1300 AC. ANÚNCIO",
+          "O debate é puramente teológico sem base histórica"
+        ],
+        "correct": 1,
+        "explanation": "1 Reis 6:1: 480 anos antes do Templo (970 AC) = ~1446 AC (Thoutmosis III?). A datação baixa (~1270) segue Ramsés II e a cidade de Pi-Ramsés."
+      },
+      {
+        "question": "Qual é o quadro cronológico da teoria documental (JEDP) em relação à escrita do Pentateuco?",
+        "options": [
+          "Inteiramente na época de Moisés (por volta de 1300 AC)",
+          "Fontes J (900 AC), E (800), D (622), P (500-400) - Pentateuco finalizado por volta de 400 AC DC",
+          "Durante o exílio babilônico apenas",
+          "Escrito no século 2 aC. ANÚNCIO"
+        ],
+        "correct": 1,
+        "explanation": "A teoria documental classifica: Javista (J, ~900), Elohista (E, ~800), Deuteronomista (D, ~622), Sacerdotal (P, ~500-450). Fortemente contestado pelos evangélicos."
+      },
+      {
+        "question": "Quando e como o cânon do NT foi oficialmente estabelecido?",
+        "options": [
+          "Pelo próprio Jesus",
+          "Progressivamente do século II ao IV, com o cânone de Atanásio (367 d.C.) e os concílios de Cartago (397, 419)",
+          "Pelo Concílio de Nicéia (325)",
+          "Por uma decisão apostólica formal do século I"
+        ],
+        "correct": 1,
+        "explanation": "O processo de canonização do NT: uso crescente desde o século II, lista de Atanásio (367), Concílio de Cartago (397) confirmando os 27 livros."
+      },
+      {
+        "question": "Como foi a escrita do Evangelho de João em relação às epístolas joaninas e ao Apocalipse?",
+        "options": [
+          "Jean escreve tudo simultaneamente",
+          "Evangelho (~90-95) → Epístolas (95-100) → Apocalipse (95-96 ou anterior sob Nero)",
+          "Apocalipse escrito antes do Evangelho segundo a datação neroniana",
+          "Ambas as datas também são atestadas nos manuscritos"
+        ],
+        "correct": 2,
+        "explanation": "Datação dominante: Evangelho de João (~90-95), Epístolas de João (~90-100), Apocalipse (~95-96 sob Domiciano, ou ~65-68 sob Nero, de acordo com a datação neroniana)."
+      },
+      {
+        "question": "Qual é a relação cronológica entre as epístolas de Paulo e a escrita dos evangelhos sinópticos?",
+        "options": [
+          "Os evangelhos precedem Paulo",
+          "As epístolas de Paulo (50-62) precedem os evangelhos sinópticos (Marcos ~65-70; Mateus e Lucas ~80-85)",
+          "Paulo escreve enquanto Marcos escreve",
+          "Simultaneidade é comprovada por manuscritos"
+        ],
+        "correct": 1,
+        "explanation": "As epístolas paulinas (50-62 DC) constituem os textos cristãos escritos mais antigos que temos, anteriores aos evangelhos escritos."
+      },
+      {
+        "question": "Qual é o desafio da “cronologia absoluta” do AT versus a cronologia bíblica interna?",
+        "options": [
+          "Sem desafio: os dois combinam perfeitamente",
+          "A soma dos anos dos reis de Israel e Judá não corresponde exatamente às cronologias assíria e babilônica, necessitando de correções para co-regências",
+          "A Bíblia não dá data",
+          "A cronologia mesopotâmica está errada"
+        ],
+        "correct": 1,
+        "explanation": "Listas reais de Thiele (1951): numerosas corregências e diferentes sistemas de contagem explicam as aparentes discrepâncias. A sincronização com a Assíria e a Babilónia é possível dentro de ±1-2 anos."
+      },
+      {
+        "question": "Qual é o significado teológico do conceito de “plenitude dos tempos” (Gálatas 4:4) na cronologia bíblica?",
+        "options": [
+          "Uma fórmula retórica simples",
+          "A convicção de que a encarnação chega no momento preciso desejado por Deus: pax romana, koiné grega, diáspora judaica, expectativa messiânica intensificada",
+          "Uma coincidência histórica",
+          "Um conceito puramente escatológico do futuro"
+        ],
+        "correct": 1,
+        "explanation": "O 'pleroma tou chronou' (Gálatas 4:4): a Pax Romana (estradas seguras), a língua grega comum, a diáspora judaica global e a expectativa messiânica intensificada criaram um contexto providencial único."
+      },
+      {
+        "question": "Qual é a diferença entre o calendário 'chronos' e 'kairos' na teologia bíblica do tempo?",
+        "options": [
+          "Estes são sinônimos gregos",
+          "'Chronos' = tempo quantitativo sequencial; ‘Kairos’ = momento oportuno carregado de significado teológico e decisivo – o tempo de Deus na história",
+          "'Kairós' = passado; 'cronos' = futuro",
+          "A distinção é pós-apostólica"
+        ],
+        "correct": 1,
+        "explanation": "'Chronos' (χρόνος) = sucessão de tempo mensurável. 'Kairos' (καιρός) = momento decisivo, oportuno e teologicamente carregado. A Encarnação é o Kairos por excelência (Marcos 1:15)."
+      },
+      {
+        "question": "Qual é o significado de 'milênio' em Apocalipse 20 e as três principais interpretações?",
+        "options": [
+          "Um reinado futuro literal de 1000 anos: apenas interpretação",
+          "(1) Pré-milenismo: futuro reinado literal; (2) Amilenismo: período simbólico (era da Igreja); (3) Pós-milenismo: reinado gradual antes do retorno de Cristo",
+          "Um passado histórico apenas",
+          "Um conceito não cristão"
+        ],
+        "correct": 1,
+        "explanation": "As 3 posições: (1) Pré-milenismo — Cristo retorna ANTES do milênio literal; (2) Amilenismo — o milênio = presente reinado de Cristo (maioria patrística); (3) Pós-milenismo — o milénio precede o regresso de Cristo."
+      },
+      {
+        "question": "Qual é a datação do livro de Daniel e o debate entre a interpretação profética e a escrita dos Macabeus?",
+        "options": [
+          "Século 6 aC Somente aC",
+          "Vidas. (data interna do autor Daniel) vs. 2º c. (165 AC, posição crítica: 'profecias após o fato' da era Macabeu)",
+          "Século I DC DC",
+          "Século IX AC DC"
+        ],
+        "correct": 1,
+        "explanation": "Daniel aparece como escrito no século VI. (exílio babilônico). A crítica histórica data sua escrita em aproximadamente 165 AC. (Antíoco IV) — 'vaticinium ex eventu'. Questão: a possibilidade de profecia preditiva."
+      },
+      {
+        "question": "Qual é a relação cronológica entre a Páscoa judaica e a morte de Jesus de acordo com a sinopse dos evangelhos?",
+        "options": [
+          "Os 4 evangelhos concordam perfeitamente",
+          "Os sinópticos situam a Última Ceia na noite da Páscoa; João situa isso no dia anterior (14 de nisã) — tensão clássica na exegese",
+          "João e os sinópticos são idênticos",
+          "A data é impossível de determinar"
+        ],
+        "correct": 1,
+        "explanation": "Tensão clássica: sinóticos (Última Ceia = refeição pascal, 15 de nisã) vs João (Jesus morre em 14 de nisã, quando o cordeiro pascal estava sendo imolado). Várias soluções propostas."
+      },
+      {
+        "question": "Qual é o quadro cronológico da Reforma Protestante e sua relação com a redescoberta da Bíblia?",
+        "options": [
+          "Século 16 DC DC",
+          "Século 15 DC DC",
+          "Século 14 DC DC",
+          "Século 17 DC DC"
+        ],
+        "correct": 0,
+        "explanation": "A Reforma Protestante: Lutero publicou suas 95 teses em 1517. A invenção da imprensa (Gutenberg ~1450) e a redescoberta do grego do NT (Erasmus 1516) tornaram possível a difusão da Bíblia em línguas vernáculas."
+      }
+    ]
+  }
+}

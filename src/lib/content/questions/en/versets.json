@@ -1,0 +1,1627 @@
+{
+  "versets": {
+    "debutant": [
+      {
+        "question": "'In the beginning God created the heavens and the earth.' — What book?",
+        "options": [
+          "Exodus",
+          "Genesis",
+          "Jeans",
+          "Psalms"
+        ],
+        "correct": 1,
+        "explanation": "This verse opens the book of Genesis (Genesis 1:1)."
+      },
+      {
+        "question": "'For God so loved the world...' — What chapter and verse?",
+        "options": [
+          "John 1:1",
+          "John 3:16",
+          "Romans 8:28",
+          "Psalm 23:1"
+        ],
+        "correct": 1,
+        "explanation": "John 3:16 is one of the most well-known verses in the Bible."
+      },
+      {
+        "question": "'The LORD is my shepherd, I shall not want.' — Which Psalm?",
+        "options": [
+          "Psalm 1",
+          "Psalm 19",
+          "Psalm 23",
+          "Psalm 91"
+        ],
+        "correct": 2,
+        "explanation": "Psalm 23, written by David, begins with these famous words."
+      },
+      {
+        "question": "'I am the way, the truth and the life.' —Who said that?",
+        "options": [
+          "Moses",
+          "Paul",
+          "Rock",
+          "Jesus"
+        ],
+        "correct": 3,
+        "explanation": "Jesus spoke these words in John 14:6."
+      },
+      {
+        "question": "'In the beginning was the Word...' — What Gospel?",
+        "options": [
+          "Matthew",
+          "Mark",
+          "Luke",
+          "Jeans"
+        ],
+        "correct": 3,
+        "explanation": "The Gospel of John opens with 'In the beginning was the Word' (John 1:1)."
+      },
+      {
+        "question": "'I can do all things through him who strengthens me.' —Which epistle?",
+        "options": [
+          "Romans",
+          "Galatians",
+          "Philippians",
+          "Ephesians"
+        ],
+        "correct": 2,
+        "explanation": "The apostle Paul writes this in Philippians 4:13."
+      },
+      {
+        "question": "'Trust in the Lord with all your heart.' — What book?",
+        "options": [
+          "Psalms",
+          "Proverbs",
+          "Ecclesiastes",
+          "Song of Songs"
+        ],
+        "correct": 1,
+        "explanation": "Proverbs 3:5: 'Trust in the LORD with all your heart.'"
+      },
+      {
+        "question": "'Love your neighbor as yourself.' — Where does this commandment first appear?",
+        "options": [
+          "Matthew 22",
+          "Leviticus 19",
+          "Deuteronomy 6",
+          "Romans 13"
+        ],
+        "correct": 1,
+        "explanation": "This commandment first appears in Leviticus 19:18."
+      },
+      {
+        "question": "Which verse says 'For by grace have you been saved through faith'?",
+        "options": [
+          "Romans 3:23",
+          "Ephesians 2:8",
+          "John 1:12",
+          "Acts 4:12"
+        ],
+        "correct": 1,
+        "explanation": "Ephesians 2:8: 'For by grace have you been saved through faith.'"
+      },
+      {
+        "question": "Complete Jeremiah 29:11: 'For I know the plans I have formed for you...plans of ___'?",
+        "options": [
+          "Glory",
+          "Peace and not doom",
+          "Happiness and prosperity",
+          "Justice and righteousness"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah 29:11: '...plans for peace and not for misfortune, to give you a future and hope.'"
+      },
+      {
+        "question": "What is the shortest verse in the Bible?",
+        "options": [
+          "'God is love'",
+          "'Jesus wept'",
+          "'Rejoice always'",
+          "'Pray without ceasing'"
+        ],
+        "correct": 1,
+        "explanation": "'Jesus wept' (John 11:35) is often cited as the shortest verse in the Bible."
+      },
+      {
+        "question": "'Faith is...' — How does Hebrews 11:1 end?",
+        "options": [
+          "...love God with all your heart",
+          "...the certainty of things we hope for, the demonstration of those we do not see",
+          "...believe in Christ Jesus",
+          "...obey the Word of God"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 11:1: 'Now faith is the substance of things hoped for, and the evidence of things not seen.'"
+      },
+      {
+        "question": "'Love is therefore the fulfillment of ___.' (Romans 13:10)",
+        "options": [
+          "Faith",
+          "Law",
+          "Grace",
+          "Promise"
+        ],
+        "correct": 1,
+        "explanation": "Romans 13:10: 'Love therefore is the fulfillment of the law.'"
+      },
+      {
+        "question": "In which book: 'There is a season for everything, a time for everything under heaven'?",
+        "options": [
+          "Proverbs",
+          "Job",
+          "Ecclesiastes",
+          "Psalms"
+        ],
+        "correct": 2,
+        "explanation": "Ecclesiastes 3:1: 'To everything there is a season, a season to every thing under heaven.'"
+      },
+      {
+        "question": "Which apostle wrote 'God is love'?",
+        "options": [
+          "Paul",
+          "Rock",
+          "Jeans",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "John writes 'God is love' in 1 John 4:8 and 4:16."
+      },
+      {
+        "question": "Which verse says 'For the wages of sin is death'?",
+        "options": [
+          "Galatians 6:7",
+          "Romans 6:23",
+          "James 1:15",
+          "1 John 1:8"
+        ],
+        "correct": 1,
+        "explanation": "Romans 6:23: 'For the wages of sin is death; but the free gift of God is eternal life.'"
+      },
+      {
+        "question": "What is the first verse of Psalm 1?",
+        "options": [
+          "'The Lord is my shepherd'",
+          "'Blessed is the man who does not walk in the counsel of the wicked'",
+          "'The heavens declare the glory of God'",
+          "'With all my heart I will praise you'"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 1 begins, 'Blessed is the man who walks not in the counsel of the wicked...'"
+      },
+      {
+        "question": "Which verse says 'Rejoice in the Lord always'?",
+        "options": [
+          "1 Thessalonians 5:16",
+          "Philippians 4:4",
+          "Colossians 3:17",
+          "Romans 12:12"
+        ],
+        "correct": 1,
+        "explanation": "Philippians 4:4: 'Rejoice in the Lord always; I say it again, rejoice.'"
+      },
+      {
+        "question": "Which verse concludes the Great Commission in Matthew 28?",
+        "options": [
+          "'Go and make disciples of all nations'",
+          "'I am with you every day, until the end of the world'",
+          "'Baptize them in the name of the Father, of the Son and of the Holy Spirit'",
+          "'Teach them to observe everything I have commanded you'"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 28:20 ends with 'And, behold, I am with you always, even unto the end of the world.'"
+      },
+      {
+        "question": "Which verse from Matthew summarizes the two great commandments?",
+        "options": [
+          "'You shall love the Lord with all your heart, and your neighbor as yourself'",
+          "'Blessed are the meek, for they will inherit the earth'",
+          "'Pray that you may not fall into temptation'",
+          "'What you did to the least of my brothers, you did to me'"
+        ],
+        "correct": 0,
+        "explanation": "Matthew 22:37-39 sums up the entire Law: to love God with all your being + to love your neighbor as yourself — cited by Jesus as the two great commandments on which all the Law and the Prophets are based."
+      },
+      {
+        "question": "Complete John 10:10: 'The thief comes only to steal, to kill, and to destroy; I came...'?",
+        "options": [
+          "'...to save the world'",
+          "'...that we may have life, and that we may have it in abundance'",
+          "'...to call sinners to repentance'",
+          "'...to fulfill the Law and the Prophets'"
+        ],
+        "correct": 1,
+        "explanation": "John 10:10: 'I have come that people may have life, and that they may have it more abundantly.' This verse contrasts the thief (Satan) and the good shepherd (Christ) — the abundance of life in Christ."
+      },
+      {
+        "question": "Which Psalm begins with 'The heavens declare the glory of God'?",
+        "options": [
+          "Psalm 8",
+          "Psalm 19",
+          "Psalm 33",
+          "Psalm 148"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 19:2: 'The heavens declare the glory of God, and the expanse shows the work of his hands.'"
+      },
+      {
+        "question": "What is the verse from Psalm 46 often translated 'God is our refuge and support'?",
+        "options": [
+          "Psalm 46:1",
+          "Psalm 46:2",
+          "Psalm 46:10",
+          "Psalm 46:11"
+        ],
+        "correct": 0,
+        "explanation": "Psalm 46:1 (v.2 in some versions): 'God is our refuge and support, a help that never fails in trouble.'"
+      },
+      {
+        "question": "Complete Matthew 5:14: 'You are the light of the world. A city...'?",
+        "options": [
+          "'...enlightened cannot hide'",
+          "'...he who is on a mountain cannot be hidden'",
+          "'...luminous attracts men to God'",
+          "'...of God shines in the darkness'"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 5:14: 'You are the light of the world. A city that is on a mountain cannot be hidden.' Jesus calls his disciples to spread their faith in the world."
+      },
+      {
+        "question": "Which verse says 'Seek first the kingdom of God and his righteousness, and all these things will be added to you'?",
+        "options": [
+          "Matthew 6:33",
+          "Luke 12:31",
+          "Matthew 5:6",
+          "The first two"
+        ],
+        "correct": 3,
+        "explanation": "Matthew 6:33 and Luke 12:31 both repeat this teaching of Jesus from the Sermon on the Mount about the priority of the Kingdom of God over material concerns."
+      },
+      {
+        "question": "Which Old Testament verse is most often cited in the NT?",
+        "options": [
+          "Genesis 1:1",
+          "Psalm 110:1",
+          "Isaiah 53:5",
+          "Deuteronomy 6:4"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 110:1 ('The LORD said to my Lord, Sit on my right hand') is the most quoted OT verse in the NT — applied by Jesus to himself (Matthew 22:44) and used in Acts and the epistles to proclaim the exaltation of the resurrected Christ."
+      },
+      {
+        "question": "Complete Isaiah 41:10: 'Fear not, for I am with you; don't let yourself get discouraged...'?",
+        "options": [
+          "'...because you are in my hands'",
+          "'...for I am your God, I strengthen you, I help you, I uphold you with my right hand in triumph'",
+          "'...for your faith will save you'",
+          "'...for I chose you before the foundation of the world'"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 41:10: 'Fear not, for I am with you; do not give way to discouragement, for I am your God; I strengthen you, I help you, I uphold you with my triumphant right hand.' One of the most beloved comforting verses in the OT."
+      },
+      {
+        "question": "Which verse from the Sermon on the Mount says 'You are the salt of the earth'?",
+        "options": [
+          "Matthew 5:3",
+          "Matthew 5:13",
+          "Matthew 5:20",
+          "Matthew 6:1"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 5:13: 'You are the salt of the earth. But if the salt loses its flavor, with what can we restore it?' — call to disciples to be agents of preservation and flavor in the world."
+      },
+      {
+        "question": "Complete Romans 8:38-39: 'For I am convinced that neither death nor life... will be able to separate us from ___'?",
+        "options": [
+          "the grace of God",
+          "the love of God manifested in Jesus Christ our Lord",
+          "the peace of Christ",
+          "the joy of the Holy Spirit"
+        ],
+        "correct": 1,
+        "explanation": "Romans 8:38-39: '...nothing shall separate us from the love of God which is in Christ Jesus our Lord' — one of the Bible's most powerful and comforting statements about the eternal security of the believer in Christ."
+      },
+      {
+        "question": "Which verse from the Gospel of John expresses the heart of Christ's mission: 'For God did not send his Son into the world to condemn the world'?",
+        "options": [
+          "John 3:17",
+          "John 3:18",
+          "John 5:24",
+          "John 12:47"
+        ],
+        "correct": 0,
+        "explanation": "John 3:17: 'God did not send his Son into the world to condemn the world, but that the world might be saved through him.' Essential complement to John 3:16 — Christ's mission is saving, not condemning."
+      },
+      {
+        "question": "Which Bible verse describes the 'new birth' as ​​a condition for seeing the Kingdom of God?",
+        "options": [
+          "John 1:12",
+          "John 3:3",
+          "Titus 3:5",
+          "1 Peter 1:23"
+        ],
+        "correct": 1,
+        "explanation": "John 3:3: 'Jesus answered him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.' — said to Nicodemus, foundation of the doctrine of regeneration."
+      },
+      {
+        "question": "Complete Psalm 119:105: 'Your word is a lamp...'?",
+        "options": [
+          "'...to light my way'",
+          "'...at my feet and a light on my path'",
+          "'...who guides all my steps'",
+          "'...more precious than gold'"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 119:105: 'Your word is a lamp to my feet and a light to my path.' — emblematic verse on the Word of God as divine guide to the Christian life."
+      },
+      {
+        "question": "Which verse in Revelation says 'Behold, I stand at the door and knock'?",
+        "options": [
+          "Revelation 3:19",
+          "Revelation 3:20",
+          "Revelation 22:17",
+          "Revelation 21:3"
+        ],
+        "correct": 1,
+        "explanation": "Revelation 3:20: 'Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and dine with him, and he with me.' — said to the Church of Laodicea, universal invitation of Christ."
+      },
+      {
+        "question": "Complete 1 Kings 18:21 (Elijah on Mount Carmel): 'How long will you limp on both sides? If the Lord is God...'?",
+        "options": [
+          "'...obey his commandments'",
+          "'...follow him; and if it is Baal, follow him'",
+          "'...abandon your idols'",
+          "'...return to him with all your heart'"
+        ],
+        "correct": 1,
+        "explanation": "1 Kings 18:21: 'If the LORD be God, follow him; and if it is Baal, follow him.' — Elijah's challenge to the people of Israel hesitating between the Lord and Baal, a call for a radical choice."
+      },
+      {
+        "question": "Which verse says 'All things are possible to him who believes'?",
+        "options": [
+          "Matthew 17:20",
+          "Mark 9:23",
+          "Luke 1:37",
+          "John 11:40"
+        ],
+        "correct": 1,
+        "explanation": "Mark 9:23: 'Jesus said to him: If you can! All things are possible to him who believes.' — said to the father of an epileptic child who implored Jesus for his son."
+      },
+      {
+        "question": "Which verse says that 'all things work together for good to those who love God'?",
+        "options": [
+          "Jeremiah 29:11",
+          "Romans 8:28",
+          "Philippians 4:7",
+          "1 Thessalonians 5:18"
+        ],
+        "correct": 1,
+        "explanation": "Romans 8:28: 'All things work together for good to those who love God, to those who are the called according to his purpose.' — foundation of the believer's confidence in divine Providence."
+      },
+      {
+        "question": "Complete John 1:12: 'But as many as received him...'?",
+        "options": [
+          "'...he granted them eternal life'",
+          "'...he gave them the right to become children of God'",
+          "'...he adopted them as his beloved sons'",
+          "'...he forgave them and sanctified them'"
+        ],
+        "correct": 1,
+        "explanation": "John 1:12: 'But as many as received him, even as many as believed on his name, to them he gave the right to become children of God.' — the Johannine answer to the question of salvation: believe = receive = become a child of God."
+      },
+      {
+        "question": "Which Psalm says 'The LORD is my light and my salvation—whom shall I fear?' ?",
+        "options": [
+          "Psalm 18",
+          "Psalm 27",
+          "Psalm 46",
+          "Psalm 91"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 27:1: 'The LORD is my light and my salvation—whom shall I fear? The LORD is the support of my life—whom shall I fear?' — song of absolute trust in God in the midst of adversity."
+      },
+      {
+        "question": "Which verse of Paul says 'For me to live is Christ, and to die is gain'?",
+        "options": [
+          "Galatians 2:20",
+          "Philippians 1:21",
+          "Colossians 3:4",
+          "1 Corinthians 15:31"
+        ],
+        "correct": 1,
+        "explanation": "Philippians 1:21: 'For to me to live is Christ, and to die is gain.' — perfect expression of life completely centered on Christ, to the point that death itself is gain."
+      },
+      {
+        "question": "Complete the promise of John 14:27: 'Peace I leave with you, my peace I give you...'?",
+        "options": [
+          "'...she surpasses all intelligence'",
+          "'...I don't give it to you as the world gives it. May not your heart be troubled or alarmed?",
+          "'...it will last until the end of time'",
+          "'...receive it through prayer and trust'"
+        ],
+        "correct": 1,
+        "explanation": "John 14:27: '...I do not give it to you as the world gives it. Let not your heart be troubled or alarmed.' — the peace of Christ, different from human peace, farewell gift from Jesus to his disciples before the Passion."
+      },
+      {
+        "question": "Which verse says 'If we confess our sins, he is faithful and just to forgive us'?",
+        "options": [
+          "1 John 2:1",
+          "1 John 1:9",
+          "1 John 4:10",
+          "Romans 10:9"
+        ],
+        "correct": 1,
+        "explanation": "1 John 1:9: 'If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.' — foundation of repentance and forgiveness in the Christian life."
+      },
+      {
+        "question": "Which verse in the book of Proverbs says 'The fear of the LORD is the beginning of wisdom'?",
+        "options": [
+          "Proverbs 1:7",
+          "Proverbs 3:5",
+          "Proverbs 9:10",
+          "Psalm 111:10"
+        ],
+        "correct": 0,
+        "explanation": "Proverbs 1:7: 'The fear of the LORD is the beginning of knowledge (wisdom); Fools despise wisdom and instruction.' — programmatic verse from the book of Wisdom."
+      },
+      {
+        "question": "Which verse says 'I am the resurrection and the life'?",
+        "options": [
+          "John 6:40",
+          "John 11:25",
+          "John 14:19",
+          "John 20:31"
+        ],
+        "correct": 1,
+        "explanation": "John 11:25: 'I am the resurrection and the life. He who believes in me will live, even if he were dead' - said to Martha before the resurrection of Lazarus."
+      },
+      {
+        "question": "Complete Isaiah 40:31: 'But those who trust in the LORD shall renew their strength...'?",
+        "options": [
+          "'...they walk and never tire'",
+          "'...they take flight like eagles; they run and are not weary, they walk and are not weary'",
+          "'...they find rest in their souls'",
+          "'...their hope will never be disappointed'"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 40:31: '...they take flight like eagles; They run and are not weary, they walk and are not weary.' — promise of divine renewal for those who wait for the Lord in confidence."
+      },
+      {
+        "question": "Which NT verse says 'faith comes by hearing'?",
+        "options": [
+          "Hebrews 11:1",
+          "Romans 10:17",
+          "1 Peter 1:25",
+          "Galatians 3:2"
+        ],
+        "correct": 1,
+        "explanation": "Romans 10:17: 'So faith comes by hearing, and hearing by the word of Christ.' — foundation of the importance of preaching and proclaiming the Gospel to awaken faith."
+      },
+      {
+        "question": "What is the OT verse that says 'The LORD is near to the brokenhearted'?",
+        "options": [
+          "Psalm 34:19",
+          "Psalm 51:17",
+          "Psalm 147:3",
+          "Isaiah 57:15"
+        ],
+        "correct": 0,
+        "explanation": "Psalm 34:19: 'The LORD is near to those who are broken in heart, and he saves those who are discouraged in spirit.' — verse of deep comfort for those wounded in life."
+      },
+      {
+        "question": "Complete 2 Timothy 3:16: 'All scripture is given by inspiration of God...'?",
+        "options": [
+          "'...and is the absolute truth'",
+          "'...and profitable for teaching, for convincing, for correcting, for training in righteousness'",
+          "'...and should never be questioned'",
+          "'...and was given to the apostles alone'"
+        ],
+        "correct": 1,
+        "explanation": "2 Timothy 3:16: 'All scripture is given by inspiration of God, and is profitable for teaching, for reproof, for correction, for training in righteousness.' — founding verse of the doctrine of biblical inspiration."
+      },
+      {
+        "question": "Which verse in the Sermon on the Mount says 'Blessed are the merciful'?",
+        "options": [
+          "Matthew 5:3",
+          "Matthew 5:7",
+          "Matthew 5:9",
+          "Matthew 5:12"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 5:7: 'Blessed are the merciful, for they will obtain mercy.' — the 5th Beatitude of the Sermon on the Mount."
+      },
+      {
+        "question": "Which verse in the Book of Hebrews says that the Word of God is 'sharper and more effective than a two-edged sword'?",
+        "options": [
+          "Hebrews 1:3",
+          "Hebrews 4:12",
+          "Hebrews 6:19",
+          "Hebrews 12:1"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 4:12: 'For the word of God is living and effective, sharper than any two-edged sword, piercing even to the division of soul and spirit...'"
+      },
+      {
+        "question": "Complete Matthew 11:28: 'Come to me, all you who are weary...'?",
+        "options": [
+          "'...and I will heal you'",
+          "'...and heavy, and I will give you rest'",
+          "'...and I will teach you the truth'",
+          "'...and I will deliver you from your sins'"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 11:28: 'Come to me, all you who labor and are heavy laden, and I will give you rest.' — universal invitation from Jesus to all those who carry burdens."
+      },
+      {
+        "question": "What is the verse in 1 Corinthians 13 that says 'love never fails'?",
+        "options": [
+          "1 Corinthians 13:4",
+          "1 Corinthians 13:8",
+          "1 Corinthians 13:12",
+          "1 Corinthians 13:13"
+        ],
+        "correct": 1,
+        "explanation": "1 Corinthians 13:8: 'Love never fails. Prophecies will end, tongues will cease, knowledge will disappear.' — the permanence of agape beyond all spiritual gifts."
+      },
+      {
+        "question": "Which verse says 'Ask and it will be given to you; seek and you will find; knock and it will be opened to you?",
+        "options": [
+          "Matthew 6:6",
+          "Matthew 7:7",
+          "Luke 11:9",
+          "Both: Matthew 7:7 and Luke 11:9"
+        ],
+        "correct": 3,
+        "explanation": "This famous verse on persistent prayer is found in Matthew 7:7 (Sermon on the Mount) and Luke 11:9 (in the context of the teaching on prayer after the Lord's Prayer)."
+      },
+      {
+        "question": "Which verse summarizes the Law and the Prophets according to Jesus: 'Whatever you want men to do for you...'?",
+        "options": [
+          "Matthew 5:48",
+          "Matthew 7:12",
+          "Luke 6:31",
+          "Both: Matthew 7:12 and Luke 6:31"
+        ],
+        "correct": 3,
+        "explanation": "The 'golden rule' — 'Whatsoever you want men to do unto you, do even so unto them' — is in Matthew 7:12 (with the addition 'for this is the law and the prophets') and Luke 6:31. Jesus presents it as the summary of all moral revelation."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "'In all things God works for good...' — What is the exact reference?",
+        "options": [
+          "Philippians 4:13",
+          "Romans 8:28",
+          "Jeremiah 29:11",
+          "Proverbs 3:5"
+        ],
+        "correct": 1,
+        "explanation": "Romans 8:28: 'All things work together for good to those who love God.'"
+      },
+      {
+        "question": "Who said 'It is no longer I who live, it is Christ who lives in me'?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "Paul",
+          "Jacques"
+        ],
+        "correct": 2,
+        "explanation": "Paul writes this in Galatians 2:20 to express union with Christ."
+      },
+      {
+        "question": "Which psalm begins with 'The heavens declare the glory of God'?",
+        "options": [
+          "Psalm 8",
+          "Psalm 19",
+          "Psalm 33",
+          "Psalm 148"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 19:2: 'The heavens declare the glory of God, and the expanse shows the work of his hands.'"
+      },
+      {
+        "question": "In which verse does Paul instruct believers to 'put on the armor of God'?",
+        "options": [
+          "Romans 13:12",
+          "Ephesians 6:11",
+          "2 Corinthians 10:4",
+          "1 Thessalonians 5:8"
+        ],
+        "correct": 1,
+        "explanation": "Ephesians 6:11: 'Put on yourselves with the whole armor of God, that you may be able to stand firm against the wiles of the devil.'"
+      },
+      {
+        "question": "Which verse in John says 'I and the Father are one'?",
+        "options": [
+          "John 1:1",
+          "John 8:58",
+          "John 10:30",
+          "John 17:21"
+        ],
+        "correct": 2,
+        "explanation": "John 10:30: 'I and the Father are one.'"
+      },
+      {
+        "question": "Complete Proverbs 22:6: 'Teach the child according to...'?",
+        "options": [
+          "...the precepts of God",
+          "...the path he must follow; and when he is old, he will not turn away from it",
+          "...the wisdom of the Lord",
+          "...the commandments"
+        ],
+        "correct": 1,
+        "explanation": "Proverbs 22:6: 'Train up the child in the way he should go; and when he is old, he will not depart from it.'"
+      },
+      {
+        "question": "'Seek first the kingdom of God and his righteousness...' — What book?",
+        "options": [
+          "Luke 12",
+          "Matthew 6",
+          "John 15",
+          "Romans 14"
+        ],
+        "correct": 1,
+        "explanation": "This saying of Jesus is found in the Sermon on the Mount, Matthew 6:33."
+      },
+      {
+        "question": "Which verse says 'All scripture is given by inspiration of God, and is profitable for teaching...'?",
+        "options": [
+          "1 Peter 1:23",
+          "2 Timothy 3:16",
+          "Hebrews 4:12",
+          "John 17:17"
+        ],
+        "correct": 1,
+        "explanation": "2 Timothy 3:16 affirms the divine inspiration of Scripture."
+      },
+      {
+        "question": "In Matthew 5, what does Jesus say about 'peacemakers'?",
+        "options": [
+          "They will inherit the earth",
+          "They will be consoled",
+          "They will be called sons of God",
+          "They will see God"
+        ],
+        "correct": 2,
+        "explanation": "Matthew 5:9: 'Blessed are the peacemakers, for they will be called sons of God!'"
+      },
+      {
+        "question": "Which verse from the book of Micah summarizes the believer's vocation in three elements?",
+        "options": [
+          "Micah 5:2",
+          "Micah 6:8",
+          "Micah 7:7",
+          "Micah 4:3"
+        ],
+        "correct": 1,
+        "explanation": "Micah 6:8: 'Do justice, love mercy, and walk humbly with your God.'"
+      },
+      {
+        "question": "Complete Romans 12:2: 'Do not be conformed to this age, but be transformed...'?",
+        "options": [
+          "...by the power of the Spirit",
+          "...by the renewal of intelligence",
+          "...by reading the Word",
+          "...through prayer and fasting"
+        ],
+        "correct": 1,
+        "explanation": "Romans 12:2: '...be transformed by the renewing of the mind.'"
+      },
+      {
+        "question": "Which verse says 'There is therefore now no condemnation for those who are in Christ Jesus'?",
+        "options": [
+          "John 3:17",
+          "Romans 8:1",
+          "Ephesians 1:7",
+          "Colossians 2:14"
+        ],
+        "correct": 1,
+        "explanation": "Romans 8:1: 'There is therefore now no condemnation for those who are in Christ Jesus.'"
+      },
+      {
+        "question": "What Old Testament verse is cited as the basis for justification by faith in Romans 1:17?",
+        "options": [
+          "Genesis 15:6",
+          "Habakkuk 2:4",
+          "Isaiah 53:11",
+          "Psalm 32:1"
+        ],
+        "correct": 1,
+        "explanation": "Romans 1:17 quotes Habakkuk 2:4: 'The righteous shall live by faith.'"
+      },
+      {
+        "question": "Complete 1 Corinthians 13:13: 'Now therefore these three things remain...'?",
+        "options": [
+          "...the greatest is faith",
+          "...but the greatest is love",
+          "...all three are equal",
+          "...the greatest is hope"
+        ],
+        "correct": 1,
+        "explanation": "1 Corinthians 13:13: '...but the greatest is love.'"
+      },
+      {
+        "question": "Which psalm contains the cry 'My God, my God, why have you forsaken me?' that Jesus quotes on the cross?",
+        "options": [
+          "Psalm 18",
+          "Psalm 22",
+          "Psalm 31",
+          "Psalm 69"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 22:1 begins with this cry that Jesus cites in Matthew 27:46 and Mark 15:34."
+      },
+      {
+        "question": "Which verse says 'The LORD God, merciful and gracious, slow to anger, abounding in grace and faithfulness'?",
+        "options": [
+          "Exodus 34:6",
+          "Numbers 14:18",
+          "Psalm 86:15",
+          "All these passages"
+        ],
+        "correct": 3,
+        "explanation": "The divine self-revelation of Exodus 34:6-7 (the '13 divine attributes') is repeated verbatim in Numbers 14:18, Psalm 86:15 and many other texts—it is the central definition of God's character in the OT."
+      },
+      {
+        "question": "Complete Galatians 2:20: 'I have been crucified with Christ; and if I live...'?",
+        "options": [
+          "'...it is by the grace of God'",
+          "'...it is no longer me who lives, it is Christ who lives in me'",
+          "'...it is by the power of the Spirit'",
+          "'...it's because my faith is great'"
+        ],
+        "correct": 1,
+        "explanation": "Galatians 2:20: 'I have been crucified with Christ; and if I live, it is no longer I who live, it is Christ who lives in me; and if I now live in the flesh, I live in faith in the Son of God...' — the mystery of life in Christ."
+      },
+      {
+        "question": "Which verse from the Gospel of John says 'The truth will set you free'?",
+        "options": [
+          "John 8:31",
+          "John 8:32",
+          "John 8:36",
+          "John 17:17"
+        ],
+        "correct": 1,
+        "explanation": "John 8:32: 'You will know the truth, and the truth will set you free.' — said by Jesus to those who remain in his word. The 'truth' here is Christological (John 14:6: 'I am...the truth')."
+      },
+      {
+        "question": "Which verse in Matthew 28 constitutes the 'Great Commission' in its entirety?",
+        "options": [
+          "Matthew 28:18",
+          "Matthew 28:19",
+          "Matthew 28:18-20: triple mandate (authority, mission, presence)",
+          "Matthew 28:20"
+        ],
+        "correct": 2,
+        "explanation": "The Great Commission (Matthew 28:18-20) is a trifecta: (1) foundation — 'All power has been given to me'; (2) mandate — 'Go therefore and make disciples of all nations, baptizing them and teaching them'; (3) promise — 'And behold, I am with you always.'"
+      },
+      {
+        "question": "Which verse in Ezekiel announces the promise of a 'new heart and a new spirit'?",
+        "options": [
+          "Ezekiel 11:19",
+          "Ezekiel 36:26",
+          "Ezekiel 37:14",
+          "All these verses"
+        ],
+        "correct": 3,
+        "explanation": "The promise of the new heart appears in Ezekiel 11:19, 18:31 and especially 36:26: 'I will give you a new heart and put a new spirit within you; I will remove the heart of stone from your body and give you a heart of flesh.' — fulfillment in the new birth (John 3:3-5)."
+      },
+      {
+        "question": "Complete Hebrews 12:1-2: '...let us run with perseverance in the course that is set before us, with our eyes fixed on...'?",
+        "options": [
+          "'...God our Father and creator'",
+          "'...Jesus, the leader and finisher of the faith'",
+          "'...the glory that awaits us in heaven'",
+          "'...the cloud of witnesses that surround us'"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 12:1-2: '...let us run with perseverance in the course set before us, fixing our eyes on Jesus, the leader and finisher of the faith.' — call to fix our gaze on Christ alone, encouraged by the 'cloud of witnesses' of Hebrews 11."
+      },
+      {
+        "question": "What is the verse in Isaiah 53 that says 'He was wounded for our sins'?",
+        "options": [
+          "Isaiah 53:3",
+          "Isaiah 53:5",
+          "Isaiah 53:6",
+          "Isaiah 53:11"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 53:5: 'But he was wounded for our sins, broken for our iniquities; the chastisement that gives us peace fell on him, and by his stripes we are healed.' — the capital Christological verse of the OT."
+      },
+      {
+        "question": "Which verse in Revelation says 'God himself will be with them. He will wipe away every tear from their eyes'?",
+        "options": [
+          "Revelation 7:17",
+          "Revelation 21:3-4",
+          "Revelation 22:3",
+          "Revelation 21:7"
+        ],
+        "correct": 1,
+        "explanation": "Revelation 21:3-4: 'God himself will be with them... He will wipe away every tear from their eyes, and death will be no more, and there will be no more mourning, nor crying, nor pain, for the former things have passed away.' — eschatological vision of total restoration."
+      },
+      {
+        "question": "Which verse in John 3 says 'You must be born again'?",
+        "options": [
+          "John 3:3",
+          "John 3:5",
+          "John 3:7",
+          "John 3:16"
+        ],
+        "correct": 2,
+        "explanation": "John 3:7: 'Marvel not that I said unto you, Ye must be born again.' — Jesus insists to Nicodemus on the absolute necessity of the new spiritual birth."
+      },
+      {
+        "question": "Which verse in Proverbs says 'Man proposes and God disposes' (in its biblical equivalent)?",
+        "options": [
+          "Proverbs 16:1",
+          "Proverbs 16:9",
+          "Proverbs 19:21",
+          "Proverbs 21:31"
+        ],
+        "correct": 1,
+        "explanation": "Proverbs 16:9: 'A man's heart plans his way, but the LORD directs his steps.' — the biblical equivalent of the proverb 'man proposes, God disposes'."
+      },
+      {
+        "question": "Complete 2 Corinthians 12:9: 'My grace is sufficient for you, for my power is made perfect in weakness...'?",
+        "options": [
+          "'...that is why I will glory much more willingly in my weaknesses'",
+          "'...do not fear your weakness'",
+          "'...and my joy will be complete in your service'",
+          "'...remember my commandments'"
+        ],
+        "correct": 0,
+        "explanation": "2 Corinthians 12:9: 'My grace is sufficient for you, for my power is made perfect in weakness. Therefore I will much more gladly boast in my weaknesses, that the power of Christ may rest upon me.' — God's response to Paul begging to remove the thorn in his flesh — central paradox of Pauline theology."
+      },
+      {
+        "question": "Which verse says 'The LORD is my rock, my fortress, and my deliverer'?",
+        "options": [
+          "Psalm 18:2",
+          "Psalm 62:2",
+          "Psalm 91:2",
+          "2 Samuel 22:2"
+        ],
+        "correct": 0,
+        "explanation": "Psalm 18:2: 'The LORD is my rock, my fortress, and my deliverer; my God is my rock where I take refuge, my shield and the force that saves me, my high refuge.' — David sings of his deliverance by God from his enemies."
+      },
+      {
+        "question": "Which Gospel verse says 'The harvest is great, but the laborers are few'?",
+        "options": [
+          "Matthew 9:37-38",
+          "Luke 10:2",
+          "John 4:35",
+          "The first two: Matthew 9:37-38 and Luke 10:2"
+        ],
+        "correct": 3,
+        "explanation": "This missionary verse from Jesus (\"The harvest is great but the workers are few. Pray therefore to the Lord of the harvest to send out workers into his harvest\") is found in Matthew 9:37-38 and Luke 10:2 in two different contexts."
+      },
+      {
+        "question": "Which verse in Romans says 'Be indebted to no one except for mutual love'?",
+        "options": [
+          "Romans 12:9",
+          "Romans 13:8",
+          "Romans 15:1",
+          "Galatians 6:2"
+        ],
+        "correct": 1,
+        "explanation": "Romans 13:8: 'Be indebted to no one, except to love one another; for he who loves others has fulfilled the law.' — Paul connects financial freedom and Christian love as the fulfillment of the whole Law."
+      },
+      {
+        "question": "Which verse announces the Suffering Servant by saying 'He bore our sorrows and carried our sufferings'?",
+        "options": [
+          "Isaiah 53:3",
+          "Isaiah 53:4",
+          "Isaiah 53:7",
+          "Isaiah 53:10"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 53:4: 'Yet he bore our sufferings; he took our sorrows; and we considered him punished, stricken by God, and humiliated.' — cited in Matthew 8:17 for Jesus' healings."
+      },
+      {
+        "question": "Which verse in John says 'If you continue in my Word, you are truly my disciples'?",
+        "options": [
+          "John 8:31",
+          "John 15:7",
+          "John 17:17",
+          "John 14:23"
+        ],
+        "correct": 0,
+        "explanation": "John 8:31: 'Jesus said to the Jews who believed in him, If you continue in my word, you are truly my disciples.' — perseverance in the Word as a criterion of true discipleship according to John."
+      },
+      {
+        "question": "Which verse says that 'whoever wants to save his life will lose it, but whoever loses his life for my sake will find it'?",
+        "options": [
+          "Matthew 10:39",
+          "Matthew 16:25",
+          "Luke 9:24",
+          "All three are found in the 3 synoptic gospels"
+        ],
+        "correct": 3,
+        "explanation": "This paradox about life and death — 'losing one's life to find it' — appears in Matthew 10:39; 16:25, Mark 8:35, Luke 9:24 and 17:33; and even John 12:25 — probably said several times by Jesus as it is central to his teaching on discipleship."
+      },
+      {
+        "question": "Complete the prophecy from Joel 2:28 quoted by Peter at Pentecost: 'In the last days... your sons and your daughters will prophesy...'?",
+        "options": [
+          "'...and the old men will see visions'",
+          "'...and your old men will have dreams; and your young men will see visions'",
+          "'...and the Spirit of God will descend on all men'",
+          "'...and all the earth will know the Lord'"
+        ],
+        "correct": 1,
+        "explanation": "Joel 2:28 (Hebrew 3:1) / Acts 2:17: 'In the last days... your sons and your daughters shall prophesy, your old men shall dream dreams, and your young men shall see visions.' — Peter cites Joel to explain Pentecost as the fulfillment of the promise of the outpouring of the Spirit on all flesh."
+      },
+      {
+        "question": "Which OT verse on faith is cited three times in the NT (Romans 1:17; Galatians 3:11; Hebrews 10:38)?",
+        "options": [
+          "Genesis 15:6",
+          "Habakkuk 2:4",
+          "Isaiah 7:9",
+          "Deuteronomy 6:5"
+        ],
+        "correct": 1,
+        "explanation": "Habakkuk 2:4: 'The righteous shall live by his faith' — this brief and explosive verse is cited 3 times in the NT, marking the centrality of faith to every aspect of the Christian life (justification in Paul, daily walking in Paul, perseverance in the author of the Hebrews)."
+      },
+      {
+        "question": "Which verse from the Epistle to the Ephesians says 'There is no struggle against flesh and blood, but against...'?",
+        "options": [
+          "Ephesians 6:10",
+          "Ephesians 6:12",
+          "Ephesians 6:17",
+          "Ephesians 6:18"
+        ],
+        "correct": 1,
+        "explanation": "Ephesians 6:12: '...against principalities, against powers, against the rulers of the darkness of this age, against spirits of wickedness in the heavenly places.' — Paul reveals the invisible spiritual dimension of Christian warfare."
+      },
+      {
+        "question": "Complete John 15:13: 'Greater love has no one than...'?",
+        "options": [
+          "'...love those who hate us'",
+          "'...lay down one's life for one's friends'",
+          "'...love God with all your heart'",
+          "'...forgive those who offend us'"
+        ],
+        "correct": 1,
+        "explanation": "John 15:13: 'Greater love has no one than to lay down one's life for one's friends.' — Jesus announces his sacrifice as the supreme expression of agape, in the discourse of the vineyard (John 15)."
+      },
+      {
+        "question": "Which verse from Psalm 51 shows David's deep repentance after his sin?",
+        "options": [
+          "Psalm 51:1",
+          "Psalm 51:4",
+          "Psalm 51:10",
+          "Psalm 51:17"
+        ],
+        "correct": 3,
+        "explanation": "Psalm 51:17: 'The sacrifices that please God are a broken spirit; O God, you do not disdain a broken and contrite heart.' — after the affair of Bathsheba, David understands that true repentance surpasses any external sacrifice."
+      },
+      {
+        "question": "Which verse from Colossians says 'You are dead, and your life is hid with Christ in God'?",
+        "options": [
+          "Colossians 2:12",
+          "Colossians 3:3",
+          "Colossians 3:11",
+          "Colossians 1:27"
+        ],
+        "correct": 1,
+        "explanation": "Colossians 3:3: 'For you are dead, and your life is hidden with Christ in God.' — the mystery of union with Christ: the believer has died with Christ (to the old self) and his true life is now 'hid in God' — revealed at the Parousia (Colossians 3:4)."
+      },
+      {
+        "question": "Which NT verse summarizes Jesus' mission: 'The Son of Man came to seek and save that which was lost'?",
+        "options": [
+          "Matthew 18:11",
+          "Luke 19:10",
+          "John 3:17",
+          "1 Timothy 1:15"
+        ],
+        "correct": 1,
+        "explanation": "Luke 19:10: 'For the Son of Man came to seek and to save that which was lost.' — said by Jesus to the house of Zacchaeus, summarizing in one sentence his entire soteriological mission."
+      },
+      {
+        "question": "Which verse from Genesis contains the first biblical messianic promise (Protevangel)?",
+        "options": [
+          "Genesis 3:15",
+          "Genesis 12:3",
+          "Genesis 22:18",
+          "Genesis 49:10"
+        ],
+        "correct": 0,
+        "explanation": "Genesis 3:15: 'I will put enmity between you and the woman, and between your seed and her seed: she shall bruise your head, and you shall bruise her heel.' — the 'Protevangelium' ('first good news'), first messianic announcement after the Fall."
+      },
+      {
+        "question": "Which verse in Deuteronomy 6:4-5 is called the 'Shema Israel'?",
+        "options": [
+          "'Hear, O Israel: the LORD is our God, the LORD is one. You shall love the Lord with all your heart'",
+          "'You shall have no other gods before me'",
+          "'You shall love your neighbor as yourself'",
+          "'The LORD your God is God of gods and Lord of lords'"
+        ],
+        "correct": 0,
+        "explanation": "Deuteronomy 6:4-5: 'Hear, O Israel: the LORD is our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your strength.' — the central prayer of Judaism, cited by Jesus as the first commandment (Mark 12:29-30)."
+      },
+      {
+        "question": "Which verse says 'Draw near to God, and he will draw near to you'?",
+        "options": [
+          "Hebrews 10:22",
+          "James 4:8",
+          "1 John 4:19",
+          "Psalm 145:18"
+        ],
+        "correct": 1,
+        "explanation": "James 4:8: 'Draw near to God, and he will draw near to you. Purify your hands, sinners; sanctify your hearts, you who have a divided soul.' — call to repentance and sanctification as conditions for intimacy with God."
+      },
+      {
+        "question": "Which verse from Zephaniah says 'The LORD your God is in your midst as a mighty Savior'?",
+        "options": [
+          "Zephaniah 1:7",
+          "Zephaniah 3:17",
+          "Zephaniah 2:3",
+          "Micah 7:18"
+        ],
+        "correct": 1,
+        "explanation": "Zephaniah 3:17: 'The LORD your God is in your midst as a mighty Savior; he will have joy and gladness in you; he will be silent in his love, he will shout for joy over you.' — God who sings with joy over his people, one of the most touching verses in the OT."
+      },
+      {
+        "question": "Which verse in Romans says 'For all have sinned and fall short of the glory of God'?",
+        "options": [
+          "Romans 1:18",
+          "Romans 3:23",
+          "Romans 5:12",
+          "Romans 6:23"
+        ],
+        "correct": 1,
+        "explanation": "Romans 3:23: 'For all have sinned and fall short of the glory of God.' — along with Romans 3:24-25, this verse summarizes the universal diagnosis (all have sinned) and the divine remedy (free justification through redemption in Christ)."
+      },
+      {
+        "question": "Complete Philippians 4:7: 'And the peace of God, which surpasses all understanding...'?",
+        "options": [
+          "'...will be with you forever'",
+          "'...will guard your hearts and your minds in Christ Jesus'",
+          "'...will descend upon you like a river'",
+          "'...will give you strength and courage'"
+        ],
+        "correct": 1,
+        "explanation": "Philippians 4:7: '...guard your hearts and your minds in Christ Jesus.' — promise of divine peace that 'surpasses all understanding', granted to those who present their requests to God 'with thanksgiving' (Philippians 4:6)."
+      },
+      {
+        "question": "Which verse from the Gospel of Luke says that 'to whom much is given, much will be required'?",
+        "options": [
+          "Luke 12:47",
+          "Luke 12:48",
+          "Luke 19:26",
+          "Matthew 25:29"
+        ],
+        "correct": 1,
+        "explanation": "Luke 12:48: '...but to whom much is given, much will be required, and to whom much is entrusted, more will be required.' — principle of proportional responsibility in the Kingdom of God."
+      },
+      {
+        "question": "Which verse says 'The Lord is not late in fulfilling his promise... but is patient with you'?",
+        "options": [
+          "2 Peter 3:8",
+          "2 Peter 3:9",
+          "Hebrews 10:37",
+          "Revelation 22:20"
+        ],
+        "correct": 1,
+        "explanation": "2 Peter 3:9: 'The Lord is not slow in fulfilling his promise...but is patient with you, not wanting any to perish, but for all to come to repentance.' — response to those who question the delay of the Parousia."
+      },
+      {
+        "question": "Which verse summarizes the law of sowing and spiritual harvest?",
+        "options": [
+          "Galatians 6:7",
+          "Galatians 6:8",
+          "2 Corinthians 9:6",
+          "Both: Galatians 6:7-8 and 2 Corinthians 9:6"
+        ],
+        "correct": 3,
+        "explanation": "Galatians 6:7-8 ('God is not mocked. Whatever a man sows, that will he also reap') and 2 Corinthians 9:6 ('He who sows sparingly will reap sparingly, and he who sows bountifully will reap bountifully') — two different expressions of the same principle of sowing and spiritual harvest."
+      },
+      {
+        "question": "Which verse says 'Be strong in the Lord and in the power of his might'?",
+        "options": [
+          "Ephesians 6:10",
+          "2 Timothy 2:1",
+          "1 Corinthians 16:13",
+          "Philippians 4:13"
+        ],
+        "correct": 0,
+        "explanation": "Ephesians 6:10: 'Finally, be strong in the Lord and in the power of his might.' — introductory exhortation to the section on the armor of God (Ephesians 6:10-18), emphasizing that Christian strength comes from God, not from us."
+      },
+      {
+        "question": "Which verse from Nehemiah says 'The joy of the Lord is your strength'?",
+        "options": [
+          "Nehemiah 8:8",
+          "Nehemiah 8:10",
+          "Nehemiah 9:17",
+          "Ezra 3:11"
+        ],
+        "correct": 1,
+        "explanation": "Nehemiah 8:10: '...do not mourn, for the joy of the LORD will be your strength.' — said during the public celebration of the reading of the rediscovered Law, while the people were crying with emotion."
+      },
+      {
+        "question": "Complete Revelation 22:20: 'Yes, I am coming quickly. Amen! Come...'?",
+        "options": [
+          "'...Lord Jesus! The grace of the Lord Jesus be with all.'",
+          "'...Lord, in your heavenly glory'",
+          "'...and establish your everlasting kingdom'",
+          "'...and fulfill your faithful promises'"
+        ],
+        "correct": 0,
+        "explanation": "Revelation 22:20-21: 'Yes, I am coming quickly. Amen! Come, Lord Jesus! May the grace of the Lord Jesus be with all!' — the last words of the Bible: eschatological hope (Maranatha) + blessing of grace."
+      },
+      {
+        "question": "Which verse says 'Behold, I give you authority to tread on serpents and scorpions...and nothing shall harm you'?",
+        "options": [
+          "Mark 16:18",
+          "Luke 10:19",
+          "John 14:12",
+          "Acts 1:8"
+        ],
+        "correct": 1,
+        "explanation": "Luke 10:19: 'Behold, I have given you authority to tread on serpents and scorpions, and over all the power of the enemy; and nothing will harm you.' — said by Jesus to the 72 disciples who returned joyfully from their mission."
+      },
+      {
+        "question": "Which verse in the Epistle of James says that 'the fervent prayer of the righteous has great effect'?",
+        "options": [
+          "James 1:5",
+          "James 4:3",
+          "James 5:16",
+          "James 5:17"
+        ],
+        "correct": 2,
+        "explanation": "James 5:16: 'Therefore confess your sins to one another, and pray for one another, that you may be healed. The fervent prayer of the righteous has great effect.' — foundation of intercessory prayer in the Church."
+      },
+      {
+        "question": "Which verse in Revelation says 'They overcame him because of the blood of the Lamb and because of the word of their testimony'?",
+        "options": [
+          "Revelation 7:14",
+          "Revelation 12:11",
+          "Revelation 15:2",
+          "Revelation 17:14"
+        ],
+        "correct": 1,
+        "explanation": "Revelation 12:11: 'They overcame him because of the blood of the Lamb and because of the word of their testimony, and they did not love their lives so much as to fear death.' — the two weapons of the victorious Christian: the blood of Christ and faithful testimony."
+      },
+      {
+        "question": "Which verse from the Gospel of Luke expresses God's mercy in the parable of the prodigal father?",
+        "options": [
+          "Luke 15:20",
+          "Luke 15:22",
+          "Luke 15:24",
+          "Luke 15:32"
+        ],
+        "correct": 0,
+        "explanation": "Luke 15:20: '...while he was still far away, his father saw him and was moved with compassion, and ran and fell on his neck and kissed him.' — the heart of the parable: the father who runs towards the repentant son, an incomparable image of divine grace welcoming the returning sinner."
+      }
+    ],
+    "expert": [
+      {
+        "question": "In which verse does the Hebrew term 'chesed' appear in divine revelation to Moses?",
+        "options": [
+          "Genesis 32:10",
+          "Exodus 34:6-7",
+          "Deuteronomy 7:9",
+          "All these references"
+        ],
+        "correct": 3,
+        "explanation": "'Chesed' (חֶסֶד) is a central term describing God's loving faithfulness, present in all of these references."
+      },
+      {
+        "question": "What Hebrew term means 'truth', 'fidelity' and 'steadiness' at the same time?",
+        "options": [
+          "Shalom",
+          "Emeth",
+          "Kodesh",
+          "Hesed"
+        ],
+        "correct": 1,
+        "explanation": "'Emeth' (אֱמֶת) means 'truth, faithfulness, steadfastness', reflecting the steadfast character of God."
+      },
+      {
+        "question": "What is the original context of the often misinterpreted Jeremiah 29:11?",
+        "options": [
+          "A promise made to Jeremy personally",
+          "A letter to the exiles of Babylon for an entire nation after 70 years",
+          "An oracle for the kings of Israel",
+          "An eschatological promise"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah 29:11 is addressed to the Israelite nation in exile in Babylon—not an immediate individual promise."
+      },
+      {
+        "question": "In Isaiah 53:5, which Hebrew term translated 'pierced' has a deep sacrificial connotation?",
+        "options": [
+          "Nakah",
+          "Chalal",
+          "Makat",
+          "Pasha"
+        ],
+        "correct": 1,
+        "explanation": "'Chalal' (חָלַל) means 'mortally pierced', with a connotation of violent and sacrificial death."
+      },
+      {
+        "question": "What is the rhetorical structure of John's prologue (1:1-18)?",
+        "options": [
+          "A simple narrative introduction",
+          "A Christological hymn in the form of a chiasm",
+          "A Greek philosophical argument",
+          "A prophetic speech in stanzas"
+        ],
+        "correct": 1,
+        "explanation": "John's prologue is structured in chiasmus with the Logos as its center."
+      },
+      {
+        "question": "In Revelation 1:8, which Greek term completes 'I am Alpha and Omega'?",
+        "options": [
+          "Pantokrator (Almighty)",
+          "Kyrios (Lord)",
+          "Christos (Christ)",
+          "Theos (God)"
+        ],
+        "correct": 0,
+        "explanation": "Revelation 1:8: '...the Almighty (Pantokrator)'."
+      },
+      {
+        "question": "What is the theological meaning of the 'blood of sprinkling' in Hebrews 12:24?",
+        "options": [
+          "Christian baptism",
+          "Purification of sins through the intercession of the resurrected Christ",
+          "The Passover sacrifice",
+          "The rite of consecration of priests"
+        ],
+        "correct": 1,
+        "explanation": "The 'blood of sprinkling' refers to the blood of Christ which 'speaks better' than that of Abel."
+      },
+      {
+        "question": "Which quote from Habakkuk 2:4 is used three times in the NT?",
+        "options": [
+          "'The Lord is in his holy temple'",
+          "'The righteous shall live by faith'",
+          "'For a little while longer, and he who is to come will come'",
+          "'Woe to him who says to the wood: wake up!'"
+        ],
+        "correct": 1,
+        "explanation": "'The righteous shall live by faith' (Habakkuk 2:4) is cited in Romans 1:17, Galatians 3:11 and Hebrews 10:38."
+      },
+      {
+        "question": "Which NT Greek term, at the root of the word 'Church', implies 'separation'?",
+        "options": [
+          "Hagios (saint)",
+          "Ekklesia (called out of)",
+          "Pneuma (spirit)",
+          "Doxa (glory)"
+        ],
+        "correct": 1,
+        "explanation": "'Ekklesia' literally means 'those who are called out'."
+      },
+      {
+        "question": "In Matthew 5:17, how does Jesus complete 'I have not come to destroy...'?",
+        "options": [
+          "...the traditions of the ancients",
+          "...the Law nor the Prophets; I came not to abolish, but to fulfill",
+          "...the commandments, but deepen them",
+          "...sacrifices, but replace them with grace"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 5:17: 'I came not to destroy, but to fulfill.'"
+      },
+      {
+        "question": "What is the original liturgical context of the 'Our Father' in Matthew 6?",
+        "options": [
+          "A prayer for meals",
+          "An instruction on authentic prayer versus ostentatious prayer",
+          "A Liturgy for the Sabbath",
+          "An eschatological discourse"
+        ],
+        "correct": 1,
+        "explanation": "The 'Our Father' is part of Jesus' teaching on prayer in contrast to hypocritical prayer (Matthew 6:5-8)."
+      },
+      {
+        "question": "In Revelation, what do the sealed '144,000' symbolically represent?",
+        "options": [
+          "Exactly 144,000 Jews converted",
+          "All of God's people (12 tribes × 12 × 1000)",
+          "Christian martyrs of the first centuries",
+          "Guardian Angels of Israel"
+        ],
+        "correct": 1,
+        "explanation": "144,000 = 12 × 12 × 1000, a symbolic number representing the fullness of God's people."
+      },
+      {
+        "question": "What double command summarizes the entire Law according to Jesus in Matthew 22:37-40?",
+        "options": [
+          "Loving God and neighbor (Deut 6:5 and Lev 19:18)",
+          "Believe in God and obey his commandments",
+          "Honor your parents and not kill",
+          "Faith and works"
+        ],
+        "correct": 0,
+        "explanation": "Jesus cites Deuteronomy 6:5 and Leviticus 19:18 as a summary of the entire Law (Matthew 22:37-40)."
+      },
+      {
+        "question": "Which OT Hebrew term meaning 'justice/righteousness' is more relational than legalistic?",
+        "options": [
+          "Mishpat",
+          "Tzedaqah",
+          "Torah",
+          "Shalom"
+        ],
+        "correct": 1,
+        "explanation": "'Tzedaqah' (צְדָקָה) is the justice/righteousness of God in the covenant, implying faithfulness, loyalty and righteousness."
+      },
+      {
+        "question": "What is the theological paradox at the heart of 2 Corinthians 5:21?",
+        "options": [
+          "The kenosis of Christ",
+          "The divine exchange where Christ takes our sin and gives us his righteousness",
+          "Progressive sanctification",
+          "The resurrection as victory over sin"
+        ],
+        "correct": 1,
+        "explanation": "2 Corinthians 5:21 expresses the wonderful exchange: Christ was made sin that we might become the righteousness of God."
+      },
+      {
+        "question": "In the LXX (Septuagint), by what Greek term is the divine name YHWH usually translated?",
+        "options": [
+          "Theos (God)",
+          "Kyrios (Lord)",
+          "Adonai (My Lord)",
+          "El Shaddaï"
+        ],
+        "correct": 1,
+        "explanation": "The Septuagint translates the tetragrammaton YHWH as 'Kyrios' (Κύριος, Lord)."
+      },
+      {
+        "question": "What is the Hebrew meaning of the term 'dabar' (דָּבָר) used for 'Word of God' in the prophetic texts?",
+        "options": [
+          "Simple verbal communication",
+          "Word/event of creative and effective power, achieving what it says",
+          "Command without own force",
+          "Poetic metaphor of the divine"
+        ],
+        "correct": 1,
+        "explanation": "'Dabar' (דָּבָר) means both the word AND the event/deed — the Word of God brings about what it says (Isaiah 55:11: 'it will not return to me void'). The term underlies the theology of the Johannine Logos."
+      },
+      {
+        "question": "What is the meaning of the Greek term 'aletheia' (truth) in John 14:6 and its relationship to Christology?",
+        "options": [
+          "Philosophical objective truth",
+          "Truth as divine person: Christ is the revelatory and redemptive truth incarnate",
+          "Human faithfulness to God",
+          "A legal concept of truthfulness"
+        ],
+        "correct": 1,
+        "explanation": "In John 14:6, 'aletheia' (ἀλήθεια) does not designate an abstract truth but a person: 'I am...the truth.' Christ is the revelatory (he reveals God as he is) and redemptive (he frees from the lies of sin) truth. Johannine opposite: the devil is 'father of lies' (John 8:44)."
+      },
+      {
+        "question": "What is the meaning of the term 'Maranatha' used in 1 Corinthians 16:22 and the Didache?",
+        "options": [
+          "'God is with us' in Aramaic",
+          "'Our Lord, come!' in Aramaic — eschatological cry of primitive hope",
+          "'Peace and grace' in Hebrew",
+          "'Amen, so be it' in Greek"
+        ],
+        "correct": 1,
+        "explanation": "'Maranatha' (מָרַן אֲתָא) is an Aramaic transliteration meaning either 'Our Lord has come' (Maran atha) or 'Our Lord, come!' (Marana tha) — the imperative interpretation ('Come, Lord!') is generally preferred. This is the eschatological cry of the early Church for the return of Christ (cf. Revelation 22:20)."
+      },
+      {
+        "question": "What figure of speech is used in Isaiah 55:12 when 'the mountains shall shout for joy, and the trees shall clap their hands'?",
+        "options": [
+          "Metaphor",
+          "Prosopopoeia (personification)",
+          "Hyperbola",
+          "Synecdoche"
+        ],
+        "correct": 1,
+        "explanation": "It is a prosopopeia (personification): the elements of nature are presented as living beings expressing the joy of divine liberation (Isaiah 55:12)."
+      },
+      {
+        "question": "Which OT verse is cited in Hebrews 1:5 to prove Christ's unique divine sonship?",
+        "options": [
+          "Psalm 2:7",
+          "Psalm 110:1",
+          "2 Samuel 7:14",
+          "Both: Psalm 2:7 and 2 Samuel 7:14"
+        ],
+        "correct": 3,
+        "explanation": "Hebrews 1:5 successively cites Psalm 2:7 ('You are my son, this day have I begotten you') and 2 Samuel 7:14 ('I will be his father') to demonstrate the superiority of the Son over the angels."
+      },
+      {
+        "question": "What New Testament term (Hebrews 4:12) describes the Word of God as 'living and effective'?",
+        "options": [
+          "Logos (Living Word)",
+          "Rhéma (Active speech)",
+          "Zôn kai energês (alive and effective)",
+          "Pneumatikos (spiritual)"
+        ],
+        "correct": 2,
+        "explanation": "Hebrews 4:12 says that the Word of God is 'living and effective' (ζῶσα καὶ ἐνεργής, zôsa kai energês), sharper than a two-edged sword."
+      },
+      {
+        "question": "What is the meaning of the Greek term 'metanoia' (repentance) in the gospels in relation to simple regret?",
+        "options": [
+          "A passing feeling of remorse",
+          "A radical change in mental, spiritual, and practical orientation—existential turn toward God",
+          "A ritual practice of atonement",
+          "The simple admission of one's faults"
+        ],
+        "correct": 1,
+        "explanation": "'Metanoia' (μετάνοια, meta = after/change + noein = to think) denotes a radical and total change of mental and existential direction — much more than simple regret ('metamelomai'). John the Baptist and Jesus proclaim metanoia as a condition of entry into the Kingdom (Matthew 3:2; 4:17)."
+      },
+      {
+        "question": "What is the meaning of the baptismal formula 'in the name of the Father, and of the Son, and of the Holy Spirit' (Matthew 28:19) in Trinitarian theology?",
+        "options": [
+          "Three separate baptisms for each divine person",
+          "A single baptism in a single Trinitarian 'Name' (singular) — testifying to the unity and tripersonality of God",
+          "A liturgical formula without dogmatic significance",
+          "A post-apostolic development absent from the primitive NT"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 28:19: 'in the name' (eis to onoma, singular) of the Father, the Son and the Holy Spirit - the singular 'name' (not 'names') testifies to the divine unity in the threefold personal distinction. This verse is one of the foundations of the Trinitarian doctrine and was used from the first councils against Arianism."
+      },
+      {
+        "question": "What is the meaning of 'sabbath' in its Hebrew etymology and its theological significance?",
+        "options": [
+          "Physical rest only",
+          "'Shabbat' (שַׁבָּת) comes from 'to cease/to stop' — God's rest after creation models a rhythm of grace, liberation from the slavery of work and an eschatological foretaste",
+          "A purely legal and non-theological commandment",
+          "A weekly purification rite"
+        ],
+        "correct": 1,
+        "explanation": "'Shabbat' (שַׁבָּת) comes from the verb 'shavat' (to cease, to stop). The Sabbath has three dimensions: creation (Genesis 2:2-3—God rests, model for imitation); liberation (Deuteronomy 5:15—remembrance of deliverance from Egypt); eschatology (Hebrews 4:9-11—foretaste of eschatological rest in Christ)."
+      },
+      {
+        "question": "What is the meaning of the expression 'Spirit of truth' (Pneuma tês alêtheias) in the speech of the Paraclete in John 16:13?",
+        "options": [
+          "The Spirit who teaches philosophical truths",
+          "The Holy Spirit who leads into all truth revealed in Christ, recalls the words of Jesus and reveals things to come",
+          "A poetic title of divine wisdom",
+          "The honest and sincere human spirit"
+        ],
+        "correct": 1,
+        "explanation": "John 16:13: 'When the Paraclete comes, the Spirit of truth, he will guide you into all truth.' The Spirit performs 4 hermeneutical functions: (1) leads into ALL truth; (2) does not speak about himself; (3) announces things to come; (4) glorifies Christ. 'Truth' here designates plenary Christological revelation."
+      },
+      {
+        "question": "What is the significance of the image of the 'Lamb of God' (John 1:29) in the context of Passover and the Suffering Servant?",
+        "options": [
+          "Only a symbol of gentleness",
+          "Convergence between the Passover lamb (Exodus 12), the Suffering Servant (Isaiah 53:7), daily sacrifices and the cosmic Lamb of the Apocalypse",
+          "A title of royal majesty",
+          "A reference to the scapegoat of Leviticus 16"
+        ],
+        "correct": 1,
+        "explanation": "The image of the lamb in John 1:29 is a typological convergence: (1) Passover Lamb (protection by blood, Exodus 12); (2) Suffering Servant led 'like a lamb to the slaughter' (Isaiah 53:7); (3) Daily Temple sacrifice (tamid); (4) The Lamb of the Apocalypse 'as if slain' reigning eternally (Revelation 5:6). John the Baptist concentrates in two words ('Lamb of God') all the sacrificial theology of the OT."
+      },
+      {
+        "question": "What is the meaning of the term 'propitiation' (hilastêrion) in Romans 3:25 and how it relates to the cover of the Ark (kapporeth)?",
+        "options": [
+          "A simple metaphor of forgiveness",
+          "The 'mercy seat' or seat of mercy: place where the atoning blood was sprinkled on the Ark - Jesus is the fulfillment in his own person",
+          "A Greek philosophical term unrelated to the OT",
+          "A human penitential rite"
+        ],
+        "correct": 1,
+        "explanation": "Romans 3:25 uses 'hilastêrion' (ἱλαστήριον) — the same term that the LXX uses for the 'kapporeth' (כַּפֹּרֶת), the golden cover of the Ark on which the High Priest sprinkled the blood on Yom Kippur (Leviticus 16:14-15). Paul says that God presented Christ publicly as THIS place of propitiation—in broad daylight, not in the inaccessible Holy of Holies."
+      },
+      {
+        "question": "How does John 3:14-15 relate to the figure of the brazen serpent in Numbers 21?",
+        "options": [
+          "Simple rhetorical comparison without typological depth",
+          "Type-antitype: the raised brazen serpent (Numbers 21:8) exactly prefigures Christ lifted up on the cross — look = believe = live",
+          "An unexplained cryptic reference",
+          "A Parable About Sin Only"
+        ],
+        "correct": 1,
+        "explanation": "John 3:14-15: 'As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in him may have eternal life.' Perfect typological correspondence: (1) the serpent raised on a staff → Christ raised on the cross; (2) those bitten by serpents → those wounded by sin; (3) look in faith to be healed → believe to have eternal life."
+      },
+      {
+        "question": "What is the meaning of the term 'mystery' (mustêrion) for Paul in Ephesians 3:6?",
+        "options": [
+          "An esoteric secret reserved for initiates",
+          "What was hidden in ages past and now revealed: Gentile joint heirs with Israel in the one Body of Christ",
+          "An incomprehensible dogma",
+          "A secret liturgical rite"
+        ],
+        "correct": 1,
+        "explanation": "'Mustêrion' (μυστήριον) in Paul does not designate an esoteric secret but a progressively accomplished divine revelation: 'the nations are joint heirs, members of the same body and partakers of the same promise in Christ Jesus' (Ephesians 3:6). This mystery 'hidden from time immemorial in God' is now fully revealed by the Gospel—the unity of Jews and Gentiles in one Body."
+      },
+      {
+        "question": "What is the meaning of the Greek term 'telos' in Matthew 5:48 ('be ye perfect as your heavenly Father is perfect')?",
+        "options": [
+          "Absolute moral perfection impossible to achieve",
+          "'Telos' = complete, accomplished, mature, goal-oriented — call for maturity and integrity in love",
+          "Synonym of 'holy' (hagios)",
+          "A Platonic ideal of moral excellence"
+        ],
+        "correct": 1,
+        "explanation": "'Teleios' (τέλειος) comes from 'telos' (goal, accomplishment) — not absolute flawless perfection, but maturation, integrity, accomplished love. The context (Matthew 5:43-48) is about loving your enemies as God loves all—the ideal is inclusive love, not legalistic perfection."
+      },
+      {
+        "question": "What is the meaning of the term 'dikaiosynê' (justice/righteousness) in the Sermon on the Mount (Matthew 5:6,10,20; 6:33)?",
+        "options": [
+          "Retributive legal justice",
+          "God’s covenant justice: both a gift received by grace AND justice to be practiced — dual dimension of the justice of the Kingdom",
+          "Only horizontal social justice",
+          "Pauline justification only"
+        ],
+        "correct": 1,
+        "explanation": "'Dikaiosynê' in Matthew has a double dimension: (1) vertical — the righteousness that God gives (5:6: hungry for righteousness); (2) horizontal—justice to be practiced toward others (5:10: persecuted for righteousness' sake). Matthew 5:20 ('if your righteousness be not greater than that of the scribes and Pharisees') means a righteousness of the heart's intention, not just of outward observance."
+      },
+      {
+        "question": "What is the liturgical and eschatological meaning of the phrase 'Body and Blood of Christ' in 1 Corinthians 11:23-26?",
+        "options": [
+          "A simple commemorative meal without any real presence",
+          "'Do this in memory of me' establishes an anamnesis (active memorial) proclaiming the death of the Lord until he comes - tension between past (cross), present (meal) and future (Parousia)",
+          "Catholic transubstantiation exactly",
+          "A fraternal agape meal only"
+        ],
+        "correct": 1,
+        "explanation": "1 Corinthians 11:26: 'As often as you eat this bread and drink this cup, you proclaim the death of the Lord until he comes.' The Last Supper is an anamnesis (ἀνάμνησις) - not a simple passive memory, but an active proclamation holding together: the cross (past, foundation), the presence of the Resurrected (present, participation) and the Parousia (future, hope)."
+      },
+      {
+        "question": "What is the theological meaning of the 'name above every name' given to Jesus in Philippians 2:9-11?",
+        "options": [
+          "A human honorary title",
+          "The eschatological exaltation of Jesus receiving the divine name YHWH himself—fulfillment of Isaiah 45:23 applied to Christ",
+          "Simply the name 'Jesus'",
+          "An angelic claim to fame"
+        ],
+        "correct": 1,
+        "explanation": "Philippians 2:9-11 quotes Isaiah 45:23 (“every knee shall bow before me, and every tongue shall swear”)—a verse speaking of YHWH himself in Isaiah—and applies it to Jesus. The 'name above every name' is the divine Name YHWH = Lord (Kyrios). The exaltation of Christ is His investiture of the Name and divine authority over all creation."
+      },
+      {
+        "question": "What is the universal and Christocentric scope of the 'new creation' (ktisis kainê) in 2 Corinthians 5:17?",
+        "options": [
+          "Only an inner moral change",
+          "The new cosmic creation inaugurated in the resurrected Christ, of which the believer now participates by eschatological anticipation",
+          "The creation of a new Church",
+          "The annual renewal of nature"
+        ],
+        "correct": 1,
+        "explanation": "2 Corinthians 5:17: 'If anyone is in Christ, he is a new creation. Old things have passed away; behold, all things have become new.' 'Ktisis kainê' refers to Isaiah's promise of a 'new heaven and a new earth' (Isaiah 65:17). The resurrected Christ is 'the firstfruits' (1 Corinthians 15:20) of the new cosmic creation — the believer already participates in it in hope."
+      },
+      {
+        "question": "What is the relationship between the 'promises of Abraham' in Galatians 3 and the universal scope of divine blessing?",
+        "options": [
+          "The promises are addressed only to Israel",
+          "Paul shows that the promise to Abraham ('all nations blessed in you', Genesis 12:3; 22:18) precedes the Law by 430 years and finds its fulfillment only in Christ",
+          "Promises are abolished by law",
+          "Gentiles inherit by circumcision"
+        ],
+        "correct": 1,
+        "explanation": "Galatians 3:15-18: The Abrahamic promise (Genesis 12:3; 22:18) is prior and superior to the Law (430 years later, Exodus 12:40). Paul says in 3:16 that the promise is made 'to your descendants' (singular) = Christ. Through union with Christ, Jews AND Gentiles become 'the descendants of Abraham, heirs according to the promise' (Galatians 3:29) — the cosmic fulfillment of universal blessing."
+      },
+      {
+        "question": "What is the meaning of the image of 'new heavens and new earth' in Revelation 21:1 and how does it differ from cosmic annihilation?",
+        "options": [
+          "Total destruction of the universe and creation ex nihilo of another",
+          "The Greek term 'kainos' (new in quality) indicates a transfiguring transformation, not an annihilation — continuity in discontinuity",
+          "A simple spiritual metaphor for the renewed heart",
+          "The exact annihilation of the OT (2 Peter 3:10-12)"
+        ],
+        "correct": 1,
+        "explanation": "Revelation 21:1 uses 'kainos' (καινός, new in quality) not 'neos' (new in time). 2 Peter 3:10-12 speaks of 'dissolution' but the Greek term 'lythêsontai' can mean 'to be undone/transformed' not necessarily 'annihilated'. Romans 8:21 says that 'creation itself will be set free from bondage'—a movement of liberation, not of annihilation. The resurrection of the physical body of Christ supports the bodily continuity of the new creation."
+      },
+      {
+        "question": "What is the meaning of 'foreordination/predestination' (proorizô) in Romans 8:29-30 and how does Reformed theology distinguish it from simple foreknowledge?",
+        "options": [
+          "Predestination = God decides in advance what he knows in advance (foreknowledge), the two are the same",
+          "Predestination = sovereign act of God which precedes and causes faith; Foreknowledge = knowledge of what God has decreed — predestination logically before foreknowledge",
+          "Predestination only concerns Israel as a nation",
+          "Paul does not distinguish predestination and foreknowledge in Romans 8"
+        ],
+        "correct": 1,
+        "explanation": "Reformed theology (Calvin) distinguishes: 'proginôskô' (prē-know, prescience) and 'proorizô' (pre-delimit, predestinate). Romans 8:29-30: 'those whom he foreknew (proegnô)...he also predestined (proôrisen).' For Reformed theology, 'foreknowledge' is relational (electing in love) and logically precedes 'foreknowledge' — God sovereignly predestines, he does not react to what he foresees."
+      },
+      {
+        "question": "What is the significance of Genesis 1:26-27 ('let us make man in our image and likeness') for biblical anthropology?",
+        "options": [
+          "A polytheistic vestige (plural of gods)",
+          "The imago Dei: man as a relational being bearing divine likeness — capacity for relationship with God, reason, creativity, ethical responsibility and royal vocation over creation",
+          "The creation of the immortal soul only",
+          "A metaphor for God's physical training of man"
+        ],
+        "correct": 1,
+        "explanation": "Genesis 1:26-27 is the foundation of biblical anthropology. 'Image' (tselem) and 'resemblance' (demut) designate: (1) relationship with God (capacity for understanding and response); (2) representation/vice-regency (man as God's representative over creation); (3) sexual difference ('male and female he created them') as a reflection of intradivine communion. The plural 'let's do' is seen as plural of majesty or proto-Trinitarian depending on the interpreters."
+      }
+    ]
+  }
+}

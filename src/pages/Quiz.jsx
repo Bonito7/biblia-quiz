@@ -4,22 +4,20 @@ import { AnimatePresence, motion } from "framer-motion";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { categories, questions } from "../lib/quizData";
+import { useTranslation } from "../lib/i18n";
+import { useTranslatedQuestions } from "../lib/content";
 import QuizCard from "../components/QuizCard";
-
-const difficultyLabels = {
-  debutant: "🌱 Débutant",
-  intermediaire: "📖 Intermédiaire",
-  expert: "🔥 Expert"
-};
 
 export default function Quiz() {
   const navigate = useNavigate();
   const { categoryId } = useParams();
   const urlParams = new URLSearchParams(window.location.search);
   const difficulty = urlParams.get('difficulty') || 'debutant';
+  const { lang, t } = useTranslation();
 
   const category = categories.find(c => c.id === categoryId);
-  const allQuestions = questions[categoryId] || {};
+  const { content: translated } = useTranslatedQuestions(lang, categoryId);
+  const allQuestions = (translated && translated[categoryId]) || questions[categoryId] || {};
   const categoryQuestions = allQuestions[difficulty] || [];
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -50,8 +48,8 @@ export default function Quiz() {
   if (!category || categoryQuestions.length === 0) {
     return (
       <div className="max-w-2xl mx-auto px-4 py-20 text-center">
-        <p className="text-muted-foreground mb-4">Catégorie introuvable</p>
-        <Button onClick={() => navigate("/")}>Retour à l'accueil</Button>
+        <p className="text-muted-foreground mb-4">{t("quiz.categoryNotFound")}</p>
+        <Button onClick={() => navigate("/")}>{t("notFound.home")}</Button>
       </div>
     );
   }
@@ -66,14 +64,14 @@ export default function Quiz() {
           className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
         >
           <ArrowLeft className="w-4 h-4" />
-          {category.name}
+          {t(`categories.${category.id}.name`)}
         </button>
         <motion.span
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           className="text-xs font-medium px-3 py-1 rounded-full bg-muted text-muted-foreground"
         >
-          {difficultyLabels[difficulty] || difficulty}
+          {t(`difficulty.${difficulty}`)}
         </motion.span>
       </div>
 
@@ -92,7 +90,7 @@ export default function Quiz() {
       {showResult && (
         <div className="mt-6 flex justify-end">
           <Button onClick={handleNext} size="lg" className="gap-2 rounded-xl px-6">
-            {currentQuestion < categoryQuestions.length - 1 ? "Question suivante" : "Voir les résultats"}
+            {currentQuestion < categoryQuestions.length - 1 ? t("quiz.nextQuestion") : t("quiz.seeResults")}
             <ArrowRight className="w-4 h-4" />
           </Button>
         </div>

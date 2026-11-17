@@ -1,0 +1,221 @@
+{
+  "divineNameCategories": [
+    {
+      "id": "elohim",
+      "label": "Majina makuu ya Mungu",
+      "emoji": "✡️",
+      "color": "from-indigo-600 to-blue-700",
+      "names": [
+        {
+          "hebrew": "אֵל",
+          "transliteration": "El",
+          "meaning": "Mungu, Mwenye Nguvu",
+          "usage": "Namna ya zamani zaidi na ya ulimwengu wote ya jina la Mungu. Hutumika peke yake au kama kiambishi awali/kiambishi katika majina mengine (El-Shaddai, Elohim). Inavuka tamaduni za Kisemiti.",
+          "references": "Mwanzo 14:18; Hesabu 23:8; Zaburi 19:1",
+          "occurrences": "~ mara 250"
+        },
+        {
+          "hebrew": "אֱלֹהִים",
+          "transliteration": "Elohim",
+          "meaning": "Mungu (wingi wa ukuu)",
+          "usage": "Jina la kawaida zaidi katika OT. Wingi wa kisarufi unaotumiwa na kitenzi cha umoja - ishara ya utimilifu na ukuu. Wengine wanaona kuwa ni kielelezo cha Utatu. Imetumika mapema kama Mwanzo 1:1.",
+          "references": "Mwanzo 1:1; Zaburi 68:5",
+          "occurrences": "~ mara 2,600"
+        },
+        {
+          "hebrew": "יהוה",
+          "transliteration": "YHWH (Yahweh / Yehova)",
+          "meaning": "MIMI NIKO AMBAYE NIKO / Wa Milele",
+          "usage": "Jina la Mungu mwenyewe, lilifunuliwa kwa Musa kwenye kichaka kilichowaka moto (Kutoka 3:14). Tetagramu Takatifu - Wayahudi hawatamki na badala yake wanasema 'Adonai'. Ni jina la Muungano, la uwepo na uaminifu.",
+          "references": "Kutoka 3:14-15; Isaya 42:8",
+          "occurrences": "~mara 6,800"
+        },
+        {
+          "hebrew": "אֲדֹנָי",
+          "transliteration": "Adonai",
+          "meaning": "Bwana, Bwana Mwenye Enzi",
+          "usage": "Kichwa cha uhuru kamili. Hutumika badala ya YHWH katika usomaji wa sinagogi. Inadhihirisha ubwana kamili wa Mungu juu ya viumbe vyote na watu wake.",
+          "references": "Zaburi 8:1; Isaya 6:1",
+          "occurrences": "~ mara 450"
+        }
+      ]
+    },
+    {
+      "id": "compounds",
+      "label": "Majina ya pamoja na El",
+      "emoji": "🔗",
+      "color": "from-violet-600 to-purple-700",
+      "names": [
+        {
+          "hebrew": "אֵל שַׁדַּי",
+          "transliteration": "El-Shaddai",
+          "meaning": "Mungu Mwenyezi / Mungu na matiti (mlisha)",
+          "usage": "Jina lililofunuliwa kwa Ibrahimu. 'Shaddai' pengine inatoka 'shad' (matiti) - Mungu lishe na wa kutosha, au kutoka 'shadad' (haribu) - Mwenyezi Mungu. Maana zote mbili ziko pamoja: nguvu kamili na utunzaji wa mama.",
+          "references": "Mwanzo 17:1; Kutoka 6:3; Ayubu 1:1",
+          "occurrences": "~ mara 48"
+        },
+        {
+          "hebrew": "אֵל עֶלְיוֹן",
+          "transliteration": "El-Elyon",
+          "meaning": "Mungu Mkuu",
+          "usage": "Jina lililotumiwa na Melkizedeki (Mwanzo 14:18). Huonyesha upitaji mipaka kamili wa Mungu juu ya miungu yote na mamlaka yote. Inatumika katika muktadha wa ushindi na uhuru.",
+          "references": "Mwanzo 14:18-20; Zaburi 78:35",
+          "occurrences": "~ mara 28"
+        },
+        {
+          "hebrew": "אֵל עוֹלָם",
+          "transliteration": "El-Olam",
+          "meaning": "Mungu wa Milele",
+          "usage": "Jina limefichuliwa huko Beersheba. 'Olam' = umilele, kudumu. Mungu ambaye asili yake inapita wakati na ahadi zake hazina mwisho. Ibrahimu anapanda mti wa mkwaju ili kusherehekea jina hili.",
+          "references": "Mwanzo 21:33; Isaya 40:28",
+          "occurrences": "~ mara 4 wazi"
+        },
+        {
+          "hebrew": "אֵל רֹאִי",
+          "transliteration": "El-Roi",
+          "meaning": "Mungu anayeona",
+          "usage": "Jina alilopewa na Hajiri jangwani (Mwanzo 16). Jina pekee la Mungu linalotolewa na mwanamke katika Biblia. Inaonyesha kwamba Mungu anaona mateso ya waliosahauliwa na kutengwa.",
+          "references": "Mwanzo 16:13",
+          "occurrences": "Kipekee"
+        },
+        {
+          "hebrew": "אֵל קַנָּא",
+          "transliteration": "El-Qanna",
+          "meaning": "Mungu Mwenye Wivu / Mungu Moto",
+          "usage": "Huonyesha upendo wa kipekee na wa shauku wa Mungu kwa watu wake - kama vile mume anayeonea wivu kutengwa kwa upendo wa ndoa. Si wivu-wivu bali wivu-uaminifu.",
+          "references": "Kutoka 20:5; Kumbukumbu la Torati 4:24",
+          "occurrences": "~ mara 6"
+        }
+      ]
+    },
+    {
+      "id": "yhwh_compounds",
+      "label": "Majina ya Mchanganyiko na YHWH",
+      "emoji": "✨",
+      "color": "from-amber-600 to-orange-700",
+      "names": [
+        {
+          "hebrew": "יהוה יִרְאֶה",
+          "transliteration": "YHWH-Yirei",
+          "meaning": "Bwana atatoa",
+          "usage": "Ilifunuliwa kwa Ibrahimu kwenye Mlima Moria, baada ya Mungu kutoa kondoo mume kuchukua mahali pa Isaka. Jina hili huanzisha fundisho la usimamizi wa kimungu: Mungu huona mapema na hutoa.",
+          "references": "Mwanzo 22:14",
+          "occurrences": "Kipekee"
+        },
+        {
+          "hebrew": "יהוה נִסִּי",
+          "transliteration": "YHWH-Nissi",
+          "meaning": "Bwana ndiye bendera yangu",
+          "usage": "Imefichuliwa baada ya ushindi dhidi ya Amaleki. Musa anainua mikono yake na Israeli inashinda. Madhabahu iliyojengwa inaitwa 'Bwana ndiye bendera yangu' - ishara kwamba Mungu mwenyewe ndiye kiwango tunachopigania.",
+          "references": "Kutoka 17:15",
+          "occurrences": "Kipekee"
+        },
+        {
+          "hebrew": "יהוה שָׁלוֹם",
+          "transliteration": "YHWH-Shalom",
+          "meaning": "Bwana ni amani",
+          "usage": "Ilifunuliwa kwa Gideoni, ambaye aliogopa kufa baada ya kumwona malaika wa Bwana. Jina la madhabahu iliyojengwa huko Ofra. Shalom = ukamilifu, ustawi, maelewano, kutokuwepo kwa vita vya ndani.",
+          "references": "Waamuzi 6:24",
+          "occurrences": "Kipekee"
+        },
+        {
+          "hebrew": "יהוה רֹעִי",
+          "transliteration": "YHWH-Mfalme",
+          "meaning": "Bwana ndiye mchungaji wangu",
+          "usage": "Jina linalopendwa zaidi la watu wa Kiebrania. Zaburi 23 - Daudi anaonyesha uhusiano wa uaminifu kamili na Mungu kama mchungaji: mwelekeo, lishe, ulinzi, uwepo katika kifo. Yesu alimiliki cheo (Yohana 10).",
+          "references": "Zaburi 23:1; Yohana 10:11",
+          "occurrences": "~ Wakati 1 wazi + muktadha"
+        },
+        {
+          "hebrew": "יהוה צְבָאוֹת",
+          "transliteration": "YHWH-Zabaoth",
+          "meaning": "Bwana wa majeshi",
+          "usage": "Jina la nguvu ya kijeshi na mbinguni ya Mungu. 'Tzabaot' = majeshi (majeshi ya Israeli + majeshi ya mbinguni). Inafunua kwamba Mungu ndiye amiri jeshi mkuu wa mbingu na nchi.",
+          "references": "1 Samweli 1:3; Isaya 6:3",
+          "occurrences": "~ mara 285"
+        },
+        {
+          "hebrew": "יהוה רָפְאֶךָ",
+          "transliteration": "YHWH-Ropheka",
+          "meaning": "Bwana akuponyaye",
+          "usage": "Ilifunuliwa Mara, baada ya Mungu kufanya maji machungu kuwa matamu. Mungu anajidhihirisha kuwa ni mponyaji wa watu wake—kimwili (magonjwa) na kiroho (majeraha ya moyo na dhambi).",
+          "references": "Kutoka 15:26",
+          "occurrences": "Kipekee"
+        },
+        {
+          "hebrew": "יהוה שַׁמָּה",
+          "transliteration": "YHWH-Shammah",
+          "meaning": "Bwana yupo",
+          "usage": "Jina la mwisho lililofunuliwa katika Agano la Kale, na Ezekieli kutaja Yerusalemu iliyorejeshwa. Uwepo wa Mungu ni ufafanuzi wa mwisho wa mji kamili. Inawakilisha Yerusalemu Mpya (Ufunuo 21:3).",
+          "references": "Ezekieli 48:35",
+          "occurrences": "Kipekee"
+        },
+        {
+          "hebrew": "יהוה צִדְקֵנוּ",
+          "transliteration": "YHWH-Tsidqenu",
+          "meaning": "Bwana haki yetu",
+          "usage": "Jina la Kimasihi lililofunuliwa na Yeremia ili kutaja mfalme wa wakati ujao wa ukoo wa Daudi. Mfalme huyu (Masihi) atakuwa mwenye haki ya Mungu kwa watu wake—akionyesha kimbele kuhesabiwa haki kwa imani.",
+          "references": "Yeremia 23:6; 33:16",
+          "occurrences": "mara 2"
+        },
+        {
+          "hebrew": "יהוה מְקַדִּשְׁכֶם",
+          "transliteration": "YHWH-Meqaddishkem",
+          "meaning": "Bwana akutakasaye",
+          "usage": "Imefunuliwa katika muktadha wa sheria ya Sabato. Mungu hahesabii haki - anatakasa, anaweka kando, anafanya takatifu. Sabato ni ishara ya utakaso huu unaoendelea.",
+          "references": "Kutoka 31:13; Mambo ya Walawi 20:8",
+          "occurrences": "~ mara 4"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Majina Mengine ya Kimungu",
+      "emoji": "👑",
+      "color": "from-rose-600 to-pink-700",
+      "names": [
+        {
+          "hebrew": "הָאָבִּיר",
+          "transliteration": "Ha-Avir / Mwenye Nguvu wa Yakobo",
+          "meaning": "Mwenye Nguvu, Fahali wa Yakobo",
+          "usage": "Cheo kilichotumika katika baraka za Yakobo. 'Avir' = nguvu kama fahali. Huonyesha uwezo mbichi wa Mungu kama mlinzi na mtetezi wa watu wake.",
+          "references": "Mwanzo 49:24; Zaburi 132:2",
+          "occurrences": "~ mara 6"
+        },
+        {
+          "hebrew": "קְדוֹשׁ יִשְׂרָאֵל",
+          "transliteration": "Qedosh Yisrael",
+          "meaning": "Mtakatifu wa Israeli",
+          "usage": "Jina linalopendwa sana na nabii Isaya (imejitokeza mara 25 katika kitabu chake). Inadhihirisha utakatifu kamili wa Mungu - ubinafsi wake mkali, usafi wake, uadilifu wake wa maadili. Utakatifu ni sifa kuu ya Isaya 6.",
+          "references": "Isaya 1:4; 6:3",
+          "occurrences": "~ mara 30"
+        },
+        {
+          "hebrew": "גֹּאֵל",
+          "transliteration": "Go'el",
+          "meaning": "Mkombozi/Mlipiza kisasi cha Damu",
+          "usage": "Neno la kisheria la Kiebrania kwa jamaa wa karibu anayemkomboa mshiriki wa familia aliye maskini. Kutumika kwa Mungu: anakomboa Israeli kutoka utumwani na kutengeneza kile kilichopotea. Ruthu na Boazi wanaonyesha wazo hili.",
+          "references": "Isaya 41:14; Ruthu 3:9; Ayubu 19:25",
+          "occurrences": "~mara 20 (zinatumika kwa Mungu)"
+        },
+        {
+          "hebrew": "מֶלֶךְ",
+          "transliteration": "Meleki",
+          "meaning": "Mfalme",
+          "usage": "Mungu anaonyeshwa kama mfalme wa Israeli na ulimwengu. Jina kuu katika Zaburi ya kifalme (93, 96-99). Theokrasi ya Agano la Kale inatokana na cheo hiki: Mungu mwenyewe ndiye mfalme wa kweli.",
+          "references": "Zaburi 93:1; Isaya 44:6",
+          "occurrences": "Wengi sana"
+        },
+        {
+          "hebrew": "אָבִינוּ",
+          "transliteration": "Avinu",
+          "meaning": "Baba yetu",
+          "usage": "Jina la urafiki wa kindugu, lililokuzwa katika maombi. Mara chache katika Agano la Kale (Isaya 63:16), inaeleza uhusiano wa huruma ya baba. Yesu atalifanya kuwa jina kuu katika Sala ya Bwana ('Baba Yetu').",
+          "references": "Isaya 63:16; 64:8; Mathayo 6:9",
+          "occurrences": "~mara 15 (AT + NT)"
+        }
+      ]
+    }
+  ],
+  "pronunciationNote": "Tetagramu takatifu (יהוה - YHWH) kamwe haitamki katika mapokeo ya Kiyahudi kwa kuheshimu utakatifu wa Mungu. Wasomaji wa sinagogi wanasema “Adonai” badala yake. Wito “Yehova” ni muunganiko wa konsonanti za YHWH na vokali za Adonai za enzi za kati."
+}

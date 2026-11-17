@@ -1,0 +1,483 @@
+{
+  "geographie": {
+    "debutant": [
+      {
+        "question": "To which sea did Moses lead the Israelites when leaving Egypt?",
+        "options": [
+          "Mediterranean Sea",
+          "Dead Sea",
+          "Red Sea",
+          "Sea of ​​Galilee"
+        ],
+        "correct": 2,
+        "explanation": "Moses parted the Red Sea to allow the Israelites to flee Pharaoh's army (Exodus 14)."
+      },
+      {
+        "question": "In which city was Jesus born?",
+        "options": [
+          "Nazareth",
+          "Jerusalem",
+          "Bethlehem",
+          "Capernaum"
+        ],
+        "correct": 2,
+        "explanation": "Jesus was born in Bethlehem of Judea, according to the prophecy of Micah 5:2 (Matthew 2:1)."
+      },
+      {
+        "question": "In which town did Jesus grow up?",
+        "options": [
+          "Bethlehem",
+          "Jerusalem",
+          "Nazareth",
+          "Capernaum"
+        ],
+        "correct": 2,
+        "explanation": "Jesus grew up in Nazareth of Galilee, which is why he was called 'Jesus of Nazareth' (Luke 2:51)."
+      },
+      {
+        "question": "On which mountain did Moses receive the Ten Commandments?",
+        "options": [
+          "Mount Carmel",
+          "Mount Hermon",
+          "Mount Sinai",
+          "Mount of Olives"
+        ],
+        "correct": 2,
+        "explanation": "Moses received the Ten Commandments from God on Mount Sinai (Exodus 20)."
+      },
+      {
+        "question": "What river did John the Baptist use to baptize?",
+        "options": [
+          "The Nile",
+          "The Euphrates",
+          "The Tiger",
+          "The Jordan"
+        ],
+        "correct": 3,
+        "explanation": "John the Baptist baptized in the Jordan, and it was there that Jesus was baptized (Matthew 3:13)."
+      },
+      {
+        "question": "In which garden was Jesus arrested?",
+        "options": [
+          "Garden of Eden",
+          "Rose Garden",
+          "Garden of Gethsemane",
+          "Joseph's Garden"
+        ],
+        "correct": 2,
+        "explanation": "Jesus prayed and was arrested in the Garden of Gethsemane, at the foot of the Mount of Olives (Matthew 26:36)."
+      },
+      {
+        "question": "To which country did Abraham receive God's call to go?",
+        "options": [
+          "Canaan",
+          "Mesopotamia (Ur of the Chaldeans)",
+          "Egypt",
+          "Arabia"
+        ],
+        "correct": 1,
+        "explanation": "Abraham (Abram) received the divine call to Ur from the Chaldeans in Mesopotamia (Genesis 11:31; Acts 7:2-4)."
+      },
+      {
+        "question": "What country did the Israelites leave during the Exodus?",
+        "options": [
+          "Babylon",
+          "Assyria",
+          "Egypt",
+          "Canaan"
+        ],
+        "correct": 2,
+        "explanation": "The Exodus is the exit of the Hebrew people from Egypt under the leadership of Moses (Exodus 12-15)."
+      },
+      {
+        "question": "On which mountain did Noah's ark rest after the flood?",
+        "options": [
+          "Mount Sinai",
+          "Mount Ararat",
+          "Mount Carmel",
+          "Mount Hermon"
+        ],
+        "correct": 1,
+        "explanation": "Noah's ark rested on the Ararat Mountains (Genesis 8:4)."
+      },
+      {
+        "question": "In which city was Paul converted along the way?",
+        "options": [
+          "Jerusalem",
+          "Antioch",
+          "Damascus",
+          "Corinth"
+        ],
+        "correct": 2,
+        "explanation": "Paul (Saul) had his vision of the resurrected Christ on the road to Damascus (Acts 9:3)."
+      },
+      {
+        "question": "On which island did John write the Apocalypse?",
+        "options": [
+          "Cyprus",
+          "Malta",
+          "Patmos",
+          "Crete"
+        ],
+        "correct": 2,
+        "explanation": "John received the visions of Revelation while exiled on the island of Patmos (Revelation 1:9)."
+      },
+      {
+        "question": "In which sea was Paul shipwrecked?",
+        "options": [
+          "Red Sea",
+          "Black Sea",
+          "Mediterranean Sea",
+          "Dead Sea"
+        ],
+        "correct": 2,
+        "explanation": "Paul was shipwrecked near the island of Malta in the Mediterranean Sea (Acts 27-28)."
+      },
+      {
+        "question": "In which city did Solomon build the Temple?",
+        "options": [
+          "Bethlehem",
+          "Hebron",
+          "Jerusalem",
+          "Samaria"
+        ],
+        "correct": 2,
+        "explanation": "Solomon built the first Temple on Mount Moriah in Jerusalem (1 Kings 6)."
+      },
+      {
+        "question": "Where was Abraham willing to sacrifice Isaac?",
+        "options": [
+          "Mount Sinai",
+          "Mount Moriah",
+          "Mount Carmel",
+          "Mount Horeb"
+        ],
+        "correct": 1,
+        "explanation": "God had asked Abraham to go to the land of Moriah to offer Isaac (Genesis 22:2)."
+      },
+      {
+        "question": "What is the main inland Sea of ​​Galilee?",
+        "options": [
+          "Lake Tiberias (Sea of ​​Galilee)",
+          "Dead Sea",
+          "Houleh Lake",
+          "Red Sea"
+        ],
+        "correct": 0,
+        "explanation": "Lake Tiberias, also called the Sea of ​​Galilee or Lake Gennesaret, was the center of Jesus' ministry in Galilee."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "What was the ancient name of the city of Jerusalem before its conquest by David?",
+        "options": [
+          "Hebron",
+          "Jebus",
+          "Salem",
+          "Bethel"
+        ],
+        "correct": 1,
+        "explanation": "Jerusalem was called Jebus, inhabited by the Jebusites, before being conquered by David (2 Samuel 5:6-9)."
+      },
+      {
+        "question": "Between which two rivers was Mesopotamia located?",
+        "options": [
+          "The Nile and the Jordan",
+          "The Tigris and the Euphrates",
+          "The Euphrates and the Jordan",
+          "The Nile and the Euphrates"
+        ],
+        "correct": 1,
+        "explanation": "Mesopotamia (from the Greek: 'land between the rivers') is located between the Tigris and the Euphrates, in what is now Iraq."
+      },
+      {
+        "question": "In which city did Paul found the Church after 18 months of stay?",
+        "options": [
+          "Ephesus",
+          "Philippi",
+          "Corinth",
+          "Thessaloniki"
+        ],
+        "correct": 2,
+        "explanation": "Paul stayed 18 months in Corinth during his 2nd missionary journey to found the Church there (Acts 18:11)."
+      },
+      {
+        "question": "What was the capital of the Northern Kingdom (Israel)?",
+        "options": [
+          "Jerusalem",
+          "Silo",
+          "Samaria",
+          "Bethel"
+        ],
+        "correct": 2,
+        "explanation": "Samaria was built by King Omri as the capital of the Northern Kingdom (1 Kings 16:24)."
+      },
+      {
+        "question": "Approximately how deep is the Dead Sea relative to sea level?",
+        "options": [
+          "200 m below",
+          "430 m below",
+          "100 m below",
+          "600 m below"
+        ],
+        "correct": 1,
+        "explanation": "The Dead Sea is the lowest point on the earth's surface, approximately 430 m below sea level."
+      },
+      {
+        "question": "Which current country corresponds mainly to ancient Canaan?",
+        "options": [
+          "Syria and Lebanon alone",
+          "Israel, Palestine, part of Lebanon and Jordan",
+          "Only current Israel",
+          "Egypt and Sinai"
+        ],
+        "correct": 1,
+        "explanation": "Canaan roughly covered modern-day Israel, the Palestinian territories, part of Lebanon and Jordan."
+      },
+      {
+        "question": "On which mountain did Elijah confront the prophets of Baal?",
+        "options": [
+          "Mount Sinai",
+          "Mount Hermon",
+          "Mount Carmel",
+          "Mount Tabor"
+        ],
+        "correct": 2,
+        "explanation": "Elijah challenged the 450 prophets of Baal at the foot of Mount Carmel, facing the Mediterranean (1 Kings 18)."
+      },
+      {
+        "question": "In which city was Paul imprisoned for 2 years before going to Rome?",
+        "options": [
+          "Jerusalem",
+          "Caesarea Maritime",
+          "Antioch",
+          "Ephesus"
+        ],
+        "correct": 1,
+        "explanation": "Paul was imprisoned for 2 years in Caesarea Maritime before Governor Felix, then Festus (Acts 24:27)."
+      },
+      {
+        "question": "Which biblical city was known for its sacred prostitution and commerce, destroyed according to Revelation?",
+        "options": [
+          "Ephesus",
+          "Babylon",
+          "Corinth",
+          "Antioch"
+        ],
+        "correct": 1,
+        "explanation": "Babylon is the apocalyptic symbol of the ungodly city and unrighteous commerce (Revelation 18). Historically, several cities are suggested (Rome, Babylon)."
+      },
+      {
+        "question": "In which desert was Jesus tempted for 40 days?",
+        "options": [
+          "Negev Desert",
+          "Judean Desert",
+          "Sinai Desert",
+          "Arabian Desert"
+        ],
+        "correct": 1,
+        "explanation": "Tradition locates the temptation of Jesus in the Judean Desert, east of Jerusalem and Jericho."
+      },
+      {
+        "question": "What city was Paul's first port of call on his way from Jerusalem to Rome?",
+        "options": [
+          "Alexandria",
+          "Athens",
+          "Antioch of Syria",
+          "Seleucia"
+        ],
+        "correct": 3,
+        "explanation": "Antioch of Syria (via its port Seleucia) was the missionary base from which Paul set out on his travels (Acts 13:4)."
+      },
+      {
+        "question": "In what geographic region was the city of Tarsus, Paul's homeland, located?",
+        "options": [
+          "Greece",
+          "Cilicia (present-day Türkiye)",
+          "Syria",
+          "Macedonia"
+        ],
+        "correct": 1,
+        "explanation": "Tarsus is in Cilicia, in what is now southern Türkiye. Paul proudly referred to himself as 'a citizen of Tarsus' (Acts 21:39)."
+      },
+      {
+        "question": "What is the literal Hebrew name for the Promised Land?",
+        "options": [
+          "Land of Canaan",
+          "Land of Honey and Milk",
+          "Eretz Israel",
+          "Holy Land"
+        ],
+        "correct": 0,
+        "explanation": "The Promised Land is referred to as 'Land of Canaan' (Eretz Kena'an) in the OT, after the name of its previous occupant."
+      },
+      {
+        "question": "By what route did the caravans cross Canaan in the OT?",
+        "options": [
+          "Via Maris (Sea Way) along the coast",
+          "Route of the Patriarchs in the mountains",
+          "Royal road east of the Jordan",
+          "All these roads were used"
+        ],
+        "correct": 3,
+        "explanation": "Three main routes: (1) Via Maris coastal; (2) Route of the Patriarchs (mountains); (3) Royal road east of Jordan — all mentioned in the OT."
+      },
+      {
+        "question": "Where were the 7 Churches receiving the Apocalypse?",
+        "options": [
+          "In Palestine",
+          "In Asia Minor (present-day Türkiye)",
+          "In Greece",
+          "In Egypt"
+        ],
+        "correct": 1,
+        "explanation": "The 7 Churches (Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea) were all in Asia Minor (Revelation 1:11)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "What is the geographical significance of the concept of 'Promised Land' in Covenant theology?",
+        "options": [
+          "Simple political territory",
+          "Symbol of divine heritage, place of the presence of God and prefiguration of eschatological rest",
+          "Geographic donation without symbolic significance",
+          "Territory conquered by military force alone"
+        ],
+        "correct": 1,
+        "explanation": "The Earth (eretz) is in biblical theology: place of the divine Presence, fulfillment of the promise to Abraham, and prefiguration of the eschatological heritage (Hebrews 11:10,16)."
+      },
+      {
+        "question": "What is the theological significance of Jerusalem as the 'navel of the world' (Ezekiel 38:12)?",
+        "options": [
+          "A literal geographical statement",
+          "The centrality of Jerusalem in the divine plan as a meeting place between heaven and earth, God and humanity",
+          "A political metaphor only",
+          "A concept developed only in the NT"
+        ],
+        "correct": 1,
+        "explanation": "The 'center of the earth' (tabbur ha-aretz) in Ezekiel 38:12 expresses the theological and eschatological centrality of Jerusalem in the divine plan."
+      },
+      {
+        "question": "What is the precise geographical route of Paul's first missionary journey according to Acts?",
+        "options": [
+          "Antioch → Cyprus → Perge → Antioch of Pisidia → Iconium → Lystra → Derbe → return",
+          "Antioch → Athens → Corinth → Rome",
+          "Jerusalem → Antioch → Ephesus → Rome",
+          "Tarsus → Jerusalem → Damascus → Antioch"
+        ],
+        "correct": 0,
+        "explanation": "1st journey (Acts 13-14): Antioch → Seleucia → Cyprus (Salamis, Paphos) → Perge → Antioch of Pisidia → Iconium → Lystra → Derbe → return."
+      },
+      {
+        "question": "What was the geopolitical significance of Canaan between Egypt and Mesopotamia?",
+        "options": [
+          "An isolated territory of no importance",
+          "A strategic corridor between the two great empires, a place of passage and constant conflicts",
+          "An agricultural region without military issues",
+          "An uninhabitable desert"
+        ],
+        "correct": 1,
+        "explanation": "Canaan was the 'land bridge' between Egypt and Mesopotamia — its strategic position explains the numerous invasions and successive domination by the great empires."
+      },
+      {
+        "question": "In what eschatological perspective does Zechariah describe the geographical transformation of Jerusalem (Zechariah 14)?",
+        "options": [
+          "A purely symbolic transformation",
+          "The Mount of Olives will be split, Jerusalem will be lifted up, and living waters will flow east and west.",
+          "The final destruction of Jerusalem",
+          "A vision of the historical past"
+        ],
+        "correct": 1,
+        "explanation": "Zechariah 14 describes an eschatological transformation: the Mount of Olives split (v.4), Jerusalem lifted up (v.10), living waters flowing to the two seas (v.8)."
+      },
+      {
+        "question": "What is the symbolic meaning of the Jordan in biblical theology?",
+        "options": [
+          "Simple geographic boundary",
+          "Symbol of transformative passage: from slavery to freedom (Exodus), from wandering to inheritance (Joshua), from sin to grace (baptism)",
+          "A sacred river without symbolic significance",
+          "Unique symbol of death"
+        ],
+        "correct": 1,
+        "explanation": "The Jordan crosses the great biblical moments: crossing on dry ground (Joshua 3-4), baptism of Jesus, healing of Naaman — symbol of transformative passages."
+      },
+      {
+        "question": "What is the relationship between the geography of the creation story (Genesis 2) and the rivers of Eden?",
+        "options": [
+          "Fictional rivers without geographical basis",
+          "Pishon, Gihon, Hiddekel (Tiger) and Phrat (Euphrates) suggest a location in Mesopotamia, but the text has a cosmological significance",
+          "Only African rivers",
+          "Rivers exclusively represent the 4 cardinal points"
+        ],
+        "correct": 1,
+        "explanation": "Genesis 2:10-14: Tigris and Euphrates are identifiable. Pishon and Gihon are debated. The text has both a geographical and cosmological scope (the garden as a cosmic temple)."
+      },
+      {
+        "question": "Why was the city of Ephesus strategically important to the Pauline mission?",
+        "options": [
+          "Only for its port",
+          "Capital of the province of Asia, major commercial and religious crossroads, center of the cult of Artemis — an ideal base for evangelizing all of Asia",
+          "It was Paul's hometown",
+          "Paul only stayed there for a few days"
+        ],
+        "correct": 1,
+        "explanation": "Paul stayed in Ephesus for 3 years (Acts 19-20). A commercial and religious crossroads, Ephesus provided access to all of Asia Minor."
+      },
+      {
+        "question": "What is the significance of the 'Road of the Patriarchs' in the geography of Genesis?",
+        "options": [
+          "A simple trade route",
+          "The north-south axis in the mountainous area of ​​Canaan (Beer-Sheva, Hebron, Bethel, Shechem) marking the places of alliance of Abraham, Isaac and Jacob",
+          "The road to exile",
+          "An itinerary only from Jacob"
+        ],
+        "correct": 1,
+        "explanation": "The patriarchs follow an axis in the heights of Canaan: Beersheba (covenant) → Hebron (burial) → Bethel (vision) → Shechem (altar) — each step marks an act of alliance."
+      },
+      {
+        "question": "How does the geography of Revelation (Babylon vs New Jerusalem) structure its theology?",
+        "options": [
+          "These are two future physical cities",
+          "Two cities symbolize two opposing spiritual systems: Babylon (idolatrous and oppressive empire) vs New Jerusalem (city of God and the Lamb)",
+          "Simple Roman political allegory without theological significance",
+          "Only an architectural description"
+        ],
+        "correct": 1,
+        "explanation": "The Apocalypse opposes two symbolic 'cities': Babylon (Rev 17-18) = system of the world opposed to God; New Jerusalem (Rev 21-22) = the perfect city of the divine presence."
+      },
+      {
+        "question": "What is the symbolic meaning of the desert (midbar) in biblical theology?",
+        "options": [
+          "A simple inhospitable geographical location",
+          "Place of testing, encounter with God, spiritual formation and divine engagement (Hosea 2:14)",
+          "Exclusive symbol of death and judgment",
+          "A purely negative place"
+        ],
+        "correct": 1,
+        "explanation": "The 'midbar' (desert) is ambivalent: a place of temptation AND of intimate divine encounter. Hosea 2:14: 'I will lead her into the wilderness and speak to her heart.'"
+      },
+      {
+        "question": "What is the theological significance of the 'ascent to Jerusalem' in the synoptic gospels?",
+        "options": [
+          "A simple geographical journey",
+          "An eschatological and sacrificial climb: Jesus deliberately goes up to Jerusalem to fulfill his passion (Luke 9:51: 'he made the decision to walk towards Jerusalem')",
+          "A navigation error",
+          "A religious tourist trip"
+        ],
+        "correct": 1,
+        "explanation": "The 'ascent' to Jerusalem is a central theological motif (Luke 9:51-19:44): Jesus ascends as the Suffering Servant to the place of sacrifice, resurrection and inauguration of the Kingdom."
+      },
+      {
+        "question": "What is the meaning of the name 'Babylon' in 1 Peter 5:13 and its actual geographical context?",
+        "options": [
+          "The real city of Babylon in Mesopotamia",
+          "A cryptic name for Rome, as in Revelation — common usage in post-70 AD Jewish literature. AD",
+          "Alexandria in Egypt",
+          "Antioch of Syria"
+        ],
+        "correct": 1,
+        "explanation": "Almost all historians identify 'Babylon' in 1 Peter 5:13 with Rome. Similar usage in Revelation and post-70s Jewish literature to designate the oppressive empire."
+      }
+    ]
+  }
+}

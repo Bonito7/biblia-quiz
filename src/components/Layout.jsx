@@ -1,14 +1,16 @@
 import { Outlet, Link, useLocation, useNavigate } from "react-router-dom";
-import { BookOpen, Home, Trophy, Map, Star, Users, Settings, ArrowLeft } from "lucide-react";
+import { BookOpen, Trophy, Map, Star, Users, Settings, ArrowLeft } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
+import { useTranslation } from "@/lib/i18n";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 const navItems = [
-  { to: "/", icon: Home, label: "Accueil" },
-  { to: "/maps", icon: Map, label: "Cartes" },
-  { to: "/noms-de-dieu", icon: Star, label: "Noms" },
-  { to: "/vie-sociale", icon: Users, label: "Vie Juive" },
-  { to: "/scores", icon: Trophy, label: "Scores" },
-  { to: "/settings", icon: Settings, label: "Réglages" },
+  { to: "/", icon: BookOpen, key: "home" },
+  { to: "/maps", icon: Map, key: "maps" },
+  { to: "/noms-de-dieu", icon: Star, key: "divineName" },
+  { to: "/vie-sociale", icon: Users, key: "jewishLife" },
+  { to: "/scores", icon: Trophy, key: "scores" },
+  { to: "/settings", icon: Settings, key: "settings" },
 ];
 
 const ROOT_PATHS = ["/", "/maps", "/noms-de-dieu", "/vie-sociale", "/scores", "/settings"];
@@ -16,6 +18,7 @@ const ROOT_PATHS = ["/", "/maps", "/noms-de-dieu", "/vie-sociale", "/scores", "/
 export default function Layout() {
   const location = useLocation();
   const navigate = useNavigate();
+  const { t } = useTranslation();
   const isRoot = ROOT_PATHS.includes(location.pathname);
 
   return (
@@ -33,7 +36,9 @@ export default function Layout() {
               </div>
               <div>
                 <h1 className="font-heading text-lg font-semibold leading-tight">Biblia-Quiz</h1>
-                <p className="text-[10px] text-muted-foreground leading-tight tracking-wide uppercase">Testez vos connaissances</p>
+                <p className="text-[10px] text-muted-foreground leading-tight tracking-wide uppercase">
+                  {t("nav.tagline")}
+                </p>
               </div>
             </Link>
           ) : (
@@ -42,9 +47,12 @@ export default function Layout() {
               className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors"
             >
               <ArrowLeft className="w-5 h-5" />
-              Retour
+              {t("common.back")}
             </button>
           )}
+          <div className="ml-auto">
+            <LanguageSwitcher />
+          </div>
         </div>
       </header>
 
@@ -68,14 +76,14 @@ export default function Layout() {
               to="/privacy"
               className="text-[11px] text-muted-foreground/50 hover:text-muted-foreground transition-colors"
             >
-              Règles de confidentialité
+              {t("nav.privacy")}
             </Link>
             <span className="text-[11px] text-muted-foreground/50">•</span>
             <Link
               to="/apropos"
               className="text-[11px] text-muted-foreground/50 hover:text-muted-foreground transition-colors"
             >
-              À propos
+              {t("nav.about")}
             </Link>
           </div>
         </footer>
@@ -87,7 +95,7 @@ export default function Layout() {
         style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
       >
         <div className="flex items-center justify-around px-2 py-2 max-w-lg mx-auto">
-          {navItems.map(({ to, icon: Icon, label }) => {
+          {navItems.map(({ to, icon: Icon, key }) => {
             const active = location.pathname === to || (to !== "/" && location.pathname.startsWith(to));
             return (
               <button
@@ -98,7 +106,7 @@ export default function Layout() {
                 }`}
               >
                 <Icon className={`w-5 h-5 transition-transform ${active ? "scale-110" : ""}`} />
-                <span className="text-[10px] font-medium">{label}</span>
+                <span className="text-[10px] font-medium">{t(`nav.${key}`)}</span>
               </button>
             );
           })}

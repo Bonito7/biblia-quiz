@@ -1,0 +1,221 @@
+{
+  "divineNameCategories": [
+    {
+      "id": "elohim",
+      "label": "Principales nombres divinos",
+      "emoji": "✡️",
+      "color": "from-indigo-600 to-blue-700",
+      "names": [
+        {
+          "hebrew": "אֵל",
+          "transliteration": "el",
+          "meaning": "Dios, el Poderoso",
+          "usage": "La forma más antigua y universal del nombre divino. Usado solo o como prefijo/sufijo en otros nombres (El-Shaddai, Elohim). Trasciende las culturas semíticas.",
+          "references": "Génesis 14:18; Números 23:8; Salmo 19:1",
+          "occurrences": "~250 veces"
+        },
+        {
+          "hebrew": "אֱלֹהִים",
+          "transliteration": "Elohim",
+          "meaning": "Dios (plural de majestad)",
+          "usage": "Nombre más común en el Antiguo Testamento. Plural gramatical usado con un verbo singular: signo de plenitud y majestad. Algunos lo ven como una prefiguración de la Trinidad. Usado ya en Génesis 1:1.",
+          "references": "Génesis 1:1; Salmo 68:5",
+          "occurrences": "~2.600 veces"
+        },
+        {
+          "hebrew": "יהוה",
+          "transliteration": "YHWH (Yahvé / Jehová)",
+          "meaning": "YO SOY EL QUE SOY / El Eterno",
+          "usage": "El propio nombre de Dios, revelado a Moisés en la zarza ardiente (Éxodo 3:14). Tetagrama sagrado: los judíos no lo pronuncian y en su lugar dicen 'Adonai'. Es el nombre de la Alianza, de presencia y fidelidad.",
+          "references": "Éxodo 3:14-15; Isaías 42:8",
+          "occurrences": "~6.800 veces"
+        },
+        {
+          "hebrew": "אֲדֹנָי",
+          "transliteration": "Adonai",
+          "meaning": "Señor, Soberano Maestro",
+          "usage": "Título de soberanía absoluta. Usado en lugar de YHWH en la lectura de la sinagoga. Expresa el señorío total de Dios sobre toda la creación y su pueblo.",
+          "references": "Salmo 8:1; Isaías 6:1",
+          "occurrences": "~450 veces"
+        }
+      ]
+    },
+    {
+      "id": "compounds",
+      "label": "Nombres compuestos con El",
+      "emoji": "🔗",
+      "color": "from-violet-600 to-purple-700",
+      "names": [
+        {
+          "hebrew": "אֵל שַׁדַּי",
+          "transliteration": "El-Shaddai",
+          "meaning": "Dios Todopoderoso / Dios con pechos (alimentador)",
+          "usage": "Nombre revelado a Abraham. 'Shaddai' probablemente proviene de 'shad' (pecho), Dios nutritivo y suficiente, o de 'shadad' (destruir), Dios Todopoderoso. Ambos significados conviven: fuerza absoluta y cuidado maternal.",
+          "references": "Génesis 17:1; Éxodo 6:3; Trabajo 1:1",
+          "occurrences": "~48 veces"
+        },
+        {
+          "hebrew": "אֵל עֶלְיוֹן",
+          "transliteration": "El-Elyon",
+          "meaning": "Dios Altísimo",
+          "usage": "Nombre utilizado por Melquisedec (Génesis 14:18). Expresa la trascendencia absoluta de Dios sobre todos los dioses y toda autoridad. Utilizado en contextos de victoria y soberanía.",
+          "references": "Génesis 14:18-20; Salmo 78:35",
+          "occurrences": "~28 veces"
+        },
+        {
+          "hebrew": "אֵל עוֹלָם",
+          "transliteration": "El Olam",
+          "meaning": "Dios eterno",
+          "usage": "Nombre revelado en Beersheba. 'Olam' = eternidad, permanencia. Dios cuya naturaleza trasciende el tiempo y cuyas promesas nunca terminan. Abraham planta un árbol de tamarisco para celebrar este nombre.",
+          "references": "Génesis 21:33; Isaías 40:28",
+          "occurrences": "~4 veces explícito"
+        },
+        {
+          "hebrew": "אֵל רֹאִי",
+          "transliteration": "El Roi",
+          "meaning": "Dios que ve",
+          "usage": "Nombre dado por Agar en el desierto (Génesis 16). El único nombre de Dios dado por una mujer en la Biblia. Expresa que Dios ve el sufrimiento de los olvidados y excluidos.",
+          "references": "Génesis 16:13",
+          "occurrences": "Único"
+        },
+        {
+          "hebrew": "אֵל קַנָּא",
+          "transliteration": "El-Qanna",
+          "meaning": "Dios celoso / Dios ardiente",
+          "usage": "Expresa el amor exclusivo y apasionado de Dios por su pueblo, como un marido celoso de la exclusividad del amor conyugal. No son celos-envidia sino celos-fidelidad.",
+          "references": "Éxodo 20:5; Deuteronomio 4:24",
+          "occurrences": "~6 veces"
+        }
+      ]
+    },
+    {
+      "id": "yhwh_compounds",
+      "label": "Nombres compuestos con YHWH",
+      "emoji": "✨",
+      "color": "from-amber-600 to-orange-700",
+      "names": [
+        {
+          "hebrew": "יהוה יִרְאֶה",
+          "transliteration": "YHWH-Yirei",
+          "meaning": "El Señor proveerá",
+          "usage": "Revelado a Abraham en el monte Moriah, después de que Dios proporciona un carnero para reemplazar a Isaac. Este nombre establece la doctrina de la divina providencia: Dios ve de antemano y provee.",
+          "references": "Génesis 22:14",
+          "occurrences": "Único"
+        },
+        {
+          "hebrew": "יהוה נִסִּי",
+          "transliteration": "YHWH-Nissi",
+          "meaning": "El Señor es mi estandarte",
+          "usage": "Revelado después de la victoria sobre Amalek. Moisés levanta la mano e Israel gana. El altar construido se llama \"El Señor es mi estandarte\", una señal de que Dios mismo es el estandarte bajo el cual luchamos.",
+          "references": "Éxodo 17:15",
+          "occurrences": "Único"
+        },
+        {
+          "hebrew": "יהוה שָׁלוֹם",
+          "transliteration": "YHWH-Shalom",
+          "meaning": "El Señor es paz",
+          "usage": "Revelada a Gedeón, quien temió morir después de ver al ángel del Señor. Nombre de un altar construido en Ofra. Shalom = plenitud, prosperidad, armonía, ausencia de guerra interna.",
+          "references": "Jueces 6:24",
+          "occurrences": "Único"
+        },
+        {
+          "hebrew": "יהוה רֹעִי",
+          "transliteration": "YHWH-Rey",
+          "meaning": "El Señor es mi pastor.",
+          "usage": "El nombre más querido del pueblo hebreo. Salmo 23 — David expresa la relación de total confianza con Dios como pastor: dirección, alimento, protección, presencia en la muerte. Jesús se apropió del título (Juan 10).",
+          "references": "Salmo 23:1; Juan 10:11",
+          "occurrences": "~1 vez explícito + contextos"
+        },
+        {
+          "hebrew": "יהוה צְבָאוֹת",
+          "transliteration": "YHWH-Zabaoth",
+          "meaning": "El Señor de los ejércitos",
+          "usage": "Nombre del poder militar y celestial de Dios. 'Tzabaot' = ejércitos (ejércitos de Israel + ejércitos celestiales). Revela que Dios es el comandante en jefe de las fuerzas del cielo y de la tierra.",
+          "references": "1 Samuel 1:3; Isaías 6:3",
+          "occurrences": "~285 veces"
+        },
+        {
+          "hebrew": "יהוה רָפְאֶךָ",
+          "transliteration": "YHWH-Ropheka",
+          "meaning": "El Señor que te sana",
+          "usage": "Revelado a Mara, después de que Dios endulce las aguas amargas. Dios se revela como sanador de su pueblo: física (enfermedades) y espiritualmente (heridas del corazón y del pecado).",
+          "references": "Éxodo 15:26",
+          "occurrences": "Único"
+        },
+        {
+          "hebrew": "יהוה שַׁמָּה",
+          "transliteration": "YHWH-Shammah",
+          "meaning": "El Señor está ahí",
+          "usage": "Apellido revelado en el AT, por Ezequiel para designar a la Jerusalén restaurada. La presencia de Dios es la definición última de la ciudad perfecta. Presagia la Nueva Jerusalén (Apocalipsis 21:3).",
+          "references": "Ezequiel 48:35",
+          "occurrences": "Único"
+        },
+        {
+          "hebrew": "יהוה צִדְקֵנוּ",
+          "transliteration": "YHWH-Tsidqenu",
+          "meaning": "El Señor nuestra justicia",
+          "usage": "Nombre mesiánico revelado por Jeremías para designar al futuro rey del linaje de David. Este rey (el Mesías) será él mismo la justicia de Dios para su pueblo, presagiando la justificación por la fe.",
+          "references": "Jeremías 23:6; 33:16",
+          "occurrences": "2 veces"
+        },
+        {
+          "hebrew": "יהוה מְקַדִּשְׁכֶם",
+          "transliteration": "YHWH-Meqaddishkem",
+          "meaning": "El Señor que te santifica",
+          "usage": "Revelado en el contexto de la ley del sábado. Dios no sólo justifica: santifica, aparta, santifica. El sábado es la señal de esta santificación continua.",
+          "references": "Éxodo 31:13; Levítico 20:8",
+          "occurrences": "~4 veces"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Otros títulos divinos",
+      "emoji": "👑",
+      "color": "from-rose-600 to-pink-700",
+      "names": [
+        {
+          "hebrew": "הָאָבִּיר",
+          "transliteration": "Ha-Avir / Poderoso de Jacob",
+          "meaning": "El Poderoso, el Toro de Jacob",
+          "usage": "Título utilizado en las bendiciones de Jacob. 'Avir' = fuerte como un toro. Expresa el poder crudo de Dios como protector y defensor de su pueblo.",
+          "references": "Génesis 49:24; Salmo 132:2",
+          "occurrences": "~6 veces"
+        },
+        {
+          "hebrew": "קְדוֹשׁ יִשְׂרָאֵל",
+          "transliteration": "Qedosh Israel",
+          "meaning": "El Santo de Israel",
+          "usage": "Título querido por el profeta Isaías (25 apariciones en su libro). Expresa la santidad absoluta de Dios: su alteridad radical, su pureza, su integridad moral. La santidad es el atributo central de Isaías 6.",
+          "references": "Isaías 1:4; 6:3",
+          "occurrences": "~30 veces"
+        },
+        {
+          "hebrew": "גֹּאֵל",
+          "transliteration": "go'el",
+          "meaning": "El Redentor/Vengador de la Sangre",
+          "usage": "Término legal hebreo para el pariente cercano que redime a un familiar empobrecido. Aplicado a Dios: redime a Israel de la esclavitud y repara lo perdido. Rut y Booz ilustran este concepto.",
+          "references": "Isaías 41:14; Rut 3:9; Trabajo 19:25",
+          "occurrences": "~20 veces (aplicado a Dios)"
+        },
+        {
+          "hebrew": "מֶלֶךְ",
+          "transliteration": "melek",
+          "meaning": "Rey",
+          "usage": "Dios se presenta como rey de Israel y del universo. Título central en los Salmos reales (93, 96-99). La teocracia del Antiguo Testamento se basa en este título: Dios mismo es el verdadero rey.",
+          "references": "Salmo 93:1; Isaías 44:6",
+          "occurrences": "muy numerosos"
+        },
+        {
+          "hebrew": "אָבִינוּ",
+          "transliteration": "Avinu",
+          "meaning": "padre nuestro",
+          "usage": "Título de intimidad filial, desarrollado en la oración. Raro en el Antiguo Testamento (Isaías 63:16), expresa la relación de ternura paternal. Jesús lo convertirá en el nombre principal del Padrenuestro ('Padre Nuestro').",
+          "references": "Isaías 63:16; 64:8; Mateo 6:9",
+          "occurrences": "~15 veces (AT + NT)"
+        }
+      ]
+    }
+  ],
+  "pronunciationNote": "El sagrado Tetagrama (יהוה - YHWH) nunca se pronuncia en la tradición judía por respeto a la santidad divina. Los lectores de la sinagoga dicen \"Adonai\" en su lugar. La vocalización “Jehová” es una combinación medieval de las consonantes de YHWH y las vocales de Adonai."
+}

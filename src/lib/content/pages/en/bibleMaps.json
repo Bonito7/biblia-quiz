@@ -1,0 +1,200 @@
+{
+  "periods": [
+    {
+      "id": "creation",
+      "label": "Creation & Flood",
+      "emoji": "🌍",
+      "years": "Before 2000 BC AD",
+      "color": "from-emerald-500 to-teal-600",
+      "description": "The ancient world of biblical origins: Eden, Noah's flood and the dispersion of nations after Babel.",
+      "maps": [
+        {
+          "title": "The Garden of Eden — Traditional location",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Tradition places Eden in Mesopotamia, at the confluence of the Tigris and Euphrates (Genesis 2:10-14).",
+          "details": "The 4 rivers of Eden: Pishon, Gihon, Hiddekel (Tiger) and Phrat (Euphrates)"
+        },
+        {
+          "title": "Noah's Ark — Mount Ararat",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "The Ark landed on the Ararat Mountains in what is now eastern Türkiye (Genesis 8:4).",
+          "details": "Mount Ararat peaks at 5,165 m, on the Turkish-Armenian border"
+        },
+        {
+          "title": "The Tower of Babel — Plain of Shinar",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "Babel (Babylon) is located on the plain of Shinar in Mesopotamia (Genesis 11:2).",
+          "details": "Archaeologists have discovered giant ziggurats in Babylon and Ur"
+        }
+      ]
+    },
+    {
+      "id": "patriarches",
+      "label": "Patriarchs",
+      "emoji": "🏕️",
+      "years": "2000–1700 BC AD",
+      "color": "from-amber-500 to-orange-600",
+      "description": "The journeys of Abraham, Isaac and Jacob through Canaan, Egypt and Mesopotamia.",
+      "maps": [
+        {
+          "title": "Abraham's Journey — From Ur to Canaan",
+          "image": "https://images.unsplash.com/photo-1605101100278-5d1deb2b6498?w=800&q=80",
+          "caption": "Abraham departs from Ur of the Chaldeans, passes through Harran, goes down to Canaan and to Egypt (Genesis 11-12).",
+          "details": "A journey of more than 2,000 km from Mesopotamia to Canaan"
+        },
+        {
+          "title": "Canaan in the time of the Patriarchs",
+          "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?w=800&q=80",
+          "caption": "The holy places of the Patriarchs: Shechem, Bethel, Hebron, Beersheba — the Route of the Patriarchs.",
+          "details": "Abraham, Isaac and Jacob built altars along the length of Canaan"
+        },
+        {
+          "title": "Egypt in the time of Joseph",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "Joseph sold to Egypt becomes governor. The land of Goshen welcomes Jacob's family (Genesis 37-50).",
+          "details": "The Nile Delta and the Goshen region were inhabited by the Hebrews"
+        }
+      ]
+    },
+    {
+      "id": "exode",
+      "label": "Exodus & Desert",
+      "emoji": "🌵",
+      "years": "1300–1200 BC AD",
+      "color": "from-yellow-500 to-amber-600",
+      "description": "The exit from Egypt, the 40 years in the Sinai desert and the arrival at the gates of Canaan.",
+      "maps": [
+        {
+          "title": "The Road of Exodus — From Egypt to Sinai",
+          "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80",
+          "caption": "The Israelites cross the Red Sea and enter the desert towards Mount Sinai (Exodus 14-19).",
+          "details": "Several Exodus routes are proposed: northern route, central or southern route"
+        },
+        {
+          "title": "Mount Sinai — Place of Revelation",
+          "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
+          "caption": "Sinai (Jebel Musa or Horeb) is the place where Moses received the Ten Commandments (Exodus 19-20).",
+          "details": "The Sinai Peninsula is the scene of the 40 years of wandering of the Hebrew people"
+        },
+        {
+          "title": "40 Years in the Desert — Stages",
+          "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80",
+          "caption": "From Kadesh-Barnea to the plains of Moab, the stages of the people: Elim, Mara, Rephidim, Kadesh...",
+          "details": "Numbers 33 lists 40 steps from leaving Egypt to entering Canaan"
+        }
+      ]
+    },
+    {
+      "id": "conquete",
+      "label": "Conquest & Judges",
+      "emoji": "⚔️",
+      "years": "1200–1050 BC AD",
+      "color": "from-red-500 to-rose-600",
+      "description": "The crossing of the Jordan under Joshua, the distribution of the tribes and the period of the Judges.",
+      "maps": [
+        {
+          "title": "The Conquest of Canaan under Joshua",
+          "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?w=800&q=80",
+          "caption": "Joshua led 3 campaigns: central (Jericho, Ai), southern and northern to conquer Canaan (Joshua 1-12).",
+          "details": "The fall of Jericho opens the central campaign to conquer Canaan"
+        },
+        {
+          "title": "Distribution of the 12 Tribes of Israel",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Each of the 12 tribes receives its territory. Levi does not receive territory but cities of refuge (Joshua 13-21).",
+          "details": "The tribes of Reuben, Gad and half-tribe of Manasseh settle east of the Jordan"
+        },
+        {
+          "title": "The Period of Judges — External Threats",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "Israel's enemies under the Judges: Philistines (west coast), Moabites (east), Midianites (south), Canaanites (north).",
+          "details": "The cycle of Judges: disobedience → oppression → repentance → deliverance → peace"
+        }
+      ]
+    },
+    {
+      "id": "royaume",
+      "label": "United Kingdom & Divided",
+      "emoji": "👑",
+      "years": "1050–722 BC AD",
+      "color": "from-blue-500 to-indigo-600",
+      "description": "The reign of Saul, David and Solomon, then the division into the kingdoms of Israel and Judah.",
+      "maps": [
+        {
+          "title": "The United Kingdom under David and Solomon",
+          "image": "https://images.unsplash.com/photo-1560713781-d8f7a1ece0f3?w=800&q=80",
+          "caption": "David conquers Jerusalem and extends the kingdom from Egypt to the Euphrates. Solomon builds the Temple (1 Kings 4-8).",
+          "details": "Jerusalem, conquered from the Jebusites, becomes the political and religious capital"
+        },
+        {
+          "title": "Jerusalem — The City of David",
+          "image": "https://images.unsplash.com/photo-1548710428-8f6b8e617ec0?w=800&q=80",
+          "caption": "David established his capital in Jerusalem (Zion) and brought the Ark of the Covenant there (2 Samuel 5-6).",
+          "details": "Mount Moriah hosts the Temple of Solomon, built in 7 years (966-959 BC)"
+        },
+        {
+          "title": "Kingdom Division—Israel and Judah",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "After Solomon: the North (Israel, 10 tribes, capital Samaria) and the South (Judah, 2 tribes, capital Jerusalem) (1 Kings 12).",
+          "details": "The Northern Kingdom will last 200 years (931-722 BC), the Kingdom of Judah 340 years (931-586 BC)"
+        }
+      ]
+    },
+    {
+      "id": "exil",
+      "label": "Exile & Return",
+      "emoji": "🏛️",
+      "years": "722–400 BC AD",
+      "color": "from-purple-500 to-violet-600",
+      "description": "The fall of Samaria (722), the destruction of Jerusalem (586), the exile to Babylon and the return under Cyrus.",
+      "maps": [
+        {
+          "title": "The Assyrian Deportation — 722 BC AD",
+          "image": "https://images.unsplash.com/photo-1539650116574-75c0c5f28ce3?w=800&q=80",
+          "caption": "Sargon II of Assyria deports the 10 northern tribes to Mesopotamia (2 Kings 17). The Samaritans will get involved.",
+          "details": "Foreign populations settled in Samaria, creating the mixed people of the Samaritans"
+        },
+        {
+          "title": "The Babylonian Empire and the Exile of Judah",
+          "image": "https://images.unsplash.com/photo-1605101100278-5d1deb2b6498?w=800&q=80",
+          "caption": "Nebuchadnezzar destroys Jerusalem (586) and deports Judah's elite to Babylon. Daniel and Ezekiel prophesied there.",
+          "details": "3 successive deportations: 605, 597 and 586 BC. J.C. Jeremiah remains in Judea"
+        },
+        {
+          "title": "Return from Exile — Cyrus' Decree",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "caption": "In 538 BC. BC, Cyrus the Great allows the Jews to return and rebuild the Temple (Ezra 1).",
+          "details": "Zerubbabel leads the 1st return (538), Ezra the 2nd (458), Nehemiah the 3rd (445 BC)"
+        }
+      ]
+    },
+    {
+      "id": "nt",
+      "label": "New Testament times",
+      "emoji": "✝️",
+      "years": "4 BC BC — 100 AD AD",
+      "color": "from-cyan-500 to-sky-600",
+      "description": "Palestine in the time of Jesus, Paul's missionary journeys and the spread of the Gospel.",
+      "maps": [
+        {
+          "title": "Palestine in the time of Jesus",
+          "image": "https://images.unsplash.com/photo-1548710428-8f6b8e617ec0?w=800&q=80",
+          "caption": "Palestine is divided into Galilee, Samaria and Judea. Jesus was born in Bethlehem, grew up in Nazareth, preached in Galilee.",
+          "details": "Lake Tiberias (Sea of ​​Galilee) is the heart of Jesus' Galilean ministry"
+        },
+        {
+          "title": "Paul's Missionary Journeys",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+          "caption": "Paul completed 3 missionary journeys from Antioch, evangelizing Turkey, Greece and reaching Rome.",
+          "details": "1st journey (Acts 13-14): Cyprus and Asia Minor. 2nd: Macedonia and Greece. 3rd: Ephesus"
+        },
+        {
+          "title": "The Roman Empire and the Spread of the Gospel",
+          "image": "https://images.unsplash.com/photo-1560713781-d8f7a1ece0f3?w=800&q=80",
+          "caption": "The Pax Romana, Roman roads and the common Greek language facilitated the spread of the Gospel.",
+          "details": "In less than 300 years, Christianity spread from Jerusalem to the ends of the Empire"
+        }
+      ]
+    }
+  ]
+}

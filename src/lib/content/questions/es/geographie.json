@@ -1,0 +1,483 @@
+{
+  "geographie": {
+    "debutant": [
+      {
+        "question": "¿A qué mar llevó Moisés a los israelitas cuando salieron de Egipto?",
+        "options": [
+          "Mar Mediterráneo",
+          "Mar Muerto",
+          "Mar Rojo",
+          "Mar de Galilea"
+        ],
+        "correct": 2,
+        "explanation": "Moisés dividió el Mar Rojo para permitir que los israelitas huyeran del ejército de Faraón (Éxodo 14)."
+      },
+      {
+        "question": "¿En qué ciudad nació Jesús?",
+        "options": [
+          "Nazaret",
+          "Jerusalén",
+          "Belén",
+          "Cafarnaúm"
+        ],
+        "correct": 2,
+        "explanation": "Jesús nació en Belén de Judea, según la profecía de Miqueas 5:2 (Mateo 2:1)."
+      },
+      {
+        "question": "¿En qué pueblo creció Jesús?",
+        "options": [
+          "Belén",
+          "Jerusalén",
+          "Nazaret",
+          "Cafarnaúm"
+        ],
+        "correct": 2,
+        "explanation": "Jesús creció en Nazaret de Galilea, por eso fue llamado 'Jesús de Nazaret' (Lucas 2:51)."
+      },
+      {
+        "question": "¿En qué montaña recibió Moisés los Diez Mandamientos?",
+        "options": [
+          "Monte Carmelo",
+          "Monte Hermón",
+          "Monte Sinaí",
+          "monte de los olivos"
+        ],
+        "correct": 2,
+        "explanation": "Moisés recibió los Diez Mandamientos de Dios en el monte Sinaí (Éxodo 20)."
+      },
+      {
+        "question": "¿Qué río usó Juan el Bautista para bautizar?",
+        "options": [
+          "El Nilo",
+          "El Éufrates",
+          "el tigre",
+          "El Jordán"
+        ],
+        "correct": 3,
+        "explanation": "Juan el Bautista bautizó en el Jordán, y fue allí donde Jesús fue bautizado (Mateo 3:13)."
+      },
+      {
+        "question": "¿En qué jardín fue arrestado Jesús?",
+        "options": [
+          "Jardín del Edén",
+          "Rosaleda",
+          "Huerto de Getsemaní",
+          "El jardín de José"
+        ],
+        "correct": 2,
+        "explanation": "Jesús oró y fue arrestado en el Huerto de Getsemaní, al pie del Monte de los Olivos (Mateo 26:36)."
+      },
+      {
+        "question": "¿A qué país recibió Abraham el llamado de Dios para ir?",
+        "options": [
+          "Canaán",
+          "Mesopotamia (Ur de los Caldeos)",
+          "Egipto",
+          "arabia"
+        ],
+        "correct": 1,
+        "explanation": "Abraham (Abram) recibió el llamado divino a Ur de los caldeos en Mesopotamia (Génesis 11:31; Hechos 7:2-4)."
+      },
+      {
+        "question": "¿Qué país abandonaron los israelitas durante el Éxodo?",
+        "options": [
+          "Babilonia",
+          "Asiria",
+          "Egipto",
+          "Canaán"
+        ],
+        "correct": 2,
+        "explanation": "El Éxodo es la salida del pueblo hebreo de Egipto bajo el liderazgo de Moisés (Éxodo 12-15)."
+      },
+      {
+        "question": "¿Sobre qué montaña descansó el arca de Noé después del diluvio?",
+        "options": [
+          "Monte Sinaí",
+          "Monte Ararat",
+          "Monte Carmelo",
+          "Monte Hermón"
+        ],
+        "correct": 1,
+        "explanation": "El arca de Noé descansó en las montañas de Ararat (Génesis 8:4)."
+      },
+      {
+        "question": "¿En qué ciudad se convirtió Pablo en el camino?",
+        "options": [
+          "Jerusalén",
+          "Antioquía",
+          "Damasco",
+          "Corinto"
+        ],
+        "correct": 2,
+        "explanation": "Pablo (Saulo) tuvo su visión del Cristo resucitado en el camino a Damasco (Hechos 9:3)."
+      },
+      {
+        "question": "¿En qué isla escribió Juan el Apocalipsis?",
+        "options": [
+          "Chipre",
+          "Malta",
+          "Patmos",
+          "Creta"
+        ],
+        "correct": 2,
+        "explanation": "Juan recibió las visiones del Apocalipsis mientras estaba exiliado en la isla de Patmos (Apocalipsis 1:9)."
+      },
+      {
+        "question": "¿En qué mar naufragó Pablo?",
+        "options": [
+          "Mar Rojo",
+          "Mar Negro",
+          "Mar Mediterráneo",
+          "Mar Muerto"
+        ],
+        "correct": 2,
+        "explanation": "Pablo naufragó cerca de la isla de Malta en el Mar Mediterráneo (Hechos 27-28)."
+      },
+      {
+        "question": "¿En qué ciudad construyó Salomón el templo?",
+        "options": [
+          "Belén",
+          "Hebrón",
+          "Jerusalén",
+          "Samaria"
+        ],
+        "correct": 2,
+        "explanation": "Salomón construyó el primer templo en el monte Moriah en Jerusalén (1 Reyes 6)."
+      },
+      {
+        "question": "¿Dónde estaba Abraham dispuesto a sacrificar a Isaac?",
+        "options": [
+          "Monte Sinaí",
+          "Monte Moriah",
+          "Monte Carmelo",
+          "Monte Horeb"
+        ],
+        "correct": 1,
+        "explanation": "Dios le había pedido a Abraham que fuera a la tierra de Moriah para ofrecer a Isaac (Génesis 22:2)."
+      },
+      {
+        "question": "¿Cuál es el principal mar interior de Galilea?",
+        "options": [
+          "Lago Tiberíades (Mar de Galilea)",
+          "Mar Muerto",
+          "Lago Houleh",
+          "Mar Rojo"
+        ],
+        "correct": 0,
+        "explanation": "El lago Tiberíades, también llamado mar de Galilea o lago de Genesaret, fue el centro del ministerio de Jesús en Galilea."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "¿Cuál era el nombre antiguo de la ciudad de Jerusalén antes de su conquista por David?",
+        "options": [
+          "Hebrón",
+          "Jebús",
+          "Salem",
+          "Capilla para marinos"
+        ],
+        "correct": 1,
+        "explanation": "Jerusalén fue llamada Jebús, habitada por los jebuseos, antes de ser conquistada por David (2 Samuel 5:6-9)."
+      },
+      {
+        "question": "¿Entre qué dos ríos se encontraba Mesopotamia?",
+        "options": [
+          "El Nilo y el Jordán",
+          "El Tigris y el Éufrates",
+          "El Éufrates y el Jordán",
+          "El Nilo y el Éufrates"
+        ],
+        "correct": 1,
+        "explanation": "Mesopotamia (del griego: 'tierra entre ríos') está situada entre el Tigris y el Éufrates, en lo que hoy es Irak."
+      },
+      {
+        "question": "¿En qué ciudad fundó Pablo la Iglesia después de 18 meses de estancia?",
+        "options": [
+          "Éfeso",
+          "Filipos",
+          "Corinto",
+          "Salónica"
+        ],
+        "correct": 2,
+        "explanation": "Pablo permaneció 18 meses en Corinto durante su segundo viaje misionero para fundar la Iglesia allí (Hechos 18:11)."
+      },
+      {
+        "question": "¿Cuál fue la capital del Reino del Norte (Israel)?",
+        "options": [
+          "Jerusalén",
+          "Silo",
+          "Samaria",
+          "Capilla para marinos"
+        ],
+        "correct": 2,
+        "explanation": "Samaria fue construida por el rey Omri como capital del Reino del Norte (1 Reyes 16:24)."
+      },
+      {
+        "question": "¿Aproximadamente qué profundidad tiene el Mar Muerto en relación con el nivel del mar?",
+        "options": [
+          "200 m debajo",
+          "430 m debajo",
+          "100 m por debajo",
+          "600 m debajo"
+        ],
+        "correct": 1,
+        "explanation": "El Mar Muerto es el punto más bajo de la superficie terrestre, aproximadamente a 430 m bajo el nivel del mar."
+      },
+      {
+        "question": "¿Qué país actual corresponde principalmente a la antigua Canaán?",
+        "options": [
+          "Solo Siria y el Líbano",
+          "Israel, Palestina, parte del Líbano y Jordania",
+          "Sólo el Israel actual",
+          "Egipto y Sinaí"
+        ],
+        "correct": 1,
+        "explanation": "Canaán cubría aproximadamente el actual Israel, los territorios palestinos, parte del Líbano y Jordania."
+      },
+      {
+        "question": "¿En qué montaña se enfrentó Elías a los profetas de Baal?",
+        "options": [
+          "Monte Sinaí",
+          "Monte Hermón",
+          "Monte Carmelo",
+          "Monte Tabor"
+        ],
+        "correct": 2,
+        "explanation": "Elías desafió a los 450 profetas de Baal al pie del monte Carmelo, frente al Mediterráneo (1 Reyes 18)."
+      },
+      {
+        "question": "¿En qué ciudad estuvo preso Pablo durante 2 años antes de ir a Roma?",
+        "options": [
+          "Jerusalén",
+          "Cesarea Marítima",
+          "Antioquía",
+          "Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Pablo fue encarcelado durante 2 años en Cesarea Marítima ante el gobernador Félix y luego Festo (Hechos 24:27)."
+      },
+      {
+        "question": "¿Qué ciudad bíblica era conocida por su prostitución y comercio sagrados, destruidos según el Apocalipsis?",
+        "options": [
+          "Éfeso",
+          "Babilonia",
+          "Corinto",
+          "Antioquía"
+        ],
+        "correct": 1,
+        "explanation": "Babilonia es el símbolo apocalíptico de la ciudad impía y del comercio injusto (Apocalipsis 18). Históricamente se sugieren varias ciudades (Roma, Babilonia)."
+      },
+      {
+        "question": "¿En qué desierto fue tentado Jesús durante 40 días?",
+        "options": [
+          "Desierto del Néguev",
+          "Desierto de Judea",
+          "Desierto del Sinaí",
+          "Desierto Arábigo"
+        ],
+        "correct": 1,
+        "explanation": "La tradición sitúa la tentación de Jesús en el desierto de Judea, al este de Jerusalén y Jericó."
+      },
+      {
+        "question": "¿Qué ciudad fue el primer puerto de escala de Pablo en su camino de Jerusalén a Roma?",
+        "options": [
+          "Alejandría",
+          "Atenas",
+          "Antioquía de Siria",
+          "Seleucia"
+        ],
+        "correct": 3,
+        "explanation": "Antioquía de Siria (a través de su puerto Seleucia) fue la base misional desde la cual Pablo partió en sus viajes (Hechos 13:4)."
+      },
+      {
+        "question": "¿En qué región geográfica estaba ubicada la ciudad de Tarso, la tierra natal de Pablo?",
+        "options": [
+          "Grecia",
+          "Cilicia (actual Türkiye)",
+          "Siria",
+          "macedonia"
+        ],
+        "correct": 1,
+        "explanation": "Tarso está en Cilicia, en lo que hoy es el sur de Türkiye. Pablo se refirió con orgullo a sí mismo como \"ciudadano de Tarso\" (Hechos 21:39)."
+      },
+      {
+        "question": "¿Cuál es el nombre hebreo literal de la Tierra Prometida?",
+        "options": [
+          "Tierra de Canaán",
+          "Tierra de Miel y Leche",
+          "Tierra de Israel",
+          "Tierra Santa"
+        ],
+        "correct": 0,
+        "explanation": "La Tierra Prometida se conoce como \"Tierra de Canaán\" (Eretz Kena'an) en el Antiguo Testamento, por el nombre de su ocupante anterior."
+      },
+      {
+        "question": "¿Por qué ruta cruzaron Canaán las caravanas en el Antiguo Testamento?",
+        "options": [
+          "Via Maris (Sea Way) a lo largo de la costa",
+          "Ruta de los Patriarcas en la montaña",
+          "Camino real al este del Jordán",
+          "Todos estos caminos fueron utilizados"
+        ],
+        "correct": 3,
+        "explanation": "Tres rutas principales: (1) Via Maris costera; (2) Ruta de los Patriarcas (montañas); (3) Camino real al este del Jordán: todos mencionados en el Antiguo Testamento."
+      },
+      {
+        "question": "¿Dónde estaban las 7 Iglesias recibiendo el Apocalipsis?",
+        "options": [
+          "En Palestina",
+          "En Asia Menor (actual Türkiye)",
+          "En Grecia",
+          "En Egipto"
+        ],
+        "correct": 1,
+        "explanation": "Las 7 Iglesias (Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia, Laodicea) estaban todas en Asia Menor (Apocalipsis 1:11)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "¿Cuál es el significado geográfico del concepto de \"Tierra Prometida\" en la teología del Pacto?",
+        "options": [
+          "Territorio político simple",
+          "Símbolo de la herencia divina, lugar de la presencia de Dios y prefiguración del reposo escatológico",
+          "Donación geográfica sin significado simbólico",
+          "Territorio conquistado únicamente por la fuerza militar"
+        ],
+        "correct": 1,
+        "explanation": "La Tierra (eretz) es en la teología bíblica: lugar de la Presencia divina, cumplimiento de la promesa a Abraham y prefiguración de la herencia escatológica (Hebreos 11:10,16)."
+      },
+      {
+        "question": "¿Cuál es el significado teológico de Jerusalén como el 'ombligo del mundo' (Ezequiel 38:12)?",
+        "options": [
+          "Una declaración geográfica literal",
+          "La centralidad de Jerusalén en el plan divino como lugar de encuentro entre el cielo y la tierra, Dios y la humanidad",
+          "Sólo una metáfora política.",
+          "Un concepto desarrollado sólo en el Nuevo Testamento."
+        ],
+        "correct": 1,
+        "explanation": "El 'centro de la tierra' (tabbur ha-aretz) en Ezequiel 38:12 expresa la centralidad teológica y escatológica de Jerusalén en el plan divino."
+      },
+      {
+        "question": "¿Cuál es la ruta geográfica precisa del primer viaje misionero de Pablo según Hechos?",
+        "options": [
+          "Antioquía → Chipre → Perge → Antioquía de Pisidia → Iconio → Listra → Derbe → regresar",
+          "Antioquía → Atenas → Corinto → Roma",
+          "Jerusalén → Antioquía → Éfeso → Roma",
+          "Tarso → Jerusalén → Damasco → Antioquía"
+        ],
+        "correct": 0,
+        "explanation": "1er viaje (Hechos 13-14): Antioquía → Seleucia → Chipre (Salami, Pafos) → Perge → Antioquía de Pisidia → Iconio → Listra → Derbe → regreso."
+      },
+      {
+        "question": "¿Cuál fue el significado geopolítico de Canaán entre Egipto y Mesopotamia?",
+        "options": [
+          "Un territorio aislado y sin importancia.",
+          "Un corredor estratégico entre los dos grandes imperios, un lugar de paso y conflictos constantes",
+          "Una región agrícola sin problemas militares",
+          "Un desierto inhabitable"
+        ],
+        "correct": 1,
+        "explanation": "Canaán era el \"puente terrestre\" entre Egipto y Mesopotamia; su posición estratégica explica las numerosas invasiones y la sucesiva dominación de los grandes imperios."
+      },
+      {
+        "question": "¿En qué perspectiva escatológica describe Zacarías la transformación geográfica de Jerusalén (Zacarías 14)?",
+        "options": [
+          "Una transformación puramente simbólica",
+          "El Monte de los Olivos se dividirá, Jerusalén será levantada y aguas vivas correrán de oriente a occidente.",
+          "La destrucción final de Jerusalén",
+          "Una visión del pasado histórico."
+        ],
+        "correct": 1,
+        "explanation": "Zacarías 14 describe una transformación escatológica: el Monte de los Olivos se partió (v.4), Jerusalén se levantó (v.10), aguas vivas fluyeron a los dos mares (v.8)."
+      },
+      {
+        "question": "¿Cuál es el significado simbólico del Jordán en la teología bíblica?",
+        "options": [
+          "Límite geográfico simple",
+          "Símbolo de paso transformador: de la esclavitud a la libertad (Éxodo), del extravío a la herencia (Josué), del pecado a la gracia (bautismo)",
+          "Un río sagrado sin significado simbólico",
+          "Símbolo único de la muerte."
+        ],
+        "correct": 1,
+        "explanation": "El Jordán atraviesa los grandes momentos bíblicos: el paso por tierra seca (Josué 3-4), el bautismo de Jesús, la curación de Naamán, símbolo de pasajes transformadores."
+      },
+      {
+        "question": "¿Cuál es la relación entre la geografía de la historia de la creación (Génesis 2) y los ríos del Edén?",
+        "options": [
+          "Ríos ficticios sin base geográfica",
+          "Pishon, Gihon, Hiddekel (Tigre) y Phrat (Éufrates) sugieren una ubicación en Mesopotamia, pero el texto tiene un significado cosmológico.",
+          "Sólo ríos africanos",
+          "Los ríos representan exclusivamente los 4 puntos cardinales."
+        ],
+        "correct": 1,
+        "explanation": "Génesis 2:10-14: El Tigris y el Éufrates son identificables. Se debaten sobre Pisón y Gihón. El texto tiene un alcance tanto geográfico como cosmológico (el jardín como templo cósmico)."
+      },
+      {
+        "question": "¿Por qué la ciudad de Éfeso era estratégicamente importante para la misión paulina?",
+        "options": [
+          "Sólo por su puerto",
+          "Capital de la provincia de Asia, importante cruce comercial y religioso, centro del culto a Artemisa: base ideal para evangelizar toda Asia",
+          "Era la ciudad natal de Paul.",
+          "Paul solo permaneció allí unos días."
+        ],
+        "correct": 1,
+        "explanation": "Pablo permaneció en Éfeso durante 3 años (Hechos 19-20). Éfeso, una encrucijada comercial y religiosa, proporcionaba acceso a toda Asia Menor."
+      },
+      {
+        "question": "¿Cuál es el significado del 'Camino de los Patriarcas' en la geografía del Génesis?",
+        "options": [
+          "Una ruta comercial sencilla",
+          "El eje norte-sur en la zona montañosa de Canaán (Beer-Sheva, Hebrón, Betel, Siquem) marca los lugares de alianza de Abraham, Isaac y Jacob.",
+          "El camino al exilio",
+          "Un itinerario sólo desde Jacob"
+        ],
+        "correct": 1,
+        "explanation": "Los patriarcas siguen un eje en las alturas de Canaán: Beerseba (pacto) → Hebrón (entierro) → Betel (visión) → Siquem (altar) – cada paso marca un acto de alianza."
+      },
+      {
+        "question": "¿Cómo estructura su teología la geografía del Apocalipsis (Babilonia versus Nueva Jerusalén)?",
+        "options": [
+          "Estas son dos futuras ciudades físicas",
+          "Dos ciudades simbolizan dos sistemas espirituales opuestos: Babilonia (imperio idólatra y opresivo) vs Nueva Jerusalén (ciudad de Dios y el Cordero)",
+          "Simple alegoría política romana sin significado teológico",
+          "Sólo una descripción arquitectónica"
+        ],
+        "correct": 1,
+        "explanation": "El Apocalipsis opone dos 'ciudades' simbólicas: Babilonia (Apocalipsis 17-18) = sistema del mundo opuesto a Dios; Nueva Jerusalén (Apocalipsis 21-22) = la ciudad perfecta de la presencia divina."
+      },
+      {
+        "question": "¿Cuál es el significado simbólico del desierto (midbar) en la teología bíblica?",
+        "options": [
+          "Una simple ubicación geográfica inhóspita",
+          "Lugar de prueba, encuentro con Dios, formación espiritual y compromiso divino (Oseas 2:14)",
+          "Símbolo exclusivo de muerte y juicio.",
+          "Un lugar puramente negativo."
+        ],
+        "correct": 1,
+        "explanation": "El 'midbar' (desierto) es ambivalente: un lugar de tentación Y de íntimo encuentro divino. Oseas 2:14: 'La llevaré al desierto y hablaré a su corazón'."
+      },
+      {
+        "question": "¿Cuál es el significado teológico de la 'ascensión a Jerusalén' en los evangelios sinópticos?",
+        "options": [
+          "Un viaje geográfico sencillo",
+          "Una subida escatológica y sacrificial: Jesús sube deliberadamente a Jerusalén para cumplir su pasión (Lucas 9,51: 'tomó la decisión de caminar hacia Jerusalén')",
+          "Un error de navegación",
+          "Un viaje turístico religioso"
+        ],
+        "correct": 1,
+        "explanation": "La 'ascensión' a Jerusalén es un motivo teológico central (Lucas 9,51-19,44): Jesús asciende como Siervo sufriente al lugar del sacrificio, de la resurrección y de la inauguración del Reino."
+      },
+      {
+        "question": "¿Cuál es el significado del nombre 'Babilonia' en 1 Pedro 5:13 y su contexto geográfico real?",
+        "options": [
+          "La verdadera ciudad de Babilonia en Mesopotamia.",
+          "Un nombre críptico para Roma, como en el Apocalipsis, uso común en la literatura judía posterior al 70 d.C. ANUNCIO",
+          "Alejandría en Egipto",
+          "Antioquía de Siria"
+        ],
+        "correct": 1,
+        "explanation": "Casi todos los historiadores identifican \"Babilonia\" en 1 Pedro 5:13 con Roma. Uso similar en el Apocalipsis y en la literatura judía posterior a los años 70 para designar el imperio opresivo."
+      }
+    ]
+  }
+}

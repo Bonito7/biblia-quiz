@@ -1,0 +1,505 @@
+{
+  "chronologie": {
+    "debutant": [
+      {
+        "question": "Ni tukio gani linaloashiria mwanzo wa Biblia?",
+        "options": [
+          "Gharika ya Nuhu",
+          "Uumbaji wa ulimwengu",
+          "Wito wa Ibrahimu",
+          "Kuzaliwa kwa Musa"
+        ],
+        "correct": 1,
+        "explanation": "Biblia inaanza na hadithi ya uumbaji wa Mungu wa ulimwengu katika siku 6 (Mwanzo 1)."
+      },
+      {
+        "question": "Matukio hayo yalitukia katika mfuatano gani wa kihistoria?",
+        "options": [
+          "Ibrahimu → Musa → Daudi → Yesu",
+          "Daudi → Musa → Ibrahimu → Yesu",
+          "Musa → Ibrahimu → Daudi → Yesu",
+          "Yesu → Ibrahimu → Musa → Daudi"
+        ],
+        "correct": 0,
+        "explanation": "Utaratibu ni: Ibrahimu (c. 2000 BC) → Musa (c. 1300 KK) → Daudi (c. 1000 KK) → Yesu (c. 1 KK)."
+      },
+      {
+        "question": "Je! Mungu alichukua siku ngapi kuumba ulimwengu?",
+        "options": [
+          "siku 5",
+          "siku 6",
+          "siku 7",
+          "siku 40"
+        ],
+        "correct": 1,
+        "explanation": "Mungu aliumba kwa siku 6 na akapumzika siku ya 7 (Mwanzo 1-2)."
+      },
+      {
+        "question": "Waisraeli walitangatanga jangwani kwa miaka mingapi?",
+        "options": [
+          "miaka 7",
+          "miaka 20",
+          "miaka 40",
+          "Umri wa miaka 70"
+        ],
+        "correct": 2,
+        "explanation": "Waisraeli walitangatanga kwa miaka 40 nyikani kwa sababu ya kukosa imani (Hesabu 14:33)."
+      },
+      {
+        "question": "Ni tukio gani la kwanza baada ya kuumbwa kwa mwanadamu?",
+        "options": [
+          "Mafuriko",
+          "Mnara wa Babeli",
+          "Anguko la Adamu na Hawa",
+          "Wito wa Ibrahimu"
+        ],
+        "correct": 2,
+        "explanation": "Baada ya kuumbwa kwa Adamu na Hawa, Biblia inasimulia dhambi zao na kuanguka katika bustani ya Edeni (Mwanzo 3)."
+      },
+      {
+        "question": "Je! Mnara wa Babeli uliwekwa kabla au baada ya gharika?",
+        "options": [
+          "Kabla ya mafuriko",
+          "Baada ya mafuriko",
+          "Wakati wa mafuriko",
+          "Mnara wa Babeli na Gharika ni wakati mmoja"
+        ],
+        "correct": 1,
+        "explanation": "Mnara wa Babeli ulijengwa baada ya gharika na wazao wa Nuhu (Mwanzo 11:1-9)."
+      },
+      {
+        "question": "Ni mfalme gani aliyetawala mbele ya Daudi katika Israeli?",
+        "options": [
+          "Sulemani",
+          "Rehoboamu",
+          "Sauli",
+          "Samweli"
+        ],
+        "correct": 2,
+        "explanation": "Sauli alikuwa mfalme wa kwanza wa Israeli, aliyepakwa mafuta na nabii Samweli kabla ya Daudi kuchukua nafasi yake (1 Samweli 9-11)."
+      },
+      {
+        "question": "Nani alitawala baada ya Daudi?",
+        "options": [
+          "Rehoboamu",
+          "Sulemani",
+          "Yeroboamu",
+          "Asa"
+        ],
+        "correct": 1,
+        "explanation": "Sulemani, mwana wa Daudi, alimrithi katika kiti cha enzi cha Israeli (1 Wafalme 1-2)."
+      },
+      {
+        "question": "Ni tukio gani lililofuata kifo cha Sulemani?",
+        "options": [
+          "Ujenzi wa Hekalu",
+          "Mgawanyiko wa ufalme katika sehemu mbili",
+          "Uhamisho wa Babeli",
+          "Ushindi wa Ashuru"
+        ],
+        "correct": 1,
+        "explanation": "Baada ya kifo cha Sulemani, ufalme uligawanywa mara mbili: Israeli kaskazini na Yuda kusini (1 Wafalme 12)."
+      },
+      {
+        "question": "Ni watu gani walioharibu Yerusalemu na kuwapeleka Wayahudi uhamishoni?",
+        "options": [
+          "Waashuri",
+          "Waajemi",
+          "Wababeli",
+          "Wagiriki"
+        ],
+        "correct": 2,
+        "explanation": "Nebukadneza na Wababeli waliharibu Yerusalemu na Hekalu mwaka wa 586 KK. (2 Wafalme 25)."
+      },
+      {
+        "question": "Ni nani aliyeruhusu Wayahudi warudi Israeli baada ya uhamisho wa Babeli?",
+        "options": [
+          "Alexander Mkuu",
+          "Koreshi Mkuu wa Uajemi",
+          "Dario Mmedi",
+          "Artashasta"
+        ],
+        "correct": 1,
+        "explanation": "Koreshi Mkuu wa Uajemi alitoa amri mwaka 538 KK. kuruhusu Wayahudi kurudi Israeli (Ezra 1:1-4)."
+      },
+      {
+        "question": "Kuzaliwa kwa Yesu kulikuwa katika kipindi gani cha historia?",
+        "options": [
+          "Chini ya utawala wa Nebukadneza",
+          "Chini ya utawala wa Koreshi",
+          "Chini ya utawala wa Herode Mkuu na Ufalme wa Kirumi",
+          "Wakati wa utawala wa Alexander Mkuu"
+        ],
+        "correct": 2,
+        "explanation": "Yesu alizaliwa wakati wa utawala wa Herode Mkuu, Yudea ilipokuwa chini ya utawala wa Warumi (Mathayo 2:1)."
+      },
+      {
+        "question": "Ni tukio gani linaloashiria mwanzo wa Kanisa la Kikristo?",
+        "options": [
+          "Kuzaliwa kwa Yesu",
+          "Kufufuka kwa Yesu",
+          "Pentekoste (kumiminiwa kwa Roho Mtakatifu)",
+          "Ubatizo wa Yesu"
+        ],
+        "correct": 2,
+        "explanation": "Pentekoste, siku 50 baada ya Pasaka, inaashiria kuzaliwa kwa Kanisa kwa kumwagwa kwa Roho Mtakatifu (Matendo 2)."
+      },
+      {
+        "question": "Je, matukio haya ya Mateso yalitokea kwa utaratibu gani?",
+        "options": [
+          "Mlo wa Mwisho → Kusulubishwa → Gethsemane → Ufufuo",
+          "Mlo wa Mwisho → Gethsemane → Kusulubiwa → Ufufuo",
+          "Gethsemane → Mlo wa Mwisho → Ufufuo → Kusulubiwa",
+          "Kusulubishwa → Mlo wa Mwisho → Ufufuo → Gethsemane"
+        ],
+        "correct": 1,
+        "explanation": "Agizo: Mlo wa Mwisho (Alhamisi jioni) → Gethsemane na kukamatwa → kesi → Kusulubiwa (Ijumaa) → Ufufuo (Jumapili asubuhi)."
+      },
+      {
+        "question": "Yesu alionekana siku ngapi baada ya kufufuka kabla ya kupaa kwake?",
+        "options": [
+          "siku 7",
+          "siku 14",
+          "siku 40",
+          "siku 50"
+        ],
+        "correct": 2,
+        "explanation": "Yesu alijidhihirisha kwa siku 40 baada ya kufufuka kwake kabla ya kupaa mbinguni (Matendo 1:3)."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "Wazee hawa wa ukoo wanapaswa kuwekwa katika mpangilio gani wa kihistoria: Nuhu, Abrahamu, Isaka, Yakobo?",
+        "options": [
+          "Ibrahimu → Nuhu → Isaka → Yakobo",
+          "Nuhu → Ibrahimu → Isaka → Yakobo",
+          "Isaka → Nuhu → Yakobo → Ibrahimu",
+          "Yakobo → Isaka → Ibrahimu → Nuhu"
+        ],
+        "correct": 1,
+        "explanation": "Agizo: Nuhu (baada ya uumbaji) → Ibrahimu (c. 2000 BC) → Isaka (mwanawe) → Yakobo (mwana wa Isaka)."
+      },
+      {
+        "question": "Je! Hekalu la kwanza huko Yerusalemu liliharibiwa lini?",
+        "options": [
+          "722 KK",
+          "605 KK",
+          "586 KK",
+          "539 KK"
+        ],
+        "correct": 2,
+        "explanation": "Hekalu la Sulemani liliharibiwa na Nebukadneza mwaka 586 KK. BC wakati wa kutekwa kwa Yerusalemu."
+      },
+      {
+        "question": "Ni kipindi gani takriban kinalingana na Musa kihistoria?",
+        "options": [
+          "3000-2500 BC AD",
+          "2000-1800 BC AD",
+          "1300-1200 BC AD",
+          "800-700 BC AD"
+        ],
+        "correct": 2,
+        "explanation": "Wanahistoria wengi huweka Musa na Kutoka karibu 1280-1250 BC. BC chini ya Ramses II wa Misri."
+      },
+      {
+        "question": "Je, falme kuu za Danieli 2 zinafuatana kwa utaratibu gani?",
+        "options": [
+          "Uajemi → Babeli → Ugiriki → Roma",
+          "Babeli → Uajemi → Ugiriki → Roma",
+          "Ugiriki → Uajemi → Babeli → Roma",
+          "Roma → Ugiriki → Uajemi → Babeli"
+        ],
+        "correct": 1,
+        "explanation": "Danieli 2 na 7: Babeli (dhahabu) → Uajemi (fedha) → Ugiriki (shaba) → Roma (chuma). Agizo linalolingana na mfululizo wa kihistoria."
+      },
+      {
+        "question": "Nabii Amosi na Hosea walitoa unabii lini?",
+        "options": [
+          "Kipindi cha Wahenga",
+          "Kipindi cha Uingereza chini ya David/Solomon",
+          "Kipindi cha ufalme uliogawanyika (karne ya 8 KK)",
+          "Kipindi cha uhamisho wa Babeli"
+        ],
+        "correct": 2,
+        "explanation": "Amosi na Hosea walitabiri katika karne ya 8 KK (karibu 760-720), katika Ufalme wa Kaskazini, muda mfupi kabla ya kuanguka kwa Samaria (722 KK)."
+      },
+      {
+        "question": "Je! ni takriban tarehe gani ya kuandikwa kwa Injili ya zamani zaidi?",
+        "options": [
+          "Karibu 30-40 AD. AD",
+          "Karibu 50-60 AD. AD",
+          "Karibu 65-70 AD. AD",
+          "Karibu 90-100 AD. AD"
+        ],
+        "correct": 2,
+        "explanation": "Marko, ambayo inachukuliwa kuwa injili ya zamani zaidi, kwa ujumla ni ya 65-70 AD. BC, kabla au baada ya uharibifu wa Hekalu."
+      },
+      {
+        "question": "Jiji la Samaria (Ufalme wa Kaskazini) lilianguka lini?",
+        "options": [
+          "722 KK chini ya Waashuri",
+          "586 KK chini ya Wababeli",
+          "539 KK chini ya Waajemi",
+          "331 KK chini ya Alexander"
+        ],
+        "correct": 0,
+        "explanation": "Samaria ilianguka mwaka 722 KK. KK chini ya Sargon II wa Ashuru, na kusababisha kufukuzwa kwa makabila 10 (2 Wafalme 17)."
+      },
+      {
+        "question": "Ni lini Paulo aliandika nyaraka zake kwa kufuata mpangilio wa matukio?",
+        "options": [
+          "Baada ya injili 4",
+          "Kabla ya Injili 4 (c. 50-62 BK)",
+          "Sambamba na injili",
+          "Katika miaka ya 80 na 90 BK. AD"
+        ],
+        "correct": 1,
+        "explanation": "Nyaraka za Paulo (karibu 50-62 BK) ni maandishi ya kale zaidi ya Agano Jipya, yaliyotangulia Injili zilizoandikwa."
+      },
+      {
+        "question": "Vitabu hivi vya Agano Jipya vinapaswa kuwekwa katika mpangilio gani wa kihistoria: Yohana, Marko, Matendo, Ufunuo?",
+        "options": [
+          "Yohana → Marko → Matendo → Ufunuo",
+          "Marko → Matendo → Yohana → Ufunuo",
+          "Matendo → Yohana → Marko → Ufunuo",
+          "Ufunuo → Marko → Yohana → Mdo"
+        ],
+        "correct": 1,
+        "explanation": "Takriban tarehe: Marko (65-70) → Matendo (80-85) → Yohana (90-95) → Ufunuo (95-96 BK)."
+      },
+      {
+        "question": "Alexander Mkuu alishinda Yudea lini?",
+        "options": [
+          "450 KK",
+          "400 KK",
+          "333-332 KK BK",
+          "200 KK"
+        ],
+        "correct": 2,
+        "explanation": "Alexander the Great alishinda Palestina mnamo 333-332 KK. BC, kufungua kipindi cha Ugiriki ambacho kingekuwa na athari kubwa kwa Uyahudi."
+      },
+      {
+        "question": "Takriban Abrahamu na Yesu walidumu kwa muda gani?",
+        "options": [
+          "Miaka 500",
+          "Miaka 1000",
+          "Miaka 2000",
+          "Miaka 3000"
+        ],
+        "correct": 2,
+        "explanation": "Ibrahimu alizaliwa karibu 2000 KK. BC na Yesu alizaliwa karibu 4-6 BC. BC, takriban miaka 2000 tofauti."
+      },
+      {
+        "question": "Takriban ni lini uharibifu wa Hekalu la Pili ulifanyika?",
+        "options": [
+          "40 AD",
+          "57 AD",
+          "70 AD",
+          "100 AD"
+        ],
+        "correct": 2,
+        "explanation": "Hekalu la Pili liliharibiwa na Tito na majeshi ya Warumi mwaka 70 BK. KK, kama Yesu alivyotabiri (Mathayo 24:2)."
+      },
+      {
+        "question": "Ni tukio gani la Agano la Kale linalotangulia mara moja kipindi cha Waamuzi?",
+        "options": [
+          "Kutoka Misri",
+          "Kutekwa kwa Kanaani chini ya Yoshua",
+          "Utawala wa Sauli",
+          "Ujenzi wa Maskani"
+        ],
+        "correct": 1,
+        "explanation": "Ushindi wa Kanaani chini ya Yoshua unatangulia mara moja kipindi cha Waamuzi. Baada ya kifo cha Yoshua, kila kabila lilikuwa na watawala wake (Waamuzi 1-2)."
+      },
+      {
+        "question": "Yeremia alitoa unabii lini kuhusu uhamisho wa Babiloni?",
+        "options": [
+          "Baada ya uhamisho",
+          "Wakati wa uhamisho tu",
+          "Kabla na wakati wa uhamisho (kutoka takriban 627 KK hadi 586)",
+          "Kabla ya uhamisho wa miaka 150"
+        ],
+        "correct": 2,
+        "explanation": "Yeremia alianza kutoa unabii mwaka 627 KK. (utawala wa Yosia) na kuendelea kupitia uharibifu wa Yerusalemu mwaka 586 KK. AD"
+      },
+      {
+        "question": "Wafalme 3 wa Uingereza walitawala kwa utaratibu gani?",
+        "options": [
+          "Daudi → Sauli → Sulemani",
+          "Sauli → Sulemani → Daudi",
+          "Sauli → Daudi → Sulemani",
+          "Sulemani → Daudi → Sauli"
+        ],
+        "correct": 2,
+        "explanation": "Agizo la wafalme 3 wa kwanza: Sauli (karibu 1050-1010) → Daudi (karibu 1010-970) → Sulemani (karibu 970-931 KK)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "Ni tarehe gani inayokubalika kwa ujumla ya kugawanywa kwa Ufalme wa Israeli?",
+        "options": [
+          "1050 KK",
+          "970 KK",
+          "931 KK",
+          "722 KK"
+        ],
+        "correct": 2,
+        "explanation": "Mgawanyiko wa ufalme chini ya Rehoboamu ni wa kawaida wa 931 KK. BC, baada ya kifo cha Sulemani."
+      },
+      {
+        "question": "Je, ni changamoto gani kuu ya 'Ratiba ya Waamuzi' katika masomo ya Biblia?",
+        "options": [
+          "Ukosefu wa vyanzo",
+          "Jumla ya miaka ya Waamuzi ni zaidi ya miaka 400 wakati 1 Wafalme 6:1 inazungumza juu ya miaka 480 kati ya Kutoka na Hekalu.",
+          "Majaji hawana tarehe",
+          "Usahihi mwingi wa kiakiolojia"
+        ],
+        "correct": 1,
+        "explanation": "Tatizo la awali: jumla ya vipindi vya Waamuzi huzidi miaka 400. Suluhisho: vipindi vingine vinaingiliana na ni vya kikanda, sio vya kitaifa."
+      },
+      {
+        "question": "Ni nini maana ya nambari '40' katika kronolojia ya Biblia (miaka 40 ya jangwa, siku 40 za mafuriko, n.k.)?",
+        "options": [
+          "Nambari halisi kila wakati",
+          "Nambari ya mfano ya Kiebrania inayoashiria kipindi cha majaribio/mabadiliko kamili, bila kujumuisha ukweli wa kihistoria",
+          "takwimu daima mviringo takriban",
+          "Nambari ya kitamaduni isiyo na historia"
+        ],
+        "correct": 1,
+        "explanation": "Neno la Kiebrania '40' linaweza kuwa halisi NA limejaa maana ya ishara (ushahidi kamili). Hatupaswi kupinga ishara na historia."
+      },
+      {
+        "question": "Je, uchumba wa juu dhidi ya chini wa Kutoka ni nini na matokeo yake ni yapi?",
+        "options": [
+          "Hakuna kutokubaliana kati ya wanahistoria",
+          "Uchumba wa hali ya juu: ~1446 KK. ( 1 Wafalme 6:1 ); chini: ~1270 KK (Ramses II). Suala: utambulisho wa Farao wa Kutoka na mawasiliano ya kiakiolojia",
+          "Kutoka kwa watu wote ni tarehe ya 1300 BC. AD",
+          "Mjadala ni wa kitheolojia tu bila msingi wa kihistoria"
+        ],
+        "correct": 1,
+        "explanation": "1 Wafalme 6:1: Miaka 480 kabla ya Hekalu (970 KK) = ~ 1446 KK (Thoutmosis III?). Uchumba wa chini (~1270) unafuata Ramses II na jiji la Pi-Ramses."
+      },
+      {
+        "question": "Je, mfumo wa mpangilio wa nadharia ya maandishi (JEDP) kuhusu uandishi wa Pentateuch ni upi?",
+        "options": [
+          "Wakati wote wa Musa (karibu 1300 KK)",
+          "Vyanzo J (900 BC), E (800), D (622), P (500-400) - Pentateuki ilikamilishwa karibu 400 BC AD",
+          "Wakati wa uhamisho wa Babeli tu",
+          "Imeandikwa katika karne ya 2 KK. AD"
+        ],
+        "correct": 1,
+        "explanation": "Nadharia ya hali halisi inaainisha: Yahwist (J, ~900), Elohist (E, ~800), Kumbukumbu la Torati (D, ~622), Kikuhani (P, ~500-450). Inapingwa vikali na wainjilisti."
+      },
+      {
+        "question": "Je! Kanuni za Agano Jipya zilianzishwa rasmi lini na jinsi gani?",
+        "options": [
+          "Na Yesu mwenyewe",
+          "Hatua kwa hatua kutoka karne ya 2 hadi ya 4, pamoja na kanuni ya Athanasius (367 BK) na mabaraza ya Carthage (397, 419)",
+          "Na Baraza la Nikea (325)",
+          "Kwa uamuzi rasmi wa kitume wa karne ya 1"
+        ],
+        "correct": 1,
+        "explanation": "Mchakato wa kutangazwa kuwa mtakatifu wa Agano Jipya: kuongezeka kwa matumizi tangu karne ya 2, orodha ya Athanasius (367), Mtaguso wa Carthage (397) unaothibitisha vitabu 27."
+      },
+      {
+        "question": "Je, kuandikwa kwa Injili ya Yohana kulipataje tarehe kuhusiana na nyaraka za Yohana na Apocalypse?",
+        "options": [
+          "Jean anaandika kila kitu wakati huo huo",
+          "Injili (~90-95) → Nyaraka (95-100) → Apocalypse (95-96 au mapema chini ya Nero)",
+          "Apocalypse iliyoandikwa kabla ya Injili kulingana na uchumba wa Neronian",
+          "Tarehe zote mbili pia zimethibitishwa katika maandishi"
+        ],
+        "correct": 2,
+        "explanation": "Dominant dating: Injili ya Yohana (~90-95), Nyaraka John (~90-100), Apocalypse (~95-96 chini ya Domitian, au ~ 65-68 chini ya Nero kulingana na Neronian dating)."
+      },
+      {
+        "question": "Je, kuna uhusiano gani wa mpangilio kati ya nyaraka za Paulo na uandishi wa injili za muhtasari?",
+        "options": [
+          "Injili zinamtangulia Paulo",
+          "Nyaraka za Paulo (50-62) zinatangulia injili za muhtasari (Marko ~65-70; Mathayo na Luka ~80-85)",
+          "Paulo anaandika wakati Marko anaandika",
+          "Sambamba Inathibitishwa na Maandishi"
+        ],
+        "correct": 1,
+        "explanation": "Nyaraka za Pauline (mwaka 50-62 BK) zinajumuisha maandishi ya zamani zaidi ya Kikristo tuliyo nayo, yakitangulia injili zilizoandikwa."
+      },
+      {
+        "question": "Je, ni changamoto gani ya Agano la Kale 'mfuatano kamili wa matukio' dhidi ya kronolojia ya ndani ya kibiblia?",
+        "options": [
+          "Hakuna changamoto: zote mbili zinalingana kikamilifu",
+          "Jumla ya miaka ya wafalme wa Israeli na Yuda haipatani kabisa na mpangilio wa nyakati wa Waashuru na Wababiloni, unaohitaji masahihisho kwa washiriki wengine.",
+          "Biblia haitoi tarehe",
+          "Kronolojia ya Mesopotamia si sahihi"
+        ],
+        "correct": 1,
+        "explanation": "Orodha za kifalme za Thiele (1951): mashirika mengi na mifumo tofauti ya kuhesabu inaelezea tofauti zinazoonekana. Kuoanisha na Ashuru na Babeli kunawezekana ndani ya ± miaka 1-2."
+      },
+      {
+        "question": "Nini umuhimu wa kitheolojia wa dhana ya 'utimilifu wa nyakati' (Wagalatia 4:4) katika kronolojia ya kibiblia?",
+        "options": [
+          "Fomula rahisi ya balagha",
+          "Usadikisho wa kwamba umwilisho unafika kwa wakati hususa anaoutaka Mungu: pax romana, koiné ya Kigiriki, diaspora ya Wayahudi, matarajio ya kimasiya yaliongezeka.",
+          "Sadfa ya kihistoria",
+          "Dhana ya kieskatologia ya siku zijazo"
+        ],
+        "correct": 1,
+        "explanation": "'pleroma tou chronou' (Wagalatia 4:4): Pax Romana (barabara salama), lugha ya kawaida ya Kigiriki, ugeni wa Kiyahudi wa kimataifa na matarajio ya kimasiya yaliyoimarishwa yaliunda muktadha wa kipekee wa utunzaji."
+      },
+      {
+        "question": "Kuna tofauti gani kati ya kalenda ya 'chronos' na 'kairos' katika theolojia ya Biblia ya wakati?",
+        "options": [
+          "Haya ni visawe vya Kigiriki",
+          "'Chronos' = muda wa kiasi unaofuatana; 'Kairos' = wakati muafaka uliojaa maana ya kitheolojia na uamuzi - wakati wa Mungu katika historia.",
+          "'Kairos' = zamani; 'chronos' = siku zijazo",
+          "Tofauti ni baada ya utume"
+        ],
+        "correct": 1,
+        "explanation": "'Chronos' (χρόνος) = mfululizo wa muda unaoweza kupimika. 'Kairos' (καιρός) = wakati unaofaa, unaofaa na wa kitheolojia. Umwilisho ni ubora wa Kairos (Marko 1:15)."
+      },
+      {
+        "question": "Nini maana ya 'milenia' katika Ufunuo 20 na tafsiri 3 kuu?",
+        "options": [
+          "Utawala halisi wa siku zijazo wa miaka 1000: tafsiri tu",
+          "(1) Kabla ya Milenia: utawala halisi wa wakati ujao; (2) Milenia: kipindi cha ishara (zama za Kanisa); (3) Baada ya Milenia: utawala wa taratibu kabla ya kurudi kwa Kristo",
+          "Zamani za kihistoria tu",
+          "Dhana isiyo ya Kikristo"
+        ],
+        "correct": 1,
+        "explanation": "Nafasi 3: (1) Premilenia - Kristo anarudi KABLA ya milenia halisi; (2) Milenia - milenia = utawala wa sasa wa Kristo (patristic wengi); (3) Baada ya milenia - milenia inatangulia kurudi kwa Kristo."
+      },
+      {
+        "question": "Je, kitabu cha Danieli kina tarehe gani na mjadala kati ya ufasiri wa kinabii na uandishi wa Wamakabayo?",
+        "options": [
+          "Karne ya 6 KK pekee",
+          "Anaishi. (tarehe ya ndani ya mwandishi Danieli) dhidi ya 2 c. (165 KK, msimamo muhimu: 'unabii baada ya ukweli' wa enzi ya Wamakabayo)",
+          "Karne ya 1 BK",
+          "Karne ya 9 KK"
+        ],
+        "correct": 1,
+        "explanation": "Danieli anaonekana kama ilivyoandikwa katika karne ya 6. (uhamisho wa Babeli). Ukosoaji wa kihistoria unaonyesha kuandikwa kwake hadi ~ 165 KK. (Antiochus IV) — 'vaticinium ex tukio'. Suala: uwezekano wa unabii wa kutabiri."
+      },
+      {
+        "question": "Je, kuna uhusiano gani wa mpangilio kati ya Pasaka ya Kiyahudi na kifo cha Yesu kulingana na muhtasari wa injili?",
+        "options": [
+          "Injili 4 zinakubaliana kikamilifu",
+          "Synoptics huweka Karamu ya Mwisho jioni ya Pasaka; Yohana anaiweka siku iliyotangulia (14 Nisan) - mvutano wa kawaida katika ufafanuzi",
+          "Yohana na synoptiki zinafanana",
+          "Tarehe haiwezekani kuamua"
+        ],
+        "correct": 1,
+        "explanation": "Mvutano wa kawaida: synoptics (Karamu ya Mwisho = mlo wa pasaka, 15 Nisan) dhidi ya Yohana (Yesu anakufa mnamo 14 Nisani, wakati mwana-kondoo wa pasaka alipokuwa akichinjwa). Suluhu kadhaa zilizopendekezwa."
+      },
+      {
+        "question": "Ni nini mpangilio wa mpangilio wa wakati wa Matengenezo ya Kiprotestanti na uhusiano wake na ugunduzi upya wa Biblia?",
+        "options": [
+          "Karne ya 16 BK",
+          "Karne ya 15 BK",
+          "Karne ya 14 BK",
+          "Karne ya 17 BK"
+        ],
+        "correct": 0,
+        "explanation": "Matengenezo ya Kiprotestanti: Luther alichapisha nadharia zake 95 katika mwaka wa 1517. Uvumbuzi wa uchapishaji (Gutenberg ~ 1450) na ugunduzi upya wa Agano Jipya la Kigiriki (Erasmus 1516) ulifanya uwezekano wa kueneza Biblia katika lugha za kienyeji."
+      }
+    ]
+  }
+}

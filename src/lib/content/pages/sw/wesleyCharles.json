@@ -1,0 +1,94 @@
+{
+  "charlesWesley": {
+    "title": "Charles Wesley",
+    "subtitle": "Desemba 18, 1707 - Machi 29, 1788 · Epworth → London",
+    "bio": "Mwanzilishi mwenza wa Methodism pamoja na kaka yake John, Charles Wesley ndiye mwandishi mkuu zaidi wa nyimbo za tenzi katika lugha ya Kiingereza. Nyimbo zake 6,500 zimeunda hali ya kiroho ya Kiprotestanti duniani kote na kubaki kuimbwa katika mila zote za Kikristo katika karne ya 21.",
+    "tabs": [
+      {
+        "id": "hymns",
+        "icon": "🎵",
+        "label": "Nyimbo za tenzi",
+        "labelKey": "nyimbo.za.wesley.nav"
+      },
+      {
+        "id": "bio",
+        "icon": "📖",
+        "label": "Wasifu",
+        "labelKey": null
+      }
+    ],
+    "labels": {
+      "original": "🇬🇧 Asili",
+      "translation": "🇫🇷 Tafsiri",
+      "theme": "🎯 Mandhari:"
+    },
+    "hymns": [
+      {
+        "title": "Na Inaweza Kuwa (1738)",
+        "fr": "Ni ajabu gani - naweza kuamini?",
+        "occasion": "Iliundwa muda mfupi baada ya ubadilishaji wa Charles, mnamo Mei 21, 1738, siku 3 kabla ya uzoefu wa John's Aldersgate.",
+        "stanza": "Na inaweza kuwa ni lazima nipate\nJe, unapendezwa na damu ya Mwokozi?\nAlikufa kwa ajili yangu, ambaye alisababisha maumivu yake?\nKwa ajili yangu, ni nani aliyemfuata hadi kufa?\nUpendo wa ajabu! inawezaje kuwa\nIli Wewe, Mungu wangu, usife kwa ajili yangu?",
+        "fr_stanza": "Ni ajabu iliyoje! Je, ninaweza kuwa na sehemu\nKwa damu iliyomwagwa na Mwokozi wangu?\nIlikuwa ni kwa ajili yangu kwamba aliteseka,\nKwangu mimi, sababu ya maumivu yake?\nUpendo wa ajabu! Inawezaje kuwa\nKwamba wewe, Mungu wangu, ulikufa kwa ajili yangu?",
+        "theme": "Kuhesabiwa haki kwa imani, ajabu ya neema"
+      },
+      {
+        "title": "O kwa Lugha Elfu (1739)",
+        "fr": "O kwa lugha elfu",
+        "occasion": "Imeandikwa kwa ajili ya kumbukumbu ya mwaka wa kwanza wa uongofu wake. Ni wimbo wa kwanza katika mkusanyo rasmi wa kwanza wa Kimethodisti.",
+        "stanza": "O kwa lugha elfu kuimba\nSifa za Mkombozi wangu mkuu,\nUtukufu wa Mungu wangu na Mfalme,\nUshindi wa neema yake!",
+        "fr_stanza": "O kwa lugha elfu kuimba\nSifa za Mkombozi wangu,\nUtukufu wa Mungu-Mfalme wangu,\nUshindi wa neema yake!",
+        "theme": "Sifa, uinjilishaji, furaha ya wokovu"
+      },
+      {
+        "title": "Sikiliza! The Herald Angels Sing (1739)",
+        "fr": "Huyu hapa malaika wa Bwana",
+        "occasion": "Hapo awali 'Hark how all the welkin ring' — kichwa kilirekebishwa na George Whitefield. Moja ya nyimbo za Krismasi zilizoimbwa zaidi ulimwenguni.",
+        "stanza": "Sikiliza! malaika mtangazaji huimba,\n'Utukufu kwa Mfalme aliyezaliwa!\nAmani duniani na rehema nyororo,\nMungu na wenye dhambi walipatanishwa!'",
+        "fr_stanza": "Huyu hapa malaika wa Bwana!\nUtukufu kwa Mfalme aliyezaliwa!\nAmani duniani, neema kubwa,\nMungu na wenye dhambi walipatanishwa!",
+        "theme": "Umwilisho, Krismasi, upatanisho"
+      },
+      {
+        "title": "Kristo Bwana Amefufuka Leo (1739)",
+        "fr": "Kristo Bwana amefufuka",
+        "occasion": "Imeandikwa kwa ajili ya Chapeli ya Kwanza ya Methodist (The Foundery, London). Imeimbwa asubuhi ya Pasaka duniani kote.",
+        "stanza": "Kristo Bwana amefufuka leo, Aleluya!\nWana wa wanadamu na malaika husema, Aleluya!\nInua shangwe zako na ushindi juu, Aleluya!\nImbeni, enyi mbingu na nchi jibuni, Aleluya!",
+        "fr_stanza": "Kristo Bwana amefufuka, Haleluya!\nMalaika na wanadamu, tangazeni, Aleluya!\nInua shangwe zako na nyimbo zako, Aleluya!\nMbingu na ardhi ziitikie, Aleluya!",
+        "theme": "Ufufuo, ushindi juu ya kifo, furaha ya Pasaka"
+      },
+      {
+        "title": "Upendo wa Kimungu, Upendo Wote Uzuri (1747)",
+        "fr": "Upendo wa Kimungu, unaopita upendo wote",
+        "occasion": "Canticle juu ya Utakaso - Kito cha kitheolojia cha Charles. Huonyesha 'ukamilifu wa Kikristo' unaopendwa na John Wesley.",
+        "stanza": "Upendo wa Mungu, upendo wote bora zaidi,\nFuraha ya mbinguni duniani ishuke!\nWeka ndani yetu makao yako duni,\nTaji ya shukrani zako zote za uaminifu.",
+        "fr_stanza": "Upendo wa kimungu, unaopita upendo wote,\nFuraha kutoka mbinguni ilishuka duniani!\nNjoo ukae katika makao yetu duni,\nTaji rehema zako zote za uaminifu.",
+        "theme": "Utakaso, ukamilifu wa Kikristo, upendo wa Mungu"
+      },
+      {
+        "title": "Askari wa Kristo, Inuka (1749)",
+        "fr": "Askari wa Kristo, inukeni",
+        "occasion": "Imeandikwa katika kipindi cha mateso dhidi ya Wamethodisti. Wahimize waumini kuvaa silaha za kiroho za Waefeso 6.",
+        "stanza": "Askari wa Kristo, inukeni,\nNa uvae silaha zako,\nImara katika nguvu anazopewa na Mungu\nKupitia Mwanawe wa milele.",
+        "fr_stanza": "Askari wa Kristo, inukeni,\nVaa silaha zako,\nImara katika nguvu anazojaliwa na Mungu\nKwa Mwana wake wa milele.",
+        "theme": "Vita vya kiroho, uvumilivu, silaha kutoka kwa Waefeso 6"
+      }
+    ],
+    "biography": [
+      {
+        "period": "Kuzaliwa na Utoto (1707-1720)",
+        "text": "Charles Wesley alizaliwa mnamo Desemba 18, 1707 huko Epworth, mtoto wa 18 kati ya 19 wa Samuel na Susanna. Alizaliwa kabla ya wakati, yeye ni dhaifu sana kwamba hailii na hubakia amefungwa kwa sufu kwa wiki kadhaa. Mama yake Susanna hujitolea kwake umakini maalum. Alipokuwa mtoto, alionyesha usikivu wa mapema wa muziki na fasihi chini ya elimu ya ukali ya mama yake."
+      },
+      {
+        "period": "Westminster na Oxford (1716-1735)",
+        "text": "Charles alihudhuria Shule ya Westminster (1716) ambapo alifaulu katika Kigiriki na Kilatini. Mnamo 1726 aliingia Chuo cha Christ Church, Oxford. Ni yeye ambaye, mnamo 1729, alianzisha 'Klabu kitakatifu' huko Oxford - kabla ya kaka yake John kuchukua usimamizi wake. George Whitefield ataungana nao. Charles alitawazwa kuwa shemasi na kuhani wa Kianglikana mwaka wa 1735, kabla ya misheni ya Georgia."
+      },
+      {
+        "period": "Uongofu (Mei 21, 1738)",
+        "text": "Uongofu wa Charles unatangulia wa John kwa siku 3. Mnamo Mei 21, 1738, akiwa mgonjwa na amelala kwenye nyumba ya rafiki yake, Charles alisoma Isaya 40 na maneno hayo yalimgusa kama ufunuo. Anapokea hakikisho la wokovu wake. Jioni hiyo aliandika 'And Can It Be' - wimbo wake mkuu wa kwanza. Wakati Yohana anamwambia juu ya uongofu wake mwenyewe siku 3 baadaye, wanaimba pamoja."
+      },
+      {
+        "period": "Mwimbaji wa Hymnographer wa Uamsho (1738-1788)",
+        "text": "Kwa miaka 50, Charles alibadilisha teolojia ya Wesley kuwa wimbo. Yeye hutunga kwa wastani wimbo mmoja kwa wiki - wakati mwingine kadhaa kwa siku. Alitunga akiwa amepanda farasi, akimwagiza mwenziwe aya hizo. Nyimbo zake ni mahubiri yake: zinafundisha neema, utakaso, Utatu, ufufuo kwa uzuri usio na kifani. John alisema kuwa nyimbo za Charles zilikuwa theolojia yake bora zaidi."
+      }
+    ]
+  }
+}

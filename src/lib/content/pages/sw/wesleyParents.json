@@ -1,0 +1,117 @@
+{
+  "wesleyParents": {
+    "title": "Samuel & Susanna",
+    "surname": "Wesley",
+    "subtitle": "Wazazi ambao waliunda wawili kati ya warekebishaji wakuu wa Kikristo wa karne ya 18",
+    "selectors": {
+      "susanna": "👩 Susanna Wesley",
+      "samuel": "👨Samweli Wesley"
+    },
+    "susanna": {
+      "name": "Susanna Wesley",
+      "years": "1669-1742",
+      "tagline": "Mtoto wa 25 wa waziri asiyekubalika · Mama wa miaka 19 · “Mama wa Methodism”",
+      "bio": "Susanna Annesley ni mmoja wa wanawake wa ajabu wa karne ya 18. Alijifundisha mwenyewe, alisoma Kigiriki, Kilatini na Kiebrania. Mama wa watoto 19 (9 kati yao walikufa wakiwa na umri mdogo), alijitolea maisha yake kwa elimu ya kimfumo ya watoto wake kulingana na njia ambayo alikuwa amejiendeleza. John Wesley alisema, “Mama yangu alinifundisha mengi kuhusu dini kuliko wanatheolojia wote ambao nimesoma.”",
+      "methodTitle": "Mbinu ya Elimu ya Susanna",
+      "methodIntro": "Susanna aliandika njia yake ya elimu katika barua ndefu kwa John mwaka wa 1732 - mojawapo ya hati za ajabu za elimu za karne ya 18.",
+      "categories": [
+        {
+          "id": "all",
+          "label": "Wote"
+        },
+        {
+          "id": "Discipline",
+          "label": "Nidhamu"
+        },
+        {
+          "id": "Éducation",
+          "label": "Elimu"
+        },
+        {
+          "id": "Formation spirituelle",
+          "label": "Mafunzo ya kiroho"
+        },
+        {
+          "id": "Justice & Grâce",
+          "label": "Haki na Neema"
+        },
+        {
+          "id": "Intégrité",
+          "label": "Uadilifu"
+        },
+        {
+          "id": "Générosité",
+          "label": "Ukarimu"
+        }
+      ],
+      "rules": [
+        {
+          "rule": "Kanuni ya 1 - Utii kabisa kutoka kwa kilio cha kwanza",
+          "detail": "Susanna alifundisha kwamba kanuni ya kwanza ya elimu ni kuvunja utashi wa mtoto kabla haujaota mizizi. 'Kushinda mapenzi yao na kuwazoea utii ndio msingi wa elimu.' Sio kwa ukatili, lakini kuunda tabia ya maadili. Watoto wa Wesley walijifunza kutii kutoka kwa kitalu.",
+          "category": "Nidhamu"
+        },
+        {
+          "rule": "Kanuni ya 2 - Hakuna mtoto anayekula kati ya chakula",
+          "detail": "Milo ilichukuliwa kwa wakati uliowekwa na vitafunio vilikatazwa kabisa. Nidhamu ya kimwili ilikuwa msingi wa nidhamu binafsi ya kiroho. Susanna aliona udhibiti wa hamu ya kula kama mafunzo ya kudhibiti tamaa zote.",
+          "category": "Nidhamu"
+        },
+        {
+          "rule": "Kanuni ya 3 - Alfabeti katika umri wa miaka 5, Biblia katika umri wa miaka 6",
+          "detail": "Kila mtoto alianza kusoma katika siku yake ya kuzaliwa ya 5 kwa kutumia alfabeti - bila ubaguzi. Andiko la kwanza lililosomwa lote lilikuwa Mwanzo sura ya 1. Kufikia umri wa miaka 6, wangeweza kusoma Biblia kwa ufasaha. Susanna mwenyewe alifundisha kila mtoto saa kadhaa kwa siku.",
+          "category": "Elimu"
+        },
+        {
+          "rule": "Kanuni ya 4 - Siku moja kamili kwa kila mtoto kila wiki",
+          "detail": "Akiwa na watoto 19, Susanna alitenga mchana mzima kwa wiki kwa kila mtoto, kibinafsi. Tête-à-tête hii ya kila wiki ilijitolea kwa mafundisho ya kibinafsi ya kidini, kujichunguza, na kuunda tabia. John alikuwa na Alhamisi, Charles alikuwa na Jumamosi.",
+          "category": "Mafunzo ya kiroho"
+        },
+        {
+          "rule": "Kanuni ya 5 - Usiwahi kuadhibu kosa moja mara mbili",
+          "detail": "Susanna alikuwa na sheria kali ya haki: kosa lililokiriwa na kuadhibiwa halingeweza kuadhibiwa. Alisema kuwa kurudia kwa milele kosa ambalo tayari lilikuwa limetatuliwa sio haki na kusababisha uchungu. Kanuni hii ya neema baada ya hukumu ilikuwa na athari kubwa kwa Yohana, ambaye aliendeleza fundisho la uhakikisho wa msamaha.",
+          "category": "Haki na Neema"
+        },
+        {
+          "rule": "Kanuni ya 6 - Sifa ya mara moja kwa ukweli uliosemwa",
+          "detail": "Mtoto ambaye alikiri kosa mara moja, hata kosa zito, alituzwa kila mara kwa sifa kwa uaminifu wake - na mara nyingi hakuadhibiwa. 'Mwenye kusema uongo ili kuepuka adhabu anastahiki adhabu mara mbili - kwa kosa na kwa uwongo.' Ukweli ulikuwa mtakatifu katika nyumba ya Wesley.",
+          "category": "Uadilifu"
+        },
+        {
+          "rule": "Kanuni ya 7 - Hakuna Mali Kati ya Ndugu",
+          "detail": "Watoto wa Wesley walifundishwa kushiriki kwa uhuru. Kuchukua bila kuuliza kuliadhibiwa, lakini kushiriki kwa uhuru kulisifiwa sana. Susanna alitaka kuunda mioyo ya ukarimu, sio wahusika wabahili. Wasiwasi huu kwa maskini utapatikana katika hatua zote za kijamii za Yohana.",
+          "category": "Ukarimu"
+        },
+        {
+          "rule": "Kanuni ya 8 - ahidi kila wakati na utekeleze",
+          "detail": "Susanna hakuwahi kuahidi kile ambacho hangeweza kutunza, na alidai uadilifu huo kutoka kwa watoto wake. Ahadi iliyotolewa kwa mtoto ilikuwa takatifu kama ahadi iliyotolewa kwa mtu mzima. Mafunzo haya ya kutegemewa kwa usemi yanahusishwa moja kwa moja na kujitolea kwa John Wesley kwa usahihi katika majarida yake na mikataba ya kichungaji.",
+          "category": "Uadilifu"
+        }
+      ]
+    },
+    "samuel": {
+      "name": "Samweli Wesley",
+      "years": "1662-1735",
+      "role": "Baba, kuhani wa Anglikana, mshairi",
+      "portrait": "👨‍💼",
+      "tagline": "Mkuu wa Epworth · Kasisi wa Anglikana · Mshairi · msomi wa Biblia",
+      "bio": "Samuel Wesley, mwana wa mchungaji mpinzani aliyeteswa, alichagua kwa uhuru Kanisa la Uingereza. Licha ya maisha yaliyojaa umaskini na shida, hakuwahi kuacha wadhifa wake huko Epworth. Msomi mkubwa, aliwapitishia watoto wake kupenda lugha za kitamaduni, ukakamavu wa kiakili na ukakamavu licha ya matatizo.",
+      "contributions": [
+        {
+          "title": "Mafunzo ya classical na kiakili",
+          "text": "Samuel Wesley, yeye mwenyewe mtoto wa mchungaji asiyeamini, alisoma kwa ustadi katika Oxford (Chuo cha Exeter) licha ya umaskini mkubwa. Alifadhili masomo yake kwa kunakili miswada. Aliwapa watoto wake ladha ya lugha za kitamaduni (Kigiriki, Kilatini, Kiebrania), ushairi na ukali wa kiakili. John Wesley alilazwa katika Chuo cha Christ Church, Oxford—cha hadhi zaidi—kutokana na sifa ya baba yake kitaaluma."
+        },
+        {
+          "title": "Mkuu wa Epworth - Imani katika Dhiki",
+          "text": "Samuel alikuwa rector wa Epworth, Lincolnshire, kwa miaka 38 (1697–1735), chini ya hali ngumu. Alifungwa kwa deni mwaka 1705. Mnamo 1709, presbytery ilichomwa moto (kazi ya maadui). Aliishi katika umaskini na watoto 19. Uimara huo licha ya dhiki—kukataa kutoroka cheo chake licha ya upinzani—ulimgusa sana Yohana, ambaye pia alikabili mnyanyaso mkali."
+        },
+        {
+          "title": "Kazi juu ya Ayubu na ukali wa kibiblia",
+          "text": "Samweli alitumia miaka ya mwisho ya maisha yake akiandika maelezo muhimu kuhusu kitabu cha Ayubu—somo la kitaaluma katika Kilatini. Akiwa karibu kufa alimwachia Yohana hati hii ambayo haijakamilika. Upendo wa Samweli wa kusoma kwa bidii Maandiko, mbinu yake ya kifalsafa kali, ndio msingi ambao Yohana alijenga theolojia yake ya kibiblia."
+        },
+        {
+          "title": "Rufaa ya Mwisho kwa Yohana kuhusu Utakatifu",
+          "text": "Akiwa karibu kufa (Aprili 25, 1735), Samuel alisema maneno yake ya mwisho kwa Yohana: 'Jambo la ndani, John, ni kitu cha ndani. Zingatia dini ya ndani.' Wakati huu ni wa kuamua: Samweli hasisitiza juu ya ibada au umbo la nje, lakini juu ya mabadiliko ya ndani ya moyo - ambayo yatakuwa kiini hasa cha Methodisti."
+        }
+      ]
+    }
+  }
+}

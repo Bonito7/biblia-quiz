@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { Trophy, RotateCcw, Home, Star, Award, Frown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { categories } from "../lib/quizData";
+import { useTranslation } from "../lib/i18n";
 
 export default function Results() {
   const navigate = useNavigate();
@@ -13,10 +14,10 @@ export default function Results() {
   const total = parseInt(params.get("total") || "0");
   const percentage = total > 0 ? Math.round((score / total) * 100) : 0;
   const [saved, setSaved] = useState(false);
+  const { lang, t } = useTranslation();
 
   const category = categories.find(c => c.id === categoryId);
-  const categoryName = category?.name || null;
-  const labels = { exceptional: "Exceptionnel!", exceptionalSub: "Score parfait", veryGood: "Très bien!", veryGoodSub: "Excellent travail", notBad: "Pas mal!", notBadSub: "Continue tes efforts", keepGoing: "À bientôt!", keepGoingSub: "Essaie à nouveau", resultsNotFound: "Résultats introuvables", backHome: "Retour à l'accueil", restart: "Recommencer", otherCategories: "Autres catégories", correct: "Correctes", incorrect: "Incorrectes", total: "Total" };
+  const categoryName = category ? t(`categories.${category.id}.name`) : null;
 
   useEffect(() => {
     if (!saved && category && total > 0 && categoryName) {
@@ -25,6 +26,8 @@ export default function Results() {
         const newEntry = {
           id: Date.now().toString(),
           category: categoryName,
+          categoryId,
+          lang,
           score,
           total_questions: total,
           percentage,
@@ -39,13 +42,13 @@ export default function Results() {
         console.error('Failed to save score:', e);
       }
     }
-  }, [saved, category, score, total, percentage, categoryName]);
+  }, [saved, category, score, total, percentage, categoryName, lang, categoryId]);
 
   const getResultMessage = () => {
-    if (percentage >= 90) return { icon: Trophy, text: labels.exceptional, subtitle: labels.exceptionalSub, color: "text-amber-500" };
-    if (percentage >= 70) return { icon: Award, text: labels.veryGood, subtitle: labels.veryGoodSub, color: "text-emerald-500" };
-    if (percentage >= 50) return { icon: Star, text: labels.notBad, subtitle: labels.notBadSub, color: "text-blue-500" };
-    return { icon: Frown, text: labels.keepGoing, subtitle: labels.keepGoingSub, color: "text-muted-foreground" };
+    if (percentage >= 90) return { icon: Trophy, text: t("results.exceptional"), subtitle: t("results.exceptionalSub"), color: "text-amber-500" };
+    if (percentage >= 70) return { icon: Award, text: t("results.veryGood"), subtitle: t("results.veryGoodSub"), color: "text-emerald-500" };
+    if (percentage >= 50) return { icon: Star, text: t("results.notBad"), subtitle: t("results.notBadSub"), color: "text-blue-500" };
+    return { icon: Frown, text: t("results.keepGoing"), subtitle: t("results.keepGoingSub"), color: "text-muted-foreground" };
   };
 
   const result = getResultMessage();
@@ -54,8 +57,8 @@ export default function Results() {
   if (!category) {
     return (
       <div className="max-w-2xl mx-auto px-4 py-20 text-center">
-        <p className="text-muted-foreground mb-4">{labels.resultsNotFound}</p>
-        <Button onClick={() => navigate("/")}>{labels.backHome}</Button>
+        <p className="text-muted-foreground mb-4">{t("results.resultsNotFound")}</p>
+        <Button onClick={() => navigate("/")}>{t("notFound.home")}</Button>
       </div>
     );
   }
@@ -93,7 +96,8 @@ export default function Results() {
             <svg className="w-full h-full transform -rotate-90" viewBox="0 0 120 120">
               <circle cx="60" cy="60" r="50" fill="none" stroke="hsl(var(--muted))" strokeWidth="8" />
               <motion.circle
-                cx="60" cy="60" r="50" fill="none"
+                cx="60" cy="60" r="50"
+                fill="none"
                 stroke="hsl(var(--primary))"
                 strokeWidth="8"
                 strokeLinecap="round"
@@ -120,15 +124,15 @@ export default function Results() {
           <div className="grid grid-cols-3 gap-3 text-center">
             <div className="p-3 rounded-xl bg-emerald-50 border border-emerald-100">
               <p className="font-heading text-lg font-bold text-emerald-600">{score}</p>
-              <p className="text-[10px] text-emerald-600/70 uppercase tracking-wider">{labels.correct}</p>
+              <p className="text-[10px] text-emerald-600/70 uppercase tracking-wider">{t("results.correctAnswers")}</p>
             </div>
             <div className="p-3 rounded-xl bg-red-50 border border-red-100">
               <p className="font-heading text-lg font-bold text-red-500">{total - score}</p>
-              <p className="text-[10px] text-red-500/70 uppercase tracking-wider">{labels.incorrect}</p>
+              <p className="text-[10px] text-red-500/70 uppercase tracking-wider">{t("results.wrongAnswers")}</p>
             </div>
             <div className="p-3 rounded-xl bg-blue-50 border border-blue-100">
               <p className="font-heading text-lg font-bold text-blue-600">{total}</p>
-              <p className="text-[10px] text-blue-600/70 uppercase tracking-wider">{labels.total}</p>
+              <p className="text-[10px] text-blue-600/70 uppercase tracking-wider">{t("results.total")}</p>
             </div>
           </div>
         </div>
@@ -142,12 +146,12 @@ export default function Results() {
             className="gap-2 rounded-xl"
           >
             <RotateCcw className="w-4 h-4" />
-            {labels.restart}
+            {t("results.restart")}
           </Button>
           <Link to="/">
             <Button size="lg" className="gap-2 rounded-xl w-full">
               <Home className="w-4 h-4" />
-              {labels.otherCategories}
+              {t("results.otherCategories")}
             </Button>
           </Link>
         </div>

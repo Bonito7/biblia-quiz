@@ -1,14 +1,16 @@
 import { Outlet, useLocation, useNavigate } from "react-router-dom";
 import { BookOpen, Home, Music, Users, MapPin, ScrollText, ArrowLeft } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
+import { useTranslation } from "@/lib/i18n";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 const navItems = [
-  { path: "/wesley", icon: Home, label: "Accueil" },
-  { path: "/wesley/john", icon: ScrollText, label: "Jean" },
-  { path: "/wesley/charles", icon: Music, label: "Charles" },
-  { path: "/wesley/parents", icon: Users, label: "Parents" },
-  { path: "/wesley/sermons", icon: BookOpen, label: "Sermons" },
-  { path: "/wesley/travels", icon: MapPin, label: "Voyages" },
+  { path: "/wesley", icon: Home, key: "home" },
+  { path: "/wesley/john", icon: ScrollText, key: "john" },
+  { path: "/wesley/charles", icon: Music, key: "charles" },
+  { path: "/wesley/parents", icon: Users, key: "parents" },
+  { path: "/wesley/sermons", icon: BookOpen, key: "sermons" },
+  { path: "/wesley/travels", icon: MapPin, key: "travels" },
 ];
 
 const ROOT_PATHS = navItems.map(n => n.path);
@@ -16,6 +18,7 @@ const ROOT_PATHS = navItems.map(n => n.path);
 export default function WesleyLayout() {
   const location = useLocation();
   const navigate = useNavigate();
+  const { t } = useTranslation();
   const isRoot = ROOT_PATHS.includes(location.pathname);
 
   return (
@@ -32,8 +35,8 @@ export default function WesleyLayout() {
                 ✝️
               </div>
               <div>
-                <h1 className="font-heading text-lg font-semibold leading-tight">Wesley Heritage</h1>
-                <p className="text-[10px] text-muted-foreground leading-tight">Héritage Wesley</p>
+                <h1 className="font-heading text-lg font-semibold leading-tight">{t("nav.wesleyTitle")}</h1>
+                <p className="text-[10px] text-muted-foreground leading-tight">{t("nav.wesleyTagline")}</p>
               </div>
             </>
           ) : (
@@ -42,9 +45,12 @@ export default function WesleyLayout() {
               className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors"
             >
               <ArrowLeft className="w-5 h-5" />
-              Retour
+              {t("common.back")}
             </button>
           )}
+          <div className="ml-auto">
+            <LanguageSwitcher />
+          </div>
         </div>
       </header>
 
@@ -68,7 +74,7 @@ export default function WesleyLayout() {
         style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
       >
         <div className="flex items-center justify-around px-2 py-2 max-w-lg mx-auto">
-          {navItems.map(({ path, icon: Icon, label }) => {
+          {navItems.map(({ path, icon: Icon, key }) => {
             const active = location.pathname === path;
             return (
               <button
@@ -79,7 +85,7 @@ export default function WesleyLayout() {
                 }`}
               >
                 <Icon className={`w-5 h-5 transition-transform ${active ? "scale-110" : ""}`} />
-                <span className="text-[10px] font-medium">{label}</span>
+                <span className="text-[10px] font-medium">{t(`wesley.nav.${key}`)}</span>
               </button>
             );
           })}

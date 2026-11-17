@@ -1,0 +1,72 @@
+{
+  "wesleySermons": {
+    "title": "Los sermones de Juan Wesley",
+    "subtitle": "Los 44 sermones estándar: la base teológica oficial del metodismo mundial. Wesley los publicó como base doctrinal para entrenar a sus predicadores.",
+    "searchPlaceholder": "Buscando un sermón...",
+    "sermons": [
+      {
+        "number": 1,
+        "title": "Salvación por la fe",
+        "fr": "Salvación por la fe",
+        "date": "1738",
+        "text": "Efesios 2:8",
+        "summary": "Primer sermón de las 44 normas. Wesley establece que la salvación es sólo por gracia, recibida a través de la fe, no por los méritos, las obras o la bondad natural del hombre. Distingue la fe muerta (intelectual) de la fe viva (confianza del corazón). Este sermón fue predicado en Oxford poco después del experimento de Aldersgate.",
+        "key_quote": "“La fe que justifica no es una simple creencia intelectual sino una confianza plena y viva en Cristo, en su sangre, en sus méritos”."
+      },
+      {
+        "number": 2,
+        "title": "El casi cristiano",
+        "fr": "El casi cristiano",
+        "date": "1741",
+        "text": "Hechos 26:28",
+        "summary": "Uno de los sermones más penetrantes de Wesley. Describe dos categorías: los 'casi cristianos' (practicantes exteriormente, honestos, religiosos, pero sin transformación interior) y los 'completamente cristianos' (el amor a Dios y al prójimo domina el corazón). Wesley predicó este sermón en Oxford en 1741, desafiando a sus propios colegas académicos.",
+        "key_quote": "“Me temo que muchos de los que se llaman a sí mismos cristianos son casi cristianos y que ellos mismos no lo saben”."
+      },
+      {
+        "number": 5,
+        "title": "Justificación por la fe",
+        "fr": "Justificación por la fe",
+        "date": "1746",
+        "text": "Romanos 4:5",
+        "summary": "Wesley aclara la doctrina de la justificación contra dos errores: aquellos que la niegan (confundiendo justificación con santificación) y aquellos que hacen todo sobre ella (descuidando el crecimiento en santidad). La justificación es el perdón de los pecados pasados ​​y la restauración del favor de Dios, distintos pero inseparables del nuevo nacimiento.",
+        "key_quote": "“Ser justificado es ser perdonado: que Dios nos acepta como si nunca hubiéramos pecado”."
+      },
+      {
+        "number": 9,
+        "title": "El espíritu de esclavitud y de adopción",
+        "fr": "El espíritu de servidumbre y adopción",
+        "date": "1746",
+        "text": "Romanos 8:15",
+        "summary": "Wesley describe tres estados espirituales: el hombre natural (inconsciente de su pecado), el hombre bajo la ley (convencido de pecado pero sin fuerzas para levantarse) y el hombre bajo la gracia (liberado y adoptado como hijo de Dios). Este sermón es esencial para comprender la progresión espiritual en la teología wesleyana.",
+        "key_quote": "“El Espíritu de adopción clama dentro de nosotros, ¡Abba, Padre! Y esta seguridad es el privilegio de todo creyente nacido de nuevo”."
+      },
+      {
+        "number": 13,
+        "title": "Sobre el pecado en los creyentes",
+        "fr": "El pecado entre los creyentes",
+        "date": "1763",
+        "text": "2 Corintios 5:17",
+        "summary": "Wesley reconoce honestamente que el pecado permanece en los creyentes regenerados, pero como un remanente derrotado, no como un poder gobernante. Este sermón matiza su doctrina de la perfección cristiana: nacer de nuevo no significa no volver a pecar, sino dejar de estar dominado por el pecado.",
+        "key_quote": "“Todavía hay un residuo de pecado en los mejores creyentes, pero este residuo ya no tiene dominio sobre ellos”."
+      },
+      {
+        "number": 43,
+        "title": "La forma más excelente",
+        "fr": "El camino superior",
+        "date": "1787",
+        "text": "1 Corintios 12:31",
+        "summary": "Uno de los últimos grandes sermones de Wesley (tenía 84 años). Compara dos formas de vida: la forma ordinaria del cristiano promedio (evitando pecados graves, practicando deberes básicos) y la forma superior del amor perfecto. Exhorta a todo creyente a aspirar a la cumbre, no a la mediocridad espiritual.",
+        "key_quote": "\"No te conformes con el camino ordinario. El camino del amor perfecto está abierto a todos. ¿Por qué detenerte a mitad de camino?\""
+      },
+      {
+        "number": 44,
+        "title": "El uso del dinero",
+        "fr": "El uso del dinero",
+        "date": "1760",
+        "text": "Lucas 16:9",
+        "summary": "El sermón social más famoso de Wesley, resumido en 3 reglas: (1) Gana todo lo que puedas (mediante trabajo honesto); (2) Ahorra todo lo que puedas (sin gastos innecesarios); (3) Da todo lo que puedas (redistribuir a los necesitados). El propio Wesley vivió según este principio: donó el 90% de sus ingresos.",
+        "key_quote": "\"Gana todo lo que puedas. Ahorra todo lo que puedas. Da todo lo que puedas\"."
+      }
+    ]
+  }
+}

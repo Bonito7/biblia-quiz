@@ -1,0 +1,94 @@
+{
+  "charlesWesley": {
+    "title": "Carlos Wesley",
+    "subtitle": "18 de dezembro de 1707 — 29 de março de 1788 · Epworth → Londres",
+    "bio": "Cofundador do Metodismo com seu irmão John, Charles Wesley é acima de tudo o maior hinógrafo da língua inglesa. Os seus 6.500 hinos moldaram a espiritualidade protestante global e continuam a ser cantados em todas as tradições cristãs no século XXI.",
+    "tabs": [
+      {
+        "id": "hymns",
+        "icon": "🎵",
+        "label": "Hinos",
+        "labelKey": "wesley.nav.hinos"
+      },
+      {
+        "id": "bio",
+        "icon": "📖",
+        "label": "Biografia",
+        "labelKey": null
+      }
+    ],
+    "labels": {
+      "original": "🇬🇧 Originais",
+      "translation": "🇫🇷 Tradução",
+      "theme": "🎯 Tema:"
+    },
+    "hymns": [
+      {
+        "title": "E pode ser (1738)",
+        "fr": "Que maravilha – posso acreditar?",
+        "occasion": "Composto logo após a conversão de Charles, em 21 de maio de 1738, 3 dias antes da experiência de John em Aldersgate.",
+        "stanza": "E será que eu deveria ganhar\nUm interesse no sangue do Salvador?\nMorreu Ele por mim, quem causou Sua dor?\nPara mim, quem Ele perseguiu até a morte?\nAmor incrível! como pode ser\nQue Tu, meu Deus, não morras por mim?",
+        "fr_stanza": "Que maravilha! Posso ter parte\nAo sangue derramado pelo meu Salvador?\nFoi por mim que ele sofreu,\nPara mim, a causa de sua dor?\nAmor incrível! Como pode ser\nQue você, meu Deus, morreu por mim?",
+        "theme": "Justificação pela fé, maravilha da graça"
+      },
+      {
+        "title": "Ó por mil línguas (1739)",
+        "fr": "Ó, por mil idiomas",
+        "occasion": "Escrito para o primeiro aniversário de sua conversão. É o primeiro hino da primeira coleção oficial metodista.",
+        "stanza": "Ó, que mil línguas cantem\nLouvor do meu grande Redentor,\nAs glórias do meu Deus e Rei,\nOs triunfos de Sua graça!",
+        "fr_stanza": "Ó, que mil línguas cantem\nOs louvores do meu Redentor,\nAs glórias do meu Deus-Rei,\nOs triunfos de Sua graça!",
+        "theme": "Louvor, evangelização, alegria da salvação"
+      },
+      {
+        "title": "Ouça! Os Anjos Arautos Cantam (1739)",
+        "fr": "Aqui está o anjo do Senhor",
+        "occasion": "Originalmente 'Hark how all the welkin Rings' - título modificado por George Whitefield. Uma das canções de Natal mais cantadas do mundo.",
+        "stanza": "Ouça! os anjos arautos cantam,\n'Glória ao rei recém-nascido!\nPaz na terra e misericórdia suave,\nDeus e os pecadores reconciliados!'",
+        "fr_stanza": "Aqui está o anjo do Senhor!\nGlória ao Rei recém-nascido!\nPaz na terra, imensa graça,\nDeus e os pecadores reconciliados!",
+        "theme": "Encarnação, Natal, reconciliação"
+      },
+      {
+        "title": "Cristo, o Senhor, ressuscitou hoje (1739)",
+        "fr": "Cristo, o Senhor, ressuscitou",
+        "occasion": "Escrito para a Primeira Capela Metodista (The Foundery, Londres). Cantada na manhã de Páscoa em todo o mundo.",
+        "stanza": "Cristo Senhor ressuscitou hoje, Aleluia!\nOs filhos dos homens e dos anjos dizem: Aleluia!\nEleve bem alto suas alegrias e triunfos, Aleluia!\nCantai, céus, e a terra responde: Aleluia!",
+        "fr_stanza": "Cristo Senhor ressuscitou, Aleluia!\nAnjos e homens, proclamai Aleluia!\nEleve suas alegrias e suas canções, Aleluia!\nQue os céus e a terra respondam, Aleluia!",
+        "theme": "Ressurreição, vitória sobre a morte, alegria pascal"
+      },
+      {
+        "title": "Amor divino, todos os amores são excelentes (1747)",
+        "fr": "Amor divino, que supera todo amor",
+        "occasion": "Cântico sobre a Santificação — obra-prima teológica de Carlos. Expressa a 'perfeição cristã' cara a John Wesley.",
+        "stanza": "Amor divino, todos os amores são excelentes,\nAlegria do céu à terra descer!\nFixe em nós Tua humilde habitação,\nTodos os Teus fiéis agradecimentos coroa.",
+        "fr_stanza": "Amor divino, superando todo amor,\nAlegria do céu desceu à terra!\nVenha e fique em nossa humilde morada,\nCoroa todas as suas fiéis misericórdias.",
+        "theme": "Santificação, perfeição cristã, amor a Deus"
+      },
+      {
+        "title": "Soldados de Cristo, levantem-se (1749)",
+        "fr": "Soldados de Cristo, levantem-se",
+        "occasion": "Escrito durante o período de perseguição contra os metodistas. Incentive os crentes a vestirem a armadura espiritual de Efésios 6.",
+        "stanza": "Soldados de Cristo, levantem-se,\nE coloque sua armadura,\nForte na força que Deus fornece\nAtravés de Seu Filho eterno.",
+        "fr_stanza": "Soldados de Cristo, levantem-se,\nColoque sua armadura,\nForte na força que Deus concede\nPor seu Filho eterno.",
+        "theme": "Guerra espiritual, perseverança, armadura de Efésios 6"
+      }
+    ],
+    "biography": [
+      {
+        "period": "Nascimento e Infância (1707-1720)",
+        "text": "Charles Wesley nasceu em 18 de dezembro de 1707 em Epworth, 18º de 19 filhos de Samuel e Susanna. Nascido prematuramente, ele está tão fraco que não chora e permanece enrolado em lã por várias semanas. Sua mãe, Susanna, dedica atenção especial a ele. Quando criança, demonstrou desde cedo sensibilidade musical e literária sob a rigorosa educação de sua mãe."
+      },
+      {
+        "period": "Westminster e Oxford (1716–1735)",
+        "text": "Charles frequentou a Westminster School (1716), onde se destacou em grego e latim. Em 1726 ele ingressou no Christ Church College, Oxford. Foi ele quem, em 1729, fundou o 'Holy Club' em Oxford - antes que seu irmão John assumisse a gestão. George Whitefield se juntará a eles. Charles foi ordenado diácono e sacerdote anglicano em 1735, pouco antes da missão na Geórgia."
+      },
+      {
+        "period": "Conversão (21 de maio de 1738)",
+        "text": "A conversão de Carlos precede a de João em 3 dias. Em 21 de maio de 1738, doente e deitado na casa de um amigo, Charles leu Isaías 40 e as palavras o atingiram como uma revelação. Ele recebe a certeza de sua salvação. Naquela noite ele escreveu 'And Can It Be' - seu primeiro grande hino. Quando João lhe conta sobre sua conversão, três dias depois, eles cantam juntos."
+      },
+      {
+        "period": "O Hinógrafo do Reavivamento (1738-1788)",
+        "text": "Durante 50 anos, Charles transformou a teologia Wesleyana em canção. Ele compõe em média um hino por semana – às vezes vários por dia. Compôs a cavalo, ditando os versos ao companheiro. Seus hinos são sua pregação: ensinam a graça, a santificação, a Trindade, a ressurreição com incomparável beleza lírica. John disse que os hinos de Charles eram sua melhor teologia."
+      }
+    ]
+  }
+}

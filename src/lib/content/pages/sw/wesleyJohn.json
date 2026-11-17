@@ -1,0 +1,97 @@
+{
+  "johnWesley": {
+    "title": "John Wesley",
+    "subtitle": "Juni 28, 1703 - Machi 2, 1791 · Epworth → London",
+    "bio": "Padre wa Anglikana, mwanatheolojia, mwanamageuzi ya kijamii na mwanzilishi mwenza wa Methodisti. Akizingatiwa kuwa mmoja wa watu mashuhuri sana katika Ukristo wa karne ya 18, uamsho wake wa kiinjilisti ulibadilisha Uingereza na kuweka msingi wa misheni kuu ya kimataifa.",
+    "sections": [
+      {
+        "id": "youth",
+        "label": "Vijana na Mafunzo",
+        "icon": "🎓",
+        "content": [
+          {
+            "title": "Kuzaliwa na utoto (1703-1714)",
+            "text": "John Wesley alizaliwa mnamo Juni 28, 1703 huko Epworth, Lincolnshire, mtoto wa 15 kati ya 19 wa Samuel na Susanna Wesley. Katika umri wa miaka 5, aliokolewa kimuujiza kutoka kwa moto katika kanisa kuu (1709). Mamake anamwona kama 'chapa iliyonyakuliwa kutoka kwa moto' - picha ambayo itaashiria maisha yake yote. Atasomeshwa hasa na mama yake hadi atakapofikisha umri wa miaka 11.",
+            "verse": "“Chapa iliyong’olewa katika moto” — Zekaria 3:2, kauli mbiu ya kibinafsi ya John Wesley."
+          },
+          {
+            "title": "Oxford—The Holy Club (1720–1735)",
+            "text": "John aliingia Chuo cha Christ Church, Oxford, mwaka wa 1720. Mnamo 1729, akiwa na kaka yake Charles na George Whitefield, alianzisha 'Klabu Takatifu' - iliyopewa jina la utani la 'Wamethodisti' kwa sababu ya mbinu yao kali ya uchaji Mungu: maombi ya kila siku kwa nyakati zilizowekwa, kufunga Jumatano na Ijumaa, kutembelea magereza, kusoma Biblia kwa utaratibu. Neno 'Methodisti' litabaki.",
+            "verse": "Ajenda ya Klabu Takatifu: inuka saa 4 asubuhi, sala 5-6 asubuhi, soma hadi 9 p.m., uchunguzi wa dhamiri kabla ya kulala."
+          },
+          {
+            "title": "Misheni kwa Georgia (1735-1738)",
+            "text": "Alitawazwa kuwa kasisi wa kianglikana mwaka 1728, John aliondoka kama mmisionari huko Georgia (Amerika) kuanzia 1735 hadi 1738. Safari hii ilikuwa ni kushindwa kwa kichungaji lakini ufunuo wa kiroho: kwenye mashua, Moravians waliimba na kuomba bila hofu katika dhoruba. Yohana analemewa na imani yao tulivu mbele ya kifo. Alirudi Uingereza akiwa ameshuka moyo lakini amebadilika.",
+            "verse": "John Wesley katika shajara yake: 'Nilienda Amerika kuwaongoa Wahindi, lakini ni nani atanibadilisha?'"
+          }
+        ]
+      },
+      {
+        "id": "conversion",
+        "label": "Uongofu na Uamsho",
+        "icon": "🔥",
+        "content": [
+          {
+            "title": "Aldersgate - Mei 24, 1738",
+            "text": "Tarehe 24 Mei 1738 ndiyo tarehe ya kuanzishwa kwa Methodism. John anahudhuria mkutano wa Moravian katika mtaa wa Aldersgate, London. Alipokuwa akisoma maelezo ya Luther kuhusu Warumi, aliandika hivi: 'Nilihisi moyo wangu ukiwa na joto la ajabu. Nilihisi kwamba nilimtumaini Kristo pekee kwa ajili ya wokovu, na nilihakikishiwa kwamba Kristo alikuwa ameondoa dhambi zangu, hata dhambi zangu, na alikuwa ameniokoa kutoka kwa sheria ya dhambi na kifo.’",
+            "verse": "Uzoefu huu - uhakikisho wa wokovu - ungekuwa msingi wa theolojia ya Wesley."
+          },
+          {
+            "title": "Kuhubiri hadharani (1739)",
+            "text": "Mnamo Februari 1739, George Whitefield alimwalika John ahubiri hadharani huko Bristol. John, Mwanglikana aliyesadikishwa, anasitasita - anaamini kwamba kuhubiri nje ya kanisa ni jambo lisilo la kawaida. Kisha anarudi na kukusanya maelfu ya wafanyakazi kutoka migodi ya Kingswood. Aliandika: 'Ninakataa heshima yote ya kuwa mtu wa ndani pekee. Dunia ni parokia yangu.' Kuamka huanza.",
+            "verse": "“Dunia ni Parokia Yangu” — Kauli mbiu Itakayoongoza Miaka 50 ya Huduma ya Nje"
+          },
+          {
+            "title": "Shirika la Jumuiya (1739-1744)",
+            "text": "Wesley hupanga waumini katika 'jamii' zilizogawanywa katika 'madaraja' ya wanachama 12 na kiongozi. Mfumo huu wa ufuatiliaji wa kina wa uchungaji ni wa kimapinduzi: kila wiki, kila mshiriki anaripoti hali yake ya kiroho. Wesley pia alichapisha mahubiri yake ya kawaida ya kwanza na 'Kanuni za Jumla' ambazo zingekuwa msingi wa Umethodisti.",
+            "verse": "Kanuni 3 za Jumla: (1) Usidhuru, (2) Fanya kila jema liwezekanalo, (3) Tumia njia zote za neema."
+          }
+        ]
+      },
+      {
+        "id": "theology",
+        "label": "Theolojia",
+        "icon": "📖",
+        "content": [
+          {
+            "title": "Neema ya Kuzuia",
+            "text": "Wesley anafundisha kwamba Mungu huwapa wanadamu wote 'neema inayotangulia'—neema ambayo hutangulia imani na kurejesha kwa kiasi uhuru wa kuchagua uliopotea katika Anguko. Neema hii inaeleza kwa nini mwaliko wa wote wa Injili ni wa dhati: Mungu hufanya mwitikio wa imani uwezekane kwa wote, bila ubaguzi. Hili ndilo jibu lake kwa Ukalvini.",
+            "verse": "Tito 2:11 : 'Neema ya Mungu, chanzo cha wokovu kwa watu wote, imedhihirishwa.'"
+          },
+          {
+            "title": "Utakaso na Ukamilifu wa Kikristo",
+            "text": "Dhana bainifu ya Wesley: 'Ukamilifu wa Kikristo' au 'utakatifu kamili'. Sio kutokuwa na dosari kabisa bali ni hali ambapo upendo kwa Mungu na jirani ndio msukumo mkuu - utakaso wa ndani wa ndani. Wesley anaitofautisha na kuhesabiwa haki (msamaha): ni kazi ya Roho Mtakatifu ambayo inabadilisha moyo. Alichapisha 'A Plain Account of Christian Perfection' (1766).",
+            "verse": "1 Wathesalonike 5:23: 'Mungu wa amani mwenyewe na awatakase kabisa.'"
+          },
+          {
+            "title": "Wesleyan Quadrilateral",
+            "text": "Mbinu ya kitheolojia ya Wesley inategemea vyanzo 4: (1) Maandiko - mamlaka ya kwanza na kuu; (2) Mapokeo - urithi wa Kanisa la kale; (3) Sababu — zawadi ya Mungu ya kuelewa Ufunuo; (4) Uzoefu - uthibitisho wa ndani wa kweli za Biblia. Upande huu wa pembe nne unasalia kuwa njia rasmi ya kitheolojia ya Kanisa la Muungano wa Methodisti.",
+            "verse": "Wesley: 'Maandiko pekee yana ukweli wote muhimu kwa wokovu.'"
+          }
+        ]
+      },
+      {
+        "id": "social",
+        "label": "Shughuli ya Kijamii",
+        "icon": "🤝",
+        "content": [
+          {
+            "title": "Maskini na Wanyonge",
+            "text": "Wesley alijitolea sana kwa maskini. Alianzisha zahanati za bure za matibabu kwa maskini, mikopo isiyo na riba kwa mafundi walio katika matatizo, na shule za watoto wa wachimba migodi. Alichapisha 'Primitive Physick' (1747), mwongozo wa matibabu wa bei nafuu kwa maskini. Kwa Wesley, utakatifu wa kijamii hauwezi kutenganishwa na utakatifu wa kibinafsi.",
+            "verse": "\"Dini ambayo haianzi na moyo sio kweli, lakini kile kinachozuia sio kubwa vya kutosha.\" - Wesley"
+          },
+          {
+            "title": "Upinzani wa Utumwa",
+            "text": "Mojawapo ya vita vya ushujaa vya Wesley ilikuwa upinzani wake dhidi ya utumwa. Mnamo 1774 alichapisha 'Thoughts On Slavery', mojawapo ya vijitabu vyenye nguvu zaidi vya kupinga utumwa wakati huo. Analaani utumwa kama 'jumla ya wabaya wote'. Barua yake ya mwisho (Februari 24, 1791), aliyoiandikia William Wilberforce, inamsihi aendelee na mapambano yake ya kukomesha maisha. Wesley alikufa siku 6 baadaye.",
+            "verse": "Barua ya mwisho kwa Wilberforce (1791): 'Endelea katika jina la Mungu na nguvu zake... Mungu atakufanya ushinde.'"
+          },
+          {
+            "title": "Elimu na Machapisho",
+            "text": "Wesley alianzisha Shule ya Kingswood (1748) kwa watoto wa wachimba migodi na kituo cha watoto yatima cha Orphan House huko Newcastle. Alichapisha maktaba ya juzuu 50 'Maktaba ya Kikristo' kwa bei iliyopunguzwa kwa madarasa ya kazi. Alichapisha kamusi, mwongozo wa matibabu, na nakala za historia ya asili. Kwa jumla: machapisho 400 asili. Alitaka Wakristo walioelimika, si wacha Mungu tu.",
+            "verse": "Wesley: 'Eneza vitabu, sambaza ujuzi wa kila aina, ueneze kwa upana iwezekanavyo.'"
+          }
+        ]
+      }
+    ]
+  }
+}

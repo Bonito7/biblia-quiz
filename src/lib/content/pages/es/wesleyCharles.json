@@ -1,0 +1,94 @@
+{
+  "charlesWesley": {
+    "title": "Carlos Wesley",
+    "subtitle": "18 de diciembre de 1707 — 29 de marzo de 1788 · Epworth → Londres",
+    "bio": "Cofundador del metodismo con su hermano John, Charles Wesley es sobre todo el mayor himnógrafo en lengua inglesa. Sus 6.500 himnos han dado forma a la espiritualidad protestante global y siguen cantándose en todas las tradiciones cristianas en el siglo XXI.",
+    "tabs": [
+      {
+        "id": "hymns",
+        "icon": "🎵",
+        "label": "Himnos",
+        "labelKey": "wesley.nav.himnos"
+      },
+      {
+        "id": "bio",
+        "icon": "📖",
+        "label": "Biografía",
+        "labelKey": null
+      }
+    ],
+    "labels": {
+      "original": "🇬🇧 Originales",
+      "translation": "🇫🇷 Traducción",
+      "theme": "🎯 Tema:"
+    },
+    "hymns": [
+      {
+        "title": "Y puede ser (1738)",
+        "fr": "Qué maravilla, ¿puedo creerlo?",
+        "occasion": "Compuesto poco después de la conversión de Carlos, el 21 de mayo de 1738, tres días antes de la experiencia de John en Aldersgate.",
+        "stanza": "¿Y puede ser que deba ganar?\n¿Un interés en la sangre del Salvador?\n¿Murió por mí aquel que causó su dolor?\nPara mí, ¿a quién persiguió hasta la muerte?\n¡Amor increíble! ¿Cómo puede ser?\n¿Que tú, Dios mío, no mueras por mí?",
+        "fr_stanza": "¡Qué maravilla! ¿Puedo tener parte?\n¿A la sangre derramada por mi Salvador?\n¿Fue por mí que sufrió?\nPara mí, ¿la causa de su dolor?\n¡Amor increíble! ¿Cómo puede ser?\n¿Que tú, Dios mío, moriste por mí?",
+        "theme": "Justificación por la fe, maravilla de la gracia."
+      },
+      {
+        "title": "O por las mil lenguas (1739)",
+        "fr": "O por mil idiomas",
+        "occasion": "Escrito con motivo del primer aniversario de su conversión. Es el primer himno de la primera colección metodista oficial.",
+        "stanza": "Oh, si mil lenguas cantaran\nLa alabanza de mi gran Redentor,\nLas glorias de mi Dios y Rey,\n¡Los triunfos de su gracia!",
+        "fr_stanza": "Oh, si mil lenguas cantaran\nLas alabanzas de mi Redentor,\nLas glorias de mi Dios-Rey,\n¡Los triunfos de su gracia!",
+        "theme": "Alabanza, evangelización, alegría de la salvación."
+      },
+      {
+        "title": "¡Escuchar con atención! Los ángeles heraldos cantan (1739)",
+        "fr": "Aquí está el ángel del Señor.",
+        "occasion": "Originalmente 'Escucha cómo suenan todos los welkin', título modificado por George Whitefield. Uno de los villancicos más cantados del mundo.",
+        "stanza": "¡Escuchar con atención! los ángeles heraldos cantan,\n'¡Gloria al Rey recién nacido!\nPaz en la tierra y misericordia suave,\n¡Dios y los pecadores reconciliados!'",
+        "fr_stanza": "¡Aquí está el ángel del Señor!\n¡Gloria al Rey recién nacido!\nPaz en la tierra, gracia inmensa,\n¡Dios y los pecadores reconciliados!",
+        "theme": "Encarnación, Navidad, reconciliación."
+      },
+      {
+        "title": "Cristo el Señor ha resucitado hoy (1739)",
+        "fr": "Cristo el Señor ha resucitado",
+        "occasion": "Escrito para la Primera Capilla Metodista (The Foundery, Londres). Cantado en la mañana de Pascua en todo el mundo.",
+        "stanza": "Cristo Señor ha resucitado hoy, ¡Aleluya!\nLos hijos de los hombres y de los ángeles dicen: ¡Aleluya!\n¡Levantad en alto vuestras alegrías y triunfos, Aleluya!\nCantad, cielos, y tierra responded: ¡Aleluya!",
+        "fr_stanza": "Cristo Señor ha resucitado, ¡Aleluya!\nÁngeles y hombres, proclamad: ¡Aleluya!\nLevanta tus alegrías y tus cantos, ¡Aleluya!\nQue los cielos y la tierra respondan, ¡Aleluya!",
+        "theme": "Resurrección, victoria sobre la muerte, alegría pascual"
+      },
+      {
+        "title": "Amor divino, todos los amores sobresalen (1747)",
+        "fr": "Amor divino, que sobrepasa todo amor.",
+        "occasion": "Cántico sobre la santificación: la obra maestra teológica de Carlos. Expresa la \"perfección cristiana\" querida por John Wesley.",
+        "stanza": "Amor divino, todos los amores excelsos,\n¡Alegría del cielo a la tierra, baja!\nFija en nosotros tu humilde morada,\nTodas tus fieles gracias coronan.",
+        "fr_stanza": "Amor divino, que supera todo amor,\n¡La alegría del cielo descendió a la tierra!\nVen y quédate en nuestra humilde morada,\nCorona todas tus fieles misericordias.",
+        "theme": "Santificación, perfección cristiana, amor de Dios."
+      },
+      {
+        "title": "Soldados de Cristo, levántense (1749)",
+        "fr": "Soldados de Cristo, levántense",
+        "occasion": "Escrito durante el período de persecución contra los metodistas. Anime a los creyentes a ponerse la armadura espiritual de Efesios 6.",
+        "stanza": "Soldados de Cristo, levantaos,\nY ponte tu armadura,\nFuerte en la fuerza que Dios proporciona\nA través de Su Hijo eterno.",
+        "fr_stanza": "Soldados de Cristo, levantaos,\nPonte tu armadura,\nFuerte en la fuerza que Dios concede\nPor su Hijo eterno.",
+        "theme": "Guerra espiritual, perseverancia, armadura de Efesios 6"
+      }
+    ],
+    "biography": [
+      {
+        "period": "Nacimiento e infancia (1707-1720)",
+        "text": "Charles Wesley nació el 18 de diciembre de 1707 en Epworth, el 18 de 19 hijos de Samuel y Susanna. Nacido prematuramente, está tan débil que no llora y permanece envuelto en lana durante varias semanas. Su madre Susanna le dedica especial atención. Desde niño mostró temprana sensibilidad musical y literaria bajo la rigurosa educación de su madre."
+      },
+      {
+        "period": "Westminster y Oxford (1716-1735)",
+        "text": "Carlos asistió a la Escuela de Westminster (1716), donde destacó en griego y latín. En 1726 ingresó en el Christ Church College de Oxford. Fue él quien, en 1729, fundó el 'Holy Club' en Oxford, antes de que su hermano John asumiera la dirección. George Whitefield se unirá a ellos. Charles fue ordenado diácono y sacerdote anglicano en 1735, justo antes de la misión a Georgia."
+      },
+      {
+        "period": "Conversión (21 de mayo de 1738)",
+        "text": "La conversión de Carlos precede a la de Juan en 3 días. El 21 de mayo de 1738, enfermo y acostado en casa de un amigo, Carlos leyó Isaías 40 y las palabras lo impactaron como una revelación. Recibe seguridad de su salvación. Esa noche escribió 'And Can It Be', su primer gran himno. Cuando John le cuenta de su propia conversión 3 días después, cantan juntos."
+      },
+      {
+        "period": "El himnógrafo del avivamiento (1738-1788)",
+        "text": "Durante 50 años, Carlos transformó la teología wesleyana en canción. Compone en promedio un himno por semana y, a veces, varios por día. Compuso a caballo, dictando los versos a su compañero. Sus himnos son su predicación: enseñan con incomparable belleza lírica la gracia, la santificación, la Trinidad, la resurrección. Juan dijo que los himnos de Carlos eran su mejor teología."
+      }
+    ]
+  }
+}

@@ -1,5 +1,6 @@
 import { ScrollText, BookOpen, Users, Quote, Eye, MapPin, Clock } from "lucide-react";
 import { motion } from "framer-motion";
+import { useTranslation } from "@/lib/i18n";
 
 const iconMap = {
   ScrollText,
@@ -13,6 +14,7 @@ const iconMap = {
 
 export default function CategoryCard({ category, index, onSelect }) {
   const Icon = iconMap[category.icon] || BookOpen;
+  const { t } = useTranslation();
 
   return (
     <motion.div
@@ -37,10 +39,10 @@ export default function CategoryCard({ category, index, onSelect }) {
 
           <div className="flex items-center justify-between">
             <span className="text-xs font-medium text-muted-foreground bg-muted px-2.5 py-1 rounded-full">
-              {category.questionsCount} questions
+              {t("home.questionsCount", { count: category.questionsCount })}
             </span>
             <span className="text-xs font-medium text-primary opacity-0 group-hover:opacity-100 transition-opacity">
-              Choisir niveau →
+              {t("home.chooseLevel")}
             </span>
           </div>
         </div>

@@ -1,0 +1,1462 @@
+{
+  "ancien_testament": {
+    "debutant": [
+      {
+        "question": "Kitabu cha kwanza cha Biblia ni kipi?",
+        "options": [
+          "Kutoka",
+          "Mwanzo",
+          "Mambo ya Walawi",
+          "Nambari"
+        ],
+        "correct": 1,
+        "explanation": "Mwanzo ni kitabu cha kwanza cha Biblia, maana yake 'mwanzo'."
+      },
+      {
+        "question": "Ni nani aliyejenga safina ili kuokoka gharika?",
+        "options": [
+          "Ibrahimu",
+          "Musa",
+          "Nuhu",
+          "Daudi"
+        ],
+        "correct": 2,
+        "explanation": "Nuhu alijenga safina kulingana na agizo la Mungu (Mwanzo 6-9)."
+      },
+      {
+        "question": "Je! Mungu alichukua siku ngapi kuumba ulimwengu?",
+        "options": [
+          "siku 5",
+          "siku 6",
+          "siku 7",
+          "siku 10"
+        ],
+        "correct": 1,
+        "explanation": "Mungu aliumba ulimwengu kwa siku 6 na akapumzika siku ya 7."
+      },
+      {
+        "question": "Nani alipokea Amri Kumi kwenye Mlima Sinai?",
+        "options": [
+          "Ibrahimu",
+          "Musa",
+          "Haruni",
+          "Yoshua"
+        ],
+        "correct": 1,
+        "explanation": "Musa alipokea Amri Kumi kutoka kwa Mungu kwenye Mlima Sinai (Kutoka 20)."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli aliandika zaidi ya Zaburi?",
+        "options": [
+          "Sulemani",
+          "Sauli",
+          "Daudi",
+          "Hezekia"
+        ],
+        "correct": 2,
+        "explanation": "Mfalme Daudi ndiye mwandishi mkuu wa Zaburi."
+      },
+      {
+        "question": "Nani alimezwa na samaki mkubwa?",
+        "options": [
+          "Yona",
+          "Eliya",
+          "Elisha",
+          "Amosi"
+        ],
+        "correct": 0,
+        "explanation": "Yona alimezwa na samaki mkubwa baada ya kuukimbia utume wa Mungu (Yona 1:17)."
+      },
+      {
+        "question": "Mke wa Ibrahimu alikuwa nani?",
+        "options": [
+          "Rachael",
+          "Sarah",
+          "Rebeka",
+          "Lea"
+        ],
+        "correct": 1,
+        "explanation": "Sara alikuwa mke wa Ibrahimu (Mwanzo 17:15)."
+      },
+      {
+        "question": "Mungu alituma mapigo mangapi juu ya Misri?",
+        "options": [
+          "7",
+          "8",
+          "10",
+          "12"
+        ],
+        "correct": 2,
+        "explanation": "Mungu alituma mapigo 10 juu ya Misri (Kutoka 7-12)."
+      },
+      {
+        "question": "Adamu na Hawa waliishi katika bustani gani?",
+        "options": [
+          "Bustani ya Gethsemane",
+          "Bustani ya Edeni",
+          "Bustani ya Ibrahimu",
+          "Bustani ya Sinai"
+        ],
+        "correct": 1,
+        "explanation": "Adamu na Hawa waliishi katika bustani ya Edeni (Mwanzo 2)."
+      },
+      {
+        "question": "Musa alivuka bahari gani pamoja na wana wa Israeli?",
+        "options": [
+          "Bahari ya Mediterania",
+          "Bahari ya Chumvi",
+          "Bahari Nyekundu",
+          "Bahari ya Galilaya"
+        ],
+        "correct": 2,
+        "explanation": "Musa aligawanya Bahari ya Shamu ili kuruhusu watu wa Israeli kutoroka Misri (Kutoka 14)."
+      },
+      {
+        "question": "Mwanadamu wa kwanza aliyeumbwa na Mungu anaitwa nani?",
+        "options": [
+          "Nuhu",
+          "Habili",
+          "Adamu",
+          "Seth"
+        ],
+        "correct": 2,
+        "explanation": "Adamu ndiye mwanadamu wa kwanza aliyeumbwa na Mungu (Mwanzo 2:7)."
+      },
+      {
+        "question": "Yakobo alikuwa na wana wangapi?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "correct": 2,
+        "explanation": "Yakobo alikuwa na wana 12 waliozaa makabila 12 ya Israeli."
+      },
+      {
+        "question": "Amri ya kwanza ya Amri Kumi ni ipi?",
+        "options": [
+          "Hutaua",
+          "Hutakuwa na miungu mingine ila mimi",
+          "Hutaiba",
+          "Waheshimu baba yako na mama yako"
+        ],
+        "correct": 1,
+        "explanation": "Amri ya kwanza inakataza kuwa na miungu mingine (Kutoka 20:3)."
+      },
+      {
+        "question": "Ni mnyama gani alizungumza na Hawa katika bustani ya Edeni?",
+        "options": [
+          "Tai",
+          "Simba",
+          "Nyoka",
+          "Punda"
+        ],
+        "correct": 2,
+        "explanation": "Nyoka alimjaribu Hawa kwa kujitolea kula tunda lililokatazwa (Mwanzo 3:1)."
+      },
+      {
+        "question": "Ni nani alikuwa mwana wa Abrahamu na Sara?",
+        "options": [
+          "Ishmaeli",
+          "Isaka",
+          "Yakobo",
+          "Esau"
+        ],
+        "correct": 1,
+        "explanation": "Isaka alikuwa mwana muujiza wa Ibrahimu na Sara katika uzee wao (Mwanzo 21:3)."
+      },
+      {
+        "question": "Kaini alikuwa nani katika Biblia?",
+        "options": [
+          "Mwana wa Nuhu",
+          "Mwana wa kwanza wa Adamu na Hawa",
+          "Ndugu ya Nuhu",
+          "Mmoja wa manabii"
+        ],
+        "correct": 1,
+        "explanation": "Kaini alikuwa mwana wa kwanza wa Adamu na Hawa, ambaye alimuua kaka yake Abeli ​​(Mwanzo 4)."
+      },
+      {
+        "question": "Ni watu gani ambao Yoshua aliwaongoza kwenye Nchi ya Ahadi?",
+        "options": [
+          "Wamisri",
+          "Wafilisti",
+          "Waisraeli",
+          "Wababeli"
+        ],
+        "correct": 2,
+        "explanation": "Yoshua aliwaongoza watu wa Israeli hadi Nchi ya Ahadi baada ya kifo cha Musa (Yoshua 1)."
+      },
+      {
+        "question": "Dada yake Musa anaitwa nani?",
+        "options": [
+          "Debora",
+          "Miriam",
+          "Rachael",
+          "Sarah"
+        ],
+        "correct": 1,
+        "explanation": "Miriamu alikuwa dada ya Musa na Haruni (Kutoka 15:20)."
+      },
+      {
+        "question": "Hadithi ya uumbaji inapatikana katika kitabu gani cha Biblia?",
+        "options": [
+          "Kutoka",
+          "Mwanzo",
+          "Mambo ya Walawi",
+          "Kumbukumbu la Torati"
+        ],
+        "correct": 1,
+        "explanation": "Hadithi ya uumbaji inapatikana katika sura mbili za kwanza za Mwanzo."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli aliyejenga Hekalu la kwanza huko Yerusalemu?",
+        "options": [
+          "Daudi",
+          "Sauli",
+          "Sulemani",
+          "Rehoboamu"
+        ],
+        "correct": 2,
+        "explanation": "Mfalme Sulemani alijenga Hekalu la kwanza huko Yerusalemu (1 Wafalme 6)."
+      },
+      {
+        "question": "Nini maana ya upinde wa mvua baada ya mafuriko?",
+        "options": [
+          "Ishara ya uzuri wa asili",
+          "Agano la Mungu la kutoharibu dunia tena kwa gharika",
+          "Ishara ya hatari",
+          "Uwepo wa Mungu"
+        ],
+        "correct": 1,
+        "explanation": "Upinde wa mvua ni ishara ya agano la Mungu na Nuhu na kila kiumbe hai (Mwanzo 9:13-16)."
+      },
+      {
+        "question": "Jina la mlima ambao Ibrahimu alipaswa kumtoa mwanawe kuwa dhabihu ni nini?",
+        "options": [
+          "Mlima Sinai",
+          "Mlima Moria",
+          "Mlima Horebu",
+          "Mlima Karmeli"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alimwambia Ibrahimu amtoe Isaka dhabihu kwenye Mlima Moria (Mwanzo 22:2)."
+      },
+      {
+        "question": "Ni mwana gani wa Yakobo aliyeuzwa utumwani na ndugu zake?",
+        "options": [
+          "Benjamin",
+          "Yuda",
+          "Ruben",
+          "Joseph"
+        ],
+        "correct": 3,
+        "explanation": "Yusufu aliuzwa na ndugu zake kwa wafanyabiashara Waishmaeli kwa vipande 20 vya fedha (Mwanzo 37:28)."
+      },
+      {
+        "question": "Mungu alitumia mmea gani kuzungumza na Musa?",
+        "options": [
+          "Mtende",
+          "Kichaka kinachowaka",
+          "Mtini",
+          "Mwerezi"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alizungumza na Musa kutoka kwenye kichaka kilichowaka bila kuungua (Kutoka 3:2-4)."
+      },
+      {
+        "question": "Ni chakula gani cha kimuujiza ambacho Mungu aliwatuma Waisraeli jangwani?",
+        "options": [
+          "Mkate wa kawaida",
+          "Mana na kware",
+          "Tini na tarehe",
+          "Samaki kavu"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alituma mana kila asubuhi na kware ili kuwalisha Waisraeli (Kutoka 16)."
+      },
+      {
+        "question": "Ni kitu gani kitakatifu kilichokuwa na meza za Sheria?",
+        "options": [
+          "Kinara chenye matawi 7",
+          "Sanduku la Agano",
+          "Madhabahu ya dhahabu",
+          "Pazia la Hekalu"
+        ],
+        "correct": 1,
+        "explanation": "Sanduku la Agano lilikuwa na mbao za Sheria, chungu cha mana na fimbo ya Haruni."
+      },
+      {
+        "question": "Waisraeli walivuka mto gani ili kuingia katika Nchi ya Ahadi?",
+        "options": [
+          "Mto Nile",
+          "Tiger",
+          "Mto Frati",
+          "Yordani"
+        ],
+        "correct": 3,
+        "explanation": "Waisraeli walivuka Yordani kwenye nchi kavu ili kuingia Kanaani (Yoshua 3)."
+      },
+      {
+        "question": "Ruthu alikuwa nani kwa Naomi?",
+        "options": [
+          "Binti yake wa kibaolojia",
+          "Mtumishi wake",
+          "Mkwewe",
+          "Binamu yake"
+        ],
+        "correct": 2,
+        "explanation": "Ruthu alikuwa mkwe wa Naomi, mke wa mwanawe Maloni (Ruthu 1:4)."
+      },
+      {
+        "question": "Ni adui gani wa Israeli aliyeteka Sanduku la Agano?",
+        "options": [
+          "Wababeli",
+          "Wafilisti",
+          "Waashuri",
+          "Wamoabu"
+        ],
+        "correct": 1,
+        "explanation": "Wafilisti waliteka Sanduku la Agano kwenye Vita vya Ebenezeri (1 Samweli 4:11)."
+      },
+      {
+        "question": "Ni mnyama gani aliyezungumza na Balaamu katika Agano la Kale?",
+        "options": [
+          "Farasi",
+          "Simba",
+          "Punda",
+          "Tai"
+        ],
+        "correct": 2,
+        "explanation": "Punda wa Balaamu alinena alipomwona malaika wa Bwana (Hesabu 22:28-30)."
+      },
+      {
+        "question": "Ni kitabu gani kifupi zaidi katika Agano la Kale?",
+        "options": [
+          "Obadia",
+          "Hagai",
+          "Yona",
+          "Nahumu"
+        ],
+        "correct": 0,
+        "explanation": "Kitabu cha Obadia ndicho kifupi zaidi katika Agano la Kale chenye mistari 21 pekee."
+      },
+      {
+        "question": "Ni nabii gani alichukuliwa kwenda mbinguni kwa upepo wa kisulisuli?",
+        "options": [
+          "Elisha",
+          "Eliya",
+          "Isaya",
+          "Ezekieli"
+        ],
+        "correct": 1,
+        "explanation": "Eliya alichukuliwa juu mbinguni kwa upepo wa kisulisuli na gari la moto (2 Wafalme 2:11)."
+      },
+      {
+        "question": "Ni mfalme gani wa Babeli aliyeharibu Hekalu la Yerusalemu?",
+        "options": [
+          "Koreshi",
+          "Dario",
+          "Nebukadreza",
+          "Xerxes"
+        ],
+        "correct": 2,
+        "explanation": "Nebukadneza II aliharibu Hekalu la Sulemani mwaka wa 586 KK. ( 2 Wafalme 25:9 )."
+      },
+      {
+        "question": "Ni mfalme gani wa Uajemi aliruhusu Wayahudi kurudi Israeli?",
+        "options": [
+          "Dario",
+          "Xerxes",
+          "Koreshi",
+          "Artashasta"
+        ],
+        "correct": 2,
+        "explanation": "Amri ya Koreshi (538 KK) iliwaruhusu Wayahudi kurudi Israeli (Ezra 1:1-4)."
+      },
+      {
+        "question": "Esta alikuwa nani katika Biblia?",
+        "options": [
+          "Nabii wa kike wa Israeli",
+          "Myahudi ambaye alikuja kuwa Malkia wa Uajemi ambaye aliwaokoa watu wake",
+          "Mke wa kuhani mkuu",
+          "Mwamuzi kutoka Israeli"
+        ],
+        "correct": 1,
+        "explanation": "Esta alikuwa Myahudi yatima ambaye alikuja kuwa malkia wa Uajemi na kuharibu njama ya Hamani dhidi ya Wayahudi."
+      },
+      {
+        "question": "Ni sikukuu gani inayoadhimisha Kutoka kwa Misri?",
+        "options": [
+          "Pentekoste",
+          "Pasaka (Pasaka)",
+          "Yom Kippur",
+          "Sikukuu ya Vibanda"
+        ],
+        "correct": 1,
+        "explanation": "Pasaka (Pasaka) ni ukumbusho wa kutoka Misri na ukombozi wa watu wa Israeli (Kutoka 12:14)."
+      },
+      {
+        "question": "Ni kitabu gani kinachoelezea sheria za usafi na dhabihu za Israeli?",
+        "options": [
+          "Kutoka",
+          "Nambari",
+          "Mambo ya Walawi",
+          "Kumbukumbu la Torati"
+        ],
+        "correct": 2,
+        "explanation": "Mambo ya Walawi yana sheria kuhusu dhabihu, usafi wa kidesturi, na ibada ya kikuhani."
+      },
+      {
+        "question": "Ni nabii gani alitangaza 'sauti ya kilio nyikani'?",
+        "options": [
+          "Yeremia",
+          "Ezekieli",
+          "Isaya",
+          "Mika"
+        ],
+        "correct": 2,
+        "explanation": "Isaya 40:3 inasema “Sauti imelia nyikani, Itengenezeni njia ya BWANA”."
+      },
+      {
+        "question": "Kitabu cha mwisho cha Agano la Kale katika Biblia ya Kikristo ni kipi?",
+        "options": [
+          "Zekaria",
+          "Hagai",
+          "Malaki",
+          "Ezra"
+        ],
+        "correct": 2,
+        "explanation": "Malaki ni kitabu cha mwisho cha Agano la Kale."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli aliyezini na Bathsheba?",
+        "options": [
+          "Sauli",
+          "Daudi",
+          "Sulemani",
+          "Rehoboamu"
+        ],
+        "correct": 1,
+        "explanation": "Mfalme Daudi alifanya uzinzi na Bathsheba na kuamuru mumewe Uria Mhiti auawe (2 Samweli 11)."
+      },
+      {
+        "question": "Ni nabii gani alimshutumu Daudi baada ya dhambi yake?",
+        "options": [
+          "Eliya",
+          "Nathan",
+          "Elisha",
+          "Gadi"
+        ],
+        "correct": 1,
+        "explanation": "Nabii Nathani alimkabili Daudi kwa mfano wa kondoo (2 Samweli 12:1-7)."
+      },
+      {
+        "question": "Ni nabii gani aliyetangaza 'Mtumishi wa Bwana anayeteseka'?",
+        "options": [
+          "Yeremia",
+          "Isaya",
+          "Ezekieli",
+          "Mika"
+        ],
+        "correct": 1,
+        "explanation": "Isaya 42, 49, 50 na 52-53 ina mashairi 4 ya Mtumishi wa Mateso."
+      },
+      {
+        "question": "Nini maana ya neno Torati?",
+        "options": [
+          "Sheria/mafundisho ya Mungu",
+          "Historia takatifu",
+          "Unabii",
+          "Muungano"
+        ],
+        "correct": 0,
+        "explanation": "Torati ina maana ya 'mafundisho' au 'sheria ya Mungu' katika Kiebrania, ikitaja vitabu vitano vya kwanza vya Biblia."
+      },
+      {
+        "question": "Ni wafalme wangapi walitawala Israeli iliyoungana kabla ya mgawanyiko?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correct": 2,
+        "explanation": "Wafalme watatu walitawala Israeli iliyoungana: Sauli, Daudi na Sulemani."
+      },
+      {
+        "question": "Ni nabii gani alitangaza ahadi ya 'moyo mpya na roho mpya'?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Ezekieli",
+          "Yoeli"
+        ],
+        "correct": 2,
+        "explanation": "Ezekieli 36:26: 'Nitawapa ninyi moyo mpya, nami nitatia roho mpya ndani yenu.'"
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba Masiya angezaliwa Bethlehemu?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Mika",
+          "Zekaria"
+        ],
+        "correct": 2,
+        "explanation": "Mika 5:2 inatabiri kwamba Masihi atazaliwa katika Bethlehemu ya Efratha."
+      },
+      {
+        "question": "Je, ni nini maana ya jina 'Imanueli' katika Isaya 7:14?",
+        "options": [
+          "Mungu anaokoa",
+          "Mungu yu pamoja nasi",
+          "Mungu ni mkuu",
+          "Mungu ni nuru"
+        ],
+        "correct": 1,
+        "explanation": "'Immanuel' (עִמָּנוּאֵל) maana yake 'Mungu yu pamoja nasi' - ahadi ya uwepo wa kimungu katika mwili."
+      },
+      {
+        "question": "Ni andiko gani la kiunabii linalotangaza ‘Mshauri wa Ajabu, Mungu Mwenye Nguvu, Baba wa Milele, Mfalme wa Amani’?",
+        "options": [
+          "Mika 5:2",
+          "Isaya 9:5-6",
+          "Zekaria 9:9",
+          "Yeremia 23:5"
+        ],
+        "correct": 1,
+        "explanation": "Isaya 9:5-6 inatangaza kuzaliwa kwa mtoto mwenye majina ya kimasiya."
+      },
+      {
+        "question": "Ni adui gani aliyeteka Yerusalemu na kuwapeleka Israeli uhamishoni Babeli?",
+        "options": [
+          "Koreshi wa Uajemi",
+          "Nebukadreza wa Babeli",
+          "Senakeribu wa Ashuru",
+          "Farao wa Misri"
+        ],
+        "correct": 1,
+        "explanation": "Nebukadreza II aliharibu Yerusalemu na kuwahamisha watu mwaka 587 KK. ( 2 Wafalme 24-25 )."
+      },
+      {
+        "question": "Ni kitabu gani cha Biblia kinachoelezea kujengwa upya kwa Hekalu baada ya uhamisho?",
+        "options": [
+          "Nehemia",
+          "Hagai",
+          "Ezra",
+          "Malaki"
+        ],
+        "correct": 2,
+        "explanation": "Kitabu cha Ezra kinaelezea kurudi kwa wahamishwa na kujengwa upya kwa Hekalu huko Yerusalemu."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli aliyejenga kidimbwi cha kuogelea na mfereji wa maji huko Yerusalemu kabla ya shambulio la Waashuru?",
+        "options": [
+          "Daudi",
+          "Sulemani",
+          "Hezekia",
+          "Yosia"
+        ],
+        "correct": 2,
+        "explanation": "Hezekia alichimba mtaro wa Siloamu ili kuleta maji Yerusalemu (2 Wafalme 20:20)."
+      },
+      {
+        "question": "Ni tukio gani lililosababisha ufalme wa Israeli kugawanywa katika sehemu mbili?",
+        "options": [
+          "kifo cha Daudi",
+          "Kukataa kwa Rehoboamu kupunguza ushuru wa watu",
+          "Vita dhidi ya Wafilisti",
+          "Kifo cha Sulemani peke yake"
+        ],
+        "correct": 1,
+        "explanation": "Kukataa kwa Rehoboamu kupunguza nira ya watu kulisababisha kujitenga kwa makabila 10 ya kaskazini (1 Wafalme 12)."
+      },
+      {
+        "question": "Ni nani aliyekuwa mwamuzi wa kwanza wa Israeli anayetajwa katika kitabu cha Waamuzi?",
+        "options": [
+          "Samsoni",
+          "Gideoni",
+          "Otniel",
+          "Debora"
+        ],
+        "correct": 2,
+        "explanation": "Otnieli, mpwa wa Kalebu, ndiye mwamuzi wa kwanza wa Israeli aliyetajwa (Waamuzi 3:9)."
+      },
+      {
+        "question": "Yubile katika Israeli ni ya muda gani?",
+        "options": [
+          "miaka 7",
+          "Umri wa miaka 25",
+          "miaka 40",
+          "Miaka 50"
+        ],
+        "correct": 3,
+        "explanation": "Yubile ilifanyika kila baada ya miaka 50: ardhi ilirudi kwa wamiliki wake wa awali (Mambo ya Walawi 25:10)."
+      },
+      {
+        "question": "Ni nabii gani aliyetupwa kwenye birika na maadui zake?",
+        "options": [
+          "Eliya",
+          "Yeremia",
+          "Daniel",
+          "Yona"
+        ],
+        "correct": 1,
+        "explanation": "Yeremia alitupwa kwenye kisima na maadui (Yeremia 38:6)."
+      },
+      {
+        "question": "Ni unabii gani wa Zekaria unaotangaza kuingia kwa ushindi kwa Masihi akiwa juu ya punda?",
+        "options": [
+          "Zekaria 3:8",
+          "Zekaria 9:9",
+          "Zekaria 12:10",
+          "Zekaria 14:4"
+        ],
+        "correct": 1,
+        "explanation": "Zekaria 9:9 “Tazama, mfalme wako anakuja kwako, mwenye haki na mshindi, ni mnyenyekevu, amepanda punda."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "Ni kitabu gani cha Biblia kinachoeleza ujenzi wa Hekalu la Sulemani?",
+        "options": [
+          "1 Samweli",
+          "1 Wafalme",
+          "1 Mambo ya Nyakati",
+          "Ezra"
+        ],
+        "correct": 1,
+        "explanation": "Ujenzi wa Hekalu la Sulemani umeelezwa katika 1 Wafalme 6-8."
+      },
+      {
+        "question": "Waisraeli walitangatanga jangwani kwa miaka mingapi?",
+        "options": [
+          "miaka 20",
+          "Miaka 30",
+          "miaka 40",
+          "Miaka 50"
+        ],
+        "correct": 2,
+        "explanation": "Waisraeli walitangatanga kwa miaka 40 nyikani kwa sababu ya kutoamini kwao (Hesabu 14:33)."
+      },
+      {
+        "question": "Ni mwamuzi gani katika Israeli aliyekuwa na nguvu zinazopita za kibinadamu zilizounganishwa na nywele zake?",
+        "options": [
+          "Gideoni",
+          "Yeftha",
+          "Samsoni",
+          "Debora"
+        ],
+        "correct": 2,
+        "explanation": "Samsoni alipata nguvu zake kutokana na nywele zake ambazo hazijakatwa (Waamuzi 13-16)."
+      },
+      {
+        "question": "Ni nabii gani aliyekabili manabii 450 wa Baali kwenye Mlima Karmeli?",
+        "options": [
+          "Elisha",
+          "Eliya",
+          "Isaya",
+          "Yeremia"
+        ],
+        "correct": 1,
+        "explanation": "Eliya alikabiliana na manabii wa Baali kwenye Mlima Karmeli (1 Wafalme 18)."
+      },
+      {
+        "question": "Waisraeli walizunguka jiji gani mara 7 kabla halijaanguka?",
+        "options": [
+          "Ai",
+          "Yeriko",
+          "Gibeoni",
+          "Hebron"
+        ],
+        "correct": 1,
+        "explanation": "Kuta za Yeriko zilianguka baada ya Waisraeli kuzizunguka mara 7 (Yoshua 6)."
+      },
+      {
+        "question": "Ni mwanamke gani ambaye si Mwisraeli alimwambia mama-mkwe wake, ‘Uendako mimi nitakwenda’?",
+        "options": [
+          "Orpa",
+          "Ruthu",
+          "Tamari",
+          "Rahabu"
+        ],
+        "correct": 1,
+        "explanation": "Ruthu alimwambia Naomi maneno haya (Ruthu 1:16)."
+      },
+      {
+        "question": "Ni kitabu gani cha Biblia kilicho na unabii wa ‘mifupa mikavu’ kuwa hai?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Ezekieli",
+          "Daniel"
+        ],
+        "correct": 2,
+        "explanation": "Maono ya bonde la mifupa mikavu yanapatikana katika Ezekieli 37."
+      },
+      {
+        "question": "Ni mfalme gani wa Babeli aliyepokea tafsiri ya maandishi ukutani?",
+        "options": [
+          "Nebukadreza",
+          "Belshaza",
+          "Koreshi",
+          "Dario"
+        ],
+        "correct": 1,
+        "explanation": "Danieli alifasiri maandishi ya ajabu wakati wa sikukuu ya Belshaza (Danieli 5)."
+      },
+      {
+        "question": "Ni kitabu gani cha Biblia ambacho ni shairi la upendo kabisa?",
+        "options": [
+          "Zaburi",
+          "Methali",
+          "Mhubiri",
+          "Wimbo wa Nyimbo"
+        ],
+        "correct": 3,
+        "explanation": "Wimbo Ulio Bora ni shairi la mapenzi linalohusishwa na Sulemani."
+      },
+      {
+        "question": "Ni mhusika gani aliyefasiri ndoto za Farao wa Misri?",
+        "options": [
+          "Musa",
+          "Joseph",
+          "Daniel",
+          "Ibrahimu"
+        ],
+        "correct": 1,
+        "explanation": "Yusufu alitafsiri ndoto za Farao kuhusu miaka 7 ya shibe na njaa (Mwanzo 41)."
+      },
+      {
+        "question": "Gideoni alitumia wanaume wangapi kuwashinda Wamidiani?",
+        "options": [
+          "100",
+          "300",
+          "600",
+          "1000"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alipunguza jeshi la Gideoni hadi watu 300 (Waamuzi 7:7)."
+      },
+      {
+        "question": "Ni mfalme gani wa Ashuru aliyefukuza makabila 10 ya Ufalme wa Kaskazini?",
+        "options": [
+          "Nebukadreza",
+          "Senakeribu",
+          "Shalmanesar V / Sargon II",
+          "Koreshi"
+        ],
+        "correct": 2,
+        "explanation": "Shalmanasar V na Sargon II waliwafukuza makabila ya kaskazini mwaka 722 KK. (2 Wafalme 17)."
+      },
+      {
+        "question": "Ni mwanamke gani aliyegeuzwa kuwa nguzo ya chumvi?",
+        "options": [
+          "Sarah",
+          "Mke wa Lutu",
+          "Rebeka",
+          "Lea"
+        ],
+        "correct": 1,
+        "explanation": "Mke wa Lutu aligeuka licha ya onyo hilo na akageuzwa kuwa nguzo ya chumvi (Mwanzo 19:26)."
+      },
+      {
+        "question": "Abrahamu alikuwa tayari kutoa dhabihu gani kwa amri ya Mungu?",
+        "options": [
+          "Mwanakondoo asiye na kasoro",
+          "Kundi lake lote",
+          "Mwanawe Isaka",
+          "Nyumba yake"
+        ],
+        "correct": 2,
+        "explanation": "Mungu alimwamuru Ibrahimu kumtoa mwanawe Isaka kama dhabihu kama mtihani wa imani (Mwanzo 22)."
+      },
+      {
+        "question": "Nabii yupi anaitwa jina la utani 'Nabii anayelia'?",
+        "options": [
+          "Isaya",
+          "Amosi",
+          "Yeremia",
+          "Habakuki"
+        ],
+        "correct": 2,
+        "explanation": "Yeremia anapewa jina la utani 'nabii anayelia' kwa sababu ya maombolezo mengi katika kitabu chake."
+      },
+      {
+        "question": "Ni kitabu gani kirefu zaidi cha kinabii katika Agano la Kale?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Ezekieli",
+          "Daniel"
+        ],
+        "correct": 1,
+        "explanation": "Kitabu cha Yeremia ndicho kitabu kirefu zaidi cha kinabii chenye sura 52."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli aliyejenga madhabahu kwa sanamu ili kuwapendeza wake zake wa kigeni?",
+        "options": [
+          "Ahabu",
+          "Daudi",
+          "Sulemani",
+          "Yeroboamu"
+        ],
+        "correct": 2,
+        "explanation": "Sulemani alijenga madhabahu kwa miungu ya kigeni ili kuwapendeza wake zake (1 Wafalme 11:4-8)."
+      },
+      {
+        "question": "Uhamisho wa Babeli ulitabiriwa na Yeremia kwa muda gani?",
+        "options": [
+          "miaka 40",
+          "Miaka 50",
+          "Umri wa miaka 70",
+          "Miaka 100"
+        ],
+        "correct": 2,
+        "explanation": "Yeremia alitabiri uhamisho wa miaka 70 huko Babeli (Yeremia 25:11-12)."
+      },
+      {
+        "question": "Ni nabii gani aliyepata maono ya 'gari la kimbingu' lenye viumbe hai na magurudumu?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Ezekieli",
+          "Daniel"
+        ],
+        "correct": 2,
+        "explanation": "Ezekieli alipata maono ya gari la mbinguni (merkabah) lenye viumbe hai na magurudumu (Ezekieli 1)."
+      },
+      {
+        "question": "Ni vitabu vingapi vya hekima katika Agano la Kale?",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "9"
+        ],
+        "correct": 1,
+        "explanation": "Vitabu 5 vya hekima ni: Ayubu, Zaburi, Mithali, Mhubiri na Wimbo Ulio Bora."
+      },
+      {
+        "question": "Ni nini kichwa kikuu cha kitabu cha Mhubiri?",
+        "options": [
+          "Uumbaji wa ulimwengu",
+          "Ubatili wa Vitu Vyote na Hekima ya Kumcha Mungu",
+          "Sala na ibada",
+          "Agano la Mungu na Israeli"
+        ],
+        "correct": 1,
+        "explanation": "Mhubiri anachunguza maana ya maisha na kuhitimisha kwamba yote ni ubatili isipokuwa kumcha Mungu (Mhubiri 12:13)."
+      },
+      {
+        "question": "Ni katika kitabu gani tunapata maono ya falme nne zinazowakilishwa na sanamu?",
+        "options": [
+          "Isaya",
+          "Ezekieli",
+          "Daniel",
+          "Zekaria"
+        ],
+        "correct": 2,
+        "explanation": "Danieli 2 inaeleza maono ya Nebukadneza ya sanamu yenye sehemu nne inayowakilisha himaya nne mfululizo."
+      },
+      {
+        "question": "Ni nabii gani aliyewaita Israeli warudi: ‘Nirudieni mimi nami nitawarudia ninyi’?",
+        "options": [
+          "Yoeli",
+          "Hagai",
+          "Zekaria",
+          "Malaki"
+        ],
+        "correct": 3,
+        "explanation": "Malaki 3:7: 'Nirudieni mimi, nami nitawarudia ninyi, asema BWANA wa majeshi.'"
+      },
+      {
+        "question": "Nini maana ya jina 'Betheli' alilopewa na Yakobo?",
+        "options": [
+          "nyumba ya amani",
+          "Nyumba ya Mungu",
+          "Nyumba ya Maombi",
+          "Nyumba ya Utukufu"
+        ],
+        "correct": 1,
+        "explanation": "Betheli ina maana ya 'Nyumba ya Mungu', jina alilopewa na Yakobo baada ya maono yake ya ngazi (Mwanzo 28:19)."
+      },
+      {
+        "question": "Ni kitabu gani cha Agano la Kale kilicho na zaburi kubwa zaidi yenye mistari 176?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Zaburi (Zaburi 119)",
+          "Methali"
+        ],
+        "correct": 2,
+        "explanation": "Zaburi ya 119 ndiyo sura ndefu zaidi katika Biblia nzima yenye mistari 176."
+      },
+      {
+        "question": "Ni kitabu gani kinachoeleza kuhusu kurudi kwa Wayahudi kutoka uhamishoni na kujengwa upya kwa kuta?",
+        "options": [
+          "Ezra",
+          "Nehemia",
+          "Hagai",
+          "Wote wawili: Ezra na Nehemia"
+        ],
+        "correct": 3,
+        "explanation": "Ezra anaelezea kujengwa upya kwa Hekalu na Nehemia kujengwa upya kwa kuta za Yerusalemu baada ya uhamisho."
+      },
+      {
+        "question": "Je, taaluma ya Amosi ilikuwa nini kabla ya kuwa nabii?",
+        "options": [
+          "Kuhani",
+          "Mchungaji na mkulima wa mikuyu",
+          "Mwandishi",
+          "Askari"
+        ],
+        "correct": 1,
+        "explanation": "Amosi alikuwa mchungaji na mkulima wa mikuyu huko Tekoa ( Amosi 1:1, 7:14 )."
+      },
+      {
+        "question": "Je, nafasi ya Kuhani Mkuu kwenye Yom Kippur ni ipi?",
+        "options": [
+          "Kusoma Taurati hadharani",
+          "Kuingia Patakatifu pa Patakatifu ili kunyunyizia damu ya upatanisho",
+          "Wagawie maskini chakula",
+          "Taji mfalme"
+        ],
+        "correct": 1,
+        "explanation": "Kuhani Mkuu aliingia Patakatifu pa Patakatifu mara moja kwa mwaka Yom Kippur (Mambo ya Walawi 16)."
+      },
+      {
+        "question": "Ni kitabu gani kinachoeleza vita vya ushindi wa Kanaani chini ya Yoshua?",
+        "options": [
+          "Nambari",
+          "Kumbukumbu la Torati",
+          "Yoshua",
+          "Waamuzi"
+        ],
+        "correct": 2,
+        "explanation": "Kitabu cha Yoshua kinaeleza kutekwa kwa Nchi ya Ahadi na Waisraeli."
+      },
+      {
+        "question": "Ni kitabu gani cha Agano la Kale kilichotajwa sana katika Agano Jipya?",
+        "options": [
+          "Mwanzo",
+          "Zaburi",
+          "Isaya",
+          "Kumbukumbu la Torati"
+        ],
+        "correct": 1,
+        "explanation": "Kitabu cha Zaburi ndicho kilichotajwa sana katika Agano Jipya, kikifuatiwa kwa karibu na Isaya na Kumbukumbu la Torati."
+      },
+      {
+        "question": "Nini maana ya 'Shema Israeli' katika Kumbukumbu la Torati 6:4?",
+        "options": [
+          "'Bwana asifiwe'",
+          "Sikia, Ee Israeli, BWANA ndiye Mungu wetu, BWANA ndiye mmoja.",
+          "‘Iweni watakatifu kwa kuwa mimi ni mtakatifu’",
+          "'Mpende jirani yako kama nafsi yako'"
+        ],
+        "correct": 1,
+        "explanation": "Shema (Kumbukumbu la Torati 6:4) ni fundisho la msingi la imani ya Uyahudi."
+      },
+      {
+        "question": "Ni manabii wangapi wadogo wanaounda 'Kitabu cha wale Kumi na Wawili'?",
+        "options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "correct": 1,
+        "explanation": "'Kitabu cha wale kumi na wawili' kinajumuisha manabii wadogo 12 kutoka Hosea hadi Malaki."
+      },
+      {
+        "question": "Nini maana ya neno 'tohu wa-bohu' katika Mwanzo 1:2?",
+        "options": [
+          "Machafuko ya awali hayana fomu na tupu",
+          "Giza la usiku",
+          "Upuuzi mtupu",
+          "Mafuriko ya ulimwengu wote"
+        ],
+        "correct": 0,
+        "explanation": "'Tohu wa-bohu' inarejelea machafuko yasiyo na umbo, matupu yaliyotangulia uumbaji wenye utaratibu (Mwanzo 1:2)."
+      },
+      {
+        "question": "Ni neno gani la Kiebrania linaloelezea 'uwepo wa kung'aa wa Mungu' ambao uliishi Hekaluni?",
+        "options": [
+          "Kavod (utukufu)",
+          "Shekinah (uwepo wa wenyeji)",
+          "Ruah (roho)",
+          "Inatoa (ukweli)"
+        ],
+        "correct": 1,
+        "explanation": "'Shekinah' ni neno la marabi kwa ajili ya uwepo wa Mungu ndani, unaohusishwa na wingu la utukufu (Kutoka 40:34-38)."
+      },
+      {
+        "question": "Je, ni nini maana ya 'kutahiriwa kwa moyo' katika Kumbukumbu la Torati 30:6?",
+        "options": [
+          "Operesheni ya kimwili ya mfano",
+          "Mabadiliko ya ndani ya utiifu kutoka nje kwenda moyoni",
+          "Ibada ya kubalehe kiroho",
+          "Kuacha dhambi ya ngono"
+        ],
+        "correct": 1,
+        "explanation": "'Tohara ya moyo' inawakilisha utii wa ndani na upendo kwa Mungu, kinyume na utunzaji wa nje tu."
+      },
+      {
+        "question": "Je! ni jukumu gani la 'mbuzi wa Azazeli' (Azazeli) katika Mambo ya Walawi 16?",
+        "options": [
+          "Sadaka kwa ajili ya dhambi za watu",
+          "Uhamisho wa mfano wa dhambi za watu juu ya mbuzi aliyewindwa jangwani",
+          "Sadaka kwa ajili ya makuhani peke yao",
+          "Ibada ya utakaso wa Hekalu"
+        ],
+        "correct": 1,
+        "explanation": "Kuhani Mkuu aliungama dhambi za Israeli juu ya mbuzi, kisha mbuzi alipelekwa nyikani kwa ajili ya 'Azazeli' (Mambo ya Walawi 16:21-22)."
+      },
+      {
+        "question": "Ni nini maana ya neno la Kiebrania 'hesed' ambalo mara nyingi hutafsiriwa 'upendo wa uaminifu'?",
+        "options": [
+          "mapenzi ya kimapenzi",
+          "Upendo mwaminifu katika agano, unaounganisha upendo, uaminifu na rehema",
+          "hasira ya kimungu",
+          "utakatifu wa kimungu"
+        ],
+        "correct": 1,
+        "explanation": "'Hesed' (חֶסֶד) ni neno tajiri kwa ajili ya upendo mwaminifu wa agano - tabia ya kimsingi ya Mungu katika Kutoka 34:6-7."
+      },
+      {
+        "question": "Ni nabii gani alilinganisha Mungu na mfinyanzi na Israeli na udongo?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Ezekieli",
+          "Zekaria"
+        ],
+        "correct": 1,
+        "explanation": "Yeremia alipata maono ya mfinyanzi na udongo ili kuonyesha enzi kuu ya Mungu (Yeremia 18:1-6)."
+      },
+      {
+        "question": "Je, kuna umuhimu gani wa ahadi ya Mungu kwa Ibrahimu katika Mwanzo 12:3?",
+        "options": [
+          "Ahadi yenye mipaka kwa Israeli pekee",
+          "'Jamaa zote za dunia zitabarikiwa ndani yako' - wigo wa ulimwengu wote",
+          "Agano la masharti linalotokana na utiifu pekee",
+          "Ahadi ya eneo pekee"
+        ],
+        "correct": 1,
+        "explanation": "Mwanzo 12:3 ina ahadi ya kwanza ya baraka za ulimwengu wote - 'jamaa zote za dunia zitabarikiwa ndani yako'."
+      },
+      {
+        "question": "Ni nini maudhui ya ahadi ya kimasiya katika 2 Samweli 7 aliyopewa Daudi?",
+        "options": [
+          "Daudi hatakufa",
+          "Mzao wa Daudi atatawala milele",
+          "Hekalu litajengwa na Daudi mwenyewe",
+          "Israeli haitavamiwa tena"
+        ],
+        "correct": 1,
+        "explanation": "2 Samweli 7:12-16: Mungu anamwahidi Daudi mzao ambaye 'kiti cha ufalme wake kitafanywa imara milele.'"
+      },
+      {
+        "question": "Nini maana ya 'Siku ya Bwana' (Yom Yahveh) katika manabii?",
+        "options": [
+          "Siku ya sherehe ya kila mwaka",
+          "Siku ya Mungu kuingilia kati hukumu na wokovu eskatological",
+          "Sabato ya kila juma",
+          "Sikukuu ya Baragumu"
+        ],
+        "correct": 1,
+        "explanation": "'Siku ya Bwana' ni dhana ya kinabii ya uingiliaji kati wa Mungu ili kuhukumu mataifa na kuwakomboa Israeli (Amosi 5:18-20; Yoeli 2:31)."
+      }
+    ],
+    "expert": [
+      {
+        "question": "Ni nini maana ya Kiebrania ya jina 'Yahweh'?",
+        "options": [
+          "mungu mwenye nguvu",
+          "Mimi ndiye niliye",
+          "Bwana wa majeshi",
+          "Mungu wa milele"
+        ],
+        "correct": 1,
+        "explanation": "Yehova anatokana na kitenzi cha Kiebrania 'kuwa' na maana yake ni 'Mimi ndiye niliye' (Kutoka 3:14)."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli aliyemwoa Yezebeli, na kuwaongoza Waisraeli kwenye ibada ya sanamu?",
+        "options": [
+          "Yeroboamu",
+          "Ahabu",
+          "Omri",
+          "Zimri"
+        ],
+        "correct": 1,
+        "explanation": "Mfalme Ahabu alimwoa Yezebeli, binti wa mfalme wa Sidoni, akiongoza Israeli katika ibada ya Baali (1 Wafalme 16:31)."
+      },
+      {
+        "question": "Kulingana na Ezekieli, viumbe hai katika maono yake walikuwa na nyuso ngapi?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ],
+        "correct": 2,
+        "explanation": "Viumbe hai katika maono ya Ezekieli walikuwa na nyuso 4: mwanadamu, simba, ng'ombe na tai (Ezekieli 1:10)."
+      },
+      {
+        "question": "Unabii wa 'majuma 70' unapatikana katika kitabu gani?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Daniel",
+          "Zekaria"
+        ],
+        "correct": 2,
+        "explanation": "Unabii wa majuma 70 unapatikana katika Danieli 9:24-27."
+      },
+      {
+        "question": "Jina la Kiebrania la kitabu cha Kutoka ni nini?",
+        "options": [
+          "Bereshit",
+          "Shemot",
+          "Vayikra",
+          "Bamidbar"
+        ],
+        "correct": 1,
+        "explanation": "Kitabu cha Kutoka kinaitwa 'Shemoti' (majina) kwa Kiebrania, baada ya maneno yake ya ufunguzi."
+      },
+      {
+        "question": "Ni kabila gani la Israeli ambalo halikupokea eneo Kanaani ilipogawanywa?",
+        "options": [
+          "Ruben",
+          "Simeoni",
+          "Lawi",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "Kabila la Lawi halikupewa eneo kwa sababu lilijitolea kutumikia Hekalu (Hesabu 18:20)."
+      },
+      {
+        "question": "Ni nabii gani aliyeamriwa na Mungu kuoa kahaba kama ishara ya kinabii?",
+        "options": [
+          "Amosi",
+          "Hosea",
+          "Yoeli",
+          "Mika"
+        ],
+        "correct": 1,
+        "explanation": "Hosea alimwoa Gomeri kwa amri ya Mungu kama ishara ya ukosefu wa uaminifu wa Israeli kwa Mungu (Hosea 1:2)."
+      },
+      {
+        "question": "Je, Sulemani alichukua miaka mingapi kujenga Hekalu huko Yerusalemu?",
+        "options": [
+          "miaka 5",
+          "miaka 7",
+          "miaka 10",
+          "Umri wa miaka 14"
+        ],
+        "correct": 1,
+        "explanation": "Sulemani alichukua miaka 7 kujenga Hekalu (1 Wafalme 6:38)."
+      },
+      {
+        "question": "Ni nabii gani alitabiri kuzaliwa kwa mtoto anayeitwa 'Emanuel'?",
+        "options": [
+          "Mika",
+          "Isaya",
+          "Yeremia",
+          "Zekaria"
+        ],
+        "correct": 1,
+        "explanation": "Isaya alitabiri kuzaliwa kwa Imanueli katika Isaya 7:14."
+      },
+      {
+        "question": "Katika kitabu cha Ayubu, Ayubu alikuwa na wana na binti wangapi hapo mwanzo?",
+        "options": [
+          "Wana 7 na binti 3",
+          "3 wana na 7 binti",
+          "Wana 7 na binti 7",
+          "Wana 10 na binti 3"
+        ],
+        "correct": 0,
+        "explanation": "Ayubu alikuwa na wana 7 na binti 3 mwanzoni mwa kitabu (Ayubu 1:2)."
+      },
+      {
+        "question": "Nini maana ya jina 'Israeli' alilopewa Yakobo baada ya mapambano yake?",
+        "options": [
+          "Mtumishi wa Mungu",
+          "Yule aliyeshindana na Mungu",
+          "Aliyechaguliwa na Mungu",
+          "Mfalme wa Amani"
+        ],
+        "correct": 1,
+        "explanation": "Israeli maana yake ni 'mtu aliyeshindana mweleka na Mungu', jina lililopewa baada ya pambano la Yakobo (Mwanzo 32:28)."
+      },
+      {
+        "question": "Ni mfalme gani aliyeleta ndama za dhahabu Betheli na Dani?",
+        "options": [
+          "Sulemani",
+          "Rehoboamu",
+          "Yeroboamu I",
+          "Ahabu"
+        ],
+        "correct": 2,
+        "explanation": "Yeroboamu nilisimamisha ndama wawili wa dhahabu huko Betheli na Dani (1 Wafalme 12:28-29)."
+      },
+      {
+        "question": "Ni kitabu gani kilicho na ahadi ya ‘agano jipya’?",
+        "options": [
+          "Isaya 54",
+          "Yeremia 31",
+          "Ezekieli 36",
+          "Zekaria 9"
+        ],
+        "correct": 1,
+        "explanation": "Ahadi ya agano jipya inapatikana katika Yeremia 31:31-34."
+      },
+      {
+        "question": "Ni neno gani la Kiebrania la 'takatifu' linalorudiwa mara tatu katika ono la Isaya 6?",
+        "options": [
+          "Shalom",
+          "Kadosh",
+          "Chesed",
+          "Emeth"
+        ],
+        "correct": 1,
+        "explanation": "'Kadoshi' imerudiwa mara tatu ('Mtakatifu, Mtakatifu, Mtakatifu') katika maono ya Isaya 6:3, 'Utatu'."
+      },
+      {
+        "question": "Ni hati ipi ya kisheria ya Mashariki ya Kati iliyo karibu kimuundo na muungano wa Sinai?",
+        "options": [
+          "Kanuni ya Hammurabi",
+          "Mikataba ya bwana wa Wahiti",
+          "Vitabu vya Waashuru",
+          "Maandishi ya Ugarit"
+        ],
+        "correct": 1,
+        "explanation": "Mikataba ya Suzerainty ya Wahiti (karne ya 14-13 KK) ina muundo sawa na muungano wa Sinai."
+      },
+      {
+        "question": "Ni nini maudhui kuu ya kitheolojia ya kitabu cha Ayubu?",
+        "options": [
+          "Malipo ya watu wema",
+          "Suala la kuteseka kwa wenye haki na ukuu wa Mungu katika uso wa nadharia sahili",
+          "Kuwepo kwa Shetani",
+          "Maombi ya maombezi"
+        ],
+        "correct": 1,
+        "explanation": "Ayubu anapinga theolojia ya kulipiza kisasi na analeta swali la mateso yasiyo na hatia mbele ya ukuu kamili wa Mungu."
+      },
+      {
+        "question": "Ni andiko gani la Kutoka linaloelezea ufunuo wa kimungu kuwa 'Mungu mwenye rehema na huruma'?",
+        "options": [
+          "Kutoka 3:14",
+          "Kutoka 20:1-17",
+          "Kutoka 34:6-7",
+          "Kutoka 19:5-6"
+        ],
+        "correct": 2,
+        "explanation": "Kutoka 34:6-7: 'BWANA Mungu, mwingi wa rehema na neema, si mwepesi wa hasira, mwingi wa rehema na uaminifu...' — 'sifa 13 za kimungu'."
+      },
+      {
+        "question": "Ni kielelezo gani cha Agano la Kale kinachochanganya ufalme NA ukuhani, kinaonyesha Kristo?",
+        "options": [
+          "Ibrahimu",
+          "Musa",
+          "Melkizedeki",
+          "Daudi"
+        ],
+        "correct": 2,
+        "explanation": "Melkizedeki, mfalme wa Salemu NA kuhani wa Mungu Aliye Juu Zaidi (Mwanzo 14:18), ndiye mtu pekee anayechanganya ufalme na ukuhani."
+      },
+      {
+        "question": "Ni nini dhana ya 'baki mwaminifu' (she'ar) katika teolojia ya kinabii?",
+        "options": [
+          "Israeli wote waliokolewa kwa neema",
+          "Kikundi kidogo cha waamini kilichosalia baada ya hukumu, wakibeba ahadi",
+          "Makabila 10 yaliyopotea",
+          "Wayahudi walirudi kutoka Babeli"
+        ],
+        "correct": 1,
+        "explanation": "'Mabaki' (she'ar) hutaja kundi la waaminifu ambao wameokoka hukumu ya Mungu na kubaki wabebaji wa ahadi za wokovu - kuu katika Isaya (10:20-22)."
+      },
+      {
+        "question": "Je, ni jambo gani la kimaandishi linalotofautisha akaunti mbili za uumbaji katika Mwanzo 1 na Mwanzo 2?",
+        "options": [
+          "Lugha mbili tofauti",
+          "Matumizi ya majina tofauti ya kiungu: Elohim (sura ya 1) na YHWH-Elohim (sura ya 2)",
+          "Waandishi tofauti walitambuliwa wazi",
+          "Tarehe za kuandika zinatofautiana kwa miaka 500"
+        ],
+        "correct": 1,
+        "explanation": "Mwanzo 1 inatumia 'Elohim' pekee, wakati Mwanzo 2 inatumia 'YHWH-Elohim'. Tofauti hii iko katika kiini cha nadharia ya hali halisi (J, E, D, P)."
+      },
+      {
+        "question": "Je, ni muundo gani wa Mwanzo uliopangwa kuzunguka neno 'toledot' (vizazi)?",
+        "options": [
+          "Sehemu 10 zilizoletwa na 'hapa ni vizazi vya...'",
+          "Siku 7 za uumbaji + 7 mababu",
+          "Vitabu 5 kama vile Pentateuch",
+          "Sehemu 12 zinazolingana na makabila 12"
+        ],
+        "correct": 0,
+        "explanation": "Kitabu cha Mwanzo kimeundwa karibu na matukio 10 ya 'hivi ni vizazi vya...' (toledot), na kutengeneza sehemu 10 za masimulizi."
+      },
+      {
+        "question": "Ni unabii gani wa Danieli unaosema juu ya ‘Mwana wa Adamu’ kupokea ufalme wa milele?",
+        "options": [
+          "Maono ya wale wanyama 4 na Mwana wa Adamu akija juu ya mawingu",
+          "Maono ya sanamu 4 ya chuma",
+          "Maono ya kondoo mume na mbuzi",
+          "Maono ya wiki 70"
+        ],
+        "correct": 0,
+        "explanation": "Danieli 7:13-14 inaeleza 'Mwana wa Adamu' akija juu ya mawingu na kupokea mamlaka, utukufu na ufalme kutoka kwa Mzee wa Siku."
+      },
+      {
+        "question": "Katika mapokeo ya Kumbukumbu la Torati, ni kigezo gani cha kitheolojia cha kuwahukumu wafalme wa Israeli?",
+        "options": [
+          "Ushindi wao wa kijeshi",
+          "Uaminifu wao kwa agano na ibada kuu katika Yerusalemu",
+          "Ustawi wa kiuchumi wa ufalme",
+          "Utiifu wao kwa manabii"
+        ],
+        "correct": 1,
+        "explanation": "Historia ya Kumbukumbu la Torati inawatathmini wafalme kulingana na uaminifu wao kwa agano, haswa ujumuishaji wa ibada katika Yerusalemu na kukataliwa kwa sanamu."
+      },
+      {
+        "question": "Ni dhana gani ya Agano la Kale inasema kwamba Mungu ni tofauti kabisa na tofauti na uumbaji?",
+        "options": [
+          "Immanence ya kimungu",
+          "Upitaji wa Mungu (Kadosh: utengano mkali)",
+          "Upantheism wa Kiebrania",
+          "Kutokea kwa kimungu"
+        ],
+        "correct": 1,
+        "explanation": "'qedushâh' (utakatifu) wa Mungu unaashiria kuvuka kwake kabisa - yeye ni 'mwingine' kabisa kuliko uumbaji (Isaya 6:3; Hosea 11:9)."
+      },
+      {
+        "question": "Nini maana ya imago Dei (mfano wa Mungu) katika Mwanzo 1:26-27?",
+        "options": [
+          "Kufanana kimwili na Mungu",
+          "Mwanadamu anayefanana na Mungu: uhusiano, sababu, ubunifu na wito wa kifalme juu ya uumbaji",
+          "Kutokufa kwa roho tu",
+          "Sitiari ya kishairi isiyo na umuhimu wa kiontolojia"
+        ],
+        "correct": 1,
+        "explanation": "Imago Dei inataja: (1) makamu - mwanadamu kama mwakilishi wa Mungu juu ya uumbaji; (2) uwezo wa kuwa na uhusiano na Mungu; (3) tofauti ya kijinsia kama onyesho la ushirika wa ndani ya kimungu."
+      },
+      {
+        "question": "Je! ni neno gani la kitheolojia la 'uumbaji kutoka kwa kitu chochote' katika theolojia ya Kiyahudi-Kikristo?",
+        "options": [
+          "Creatio ex nyenzo",
+          "Creatio ex nihilo",
+          "Emanatio divina",
+          "Demiurgia"
+        ],
+        "correct": 1,
+        "explanation": "'Creatio ex nihilo' ni fundisho kwamba Mungu aliumba ulimwengu bila vitu vilivyokuwepo awali - lililokuzwa katika theolojia ya Patristi kutoka 2 Wamakabayo 7:28."
+      },
+      {
+        "question": "Je! ni hali gani ya kisheria ya vitabu vya deuterokanoniki kulingana na mila tofauti za Kikristo?",
+        "options": [
+          "Canonical katika mila zote",
+          "Canonical kwa Wakatoliki/Orthodox, apokrifa kwa Waprotestanti",
+          "Imekataliwa na mila zote",
+          "Imekubaliwa kama maoni pekee"
+        ],
+        "correct": 1,
+        "explanation": "Kumbukumbu za Torati zimejumuishwa katika Biblia za Kikatoliki na Kiorthodoksi tangu Mtaguso wa Trent (1546), lakini hazikujumuishwa katika orodha ya Kiprotestanti inayofuata orodha ya Wayahudi wa Kiebrania."
+      },
+      {
+        "question": "Ni nini umuhimu wa kitheolojia wa neno la Kiebrania 'hesed' katika Kutoka 34:6-7?",
+        "options": [
+          "mapenzi ya kimapenzi",
+          "Upendo mwaminifu wa agano, unaochanganya uaminifu, wema na rehema",
+          "hasira ya kimungu",
+          "utakatifu wa kimungu"
+        ],
+        "correct": 1,
+        "explanation": "'Chesed' ni haki ya kimahusiano: Mungu 'anapotenda haki', Yeye ni mwaminifu kwa ahadi Zake za agano—haki na wokovu ni karibu visawe katika Isaya 40-55."
+      },
+      {
+        "question": "Je! ni nini umuhimu wa 'Patakatifu pa Patakatifu' katika Hema na Hekalu?",
+        "options": [
+          "Ukumbi kuu wa Hekalu",
+          "Mahali patakatifu sana ambapo Sanduku lilipumzika na ambapo Kuhani Mkuu pekee ndiye angeweza kuingia mara moja kwa mwaka",
+          "Esplanade ya nje",
+          "Chumba cha watunza hazina"
+        ],
+        "correct": 1,
+        "explanation": "'Patakatifu pa Patakatifu' ilitenganishwa na pazia, ambapo Sanduku lilipumzika. Kuhani Mkuu pekee ndiye angeweza kuingia, mara moja kwa mwaka, siku ya Yom Kippur (Mambo ya Walawi 16)."
+      },
+      {
+        "question": "Je! ni nini umuhimu wa kihemenetiki wa usomaji wa mfano wa Agano la Kale?",
+        "options": [
+          "Istiari safi ikichukua nafasi ya maana halisi",
+          "Kusoma matukio ya Agano la Kale, watu na taasisi kama 'aina' zinazoonyesha utimilifu wao katika Agano Jipya",
+          "Nukuu rahisi ya kinabii",
+          "Kukataliwa kwa maana ya kihistoria ya Agano la Kale"
+        ],
+        "correct": 1,
+        "explanation": "Mfano huona katika watu (Adamu, Musa), matukio (Kutoka, mana) na taasisi (Hekalu, dhabihu) za mifano halisi ya Agano la Kale ya utimilifu wao katika Kristo."
+      },
+      {
+        "question": "Je, muundo mkuu wa kishairi wa Zaburi ni upi na sifa yake bainifu?",
+        "options": [
+          "Wimbo wa sauti kama kwa Kifaransa",
+          "Usambamba (sawa, pingamizi, sintetiki) - maana hujibu kutoka kwa aya moja hadi nyingine.",
+          "Sitiari peke yake",
+          "Simulizi ya mpangilio"
+        ],
+        "correct": 1,
+        "explanation": "Ushairi wa Kiebrania unatumia usambamba: (1) kisawe ( ubeti wa 2 unarudia wa 1); (2) antithetical (tofauti); (3) synthetic (inakamilisha na kupanuka) - kipengele ambacho kinasalia na tafsiri."
+      },
+      {
+        "question": "Nini maana ya eskatolojia ya Sabato kulingana na Waebrania 4:9-11?",
+        "options": [
+          "Pumziko rahisi la kila wiki la mwili",
+          "Sabato ni mwonjo wa eskatolojia wa pumziko la milele katika Kristo - 'imesalia raha ya Sabato kwa watu wa Mungu'",
+          "Sheria ya usafi kabisa",
+          "Amri ya kisheria isiyo na umuhimu wa kiishara"
+        ],
+        "correct": 1,
+        "explanation": "Waebrania 4:9-11: Sabato inaelekeza kwenye 'pumziko' la mwisho la eskatolojia katika Kristo-kuacha mtu kutoka kwa kazi zake mwenyewe ili kuingia katika pumziko la Mungu."
+      },
+      {
+        "question": "Nini maana ya ibada ya 'mbuzi wa Azazeli' (Azazeli) katika Mambo ya Walawi 16?",
+        "options": [
+          "Sadaka kwa ajili ya dhambi za watu",
+          "Uhamisho wa mfano wa dhambi za watu juu ya mbuzi aliyewindwa jangwani",
+          "Sadaka kwa ajili ya makuhani peke yao",
+          "Ibada ya utakaso wa Hekalu"
+        ],
+        "correct": 1,
+        "explanation": "Kuhani Mkuu aliungama dhambi za Israeli juu ya mbuzi, kisha mbuzi alichukuliwa jangwani akiashiria uhamisho wa dhambi (Mambo ya Walawi 16:21-22)."
+      },
+      {
+        "question": "Ni nini maana ya neno la Kiebrania 'dabar' linalotumiwa kwa 'Neno la Mungu' katika maandiko ya kinabii?",
+        "options": [
+          "Mawasiliano rahisi ya maneno",
+          "Neno/tukio la uwezo wa ubunifu na ufanisi, kufikia kile kinachosema",
+          "Amri bila nguvu mwenyewe",
+          "Fumbo la kishairi la mungu"
+        ],
+        "correct": 1,
+        "explanation": "'Dabar' (דָּבָר) inamaanisha neno NA tukio/tendo - Neno la Mungu huleta kile linachosema (Isaya 55:11: 'halitanirudia bure')."
+      },
+      {
+        "question": "Nini maana ya 'baraka ya Haruni' katika Hesabu 6:24-26?",
+        "options": [
+          "'Bwana akubariki na kukulinda'",
+          "'Uwe hodari na shujaa'",
+          "'Bwana ndiye mchungaji wako'",
+          "'Mimi ndimi Bwana Mungu wako'"
+        ],
+        "correct": 0,
+        "explanation": "Baraka ya Haruni inaanza na 'Bwana akubariki na kukulinda' (Hesabu 6:24) - kanuni ya utatu ya ukuhani inayochanganya baraka, neema na amani."
+      }
+    ]
+  }
+}

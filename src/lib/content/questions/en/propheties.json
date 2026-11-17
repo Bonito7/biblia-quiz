@@ -1,0 +1,516 @@
+{
+  "propheties": {
+    "debutant": [
+      {
+        "question": "Which prophet announced the birth of the Messiah in Bethlehem?",
+        "options": [
+          "Isaiah",
+          "Micah",
+          "Jeremiah",
+          "Zechariah"
+        ],
+        "correct": 1,
+        "explanation": "Micah 5:2: 'And you, Bethlehem Ephrathah... out of you will come one who will rule over Israel.'"
+      },
+      {
+        "question": "Which prophecy of Isaiah speaks of a virgin giving birth?",
+        "options": [
+          "Isaiah 9:6",
+          "Isaiah 7:14",
+          "Isaiah 53:5",
+          "Isaiah 40:3"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 7:14: 'Behold, the virgin will be with child and will bear a son, and they will call his name Immanuel.'"
+      },
+      {
+        "question": "Which prophet announced a 'new heart' for the people?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Joel"
+        ],
+        "correct": 2,
+        "explanation": "Ezekiel 36:26: 'I will give you a new heart, and put a new spirit within you.'"
+      },
+      {
+        "question": "Who prophesied that dry bones would live again?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Daniel"
+        ],
+        "correct": 2,
+        "explanation": "Ezekiel had a vision of the valley of dry bones coming to life (Ezekiel 37)."
+      },
+      {
+        "question": "What prophecy announces 'a voice crying in the wilderness'?",
+        "options": [
+          "Micah 5:2",
+          "Isaiah 40:3",
+          "Malachi 3:1",
+          "Zechariah 9:9"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 40:3 is cited in the 4 gospels to designate John the Baptist preparing the way."
+      },
+      {
+        "question": "What prophecy foreshadows the king entering Jerusalem on a donkey?",
+        "options": [
+          "Isaiah 9:6",
+          "Zechariah 9:9",
+          "Micah 5:2",
+          "Malachi 4:5"
+        ],
+        "correct": 1,
+        "explanation": "Zechariah 9:9 is cited during Jesus' triumphal entry into Jerusalem (Matthew 21:5)."
+      },
+      {
+        "question": "Which prophet spoke of 'sufferings of the Servant' pierced for our sins?",
+        "options": [
+          "Jeremiah",
+          "Ezekiel",
+          "Isaiah",
+          "Zechariah"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah 53 describes the Suffering Servant 'wounded for our sins, bruised for our iniquities'."
+      },
+      {
+        "question": "Who prophesied the outpouring of the Spirit upon all flesh?",
+        "options": [
+          "Amos",
+          "Joel",
+          "Nahum",
+          "Obadiah"
+        ],
+        "correct": 1,
+        "explanation": "Joel 2:28: 'After this I will pour out my Spirit on all flesh.' Peter cites this prophecy at Pentecost (Acts 2:17)."
+      },
+      {
+        "question": "Which prophet announced the new covenant written in the heart?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Hosea"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah 31:31-34: 'Behold, the days are coming...that I will make a new covenant with Israel.'"
+      },
+      {
+        "question": "Which prophet predicted the return of Elijah before the great day of the Lord?",
+        "options": [
+          "Zechariah",
+          "Haggai",
+          "Malachi",
+          "Habakkuk"
+        ],
+        "correct": 2,
+        "explanation": "Malachi 4:5: 'Behold, I will send you Elijah the prophet before the day of the LORD comes.'"
+      },
+      {
+        "question": "How many major prophets are in the Old Testament?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correct": 1,
+        "explanation": "The 4 major prophets are: Isaiah, Jeremiah, Ezekiel and Daniel."
+      },
+      {
+        "question": "What prophecy speaks of the Messiah being sold for 30 pieces of silver?",
+        "options": [
+          "Isaiah 53",
+          "Zechariah 11:12-13",
+          "Micah 5:2",
+          "Daniel 9:25"
+        ],
+        "correct": 1,
+        "explanation": "Zechariah 11:12-13 predicts the 30 pieces of silver—the price of Judas' betrayal (Matthew 27:9)."
+      },
+      {
+        "question": "Who prophesied that the Messiah would be called from Egypt?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Hosea",
+          "Amos"
+        ],
+        "correct": 2,
+        "explanation": "Hosea 11:1: 'Out of Egypt I have called my son' — fulfilled during Jesus' flight into Egypt (Matthew 2:15)."
+      },
+      {
+        "question": "What prophecy did Daniel interpret for Nebuchadnezzar regarding 4 kingdoms?",
+        "options": [
+          "The vision of the valley",
+          "The vision of the statue of the 4 metals",
+          "The vision of the 4 beasts",
+          "The 70 week vision"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 2: the statue with a head of gold, chest of silver, belly of bronze and feet of clay represents 4 empires."
+      },
+      {
+        "question": "What prophet foretold that nations would march to Zion to learn the law?",
+        "options": [
+          "Amos",
+          "Isaiah",
+          "Nahum",
+          "Zephaniah"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 2:2-4 / Micah 4:1-3: The nations shall go up to the mountain of the LORD to learn his ways."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "How long was the Babylonian exile prophesied by Jeremiah?",
+        "options": [
+          "40 years",
+          "50 years",
+          "70 years old",
+          "100 years"
+        ],
+        "correct": 2,
+        "explanation": "Jeremiah 25:11-12 and 29:10: the exile would last 70 years before the return."
+      },
+      {
+        "question": "What does the 'cornerstone' represent in Isaiah 28:16?",
+        "options": [
+          "Solomon's Temple",
+          "The Rock of Sinai",
+          "A precious foundation laid by God symbolizing the Messiah",
+          "The Law of Moses"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah 28:16: 'I lay in Zion a stone, a proven stone, a cornerstone, precious' — cited by Peter (1 Peter 2:6) for Christ."
+      },
+      {
+        "question": "Which prophecy of Micah also announces the context of the messianic birth?",
+        "options": [
+          "Micah 4:1",
+          "Micah 5:2",
+          "Micah 6:8",
+          "Micah 7:18"
+        ],
+        "correct": 1,
+        "explanation": "Micah 5:2: 'And you, Bethlehem Ephrathah... out of you will come for me one who is to rule over Israel, whose origin is from ancient times.'"
+      },
+      {
+        "question": "What does the '70 weeks' prophecy describe in Daniel 9?",
+        "options": [
+          "The flood",
+          "The period leading to the coming of the Messiah and the end of the Temple",
+          "Babylonian exile only",
+          "The construction of the Temple"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 9:24-27: The 70 weeks of years cover the period up to the Messiah-Prince and the destruction of the Temple."
+      },
+      {
+        "question": "Which prophecy of Isaiah describes the reign of messianic peace with the wolf and the lamb?",
+        "options": [
+          "Isaiah 7:14",
+          "Isaiah 9:6",
+          "Isaiah 11:6-9",
+          "Isaiah 53:5"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah 11:6-9: 'The wolf will dwell with the lamb...for the earth will be filled with the knowledge of the LORD.'"
+      },
+      {
+        "question": "In Isaiah 9:6, what is one of the messianic names that means 'Everlasting Father'?",
+        "options": [
+          "Admirable Advisor",
+          "mighty God",
+          "Eternal Father",
+          "Prince of Peace"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah 9:6 lists 4 names: Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace."
+      },
+      {
+        "question": "What prophecy of Zechariah says that they will look upon him whom they have pierced?",
+        "options": [
+          "Zechariah 9:9",
+          "Zechariah 11:12",
+          "Zechariah 12:10",
+          "Zechariah 14:4"
+        ],
+        "correct": 2,
+        "explanation": "Zechariah 12:10: 'They will look upon me whom they have pierced' — cited in John 19:37."
+      },
+      {
+        "question": "Which prophet used his own married life as a living prophecy?",
+        "options": [
+          "Amos",
+          "Hosea",
+          "Joel",
+          "Obadiah"
+        ],
+        "correct": 1,
+        "explanation": "Hosea married Gomer, an unfaithful woman, to symbolize Israel's unfaithfulness and God's faithful love."
+      },
+      {
+        "question": "What did Ezekiel 37 prophesy with the vision of the bones?",
+        "options": [
+          "Individual resurrection",
+          "The national restoration of Israel",
+          "The final judgment",
+          "The creation of a new alliance"
+        ],
+        "correct": 1,
+        "explanation": "Ezekiel 37 is a metaphor for the national and spiritual restoration of scattered Israel."
+      },
+      {
+        "question": "In which prophecy is the Messiah called 'Branch of David'?",
+        "options": [
+          "Isaiah 11:1",
+          "Jeremiah 23:5",
+          "Zechariah 3:8",
+          "The three"
+        ],
+        "correct": 3,
+        "explanation": "The Davidic 'Branch' or 'Branch' appears in Isaiah (11:1), Jeremiah (23:5; 33:15), Zechariah (3:8; 6:12)."
+      },
+      {
+        "question": "What does the prophecy of 'the day of the Lord' in Amos 5:18 mean?",
+        "options": [
+          "A day of celebration",
+          "A warning: it will be a day of darkness, no light for those who seek the judgment of others",
+          "The end of the world",
+          "The Sabbath"
+        ],
+        "correct": 1,
+        "explanation": "Amos turns the popular expectation upside down: the 'Day of the Lord' will be darkness for a disobedient Israel."
+      },
+      {
+        "question": "Which prophecy speaks of the Messiah as 'Light to the nations'?",
+        "options": [
+          "Isaiah 9:2",
+          "Isaiah 42:6",
+          "Isaiah 49:6",
+          "Isaiah 60:1"
+        ],
+        "correct": 2,
+        "explanation": "Isaiah 49:6: 'I will make you a light to the nations, to carry my salvation to the ends of the earth.'"
+      },
+      {
+        "question": "Which prophet prophesied the judgment of Nineveh, the Assyrian capital?",
+        "options": [
+          "Amos",
+          "Micah",
+          "Nahum",
+          "Habakkuk"
+        ],
+        "correct": 2,
+        "explanation": "The book of Nahum is entirely devoted to the prophecy of the judgment of Nineveh, fulfilled in 612 BC. AD"
+      },
+      {
+        "question": "What does Joel 2:28-32 prophesy fulfilled according to Peter at Pentecost?",
+        "options": [
+          "The coming of John the Baptist",
+          "The outpouring of the Spirit on all flesh with prophetic signs",
+          "The destruction of Jerusalem",
+          "The resurrection"
+        ],
+        "correct": 1,
+        "explanation": "Peter cites Joel 2:28-32 in Acts 2:17-21 to explain Pentecost."
+      },
+      {
+        "question": "What is the prophecy of the 'suffering maid' of Isaiah 52:13-53:12?",
+        "options": [
+          "A prophecy about Jeremiah",
+          "The portrait of the Messiah suffering, rejected, bearing our sins",
+          "A description of the Babylonian exile",
+          "A prophecy about King Cyrus"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 52:13-53:12 is the 4th Servant song, cited more than 40 times in the NT for Christ."
+      }
+    ],
+    "expert": [
+      {
+        "question": "What is the structure of the 4 'Servant songs' in Isaiah?",
+        "options": [
+          "Isaiah 40, 45, 49, 53",
+          "Isaiah 42, 49, 50, 52:13-53:12",
+          "Isaiah 41, 46, 51, 54",
+          "Isaiah 43, 47, 52, 55"
+        ],
+        "correct": 1,
+        "explanation": "The 4 songs of the Servant are: Isaiah 42:1-9; 49:1-13; 50:4-11; 52:13-53:12."
+      },
+      {
+        "question": "What does the Hebrew term 'almah' mean in Isaiah 7:14 and why is it debated?",
+        "options": [
+          "It only means 'young woman' with no implication of virginity",
+          "'Almah' designates a young woman of marriageable age, often a virgin; the Septuagint translates as 'parthenos' (virgin)",
+          "It means exclusively 'virgin' in Hebrew",
+          "It's a technical term for prophecy"
+        ],
+        "correct": 1,
+        "explanation": "'Almah' (עַלְמָה) = young woman of marriageable age. The LXX translates it 'parthenos' (virgin). Matthew 1:23 cites the LXX for fulfillment in Mary."
+      },
+      {
+        "question": "What is the hermeneutical debate on the prophecy of double fulfillment (sensus plenior)?",
+        "options": [
+          "Prophecies only have a literal meaning",
+          "The 'sensus plenior' recognizes an immediate literal meaning AND a deeper fulfillment intended by God in Christ",
+          "The prophecies have only an allegorical meaning",
+          "There are no messianic prophecies in the OT"
+        ],
+        "correct": 1,
+        "explanation": "The 'sensus plenior' (fuller meaning): the human author prophesies for his immediate context, but God inscribes a deeper fulfillment (eg Hosea 11:1 cited in Mt 2:15)."
+      },
+      {
+        "question": "What is the meaning of the '70 weeks' in Daniel 9:24 according to different interpretations?",
+        "options": [
+          "Literally 70 weeks of days (490 days)",
+          "70 weeks of years = 490 years, covering different periods depending on interpretations (historical, eschatological)",
+          "A symbolic number without precise chronology",
+          "Only a prophecy already fulfilled in 70 AD. AD"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 9: 70 weeks = 70 × 7 years = 490 years. Debate between: (1) total accomplishment in 70 AD. AD; (2) future eschatological final week; (3) purely symbolic interpretation."
+      },
+      {
+        "question": "What is the theological significance of 'Servant of the Lord' in Isaiah 40-55 (Deutero-Isaiah)?",
+        "options": [
+          "The Servant is exclusively collective Israel",
+          "The Servant oscillates between collective Israel and an individual figure, culminating in the portrait of a substitute innocent in Isaiah 53",
+          "The Servant is only a historical figure (Cyrus)",
+          "The Servant is exclusively the prophet Isaiah himself"
+        ],
+        "correct": 1,
+        "explanation": "The tension is intentional: the Servant is sometimes Israel (42:19; 49:3), sometimes distinct from Israel (49:5-6; 53), converging on a suffering individual figure."
+      },
+      {
+        "question": "How does the typological method differ from allegorism in prophetic interpretation?",
+        "options": [
+          "These are identical methods",
+          "The typology preserves the literal historical meaning as a real type prefiguring its antitype; allegorism replaces literal meaning with arbitrary spiritual meaning",
+          "The typology is post-apostolic, the allegorism is apostolic",
+          "Allegorism is more rigorous than typology"
+        ],
+        "correct": 1,
+        "explanation": "Crucial distinction: (1) Typological—the actual historical events of the OT prefigure their Christological fulfillment; (2) Allegorical — the literal meaning becomes pure symbol without historical basis."
+      },
+      {
+        "question": "What is the meaning of the Hebrew term 'nabi' (prophet) in its fundamental dimension?",
+        "options": [
+          "Only predict the future",
+          "'Nabi' designates one who speaks in the name of God - spokesperson (forth-telling) as well as predictor (foretelling)",
+          "Dream interpreter only",
+          "Religious military leader"
+        ],
+        "correct": 1,
+        "explanation": "'Nabi' (נָבִיא): the prophet is first and foremost a spokesperson for God for his present time (forth-telling). Prediction (foretelling) is one dimension among others."
+      },
+      {
+        "question": "What is the relationship between the prophecy of Jeremiah 31:31-34 and the book of Hebrews?",
+        "options": [
+          "Hebrews does not quote Jeremiah",
+          "Hebrews 8:8-12 quotes Jeremiah 31 in full to demonstrate that the New Covenant in Christ makes the Old Obsolete",
+          "Hebrews cites Jeremiah to defend the Mosaic Law",
+          "Jeremiah 31 is interpreted allegorically only in Hebrews"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 8:8-12 is the longest OT quotation in the NT — Jeremiah 31:31-34 demonstrating the superiority of the New Covenant."
+      },
+      {
+        "question": "To what extent is the prophecy of Isaiah 40:3 (the voice in the wilderness) 'fulfilled' in the NT?",
+        "options": [
+          "It is not mentioned in the NT",
+          "The 4 gospels cite it for John the Baptist, but with different modifications revealing their own Christology",
+          "Only Matthew quotes it",
+          "It is only mentioned in John"
+        ],
+        "correct": 1,
+        "explanation": "Matthew (3:3), Mark (1:3), Luke (3:4-6), John (1:23) all quote Isaiah 40:3. But Luke also cites Isaiah 40:4-5 to emphasize the universal scope."
+      },
+      {
+        "question": "What is the eschatological meaning of the 'resurrection' in Ezekiel 37 versus Isaiah 26:19?",
+        "options": [
+          "Both texts speak only of individual resurrection",
+          "Ezekiel 37 is national metaphor; Isaiah 26:19 tends more toward actual individual resurrection",
+          "Neither speaks of resurrection",
+          "Both are allegories without eschatological meaning"
+        ],
+        "correct": 1,
+        "explanation": "Ezekiel 37 = national restoration of Israel (metaphor). Isaiah 26:19: 'Your dead will live, my corpses will rise' tends towards a hope of individual resurrection."
+      },
+      {
+        "question": "What is the messianic prophecy implicit in Psalm 22 and its relationship to the Passion?",
+        "options": [
+          "No connection with Passion",
+          "Psalm 22 contains multiple details (mockery, sharing of clothes, thirst) cited in the Passion stories",
+          "This is purely a complaint from historical David",
+          "Only verse 1 (\"My God, my God...\") is relevant"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 22 is massively cited in the Passion stories: v.1 (Mt 27:46), v.7-8 (Mt 27:39-43), v.16 (Jn 19:37), v.18 (Jn 19:24)."
+      },
+      {
+        "question": "How to interpret the prophecy of 'Gog and Magog' from Ezekiel 38-39?",
+        "options": [
+          "Exclusively literal, future geopolitics",
+          "Eschatological symbol of a final enemy coalition against Israel, taken up in Revelation 20",
+          "Completely accomplished in antiquity",
+          "Metaphor of the Babylonians only"
+        ],
+        "correct": 1,
+        "explanation": "Gog/Magog (Ez 38-39): symbolic eschatological context taken up in Revelation 20:8. Interpretations vary: literal future (dispensationalism), symbolic (amillennialism)."
+      },
+      {
+        "question": "What prophecy of Zephaniah foreshadows the humble 'faithful remnant' who will inherit the promises?",
+        "options": [
+          "Zephaniah 1:14",
+          "Zephaniah 2:3",
+          "Zephaniah 3:12-13",
+          "Zephaniah 3:17"
+        ],
+        "correct": 2,
+        "explanation": "Zephaniah 3:12-13: 'I will leave among you a people humble and poor; they will trust in the name of the Lord.' — foundation of the concept of the 'remainder' in the Beatitudes."
+      },
+      {
+        "question": "What is the relationship between the prophecy of the 'Son of man in the clouds' (Daniel 7:13) and Mark's Christology?",
+        "options": [
+          "No report",
+          "Jesus explicitly applies Daniel 7:13 during his trial (Mark 14:62), claiming identity as the divine Son of Man",
+          "Only John cites Daniel 7",
+          "It's a late interpolation"
+        ],
+        "correct": 1,
+        "explanation": "Mark 14:62: Jesus said to the high priest 'you will see the Son of Man sitting on the right hand of power and coming on the clouds' — direct quote from Daniel 7:13 + Psalm 110:1."
+      },
+      {
+        "question": "What is the prophecy of Isaiah 11:1-10 and its triple messianic dimension?",
+        "options": [
+          "Only political",
+          "A offspring of Jesse: (1) endowed with the Spirit of 7 gifts, (2) ruling with justice for the poor, (3) restoring creation (cosmic peace)",
+          "Only spiritual without political dimension",
+          "A prophecy about Zerubbabel only"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 11: (1) the anointing of the Spirit (v.1-3); (2) righteous rule for the humble (v.4-5); (3) cosmic peace restored (v.6-9) — three complementary messianic dimensions."
+      },
+      {
+        "question": "Why is Isaiah 53:4 cited differently in Matthew 8:17 versus 1 Peter 2:24?",
+        "options": [
+          "This is a misquotation",
+          "Matthew applies the verse to Jesus' physical healings; Peter applies it to sin — illustrating the hermeneutical richness of the text",
+          "Peter corrects Matthew",
+          "Both quotes are identical"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 53:4: Matthew 8:17 = healings (literal meaning of illnesses); 1 Peter 2:24 = sins. Both are legitimate because the Hebrew text contains both dimensions."
+      }
+    ]
+  }
+}

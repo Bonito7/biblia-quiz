@@ -1,0 +1,143 @@
+{
+  "wesleyTravels": {
+    "title": "Safari za John Wesley",
+    "subtitle": "Kilomita 400,000 walisafiri hasa kwa farasi - sawa na kuzunguka Dunia mara 10. Wesley hakuwa na kanisa kuu: Uingereza yote ilikuwa parokia yake.",
+    "statistics": [
+      {
+        "value": "400,000",
+        "unit": "km",
+        "label": "Alisafiri katika miaka 50",
+        "icon": "🐎"
+      },
+      {
+        "value": "8,000",
+        "unit": "km/mwaka",
+        "label": "Kwa wastani kwa mwaka",
+        "icon": "📅"
+      },
+      {
+        "value": "40,000+",
+        "unit": "mahubiri",
+        "label": "Kuhubiriwa katika hewa wazi",
+        "icon": "🗣️"
+      },
+      {
+        "value": "88",
+        "unit": "miaka",
+        "label": "Umri wakati wa kifo - kazi hadi mwisho",
+        "icon": "✝️"
+      }
+    ],
+    "regions": [
+      {
+        "region": "Uingereza ya Kaskazini",
+        "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "color": "from-blue-600 to-blue-800",
+        "visits": "Ilitembelewa mara 40+ kati ya 1742 na 1790",
+        "places": [
+          {
+            "name": "Newcastle juu ya Tyne",
+            "lat": "54.97",
+            "lon": "-1.61",
+            "note": "Mafanikio makubwa ya kwanza Kaskazini (1742). Wesley alianzisha Orphan House huko - taasisi yake kuu ya kwanza ya kutoa misaada."
+          },
+          {
+            "name": "Leeds",
+            "lat": "53.8",
+            "lon": "-1.55",
+            "note": "Kituo cha Methodism ya Viwanda. Wesley hufanya mikutano kadhaa ya kila mwaka huko."
+          },
+          {
+            "name": "Bristol",
+            "lat": "51.45",
+            "lon": "-2.59",
+            "note": "Utoto wa Methodisti (1739). Mahubiri ya kwanza ya wazi huko Kingswood. Chumba Kipya - kanisa la kwanza la Methodisti."
+          },
+          {
+            "name": "Epworth (Lincolnshire)",
+            "lat": "53.53",
+            "lon": "-0.81",
+            "note": "Mji wa John na Charles. Wesley anahubiri pale kwenye kaburi la babake baada ya kukataliwa kuingia kanisani."
+          }
+        ]
+      },
+      {
+        "region": "Scotland na Ireland",
+        "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "color": "from-emerald-600 to-emerald-800",
+        "visits": "Safari 22 kwenda Scotland, safari 43 kwenda Ireland",
+        "places": [
+          {
+            "name": "Edinburgh",
+            "lat": "55.95",
+            "lon": "-3.19",
+            "note": "Safari ya kwanza mwaka 1751. Wesley alihubiri pale mbele ya maelfu ya watu licha ya uadui wa awali wa Wapresbiteri."
+          },
+          {
+            "name": "Dublin",
+            "lat": "53.33",
+            "lon": "-6.25",
+            "note": "Kituo cha Methodism ya Ireland. Wesley alifanya safari 43 huko - kuvuka Bahari ya Ireland akiwa na umri wa miaka 80."
+          },
+          {
+            "name": "Cork",
+            "lat": "51.9",
+            "lon": "-8.47",
+            "note": "Onyesho la ghasia za kupinga Methodisti za 1749. Wesley alirudi huko kwa ujasiri mwaka uliofuata."
+          }
+        ]
+      },
+      {
+        "region": "Cornwall na Wales",
+        "emoji": "🌊",
+        "color": "from-cyan-600 to-sky-800",
+        "visits": "Safari 32 hadi Cornwall, msingi mkuu wa uinjilishaji",
+        "places": [
+          {
+            "name": "Redruth (Cornwall)",
+            "lat": "50.23",
+            "lon": "-5.23",
+            "note": "Mji mkuu wa Methodism ya Cornish. Makumi ya maelfu ya wachimbaji madini walibadilishwa. Vyama vya Methodist vya Cornwall ni miongoni mwa vyama vyenye nguvu zaidi."
+          },
+          {
+            "name": "St Ives",
+            "lat": "50.21",
+            "lon": "-5.48",
+            "note": "Mafanikio ya kwanza huko Cornwall (1743). Wesley anashuka kwenda migodini kuhubiria wachimba migodi baada ya kazi."
+          },
+          {
+            "name": "Cardiff",
+            "lat": "51.48",
+            "lon": "-3.18",
+            "note": "Lango la Umethodisti huko Wales, ardhi ngumu lakini yenye rutuba."
+          }
+        ]
+      },
+      {
+        "region": "Amerika (Georgia)",
+        "emoji": "🇺🇸",
+        "color": "from-red-600 to-rose-800",
+        "visits": "Misheni 1735-1738 - kushindwa kwa kichungaji, ufunuo wa kiroho",
+        "places": [
+          {
+            "name": "Savannah, Georgia",
+            "lat": "32.08",
+            "lon": "-81.1",
+            "note": "Msingi wa misheni ya Amerika ya Wesley (1736-1737). Mchungaji wa parokia ya kikoloni. Ujumbe mgumu, mahusiano magumu."
+          },
+          {
+            "name": "Frederica (Georgia)",
+            "lat": "31.23",
+            "lon": "-81.39",
+            "note": "Mahali pa mzozo mkali wa kichungaji ambao ulisababisha kuondoka kwa Wesley. Anarudi Uingereza akiwa na hakika kwamba bado hajapata imani ya kweli."
+          }
+        ]
+      }
+    ],
+    "journal": {
+      "label": "📔 Jarida la John Wesley",
+      "quote": "\"Saa 4 asubuhi tulisafiri kuelekea Epworth. Saa 6 asubuhi nilihubiri shambani kwa watu wapatao 200 licha ya upepo na mvua. Saa 10 asubuhi nilifika Newcastle ambako nilihubiri tena. Saa 3 usiku nilipanda gari hadi Durham...\"",
+      "attribution": "- Dondoo la kawaida kutoka kwa jarida la Wesley, Julai 1757"
+    }
+  }
+}

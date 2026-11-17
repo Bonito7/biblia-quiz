@@ -1,0 +1,1627 @@
+{
+  "versets": {
+    "debutant": [
+      {
+        "question": "'En el principio Dios creó los cielos y la tierra.' — ¿Qué libro?",
+        "options": [
+          "éxodo",
+          "Génesis",
+          "Vaqueros",
+          "salmos"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo abre el libro del Génesis (Génesis 1:1)."
+      },
+      {
+        "question": "'Porque tanto amó Dios al mundo...' — ¿Qué capítulo y versículo?",
+        "options": [
+          "Juan 1:1",
+          "Juan 3:16",
+          "Romanos 8:28",
+          "Salmo 23:1"
+        ],
+        "correct": 1,
+        "explanation": "Juan 3:16 es uno de los versículos más conocidos de la Biblia."
+      },
+      {
+        "question": "'El Señor es mi pastor, nada me faltará.' — ¿Qué salmo?",
+        "options": [
+          "Salmo 1",
+          "Salmo 19",
+          "Salmo 23",
+          "Salmo 91"
+        ],
+        "correct": 2,
+        "explanation": "El Salmo 23, escrito por David, comienza con estas famosas palabras."
+      },
+      {
+        "question": "'Yo soy el camino, la verdad y la vida'. —¿Quién dijo eso?",
+        "options": [
+          "Moisés",
+          "Pablo",
+          "Roca",
+          "Jesús"
+        ],
+        "correct": 3,
+        "explanation": "Jesús pronunció estas palabras en Juan 14:6."
+      },
+      {
+        "question": "'En el principio era el Verbo...' — ¿Qué Evangelio?",
+        "options": [
+          "Mateo",
+          "Marca",
+          "lucas",
+          "Vaqueros"
+        ],
+        "correct": 3,
+        "explanation": "El Evangelio de Juan comienza con \"En el principio era el Verbo\" (Juan 1:1)."
+      },
+      {
+        "question": "'Todo lo puedo en aquel que me fortalece'. —¿Qué epístola?",
+        "options": [
+          "romanos",
+          "Gálatas",
+          "filipenses",
+          "Efesios"
+        ],
+        "correct": 2,
+        "explanation": "El apóstol Pablo escribe esto en Filipenses 4:13."
+      },
+      {
+        "question": "'Confía en el Señor con todo tu corazón.' — ¿Qué libro?",
+        "options": [
+          "salmos",
+          "Proverbios",
+          "Eclesiastés",
+          "Cantar de los cantares"
+        ],
+        "correct": 1,
+        "explanation": "Proverbios 3:5: 'Confía en Jehová con todo tu corazón'."
+      },
+      {
+        "question": "'Ama a tu prójimo como a ti mismo'. — ¿Dónde aparece por primera vez este mandamiento?",
+        "options": [
+          "Mateo 22",
+          "Levítico 19",
+          "Deuteronomio 6",
+          "Romanos 13"
+        ],
+        "correct": 1,
+        "explanation": "Este mandamiento aparece por primera vez en Levítico 19:18."
+      },
+      {
+        "question": "¿Qué versículo dice \"Porque por gracia sois salvos mediante la fe\"?",
+        "options": [
+          "Romanos 3:23",
+          "Efesios 2:8",
+          "Juan 1:12",
+          "Hechos 4:12"
+        ],
+        "correct": 1,
+        "explanation": "Efesios 2:8: 'Porque por gracia sois salvos mediante la fe'."
+      },
+      {
+        "question": "¿Completar Jeremías 29:11: 'Porque yo sé los planes que he hecho para vosotros... planes de ___'?",
+        "options": [
+          "Gloria",
+          "Paz y no perdición",
+          "Felicidad y prosperidad",
+          "Justicia y rectitud"
+        ],
+        "correct": 1,
+        "explanation": "Jeremías 29:11: '...planes de paz y no de desgracia, para daros futuro y esperanza.'"
+      },
+      {
+        "question": "¿Cuál es el versículo más corto de la Biblia?",
+        "options": [
+          "'Dios es amor'",
+          "'Jesús lloró'",
+          "'Regocijaos siempre'",
+          "'Ora sin cesar'"
+        ],
+        "correct": 1,
+        "explanation": "\"Jesús lloró\" (Juan 11:35) se cita a menudo como el versículo más corto de la Biblia."
+      },
+      {
+        "question": "'La fe es...' — ¿Cómo termina Hebreos 11:1?",
+        "options": [
+          "...ama a Dios con todo tu corazón",
+          "...la certeza de las cosas que esperamos, la demostración de las que no vemos",
+          "...creer en Cristo Jesús",
+          "...obedecer la Palabra de Dios"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos 11:1: 'Ahora bien, la fe es la certeza de lo que se espera, y la convicción de lo que no se ve'."
+      },
+      {
+        "question": "'El amor es, por tanto, la realización de ___.' (Romanos 13:10)",
+        "options": [
+          "Fe",
+          "Ley",
+          "Gracia",
+          "Promesa"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 13:10: 'Por tanto, el amor es el cumplimiento de la ley'."
+      },
+      {
+        "question": "¿En qué libro: 'Hay un tiempo para todo, todo tiene su tiempo bajo el cielo'?",
+        "options": [
+          "Proverbios",
+          "Trabajo",
+          "Eclesiastés",
+          "salmos"
+        ],
+        "correct": 2,
+        "explanation": "Eclesiastés 3:1: 'Todo tiene su tiempo, todo lo que está debajo del cielo tiene su tiempo'."
+      },
+      {
+        "question": "¿Qué apóstol escribió 'Dios es amor'?",
+        "options": [
+          "Pablo",
+          "Roca",
+          "Vaqueros",
+          "jacques"
+        ],
+        "correct": 2,
+        "explanation": "Juan escribe \"Dios es amor\" en 1 Juan 4:8 y 4:16."
+      },
+      {
+        "question": "¿Qué versículo dice \"Porque la paga del pecado es muerte\"?",
+        "options": [
+          "Gálatas 6:7",
+          "Romanos 6:23",
+          "Santiago 1:15",
+          "1 Juan 1:8"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 6:23: 'Porque la paga del pecado es muerte; pero el don gratuito de Dios es vida eterna.'"
+      },
+      {
+        "question": "¿Cuál es el primer verso del Salmo 1?",
+        "options": [
+          "'El Señor es mi pastor'",
+          "'Bienaventurado el hombre que no sigue el consejo de los impíos'",
+          "'Los cielos declaran la gloria de Dios'",
+          "'Con todo mi corazón te alabaré'"
+        ],
+        "correct": 1,
+        "explanation": "El Salmo 1 comienza: 'Bienaventurado el hombre que no sigue el consejo de los impíos...'"
+      },
+      {
+        "question": "¿Qué versículo dice 'Estad siempre alegres en el Señor'?",
+        "options": [
+          "1 Tesalonicenses 5:16",
+          "Filipenses 4:4",
+          "Colosenses 3:17",
+          "Romanos 12:12"
+        ],
+        "correct": 1,
+        "explanation": "Filipenses 4:4: 'Estad siempre alegres en el Señor; Lo digo de nuevo, regocíjense.'"
+      },
+      {
+        "question": "¿Qué versículo concluye la Gran Comisión de Mateo 28?",
+        "options": [
+          "'Id y haced discípulos a todas las naciones'",
+          "'Estoy con vosotros todos los días, hasta el fin del mundo'",
+          "'Bautízalos en el nombre del Padre, del Hijo y del Espíritu Santo'",
+          "'Enséñales a observar todo lo que te he mandado'"
+        ],
+        "correct": 1,
+        "explanation": "Mateo 28:20 termina con \"Y he aquí yo estaré con vosotros todos los días, hasta el fin del mundo\"."
+      },
+      {
+        "question": "¿Qué versículo de Mateo resume los dos grandes mandamientos?",
+        "options": [
+          "'Amarás al Señor con todo tu corazón, y a tu prójimo como a ti mismo'",
+          "'Bienaventurados los mansos, porque ellos heredarán la tierra'",
+          "'Orad para que no caigáis en la tentación'",
+          "'Lo que le hiciste al más pequeño de mis hermanos, a mí me lo hiciste'"
+        ],
+        "correct": 0,
+        "explanation": "Mateo 22:37-39 resume toda la Ley: amar a Dios con todo tu ser + amar a tu prójimo como a ti mismo, citado por Jesús como los dos grandes mandamientos en los que se basan toda la Ley y los Profetas."
+      },
+      {
+        "question": "Complete Juan 10:10: 'El ladrón sólo viene a hurtar, a matar y a destruir; Yo vine...'?",
+        "options": [
+          "'...para salvar el mundo'",
+          "'...para que tengamos vida, y para que la tengamos en abundancia'",
+          "'...para llamar a los pecadores al arrepentimiento'",
+          "'...para cumplir la Ley y los Profetas'"
+        ],
+        "correct": 1,
+        "explanation": "Juan 10:10: 'Yo he venido para que los hombres tengan vida, y para que la tengan en abundancia'. Este versículo contrasta al ladrón (Satanás) y al buen pastor (Cristo): la abundancia de vida en Cristo."
+      },
+      {
+        "question": "¿Qué salmo comienza con 'Los cielos cuentan la gloria de Dios'?",
+        "options": [
+          "Salmo 8",
+          "Salmo 19",
+          "Salmo 33",
+          "Salmo 148"
+        ],
+        "correct": 1,
+        "explanation": "Salmo 19:2: 'Los cielos cuentan la gloria de Dios, y la expansión muestra la obra de sus manos'."
+      },
+      {
+        "question": "¿Cuál es el versículo del Salmo 46 que a menudo se traduce como \"Dios es nuestro refugio y apoyo\"?",
+        "options": [
+          "Salmo 46:1",
+          "Salmo 46:2",
+          "Salmo 46:10",
+          "Salmo 46:11"
+        ],
+        "correct": 0,
+        "explanation": "Salmo 46:1 (v.2 en algunas versiones): 'Dios es nuestro refugio y apoyo, una ayuda que nunca falla en las dificultades'."
+      },
+      {
+        "question": "Completa Mateo 5:14: 'Vosotros sois la luz del mundo. ¿Una ciudad...'?",
+        "options": [
+          "'...los iluminados no pueden esconderse'",
+          "'...el que está en un monte no puede esconderse'",
+          "'...luminoso atrae a los hombres hacia Dios'",
+          "'...de Dios brilla en la oscuridad'"
+        ],
+        "correct": 1,
+        "explanation": "Mateo 5:14: 'Vosotros sois la luz del mundo. Una ciudad que está sobre una montaña no se puede esconder.' Jesús llama a sus discípulos a difundir su fe en el mundo."
+      },
+      {
+        "question": "¿Qué versículo dice: \"Buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas\"?",
+        "options": [
+          "Mateo 6:33",
+          "Lucas 12:31",
+          "Mateo 5:6",
+          "Los dos primeros"
+        ],
+        "correct": 3,
+        "explanation": "Mateo 6:33 y Lucas 12:31 repiten esta enseñanza de Jesús del Sermón del Monte sobre la prioridad del Reino de Dios sobre las preocupaciones materiales."
+      },
+      {
+        "question": "¿Qué versículo del Antiguo Testamento se cita con más frecuencia en el Nuevo Testamento?",
+        "options": [
+          "Génesis 1:1",
+          "Salmo 110:1",
+          "Isaías 53:5",
+          "Deuteronomio 6:4"
+        ],
+        "correct": 1,
+        "explanation": "El Salmo 110:1 (“Jehová dijo a mi Señor: Siéntate a mi derecha”) es el versículo del Antiguo Testamento más citado en el Nuevo Testamento, aplicado por Jesús a sí mismo (Mateo 22:44) y usado en Hechos y las epístolas para proclamar la exaltación del Cristo resucitado."
+      },
+      {
+        "question": "Complete Isaías 41:10: 'No temas, porque yo estoy contigo; no te dejes desanimar...'?",
+        "options": [
+          "'...porque estás en mis manos'",
+          "'...porque yo soy tu Dios, te fortalezco, te ayudo, te sostengo con mi diestra en triunfo'",
+          "'...porque tu fe te salvará'",
+          "'...porque te escogí antes de la fundación del mundo'"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 41:10: 'No temas, porque yo estoy contigo; no os dejéis llevar por el desánimo, porque yo soy vuestro Dios; Te fortalezco, te ayudo, te sostengo con mi diestra triunfante.' Uno de los versículos reconfortantes más queridos del Antiguo Testamento."
+      },
+      {
+        "question": "¿Qué versículo del Sermón de la Montaña dice \"Vosotros sois la sal de la tierra\"?",
+        "options": [
+          "Mateo 5:3",
+          "Mateo 5:13",
+          "Mateo 5:20",
+          "Mateo 6:1"
+        ],
+        "correct": 1,
+        "explanation": "Mateo 5:13: 'Vosotros sois la sal de la tierra. Pero si la sal pierde su sabor, ¿con qué podremos restaurarla? — llamado a los discípulos a ser agentes de conservación y sabor en el mundo."
+      },
+      {
+        "question": "¿Completar Romanos 8:38-39: 'Porque estoy seguro de que ni la muerte ni la vida... podrán separarnos de ___'?",
+        "options": [
+          "la gracia de Dios",
+          "el amor de Dios manifestado en Jesucristo nuestro Señor",
+          "la paz de cristo",
+          "el gozo del espiritu santo"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 8:38-39: '...nada nos separará del amor de Dios que es en Cristo Jesús Señor nuestro', una de las declaraciones más poderosas y reconfortantes de la Biblia sobre la seguridad eterna del creyente en Cristo."
+      },
+      {
+        "question": "¿Qué versículo del Evangelio de Juan expresa el corazón de la misión de Cristo: 'Porque Dios no envió a su Hijo al mundo para condenar al mundo'?",
+        "options": [
+          "Juan 3:17",
+          "Juan 3:18",
+          "Juan 5:24",
+          "Juan 12:47"
+        ],
+        "correct": 0,
+        "explanation": "Juan 3:17: 'Dios no envió a su Hijo al mundo para condenar al mundo, sino para que el mundo sea salvo por él.' Complemento esencial de Juan 3:16: la misión de Cristo es salvar, no condenar."
+      },
+      {
+        "question": "¿Qué versículo de la Biblia describe el 'nuevo nacimiento' como condición para ver el Reino de Dios?",
+        "options": [
+          "Juan 1:12",
+          "Juan 3:3",
+          "Tito 3:5",
+          "1 Pedro 1:23"
+        ],
+        "correct": 1,
+        "explanation": "Juan 3:3: 'Jesús le respondió: De cierto, de cierto te digo, que el que no naciere de nuevo, no puede ver el reino de Dios.' — dijo a Nicodemo, fundamento de la doctrina de la regeneración."
+      },
+      {
+        "question": "¿Completar el Salmo 119:105: 'Tu palabra es una lámpara...'?",
+        "options": [
+          "'...para iluminar mi camino'",
+          "'...a mis pies y una luz en mi camino'",
+          "'...quien guía todos mis pasos'",
+          "'...más precioso que el oro'"
+        ],
+        "correct": 1,
+        "explanation": "Salmo 119:105: 'Lámpara es a mis pies tu palabra y lumbrera a mi camino'. — versículo emblemático sobre la Palabra de Dios como guía divina para la vida cristiana."
+      },
+      {
+        "question": "¿Qué versículo del Apocalipsis dice: \"He aquí, yo estoy a la puerta y llamo\"?",
+        "options": [
+          "Apocalipsis 3:19",
+          "Apocalipsis 3:20",
+          "Apocalipsis 22:17",
+          "Apocalipsis 21:3"
+        ],
+        "correct": 1,
+        "explanation": "Apocalipsis 3:20: 'He aquí, yo estoy a la puerta y llamo. Si alguno oye mi voz y abre la puerta, entraré a él y cenaré con él, y él conmigo.' — dijo a la Iglesia de Laodicea, invitación universal de Cristo."
+      },
+      {
+        "question": "Completa 1 Reyes 18:21 (Elías en el Monte Carmelo): '¿Hasta cuándo cojearéis de ambos lados? Si el Señor es Dios...'?",
+        "options": [
+          "'...obedece sus mandamientos'",
+          "'...siguelo; y si es Baal, síganlo'",
+          "'...abandona a tus ídolos'",
+          "'...vuelve a él con todo tu corazón'"
+        ],
+        "correct": 1,
+        "explanation": "1 Reyes 18:21: 'Si Jehová es Dios, seguidle; y si es Baal, síganlo.' — El desafío de Elías al pueblo de Israel que duda entre el Señor y Baal, una llamada a una elección radical."
+      },
+      {
+        "question": "¿Qué versículo dice: \"Al que cree todo le es posible\"?",
+        "options": [
+          "Mateo 17:20",
+          "Marcos 9:23",
+          "Lucas 1:37",
+          "Juan 11:40"
+        ],
+        "correct": 1,
+        "explanation": "Marcos 9:23: 'Jesús le dijo: ¡Si puedes! Al que cree todo le es posible.' — dijo al padre de un niño epiléptico que imploró a Jesús por su hijo."
+      },
+      {
+        "question": "¿Qué versículo dice que 'a los que aman a Dios, todas las cosas les ayudan a bien'?",
+        "options": [
+          "Jeremías 29:11",
+          "Romanos 8:28",
+          "Filipenses 4:7",
+          "1 Tesalonicenses 5:18"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 8:28: 'A los que aman a Dios, todas las cosas les ayudan a bien, es decir, a los que conforme a su propósito son llamados'. — fundamento de la confianza del creyente en la divina Providencia."
+      },
+      {
+        "question": "¿Completar Juan 1:12: 'Pero todos los que le recibieron...'?",
+        "options": [
+          "'...les concedió la vida eterna'",
+          "'...les dio el derecho de ser hijos de Dios'",
+          "'...los adoptó como sus amados hijos'",
+          "'...los perdonó y los santificó'"
+        ],
+        "correct": 1,
+        "explanation": "Juan 1:12: 'Pero a todos los que le recibieron, y a todos los que creyeron en su nombre, les dio potestad de ser hechos hijos de Dios.' — la respuesta joánica a la pregunta de la salvación: creer = recibir = convertirse en hijo de Dios."
+      },
+      {
+        "question": "¿Qué salmo dice: 'El Señor es mi luz y mi salvación: ¿a quién temeré?' ?",
+        "options": [
+          "Salmo 18",
+          "Salmo 27",
+          "Salmo 46",
+          "Salmo 91"
+        ],
+        "correct": 1,
+        "explanation": "Salmo 27:1: 'El Señor es mi luz y mi salvación: ¿a quién temeré? El SEÑOR es el sostén de mi vida. ¿A quién temeré? — canto de confianza absoluta en Dios en medio de la adversidad."
+      },
+      {
+        "question": "¿Qué versículo de Pablo dice: \"Para mí el vivir es Cristo, y el morir es ganancia\"?",
+        "options": [
+          "Gálatas 2:20",
+          "Filipenses 1:21",
+          "Colosenses 3:4",
+          "1 Corintios 15:31"
+        ],
+        "correct": 1,
+        "explanation": "Filipenses 1:21: 'Porque para mí el vivir es Cristo, y el morir es ganancia.' — expresión perfecta de la vida completamente centrada en Cristo, hasta el punto de que la muerte misma es ganancia."
+      },
+      {
+        "question": "¿Completar la promesa de Juan 14:27: 'La paz os dejo, mi paz os doy...'?",
+        "options": [
+          "'...ella sobrepasa toda inteligencia'",
+          "'...No te lo doy como te lo da el mundo. ¿No se turbe o se alarme vuestro corazón?",
+          "'...durará hasta el fin de los tiempos'",
+          "'...recíbelo a través de la oración y la confianza'"
+        ],
+        "correct": 1,
+        "explanation": "Juan 14:27: '...Yo no os lo doy como el mundo lo da. No se turbe ni se alarme vuestro corazón.' — la paz de Cristo, distinta de la paz humana, regalo de despedida de Jesús a sus discípulos antes de la Pasión."
+      },
+      {
+        "question": "¿Qué versículo dice 'Si confesamos nuestros pecados, él es fiel y justo para perdonarnos'?",
+        "options": [
+          "1 Juan 2:1",
+          "1 Juan 1:9",
+          "1 Juan 4:10",
+          "Romanos 10:9"
+        ],
+        "correct": 1,
+        "explanation": "1 Juan 1:9: 'Si confesamos nuestros pecados, él es fiel y justo para perdonarnos nuestros pecados y limpiarnos de toda maldad'. — fundamento del arrepentimiento y del perdón en la vida cristiana."
+      },
+      {
+        "question": "¿Qué versículo del libro de Proverbios dice: \"El principio de la sabiduría es el temor de Jehová\"?",
+        "options": [
+          "Proverbios 1:7",
+          "Proverbios 3:5",
+          "Proverbios 9:10",
+          "Salmo 111:10"
+        ],
+        "correct": 0,
+        "explanation": "Proverbios 1:7: 'El temor de Jehová es el principio del conocimiento (sabiduría); Los tontos desprecian la sabiduría y la instrucción. — verso programático del libro de la Sabiduría."
+      },
+      {
+        "question": "¿Qué versículo dice \"Yo soy la resurrección y la vida\"?",
+        "options": [
+          "Juan 6:40",
+          "Juan 11:25",
+          "Juan 14:19",
+          "Juan 20:31"
+        ],
+        "correct": 1,
+        "explanation": "Juan 11:25: 'Yo soy la resurrección y la vida. El que cree en mí, aunque esté muerto, vivirá' - dijo a Marta antes de la resurrección de Lázaro."
+      },
+      {
+        "question": "¿Completar Isaías 40:31: 'Pero los que confían en el Señor renovarán sus fuerzas...'?",
+        "options": [
+          "'...caminan y nunca se cansan'",
+          "'...alzan el vuelo como las águilas; Corren y no se cansan, caminan y no se cansan'",
+          "'...encuentran descanso en sus almas'",
+          "'...su esperanza nunca será decepcionada'"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 40:31: '...alzan el vuelo como águilas; Corren y no se cansan, caminan y no se cansan.' — promesa de renovación divina para quienes esperan confiadamente en el Señor."
+      },
+      {
+        "question": "¿Qué versículo del Nuevo Testamento dice que \"la fe viene por el oír\"?",
+        "options": [
+          "Hebreos 11:1",
+          "Romanos 10:17",
+          "1 Pedro 1:25",
+          "Gálatas 3:2"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 10:17: 'Así que la fe es por el oír, y el oír por la palabra de Cristo'. — fundamento de la importancia de predicar y proclamar el Evangelio para despertar la fe."
+      },
+      {
+        "question": "¿Cuál es el versículo del Antiguo Testamento que dice 'Cercano está Jehová a los quebrantados de corazón'?",
+        "options": [
+          "Salmo 34:19",
+          "Salmo 51:17",
+          "Salmo 147:3",
+          "Isaías 57:15"
+        ],
+        "correct": 0,
+        "explanation": "Salmo 34:19: 'Cercano está Jehová a los quebrantados de corazón, y salva a los desanimados de espíritu.' — verso de profundo consuelo para los heridos en la vida."
+      },
+      {
+        "question": "¿Completar 2 Timoteo 3:16: 'Toda la Escritura es inspirada por Dios...'?",
+        "options": [
+          "'...y es la verdad absoluta'",
+          "'...y útil para enseñar, para convencer, para corregir, para instruir en justicia'",
+          "'...y nunca debe ser cuestionado'",
+          "'...y fue dado sólo a los apóstoles'"
+        ],
+        "correct": 1,
+        "explanation": "2 Timoteo 3:16: 'Toda la Escritura es inspirada por Dios y útil para enseñar, para redargüir, para corregir y para instruir en justicia'. — versículo fundacional de la doctrina de inspiración bíblica."
+      },
+      {
+        "question": "¿Qué versículo del Sermón de la Montaña dice \"Bienaventurados los misericordiosos\"?",
+        "options": [
+          "Mateo 5:3",
+          "Mateo 5:7",
+          "Mateo 5:9",
+          "Mateo 5:12"
+        ],
+        "correct": 1,
+        "explanation": "Mateo 5:7: 'Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia'. — Quinta Bienaventuranza del Sermón de la Montaña."
+      },
+      {
+        "question": "¿Qué versículo del Libro de Hebreos dice que la Palabra de Dios es 'más cortante y eficaz que una espada de dos filos'?",
+        "options": [
+          "Hebreos 1:3",
+          "Hebreos 4:12",
+          "Hebreos 6:19",
+          "Hebreos 12:1"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos 4:12: 'Porque la palabra de Dios es viva y eficaz, más cortante que toda espada de dos filos, y penetra hasta dividir el alma y el espíritu...'"
+      },
+      {
+        "question": "¿Completar Mateo 11:28: 'Venid a mí todos los que estáis cansados...'?",
+        "options": [
+          "'...y yo te sanaré'",
+          "'...y pesado, y yo te haré descansar'",
+          "'...y te enseñaré la verdad'",
+          "'...y yo os libraré de vuestros pecados'"
+        ],
+        "correct": 1,
+        "explanation": "Mateo 11:28: 'Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar'. — invitación universal de Jesús a todos los que llevan cargas."
+      },
+      {
+        "question": "¿Cuál es el versículo de 1 Corintios 13 que dice \"el amor nunca deja de ser\"?",
+        "options": [
+          "1 Corintios 13:4",
+          "1 Corintios 13:8",
+          "1 Corintios 13:12",
+          "1 Corintios 13:13"
+        ],
+        "correct": 1,
+        "explanation": "1 Corintios 13:8: 'El amor nunca falla. Las profecías terminarán, las lenguas cesarán, el conocimiento desaparecerá.' — la permanencia del ágape más allá de todos los dones espirituales."
+      },
+      {
+        "question": "¿Qué versículo dice 'Pedid y se os dará; busca y encontrarás; llama y se te abrirá?",
+        "options": [
+          "Mateo 6:6",
+          "Mateo 7:7",
+          "Lucas 11:9",
+          "Ambos: Mateo 7:7 y Lucas 11:9"
+        ],
+        "correct": 3,
+        "explanation": "Este famoso versículo sobre la oración persistente se encuentra en Mateo 7:7 (Sermón de la Montaña) y Lucas 11:9 (en el contexto de la enseñanza sobre la oración después del Padrenuestro)."
+      },
+      {
+        "question": "¿Qué versículo resume la Ley y los Profetas según Jesús: 'Todo lo que quieras que los hombres hagan por ti...'?",
+        "options": [
+          "Mateo 5:48",
+          "Mateo 7:12",
+          "Lucas 6:31",
+          "Ambos: Mateo 7:12 y Lucas 6:31"
+        ],
+        "correct": 3,
+        "explanation": "La 'regla de oro' - 'Todo lo que queráis que los hombres os hagan, así haced con ellos' - está en Mateo 7:12 (con la adición 'porque esto es la ley y los profetas') y Lucas 6:31. Jesús lo presenta como el resumen de toda revelación moral."
+      }
+    ],
+    "intermediaire": [
+      {
+        "question": "'Dios dispone todas las cosas para bien...' — ¿Cuál es la referencia exacta?",
+        "options": [
+          "Filipenses 4:13",
+          "Romanos 8:28",
+          "Jeremías 29:11",
+          "Proverbios 3:5"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 8:28: 'A los que aman a Dios, todas las cosas les ayudan a bien.'"
+      },
+      {
+        "question": "¿Quién dijo 'Ya no soy yo quien vive, es Cristo quien vive en mí'?",
+        "options": [
+          "Roca",
+          "Vaqueros",
+          "Pablo",
+          "jacques"
+        ],
+        "correct": 2,
+        "explanation": "Pablo escribe esto en Gálatas 2:20 para expresar unión con Cristo."
+      },
+      {
+        "question": "¿Qué salmo comienza con \"Los cielos cuentan la gloria de Dios\"?",
+        "options": [
+          "Salmo 8",
+          "Salmo 19",
+          "Salmo 33",
+          "Salmo 148"
+        ],
+        "correct": 1,
+        "explanation": "Salmo 19:2: 'Los cielos cuentan la gloria de Dios, y la expansión muestra la obra de sus manos'."
+      },
+      {
+        "question": "¿En qué versículo Pablo instruye a los creyentes a 'vestirse de la armadura de Dios'?",
+        "options": [
+          "Romanos 13:12",
+          "Efesios 6:11",
+          "2 Corintios 10:4",
+          "1 Tesalonicenses 5:8"
+        ],
+        "correct": 1,
+        "explanation": "Efesios 6:11: 'Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las artimañas del diablo'."
+      },
+      {
+        "question": "¿Qué versículo de Juan dice \"Yo y el Padre uno somos\"?",
+        "options": [
+          "Juan 1:1",
+          "Juan 8:58",
+          "Juan 10:30",
+          "Juan 17:21"
+        ],
+        "correct": 2,
+        "explanation": "Juan 10:30: 'Yo y el Padre uno somos'."
+      },
+      {
+        "question": "¿Completar Proverbios 22:6: 'Enseña al niño según...'?",
+        "options": [
+          "...los preceptos de Dios",
+          "...el camino que debe seguir; y cuando sea viejo, no se apartará de ella.",
+          "...la sabiduría del Señor",
+          "...los mandamientos"
+        ],
+        "correct": 1,
+        "explanation": "Proverbios 22:6: 'Instruye al niño en su camino; y cuando sea viejo, no se apartará de ella.'"
+      },
+      {
+        "question": "'Buscad primero el reino de Dios y su justicia...' — ¿Qué libro?",
+        "options": [
+          "Lucas 12",
+          "Mateo 6",
+          "Juan 15",
+          "Romanos 14"
+        ],
+        "correct": 1,
+        "explanation": "Este dicho de Jesús se encuentra en el Sermón del Monte, Mateo 6:33."
+      },
+      {
+        "question": "¿Qué versículo dice: 'Toda Escritura es inspirada por Dios y útil para enseñar...'?",
+        "options": [
+          "1 Pedro 1:23",
+          "2 Timoteo 3:16",
+          "Hebreos 4:12",
+          "Juan 17:17"
+        ],
+        "correct": 1,
+        "explanation": "2 Timoteo 3:16 afirma la inspiración divina de las Escrituras."
+      },
+      {
+        "question": "En Mateo 5, ¿qué dice Jesús acerca de los 'pacificadores'?",
+        "options": [
+          "Heredarán la tierra",
+          "serán consolados",
+          "Serán llamados hijos de Dios.",
+          "Verán a Dios"
+        ],
+        "correct": 2,
+        "explanation": "Mateo 5:9: '¡Bienaventurados los pacificadores, porque serán llamados hijos de Dios!'"
+      },
+      {
+        "question": "¿Qué versículo del libro de Miqueas resume la vocación del creyente en tres elementos?",
+        "options": [
+          "Miqueas 5:2",
+          "Miqueas 6:8",
+          "Miqueas 7:7",
+          "Miqueas 4:3"
+        ],
+        "correct": 1,
+        "explanation": "Miqueas 6:8: 'Haz justicia, ama la misericordia y camina humildemente con tu Dios'."
+      },
+      {
+        "question": "¿Completar Romanos 12:2: 'No os conforméis a este siglo, sino transformaos...'?",
+        "options": [
+          "...por el poder del Espíritu",
+          "...por la renovación de la inteligencia",
+          "...leyendo la Palabra",
+          "...a través de la oración y el ayuno"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 12:2: '...sed transformados por la renovación de la mente.'"
+      },
+      {
+        "question": "¿Qué versículo dice: \"Por tanto, ahora ninguna condenación hay para los que están en Cristo Jesús\"?",
+        "options": [
+          "Juan 3:17",
+          "Romanos 8:1",
+          "Efesios 1:7",
+          "Colosenses 2:14"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 8:1: 'Por tanto, ahora ninguna condenación hay para los que están en Cristo Jesús.'"
+      },
+      {
+        "question": "¿Qué versículo del Antiguo Testamento se cita como base para la justificación por la fe en Romanos 1:17?",
+        "options": [
+          "Génesis 15:6",
+          "Habacuc 2:4",
+          "Isaías 53:11",
+          "Salmo 32:1"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 1:17 cita Habacuc 2:4: 'El justo por la fe vivirá'."
+      },
+      {
+        "question": "¿Completar 1 Corintios 13:13: 'Ahora pues, estas tres cosas permanecen...'?",
+        "options": [
+          "...lo más grande es la fe",
+          "...pero lo más grande es el amor",
+          "...los tres son iguales",
+          "...lo más grande es la esperanza"
+        ],
+        "correct": 1,
+        "explanation": "1 Corintios 13:13: '...pero el mayor es el amor'."
+      },
+      {
+        "question": "¿Qué salmo contiene el grito: 'Dios mío, Dios mío, ¿por qué me has desamparado?' que Jesús cita en la cruz?",
+        "options": [
+          "Salmo 18",
+          "Salmo 22",
+          "Salmo 31",
+          "Salmo 69"
+        ],
+        "correct": 1,
+        "explanation": "El Salmo 22:1 comienza con este grito que Jesús cita en Mateo 27:46 y Marcos 15:34."
+      },
+      {
+        "question": "¿Qué versículo dice: 'Jehová Dios, misericordioso y clemente, tardo para la ira, abundante en gracia y fidelidad'?",
+        "options": [
+          "Éxodo 34:6",
+          "Números 14:18",
+          "Salmo 86:15",
+          "Todos estos pasajes"
+        ],
+        "correct": 3,
+        "explanation": "La autorrevelación divina de Éxodo 34:6-7 (los '13 atributos divinos') se repite palabra por palabra en Números 14:18, Salmo 86:15 y muchos otros textos: es la definición central del carácter de Dios en el Antiguo Testamento."
+      },
+      {
+        "question": "Complete Gálatas 2:20: 'Estoy crucificado con Cristo; y si vivo...'?",
+        "options": [
+          "'...es por la gracia de Dios'",
+          "'...ya no soy yo quien vive, es Cristo quien vive en mí'",
+          "'...es por el poder del Espíritu'",
+          "'...es porque mi fe es grande'"
+        ],
+        "correct": 1,
+        "explanation": "Gálatas 2:20: 'Estoy crucificado con Cristo; y si vivo, ya no soy yo quien vive, es Cristo quien vive en mí; y si ahora vivo en la carne, vivo en la fe en el Hijo de Dios...' — el misterio de la vida en Cristo."
+      },
+      {
+        "question": "¿Qué versículo del Evangelio de Juan dice \"La verdad os hará libres\"?",
+        "options": [
+          "Juan 8:31",
+          "Juan 8:32",
+          "Juan 8:36",
+          "Juan 17:17"
+        ],
+        "correct": 1,
+        "explanation": "Juan 8:32: 'Conoceréis la verdad, y la verdad os hará libres'. — dicho por Jesús a los que permanecen en su palabra. La 'verdad' aquí es cristológica (Juan 14:6: 'Yo soy... la verdad')."
+      },
+      {
+        "question": "¿Qué versículo de Mateo 28 constituye la 'Gran Comisión' en su totalidad?",
+        "options": [
+          "Mateo 28:18",
+          "Mateo 28:19",
+          "Mateo 28,18-20: triple mandato (autoridad, misión, presencia)",
+          "Mateo 28:20"
+        ],
+        "correct": 2,
+        "explanation": "La Gran Comisión (Mateo 28:18-20) es una trifecta: (1) fundamento: 'Todo poder me ha sido dado'; (2) mandato: 'Id, pues, y haced discípulos a todas las naciones, bautizándolos y enseñándoles'; (3) promesa: 'Y he aquí, yo estoy con vosotros siempre'."
+      },
+      {
+        "question": "¿Qué versículo de Ezequiel anuncia la promesa de un 'corazón nuevo y un espíritu nuevo'?",
+        "options": [
+          "Ezequiel 11:19",
+          "Ezequiel 36:26",
+          "Ezequiel 37:14",
+          "Todos estos versos"
+        ],
+        "correct": 3,
+        "explanation": "La promesa del corazón nuevo aparece en Ezequiel 11:19, 18:31 y especialmente 36:26: 'Os daré un corazón nuevo, y pondré espíritu nuevo dentro de vosotros; Quitaré de vuestro cuerpo el corazón de piedra y os daré un corazón de carne.' — cumplimiento en el nuevo nacimiento (Juan 3:3-5)."
+      },
+      {
+        "question": "¿Completar Hebreos 12:1-2: '...corramos con perseverancia en la carrera que tenemos por delante, con los ojos fijos en...'?",
+        "options": [
+          "'...Dios nuestro Padre y creador'",
+          "'...Jesús, el guía y consumador de la fe'",
+          "'...la gloria que nos espera en el cielo'",
+          "'...la nube de testigos que nos rodean'"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos 12:1-2: '...corramos con perseverancia en la carrera que tenemos por delante, puestos los ojos en Jesús, el guía y consumador de la fe.' — llamado a fijar nuestra mirada sólo en Cristo, alentados por la 'nube de testigos' de Hebreos 11."
+      },
+      {
+        "question": "¿Cuál es el versículo de Isaías 53 que dice 'Él fue herido por nuestros pecados'?",
+        "options": [
+          "Isaías 53:3",
+          "Isaías 53:5",
+          "Isaías 53:6",
+          "Isaías 53:11"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 53:5: 'Pero él fue herido por nuestros pecados, quebrantado por nuestras iniquidades; cayó sobre él el castigo que nos da paz, y por sus llagas fuimos nosotros curados.' — el versículo cristológico capital del AT."
+      },
+      {
+        "question": "¿Qué versículo del Apocalipsis dice: 'Dios mismo estará con ellos? ¿Enjugará toda lágrima de sus ojos?",
+        "options": [
+          "Apocalipsis 7:17",
+          "Apocalipsis 21:3-4",
+          "Apocalipsis 22:3",
+          "Apocalipsis 21:7"
+        ],
+        "correct": 1,
+        "explanation": "Apocalipsis 21:3-4: 'Dios mismo estará con ellos... Él enjugará toda lágrima de sus ojos, y la muerte ya no será, y no habrá más luto, ni llanto, ni dolor, porque las cosas anteriores han pasado.' — visión escatológica de la restauración total."
+      },
+      {
+        "question": "¿Qué versículo de Juan 3 dice \"Os es necesario nacer de nuevo\"?",
+        "options": [
+          "Juan 3:3",
+          "Juan 3:5",
+          "Juan 3:7",
+          "Juan 3:16"
+        ],
+        "correct": 2,
+        "explanation": "Juan 3:7: 'No os maravilléis de que os haya dicho: Os es necesario nacer de nuevo'. — Jesús insiste a Nicodemo en la absoluta necesidad del nuevo nacimiento espiritual."
+      },
+      {
+        "question": "¿Qué versículo de Proverbios dice \"El hombre propone y Dios dispone\" (en su equivalente bíblico)?",
+        "options": [
+          "Proverbios 16:1",
+          "Proverbios 16:9",
+          "Proverbios 19:21",
+          "Proverbios 21:31"
+        ],
+        "correct": 1,
+        "explanation": "Proverbios 16:9: 'El corazón del hombre traza su camino, pero el Señor dirige sus pasos.' — el equivalente bíblico del proverbio \"el hombre propone, Dios dispone\"."
+      },
+      {
+        "question": "¿Completar 2 Corintios 12:9: 'Bástate mi gracia, porque mi poder se perfecciona en la debilidad...'?",
+        "options": [
+          "'...por eso me gloriaré mucho más gustosamente en mis debilidades'",
+          "'...no temas tu debilidad'",
+          "'...y mi alegría será completa en tu servicio'",
+          "'...acordaos de mis mandamientos'"
+        ],
+        "correct": 0,
+        "explanation": "2 Corintios 12:9: 'Os basta mi gracia, porque mi poder se perfecciona en la debilidad. Por tanto, mucho más gustosamente me gloriaré en mis debilidades, para que repose sobre mí el poder de Cristo.' — La respuesta de Dios a Pablo rogando que le quitara el aguijón de su carne — paradoja central de la teología paulina."
+      },
+      {
+        "question": "¿Qué versículo dice: \"El Señor es mi roca, mi fortaleza y mi libertador\"?",
+        "options": [
+          "Salmo 18:2",
+          "Salmo 62:2",
+          "Salmo 91:2",
+          "2 Samuel 22:2"
+        ],
+        "correct": 0,
+        "explanation": "Salmo 18:2: 'Jehová es mi roca, mi fortaleza y mi libertador; mi Dios es mi roca donde me refugio, mi escudo y la fuerza que me salva, mi alto refugio.' - David canta sobre su liberación por parte de Dios de sus enemigos."
+      },
+      {
+        "question": "¿Qué versículo del Evangelio dice: \"La mies es mucha, pero los trabajadores pocos\"?",
+        "options": [
+          "Mateo 9:37-38",
+          "Lucas 10:2",
+          "Juan 4:35",
+          "Los dos primeros: Mateo 9:37-38 y Lucas 10:2"
+        ],
+        "correct": 3,
+        "explanation": "Este versículo misionero de Jesús (\"La mies es mucha, pero los obreros pocos. Orad, pues, al Señor de la mies que envíe obreros a su mies\") se encuentra en Mateo 9:37-38 y Lucas 10:2 en dos contextos diferentes."
+      },
+      {
+        "question": "¿Qué versículo de Romanos dice: \"No estéis endeudados con nadie excepto por el amor mutuo\"?",
+        "options": [
+          "Romanos 12:9",
+          "Romanos 13:8",
+          "Romanos 15:1",
+          "Gálatas 6:2"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 13:8: 'No debáis a nadie, excepto el amor unos a otros; porque el que ama a los demás ha cumplido la ley.' — Pablo conecta la libertad financiera y el amor cristiano con el cumplimiento de toda la Ley."
+      },
+      {
+        "question": "¿Qué versículo anuncia al Siervo Sufriente al decir: \"Él llevó nuestras penas y cargó con nuestros sufrimientos\"?",
+        "options": [
+          "Isaías 53:3",
+          "Isaías 53:4",
+          "Isaías 53:7",
+          "Isaías 53:10"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 53:4: 'Sin embargo, él llevó nuestros sufrimientos; tomó nuestras penas; y lo consideramos castigado, azotado por Dios y humillado.' - citado en Mateo 8:17 para las curaciones de Jesús."
+      },
+      {
+        "question": "¿Qué versículo de Juan dice 'Si permanecéis en mi Palabra, seréis verdaderamente mis discípulos'?",
+        "options": [
+          "Juan 8:31",
+          "Juan 15:7",
+          "Juan 17:17",
+          "Juan 14:23"
+        ],
+        "correct": 0,
+        "explanation": "Juan 8:31: 'Jesús dijo a los judíos que creían en él: Si permanecéis en mi palabra, seréis verdaderamente mis discípulos'. — la perseverancia en la Palabra como criterio del verdadero discipulado según Juan."
+      },
+      {
+        "question": "¿Qué versículo dice que 'el que quiera salvar su vida, la perderá, pero el que pierda su vida por mí, la encontrará'?",
+        "options": [
+          "Mateo 10:39",
+          "Mateo 16:25",
+          "Lucas 9:24",
+          "Los tres se encuentran en los 3 evangelios sinópticos."
+        ],
+        "correct": 3,
+        "explanation": "Esta paradoja sobre la vida y la muerte – “perder la vida para encontrarla” – aparece en Mateo 10:39; 16:25, Marcos 8:35, Lucas 9:24 y 17:33; e incluso Juan 12:25, probablemente dicho varias veces por Jesús, ya que es central en su enseñanza sobre el discipulado."
+      },
+      {
+        "question": "¿Completar la profecía de Joel 2:28 citada por Pedro en Pentecostés: 'En los últimos días... vuestros hijos y vuestras hijas profetizarán...'?",
+        "options": [
+          "'...y los ancianos tendrán visiones'",
+          "'...y vuestros viejos tendrán sueños; y tus jóvenes verán visiones'",
+          "'...y el Espíritu de Dios descenderá sobre todos los hombres'",
+          "'...y toda la tierra conocerá al Señor'"
+        ],
+        "correct": 1,
+        "explanation": "Joel 2:28 (Hebreo 3:1) / Hechos 2:17: 'En los últimos días... vuestros hijos y vuestras hijas profetizarán, vuestros ancianos soñarán sueños, y vuestros jóvenes verán visiones.' — Pedro cita a Joel para explicar Pentecostés como el cumplimiento de la promesa del derramamiento del Espíritu sobre toda carne."
+      },
+      {
+        "question": "¿Qué versículo del Antiguo Testamento sobre la fe se cita tres veces en el Nuevo Testamento (Romanos 1:17; Gálatas 3:11; Hebreos 10:38)?",
+        "options": [
+          "Génesis 15:6",
+          "Habacuc 2:4",
+          "Isaías 7:9",
+          "Deuteronomio 6:5"
+        ],
+        "correct": 1,
+        "explanation": "Habacuc 2:4: 'El justo por su fe vivirá': este breve y explosivo versículo se cita tres veces en el Nuevo Testamento, lo que marca la centralidad de la fe en cada aspecto de la vida cristiana (justificación en Pablo, caminar diario en Pablo, perseverancia en el autor de Hebreos)."
+      },
+      {
+        "question": "¿Qué versículo de la Epístola a los Efesios dice 'No hay lucha contra sangre y carne, sino contra...'?",
+        "options": [
+          "Efesios 6:10",
+          "Efesios 6:12",
+          "Efesios 6:17",
+          "Efesios 6:18"
+        ],
+        "correct": 1,
+        "explanation": "Efesios 6:12: '...contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra espíritus de maldad en las regiones celestiales.' — Pablo revela la dimensión espiritual invisible de la guerra cristiana."
+      },
+      {
+        "question": "¿Completar Juan 15:13: '¿No hay amor más grande...'?",
+        "options": [
+          "'...amar a los que nos odian'",
+          "'...poner la vida por los amigos'",
+          "'...ama a Dios con todo tu corazón'",
+          "'...perdona a los que nos ofenden'"
+        ],
+        "correct": 1,
+        "explanation": "Juan 15:13: 'Nadie tiene mayor amor que el de dar la vida por los amigos'. — Jesús anuncia su sacrificio como expresión suprema del ágape, en el discurso de la viña (Juan 15)."
+      },
+      {
+        "question": "¿Qué versículo del Salmo 51 muestra el profundo arrepentimiento de David después de su pecado?",
+        "options": [
+          "Salmo 51:1",
+          "Salmo 51:4",
+          "Salmo 51:10",
+          "Salmo 51:17"
+        ],
+        "correct": 3,
+        "explanation": "Salmo 51:17: 'Los sacrificios que agradan a Dios son el espíritu quebrantado; Oh Dios, no desdeñas el corazón quebrantado y contrito.' — Después del asunto de Betsabé, David comprende que el verdadero arrepentimiento supera cualquier sacrificio externo."
+      },
+      {
+        "question": "¿Qué versículo de Colosenses dice: \"Vosotros estáis muertos, y vuestra vida está escondida con Cristo en Dios\"?",
+        "options": [
+          "Colosenses 2:12",
+          "Colosenses 3:3",
+          "Colosenses 3:11",
+          "Colosenses 1:27"
+        ],
+        "correct": 1,
+        "explanation": "Colosenses 3:3: 'Porque estáis muertos, y vuestra vida está escondida con Cristo en Dios.' — el misterio de la unión con Cristo: el creyente ha muerto con Cristo (al viejo yo) y su verdadera vida ahora está 'escondida en Dios' — revelado en la Parusía (Colosenses 3:4)."
+      },
+      {
+        "question": "¿Qué versículo del Nuevo Testamento resume la misión de Jesús: 'El Hijo del Hombre vino a buscar y salvar lo que se había perdido'?",
+        "options": [
+          "Mateo 18:11",
+          "Lucas 19:10",
+          "Juan 3:17",
+          "1 Timoteo 1:15"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 19:10: 'Porque el Hijo del Hombre vino a buscar y salvar lo que se había perdido'. — dicho por Jesús a la casa de Zaqueo, resumiendo en una frase toda su misión soteriológica."
+      },
+      {
+        "question": "¿Qué versículo del Génesis contiene la primera promesa mesiánica bíblica (Protevangel)?",
+        "options": [
+          "Génesis 3:15",
+          "Génesis 12:3",
+          "Génesis 22:18",
+          "Génesis 49:10"
+        ],
+        "correct": 0,
+        "explanation": "Génesis 3:15: 'Pondré enemistad entre ti y la mujer, y entre tu descendencia y la de ella: ella te herirá en la cabeza, y tú le herirás en el calcañar.' — el 'Protevangelium' ('primera buena noticia'), primer anuncio mesiánico después de la Caída."
+      },
+      {
+        "question": "¿Qué versículo de Deuteronomio 6:4-5 se llama 'Shema Israel'?",
+        "options": [
+          "'Escucha, oh Israel: Jehová es nuestro Dios, Jehová uno es. Amarás al Señor con todo tu corazón'",
+          "'No tendrás otros dioses delante de mí'",
+          "'Amarás a tu prójimo como a ti mismo'",
+          "'El SEÑOR tu Dios es Dios de dioses y Señor de señores'"
+        ],
+        "correct": 0,
+        "explanation": "Deuteronomio 6:4-5: 'Oye, Israel: Jehová es nuestro Dios, Jehová uno es. Amarás al SEÑOR tu Dios con todo tu corazón y con toda tu alma y con todas tus fuerzas.' — la oración central del judaísmo, citada por Jesús como el primer mandamiento (Marcos 12:29-30)."
+      },
+      {
+        "question": "¿Qué versículo dice \"Acercaos a Dios, y él se acercará a vosotros\"?",
+        "options": [
+          "Hebreos 10:22",
+          "Santiago 4:8",
+          "1 Juan 4:19",
+          "Salmo 145:18"
+        ],
+        "correct": 1,
+        "explanation": "Santiago 4:8: 'Acercaos a Dios, y él se acercará a vosotros. Purificad vuestras manos, pecadores; Santificad vuestros corazones, vosotros que tenéis el alma dividida.' — llamado al arrepentimiento y la santificación como condiciones para la intimidad con Dios."
+      },
+      {
+        "question": "¿Qué versículo de Sofonías dice: 'El Señor tu Dios está en medio de ti como un poderoso Salvador'?",
+        "options": [
+          "Sofonías 1:7",
+          "Sofonías 3:17",
+          "Sofonías 2:3",
+          "Miqueas 7:18"
+        ],
+        "correct": 1,
+        "explanation": "Sofonías 3:17: 'El SEÑOR tu Dios está en medio de ti como un poderoso Salvador; él tendrá gozo y alegría en ti; callará en su amor, gritará de alegría por ti.' — Dios que canta con alegría sobre su pueblo, uno de los versículos más conmovedores del Antiguo Testamento."
+      },
+      {
+        "question": "¿Qué versículo de Romanos dice: \"Por cuanto todos pecaron y están destituidos de la gloria de Dios\"?",
+        "options": [
+          "Romanos 1:18",
+          "Romanos 3:23",
+          "Romanos 5:12",
+          "Romanos 6:23"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 3:23: 'Por cuanto todos pecaron y están destituidos de la gloria de Dios'. — junto con Romanos 3:24-25, este versículo resume el diagnóstico universal (todos hemos pecado) y el remedio divino (la justificación gratuita mediante la redención en Cristo)."
+      },
+      {
+        "question": "¿Completar Filipenses 4:7: 'Y la paz de Dios, que sobrepasa todo entendimiento...'?",
+        "options": [
+          "'...estará contigo para siempre'",
+          "'... guardará vuestros corazones y vuestros pensamientos en Cristo Jesús'",
+          "'...descenderá sobre ti como un río'",
+          "'...te dará fuerza y ​​coraje'"
+        ],
+        "correct": 1,
+        "explanation": "Filipenses 4:7: '...guardad vuestros corazones y vuestros pensamientos en Cristo Jesús.' — promesa de paz divina que 'sobrepasa todo entendimiento', concedida a quienes presentan sus peticiones a Dios 'con acción de gracias' (Filipenses 4:6)."
+      },
+      {
+        "question": "¿Qué versículo del Evangelio de Lucas dice que \"a quien mucho se le da, mucho se le demandará\"?",
+        "options": [
+          "Lucas 12:47",
+          "Lucas 12:48",
+          "Lucas 19:26",
+          "Mateo 25:29"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 12:48: '...pero a quien mucho se le da, mucho se le exigirá, y a quien mucho se le confía, más se le exigirá.' — principio de responsabilidad proporcional en el Reino de Dios."
+      },
+      {
+        "question": "¿Qué versículo dice 'El Señor no tarda en cumplir su promesa... sino que tiene paciencia con vosotros'?",
+        "options": [
+          "2 Pedro 3:8",
+          "2 Pedro 3:9",
+          "Hebreos 10:37",
+          "Apocalipsis 22:20"
+        ],
+        "correct": 1,
+        "explanation": "2 Pedro 3:9: 'El Señor no tarda en cumplir su promesa... sino que es paciente para con vosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.' — respuesta a quienes cuestionan el retraso de la Parusía."
+      },
+      {
+        "question": "¿Qué versículo resume la ley de la siembra y la cosecha espiritual?",
+        "options": [
+          "Gálatas 6:7",
+          "Gálatas 6:8",
+          "2 Corintios 9:6",
+          "Ambos: Gálatas 6:7-8 y 2 Corintios 9:6"
+        ],
+        "correct": 3,
+        "explanation": "Gálatas 6:7-8 (“Dios no es objeto de burla. Todo lo que el hombre siembre, eso también segará”) y 2 Corintios 9:6 (“El que siembra escasamente, escasamente segará, y el que siembra abundantemente, abundantemente segará”): dos expresiones diferentes del mismo principio de siembra y cosecha espiritual."
+      },
+      {
+        "question": "¿Qué versículo dice 'Fortaleceos en el Señor y en el poder de su fuerza'?",
+        "options": [
+          "Efesios 6:10",
+          "2 Timoteo 2:1",
+          "1 Corintios 16:13",
+          "Filipenses 4:13"
+        ],
+        "correct": 0,
+        "explanation": "Efesios 6:10: 'Por último, fortaleceos en el Señor y en el poder de su fuerza'. — exhortación introductoria a la sección sobre la armadura de Dios (Efesios 6:10-18), enfatizando que la fuerza cristiana proviene de Dios, no de nosotros."
+      },
+      {
+        "question": "¿Qué versículo de Nehemías dice \"El gozo del Señor es tu fortaleza\"?",
+        "options": [
+          "Nehemías 8:8",
+          "Nehemías 8:10",
+          "Nehemías 9:17",
+          "Esdras 3:11"
+        ],
+        "correct": 1,
+        "explanation": "Nehemías 8:10: '...no os lamentéis, porque el gozo de Jehová será vuestra fortaleza.' — dijo durante la celebración pública de la lectura de la Ley redescubierta, mientras el pueblo lloraba de emoción."
+      },
+      {
+        "question": "Completa Apocalipsis 22:20: 'Sí, vengo pronto. ¡Amén! Venir...'?",
+        "options": [
+          "'...¡Señor Jesús! La gracia del Señor Jesús sea con todos.'",
+          "'...Señor, en tu gloria celestial'",
+          "'...y establece tu reino eterno'",
+          "'...y cumple tus fieles promesas'"
+        ],
+        "correct": 0,
+        "explanation": "Apocalipsis 22:20-21: 'Sí, vengo pronto. ¡Amén! ¡Ven, Señor Jesús! ¡Que la gracia del Señor Jesús sea con todos!' — las últimas palabras de la Biblia: esperanza escatológica (Maranatha) + bendición de la gracia."
+      },
+      {
+        "question": "¿Qué versículo dice: 'He aquí os doy potestad de hollar serpientes y escorpiones... y nada os dañará'?",
+        "options": [
+          "Marcos 16:18",
+          "Lucas 10:19",
+          "Juan 14:12",
+          "Hechos 1:8"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 10:19: 'He aquí os he dado potestad de hollar serpientes y escorpiones, y sobre toda fuerza del enemigo; y nada te hará daño.' — dicho por Jesús a los 72 discípulos que regresaron gozosos de su misión."
+      },
+      {
+        "question": "¿Qué versículo de la epístola de Santiago dice que 'la oración ferviente de los justos tiene gran efecto'?",
+        "options": [
+          "Santiago 1:5",
+          "Santiago 4:3",
+          "Santiago 5:16",
+          "Santiago 5:17"
+        ],
+        "correct": 2,
+        "explanation": "Santiago 5:16: 'Por tanto, confesad vuestros pecados unos a otros, y orad unos por otros, para que seáis sanados. La oración ferviente de los justos tiene un gran efecto.' — fundamento de la oración intercesora en la Iglesia."
+      },
+      {
+        "question": "¿Qué versículo del Apocalipsis dice: \"Lo vencieron por la sangre del Cordero y por la palabra de su testimonio\"?",
+        "options": [
+          "Apocalipsis 7:14",
+          "Apocalipsis 12:11",
+          "Apocalipsis 15:2",
+          "Apocalipsis 17:14"
+        ],
+        "correct": 1,
+        "explanation": "Apocalipsis 12:11: 'Lo vencieron por la sangre del Cordero y por la palabra de su testimonio, y no amaron tanto sus vidas como para temer la muerte'. — las dos armas del cristiano victorioso: la sangre de Cristo y el testimonio fiel."
+      },
+      {
+        "question": "¿Qué versículo del Evangelio de Lucas expresa la misericordia de Dios en la parábola del padre pródigo?",
+        "options": [
+          "Lucas 15:20",
+          "Lucas 15:22",
+          "Lucas 15:24",
+          "Lucas 15:32"
+        ],
+        "correct": 0,
+        "explanation": "Lucas 15:20: '...cuando aún estaba lejos, su padre lo vio y tuvo compasión, y corrió y se echó sobre su cuello y lo besó.' — el corazón de la parábola: el padre que corre hacia el hijo arrepentido, imagen incomparable de la gracia divina que acoge al pecador que regresa."
+      }
+    ],
+    "expert": [
+      {
+        "question": "¿En qué versículo aparece el término hebreo 'chesed' en la revelación divina a Moisés?",
+        "options": [
+          "Génesis 32:10",
+          "Éxodo 34:6-7",
+          "Deuteronomio 7:9",
+          "Todas estas referencias"
+        ],
+        "correct": 3,
+        "explanation": "'Chesed' (חֶסֶד) es un término central que describe la fidelidad amorosa de Dios, presente en todas estas referencias."
+      },
+      {
+        "question": "¿Qué término hebreo significa \"verdad\", \"fidelidad\" y \"firmeza\" al mismo tiempo?",
+        "options": [
+          "Shalom",
+          "emeth",
+          "Kodesh",
+          "Hesed"
+        ],
+        "correct": 1,
+        "explanation": "'Emeth' (אֱמֶת) significa 'verdad, fidelidad, firmeza', lo que refleja el carácter firme de Dios."
+      },
+      {
+        "question": "¿Cuál es el contexto original del a menudo malinterpretado Jeremías 29:11?",
+        "options": [
+          "Una promesa hecha a Jeremy personalmente.",
+          "Una carta a los exiliados de Babilonia para toda una nación después de 70 años",
+          "Un oráculo para los reyes de Israel",
+          "Una promesa escatológica"
+        ],
+        "correct": 1,
+        "explanation": "Jeremías 29:11 está dirigido a la nación israelita exiliada en Babilonia, no una promesa individual inmediata."
+      },
+      {
+        "question": "En Isaías 53:5, ¿qué término hebreo traducido como \"traspasado\" tiene una profunda connotación de sacrificio?",
+        "options": [
+          "Nakah",
+          "Chalal",
+          "makat",
+          "Bajá"
+        ],
+        "correct": 1,
+        "explanation": "'Chalal' (חָלַל) significa 'traspasado mortalmente', con una connotación de muerte violenta y sacrificial."
+      },
+      {
+        "question": "¿Cuál es la estructura retórica del prólogo de Juan (1:1-18)?",
+        "options": [
+          "Una introducción narrativa sencilla",
+          "Un himno cristológico en forma de quiasma",
+          "Un argumento filosófico griego",
+          "Un discurso profético en estrofas"
+        ],
+        "correct": 1,
+        "explanation": "El prólogo de Juan está estructurado en un quiasmo con el Logos como centro."
+      },
+      {
+        "question": "En Apocalipsis 1:8, ¿qué término griego completa \"Yo soy Alfa y Omega\"?",
+        "options": [
+          "Pantokrator (Todopoderoso)",
+          "Kyrios (Señor)",
+          "Cristos (Cristo)",
+          "Theos (Dios)"
+        ],
+        "correct": 0,
+        "explanation": "Apocalipsis 1:8: '...el Todopoderoso (Pantokrator)'."
+      },
+      {
+        "question": "¿Cuál es el significado teológico de la 'sangre rociada' en Hebreos 12:24?",
+        "options": [
+          "bautismo cristiano",
+          "Purificación de los pecados por la intercesión de Cristo resucitado",
+          "El sacrificio de Pascua",
+          "El rito de consagración de los sacerdotes."
+        ],
+        "correct": 1,
+        "explanation": "La \"sangre rociada\" se refiere a la sangre de Cristo que \"habla mejor\" que la de Abel."
+      },
+      {
+        "question": "¿Qué cita de Habacuc 2:4 se usa tres veces en el Nuevo Testamento?",
+        "options": [
+          "'El Señor está en su santo templo'",
+          "'El justo por la fe vivirá'",
+          "'Todavía un poco de tiempo, y el que ha de venir, vendrá'",
+          "'¡Ay del que dice al madero: ¡despierta!'"
+        ],
+        "correct": 1,
+        "explanation": "'El justo por la fe vivirá' (Habacuc 2:4) se cita en Romanos 1:17, Gálatas 3:11 y Hebreos 10:38."
+      },
+      {
+        "question": "¿Qué término griego del Nuevo Testamento, en la raíz de la palabra \"Iglesia\", implica \"separación\"?",
+        "options": [
+          "Hagios (santo)",
+          "Ekklesia (llamado fuera)",
+          "Pneuma (espíritu)",
+          "Doxa (gloria)"
+        ],
+        "correct": 1,
+        "explanation": "'Ekklesia' significa literalmente 'aquellos que son llamados'."
+      },
+      {
+        "question": "En Mateo 5:17, ¿cómo completa Jesús 'No he venido a destruir...'?",
+        "options": [
+          "...las tradiciones de los antiguos",
+          "...la Ley ni los Profetas; No vine a abolir, sino a cumplir.",
+          "...los mandamientos, pero profundizarlos",
+          "...sacrificios, pero reemplázalos con gracia"
+        ],
+        "correct": 1,
+        "explanation": "Mateo 5:17: 'No he venido para abrogar, sino para cumplir'."
+      },
+      {
+        "question": "¿Cuál es el contexto litúrgico original del 'Padre Nuestro' en Mateo 6?",
+        "options": [
+          "Una oración por las comidas",
+          "Una instrucción sobre la oración auténtica versus la oración ostentosa",
+          "Una liturgia para el sábado",
+          "Un discurso escatológico"
+        ],
+        "correct": 1,
+        "explanation": "El 'Padre Nuestro' es parte de la enseñanza de Jesús sobre la oración en contraste con la oración hipócrita (Mateo 6:5-8)."
+      },
+      {
+        "question": "En Apocalipsis, ¿qué representan simbólicamente los '144.000' sellados?",
+        "options": [
+          "Exactamente 144.000 judíos se convirtieron",
+          "Todo el pueblo de Dios (12 tribus × 12 × 1000)",
+          "Mártires cristianos de los primeros siglos.",
+          "Ángeles guardianes de Israel"
+        ],
+        "correct": 1,
+        "explanation": "144.000 = 12 × 12 × 1000, un número simbólico que representa la plenitud del pueblo de Dios."
+      },
+      {
+        "question": "¿Qué doble mandamiento resume toda la Ley según Jesús en Mateo 22:37-40?",
+        "options": [
+          "Amar a Dios y al prójimo (Dt 6:5 y Lev 19:18)",
+          "Cree en Dios y obedece sus mandamientos.",
+          "Honra a tus padres y no mates.",
+          "Fe y obras"
+        ],
+        "correct": 0,
+        "explanation": "Jesús cita Deuteronomio 6:5 y Levítico 19:18 como resumen de toda la Ley (Mateo 22:37-40)."
+      },
+      {
+        "question": "¿Qué término hebreo del Antiguo Testamento que significa \"justicia/rectitud\" es más relacional que legalista?",
+        "options": [
+          "Mishpat",
+          "Tzedaqá",
+          "Tora",
+          "Shalom"
+        ],
+        "correct": 1,
+        "explanation": "'Tzedaqah' (צְדָקָה) es la justicia/rectitud de Dios en el pacto, lo que implica fidelidad, lealtad y rectitud."
+      },
+      {
+        "question": "¿Cuál es la paradoja teológica central de 2 Corintios 5:21?",
+        "options": [
+          "La kénosis de Cristo",
+          "El intercambio divino donde Cristo toma nuestro pecado y nos da su justicia.",
+          "Santificación progresiva",
+          "La resurrección como victoria sobre el pecado"
+        ],
+        "correct": 1,
+        "explanation": "2 Corintios 5:21 expresa el maravilloso intercambio: Cristo fue hecho pecado para que nosotros fuésemos hechos justicia de Dios."
+      },
+      {
+        "question": "En la LXX (Septuaginta), ¿con qué término griego se suele traducir el nombre divino YHWH?",
+        "options": [
+          "Theos (Dios)",
+          "Kyrios (Señor)",
+          "Adonai (Mi Señor)",
+          "El Shaddai"
+        ],
+        "correct": 1,
+        "explanation": "La Septuaginta traduce el tetragrámaton YHWH como 'Kyrios' (Κύριος, Señor)."
+      },
+      {
+        "question": "¿Cuál es el significado hebreo del término 'dabar' (דָּבָר) usado para 'Palabra de Dios' en los textos proféticos?",
+        "options": [
+          "comunicación verbal sencilla",
+          "Palabra/evento de poder creativo y efectivo, logrando lo que dice",
+          "Mando sin fuerza propia",
+          "Metáfora poética de lo divino"
+        ],
+        "correct": 1,
+        "explanation": "'Dabar' (דָּבָר) significa tanto la palabra como el evento/hecho: la Palabra de Dios produce lo que dice (Isaías 55:11: 'no volverá a mí vacía'). El término subyace a la teología del Logos joánico."
+      },
+      {
+        "question": "¿Cuál es el significado del término griego 'aletheia' (verdad) en Juan 14:6 y su relación con la cristología?",
+        "options": [
+          "Verdad objetiva filosófica",
+          "La verdad como persona divina: Cristo es la verdad reveladora y redentora encarnada",
+          "La fidelidad humana a Dios",
+          "Un concepto jurídico de veracidad"
+        ],
+        "correct": 1,
+        "explanation": "En Juan 14:6, 'aletheia' (ἀλήθεια) no designa una verdad abstracta sino una persona: 'Yo soy... la verdad'. Cristo es la verdad reveladora (revela a Dios tal como es) y redentora (libera de las mentiras del pecado). Lo contrario de Juan: el diablo es \"padre de la mentira\" (Juan 8:44)."
+      },
+      {
+        "question": "¿Cuál es el significado del término 'Maranatha' usado en 1 Corintios 16:22 y la Didaché?",
+        "options": [
+          "'Dios está con nosotros' en arameo",
+          "'¡Señor nuestro, ven!' en arameo: grito escatológico de esperanza primitiva",
+          "'Paz y gracia' en hebreo",
+          "'Amén, que así sea' en griego"
+        ],
+        "correct": 1,
+        "explanation": "'Maranatha' (מָרַן אֲתָא) es una transliteración aramea que significa 'Nuestro Señor ha venido' (Maran atha) o '¡Nuestro Señor, ven!' (Marana tha): generalmente se prefiere la interpretación imperativa ('¡Ven, Señor!'). Éste es el grito escatológico de la Iglesia primitiva por el regreso de Cristo (cf. Apocalipsis 22,20)."
+      },
+      {
+        "question": "¿Qué figura retórica se usa en Isaías 55:12 cuando 'los montes gritarán de alegría, y los árboles batirán palmas'?",
+        "options": [
+          "Metáfora",
+          "Prosopopeya (personificación)",
+          "Hipérbola",
+          "Sinécdoque"
+        ],
+        "correct": 1,
+        "explanation": "Es una prosopopeia (personificación): los elementos de la naturaleza se presentan como seres vivos que expresan el gozo de la liberación divina (Isaías 55:12)."
+      },
+      {
+        "question": "¿Qué versículo del Antiguo Testamento se cita en Hebreos 1:5 para probar la filiación divina única de Cristo?",
+        "options": [
+          "Salmo 2:7",
+          "Salmo 110:1",
+          "2 Samuel 7:14",
+          "Ambos: Salmo 2:7 y 2 Samuel 7:14"
+        ],
+        "correct": 3,
+        "explanation": "Hebreos 1:5 cita sucesivamente el Salmo 2:7 ('Tú eres mi hijo, yo te he engendrado hoy') y 2 Samuel 7:14 ('Seré su padre') para demostrar la superioridad del Hijo sobre los ángeles."
+      },
+      {
+        "question": "¿Qué término del Nuevo Testamento (Hebreos 4:12) describe la Palabra de Dios como \"viva y eficaz\"?",
+        "options": [
+          "Logos (Palabra Viva)",
+          "Rhéma (habla activa)",
+          "Zôn kai energês (vivo y eficaz)",
+          "Pneumatikos (espiritual)"
+        ],
+        "correct": 2,
+        "explanation": "Hebreos 4:12 dice que la Palabra de Dios es 'viva y eficaz' (ζῶσα καὶ ἐνεργής, zôsa kai energês), más cortante que una espada de dos filos."
+      },
+      {
+        "question": "¿Cuál es el significado del término griego 'metanoia' (arrepentimiento) en los evangelios en relación con el simple arrepentimiento?",
+        "options": [
+          "Un sentimiento pasajero de remordimiento",
+          "Un cambio radical en la orientación mental, espiritual y práctica: un giro existencial hacia Dios.",
+          "Una práctica ritual de expiación.",
+          "La simple admisión de las propias faltas"
+        ],
+        "correct": 1,
+        "explanation": "'Metanoia' (μετάνοια, meta = después/cambio + noein = pensar) denota un cambio radical y total de dirección mental y existencial, mucho más que un simple arrepentimiento ('metamelomai'). Juan Bautista y Jesús proclaman la metanoia como condición para entrar al Reino (Mateo 3:2; 4:17)."
+      },
+      {
+        "question": "¿Cuál es el significado de la fórmula bautismal 'en el nombre del Padre y del Hijo y del Espíritu Santo' (Mateo 28:19) en la teología trinitaria?",
+        "options": [
+          "Tres bautismos separados para cada persona divina",
+          "Un solo bautismo en un solo 'Nombre' Trinitario (singular): testimonio de la unidad y tripersonalidad de Dios",
+          "Una fórmula litúrgica sin significado dogmático",
+          "Un desarrollo postapostólico ausente en el NT primitivo"
+        ],
+        "correct": 1,
+        "explanation": "Mateo 28:19: 'en el nombre' (eis to onoma, singular) del Padre, del Hijo y del Espíritu Santo; el 'nombre' singular (no 'nombres') da testimonio de la unidad divina en la triple distinción personal. Este versículo es uno de los fundamentos de la doctrina trinitaria y fue utilizado desde los primeros concilios contra el arrianismo."
+      },
+      {
+        "question": "¿Cuál es el significado de 'sábado' en su etimología hebrea y su significado teológico?",
+        "options": [
+          "Sólo descanso físico",
+          "'Shabbat' (שַׁבָּת) proviene de 'cesar/detener': el descanso de Dios después de la creación modela un ritmo de gracia, liberación de la esclavitud del trabajo y un anticipo escatológico.",
+          "Un mandamiento puramente legal y no teológico",
+          "Un rito de purificación semanal"
+        ],
+        "correct": 1,
+        "explanation": "'Shabbat' (שַׁבָּת) proviene del verbo 'shavat' (cesar, detener). El sábado tiene tres dimensiones: creación (Génesis 2:2-3—Dios descansa, modelo a seguir); liberación (Deuteronomio 5:15—recuerdo de la liberación de Egipto); escatología (Hebreos 4:9-11: anticipo del descanso escatológico en Cristo)."
+      },
+      {
+        "question": "¿Cuál es el significado de la expresión 'Espíritu de verdad' (Pneuma tês alêtheias) en el discurso del Paráclito en Juan 16:13?",
+        "options": [
+          "El Espíritu que enseña verdades filosóficas",
+          "El Espíritu Santo que conduce a toda la verdad revelada en Cristo, recuerda las palabras de Jesús y revela lo que está por venir.",
+          "Un título poético de sabiduría divina",
+          "El espíritu humano honesto y sincero."
+        ],
+        "correct": 1,
+        "explanation": "Juan 16:13: 'Cuando venga el Paráclito, el Espíritu de verdad, él os guiará a toda la verdad'. El Espíritu realiza 4 funciones hermenéuticas: (1) conduce a TODA verdad; (2) no habla de sí mismo; (3) anuncia cosas por venir; (4) glorifica a Cristo. \"Verdad\" aquí designa la revelación cristológica plenaria."
+      },
+      {
+        "question": "¿Cuál es el significado de la imagen del 'Cordero de Dios' (Juan 1:29) en el contexto de la Pascua y el Siervo sufriente?",
+        "options": [
+          "Sólo un símbolo de gentileza.",
+          "Convergencia entre el cordero pascual (Éxodo 12), el Siervo sufriente (Isaías 53,7), los sacrificios diarios y el Cordero cósmico del Apocalipsis",
+          "Un título de majestad real",
+          "Una referencia al chivo expiatorio de Levítico 16"
+        ],
+        "correct": 1,
+        "explanation": "La imagen del cordero en Juan 1:29 es una convergencia tipológica: (1) Cordero pascual (protección por sangre, Éxodo 12); (2) Siervo sufriente conducido 'como un cordero al matadero' (Isaías 53:7); (3) Sacrificio diario en el templo (tamid); (4) El Cordero del Apocalipsis 'como inmolado' reinando eternamente (Apocalipsis 5:6). Juan Bautista concentra en dos palabras (\"Cordero de Dios\") toda la teología sacrificial del Antiguo Testamento."
+      },
+      {
+        "question": "¿Cuál es el significado del término 'propiciación' (hilastêrion) en Romanos 3:25 y cómo se relaciona con la cubierta del Arca (kapporeth)?",
+        "options": [
+          "Una simple metáfora del perdón",
+          "El 'propiciatorio' o propiciatorio: lugar donde la sangre expiatoria fue rociada sobre el Arca - Jesús es el cumplimiento en su propia persona",
+          "Un término filosófico griego no relacionado con el Antiguo Testamento.",
+          "Un rito penitencial humano"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 3:25 usa 'hilastêrion' (ἱλαστήριον), el mismo término que usa la LXX para el 'kapporeth' (כַּפֹּרֶת), la cubierta dorada del Arca sobre la cual el Sumo Sacerdote roció la sangre en Yom Kipur (Levítico 16:14-15). Pablo dice que Dios presentó a Cristo públicamente como ESTE lugar de propiciación, a plena luz del día, no en el inaccesible Lugar Santísimo."
+      },
+      {
+        "question": "¿Cómo se relaciona Juan 3:14-15 con la figura de la serpiente de bronce en Números 21?",
+        "options": [
+          "Comparación retórica simple sin profundidad tipológica",
+          "Tipo-antitipo: la serpiente de bronce levantada (Números 21:8) prefigura exactamente a Cristo levantado en la cruz - mirar = creer = vivir",
+          "Una referencia críptica inexplicable",
+          "Una parábola sólo sobre el pecado"
+        ],
+        "correct": 1,
+        "explanation": "Juan 3:14-15: 'Como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado, para que todo aquel que en él crea tenga vida eterna.' Correspondencia tipológica perfecta: (1) la serpiente levantada sobre un bastón → Cristo levantado en la cruz; (2) los mordidos por las serpientes → los heridos por el pecado; (3) buscar con fe ser sanado → creer tener vida eterna."
+      },
+      {
+        "question": "¿Cuál es el significado del término 'misterio' (mustêrion) para Pablo en Efesios 3:6?",
+        "options": [
+          "Un secreto esotérico reservado para iniciados",
+          "Lo que estuvo oculto en épocas pasadas y ahora revelado: los gentiles coherederos con Israel en el único Cuerpo de Cristo",
+          "Un dogma incomprensible",
+          "Un rito litúrgico secreto"
+        ],
+        "correct": 1,
+        "explanation": "'Mustêrion' (μυστήριον) en Pablo no designa un secreto esotérico sino una revelación divina progresivamente cumplida: 'las naciones son coherederas, miembros de un mismo cuerpo y participantes de la misma promesa en Cristo Jesús' (Efesios 3:6). Este misterio \"escondido desde tiempos inmemoriales en Dios\" ahora se revela plenamente en el Evangelio: la unidad de judíos y gentiles en un solo Cuerpo."
+      },
+      {
+        "question": "¿Cuál es el significado del término griego 'telos' en Mateo 5:48 ('sed vosotros perfectos como vuestro Padre celestial es perfecto')?",
+        "options": [
+          "Perfección moral absoluta imposible de alcanzar.",
+          "'Telos' = completo, realizado, maduro, orientado a objetivos: exige madurez e integridad en el amor",
+          "Sinónimo de 'santo' (hagios)",
+          "Un ideal platónico de excelencia moral"
+        ],
+        "correct": 1,
+        "explanation": "'Teleios' (τέλειος) proviene de 'telos' (meta, logro): no perfección absoluta e impecable, sino maduración, integridad, amor consumado. El contexto (Mateo 5:43-48) trata de amar a tus enemigos como Dios ama a todos; el ideal es el amor inclusivo, no la perfección legalista."
+      },
+      {
+        "question": "¿Cuál es el significado del término 'dikaiosynê' (justicia/rectitud) en el Sermón de la Montaña (Mateo 5:6,10,20; 6:33)?",
+        "options": [
+          "Justicia jurídica retributiva",
+          "La justicia del pacto de Dios: un don recibido por gracia Y una justicia que debe practicarse: doble dimensión de la justicia del Reino",
+          "Sólo justicia social horizontal",
+          "Sólo justificación paulina"
+        ],
+        "correct": 1,
+        "explanation": "'Dikaiosynê' en Mateo tiene una doble dimensión: (1) vertical — la justicia que Dios da (5:6: hambre de justicia); (2) horizontal: justicia que debe practicarse hacia los demás (5:10: perseguidos por causa de la justicia). Mateo 5:20 (“si vuestra justicia no es mayor que la de los escribas y fariseos”) significa una justicia de la intención del corazón, no sólo de la observancia exterior."
+      },
+      {
+        "question": "¿Cuál es el significado litúrgico y escatológico de la frase 'Cuerpo y Sangre de Cristo' en 1 Corintios 11:23-26?",
+        "options": [
+          "Una sencilla comida conmemorativa sin presencia real",
+          "'Haced esto en memoria mía' establece una anamnesis (memoria activa) que proclama la muerte del Señor hasta que venga - tensión entre pasado (cruz), presente (comida) y futuro (Parusía)",
+          "Transustanciación católica exactamente",
+          "Sólo una comida fraterna ágape"
+        ],
+        "correct": 1,
+        "explanation": "1 Corintios 11:26: 'Cada vez que coméis este pan y bebéis esta copa, la muerte del Señor anunciáis hasta que él venga'. La Última Cena es una anamnesis (ἀνάμνησις), no un simple recuerdo pasivo, sino una proclamación activa que mantiene unidos: la cruz (pasado, fundamento), la presencia del Resucitado (presente, participación) y la Parusía (futuro, esperanza)."
+      },
+      {
+        "question": "¿Cuál es el significado teológico del 'nombre sobre todo nombre' dado a Jesús en Filipenses 2:9-11?",
+        "options": [
+          "Un título honorífico humano",
+          "La exaltación escatológica de Jesús recibiendo el nombre divino YHWH mismo: cumplimiento de Isaías 45:23 aplicado a Cristo",
+          "Simplemente el nombre 'Jesús'",
+          "Un reclamo angelical a la fama."
+        ],
+        "correct": 1,
+        "explanation": "Filipenses 2:9-11 cita Isaías 45:23 (“toda rodilla se doblará ante mí, y toda lengua jurará”), un versículo que habla de YHWH mismo en Isaías, y lo aplica a Jesús. El 'nombre sobre todo nombre' es el Nombre divino YHWH = Señor (Kyrios). La exaltación de Cristo es Su investidura del Nombre y autoridad divina sobre toda la creación."
+      },
+      {
+        "question": "¿Cuál es el alcance universal y cristocéntrico de la 'nueva creación' (ktisis kainê) en 2 Corintios 5:17?",
+        "options": [
+          "Sólo un cambio moral interior.",
+          "La nueva creación cósmica inaugurada en Cristo resucitado, de la que el creyente participa ahora por anticipación escatológica",
+          "La creación de una nueva Iglesia",
+          "La renovación anual de la naturaleza."
+        ],
+        "correct": 1,
+        "explanation": "2 Corintios 5:17: 'Si alguno está en Cristo, nueva criatura es. Las cosas viejas han pasado; he aquí, todas las cosas son hechas nuevas.' 'Ktisis kainê' se refiere a la promesa de Isaías de un 'cielo nuevo y una tierra nueva' (Isaías 65:17). El Cristo resucitado es 'las primicias' (1 Corintios 15:20) de la nueva creación cósmica; el creyente ya participa de ella en esperanza."
+      },
+      {
+        "question": "¿Cuál es la relación entre las 'promesas de Abraham' en Gálatas 3 y el alcance universal de la bendición divina?",
+        "options": [
+          "Las promesas están dirigidas sólo a Israel.",
+          "Pablo muestra que la promesa a Abraham ('benditas todas las naciones en ti', Génesis 12:3; 22:18) precede a la Ley en 430 años y encuentra su cumplimiento sólo en Cristo.",
+          "Las promesas están abolidas por ley.",
+          "Los gentiles heredan por la circuncisión."
+        ],
+        "correct": 1,
+        "explanation": "Gálatas 3:15-18: La promesa abrahámica (Génesis 12:3; 22:18) es anterior y superior a la Ley (430 años después, Éxodo 12:40). Pablo dice en 3:16 que la promesa se hace 'a tu descendencia' (singular) = Cristo. A través de la unión con Cristo, los judíos Y los gentiles se convierten en 'la descendencia de Abraham, herederos según la promesa' (Gálatas 3:29), el cumplimiento cósmico de la bendición universal."
+      },
+      {
+        "question": "¿Cuál es el significado de la imagen de 'nuevos cielos y nueva tierra' en Apocalipsis 21:1 y en qué se diferencia de la aniquilación cósmica?",
+        "options": [
+          "Destrucción total del universo y creación ex nihilo de otro.",
+          "El término griego 'kainos' (nuevo en calidad) indica una transformación transfiguradora, no una aniquilación: continuidad en la discontinuidad.",
+          "Una simple metáfora espiritual para el corazón renovado.",
+          "La aniquilación exacta del Antiguo Testamento (2 Pedro 3:10-12)"
+        ],
+        "correct": 1,
+        "explanation": "Apocalipsis 21:1 usa 'kainos' (καινός, nuevo en calidad) no 'neos' (nuevo en el tiempo). 2 Pedro 3:10-12 habla de 'disolución', pero el término griego 'lythêsontai' puede significar 'deshacerse/transformarse', no necesariamente 'aniquilar'. Romanos 8:21 dice que 'la creación misma será liberada de la esclavitud': un movimiento de liberación, no de aniquilación. La resurrección del cuerpo físico de Cristo sustenta la continuidad corporal de la nueva creación."
+      },
+      {
+        "question": "¿Cuál es el significado de 'preordenación/predestinación' (proorizô) en Romanos 8:29-30 y cómo la teología reformada la distingue del simple conocimiento previo?",
+        "options": [
+          "Predestinación = Dios decide de antemano lo que sabe de antemano (preconocimiento), los dos son iguales",
+          "Predestinación = acto soberano de Dios que precede y causa la fe; Presciencia = conocimiento de lo que Dios ha decretado – predestinación lógicamente antes que la presciencia",
+          "La predestinación sólo concierne a Israel como nación",
+          "Pablo no distingue predestinación y presciencia en Romanos 8"
+        ],
+        "correct": 1,
+        "explanation": "La teología reformada (Calvino) distingue: 'proginôskô' (prē-saber, presciencia) y 'proorizô' (pre-delimitar, predestinar). Romanos 8:29-30: 'a los que antes conoció (proegnö)... también los predestinó (proôrisen)'. Para la teología reformada, el 'conocimiento previo' es relacional (elegir en amor) y lógicamente precede al 'conocimiento previo': Dios predestina soberanamente, no reacciona a lo que prevé."
+      },
+      {
+        "question": "¿Cuál es el significado de Génesis 1:26-27 ('hagamos al hombre a nuestra imagen y semejanza') para la antropología bíblica?",
+        "options": [
+          "Un vestigio politeísta (plural de dioses)",
+          "La imago Dei: el hombre como ser relacional con semejanza divina: capacidad de relación con Dios, razón, creatividad, responsabilidad ética y vocación real sobre la creación.",
+          "La creación del alma inmortal únicamente.",
+          "Una metáfora del entrenamiento físico del hombre por parte de Dios."
+        ],
+        "correct": 1,
+        "explanation": "Génesis 1:26-27 es el fundamento de la antropología bíblica. 'Imagen' (tselem) y 'semejanza' (demut) designan: (1) relación con Dios (capacidad de comprensión y respuesta); (2) representación/virregencia (el hombre como representante de Dios sobre la creación); (3) la diferencia sexual (“varón y mujer los creó”) como reflejo de la comunión intradivina. El plural 'hagamos' se ve como plural de majestad o prototrinitario según los intérpretes."
+      }
+    ]
+  }
+}
