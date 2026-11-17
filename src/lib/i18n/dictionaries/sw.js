@@ -72,10 +72,10 @@ export default {
   },
 
   difficulty: {
-    beginner: "🌱 Mwanzo",
-    beginnerDesc: "Maswali rahisi kuanza",
-    intermediate: "📖 Wastani",
-    intermediateDesc: "Kwa wanaojua Biblia vizuri",
+    debutant: "🌱 Mwanzo",
+    debutantDesc: "Maswali rahisi kuanza",
+    intermediaire: "📖 Wastani",
+    intermediaireDesc: "Kwa wanaojua Biblia vizuri",
     expert: "🔥 Mtaalamu",
     expertDesc: "Maswali magumu kwa wapenzi wa Biblia",
     chooseLevel: "Chagua ngazi yako ya ugumu",

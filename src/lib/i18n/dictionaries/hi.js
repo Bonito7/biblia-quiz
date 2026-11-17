@@ -71,10 +71,10 @@ export default {
   },
 
   difficulty: {
-    beginner: "🌱 शुरुआती",
-    beginnerDesc: "शुरुआत करने के लिए सरल प्रश्न",
-    intermediate: "📖 मध्यवर्ती",
-    intermediateDesc: "उन लोगों के लिए जिन्हें बाइबल की अच्छी समझ है",
+    debutant: "🌱 शुरुआती",
+    debutantDesc: "शुरुआत करने के लिए सरल प्रश्न",
+    intermediaire: "📖 मध्यवर्ती",
+    intermediaireDesc: "उन लोगों के लिए जिन्हें बाइबल की अच्छी समझ है",
     expert: "🔥 विशेषज्ञ",
     expertDesc: "शौक़ीनों के लिए कठिन प्रश्न",
     chooseLevel: "अपनी कठिनाई का स्तर चुनें",

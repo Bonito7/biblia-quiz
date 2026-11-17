@@ -72,10 +72,10 @@ export default {
   },
 
   difficulty: {
-    beginner: "🌱 入门",
-    beginnerDesc: "适合起步的简单题目",
-    intermediate: "📖 进阶",
-    intermediateDesc: "适合熟悉圣经的读者",
+    debutant: "🌱 入门",
+    debutantDesc: "适合起步的简单题目",
+    intermediaire: "📖 进阶",
+    intermediaireDesc: "适合熟悉圣经的读者",
     expert: "🔥 专家",
     expertDesc: "为爱好者准备的挑战题",
     chooseLevel: "选择你的难度等级",
