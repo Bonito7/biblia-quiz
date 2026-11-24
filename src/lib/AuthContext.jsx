@@ -3,6 +3,7 @@ import React, { createContext, useState, useContext, useEffect } from 'react';
 const AuthContext = createContext();
 
 const STORAGE_KEY_PHONE = 'bibliaQuiz_phone';
+const STORAGE_KEY_TRIAL_EXPIRY = 'bibliaQuiz_trialExpiry';
 const BACKEND_URL = import.meta.env.VITE_PAYMENT_BACKEND_URL || '';
 
 export const AuthProvider = ({ children }) => {
@@ -31,28 +32,52 @@ export const AuthProvider = ({ children }) => {
       // Check local cache first for offline resilience
       const localPaid = localStorage.getItem(`bibliaQuiz_paid_${userId}`) === 'true';
 
+      // Check if user has a valid trial expiry
+      const trialExpiryStr = localStorage.getItem(`bibliaQuiz_trialExpiry_${userId}`);
+      const trialExpiry = trialExpiryStr ? new Date(trialExpiryStr) : null;
+      const isTrialValid = trialExpiry && new Date() < trialExpiry;
+
       const response = await fetch(`${BACKEND_URL}/api/payments/status/biblia-quiz/${encodeURIComponent(userId)}`);
       if (response.ok) {
         const data = await response.json();
-        setIsPaid(data.paid);
-        if (data.paid) {
+        // User is paid if: backend says paid, OR trial is still valid
+        const backendPaid = data.paid;
+        setIsPaid(backendPaid || isTrialValid);
+        if (backendPaid) {
           localStorage.setItem(`bibliaQuiz_paid_${userId}`, 'true');
-        } else {
-          // If backend says not paid but local cache says paid, trust local cache
-          // (handles webhook delay)
-          if (localPaid) setIsPaid(true);
+        }
+        // If trial is valid but backend says not paid, keep trial status
+        if (isTrialValid && !backendPaid) {
+          // Keep isPaid as true due to valid trial
         }
       } else {
-        // Backend error: fall back to local cache
-        setIsPaid(localPaid);
+        // Backend error: fall back to local cache and trial check
+        setIsPaid(localPaid || isTrialValid);
+      }
+      // If trial is valid, ensure local cache reflects it
+      if (isTrialValid) {
+        localStorage.setItem(`bibliaQuiz_paid_${userId}`, 'true');
       }
     } catch (error) {
       console.error('Error checking payment status:', error);
       const localPaid = localStorage.getItem(`bibliaQuiz_paid_${userId}`) === 'true';
-      setIsPaid(localPaid);
+      const trialExpiryStr = localStorage.getItem(`bibliaQuiz_trialExpiry_${userId}`);
+      const trialExpiry = trialExpiryStr ? new Date(trialExpiryStr) : null;
+      const isTrialValid = trialExpiry && new Date() < trialExpiry;
+      setIsPaid(localPaid || isTrialValid);
     } finally {
       setIsLoadingPayment(false);
     }
+  };
+
+  // Grant one-month trial access to a user
+  const grantTrialAccess = (userId) => {
+    const trialDurationDays = 30;
+    const expiryDate = new Date();
+    expiryDate.setDate(expiryDate.getDate() + trialDurationDays);
+    localStorage.setItem(`bibliaQuiz_trialExpiry_${userId}`, expiryDate.toISOString());
+    localStorage.setItem(`bibliaQuiz_paid_${userId}`, 'true');
+    setIsPaid(true);
   };
 
   const loginWithPhone = async (sanitizedPhone) => {
@@ -66,6 +91,7 @@ export const AuthProvider = ({ children }) => {
     const savedPhone = localStorage.getItem(STORAGE_KEY_PHONE);
     // Keep paid status in local cache so user doesn't have to re-verify after logout
     localStorage.removeItem(STORAGE_KEY_PHONE);
+    // Also keep trial expiry for potential re-check
     setPhone(null);
     setIsAuthenticated(false);
     setIsPaid(false);
