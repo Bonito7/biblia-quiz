@@ -70,10 +70,10 @@ export default {
   },
 
   difficulty: {
-    beginner: "🌱 Начальный",
-    beginnerDesc: "Простые вопросы для начала",
-    intermediate: "📖 Средний",
-    intermediateDesc: "Для тех, кто хорошо знает Библию",
+    debutant: "🌱 Начальный",
+    debutantDesc: "Простые вопросы для начала",
+    intermediaire: "📖 Средний",
+    intermediaireDesc: "Для тех, кто хорошо знает Библию",
     expert: "🔥 Эксперт",
     expertDesc: "Сложные вопросы для знатоков",
     chooseLevel: "Выберите уровень сложности",

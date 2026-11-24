@@ -72,10 +72,10 @@ export default {
   },
 
   difficulty: {
-    beginner: "🌱 Beginner",
-    beginnerDesc: "Simple questions to get started",
-    intermediate: "📖 Intermediate",
-    intermediateDesc: "For those who know the Bible well",
+    debutant: "🌱 Beginner",
+    debutantDesc: "Simple questions to get started",
+    intermediaire: "📖 Intermediate",
+    intermediaireDesc: "For those who know the Bible well",
     expert: "🔥 Expert",
     expertDesc: "Difficult questions for enthusiasts",
     chooseLevel: "Choose your difficulty level",

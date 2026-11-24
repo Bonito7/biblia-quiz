@@ -70,6 +70,16 @@ export const AuthProvider = ({ children }) => {
     }
   };
 
+  // Grant one-month trial access to a user
+  const grantTrialAccess = (userId) => {
+    const trialDurationDays = 30;
+    const expiryDate = new Date();
+    expiryDate.setDate(expiryDate.getDate() + trialDurationDays);
+    localStorage.setItem(`bibliaQuiz_trialExpiry_${userId}`, expiryDate.toISOString());
+    localStorage.setItem(`bibliaQuiz_paid_${userId}`, 'true');
+    setIsPaid(true);
+  };
+
   const loginWithPhone = async (sanitizedPhone) => {
     localStorage.setItem(STORAGE_KEY_PHONE, sanitizedPhone);
     setPhone(sanitizedPhone);
@@ -81,6 +91,7 @@ export const AuthProvider = ({ children }) => {
     const savedPhone = localStorage.getItem(STORAGE_KEY_PHONE);
     // Keep paid status in local cache so user doesn't have to re-verify after logout
     localStorage.removeItem(STORAGE_KEY_PHONE);
+    // Also keep trial expiry for potential re-check
     setPhone(null);
     setIsAuthenticated(false);
     setIsPaid(false);

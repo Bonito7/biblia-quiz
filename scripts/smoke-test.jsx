@@ -93,6 +93,27 @@ for (const lang of LANGUAGES) {
   }
 }
 
+const { loadQuestions, loadPageContent } = await import("../src/lib/content");
+
+// Vérifie que le contenu traduit se charge réellement (glob + préfixe de chemin).
+// Une régression ici signifie que l'app reboucle silencieusement en français.
+const CONTENT_CHECKS = [
+  ["questions", "en", "geographie"],
+  ["questions", "sw", "chronologie"],
+  ["questions", "ru", "versets"],
+  ["pages", "es", "bibleMaps"],
+  ["pages", "zh", "wesleyJohn"],
+];
+for (const [type, lang, name] of CONTENT_CHECKS) {
+  const data = type === "questions" ? await loadQuestions(lang, name) : await loadPageContent(lang, name);
+  if (!data) {
+    failures++;
+    console.log(`✗ contenu ${type} ${lang}/${name} — non chargé (repli français silencieux)`);
+  } else {
+    console.log(`✓ contenu ${type} ${lang}/${name} — chargé`);
+  }
+}
+
 if (failures) {
   console.log(`\n${failures} langue(s) en échec`);
   process.exit(1);

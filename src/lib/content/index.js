@@ -11,9 +11,11 @@ import { DEFAULT_LANG } from "@/lib/i18n";
 const questionFiles = import.meta.glob("./questions/*/*.json");
 const pageFiles = import.meta.glob("./pages/*/*.json");
 
-async function loadFrom(registry, lang, name) {
+// Les clés de import.meta.glob reprennent le sous-dossier écrit dans le glob
+// (ex. `./questions/en/geographie.json`) : le préfixe doit être fourni.
+async function loadFrom(registry, prefix, lang, name) {
   if (!lang || lang === DEFAULT_LANG) return null;
-  const loader = registry[`./${lang}/${name}.json`];
+  const loader = registry[`./${prefix}/${lang}/${name}.json`];
   if (!loader) return null;
   try {
     const mod = await loader();
@@ -25,12 +27,12 @@ async function loadFrom(registry, lang, name) {
 
 /** Traductions des questions d'une catégorie (null si indisponible → repli français). */
 export function loadQuestions(lang, categoryId) {
-  return loadFrom(questionFiles, lang, categoryId);
+  return loadFrom(questionFiles, "questions", lang, categoryId);
 }
 
 /** Traductions d'un contenu de page (noms de Dieu, cartes, vie sociale, Wesley…). */
 export function loadPageContent(lang, page) {
-  return loadFrom(pageFiles, lang, page);
+  return loadFrom(pageFiles, "pages", lang, page);
 }
 
 /**
