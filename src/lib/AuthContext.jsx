@@ -46,7 +46,8 @@ export const AuthProvider = ({ children }) => {
         if (backendPaid) {
           localStorage.setItem(`bibliaQuiz_paid_${userId}`, 'true');
         }
-        // If trial is valid but backend says not paid, keep trial status
+        // If trial is valid but backend says not paid, trust trial status
+        // (handles similar to webhook delay situation)
         if (isTrialValid && !backendPaid) {
           // Keep isPaid as true due to valid trial
         }
@@ -68,16 +69,6 @@ export const AuthProvider = ({ children }) => {
     } finally {
       setIsLoadingPayment(false);
     }
-  };
-
-  // Grant one-month trial access to a user
-  const grantTrialAccess = (userId) => {
-    const trialDurationDays = 30;
-    const expiryDate = new Date();
-    expiryDate.setDate(expiryDate.getDate() + trialDurationDays);
-    localStorage.setItem(`bibliaQuiz_trialExpiry_${userId}`, expiryDate.toISOString());
-    localStorage.setItem(`bibliaQuiz_paid_${userId}`, 'true');
-    setIsPaid(true);
   };
 
   const loginWithPhone = async (sanitizedPhone) => {
@@ -122,6 +113,7 @@ export const AuthProvider = ({ children }) => {
       logout,
       checkPaymentStatus: () => checkPaymentStatus(phone),
       navigateToLogin: () => {},      // No-op, kept for App.jsx compat
+      grantTrialAccess,
     }}>
       {children}
     </AuthContext.Provider>
