@@ -165,6 +165,523 @@
         ],
         "correct": 0,
         "explanation": "Ziwa la Tiberia, ambalo pia linaitwa Bahari ya Galilaya au Ziwa la Genesareti, lilikuwa kitovu cha huduma ya Yesu huko Galilaya."
+      },
+      {
+        "question": "Mariamu aliishi katika jiji gani malaika Gabrieli alipomtangazia kuzaliwa kwa Yesu?",
+        "options": [
+          "Bethlehemu",
+          "Nazareti",
+          "Yerusalemu",
+          "Kapernaumu"
+        ],
+        "correct": 1,
+        "explanation": "Malaika Gabrieli alitumwa Nazareti, mji wa Galilaya, kwa Mariamu (Luka 1:26-27)."
+      },
+      {
+        "question": "Bwawa la Siloamu liko katika mji gani ambapo Yesu alimponya mtu aliyezaliwa kipofu?",
+        "options": [
+          "Samaria",
+          "Yerusalemu",
+          "Yeriko",
+          "Kapernaumu"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alimtuma mtu aliyezaliwa kipofu kwenda kunawa katika bwawa la Siloamu huko Yerusalemu (Yohana 9:7)."
+      },
+      {
+        "question": "Ni mji gani ulioharibiwa pamoja na Sodoma kwa moto na kiberiti?",
+        "options": [
+          "Yeriko",
+          "Gomora",
+          "Ninawi",
+          "Babeli"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alinyesha kiberiti na moto juu ya Sodoma na Gomora kwa sababu ya dhambi zao (Mwanzo 19:24)."
+      },
+      {
+        "question": "Ni katika jiji gani Yona alitumwa na Mungu kuhubiri toba?",
+        "options": [
+          "Babeli",
+          "Ninawi",
+          "Tarso",
+          "Damasko"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alimtuma Yona kwenda Ninawi, mji mkuu wa Ashuru (Yona 1:2; 3:2)."
+      },
+      {
+        "question": "Je, Yesu alisulubishwa juu ya mlima gani nje ya kuta za Yerusalemu?",
+        "options": [
+          "Mlima Sinai",
+          "Golgotha ​​(Kalvari)",
+          "Mlima Karmeli",
+          "Mlima Tabori"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alisulubishwa mahali paitwapo Golgotha, ambayo ina maana ya 'mahali pa Fuvu la Kichwa' (Yohana 19:17)."
+      },
+      {
+        "question": "Lazaro, Martha na Maria, marafiki za Yesu, waliishi katika kijiji gani?",
+        "options": [
+          "Nazareti",
+          "Bethania",
+          "Kana",
+          "Emmaus"
+        ],
+        "correct": 1,
+        "explanation": "Lazaro, Martha, na Mariamu waliishi Bethania, karibu na Yerusalemu (Yohana 11:1)."
+      },
+      {
+        "question": "Ni katika mji gani huko Galilaya ambapo Yesu alifanya muujiza wake wa kwanza kwenye arusi?",
+        "options": [
+          "Kapernaumu",
+          "Kana",
+          "Tiberia",
+          "Magdala"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alibadilisha maji kuwa divai kwenye harusi huko Kana huko Galilaya (Yohana 2:1-11)."
+      },
+      {
+        "question": "Ni mto gani unaovuka Misri na mtoto Musa aliwekwa wapi kwenye kikapu?",
+        "options": [
+          "Yordani",
+          "Tiger",
+          "Mto Nile",
+          "Mto Frati"
+        ],
+        "correct": 2,
+        "explanation": "Mama yake Musa aliweka kikapu cha manyasi kati ya mianzi kwenye ukingo wa Mto Nile (Kutoka 2:3)."
+      },
+      {
+        "question": "Kuta zilianguka katika jiji gani kabla ya Waisraeli wakiongozwa na Yoshua?",
+        "options": [
+          "Hebron",
+          "Yeriko",
+          "Betheli",
+          "Shekemu"
+        ],
+        "correct": 1,
+        "explanation": "Kuta za Yeriko zilianguka baada ya watu kuzizunguka (Yoshua 6:20)."
+      },
+      {
+        "question": "Ni eneo gani la kusini mwa Israeli lilikuwa makao ya Yerusalemu na Bethlehemu katika siku za Yesu?",
+        "options": [
+          "Galilaya",
+          "Samaria",
+          "Yudea",
+          "Dekapoli"
+        ],
+        "correct": 2,
+        "explanation": "Yerusalemu na Bethlehemu ziko Yudea, kusini mwa nchi (Mathayo 2:1)."
+      },
+      {
+        "question": "Yesu alikulia na kufanya miujiza yake mingi katika eneo gani la kaskazini?",
+        "options": [
+          "Yudea",
+          "Galilaya",
+          "Idumea",
+          "Perea"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alikulia Nazareti na alitimiza sehemu kubwa ya huduma yake huko Galilaya (Mathayo 4:23)."
+      },
+      {
+        "question": "Ni eneo gani lilikuwa kati ya Yudea upande wa kusini na Galilaya upande wa kaskazini?",
+        "options": [
+          "Samaria",
+          "Foinike",
+          "Syria",
+          "Kilikia"
+        ],
+        "correct": 0,
+        "explanation": "Samaria ilikuwa kati ya Yudea na Galilaya; Yesu aliivuka sana huko Sikari (Yohana 4:4)."
+      },
+      {
+        "question": "Jina la kilima mashariki mwa Yerusalemu ambapo Yesu aliomba na kupaa mbinguni kinaitwaje?",
+        "options": [
+          "Mlima Sayuni",
+          "Mlima wa Mizeituni",
+          "Mlima Karmeli",
+          "Mlima Nebo"
+        ],
+        "correct": 1,
+        "explanation": "Mlima wa Mizeituni unatazamana na Hekalu la Yerusalemu; hapa ndipo palipokuwa Gethsemane na mahali pa Kupaa (Matendo 1:12)."
+      },
+      {
+        "question": "Musa alikiona wapi kile kijiti kilichowaka moto ambacho hakikuteketea?",
+        "options": [
+          "Kwenye ukingo wa Yordani",
+          "Katika Horebu (Mlima Sinai)",
+          "Kwa Yeriko",
+          "Huko Hebroni"
+        ],
+        "correct": 1,
+        "explanation": "Musa alikuwa akiongoza kundi hadi kwenye mlima wa Mungu huko Horebu alipoona kijiti kilichowaka moto (Kutoka 3:1-2)."
+      },
+      {
+        "question": "Ni kwenye mlima gani Musa alitafakari kuhusu Nchi ya Ahadi kabla ya kufa?",
+        "options": [
+          "Mlima Karmeli",
+          "Mlima Nebo",
+          "Mlima Tabori",
+          "Mlima Hermoni"
+        ],
+        "correct": 1,
+        "explanation": "Musa alipanda Mlima Nebo (kilele cha Pisga) kuelekea Yeriko ili kuona Kanaani kabla ya kifo chake (Kumbukumbu la Torati 34:1)."
+      },
+      {
+        "question": "Sauli wa Tarso (mtume Paulo) alizaliwa katika jiji gani?",
+        "options": [
+          "Antiokia",
+          "Tarso huko Kilikia",
+          "Efeso",
+          "Korintho"
+        ],
+        "correct": 1,
+        "explanation": "Paulo mwenyewe anajitangaza kuwa ‘Myahudi kutoka Tarso katika Kilikia’ ( Matendo 21:39 )."
+      },
+      {
+        "question": "Ni katika mji gani wanafunzi waliitwa kwa mara ya kwanza 'Wakristo'?",
+        "options": [
+          "Yerusalemu",
+          "Antiokia ya Siria",
+          "Roma",
+          "Efeso"
+        ],
+        "correct": 1,
+        "explanation": "Ilikuwa huko Antiokia ambapo wanafunzi waliitwa Wakristo kwa mara ya kwanza (Matendo 11:26)."
+      },
+      {
+        "question": "Ni katika jiji gani ambalo Daudi alianzisha mji mkuu wake wa kwanza kwa miaka 7 kabla ya Yerusalemu?",
+        "options": [
+          "Bethlehemu",
+          "Hebron",
+          "Shekemu",
+          "Betheli"
+        ],
+        "correct": 1,
+        "explanation": "Daudi alitawala kwanza miaka 7 na miezi 6 huko Hebroni juu ya Yuda kabla ya kushinda Yerusalemu (2 Samweli 5:5)."
+      },
+      {
+        "question": "Waisraeli walijenga wapi Mnara uliosababisha mkanganyiko wa lugha?",
+        "options": [
+          "Katika Ninawi",
+          "Katika Babeli (Babeli)",
+          "Katika Uru",
+          "Katika Yerusalemu"
+        ],
+        "correct": 1,
+        "explanation": "Watu wakajenga mnara katika uwanda wa Shinari; mahali hapo pakaitwa Babeli (Mwanzo 11:2-9)."
+      },
+      {
+        "question": "Waisraeli waliishi katika jangwa gani miaka 40 baada ya Kutoka?",
+        "options": [
+          "Jangwa la Sahara",
+          "Jangwa la Sinai na Parani",
+          "Jangwa la katikati mwa Saudi Arabia",
+          "Jangwa la Gobi"
+        ],
+        "correct": 1,
+        "explanation": "Walisafiri katika majangwa ya Shuri, Sini, Sinai, Parani na Zini (Kutoka, Hesabu)."
+      },
+      {
+        "question": "Ni kijiji gani kilikuwa kilomita 7 hivi kutoka Yerusalemu ambako Yesu aliyefufuliwa alitembea na wanafunzi wawili?",
+        "options": [
+          "Bethania",
+          "Emmaus",
+          "Kana",
+          "Betheli"
+        ],
+        "correct": 1,
+        "explanation": "Wanafunzi wawili walikuwa njiani kuelekea kijiji cha Emau wakati Yesu aliyefufuka alipotembea pamoja nao (Luka 24:13)."
+      },
+      {
+        "question": "Ni katika jiji gani Zakayo, mkuu wa mtoza ushuru, alipanda mti wa mkuyu?",
+        "options": [
+          "Yerusalemu",
+          "Yeriko",
+          "Kapernaumu",
+          "Bethsaida"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alikuwa akipitia Yeriko alipomwita Zakayo kutoka kwenye mkuyu wake (Luka 19:1-5)."
+      },
+      {
+        "question": "Ni bahari gani yenye chumvi nyingi iko kwenye mwisho wa kusini wa Mto Yordani?",
+        "options": [
+          "Bahari ya Galilaya",
+          "Bahari ya Chumvi (Bahari ya Chumvi)",
+          "Bahari Nyekundu",
+          "Bahari Nyeusi"
+        ],
+        "correct": 1,
+        "explanation": "Yordani hutiririka hadi Bahari ya Chumvi, ambayo pia huitwa Bahari ya Chumvi au Bahari ya Araba katika Biblia (Mwanzo 14:3)."
+      },
+      {
+        "question": "Daudi alizaliwa katika mji gani huko Yudea na alichunga mifugo?",
+        "options": [
+          "Hebron",
+          "Bethlehemu",
+          "Yerusalemu",
+          "Gaza"
+        ],
+        "correct": 1,
+        "explanation": "Daudi alikuwa mwana wa Yese wa Bethlehemu, pia uliitwa 'mji wa Daudi' (1 Samweli 16:1; Luka 2:4)."
+      },
+      {
+        "question": "Je, ni jiji gani kuu katika Milki ya Kirumi lilikuwa mahali pa mwisho pa safari ya mwisho ya Paulo katika Matendo?",
+        "options": [
+          "Athene",
+          "Alexandria",
+          "Roma",
+          "Antiokia"
+        ],
+        "correct": 2,
+        "explanation": "Paulo alikata rufani kwa Kaisari na akapelekwa Rumi (Matendo 28:14-16)."
+      },
+      {
+        "question": "Paulo alihubiri katika jiji gani la Kigiriki mbele ya mahakama ya Areopago?",
+        "options": [
+          "Korintho",
+          "Athene",
+          "Filipi",
+          "Thesaloniki"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alizungumza na wanafalsafa wa Athene katikati ya Areopago huko Athene (Matendo 17:22)."
+      },
+      {
+        "question": "Nabii Danieli alichukuliwa mateka wapi katika ujana wake?",
+        "options": [
+          "Nchini Misri",
+          "Katika Babeli",
+          "Katika Ninawi",
+          "Katika Roma"
+        ],
+        "correct": 1,
+        "explanation": "Danieli alihamishwa hadi Babeli chini ya Mfalme Nebukadneza (Danieli 1:1-6)."
+      },
+      {
+        "question": "Ni katika jiji gani ambalo Samsoni alipoteza nguvu zake na kusababisha hekalu la Dagoni kuanguka?",
+        "options": [
+          "Ashdodi",
+          "Gaza",
+          "Ascalon",
+          "Ekroni"
+        ],
+        "correct": 1,
+        "explanation": "Wafilisti walimfunga Samsoni huko Gaza, ambapo alipindua nguzo za hekalu (Waamuzi 16:21-30)."
+      },
+      {
+        "question": "Malkia aliyekuja kujaribu hekima ya Sulemani alitawala nchi gani?",
+        "options": [
+          "Misri",
+          "Saba",
+          "Uajemi",
+          "Ethiopia ya kisasa pekee"
+        ],
+        "correct": 1,
+        "explanation": "Malkia wa Sheba alikuja Yerusalemu akiwa na manukato na dhahabu ili kumsikiliza Sulemani (1 Wafalme 10:1)."
+      },
+      {
+        "question": "Petro na Andrea waliishi katika jiji gani kaskazini mwa Galilaya wakati wa huduma ya Yesu?",
+        "options": [
+          "Bethlehemu",
+          "Kapernaumu",
+          "Yeriko",
+          "Bethania"
+        ],
+        "correct": 1,
+        "explanation": "Yesu mara nyingi alikaa Kapernaumu, ambapo nyumba ya Simoni Petro ilikuwa (Mk 1:29; 2:1)."
+      },
+      {
+        "question": "Abrahamu na Sara walienda nchi gani njaa ilipoikumba Kanaani?",
+        "options": [
+          "Katika Babeli",
+          "Nchini Misri",
+          "Katika Uajemi",
+          "Katika Ugiriki"
+        ],
+        "correct": 1,
+        "explanation": "Njaa katika Kanaani ilimfanya Ibrahimu kwenda Misri (Mwanzo 12:10)."
+      },
+      {
+        "question": "Je, Waisraeli walisimama kwenye mlima gani wakati Yoshua alipofanya upya Agano kati ya Ebali na Gerizimu?",
+        "options": [
+          "Mlima Sinai",
+          "Mlima Gerizimu na Mlima Ebali",
+          "Mlima Karmeli",
+          "Mlima Sayuni"
+        ],
+        "correct": 1,
+        "explanation": "Musa kisha Yoshua aliweka makabila yanayotazamana na Milima ya Gerizimu (baraka) na Ebali (kulaani) karibu na Shekemu (Yoshua 8:33)."
+      },
+      {
+        "question": "Ni katika jiji gani ambalo Yesu alimponya mtu aliyepooza aliyeanguka kutoka kwenye paa?",
+        "options": [
+          "Yerusalemu",
+          "Kapernaumu",
+          "Bethlehemu",
+          "Nazareti"
+        ],
+        "correct": 1,
+        "explanation": "Ilikuwa huko Kapernaumu ambapo watu wanne walifungua paa ili kumshusha yule aliyepooza mbele ya Yesu (Mk 2:1-5)."
+      },
+      {
+        "question": "Ni mto gani ambao Naamani wa Siria alilazimika kupiga mbizi ndani ya mara 7 ili kuponywa ukoma wake?",
+        "options": [
+          "Abana",
+          "The Pharpar",
+          "Yordani",
+          "Mto Frati"
+        ],
+        "correct": 2,
+        "explanation": "Elisha alimwamuru Naamani aoge mara saba katika Yordani (2 Wafalme 5:10-14)."
+      },
+      {
+        "question": "Ni katika jiji gani la bandari ambalo Yona alisafiri ili kukimbilia Tarshishi?",
+        "options": [
+          "Tairi",
+          "Sidoni",
+          "Jafa (Yopa)",
+          "Kaisaria"
+        ],
+        "correct": 2,
+        "explanation": "Yona alishuka kwenda Yafa (Yopa) na kupata meli iliyokuwa ikielekea Tarshishi (Yona 1:3)."
+      },
+      {
+        "question": "Ni katika jiji gani ambalo Petro alipata maono ya kitambaa cha meza kikishuka kutoka mbinguni kwenye mtaro wa Simoni fundi wa ngozi?",
+        "options": [
+          "Kaisaria",
+          "Jafa (Yopa)",
+          "Yerusalemu",
+          "Lyda"
+        ],
+        "correct": 1,
+        "explanation": "Petro alikuwa anakaa na Simoni fundi ngozi huko Yafa alipopokea maono kabla ya kwenda kwa Kornelio (Mdo 10:5-16)."
+      },
+      {
+        "question": "Jemadari Mroma Kornelio aliyebatizwa na Petro aliishi katika jiji gani?",
+        "options": [
+          "Yerusalemu",
+          "Kaisaria Maritime",
+          "Tarso",
+          "Antiokia"
+        ],
+        "correct": 1,
+        "explanation": "Kornelio, akida wa kikosi kilichoitwa Kiitaliano, aliishi Kaisaria Maritime (Matendo 10:1)."
+      },
+      {
+        "question": "Ni bustani gani ambayo Mungu alipanda ‘katika Edeni, upande wa mashariki’ ili kumweka mwanadamu humo?",
+        "options": [
+          "Bustani ya Gethsemane",
+          "Bustani ya Edeni",
+          "bustani ya mfalme",
+          "Bonde la Akor"
+        ],
+        "correct": 1,
+        "explanation": "BWANA Mungu akapanda bustani katika Edeni upande wa mashariki, akamweka mtu humo (Mwanzo 2:8)."
+      },
+      {
+        "question": "Ruthu na Naomi walikaa katika jiji gani waliporudi kutoka Moabu?",
+        "options": [
+          "Yerusalemu",
+          "Bethlehemu",
+          "Hebron",
+          "Yeriko"
+        ],
+        "correct": 1,
+        "explanation": "Naomi na mkwewe Ruthu walirudi Bethlehemu mwanzoni mwa mavuno ya shayiri (Ruthu 1:22)."
+      },
+      {
+        "question": "Nchi ya asili ya Ruthu ilikuwa nchi gani?",
+        "options": [
+          "Misri",
+          "Moabu",
+          "Edomu",
+          "Syria"
+        ],
+        "correct": 1,
+        "explanation": "Ruthu alikuwa Mmoabu, kutoka nchi ya Moabu mashariki ya Bahari ya Chumvi (Ruthu 1:4)."
+      },
+      {
+        "question": "Wanafunzi wa kwanza walikutana katika jiji gani katika ‘chumba cha juu’ siku ya Pentekoste?",
+        "options": [
+          "Bethlehemu",
+          "Yerusalemu",
+          "Nazareti",
+          "Antiokia"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alikuwa amewaamuru mitume wasiondoke Yerusalemu hadi ahadi ya Baba (Matendo 1:4; 2:1)."
+      },
+      {
+        "question": "Daudi alikabiliana na Goliathi katika bonde gani?",
+        "options": [
+          "Bonde la Kidroni",
+          "Bonde la Ela (la Terebinths)",
+          "Bonde la Yezreeli",
+          "Bonde la Yehoshafati"
+        ],
+        "correct": 1,
+        "explanation": "Wafilisti na Waisraeli walipiga kambi kuelekeana katika bonde la Ela/Terebinths (1 Samweli 17:2)."
+      },
+      {
+        "question": "Yesu alikutana wapi na mwanamke Msamaria kwenye kisima cha Yakobo?",
+        "options": [
+          "Katika Samaria",
+          "Kwa Sikari",
+          "Katika Kapernaumu",
+          "Katika Tiberia"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alisimama karibu na kisima cha Yakobo huko Sikari huko Samaria (Yohana 4:5-6)."
+      },
+      {
+        "question": "Ni ziwa au bahari gani inayopakana na jiji la Kapernaumu?",
+        "options": [
+          "Bahari ya Chumvi",
+          "Bahari ya Galilaya (Ziwa la Genesareti)",
+          "Bahari Nyekundu",
+          "Bahari ya Caspian"
+        ],
+        "correct": 1,
+        "explanation": "Kapernaumu ilikuwa kwenye ufuo wa kaskazini-magharibi wa Bahari ya Galilaya, ambayo pia inaitwa Ziwa Genesareti au Tiberia."
+      },
+      {
+        "question": "Ni katika mji gani katika Asia Ndogo palikuwa na hekalu kubwa la Artemi ambalo lilizua ghasia dhidi ya Paulo?",
+        "options": [
+          "Korintho",
+          "Efeso",
+          "Filipi",
+          "Smirna"
+        ],
+        "correct": 1,
+        "explanation": "Huko Efeso, mfua dhahabu Demetrio alichochea umati kwa kupaaza sauti 'Artemi wa Waefeso ni mkuu!' ( Matendo 19:28 )."
+      },
+      {
+        "question": "Katika kisiwa gani Paulo alivunjikiwa na meli kabla ya kufika Roma?",
+        "options": [
+          "Kupro",
+          "Krete",
+          "Malta",
+          "Patmo"
+        ],
+        "correct": 2,
+        "explanation": "Baada ya siku 14 za dhoruba, meli ilikwama kwenye kisiwa cha Malta, ambapo nyoka alimuma Paulo bila kumdhuru (Matendo 28:1-5)."
+      },
+      {
+        "question": "Ni mlima gani unaotawala kusini-magharibi mwa Yerusalemu na mara nyingi ni sawa na jiji la Daudi?",
+        "options": [
+          "Mlima Karmeli",
+          "Mlima Sayuni",
+          "Mlima Tabori",
+          "Mlima Gerizimu"
+        ],
+        "correct": 1,
+        "explanation": "Daudi aliiteka ngome ya Sayuni, ambayo ilikuja kuwa mji wa Daudi (2 Samweli 5:7)."
       }
     ],
     "intermediaire": [
@@ -332,6 +849,523 @@
         ],
         "correct": 1,
         "explanation": "Makanisa 7 (Efeso, Smirna, Pergamo, Thiatira, Sardi, Filadelfia, Laodikia) yote yalikuwa Asia Ndogo (Ufunuo 1:11)."
+      },
+      {
+        "question": "Ni katika jiji gani katika Misri ambapo Waisraeli walimjengea Farao miji ya ghala?",
+        "options": [
+          "Memphis na Thebes",
+          "Pithomu na Ramses",
+          "Alexandria na Giza",
+          "Luxor na Aswan"
+        ],
+        "correct": 1,
+        "explanation": "Waisraeli walijenga miji ya ghala ya Pithomu na Ramesi kwa ajili ya Farao (Kutoka 1:11)."
+      },
+      {
+        "question": "Ni eneo gani la Misri ambalo Farao alimpa Yakobo na familia yake?",
+        "options": [
+          "Misri ya Juu",
+          "Nchi ya Gosen",
+          "Sinai",
+          "Nubia"
+        ],
+        "correct": 1,
+        "explanation": "Yusufu akawakalisha baba yake na ndugu zake katika nchi iliyo bora ya Misri, nchi ya Gosheni (Mwanzo 47:6)."
+      },
+      {
+        "question": "Katika mji gani Yoshua alianzisha Maskani kwa mara ya kwanza baada ya kutekwa kwa Kanaani?",
+        "options": [
+          "Yerusalemu",
+          "Silo",
+          "Hebron",
+          "Betheli"
+        ],
+        "correct": 1,
+        "explanation": "Kusanyiko lote la Israeli lilikusanyika pamoja huko Shilo na kupiga hema ya kukutania huko (Yoshua 18:1)."
+      },
+      {
+        "question": "Je! Sanduku la Agano liliwekwa na Abinadabu katika mji gani baada ya kurudi kutoka kwa Wafilisti?",
+        "options": [
+          "Silo",
+          "Kiriath-yearimu",
+          "Nob",
+          "Gibeoni"
+        ],
+        "correct": 1,
+        "explanation": "Watu wa Kiriath-yearimu walilipeleka Sanduku katika nyumba ya Abinadabu kwenye kilima (1 Samweli 7:1)."
+      },
+      {
+        "question": "Sulemani alienda wapi mwanzoni mwa utawala wake ili kutoa sadaka elfu za kuteketezwa na kupokea hekima?",
+        "options": [
+          "Yerusalemu",
+          "Gibeoni",
+          "Hebron",
+          "Betheli"
+        ],
+        "correct": 1,
+        "explanation": "Sulemani alikwenda Gibeoni kutoa dhabihu, mahali palipoinuka sana na madhabahu ya shaba (1 Wafalme 3:4-5)."
+      },
+      {
+        "question": "Je, Yeroboamu nilichagua miji gani miwili ili kuweka ndama zake za dhahabu?",
+        "options": [
+          "Samaria na Shekemu",
+          "Betheli na Dani",
+          "Yeriko na Hebroni",
+          "Gaza na Ashdodi"
+        ],
+        "correct": 1,
+        "explanation": "Ili kuwazuia watu wasikwee Yerusalemu, Yeroboamu aliweka ndama wa dhahabu huko Betheli (kusini) na mwingine Dani (kaskazini) ( 1 Wafalme 12:29 )."
+      },
+      {
+        "question": "Ni katika jiji gani la Foinike ambapo Eliya alikaa na mjane wakati wa njaa?",
+        "options": [
+          "Tairi",
+          "Sarepta",
+          "Sidoni",
+          "Byblos"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alimtuma Eliya Sarepta, mji wa Sidoni, kwa mjane ambaye unga na mafuta yake hayakupungukiwa (1 Wafalme 17:9)."
+      },
+      {
+        "question": "Makazi ya kifalme ya majira ya kiangazi ya wafalme wa Israeli ambapo Nabothi alikuwa na shamba lake la mizabibu yalikuwa yapi?",
+        "options": [
+          "Samaria",
+          "Yezreeli",
+          "Dan",
+          "Megido"
+        ],
+        "correct": 1,
+        "explanation": "Nabothi wa Yezreeli alikuwa na shamba la mizabibu karibu na jumba la kifalme la Ahabu huko Yezreeli (1 Wafalme 21:1)."
+      },
+      {
+        "question": "Ni kwenye mlima gani Daudi aliomboleza Sauli na Yonathani, waliouawa vitani?",
+        "options": [
+          "Mlima Karmeli",
+          "Mlima Gilboa",
+          "Mlima Tabori",
+          "Mlima Hermoni"
+        ],
+        "correct": 1,
+        "explanation": "Sauli na wanawe waliangamia kwenye Mlima Gilboa dhidi ya Wafilisti (1 Samweli 31:1-8)."
+      },
+      {
+        "question": "Daudi alijificha katika pango gani au eneo gani la jangwani alipookoa uhai wa Sauli?",
+        "options": [
+          "Pango la Qumran",
+          "En-Guédi (na pango la Adulamu)",
+          "Mlima Nebo",
+          "Bonde la Shekemu"
+        ],
+        "correct": 1,
+        "explanation": "Daudi alikimbilia kwenye ngome za Engedi karibu na Bahari ya Chumvi, ambapo alikata kipande cha vazi la Sauli (1 Samweli 24)."
+      },
+      {
+        "question": "Ni katika mahali gani hasa katika jangwa la Ethiopia au Palestina ambapo towashi Mwethiopia alibatizwa na Filipo?",
+        "options": [
+          "Katika barabara isiyo na watu kutoka Yerusalemu hadi Gaza",
+          "Katika Damasko",
+          "Katika Antiokia",
+          "Kwenye kingo za Mto Nile"
+        ],
+        "correct": 0,
+        "explanation": "Malaika alimtuma Filipo kwenye njia ishukayo kutoka Yerusalemu kwenda Gaza, njia ambayo haikuwa na watu (Matendo 8:26)."
+      },
+      {
+        "question": "Ni katika jiji gani huko Makedonia ambapo Paulo aligeuza Lidia na kufungwa gerezani pamoja na Sila?",
+        "options": [
+          "Thesaloniki",
+          "Filipi",
+          "Berea",
+          "Korintho"
+        ],
+        "correct": 1,
+        "explanation": "Huko Filipi, mji wa kwanza wa Kirumi huko Makedonia uliotembelewa na Paulo, Lidia aliamini na mlinzi wa gereza aliongoka baada ya tetemeko la ardhi (Matendo 16)."
+      },
+      {
+        "question": "Ni watu gani katika mji wa Makedonia waliochunguza Maandiko kila siku ili kuthibitisha maneno ya Paulo?",
+        "options": [
+          "Wafilipi",
+          "Waberoya",
+          "Wakorintho",
+          "Waathene"
+        ],
+        "correct": 1,
+        "explanation": "Wayahudi wa Beroya walikuwa na hisia nzuri kuliko wale wa Thesalonike na walichunguza Maandiko kila siku (Matendo 17:11)."
+      },
+      {
+        "question": "Jiji la Masada liko katika eneo gani la kusini-mashariki mwa Yudea?",
+        "options": [
+          "Katika Galilaya",
+          "Kando ya Bahari ya Chumvi",
+          "Kwenye pwani ya Mediterania",
+          "Katika Samaria"
+        ],
+        "correct": 1,
+        "explanation": "Ngome ya Masada inatazama ufuo wa magharibi wa Bahari ya Chumvi."
+      },
+      {
+        "question": "Ni eneo gani kaskazini-mashariki mwa Yordani lilijumuisha muungano wa majiji kumi ya Kigiriki yaliyotembelewa na Yesu?",
+        "options": [
+          "Yudea",
+          "Dekapoli",
+          "Galilaya",
+          "Samaria"
+        ],
+        "correct": 1,
+        "explanation": "Dekapoli ('miji kumi') ilienea hasa mashariki ya Yordani na Bahari ya Galilaya (Marko 5:20; 7:31)."
+      },
+      {
+        "question": "Ni katika eneo gani Yesu alimponya mtu aliyekuwa na ‘Jeshi’ na kuwatuma roho waovu kwenye kundi la nguruwe?",
+        "options": [
+          "Yudea",
+          "Nchi ya Wagerasi/Wagerasi",
+          "Samaria",
+          "Foinike"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alivuka Bahari ya Galilaya hadi pwani ya mashariki, hadi katika nchi ya Wagerasi/Wagerasi (Mk 5:1)."
+      },
+      {
+        "question": "Ni katika mji gani wa Foinike ambapo Yesu alimponya binti ya mwanamke Msirofoinike?",
+        "options": [
+          "Katika mkoa wa Tiro na Sidoni",
+          "Kwa Yeriko",
+          "Huko Hebroni",
+          "Katika Betheli"
+        ],
+        "correct": 0,
+        "explanation": "Yesu aliondoka akaenda katika eneo la Tiro na Sidoni ambako alisikia imani ya mwanamke huyu (Mk 7:24-30)."
+      },
+      {
+        "question": "Petro alikiri kwamba Yesu ndiye Kristo, karibu na jiji gani la kaskazini, kwenye vijito vya Yordani?",
+        "options": [
+          "Nazareti",
+          "Kaisaria Filipi",
+          "Kapernaumu",
+          "Tiberia"
+        ],
+        "correct": 1,
+        "explanation": "Ilikuwa ni katika vijiji vya Kaisaria Filipi, chini ya Mlima Hermoni, kwamba Petro alifanya maungamo yake (Mathayo 16:13-16)."
+      },
+      {
+        "question": "Ni mto gani ulitiririka karibu na jiji la Susa, ambako Nehemia na Esta waliishi katika ua wa Uajemi?",
+        "options": [
+          "Mto Nile",
+          "Ulaï (Karkheh)",
+          "Yordani",
+          "Tiber"
+        ],
+        "correct": 1,
+        "explanation": "Danieli aliona maono huko Shushani, katika wilaya ya Elamu, karibu na mto Ulai (Danieli 8:2)."
+      },
+      {
+        "question": "Abrahamu aliishi katika jiji gani huko Mesopotamia na baba yake Tera kabla ya kuingia Kanaani?",
+        "options": [
+          "Ninawi",
+          "Uru katika Ukaldayo kisha Harani",
+          "Susa",
+          "Damasko"
+        ],
+        "correct": 1,
+        "explanation": "Tera aliwachukua Abramu na Lutu kutoka Uru katika Ukaldayo hadi Harani, ambapo Abrahamu aliondoka kwenda Kanaani (Mwanzo 11:31-12:4)."
+      },
+      {
+        "question": "Ni mto upi wa kibiblia ulioashiria mpaka wa kaskazini-mashariki ulioahidiwa kwa Abrahamu?",
+        "options": [
+          "Mto Nile",
+          "Mto Frati",
+          "Tiger",
+          "Wa Orontes"
+        ],
+        "correct": 1,
+        "explanation": "Mungu aliwaahidi wazao wa Ibrahimu nchi ‘kutoka mto wa Misri hata ule mto mkubwa, mto Frati’ (Mwanzo 15:18)."
+      },
+      {
+        "question": "Ni mji gani ulikuwa mji mkuu wa ufalme wa Aramu (Syria) katika Agano la Kale?",
+        "options": [
+          "Hamat",
+          "Damasko",
+          "Aleppo",
+          "Tadmor"
+        ],
+        "correct": 1,
+        "explanation": "Dameski ulikuwa mji mkuu wa Aramu-Dameski, mara nyingi katika mgogoro au ushirikiano na Israeli (1 Wafalme 11:24; Isaya 7:8)."
+      },
+      {
+        "question": "Ni katika barabara gani huko Damasko Sauli wa Tarso alipata kuona tena shukrani kwa Anania?",
+        "options": [
+          "Mtaa wa Hekalu",
+          "Mtaa unaoitwa Haki",
+          "Mtaa wa Wafanyabiashara",
+          "Mtaa wa Kaisari"
+        ],
+        "correct": 1,
+        "explanation": "Bwana alimwambia Anania aende kwenye barabara iitwayo Kulia, kwenye nyumba ya Yuda (Matendo 9:11)."
+      },
+      {
+        "question": "Ni kisiwa gani cha Mediterania kilikuwa nchi ya asili ya Barnaba na kituo cha kwanza katika safari ya kwanza ya umishonari?",
+        "options": [
+          "Krete",
+          "Kupro",
+          "Rhodes",
+          "Sisili"
+        ],
+        "correct": 1,
+        "explanation": "Barnaba alikuwa anatoka Kupro (Mdo 4:36), ambapo yeye na Paulo walitua Salami na kuvuka mpaka Pafo (Mdo 13)."
+      },
+      {
+        "question": "Miji ya Ikoniamu, Listra na Derbe ilikuwa katika mkoa gani wa Asia Ndogo?",
+        "options": [
+          "Makedonia",
+          "Galatia (Likaonia/Frigia)",
+          "Akaya",
+          "Bithinia"
+        ],
+        "correct": 1,
+        "explanation": "Ikoniamu, Listra na Derbe zilikuwa za jimbo la Kirumi la Galatia Kusini wakati wa safari ya kwanza ya Paulo (Matendo 14)."
+      },
+      {
+        "question": "Ni katika jiji gani ambalo Paulo na Barnaba walidhaniwa kuwa Zeu na Herme baada ya kumponya mtu kilema?",
+        "options": [
+          "Antiokia ya Pisidia",
+          "Listra",
+          "Ikoniamu",
+          "Tarso"
+        ],
+        "correct": 1,
+        "explanation": "Huko Listra, umati ulitaka kuwatolea dhabihu, ukiwaita Zeu (Barnaba) na Herme (Paulo) ( Matendo 14:11-12 )."
+      },
+      {
+        "question": "Ezekieli alipata wapi maono yake kati ya wahamishwa Wayahudi huko Babiloni?",
+        "options": [
+          "Kwenye kingo za Mto Nile",
+          "Kwenye ukingo wa Mto Kebari",
+          "Kwenye ukingo wa Yordani",
+          "Kando ya Bahari ya Chumvi"
+        ],
+        "correct": 1,
+        "explanation": "Ezekieli alikuwa miongoni mwa wafungwa karibu na Mto Kebari (mfereji wa Eufrate) wakati mbingu zilipofunguka (Ezekieli 1:1)."
+      },
+      {
+        "question": "Ni jiji gani lililo kaskazini ya mbali ya Israeli lilitoa usemi wa kibiblia 'kutoka Dani hadi ___'?",
+        "options": [
+          "Yeriko",
+          "Bia Sheba",
+          "Hebron",
+          "Gaza"
+        ],
+        "correct": 1,
+        "explanation": "'Kutoka Dani hadi Beer-sheba' ilimaanisha eneo lote la Israeli, kutoka kaskazini kabisa hadi kusini mwa Negev (Waamuzi 20:1)."
+      },
+      {
+        "question": "Ni jangwa gani kame lililo kusini mwa Yudea karibu na Beer-sheba?",
+        "options": [
+          "Sinai",
+          "Negev",
+          "Lebanon",
+          "Karmeli"
+        ],
+        "correct": 1,
+        "explanation": "Negebu ('kavu/kusini') ni eneo la nusu jangwa ambako Ibrahimu na Isaka waliishi karibu na Beer-sheba (Mwanzo 20:1)."
+      },
+      {
+        "question": "Ni jiji gani la pwani lililojengwa na Herode Mkuu na likawa jiji kuu la utawala la Kiroma la Yudea?",
+        "options": [
+          "Jaffa",
+          "Kaisaria Maritime",
+          "Ashkeloni",
+          "Ekari"
+        ],
+        "correct": 1,
+        "explanation": "Kaisaria Maritime ilikuwa nyumbani kwa wakuu na wasimamizi wa Kirumi kama vile Pilato, Feliksi, na Festo (Matendo 23:23)."
+      },
+      {
+        "question": "Herode Mkuu alijenga ngome ya jumba la Herode na akazikwa katika jiji gani?",
+        "options": [
+          "Kaskazini mwa Nazareti",
+          "Kusini mwa Yerusalemu, karibu na Bethlehemu",
+          "Katika Kapernaumu",
+          "Katika Gaza"
+        ],
+        "correct": 1,
+        "explanation": "Herodiamu ni kilima bandia kilichoko karibu kilomita 12 kusini mwa Yerusalemu, karibu na Bethlehemu."
+      },
+      {
+        "question": "Ni mto gani unaotenganisha Yerusalemu na Mlima wa Mizeituni?",
+        "options": [
+          "Yordani",
+          "Mto wa Kidroni",
+          "Kishoni",
+          "Yaboki"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alivuka Mto Kidroni na wanafunzi wake hadi kwenye bustani ya Gethsemane (Yohana 18:1)."
+      },
+      {
+        "question": "Ni karibu na kijito gani Yakobo alihangaika usiku kucha na mtu asiyemjua kabla ya kumpata Esau?",
+        "options": [
+          "Kidroni",
+          "Yaboki",
+          "Arnoni",
+          "Kishoni"
+        ],
+        "correct": 1,
+        "explanation": "Yakobo alivuka Yaboki (mto wa mashariki wa Yordani) na hapo akapokea jina Israeli (Mwanzo 32:22-28)."
+      },
+      {
+        "question": "Ni mlima gani mrefu uliofunikwa na theluji unaoashiria mpaka wa kaskazini wa Israeli?",
+        "options": [
+          "Mlima Tabori",
+          "Mlima Hermoni",
+          "Mlima Karmeli",
+          "Mlima Nebo"
+        ],
+        "correct": 1,
+        "explanation": "Mlima Hermoni (m 2,814) unatawala kaskazini mwa Israeli na kulisha vyanzo vya Yordani ( Zaburi 133:3 )."
+      },
+      {
+        "question": "Ni bandari gani kwenye kisiwa cha Krete ambayo Paulo alipendekeza itumike wakati wa baridi kali kabla ya meli kuanguka (Matendo 27:8-12)?",
+        "options": [
+          "Pafo",
+          "Bandari za Fine (Kaloi Limenes)",
+          "Patara",
+          "Mileto"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alionya dhidi ya kurudi baharini kutoka Beaux-Ports huko Krete, lakini akida alipendelea kujaribu kufika Phoenix."
+      },
+      {
+        "question": "Ni katika mji gani wa bandari huko Asia Ndogo ambapo Paulo aliwaaga wazee wa Efeso (Matendo 20)?",
+        "options": [
+          "Troa",
+          "Mileto",
+          "Smirna",
+          "Pergamo"
+        ],
+        "correct": 1,
+        "explanation": "Ili kuokoa muda huko Asia, Paulo aliwaleta wazee kutoka Efeso hadi Mileto (Matendo 20:17)."
+      },
+      {
+        "question": "Katika bandari gani Paulo aliona maono ya yule mwanamume wa Makedonia aliyemsihi: ‘Nenda Makedonia, utusaidie!’ ?",
+        "options": [
+          "Antiokia",
+          "Troa",
+          "Efeso",
+          "Korintho"
+        ],
+        "correct": 1,
+        "explanation": "Ilikuwa ni Troa, kwenye pwani ya Aegean, ambapo Paulo alipokea mwito wa kwenda Ulaya (Matendo 16:8-10)."
+      },
+      {
+        "question": "Ni bandari gani mbili zilizotumikia Korintho, na kuifanya kuwa njia kuu ya biashara?",
+        "options": [
+          "Yopa na Gaza",
+          "Lechaion (magharibi) na Kenkrea (mashariki)",
+          "Tiro na Sidoni",
+          "Ostia na Pozzuoli"
+        ],
+        "correct": 1,
+        "explanation": "Ikiwa kwenye eneo la mto, Korintho iliunganisha Ghuba ya Korintho (Lechaion) na Ghuba ya Saronic (Kenkrea, iliyotajwa katika Warumi 16:1)."
+      },
+      {
+        "question": "Jina la bandari ambapo Paulo alitua Italia kabla ya kurudi Rumi liliitwaje (Matendo 28:13)?",
+        "options": [
+          "Ostia",
+          "Pozzuoli (Puteoli)",
+          "Napoli",
+          "Brindisi"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alitua Pozzuoli, katika Ghuba ya Naples, ambako tayari alipata ndugu Wakristo (Matendo 28:13-14)."
+      },
+      {
+        "question": "Ni jiji gani lilikuwa jiji kuu la ufalme wa Edomu kusini-mashariki mwa Bahari ya Chumvi (mara nyingi huhusishwa na miamba ya Petra/Sela)?",
+        "options": [
+          "Sela / Botsra",
+          "Ninawi",
+          "Samaria",
+          "Hebron"
+        ],
+        "correct": 0,
+        "explanation": "Edomu waliikalia milima ya Seiri kwa ngome kama Botsra na Sela (2 Wafalme 14:7; Obadia)."
+      },
+      {
+        "question": "Ezekieli aliona bonde la mifupa mikavu kwenye uwanda gani?",
+        "options": [
+          "Uwanda wa Shinari",
+          "Bonde/tambarare huko Babeli (mara nyingi huunganishwa na Mto Kebar)",
+          "Bonde la Yehoshafati",
+          "Uwanda wa Sharoni"
+        ],
+        "correct": 1,
+        "explanation": "Roho ilimbeba Ezekieli mpaka katikati ya bonde lililojaa mifupa katika nchi ya Wakaldayo (Ezekieli 37:1)."
+      },
+      {
+        "question": "Ni mji gani wa kaskazini mwa Kanaani uliochomwa moto na Yoshua baada ya ushindi wake dhidi ya Mfalme Yabini (Yoshua 11)?",
+        "options": [
+          "Yeriko",
+          "Hazori",
+          "Gibeoni",
+          "Ai"
+        ],
+        "correct": 1,
+        "explanation": "Hazori, ambayo ilikuwa ‘makao makuu ya falme hizi zote,’ ilitwaliwa na kuchomwa moto na Yoshua ( Yoshua 11:10-11 )."
+      },
+      {
+        "question": "Je! Sanduku la Agano lilishusha sanamu ya mungu Dagoni katika jiji gani la Wafilisti?",
+        "options": [
+          "Gaza",
+          "Ashdodi",
+          "Gath",
+          "Ascalon"
+        ],
+        "correct": 1,
+        "explanation": "Wafilisti waliweka Sanduku katika hekalu la Dagoni huko Ashdodi, ambapo sanamu ilianguka mbele yake (1 Samweli 5:1-4)."
+      },
+      {
+        "question": "Ni mji gani wa asili wa Goliathi ulikuwa mmoja wa miji mitano ya pentapolis ya Wafilisti?",
+        "options": [
+          "Gaza",
+          "Gath",
+          "Yeriko",
+          "Shekemu"
+        ],
+        "correct": 1,
+        "explanation": "Goliathi alitoka Gathi ( 1 Samweli 17:4 ); miji mitano ilikuwa Gaza, Ashdodi, Askaloni, Gathi na Ekroni."
+      },
+      {
+        "question": "Shilo, Betheli na Yerusalemu zilikuwa katika eneo gani la milima?",
+        "options": [
+          "Uwanda wa Pwani wa Sharon",
+          "Nyanda za juu za kati (mlima wa Efraimu na Yuda)",
+          "Bonde la Yordani",
+          "Jangwa la Arabia"
+        ],
+        "correct": 1,
+        "explanation": "Sehemu ya kati ya mlima ni nyumbani kwa sehemu kubwa zaidi za patakatifu na miji ya kihistoria ya Agano la Kale."
+      },
+      {
+        "question": "Ni katika mji gani katika Yudea ambapo Yohana Mbatizaji labda alizaliwa kulingana na mapokeo (nyumba ya Zekaria na Elisabeti)?",
+        "options": [
+          "Bethlehemu",
+          "Mji katika mlima wa Yuda (kwa kawaida Ein Keremu)",
+          "Nazareti",
+          "Kapernaumu"
+        ],
+        "correct": 1,
+        "explanation": "Luka 1:39 inaandika kwamba Mariamu alikwenda haraka katika nchi ya vilima hadi mji wa Yuda (uliotambulika kama Ein Kerem)."
+      },
+      {
+        "question": "Ni katika mji gani katika Matendo ya Mitume ambapo Filipo shemasi alihubiri kwa mafanikio kabla ya kuwasili kwa Petro na Yohana?",
+        "options": [
+          "Damasko",
+          "Mji wa Samaria",
+          "Korintho",
+          "Efeso"
+        ],
+        "correct": 1,
+        "explanation": "Filipo alishuka mpaka mji wa Samaria na kumhubiri Kristo huko kwa ishara nyingi (Matendo 8:5-14)."
       }
     ],
     "expert": [
@@ -477,6 +1511,534 @@
         ],
         "correct": 1,
         "explanation": "Takriban wanahistoria wote wanatambulisha 'Babeli' katika 1 Petro 5:13 na Rumi. Matumizi sawa katika Ufunuo na fasihi ya Kiyahudi ya baada ya miaka ya 70 ili kutaja dola dhalimu."
+      },
+      {
+        "question": "Ni bonde gani lililo kusini-magharibi mwa Yerusalemu (Ge-Hinomu) lilitoa jina lake kwa neno 'Gehena'?",
+        "options": [
+          "Bonde la Kidroni",
+          "Bonde la Ben-Hinomu",
+          "Bonde la Akor",
+          "Bonde la Warefai"
+        ],
+        "correct": 1,
+        "explanation": "Bonde la Ben-Hinomu, mandhari ya dhabihu za kipagani chini ya Ahazi na Manase, likawa ishara ya hukumu ya mwisho (Gehena)."
+      },
+      {
+        "question": "Ni neno gani la kijiografia linalorejelea vilima vilivyo chini kati ya nchi tambarare ya pwani ya Wafilisti na milima ya Yuda?",
+        "options": [
+          "Negev",
+          "Shefela",
+          "La Araba",
+          "Bashani"
+        ],
+        "correct": 1,
+        "explanation": "Shefela ('nyika tambarare') ilikuwa eneo la kimkakati la kuzuia na ngome kama Lakishi, Azeka na Beth-Shemeshi."
+      },
+      {
+        "question": "Ni ngome gani ya Shefela iliyozingirwa na Senakeribu mwaka wa 701 KK? AD, tukio lisiloweza kufa kwenye nakala za msingi za Ninawi?",
+        "options": [
+          "Megido",
+          "Lakish",
+          "Gezeri",
+          "Hazori"
+        ],
+        "correct": 1,
+        "explanation": "Nakala za msingi za jumba la kifalme la Senakeribu huko Ninawi zinaonyesha kwa usahihi kuzingirwa kwa Lakishi mnamo 701 KK. AD"
+      },
+      {
+        "question": "Ni bonde au bonde gani lenye rutuba kaskazini mwa Israeli linalounganisha pwani ya Mediterania na Mto Yordani na kutumika kama ishara ya 'Har-Magedoni'?",
+        "options": [
+          "Uwanda wa Sharoni",
+          "Uwanda wa Yezreeli (Esdreloni), unaotawaliwa na Megido",
+          "Bonde la Kidroni",
+          "Uwanda wa Moabu"
+        ],
+        "correct": 1,
+        "explanation": "Har-Magedoni inatoka 'Har-Megido' (mlima wa Megido), ambayo inaamuru ufikiaji wa uwanda wa kimkakati wa Yezreeli (Ufunuo 16:16)."
+      },
+      {
+        "question": "Ni uwanda gani wenye rutuba mashariki mwa Ziwa Galilaya uliokuwa maarufu kwa mialoni na mafahali wake wakuu katika Agano la Kale?",
+        "options": [
+          "Negev",
+          "Bashani (Golani)",
+          "Shefela",
+          "Sinai"
+        ],
+        "correct": 1,
+        "explanation": "Bashani ilijulikana kwa miti yake ya mialoni (Isaya 2:13) na mifugo yenye nguvu (Zaburi 22:13; Amosi 4:1)."
+      },
+      {
+        "question": "Ni mto gani ulioashiria mpaka kati ya maeneo ya Edomu/Moabu au kati ya Moabu na Waamori?",
+        "options": [
+          "Kishoni",
+          "Arnoni (Wadi Mujib)",
+          "Kidroni",
+          "Besori"
+        ],
+        "correct": 1,
+        "explanation": "Mto wa Arnoni, korongo lenye kina kirefu linalotiririka katika Bahari ya Chumvi, ulitenganisha Moabu na ufalme wa Waamori wa Sihoni (Hesabu 21:13)."
+      },
+      {
+        "question": "Ni nini kitambulisho cha kijiografia cha 'mto wa Misri' (Nahal Mitzraim) katika mipaka kadhaa ya AT?",
+        "options": [
+          "Mto Nile pekee",
+          "Wadi el-Arish huko Sinai Kaskazini",
+          "Bahari Nyekundu",
+          "Yordani"
+        ],
+        "correct": 1,
+        "explanation": "Katika maandiko yanayoelezea mpaka wa kusini wa Kanaani (Hesabu 34:5; Yoshua 15:4), 'kijito cha Misri' kinarejelea Wadi el-Arish."
+      },
+      {
+        "question": "Ni mfadhaiko gani wa kitektoni unaoanzia Ziwa Galilaya hadi Ghuba ya Akaba kupitia Bahari ya Chumvi?",
+        "options": [
+          "Shefela",
+          "Bonde la Ufa / Araba (Ghor)",
+          "Mwezi mpevu wenye rutuba",
+          "Uwanda wa Sharoni"
+        ],
+        "correct": 1,
+        "explanation": "Mgawanyiko mkubwa wa Rift (bonde la Yordani na Araba) unashuka hadi -430 m kwenye Bahari ya Chumvi kabla ya kujiunga na Bahari ya Shamu."
+      },
+      {
+        "question": "Ni handaki gani la majimaji la mita 533 lililochimbwa chini ya Hezekia lililounganisha chemchemi ya Gihoni na bwawa la Siloamu?",
+        "options": [
+          "Mfereji wa maji wa Pilato",
+          "Mtaro wa Siloamu (Maandishi ya Siloamu)",
+          "Yakobo yuko vizuri",
+          "Mfereji wa Warren"
+        ],
+        "correct": 1,
+        "explanation": "Ilichimbuliwa na timu mbili kuanzia ncha tofauti karibu 701 BC. KK, ilihakikisha maji kwa Yerusalemu wakati wa kuzingirwa na Ashuru (2 Mambo ya Nyakati 32:30)."
+      },
+      {
+        "question": "Ni njia gani ya kibiashara ya kimataifa iliyopitia pwani ya Mediterania kisha kupitia Megido hadi Damasko?",
+        "options": [
+          "Barabara ya Kifalme",
+          "Njia ya Via Maris ('Njia ya Bahari')",
+          "Barabara ya Wahenga",
+          "Njia ya Appian"
+        ],
+        "correct": 1,
+        "explanation": "Njia ya Via Maris iliunganisha Misri na Siria na Mesopotamia kupitia uwanda wa pwani, Megido na Galilaya (Isaya 9:1)."
+      },
+      {
+        "question": "Étsion-Géber, bandari iliyotumiwa na meli za Solomoni ilikuwa wapi?",
+        "options": [
+          "Kwenye pwani ya Mediterania karibu na Gaza",
+          "Chini ya Ghuba ya Aqaba (Bahari Nyekundu), karibu na Elat",
+          "Kwenye Bahari ya Chumvi",
+          "Kwenye Ziwa Tiberia"
+        ],
+        "correct": 1,
+        "explanation": "Sulemani alijenga meli huko Etsion-geberi, karibu na Elothi, kwenye ukingo wa Bahari ya Shamu (1 Wafalme 9:26)."
+      },
+      {
+        "question": "Ni eneo gani la kibiblia linalolingana na uwanda wa pwani wa sasa kati ya Yafa na Mlima Karmeli?",
+        "options": [
+          "Shefela",
+          "Uwanda wa Sharoni",
+          "Negev",
+          "Dekapoli"
+        ],
+        "correct": 1,
+        "explanation": "Uwanda wa Sharoni ulikuwa maarufu kwa rutuba na maua yake ( Wimbo 2:1; Isaya 35:2 )."
+      },
+      {
+        "question": "Majiji 6 maalum yaliyoenea ng'ambo ya Yordani ili kulinda dhidi ya mauaji ya bila kukusudia yalikuwa yapi yalikuwa majina gani?",
+        "options": [
+          "Miji ya kifalme",
+          "Miji ya makimbilio (Kedeshi, Shekemu, Hebroni, Betseri, Ramothi, Golani)",
+          "Miji ya ghala",
+          "Miji ya Dekapoli"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alianzisha miji sita ya makimbilio—tatu magharibi na mitatu mashariki mwa Yordani—iliyofikiwa haraka kutoka katika nchi yote (Yoshua 20:7-8)."
+      },
+      {
+        "question": "Ni mahali gani katika Jangwa la Yudea, kaskazini-magharibi mwa Bahari ya Chumvi, palipokuwa na jumuiya iliyonakili hati-kunjo za Biblia?",
+        "options": [
+          "Masada",
+          "Qumran",
+          "En-Guédi",
+          "Yeriko"
+        ],
+        "correct": 1,
+        "explanation": "Mapango ya Khirbet Qumran yalitoa Hati-kunjo za Bahari ya Chumvi kati ya 1947 na 1956."
+      },
+      {
+        "question": "Ni jiji gani katika Apocalypse lilijulikana kwa maji yake ya joto kutoka kwenye mifereji ya maji (tofauti na chemchemi za maji moto za Hierapoli na chemchemi za baridi za Kolosai)?",
+        "options": [
+          "Efeso",
+          "Laodikia",
+          "Smirna",
+          "Philadelphia"
+        ],
+        "correct": 1,
+        "explanation": "Dokezo la maji kuwa si baridi au kuchemsha katika Ufunuo 3:15-16 moja kwa moja linaonyesha ugavi wa Laodikia wa maji vuguvugu."
+      },
+      {
+        "question": "Ni jiji gani kati ya Makanisa 7 ya Ufunuo lilikuwa nyumbani kwa madhabahu maarufu ya ukumbusho ya Zeu ('kiti cha enzi cha Shetani')?",
+        "options": [
+          "Sardi",
+          "Pergamo",
+          "Thiatira",
+          "Smirna"
+        ],
+        "correct": 1,
+        "explanation": "Pergamo ( Ufunuo 2:13 ) ilikuwa na madhabahu kuu ya Zeu kwenye akropoli yake pamoja na ibada ya mapema ya kifalme."
+      },
+      {
+        "question": "Ni jiji gani katika Asia Ndogo, lililopokea Apocalypse, lilikuwa maarufu kwa kazi zake za rangi ya zambarau (nchi ya asili ya Lidia)?",
+        "options": [
+          "Laodikia",
+          "Thiatira",
+          "Sardi",
+          "Efeso"
+        ],
+        "correct": 1,
+        "explanation": "Lidia, mfanyabiashara wa zambarau ambaye Paulo alikutana naye huko Filipi, alikuwa kutoka Thiatira (Matendo 16:14; Ufunuo 2:18)."
+      },
+      {
+        "question": "Katika barabara gani ya Kirumi Paulo alisindikizwa na ndugu waliokuja kutoka Rumi hadi kwenye 'Jukwaa la Apio' na 'Mikahawa Mitatu'?",
+        "options": [
+          "Njia ya Egnatia",
+          "Njia ya Via Appia",
+          "Njia ya Via Maris",
+          "Barabara ya Kifalme"
+        ],
+        "correct": 1,
+        "explanation": "Njia ya Via Appia iliunganisha Italia ya kusini na Roma; Wakristo walikuja kukutana na Paulo katika sehemu hizi mbili za mawasiliano (Matendo 28:15)."
+      },
+      {
+        "question": "Ni barabara gani ya Kirumi iliyovuka Makedonia kutoka mashariki hadi magharibi, kuunganisha Filipi, Thesalonike na Bahari ya Adriatic?",
+        "options": [
+          "Njia ya Via Appia",
+          "Njia ya Egnatia",
+          "Njia ya Sebaste",
+          "Barabara ya Kifalme"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alichukua Via Egnatia katika safari yake ya 2 ya umishonari kutoka Neapoli/Filipi hadi Thesalonike (Matendo 16-17)."
+      },
+      {
+        "question": "Hekalu lililojengwa na Wasamaria likiwa mpinzani wa lile la Yerusalemu lilikuwa jina gani?",
+        "options": [
+          "Hekalu la Betheli",
+          "Hekalu la Mlima Gerizimu",
+          "Hekalu la Dani",
+          "Hekalu la Elephantine"
+        ],
+        "correct": 1,
+        "explanation": "Yohana 4:20 inarejelea patakatifu hapa pa Mlima Gerizimu ('Baba zetu waliabudu juu ya mlima huu')."
+      },
+      {
+        "question": "Ni katika mji gani wa kifalme wa kaskazini ambapo Omri alianzisha mji mkuu wake mpya karibu 880 KK? AD kwenye kilima kilichonunuliwa huko Shemeri?",
+        "options": [
+          "Tirsa",
+          "Samaria (Shomroni)",
+          "Shekemu",
+          "Dan"
+        ],
+        "correct": 1,
+        "explanation": "Omri alinunua kilima cha Shemeri na kujenga Samaria hapo, ambayo ilibaki kuwa mji mkuu wa Ufalme wa Kaskazini hadi 722 KK. ( 1 Wafalme 16:24 )."
+      },
+      {
+        "question": "Ni mji gani ulikuwa mji mkuu wa kale wa Yuda kabla ya Yerusalemu, na mahali pa makaburi ya wazee wa ukoo (Makpela)?",
+        "options": [
+          "Bethlehemu",
+          "Hebron",
+          "Gaza",
+          "Shekemu"
+        ],
+        "correct": 1,
+        "explanation": "Ibrahimu alinunua pango la Makpela huko Hebroni (Mwanzo 23), ambapo Ibrahimu, Sara, Isaka, Rebeka, Yakobo na Lea walizikwa."
+      },
+      {
+        "question": "Ni wapi katika Hekalu la Yerusalemu ambapo pazia (pazia) lilitenganisha Patakatifu na Patakatifu pa Patakatifu?",
+        "options": [
+          "Katika mahakama za wapagani",
+          "Ndani ya patakatifu (Hekhal/Debir)",
+          "Juu ya Mlima wa Mizeituni",
+          "Katika bwawa la Bethesda"
+        ],
+        "correct": 1,
+        "explanation": "Pazia lililotenganisha Patakatifu na Patakatifu pa Patakatifu lilipasuka kutoka juu hadi chini wakati wa kifo cha Yesu (Marko 15:38)."
+      },
+      {
+        "question": "Je, ni lango gani la Yerusalemu au bwawa, lililo na milango mitano karibu na Lango la Kondoo, linalotajwa katika Yohana 5?",
+        "options": [
+          "Siloamu",
+          "Bethzatha (Bethzatha)",
+          "Lango la Efraimu",
+          "Gihon"
+        ],
+        "correct": 1,
+        "explanation": "Uchimbaji wa kiakiolojia karibu na St. Anne huko Yerusalemu ulithibitisha mabwawa mawili yaliyozungukwa na ukumbi watano wa Bethesda (Yohana 5:2)."
+      },
+      {
+        "question": "Ni ukumbi gani uliofunikwa wa Hekalu huko Yerusalemu ulitumika kama mahali pa kukutanikia kwa Wakristo wa kwanza (Matendo 5:12)?",
+        "options": [
+          "Ukumbi wa Daudi",
+          "Ukumbi wa Sulemani",
+          "Ukumbi wa Herode",
+          "Ukumbi wa Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Ukumbi wa Sulemani, upande wa mashariki wa esplanade ya Hekalu, ulipokea mafundisho ya Yesu (Yohana 10:23) na kisha mitume."
+      },
+      {
+        "question": "Ni katika eneo gani la Misri ambapo koloni la kijeshi la Kiyahudi lilikuwa na hekalu lake la Yahwist katika karne ya 5 KK? AD?",
+        "options": [
+          "Alexandria",
+          "Tembo (Aswan)",
+          "Gosen",
+          "Memphis"
+        ],
+        "correct": 1,
+        "explanation": "Mafunjo ya Tembo yanaonyesha kuwepo kwa jumuiya ya Wayahudi kwenye kisiwa cha Nile kwenye mpaka wa kusini wa Misri."
+      },
+      {
+        "question": "Ni jiji gani lililokuwa kwenye ukingo wa mashariki wa Yordani lilitumika kama kimbilio la Wakristo wa Yerusalemu kabla ya kuzingirwa kwa 70 BK? BC kulingana na Eusebius?",
+        "options": [
+          "Yeriko",
+          "Pela (huko Dekapoli)",
+          "Damasko",
+          "Antiokia"
+        ],
+        "correct": 1,
+        "explanation": "Kulingana na Eusebius wa Kaisaria, Wakristo walikimbia Yerusalemu hadi Pela huko Perea/Dekapoli kabla ya uharibifu katika 70."
+      },
+      {
+        "question": "Ni eneo gani la kibiblia linalolingana na Transjordan ya kati, inayohusishwa na makabila ya Reubeni na Gadi?",
+        "options": [
+          "Negev",
+          "Gileadi na nchi tambarare ya Moabu",
+          "Galilaya",
+          "Foinike"
+        ],
+        "correct": 1,
+        "explanation": "Nchi ya Gileadi, yenye milima na yenye miti mashariki ya Yordani, iligawanywa kati ya Reubeni, Gadi na nusu ya kabila la Manase (Hesabu 32)."
+      },
+      {
+        "question": "Ni jangwa gani lililo moja kwa moja mashariki mwa Yerusalemu kuelekea Yeriko na Bahari ya Chumvi?",
+        "options": [
+          "Jangwa la Yudea",
+          "Jangwa la Paran",
+          "Jangwa la Syria",
+          "Jangwa la Libya"
+        ],
+        "correct": 0,
+        "explanation": "Jangwa la Yudea linashuka ghafla kutoka +800 m huko Yerusalemu hadi -430 m kwenye Bahari ya Chumvi kwa karibu kilomita thelathini."
+      },
+      {
+        "question": "Ni jiji gani la Nabataea lilidhibiti njia za uvumba kuelekea kusini-mashariki mwa Israeli katika nyakati za Agano Jipya (ufalme wa Areta IV, 2 Kor 11:32)?",
+        "options": [
+          "Palmyra",
+          "Petra (Nabatene)",
+          "Babeli",
+          "Tarso"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anamtaja mfalme wa Nabataea Areta IV ambaye alilinda Damasko (2 Wakorintho 11:32)."
+      },
+      {
+        "question": "Ni bandari gani kwenye pwani ya Likia ilimruhusu Paulo kubadilisha meli hadi meli ya Aleksandria iliyokuwa ikielekea Rumi (Matendo 27:5-6)?",
+        "options": [
+          "Patara",
+          "Myra",
+          "Attalia",
+          "Seleucia"
+        ],
+        "correct": 1,
+        "explanation": "Huko Mira huko Likia, akida Julius alipata meli kutoka Aleksandria iliyokuwa ikisafiri kuelekea Italia."
+      },
+      {
+        "question": "Ni mji gani ulikuwa bandari ya Antiokia katika Siria ambako Paulo na Barnaba walisafiri kwa meli hadi Kipro?",
+        "options": [
+          "Tarso",
+          "Seleucia wa Pieria",
+          "Jaffa",
+          "Sidoni"
+        ],
+        "correct": 1,
+        "explanation": "Walishuka hadi Seleukia, bandari ya Antiokia kwenye mlango wa Orontes, na kutoka huko wakasafiri kwa meli hadi Kipro (Matendo 13:4)."
+      },
+      {
+        "question": "Ni kisiwa gani katika Bahari ya Aegean kilichokuwa kituo cha kwanza cha Paulo Ulaya kabla ya Neapoli?",
+        "options": [
+          "Rhodes",
+          "Samothrace",
+          "Lesvos",
+          "Corfu"
+        ],
+        "correct": 1,
+        "explanation": "Waliondoka Troa, wakaenda moja kwa moja hadi Samothrake, na siku iliyofuata wakaelekea Neapoli (Matendo 16:11)."
+      },
+      {
+        "question": "Ni bandari gani ya Filipi ambapo Paulo alitua Ulaya?",
+        "options": [
+          "Senchrees",
+          "Neapolis (Kavala)",
+          "Thesaloniki",
+          "Berea"
+        ],
+        "correct": 1,
+        "explanation": "Neapoli ilitumika kama bandari ya koloni ya Kirumi ya Filipi, iliyokuwa karibu kilomita 15 ndani ya nchi (Matendo 16:11-12)."
+      },
+      {
+        "question": "Ni eneo gani la milima la Israeli ambalo ni makazi ya majiji ya Nazareti, Kana na Mlima Tabori?",
+        "options": [
+          "Galilaya ya Juu",
+          "Galilaya ya Chini",
+          "Yudea",
+          "Negev"
+        ],
+        "correct": 1,
+        "explanation": "Galilaya ya Chini, yenye mabonde yenye rutuba na vilima vya wastani, huzingatia sehemu nyingi za kiinjilisti kuzunguka Nazareti na Tiberia."
+      },
+      {
+        "question": "Ni mji gani mpya ulioanzishwa na Herode Antipa karibu 20 AD? J.-C. lilitoa jina lake lingine kwa Ziwa Galilaya?",
+        "options": [
+          "Sephoris",
+          "Tiberia",
+          "Kaisaria",
+          "Bethania"
+        ],
+        "correct": 1,
+        "explanation": "Ikiitwa kwa heshima ya mfalme Tiberio, Tiberia iliipa jina lake 'Bahari ya Tiberia' katika Injili ya Yohana (Yohana 6:1; 21:1)."
+      },
+      {
+        "question": "Ni mji mkuu gani wa galaksi wa Herode Antipa, ulioko kilomita 6 tu kaskazini mwa Nazareti, ambao haujatajwa kamwe katika Injili?",
+        "options": [
+          "Tiberia",
+          "Sephoris",
+          "Scythopolis",
+          "Tolemai"
+        ],
+        "correct": 1,
+        "explanation": "Zipphoris lilikuwa jiji kubwa la Wagiriki na Warumi jirani na Nazareti, ambapo Yusufu na Yesu maseremala waliweza kufanya kazi, ingawa haikutajwa katika Agano Jipya."
+      },
+      {
+        "question": "Palikuwa wapi mahali palipoitwa ‘Ainoni, karibu na Salimu’, ambapo Yohana alibatiza kwa sababu kulikuwa na maji mengi (Yohana 3:23)?",
+        "options": [
+          "Katika Idumea",
+          "Katika Bonde la Yordani (karibu na Scythopolis/Samaria)",
+          "Katika Yerusalemu",
+          "Katika pwani ya Gaza"
+        ],
+        "correct": 1,
+        "explanation": "Aïnon ('vyanzo') karibu na Salim ilikuwa katika bonde la Yordani lenye chemchemi nyingi."
+      },
+      {
+        "question": "Ni mji gani wa ngome ulio mashariki mwa Bahari ya Chumvi ulikuwa mahali pa kufungwa na kukatwa kichwa kwa Yohana Mbatizaji kulingana na Flavius ​​​​Josephus?",
+        "options": [
+          "Masada",
+          "Machaerus (Makherontes)",
+          "Herodion",
+          "Gamla"
+        ],
+        "correct": 1,
+        "explanation": "Flavius ​​​​Josephus (Mambo ya Kale 18.5.2) anaweka kuuawa kwa Yohana Mbatizaji na Herode Antipas katika ngome ya Machaerus huko Perea."
+      },
+      {
+        "question": "Ni mto gani huko Mesopotamia unaopakana na Ninawi ya kale, mji mkuu wa Milki ya Ashuru?",
+        "options": [
+          "Mto Frati",
+          "Tiger",
+          "Mto Nile",
+          "Yordani"
+        ],
+        "correct": 1,
+        "explanation": "Ninawi ilisimama kwenye ukingo wa mashariki wa Tigri, ikikabili Mosul ya kisasa nchini Iraq."
+      },
+      {
+        "question": "Jiji la kale la Babeli lilisimama juu ya mto gani?",
+        "options": [
+          "Tiger",
+          "Mto Frati",
+          "Mto Nile",
+          "Kebar pekee"
+        ],
+        "correct": 1,
+        "explanation": "Mto Frati ulitiririka katikati ya mji wa Babeli (Zaburi 137:1: 'Katika ukingo wa mito ya Babeli')."
+      },
+      {
+        "question": "Ni eneo gani la kibiblia lililoko kusini mwa Yudea kati ya Hebroni na Negebu lilikuwa eneo la Esau baada ya kuondoka kutoka Edomu?",
+        "options": [
+          "Samaria",
+          "Idumea",
+          "Galilaya",
+          "Dekapoli"
+        ],
+        "correct": 1,
+        "explanation": "Waedomu walikaa kusini mwa Yuda baada ya uhamisho, na kusababisha Idumea, ambayo Herode Mkuu alitoka (Marko 3:8)."
+      },
+      {
+        "question": "Ni katika jiji gani katika Misri ambapo jumuiya kubwa ya Wayahudi ilitafsiri Biblia ya Kiebrania katika Kigiriki (Septuagint)?",
+        "options": [
+          "Memphis",
+          "Alexandria",
+          "Thebes",
+          "Heliopolis"
+        ],
+        "correct": 1,
+        "explanation": "Aleksandria, iliyoanzishwa na Alexander the Great, ilikuwa nyumbani kwa Wayahudi wengi zaidi wanaozungumza Kigiriki katika ulimwengu wa kale."
+      },
+      {
+        "question": "Ni jiji gani katika Ugiriki lililokuwa katika Akaya lilikuwa makao ya Kanisa lenye misukosuko ambalo Paulo aliandikia angalau nyaraka mbili ndefu?",
+        "options": [
+          "Filipi",
+          "Korintho",
+          "Thesaloniki",
+          "Berea"
+        ],
+        "correct": 1,
+        "explanation": "Korintho ulikuwa mji mkuu wa jimbo la Rumi la Akaya, ambapo Paulo alikaa kwa muda wa miezi 18 (Matendo 18:1-11)."
+      },
+      {
+        "question": "Ni kisiwa gani katika Mediterania ya mashariki kinachohusishwa na Tito katika waraka ulioelekezwa kwake?",
+        "options": [
+          "Kupro",
+          "Krete",
+          "Malta",
+          "Sisili"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alimwacha Tito huko Krete ili kumaliza kupanga makanisa na kuweka wazee katika kila mji (Tito 1:5)."
+      },
+      {
+        "question": "Ni jimbo gani la Kirumi katika Asia Ndogo lilileta pamoja Makanisa ya Kolosai, Laodikia na Hierapoli katika bonde la Lycos?",
+        "options": [
+          "Bithinia",
+          "Frygia (mkoa wa Asia)",
+          "Kapadokia",
+          "Kilikia"
+        ],
+        "correct": 1,
+        "explanation": "Kolosai, Laodikia, na Hierapoli waliunda utatu wa miji jirani katika Bonde la Lycus la Frugia (Wakolosai 4:13)."
+      },
+      {
+        "question": "Ni njia gani ya kihistoria ya mlima iliyounganisha uwanda wa pwani na Yerusalemu, ambapo Yoshua alisimamisha jua (Yoshua 10)?",
+        "options": [
+          "Kuinuka kwa Adumimu",
+          "Bonde la Ayaloni / kupanda kwa Beth-horoni",
+          "Njia ya Megido",
+          "Pasi ya Michmas"
+        ],
+        "correct": 1,
+        "explanation": "Yoshua aliwafuata wafalme wa Waamori hadi Beth-horoni kuelekea Bonde la Ayaloni (Yoshua 10:10-12)."
+      },
+      {
+        "question": "Ni eneo gani mashariki mwa Yeriko liliashiria kambi ya mwisho ya Israeli kabla ya kuvuka Yordani?",
+        "options": [
+          "Betheli",
+          "Nchi tambarare za Moabu/Shitimu (Abeli-Sitimu)",
+          "Hebron",
+          "Gaza"
+        ],
+        "correct": 1,
+        "explanation": "Waisraeli walipiga kambi katika nchi tambarare za Moabu huko Shitimu mkabala na Yeriko kabla ya kuvuka Yordani (Hesabu 22:1; Yoshua 3:1)."
       }
     ]
   }

@@ -561,6 +561,479 @@
         ],
         "correct": 1,
         "explanation": "At age 12, Jesus remained in the Temple in Jerusalem among the doctors of the Law (Luke 2:41-50)."
+      },
+      {
+        "question": "What are the names of the four evangelists?",
+        "options": [
+          "Peter, Paul, James and Jude",
+          "Matthew, Mark, Luke and John",
+          "Étienne, Philippe, Luc and Paul",
+          "André, Thomas, Marc and Jean"
+        ],
+        "correct": 1,
+        "explanation": "The four canonical Gospels bear the names Matthew, Mark, Luke and John."
+      },
+      {
+        "question": "What did Mary lay the baby Jesus in when he was born?",
+        "options": [
+          "A cradle of gold",
+          "A crèche (manger)",
+          "A basket on the Nile",
+          "A royal chariot"
+        ],
+        "correct": 1,
+        "explanation": "There was no room for them in the inn, so Mary laid him in a manger (Luke 2:7)."
+      },
+      {
+        "question": "Who were the first to come and worship the newborn Jesus on the night of his birth?",
+        "options": [
+          "The kings of Rome",
+          "Shepherds warned by angels",
+          "The Pharisees",
+          "Herod's soldiers"
+        ],
+        "correct": 1,
+        "explanation": "An angel announced the good news to the shepherds tending their flocks in the fields near Bethlehem (Luke 2:8-16)."
+      },
+      {
+        "question": "What three gifts did the wise men of the East offer to the child Jesus?",
+        "options": [
+          "Wheat, wine and oil",
+          "Gold, frankincense and myrrh",
+          "Pearls, bronze and linen",
+          "Lambs, doves and salt"
+        ],
+        "correct": 1,
+        "explanation": "The wise men opened their treasures and offered him gold, frankincense and myrrh (Matthew 2:11)."
+      },
+      {
+        "question": "How many fish did Jesus use with the five loaves to feed the 5,000 men?",
+        "options": [
+          "1 fish",
+          "2 fish",
+          "5 fish",
+          "7 fish"
+        ],
+        "correct": 1,
+        "explanation": "A young boy had five barley loaves and two fish, which Jesus multiplied for the crowd (John 6:9-13)."
+      },
+      {
+        "question": "How many baskets full of remaining pieces were collected after the multiplication of the 5 loaves?",
+        "options": [
+          "3 baskets",
+          "7 baskets",
+          "12 baskets",
+          "40 baskets"
+        ],
+        "correct": 2,
+        "explanation": "Twelve baskets were filled with the remaining pieces of the five barley loaves (John 6:13)."
+      },
+      {
+        "question": "What miracle did Jesus perform on Lake Galilee when a great storm threatened the boat?",
+        "options": [
+          "He built a bridge",
+          "He threatened the wind and the sea, and there was a great calm",
+          "He swam to shore",
+          "He rained fire"
+        ],
+        "correct": 1,
+        "explanation": "Jesus said to the sea: 'Silence! shut up !' and the wind ceased, causing the disciples to marvel (Mark 4:39-41)."
+      },
+      {
+        "question": "How many lepers did Jesus heal when only one came back to thank him?",
+        "options": [
+          "3",
+          "7",
+          "10",
+          "12"
+        ],
+        "correct": 2,
+        "explanation": "Ten lepers were cleansed by going to show themselves to the priests, but only one Samaritan returned to give glory to God (Luke 17:12-19)."
+      },
+      {
+        "question": "Who carried the cross of Jesus on the way to Golgotha?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "Simon of Cyrene",
+          "Joseph of Arimathea"
+        ],
+        "correct": 2,
+        "explanation": "The soldiers commandeered Simon of Cyrene, who was returning from the fields, to carry the cross behind Jesus (Luke 23:26)."
+      },
+      {
+        "question": "Whereupon did Jesus enter triumphantly into Jerusalem before the crowds shouting 'Hosanna'?",
+        "options": [
+          "A white horse",
+          "A donkey",
+          "A Roman chariot",
+          "A camel"
+        ],
+        "correct": 1,
+        "explanation": "Jesus rode on a colt on which no one had yet sat, fulfilling Zechariah 9:9 (Mark 11:2-10)."
+      },
+      {
+        "question": "What did the disciples do at the Last Supper with the bread and the cup?",
+        "options": [
+          "They celebrated the Feast of Tabernacles",
+          "Jesus instituted the Lord's Supper ('This is my body... This is my blood')",
+          "They offered a bull",
+          "They fasted without eating anything"
+        ],
+        "correct": 1,
+        "explanation": "At the last Passover meal, Jesus broke the bread and shared the cup in memorial of his death for the new covenant (Luke 22:19-20)."
+      },
+      {
+        "question": "What gesture of humility does Jesus perform for his disciples before the Last Supper in John 13?",
+        "options": [
+          "He offered them crowns",
+          "He washed their feet",
+          "He gave them gold",
+          "He builds them houses"
+        ],
+        "correct": 1,
+        "explanation": "Jesus girded himself with a cloth and washed his disciples' feet to leave them an example of mutual service (John 13:4-15)."
+      },
+      {
+        "question": "Which disciple cut off the ear of the high priest's servant when Jesus was arrested?",
+        "options": [
+          "Jacques",
+          "Simon-Pierre",
+          "Thomas",
+          "Matthew"
+        ],
+        "correct": 1,
+        "explanation": "According to John 18:10, Simon Peter drew his sword and cut off Malchus's right ear, which Jesus immediately healed (Luke 22:51)."
+      },
+      {
+        "question": "How did Judas Iscariot point out Jesus to the soldiers in the garden of Gethsemane?",
+        "options": [
+          "Pointing at him",
+          "With a kiss",
+          "Screaming his name",
+          "With a torch"
+        ],
+        "correct": 1,
+        "explanation": "Judas had given this sign: 'He whom I will kiss is him; take hold of it’ (Matthew 26:48-49)."
+      },
+      {
+        "question": "Who was released by Pontius Pilate in place of Jesus at the request of the crowd?",
+        "options": [
+          "Barnabas",
+          "Barabbas",
+          "Nicodemus",
+          "Lazarus"
+        ],
+        "correct": 1,
+        "explanation": "Pilate released Barabbas, a bandit imprisoned for sedition and murder, and handed Jesus over to be crucified (Luke 23:18-25)."
+      },
+      {
+        "question": "What inscription did Pilate place above Jesus' head on the cross?",
+        "options": [
+          "Son of David",
+          "Jesus of Nazareth, King of the Jews (INRI)",
+          "Prophet of Galilee",
+          "Friend of sinners"
+        ],
+        "correct": 1,
+        "explanation": "The sign read in Hebrew, Latin and Greek: 'Jesus of Nazareth, King of the Jews' (John 19:19-20)."
+      },
+      {
+        "question": "To whom did Jesus entrust his mother Mary from the cross?",
+        "options": [
+          "To Peter",
+          "To the disciple he loved (John)",
+          "To Joseph of Arimathea",
+          "To Thomas"
+        ],
+        "correct": 1,
+        "explanation": "Jesus said to his mother, 'Woman, behold your son,' then to the disciple, 'Behold your mother' (John 19:26-27)."
+      },
+      {
+        "question": "What did Jesus promise to the repentant thief crucified next to him?",
+        "options": [
+          "That he would be released the next day",
+          "'Today you will be with me in paradise'",
+          "That he would become an apostle",
+          "That he would return to Nazareth"
+        ],
+        "correct": 1,
+        "explanation": "In response to the evildoer's faith (\"Remember me\"), Jesus assured him of immediate salvation (Luke 23:42-43)."
+      },
+      {
+        "question": "Who asked Pilate for the body of Jesus to bury in a new tomb?",
+        "options": [
+          "Nicodemus alone",
+          "Joseph of Arimathea (helped by Nicodemus)",
+          "Simon-Pierre",
+          "Jean-Baptiste"
+        ],
+        "correct": 1,
+        "explanation": "Joseph of Arimathea, a member of the Sanhedrin and secret disciple, placed the body of Jesus in his new tomb (John 19:38-42)."
+      },
+      {
+        "question": "In the parable of the ten virgins (Matthew 25), what had the five foolish virgins forgotten?",
+        "options": [
+          "Their sandals",
+          "To take oil in reserve for their lamps",
+          "The address of the feast",
+          "Their invitations"
+        ],
+        "correct": 1,
+        "explanation": "The five wise virgins had taken oil in vessels with their lamps, ready for the bridegroom's arrival (Matthew 25:1-13)."
+      },
+      {
+        "question": "In the parable of the Good Samaritan, who finally stopped to help the man injured by the bandits?",
+        "options": [
+          "A priest",
+          "A Levite",
+          "A Samaritan",
+          "A Roman soldier"
+        ],
+        "correct": 2,
+        "explanation": "When the priest and the Levite passed on, the Samaritan had compassion, bound up his wounds, and paid for his accommodation (Luke 10:30-37)."
+      },
+      {
+        "question": "In the parable of the prodigal son, what did the father do when he saw his son returning from afar?",
+        "options": [
+          "He closed the door",
+          "He ran and threw himself on her neck and kissed her",
+          "He asked her to repay the money",
+          "He made him work as a slave"
+        ],
+        "correct": 1,
+        "explanation": "Moved with compassion, the father ran to meet him, gave him the most beautiful robe, a ring and had the fatted calf killed (Luke 15:20-24)."
+      },
+      {
+        "question": "In the parable of the lost sheep (Luke 15), how many sheep does the shepherd leave behind to search for the lost one?",
+        "options": [
+          "10",
+          "50",
+          "99",
+          "100"
+        ],
+        "correct": 2,
+        "explanation": "The good shepherd leaves the other 99 in the wilderness to search for the one lost sheep until he finds it (Luke 15:4)."
+      },
+      {
+        "question": "On what does the wise man build his house according to the end of the Sermon on the Mount?",
+        "options": [
+          "On the sand",
+          "On the rock",
+          "On the straw",
+          "On clay"
+        ],
+        "correct": 1,
+        "explanation": "He who hears the words of Jesus and puts them into practice is like a prudent man who built his house on a rock (Matthew 7:24)."
+      },
+      {
+        "question": "What are the famous first words of the Beatitudes in Matthew 5?",
+        "options": [
+          "Happy are the rich",
+          "Blessed are the poor in spirit, for theirs is the kingdom of heaven",
+          "Blessed are the mighty",
+          "Blessed are the Pharisees"
+        ],
+        "correct": 1,
+        "explanation": "Jesus opens the Sermon on the Mount with nine beatitudes that overturn the values ​​of the world (Matthew 5:3-12)."
+      },
+      {
+        "question": "What appeared above the heads of the disciples on the day of Pentecost?",
+        "options": [
+          "Stars",
+          "Tongues like tongues of fire",
+          "crowns of thorns",
+          "White doves"
+        ],
+        "correct": 1,
+        "explanation": "Tongues of fire rested on each of them, and they were all filled with the Holy Spirit (Acts 2:3-4)."
+      },
+      {
+        "question": "How many people were baptized on the day of Pentecost after Peter's preaching?",
+        "options": [
+          "120 people",
+          "Around 500 people",
+          "Around 3,000 people",
+          "Around 10,000 people"
+        ],
+        "correct": 2,
+        "explanation": "That day the number of disciples increased by about three thousand souls (Acts 2:41)."
+      },
+      {
+        "question": "What miracle did Peter and John perform before the gate of the Temple called Beauty?",
+        "options": [
+          "They changed water into wine",
+          "They healed a man lame from birth",
+          "They walked on the water",
+          "They multiplied bread"
+        ],
+        "correct": 1,
+        "explanation": "Peter said to the lame man: 'I have neither silver nor gold; but what I have I give to you: in the name of Jesus Christ of Nazareth, arise and walk!' (Acts 3:6)."
+      },
+      {
+        "question": "Which officer of a queen of Ethiopia was baptized by Philip after reading the prophet Isaiah in his chariot?",
+        "options": [
+          "Crow",
+          "The Ethiopian eunuch",
+          "Sergius Paulus",
+          "Felix"
+        ],
+        "correct": 1,
+        "explanation": "Philip announced Jesus to him from Isaiah 53, then baptized him in water on the road to Gaza (Acts 8:27-39)."
+      },
+      {
+        "question": "How was the apostle Peter miraculously delivered from Herod's prison in Acts 12?",
+        "options": [
+          "By an earthquake with Paul",
+          "An angel of the Lord woke him up, removed his chains and opened the iron door",
+          "He paid the guards",
+          "He escapes through a tunnel"
+        ],
+        "correct": 1,
+        "explanation": "As the Church prayed continually for him, an angel led him out of the prison to Mary's house (Acts 12:7-17)."
+      },
+      {
+        "question": "What did the jailer of Philippi ask Paul and Silas after the nighttime earthquake?",
+        "options": [
+          "'Where are you going ?'",
+          "'Lords, what must I do to be saved?'",
+          "'How much money do you have?'",
+          "'Who opened the doors?'"
+        ],
+        "correct": 1,
+        "explanation": "Paul and Silas answered him, 'Believe on the Lord Jesus, and you and your family will be saved' (Acts 16:30-31)."
+      },
+      {
+        "question": "Which New Testament epistle contains the famous 'hymn to love' (chapter 13)?",
+        "options": [
+          "Romans",
+          "1 Corinthians",
+          "Galatians",
+          "Ephesians"
+        ],
+        "correct": 1,
+        "explanation": "1 Corinthians 13 exalts love (agape) as superior to all spiritual gifts."
+      },
+      {
+        "question": "Which New Testament epistle describes 'all the weapons of God' (armor of the believer) in chapter 6?",
+        "options": [
+          "Philippians",
+          "Ephesians",
+          "Colossians",
+          "1 Thessalonians"
+        ],
+        "correct": 1,
+        "explanation": "Ephesians 6:10-18 describes the belt of truth, the breastplate of righteousness, the shield of faith, the helmet of salvation, and the sword of the Spirit."
+      },
+      {
+        "question": "In James 2, what famous comparison does the author use to show that faith must be translated into action?",
+        "options": [
+          "Faith without works is dead",
+          "Faith replaces prayer",
+          "Works are enough without faith",
+          "Faith is secret"
+        ],
+        "correct": 0,
+        "explanation": "James teaches that genuine faith necessarily produces works of love and obedience (James 2:17,26)."
+      },
+      {
+        "question": "Which book in the New Testament is called the 'heroes of the faith chapter' (in chapter 11)?",
+        "options": [
+          "Romans",
+          "Hebrews",
+          "Jacques",
+          "1 Peter"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 11 traces the faith of Abel, Enoch, Noah, Abraham, Sarah, Moses, Rahab, David and the prophets."
+      },
+      {
+        "question": "In Revelation, what glorious title is written on the garment and thigh of the rider on the white horse (Rev 19:16)?",
+        "options": [
+          "Prophet of Galilee",
+          "King of kings and Lord of lords",
+          "Israeli Shepherd",
+          "Prince of Judea"
+        ],
+        "correct": 1,
+        "explanation": "Revelation 19:16 proclaims the absolute sovereignty of the victorious Christ: 'King of kings and Lord of lords'."
+      },
+      {
+        "question": "Which young colleague did Paul call 'my true child in the faith'?",
+        "options": [
+          "Barnabas",
+          "Timothy",
+          "Silas",
+          "Apollos"
+        ],
+        "correct": 1,
+        "explanation": "Paul shows deep fatherly affection for Timothy in 1 Timothy 1:2 and 2 Timothy 1:2."
+      },
+      {
+        "question": "What animal sang when Peter denied Jesus three times?",
+        "options": [
+          "A raven",
+          "A rooster",
+          "A dove",
+          "An eagle"
+        ],
+        "correct": 1,
+        "explanation": "As soon as Peter denied the third time, the rooster crowed and Peter wept bitterly (Luke 22:60-62)."
+      },
+      {
+        "question": "How many days did Jesus wait before going to Bethany after learning of Lazarus' illness?",
+        "options": [
+          "He left immediately",
+          "He remained two more days where he was",
+          "He waited seven days",
+          "He didn't go"
+        ],
+        "correct": 1,
+        "explanation": "Jesus stayed two more days so that the glory of God would shine through the resurrection of Lazarus on the 4th day (John 11:6,14-15)."
+      },
+      {
+        "question": "Which blind man from Jericho cried out: 'Jesus, Son of David, have mercy on me!' and regained his sight?",
+        "options": [
+          "Lazarus",
+          "Bartimaeus",
+          "Malchus",
+          "Nicodemus"
+        ],
+        "correct": 1,
+        "explanation": "Bartimaeus, son of Timaeus, threw down his cloak, jumped to Jesus, and was healed by his faith (Mark 10:46-52)."
+      },
+      {
+        "question": "What woman was healed of a twelve-year issue of blood by touching the hem of Jesus' garment?",
+        "options": [
+          "Martha",
+          "Hemorrhoids (woman suffering from blood loss)",
+          "Mary Magdalene",
+          "Salome"
+        ],
+        "correct": 1,
+        "explanation": "Jesus said to her: 'My daughter, your faith has saved you; go in peace’ (Mark 5:25-34)."
+      },
+      {
+        "question": "What miracle did Jesus perform for the daughter of Jairus, leader of the synagogue?",
+        "options": [
+          "He gave him back his sight",
+          "He raised her from the dead ('Talitha koumi')",
+          "He heals her of leprosy",
+          "He cast out seven demons"
+        ],
+        "correct": 1,
+        "explanation": "Jesus took the hand of the twelve-year-old girl and said to her, 'Girl, get up!' (Mark 5:41-42)."
+      },
+      {
+        "question": "Which short New Testament book is a personal letter from Paul to a Christian master on behalf of an escaped slave named Onesimus?",
+        "options": [
+          "Titus",
+          "Philemon",
+          "Jude",
+          "3 John"
+        ],
+        "correct": 1,
+        "explanation": "In the epistle to Philemon, Paul tenderly intercedes for Onesimus, who had become 'a beloved brother' (Philemon 1:16)."
       }
     ],
     "intermediaire": [
@@ -981,6 +1454,611 @@
         ],
         "correct": 1,
         "explanation": "Jesus said 'This cup is the new covenant in my blood' (Luke 22:20) — fulfilling the promise of Jeremiah 31:31-34."
+      },
+      {
+        "question": "What is the name of the high priest who presided over the religious trial of Jesus before the Sanhedrin?",
+        "options": [
+          "Annas",
+          "Caiaphas",
+          "Gamaliel",
+          "Zechariah"
+        ],
+        "correct": 1,
+        "explanation": "Joseph Caiaphas, Annas' son-in-law, was high priest that year and declared that one man must die for the people (John 11:49-51; 18:13-24)."
+      },
+      {
+        "question": "Which member of the Sanhedrin gave advice of prudence by saying that if the work of the apostles comes from God, it cannot be destroyed?",
+        "options": [
+          "Caiaphas",
+          "Gamaliel",
+          "Nicodemus",
+          "Ananias"
+        ],
+        "correct": 1,
+        "explanation": "Gamaliel, a doctor of the Law esteemed by all the people (and teacher of Paul), recommended not to fight against God (Acts 5:34-39)."
+      },
+      {
+        "question": "What was the name of the Christian couple who lied to the Holy Spirit about the price of a field sold in Acts 5?",
+        "options": [
+          "Aquila and Priscilla",
+          "Ananias and Sapphira",
+          "Zechariah and Elizabeth",
+          "Andronicus and Junia"
+        ],
+        "correct": 1,
+        "explanation": "Ananias and Sapphira kept part of the price while pretending they were giving it all; Peter exposed their lies before God (Acts 5:1-11)."
+      },
+      {
+        "question": "How many deacons ('seven men of good testimony') were chosen in Acts 6 to wait tables?",
+        "options": [
+          "5",
+          "7",
+          "12",
+          "70"
+        ],
+        "correct": 1,
+        "explanation": "The Church chose seven men full of the Spirit and wisdom, including Stephen and Philip, so that the apostles would devote themselves to prayer and the Word (Acts 6:3-6)."
+      },
+      {
+        "question": "Which magician from Samaria wanted to buy from the apostles the power to confer the Holy Spirit?",
+        "options": [
+          "Elymas",
+          "Simon the Magician",
+          "Bar-Jesus",
+          "Sceva"
+        ],
+        "correct": 1,
+        "explanation": "Peter severely rebuked Simon, saying, 'Let your money perish with you!' (Acts 8:18-23), hence the word 'simony'."
+      },
+      {
+        "question": "Which Jewish prophet and magician in Cyprus opposed Paul before Sergius Paulus and was struck with temporary blindness?",
+        "options": [
+          "Simon",
+          "Élymas (Bar-Jesus)",
+          "Demetrius",
+          "Alexander"
+        ],
+        "correct": 1,
+        "explanation": "Elymas the magician sought to turn the proconsul away from the faith; Paul rebuked him and a cloud darkened his eyes (Acts 13:8-11)."
+      },
+      {
+        "question": "What young man fell asleep during Paul's long speech at Troas, fell from the third story, and was brought back to life?",
+        "options": [
+          "Timothy",
+          "Eutychus",
+          "Titus",
+          "Mark"
+        ],
+        "correct": 1,
+        "explanation": "Paul came down, leaned over Eutychus, took him in his arms and assured that his soul was in him (Acts 20:9-12)."
+      },
+      {
+        "question": "Which Ephesian craftsman making silver temples of Artemis caused a riot in the theater against Paul?",
+        "options": [
+          "Alexander the blacksmith",
+          "Demetrius",
+          "Diotrephes",
+          "Hymenaeus"
+        ],
+        "correct": 1,
+        "explanation": "Demetrius feared for the commerce and prestige of the temple of Artemis in the face of Christian conversions (Acts 19:24-29)."
+      },
+      {
+        "question": "In which gospel does Jesus pronounce the seven great 'I am' with attributes (Bread of life, Light, Door, Good Shepherd, Resurrection, Way, True Vine)?",
+        "options": [
+          "Matthew",
+          "Mark",
+          "Luke",
+          "Jeans"
+        ],
+        "correct": 3,
+        "explanation": "The Gospel of John structures its Christological revelation around these seven declarations 'Egô eimi'."
+      },
+      {
+        "question": "What is unique about the Gospel of Mark in terms of its style and length?",
+        "options": [
+          "It is the longest and contains long speeches",
+          "It is the shortest and most dynamic ('immediately'), centered on the action and the cross of the Servant",
+          "It begins with a genealogy back to Adam",
+          "He doesn't tell of any miracles"
+        ],
+        "correct": 1,
+        "explanation": "Mark frequently uses 'euthys' ('at once'), presenting Jesus as the servant Son of God who gives his life as a ransom (Mark 10:45)."
+      },
+      {
+        "question": "Why does the Gospel of Matthew begin with a genealogy going back to Abraham and David?",
+        "options": [
+          "To prove that Jesus was Roman",
+          "To show Jewish readers that Jesus is the rightful heir of the promises made to Abraham and King David",
+          "To imitate the epistles of Paul",
+          "Because he didn't know about the virgin birth"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 1:1-17 organizes 3 series of 14 generations culminating in Jesus the Messiah, son of David and son of Abraham."
+      },
+      {
+        "question": "Why does Luke's genealogy (chapter 3) go back to Adam and 'son of God'?",
+        "options": [
+          "Because Luke only writes for the Pharisees",
+          "To underline the universal scope of Jesus' salvation for all humanity descended from Adam",
+          "By chronological error",
+          "To deny the covenant with Abraham"
+        ],
+        "correct": 1,
+        "explanation": "Luke highlights God's universal mercy towards the poor, women, Samaritans and all nations."
+      },
+      {
+        "question": "What song of praise did Mary sing during her visit to Elizabeth in Luke 1?",
+        "options": [
+          "The Benedictus",
+          "The Magnificat ('My soul exalts the Lord...')",
+          "The Nunc Dimittis",
+          "The Gloria"
+        ],
+        "correct": 1,
+        "explanation": "The Magnificat (Luke 1:46-55) celebrates God's faithfulness in lifting up the humble and fulfilling his promise to Israel."
+      },
+      {
+        "question": "What song did Zechariah, father of John the Baptist, utter when his tongue was loosed (Luke 1:68-79)?",
+        "options": [
+          "The Magnificat",
+          "The Benedictus ('Blessed be the Lord, the God of Israel...')",
+          "The Te Deum",
+          "The Our Father"
+        ],
+        "correct": 1,
+        "explanation": "In the Benedictus, Zechariah blesses God for messianic deliverance and prophesies the preparatory mission of his son John."
+      },
+      {
+        "question": "What parable from the Gospel of Luke illustrates humility in prayer in the face of religious self-sufficiency?",
+        "options": [
+          "The sower",
+          "The Pharisee and the publican (tax collector) at the Temple",
+          "The tares and the wheat",
+          "Eleventh hour workers"
+        ],
+        "correct": 1,
+        "explanation": "The publican, not daring to lift his eyes, said: 'O God, be merciful to me, a sinner!' and went away justified (Luke 18:9-14)."
+      },
+      {
+        "question": "What parable teaches perseverance in prayer in the face of an indifferent magistrate (Luke 18:1-8)?",
+        "options": [
+          "The rich fool",
+          "The importunate widow and the unjust judge",
+          "The two debtors",
+          "The barren fig tree"
+        ],
+        "correct": 1,
+        "explanation": "If even an unjust judge ends up doing justice to a persevering widow, how much more will God hear his elect."
+      },
+      {
+        "question": "In Matthew 18:21-35, what parable does Jesus tell after telling Peter to forgive 'until seventy times seven'?",
+        "options": [
+          "The ten mines",
+          "The merciless servant (who refuses to forgive a small debt after being forgiven of a huge debt)",
+          "The Prodigal Son",
+          "The talents"
+        ],
+        "correct": 1,
+        "explanation": "The one to whom the king has given ten thousand talents refuses to wait for a hundred denarii, illustrating the demand for forgiveness received from God."
+      },
+      {
+        "question": "In the parable of the workers in the vineyard (Matthew 20:1-16), why do those first hired murmur?",
+        "options": [
+          "They received nothing",
+          "Eleventh hour workers received the same denarius as them — illustrating God's sovereign and generous grace",
+          "The master beat them",
+          "The vine burned"
+        ],
+        "correct": 1,
+        "explanation": "'Is your eye bad because I am good?' reminds us that salvation is a gracious gift and not a earned wage."
+      },
+      {
+        "question": "What night talk in John 3 exposes the need to be 'born again / from above' (of water and the Spirit)?",
+        "options": [
+          "The interview with the Samaritan woman",
+          "The interview with Nicodemus",
+          "The interview with Pilate",
+          "The interview with Zacchaeus"
+        ],
+        "correct": 1,
+        "explanation": "Jesus explains to Nicodemus, doctor of Israel, that no one can enter the Kingdom of God without regeneration by the Spirit (John 3:3-8)."
+      },
+      {
+        "question": "In John 4, what truth does Jesus reveal to the Samaritan woman about the true place of worship?",
+        "options": [
+          "Only Jerusalem",
+          "Only Mount Gerizim",
+          "The hour is coming when true worshipers will worship the Father 'in spirit and in truth'",
+          "A third temple must be built in Nazareth"
+        ],
+        "correct": 2,
+        "explanation": "God is Spirit: true worship no longer depends on a geographical sanctuary but on a heart renewed in truth (John 4:21-24)."
+      },
+      {
+        "question": "In John 6, why did many of the disciples withdraw after the 'Bread of Life' talk?",
+        "options": [
+          "Because there was no more bread",
+          "Because they were shocked by Jesus' demanding words ('eat his flesh and drink his blood', that is, fully believe in his life-giving death)",
+          "Because Pilate drove them out",
+          "Because Peter sent them away"
+        ],
+        "correct": 1,
+        "explanation": "To Jesus' question: 'And you, do you not also want to go?', Peter replied: 'Lord, to whom shall we go? You have the words of eternal life' (John 6:68)."
+      },
+      {
+        "question": "In 1 Corinthians 15, what event does Paul present as the essential foundation without which the Christian faith would be in vain?",
+        "options": [
+          "The construction of churches",
+          "The bodily resurrection of Christ and the future resurrection of believers",
+          "Circumcision",
+          "Travel to Jerusalem"
+        ],
+        "correct": 1,
+        "explanation": "'Unless Christ is raised, your faith is in vain; you are still in your sins' (1 Corinthians 15:17)."
+      },
+      {
+        "question": "According to 1 Corinthians 15:6, to how many brothers did the resurrected Jesus appear at one time before Paul's epistle?",
+        "options": [
+          "For 12 people",
+          "To more than 500 brothers at a time",
+          "For 70 people",
+          "For 3 people only"
+        ],
+        "correct": 1,
+        "explanation": "Paul specifies that most of these more than 500 witnesses were still alive at the time of his writing (~55 AD)."
+      },
+      {
+        "question": "In 2 Corinthians 5:18-20, what title does Paul give to believers who proclaim reconciliation with God?",
+        "options": [
+          "The kings of the earth",
+          "Ambassadors for Christ",
+          "The judges of Israel",
+          "The angels of the alliance"
+        ],
+        "correct": 1,
+        "explanation": "'We therefore act as ambassadors for Christ, as if God were exhorting through us: Be ye reconciled to God!'"
+      },
+      {
+        "question": "In 2 Corinthians 12:7-9, what response did the Lord give to Paul who prayed three times to be delivered from his 'thorn in the flesh'?",
+        "options": [
+          "It immediately heals the splinter",
+          "'My grace is sufficient for you, for my power is made perfect in weakness'",
+          "He told him to go to Jerusalem",
+          "He ordered her to be quiet"
+        ],
+        "correct": 1,
+        "explanation": "Paul thus learns to glory even in his weaknesses so that the power of Christ rests on him."
+      },
+      {
+        "question": "In Romans 5:12-21, what major typological parallel does Paul draw to explain the fall and salvation?",
+        "options": [
+          "Between Cain and Abel",
+          "Between the first Adam (disobedience, sin, death) and Jesus Christ, the new/last Adam (obedience, grace, life)",
+          "Between David and Saul",
+          "Between Elijah and Elisha"
+        ],
+        "correct": 1,
+        "explanation": "Through the fault of one, condemnation has reached all men; by the righteous act of one life-giving justification is offered to all."
+      },
+      {
+        "question": "In Romans 8:1-17, what contrast structures the Christian life?",
+        "options": [
+          "Wealth vs Poverty",
+          "Living according to the flesh (which leads to death) vs walking according to the Spirit (which gives life, adoption and hope)",
+          "Jew vs Roman only",
+          "Old vs. young"
+        ],
+        "correct": 1,
+        "explanation": "The Spirit of adoption makes us cry 'Abba! Father !' and testifies to our spirit that we are children and heirs of God."
+      },
+      {
+        "question": "In Romans 12:1, how does Paul define the 'reasonable/spiritual worship' of believers?",
+        "options": [
+          "Offer bulls and goats",
+          "Offer your bodies as a living sacrifice, holy, pleasing to God",
+          "Fast seven days a month",
+          "Build a stone temple"
+        ],
+        "correct": 1,
+        "explanation": "In response to God's mercies (Romans 1-11), the believer's entire daily existence becomes a living offering."
+      },
+      {
+        "question": "In Galatians 3:24, to what ancient role does Paul compare the Law of Moses before the coming of faith?",
+        "options": [
+          "A cruel judge",
+          "A teacher (tutor/guide) who led us to Christ",
+          "An eternal king",
+          "A simple fable"
+        ],
+        "correct": 1,
+        "explanation": "The 'paidagogos' in the Greco-Roman world escorted and supervised the child until he came of age; the coming of Christ inaugurates the age of sonship by faith."
+      },
+      {
+        "question": "In Galatians 3:28, what three social, religious, and cultural barriers are transcended 'in Christ Jesus'?",
+        "options": [
+          "Rich, noble, soldiers",
+          "There is no longer Jew nor Greek, slave nor free, male nor female—all one in Christ Jesus",
+          "Elders, deacons, bishops",
+          "Romans, Persians, Egyptians"
+        ],
+        "correct": 1,
+        "explanation": "Without erasing created distinctions, the Gospel gives all believers equal dignity and equal access to salvation in Christ."
+      },
+      {
+        "question": "In Ephesians 2:8-10, what place do grace, faith and good works have respectively?",
+        "options": [
+          "Works save us first",
+          "We are saved by grace through faith (the gift of God, not by works), to do good works prepared in advance",
+          "Faith and works are useless",
+          "Grace comes after our merits"
+        ],
+        "correct": 1,
+        "explanation": "Good works are not the root but the fruit of salvation freely received by grace."
+      },
+      {
+        "question": "In Philippians 3:7-8, how does Paul now view his former religious privileges (circumcision, blameless Pharisee)?",
+        "options": [
+          "Like his supreme pride",
+          "As loss and mire for the excellency of the knowledge of Jesus Christ",
+          "Like half of his salvation",
+          "Like secrets"
+        ],
+        "correct": 1,
+        "explanation": "Paul renounces his own righteousness from the Law to receive the righteousness that comes from God through faith in Christ."
+      },
+      {
+        "question": "In Colossians 1:15-17, how does Paul describe the cosmic supremacy of Christ?",
+        "options": [
+          "A simple human prophet",
+          "'The image of the invisible God, the firstborn of all creation', by whom and for whom everything was created",
+          "An angel created after Adam",
+          "A Greek philosopher"
+        ],
+        "correct": 1,
+        "explanation": "This Christological hymn affirms that all things subsist in Christ and all fullness dwells in him (Colossians 1:19)."
+      },
+      {
+        "question": "In 1 Thessalonians 5:1-6, to what image do Jesus and Paul compare the sudden coming of the Day of the Lord to the sleeping world?",
+        "options": [
+          "A king announcing his journey a year before",
+          "A thief in the night",
+          "A calm river",
+          "A closed book"
+        ],
+        "correct": 1,
+        "explanation": "This is why believers, 'children of light', are called to watch and be sober."
+      },
+      {
+        "question": "In 1 Timothy 2:5, how does Paul summarize the uniqueness of mediation between God and men?",
+        "options": [
+          "There are several angelic mediators",
+          "'There is one God, and also one mediator between God and men, the man Jesus Christ'",
+          "Moses is the only mediator",
+          "Each priest is a mediator"
+        ],
+        "correct": 1,
+        "explanation": "True God and true man, Jesus Christ is the only bridge between humanity and God, having given himself as a ransom for all."
+      },
+      {
+        "question": "In 2 Timothy 4:7, what three-fold metaphor does Paul use at the brink of his death to describe his faithfulness?",
+        "options": [
+          "I built a city",
+          "'I fought the good fight, I finished the race, I kept the faith'",
+          "I have written a hundred books",
+          "I defeated Rome"
+        ],
+        "correct": 1,
+        "explanation": "Paul now confidently awaits the 'crown of righteousness' that the Lord, the righteous judge, will give him that day."
+      },
+      {
+        "question": "In Hebrews 4:14-16, what comfort do we take from Jesus being our 'great high priest'?",
+        "options": [
+          "He doesn't understand our weaknesses",
+          "He was tempted in all things as we are, yet sinless—so we can approach the throne of grace with confidence.",
+          "He is inaccessible",
+          "He demands new animal sacrifices"
+        ],
+        "correct": 1,
+        "explanation": "The compassion of the glorified Christ opens to believers confident access to mercy and timely help."
+      },
+      {
+        "question": "In Hebrews 12:1-2, who is called 'the leader and finisher of the faith'?",
+        "options": [
+          "Abraham",
+          "Moses",
+          "Jesus",
+          "Rock"
+        ],
+        "correct": 2,
+        "explanation": "Surrounded by such a great cloud of witnesses, believers fix their eyes on Jesus who endured the cross in view of the joy that was reserved for him."
+      },
+      {
+        "question": "In James 3:1-12, what does James compare the human tongue to despite its small size?",
+        "options": [
+          "To a still mountain",
+          "To the bit in the horse's mouth, to the rudder of the ship and to a small fire that sets a large forest ablaze",
+          "To a peaceful river",
+          "To a desert flower"
+        ],
+        "correct": 1,
+        "explanation": "James emphasizes the immense power of words to bless or destroy, calling for mastery through wisdom from above."
+      },
+      {
+        "question": "In 1 Peter 2:9, what title from Exodus (19:6) does Peter apply to the entire Church?",
+        "options": [
+          "Silent spectators",
+          "A chosen race, a royal priesthood, a holy nation, a acquired people",
+          "Athenian philosophers",
+          "The servants of the Stone Temple"
+        ],
+        "correct": 1,
+        "explanation": "All believers form a royal priesthood called to announce the virtues of Him who called them from darkness to his admirable light."
+      },
+      {
+        "question": "In 1 John 1:8-9, what does John say if someone claims to have no sin?",
+        "options": [
+          "He tells the truth",
+          "We deceive ourselves and the truth is not in us; but if we confess our sins, God is faithful and just to forgive us",
+          "He's already in heaven",
+          "He doesn't need grace"
+        ],
+        "correct": 1,
+        "explanation": "The Christian life is not based on the pretension of impeccability but on sincere confession and purification by the blood of Jesus."
+      },
+      {
+        "question": "In 1 John 4:1-3, what doctrinal test allows us to discern the Spirit of God from the spirit of antichrist?",
+        "options": [
+          "Work spectacular miracles",
+          "Confess that Jesus Christ came in the flesh",
+          "Speak several languages",
+          "Have a lot of wealth"
+        ],
+        "correct": 1,
+        "explanation": "Against pre-Gnostic errors denying the real incarnation, John poses the confession of Jesus Christ come in the flesh as the decisive criterion."
+      },
+      {
+        "question": "In Revelation 1:9-20, where was the apostle John when he received the vision of Christ glorified in the midst of the seven golden lampstands?",
+        "options": [
+          "In Jerusalem",
+          "On the island of Patmos, because of the word of God and the testimony of Jesus",
+          "In Rome in prison",
+          "In Antioch"
+        ],
+        "correct": 1,
+        "explanation": "The seven golden candlesticks represent the seven Churches of Asia Minor, and the seven stars in his right hand their angels/messengers."
+      },
+      {
+        "question": "In Revelation 2-3, which Church is praised for its love, faith, and perseverance despite material poverty (\"You are rich!\")?",
+        "options": [
+          "Laodicea",
+          "Smyrna",
+          "Sardis",
+          "Ephesus"
+        ],
+        "correct": 1,
+        "explanation": "Smyrna endures persecution and poverty without receiving any reproach from Jesus, who promises him the crown of life (Revelation 2:8-11)."
+      },
+      {
+        "question": "In Revelation 3:17, what severe rebuke does Christ address to the Church of Laodicea?",
+        "options": [
+          "That she is too poor",
+          "That she thinks she is rich and needs nothing, unaware that she is unhappy, miserable, poor, blind and naked",
+          "That she fasts too much",
+          "That she prays too often"
+        ],
+        "correct": 1,
+        "explanation": "Jesus advises him to buy from him gold tested in the fire, white garments and eye salve to see clearly (Revelation 3:18)."
+      },
+      {
+        "question": "In Revelation 5, who alone is found worthy to open the book sealed with seven seals?",
+        "options": [
+          "The angel Gabriel",
+          "The Lion of the tribe of Judah / the Lamb as slain",
+          "The prophet Moses",
+          "One of the twenty-four old men"
+        ],
+        "correct": 1,
+        "explanation": "Announced as the Lion of Judah, he appears in the form of a Lamb slain but standing, worthy by his redeeming blood (Revelation 5:5-9)."
+      },
+      {
+        "question": "In Revelation 7:9, who makes up the 'great crowd that no one could number' before the throne?",
+        "options": [
+          "Only a tribe",
+          "People from every nation, tribe, people, and tongue, dressed in white robes",
+          "Only angels",
+          "Only residents of Rome"
+        ],
+        "correct": 1,
+        "explanation": "This vision fulfills the promise made to Abraham by showing the universal salvation celebrated in heaven."
+      },
+      {
+        "question": "In Luke 10:38-42, what lesson does Jesus give to Martha, agitated by many cares, while Mary listens at his feet?",
+        "options": [
+          "That you should never work",
+          "That Mary chose 'the good part, which will not be taken away from her': listening to the Word of the Lord before any agitation",
+          "That Marthe must leave the house",
+          "That cooking is useless"
+        ],
+        "correct": 1,
+        "explanation": "Jesus does not oppose service and prayer, but recalls the absolute priority of attentive listening to his Word."
+      },
+      {
+        "question": "What miracle did Jesus perform on the Sabbath that angered the synagogue leaders in Luke 13:10-17?",
+        "options": [
+          "He heals a woman who has been bent for eighteen years",
+          "He turned water into wine",
+          "He multiplied fish",
+          "He resurrected Lazarus"
+        ],
+        "correct": 0,
+        "explanation": "Jesus reminded us that we untie our ox or donkey on the Sabbath: how much more so this daughter of Abraham who has been bound for 18 years!"
+      },
+      {
+        "question": "In John 20:24-29, what blessedness does Jesus pronounce after Thomas confesses him 'My Lord and my God!' ?",
+        "options": [
+          "'Blessed are those who touch my wounds'",
+          "'Blessed are those who have not seen and believed!'",
+          "'Blessed are those who remain in Jerusalem'",
+          "'Blessed are the learned'"
+        ],
+        "correct": 1,
+        "explanation": "This last beatitude of the Gospels speaks directly to all generations of believers who believe in the apostolic testimony."
+      },
+      {
+        "question": "In Luke 24:27, how did the resurrected Jesus enlighten the two disciples who were felled on the road to Emmaus?",
+        "options": [
+          "By a vision of armed angels",
+          "Beginning with Moses and all the prophets, he explained to them in all the Scriptures what concerned himself",
+          "By giving them gold",
+          "By showing them the Temple in ruins"
+        ],
+        "correct": 1,
+        "explanation": "The disciples' hearts burned within them as he opened the Scriptures to them, and then they recognized him when he broke the bread (Luke 24:30-32)."
+      },
+      {
+        "question": "Which character in the book of Acts sold a field and brought the price at the feet of the apostles, receiving the nickname 'son of exhortation'?",
+        "options": [
+          "Ananias",
+          "Joseph (nicknamed Barnabas), Levite from Cyprus",
+          "Saul of Tarsus",
+          "Silas"
+        ],
+        "correct": 1,
+        "explanation": "Acts 4:36-37 presents Barnabas as a model of generosity and encouragement in the early Church."
+      },
+      {
+        "question": "In Acts 17:23, which Athenian altar did Paul use as a platform to announce the Creator God?",
+        "options": [
+          "The altar of Zeus",
+          "The altar inscribed 'To an unknown god'",
+          "The Altar of Artemis",
+          "Caesar's altar"
+        ],
+        "correct": 1,
+        "explanation": "Paul departed from this altar to proclaim the God who made the world, who does not dwell in temples made with hands and who will judge through the resurrected Christ."
+      },
+      {
+        "question": "In Romans 11:17-24, what horticultural image does Paul use to explain the integration of Gentile believers into God's people?",
+        "options": [
+          "A barren fig tree",
+          "Wild olive branches grafted onto the olive tree (Israel) to contribute to its sap",
+          "A cut vine",
+          "A cedar from Lebanon"
+        ],
+        "correct": 1,
+        "explanation": "This metaphor calls Gentile Christians to humility and recognition of Israel's patriarchal roots."
+      },
+      {
+        "question": "In 1 Corinthians 12, what does Paul compare the Church and the diversity of spiritual gifts to?",
+        "options": [
+          "To a Roman army",
+          "To a single body composed of several members having different functions but all essential",
+          "At a school of philosophy",
+          "To a commercial market"
+        ],
+        "correct": 1,
+        "explanation": "The eye cannot say to the hand 'I have no need of you': the same Spirit distributes gifts for the common good (1 Corinthians 12:7-27)."
       }
     ],
     "expert": [
@@ -1346,6 +2424,666 @@
         ],
         "correct": 1,
         "explanation": "'In Christô' (160+ occurrences): the mystical, vital and real union of the believer with the resurrected Christ - the basis of justification, sanctification, adoption and glorification."
+      },
+      {
+        "question": "In the theology of John's Gospel, what does the phrase 'the hour of Jesus' mean (John 2:4; 12:23; 13:1; 17:1)?",
+        "options": [
+          "The time of his birth",
+          "The hour of his glorification by his death on the cross, his resurrection and his return to the Father",
+          "Jewish Sabbath time",
+          "The time of the destruction of Rome"
+        ],
+        "correct": 1,
+        "explanation": "In John, the cross is not a defeat followed by glory, but the very place where the Son is 'lifted up' and glorified (John 12:23-33)."
+      },
+      {
+        "question": "What is the 'messianic secret' identified by exegetes in the Gospel of Mark?",
+        "options": [
+          "A political Judas plot",
+          "Jesus' repeated injunctions to the demons, the healed, and the disciples not to disclose his identity as Messiah before the cross and resurrection",
+          "A lost book by Marc",
+          "A secret sect in Galilee"
+        ],
+        "correct": 1,
+        "explanation": "Jesus avoids the misunderstandings of a triumphalist nationalist messianism until his identity is revealed at the cross (Mark 8:30; 15:39)."
+      },
+      {
+        "question": "What is the significance of the Roman centurion's confession at the foot of the cross in Mark 15:39 ('Truly this man was the Son of God!')?",
+        "options": [
+          "A simple military courtesy",
+          "Mark's Literary and Theological Summit: A Pagan Recognizes Jesus' True Identity at the Exact Moment He Dies",
+          "A translation error",
+          "A mockery of Pilate"
+        ],
+        "correct": 1,
+        "explanation": "The Gospel which opened with 'Gospel of Jesus Christ, Son of God' (1:1) culminates in the mouth of a Roman centurion before the Crucified."
+      },
+      {
+        "question": "In Matthew, what does it mean to group Jesus' teachings into five major discourses (ch. 5-7, 10, 13, 18, 24-25)?",
+        "options": [
+          "A coincidence without intention",
+          "A structuring parallel presenting Jesus as the new and greater Moses giving the Law of the Kingdom (like the 5 books of the Pentateuch)",
+          "The 5 days of the week",
+          "Paul's 5 journeys"
+        ],
+        "correct": 1,
+        "explanation": "Each discourse ends with the phrase 'When Jesus had finished these discourses...' (Matthew 7:28; 11:1; 13:53; 19:1; 26:1)."
+      },
+      {
+        "question": "What Greek term used by Jesus in John 14:16 ('Parakletos') refers to the Holy Spirit?",
+        "options": [
+          "Logos",
+          "Paraclete (Advocate, Comforter, Defender called alongside)",
+          "Kerygma",
+          "Didache"
+        ],
+        "correct": 1,
+        "explanation": "The Paraclete is the one who is called to the believer's side to assist him, teach him, testify and convince the world (John 14-16; 1 John 2:1 for Jesus)."
+      },
+      {
+        "question": "What is the distinction between 'kerygma' and 'didachè' in New Testament studies?",
+        "options": [
+          "These are two cities in Greece",
+          "The kerygma is the central missionary proclamation of the death and resurrection of Christ; didache is the moral and doctrinal teaching given to believers",
+          "Kerygma is reserved for the AT",
+          "Didache designates miracles"
+        ],
+        "correct": 1,
+        "explanation": "C.H. Dodd has shown that the apostolic preaching of Acts and the epistles share a common kerygmatic core centered on Easter."
+      },
+      {
+        "question": "What does the phrase 'inaugurated eschatology' ('already and not yet') mean to describe Jesus' teaching on the Kingdom of God?",
+        "options": [
+          "That the Kingdom is only in the distant future",
+          "That the Kingdom has already erupted in the person and works of Jesus ('if it is by the finger of God...'), while awaiting its final consummation upon his return",
+          "That the Kingdom was only political in the year 30",
+          "That the resurrection has already taken place for everyone"
+        ],
+        "correct": 1,
+        "explanation": "This tension between the 'already' (Mark 1:15; Luke 11:20) and the 'not yet' (Matthew 6:10; Rev 11:15) runs throughout the New Testament."
+      },
+      {
+        "question": "In Romans 1:16-17, what is the meaning of the expression 'righteousness of God' (dikaiosynê theou) according to the classical reading of the Reformation and modern exegesis?",
+        "options": [
+          "Only the punishment of sinners",
+          "Both the saving righteousness that God freely grants through faith and God's righteous faithfulness to his covenant in Christ",
+          "The justice of the Roman courts",
+          "The moral merit acquired by man"
+        ],
+        "correct": 1,
+        "explanation": "The gospel reveals how God remains righteous while justifying those who have faith in Jesus (Romans 3:26)."
+      },
+      {
+        "question": "What is the meaning of the probable pre-Pauline hymn of Philippians 2:6-11 ('in the form of God', morphê theou)?",
+        "options": [
+          "Jesus was only a human appearance",
+          "Pre-existing in divine nature/condition (morphê theou), Christ did not claim equality with God as a jealous privilege, but humbled himself to the cross, receiving the name Lord (Kyrios)",
+          "Jesus became god only after his death",
+          "Angels created Jesus"
+        ],
+        "correct": 1,
+        "explanation": "The application of Isaiah 45:23 ('every knee shall bow') to Jesus in v.10-11 unequivocally affirms his full divinity shared with YHWH."
+      },
+      {
+        "question": "In Colossians 2:14-15, what legal and military image does Paul use to describe the victory of the cross?",
+        "options": [
+          "A trade treaty",
+          "Christ has blotted out the act of which the ordinances condemned us by nailing it to the cross, and has stripped the dominions and authorities by making a public spectacle of them.",
+          "He paid Satan a ransom",
+          "He built a fortress"
+        ],
+        "correct": 1,
+        "explanation": "The cross which seemed to be the triumph of hostile powers becomes the triumphal chariot of God exposing their defeat."
+      },
+      {
+        "question": "In 1 Corinthians 15:3-5, what status do NT historians give to the phrase 'Christ died for our sins according to the Scriptures, he was buried, he was raised on the third day...'?",
+        "options": [
+          "A late invention from the 2nd century",
+          "A primitive creed received by Paul very shortly after the crucifixion (from the years 30-35 AD)",
+          "A quote from Plato",
+          "A Gnostic apocryphal text"
+        ],
+        "correct": 1,
+        "explanation": "Paul uses the technical rabbinic verbs 'receive' (paralambanô) and 'transmit' (paradidômi), attesting to the antiquity of the Easter faith."
+      },
+      {
+        "question": "What is the meaning of the 'new perspective on Paul' (Sanders, Dunn, Wright) in contemporary Pauline studies?",
+        "options": [
+          "Paul would have rejected Jesus",
+          "She maintains that 1st century Judaism was a 'covenant nomism' based on grace, and that the 'works of the law' mainly target identity markers (circumcision, Sabbath, dietary laws) excluding pagans.",
+          "Paul did not write any epistles",
+          "Paul was a Stoic philosopher"
+        ],
+        "correct": 1,
+        "explanation": "While sparking debates with classical Reformed reading, this approach has renewed understanding of the Jewish context of Galatians and Romans."
+      },
+      {
+        "question": "In Romans 7:14-25 ('I do not do the good that I want...'), what are the two main readings of the identity of the 'I' (Egô)?",
+        "options": [
+          "Only Adam in Paradise",
+          "Either man under the Law without the power of the Spirit (recent majority exegesis), or the persistent inner struggle of the regenerate Christian (Augustine, Reformation)",
+          "A fallen angel",
+          "Emperor Nero"
+        ],
+        "correct": 1,
+        "explanation": "The contrast between Romans 7 (slavery under the Law) and Romans 8 (freedom in the Spirit) informs this classic exegetical discussion."
+      },
+      {
+        "question": "In Galatians 2:11-14, why does Paul publicly oppose Peter (Cephas) ​​in Antioch?",
+        "options": [
+          "For a question of money",
+          "Because Peter, for fear of the circumcised people coming from Jerusalem, stopped eating with non-Jewish Christians, compromising 'the truth of the Gospel'",
+          "Because Peter wanted to go to Rome",
+          "For the choice of a bishop"
+        ],
+        "correct": 1,
+        "explanation": "Paul shows that justification by faith alone prohibits any separation of tables between Jewish and Gentile believers."
+      },
+      {
+        "question": "What is the chiasmatic or thematic literary structure of the epistle to the Hebrews?",
+        "options": [
+          "A simple list of names",
+          "A 'word of exhortation' alternating Christological presentations (superiority of Christ over the angels, Moses, Aaron and the sacrifices) and solemn warnings against apostasy",
+          "A Chronological Account of Paul's Life",
+          "A private letter to a king"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews combines high priestly Christology with five warning passages urging readers to persevere in the faith."
+      },
+      {
+        "question": "In Hebrews 6:4-6 and 10:26, what specific danger is the author warning his recipients about?",
+        "options": [
+          "Eat certain foods",
+          "Deliberate apostasy — publicly rejecting the one sacrifice of Christ and returning to the ancient rites, leaving no other sacrifice for sins",
+          "Get married",
+          "Traveling at sea"
+        ],
+        "correct": 1,
+        "explanation": "In the context of persecution, some were tempted to abandon the Christian faith to find the security of Judaism recognized by Rome."
+      },
+      {
+        "question": "What is the meaning of the term 'hypostasis' (ὑπόστασις) in Hebrews 1:3 ('the imprint of one's person/substance') and 11:1 ('firm assurance')?",
+        "options": [
+          "A simple shadow",
+          "In 1:3, it designates the very being or substantial reality of God of which the Son is the exact imprint; in 11:1, the concrete assurance of the hoped-for goods",
+          "A copyist's error",
+          "A Roman military term"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 1:3 played a decisive role in the development of the Trinitarian Christology of the early councils."
+      },
+      {
+        "question": "How does the epistle of James (2:24: 'by works a man is justified, and not by faith only') harmonize with Paul (Romans 3:28)?",
+        "options": [
+          "They contradict each other head-on",
+          "Paul fights legalism (meriting salvation before God without faith in Christ); James fights a dead and purely verbal faith (demonstrating the authenticity of his faith through works)",
+          "James speaks of another Jesus",
+          "Paul rejects all ethics"
+        ],
+        "correct": 1,
+        "explanation": "Paul and James use 'justify' and 'faith' from two complementary angles: one speaks of the foundation of salvation, the other of its living verification."
+      },
+      {
+        "question": "In 1 Peter 3:18-20, what is the most debated interpretation of Christ's preaching 'to the spirits in prison'?",
+        "options": [
+          "A trip to Mars",
+          "Either the proclamation by the Spirit through Noah to the contemporaries of the flood, or the announcement of Christ's victory to the fallen powers/spirits after his death",
+          "A universal second chance after death clearly proven",
+          "A dream of Peter at Joppa"
+        ],
+        "correct": 1,
+        "explanation": "The passage remains one of the most discussed texts of the NT, but its pastoral purpose is clear: to encourage persecuted Christians through the total victory of Christ (v. 22)."
+      },
+      {
+        "question": "In 2 Peter 3:8-10, how does the apostle respond to scoffers who doubt Christ's return (\"Where is the promise of his coming?\")?",
+        "options": [
+          "By setting a specific date",
+          "Recalling the past flood, that before the Lord one day is like a thousand years, and that this apparent 'delay' is God's patience willing that none should perish",
+          "By denying the end of the world",
+          "Saying that the return has already taken place in secret"
+        ],
+        "correct": 1,
+        "explanation": "God's patience is a missionary grace that allows time for repentance before renewal by fire."
+      },
+      {
+        "question": "What is the close literary relationship between the epistle of Jude and chapter 2 of the 2nd epistle of Peter?",
+        "options": [
+          "No link",
+          "They share very similar material and images against false libertine doctors (e.g. one was probably inspired by the other or a common source)",
+          "Jude copies Romans",
+          "2 Peter copies the Apocalypse"
+        ],
+        "correct": 1,
+        "explanation": "The majority of scholars believe that 2 Peter 2 adapted and reused Jude by omitting his quotations from Jewish apocrypha (1 Enoch, Assumption of Moses)."
+      },
+      {
+        "question": "What is the meaning of the term 'koinônia' (κοινωνία) in the New Testament (Acts 2:42; 2 Cor 13:13; 1 John 1:3)?",
+        "options": [
+          "A simple friendly meal",
+          "A deep and reciprocal communion/participation with God (Father, Son, Spirit) and between believers, involving material sharing and spiritual solidarity",
+          "An imperial tax",
+          "A priestly title"
+        ],
+        "correct": 1,
+        "explanation": "Koinônia expresses the sharing of new life in Christ, up to the financial collection for the poor of Jerusalem (Romans 15:26)."
+      },
+      {
+        "question": "In John 1:1 ('In the beginning was the Logos... and the Logos was God'), what grammatical nuance specifies the construction without article 'theos ên ho logos'?",
+        "options": [
+          "That there are two gods",
+          "That the Logos fully possesses the divine nature (qualitative) while remaining distinct from the person of the Father ('near God')",
+          "That the Logos is a simple creature",
+          "That God has ceased to exist"
+        ],
+        "correct": 1,
+        "explanation": "The absence of an article before 'theos' (Colwell's rule) avoids modalism (confusing the Father and the Son) while affirming the true divinity of the Word."
+      },
+      {
+        "question": "In John 1:14 ('And the Word was made flesh, and dwelt among us'), what Greek verb refers to the Old Testament?",
+        "options": [
+          "Baptizô",
+          "Eskênôsen ('pitched his tent/tabernacle' among us), evoking the tent of meeting and the glory of God (Shekinah)",
+          "Agapao",
+          "Didaskô"
+        ],
+        "correct": 1,
+        "explanation": "In Jesus, the glorious presence of God which resided in the Tabernacle comes to dwell bodily in the midst of humanity."
+      },
+      {
+        "question": "What is the meaning of the expression 'Born again / from above' (gennêthênai anôthen) in the dialogue with Nicodemus (John 3:3)?",
+        "options": [
+          "Only reincarnation",
+          "The Greek word 'anôthen' means both 'again' and 'from above' - a double meaning used by John to designate spiritual birth from God",
+          "A daily ritual bath",
+          "A change of nationality"
+        ],
+        "correct": 1,
+        "explanation": "Nicodemus only grasps the temporal meaning ('entering a second time into his mother's womb'), while Jesus speaks of a birth 'from above' by the Spirit."
+      },
+      {
+        "question": "In John 19:30, what single Greek word does Jesus speak on the cross ('It is finished')?",
+        "options": [
+          "Amen",
+          "Tetelestai (perfect tense of the verb teleô: fully completed, paid in full, with permanent effect)",
+          "Maranatha",
+          "Hosanna"
+        ],
+        "correct": 1,
+        "explanation": "On ancient commercial receipts, 'tetelestai' meant 'paid in full'; Jesus proclaims the perfect completion of the redemptive work."
+      },
+      {
+        "question": "In Luke 15, what is the common thread that unites the three parables (lost sheep, lost coin, prodigal son)?",
+        "options": [
+          "The importance of money",
+          "The joy of God seeking and welcoming the repentant sinner—in response to the murmurings of the Pharisees and scribes (Luke 15:1-2)",
+          "The punishment of the shepherds",
+          "The laws of the Temple"
+        ],
+        "correct": 1,
+        "explanation": "Each parable culminates in the call to share the joy of heaven before a single sinner who repents, calling out to the older brother (the Pharisees)."
+      },
+      {
+        "question": "What is the role of 'Luke's prologue' (Luke 1:1-4) in the context of Greco-Roman historiography?",
+        "options": [
+          "A poetic prayer",
+          "A formal methodological dedication to Théophile affirming a rigorous investigation of eyewitnesses to guarantee the solidity of the teachings received",
+          "A list of genealogies",
+          "A Hebrew psalm"
+        ],
+        "correct": 1,
+        "explanation": "Luke uses careful literary Greek comparable to the prefaces of ancient historians like Thucydides or Polybius."
+      },
+      {
+        "question": "In Acts 15, what four abstentions does the Jerusalem Apostolic Decree agree to facilitate fellowship between Jewish and Gentile Christians?",
+        "options": [
+          "The Sabbath, Circumcision, Wine and Meat",
+          "Meat sacrificed to idols, blood, strangled animals, and fornication (sexual immorality)",
+          "Commerce, the military, taxes and marriage",
+          "Fasting, traveling, studying and singing"
+        ],
+        "correct": 1,
+        "explanation": "Without imposing circumcision or the yoke of the Law for salvation, the council asks for these practical considerations in connection with Leviticus 17-18."
+      },
+      {
+        "question": "In Romans 9-11, what major theological issue does Paul address after exalting the assurance of salvation in Romans 8?",
+        "options": [
+          "How to pay taxes to Caesar",
+          "How to reconcile God's faithful promises to Israel with the fact that the majority of Israel rejected their Messiah",
+          "How to build a church in Rome",
+          "How to celebrate Passover"
+        ],
+        "correct": 1,
+        "explanation": "If God's word seemed to have failed Israel, how could the believers in Rome trust Romans 8? Paul demonstrates that God's faithfulness remains intact."
+      },
+      {
+        "question": "In 1 Corinthians 1-4, what is the deep root of the divisions in the Corinthian Church?",
+        "options": [
+          "A disagreement over the date of Easter",
+          "Partisan attachment to leaders (Paul, Apollos, Cephas) ​​fueled by the search for 'human wisdom' and social prestige rather than the madness of the cross",
+          "A civil war in Corinth",
+          "Extreme poverty"
+        ],
+        "correct": 1,
+        "explanation": "Paul contrasts worldly rhetoric with the 'word of the cross', the power and wisdom of God which overthrows human pride."
+      },
+      {
+        "question": "In 1 Corinthians 8-10, what ethical principle does Paul formulate regarding meats sacrificed to idols?",
+        "options": [
+          "Eat everything without worrying about anyone",
+          "Christian freedom (“all things are permitted, but not all things edify”) must be guided by love for the weak brother whose conscience could be wounded",
+          "Never talk to non-believers",
+          "Return under the Law of Moses"
+        ],
+        "correct": 1,
+        "explanation": "It is not enough to know that an idol is nothing: knowledge puffs up, but love edifies (1 Corinthians 8:1)."
+      },
+      {
+        "question": "In 2 Corinthians 3:6 ('the letter kills, but the Spirit gives life'), what exactly does 'the letter' mean in context?",
+        "options": [
+          "Any literal reading of the Bible",
+          "The old covenant written in stone (the Law without the renewed heart) which condemns the sinner, opposed to the ministry of the new covenant by the Spirit",
+          "The Greek alphabet",
+          "Paul's letters themselves"
+        ],
+        "correct": 1,
+        "explanation": "Paul does not denigrate the biblical text but compares the Sinaitic ministry of condemnation with the ministry of justification by the Spirit."
+      },
+      {
+        "question": "In Ephesians 1:3-14, what is the grammatical and theological feature of the opening passage?",
+        "options": [
+          "It contains 12 very short sentences",
+          "It is a single long sentence (eulogy) in Greek of 202 words blessing God according to a trinitarian structure (election by the Father, redemption by the Son, seal by the Spirit)",
+          "It's a dialogue with Timothée",
+          "It is written in Hebrew"
+        ],
+        "correct": 1,
+        "explanation": "Each section of this blessing culminates in the refrain 'in praise of the glory of his grace' / 'in praise of his glory'."
+      },
+      {
+        "question": "In Ephesians 5:21-33, how does Paul establish the ethics of Christian marriage?",
+        "options": [
+          "On the Roman laws of patria potestas",
+          "On the 'great mystery' of the union between Christ and the Church: the husband called to love his wife as Christ loved the Church and gave himself up for her",
+          "On Greek cultural superiority",
+          "On economic interest"
+        ],
+        "correct": 1,
+        "explanation": "Preceded by 'submit to one another in the fear of Christ' (v. 21), the text radically transforms ancient family codes through sacrificial love."
+      },
+      {
+        "question": "In 1 Thessalonians 4:13-18, why does Paul write about the resurrection and the rapture?",
+        "options": [
+          "Out of pure speculative curiosity",
+          "To comfort believers worried about their brothers who died before the Lord's return, assuring that they will not be disadvantaged",
+          "To fix the year 60 AD. AD",
+          "To ban funerals"
+        ],
+        "correct": 1,
+        "explanation": "'Therefore comfort one another with these words' (v. 18): first the dead in Christ will be raised, and then all will be with the Lord forever."
+      },
+      {
+        "question": "In 1 Timothy 3 and Titus 1, what interchangeable terms refer to local leaders of the apostolic Church?",
+        "options": [
+          "Pope and cardinals",
+          "Presbyters/elders (presbyteroi) and bishops/overseers (episkopoi), assisted by deacons (diakonoi)",
+          "Levites and priests",
+          "Traveling Apostles only"
+        ],
+        "correct": 1,
+        "explanation": "In Titus 1:5-7 and Acts 20:17,28, 'elder' and 'bishop/overseer' again designate the same collegial function of pastoral leadership."
+      },
+      {
+        "question": "In Titus 2:11-14, how does Paul summarize the connection between appeared grace, present ethics, and future hope?",
+        "options": [
+          "Grace dispenses with all morality",
+          "Saving grace 'teaches us to renounce impiety... and to live in this present age according to wisdom, justice and piety, while awaiting the blessed hope'",
+          "Only the future expectation counts",
+          "Grace is only for the old"
+        ],
+        "correct": 1,
+        "explanation": "Divine grace is both a source of forgiveness (first appearance) and a pedagogy of holiness until the glorious appearance of Christ."
+      },
+      {
+        "question": "What is the meaning of the Greek word 'anathema' used by Paul in Galatians 1:8-9 and Romans 9:3?",
+        "options": [
+          "A simple friendly reprimand",
+          "That which is doomed to execration or curse/separation from God (equivalent to the 'herem' of the LXX)",
+          "A priestly blessing",
+          "A liturgical song"
+        ],
+        "correct": 1,
+        "explanation": "Paul declares anathema to anyone who preaches any other gospel than that of grace, and expresses in Romans 9:3 his extreme love for Israel."
+      },
+      {
+        "question": "In Romans 16:7, who are Andronicus and Junia mentioned by Paul with the notable title of 'regarded among the apostles'?",
+        "options": [
+          "Two Roman governors",
+          "A couple (including Junia, female first name) converted before Paul and esteemed among the apostles/sent ones",
+          "Two enemies of Paul in Ephesus",
+          "Two soldiers from Caesarea"
+        ],
+        "correct": 1,
+        "explanation": "The Fathers of the Church (including John Chrysostom) recognized Junia as a remarkable woman in the wider circle of apostles/missionaries."
+      },
+      {
+        "question": "In 2 Corinthians 8–9, what spiritual principles does Paul teach about collecting for the saints in Jerusalem?",
+        "options": [
+          "A mandatory tax of 30%",
+          "Voluntary, joyful generosity ('God loves those who give with joy'), proportional to means, as a sign of spiritual and material reciprocity",
+          "Give to buy positions of authority",
+          "Save it all for Corinth"
+        ],
+        "correct": 1,
+        "explanation": "Paul bases this liberality on the grace of Christ who, 'even though he was rich, he became poor for you, so that through his poverty you might be enriched' (2 Cor 8:9)."
+      },
+      {
+        "question": "In Revelation, what does the constantly repeated number '7' mean (7 Churches, 7 spirits, 7 seals, 7 trumpets, 7 bowls)?",
+        "options": [
+          "A pagan lucky number",
+          "The biblical symbol of divine fullness, totality and perfection",
+          "The number of years of Nero's reign",
+          "The number of apostles"
+        ],
+        "correct": 1,
+        "explanation": "Thus the 'seven Churches' represent both historical communities of Asia Minor and the universal Church in its entirety."
+      },
+      {
+        "question": "In Revelation, how can we interpret the '1000 years' (Revelation 20) according to amillennialism, premillennialism and postmillennialism?",
+        "options": [
+          "They all say the same thing",
+          "Amillennialism: the present era of the Church between the 1st and 2nd coming; Premillennialism: earthly reign of 1000 years after the return of Christ; Postmillennialism: golden age of the Gospel before the return",
+          "The text speaks of only 1000 days",
+          "No one comments on this chapter"
+        ],
+        "correct": 1,
+        "explanation": "These three schools share the common faith in the personal return of Christ, the general resurrection and the final judgment."
+      },
+      {
+        "question": "In Revelation 13:18, what does the number '666' (man's number) represent according to the most common ancient gematria?",
+        "options": [
+          "God's Perfect Number",
+          "The triple imperfection (below the divine 7) and, for many historians, the Hebrew numerical value of 'Neron Qesar' (Nero Caesar)",
+          "The number of angels",
+          "The date of creation"
+        ],
+        "correct": 1,
+        "explanation": "In Hebrew, the letters of 'Neron Qesar' total 666 (and 616 with 'Nero Qesar' without the final 'n', a variant attested in certain manuscripts)."
+      },
+      {
+        "question": "In Revelation 21-22, why is there 'no temple' in the New Jerusalem?",
+        "options": [
+          "Because the residents are atheists",
+          "'For the Lord God Almighty is his temple, and the Lamb' — symbolic mediation gives way to direct communion",
+          "Because the materials are lacking",
+          "Because the temple remains in Rome"
+        ],
+        "correct": 1,
+        "explanation": "The entire city takes the cubic form of the Holy of Holies (21:16), signifying that all of the renewed creation becomes the immediate home of God."
+      },
+      {
+        "question": "In John 17:20-23, what is the missionary significance of Jesus' prayer for the unity of believers?",
+        "options": [
+          "Forced administrative uniformity",
+          "May all be one as the Father and the Son are one, 'that the world may believe that you have sent me'",
+          "A retreat far from the world",
+          "A merger with the Roman Empire"
+        ],
+        "correct": 1,
+        "explanation": "The spiritual unity visible in the love between disciples constitutes the most powerful testimony to the divine origin of Christ."
+      },
+      {
+        "question": "In Matthew 16:18-19, what does the phrase 'the gates of hell (Hades) shall not prevail against it' mean?",
+        "options": [
+          "That the Church will physically attack cemeteries",
+          "The gates represent the fortresses of death and evil: they will not be able to resist the advance of the Church nor hold its members in death",
+          "That Pierre will never die",
+          "That Rome will never fall"
+        ],
+        "correct": 1,
+        "explanation": "In ancient times, gates were defensive structures: the Church built by Christ besieged and defeated the kingdom of death."
+      },
+      {
+        "question": "In Luke 16:19–31 (the rich man and Lazarus), what conclusion does Abraham draw about the sufficiency of Scripture?",
+        "options": [
+          "That a resurrected person will always convince everyone",
+          "'If they do not listen to Moses and the prophets, they will not be persuaded even if someone from the dead rises'",
+          "May wealth guarantee heaven",
+          "That Lazarus was king"
+        ],
+        "correct": 1,
+        "explanation": "The parable shows the irreversibility of judgment after death and that true faith is born from listening to the Word of God."
+      },
+      {
+        "question": "In Matthew 12:31-32, what is 'blasphemy against the Holy Spirit' in its immediate context?",
+        "options": [
+          "A simple passing doubt",
+          "The lucid and persistent hardness of the Pharisees knowingly attributing to Beelzebub (Satan) the manifest works of the Spirit of God accomplished by Jesus",
+          "Forget a prayer",
+          "Ask a difficult question"
+        ],
+        "correct": 1,
+        "explanation": "He who deliberately rejects the very source of light and forgiveness by calling it demonic voluntarily closes himself to repentance."
+      },
+      {
+        "question": "In Acts 2:42, what are the four pillars of the life of the early church in Jerusalem?",
+        "options": [
+          "Politics, wealth, architecture, army",
+          "The teaching of the apostles, fellowship, breaking of bread and prayers",
+          "Animal sacrifices, pilgrimages to Rome, annual fasting and philosophy",
+          "Absolute solitude"
+        ],
+        "correct": 1,
+        "explanation": "These four regular practices formed the spiritual and community rhythm of the first believers."
+      },
+      {
+        "question": "In 1 John 2:1-2, how does John articulate the call not to sin and the hope in case of falling?",
+        "options": [
+          "If anyone sins, all is lost",
+          "'I write these things to you so that you may not sin. And if anyone sins, we have an Advocate (Paraclete) with the Father, Jesus Christ the righteous'",
+          "Sin no longer exists",
+          "Lambs must be offered"
+        ],
+        "correct": 1,
+        "explanation": "Jesus Christ is both our Advocate with the Father and the propitiation victim (hilasmos) for our sins and those of the whole world."
+      },
+      {
+        "question": "In Romans 6:1-14, why does Paul reject the idea of ​​'remaining in sin so that grace may abound'?",
+        "options": [
+          "Because grace is limited",
+          "Because through baptism and union with Christ, the believer is dead to sin and resurrected to walk in newness of life",
+          "Because the Law of Moses still saves",
+          "Because the angels forbid it"
+        ],
+        "correct": 1,
+        "explanation": "Grace does not set free to sin, but sets free from the bondage of sin to serve righteousness."
+      },
+      {
+        "question": "In 1 Peter 1:3-5, how does Peter describe the Christian hope and its heritage?",
+        "options": [
+          "A perishable earthly fortune",
+          "A living hope through the resurrection of Jesus Christ, for an inheritance that cannot be corrupted, nor defiled, nor withered, reserved in heaven",
+          "An immediate political kingdom",
+          "A forgetting of suffering"
+        ],
+        "correct": 1,
+        "explanation": "Believers are kept by the power of God through faith for that salvation ready to be revealed in the last time."
+      },
+      {
+        "question": "In Matthew 13, what is the common lesson of the parables of the 'mustard seed' and the 'leaven'?",
+        "options": [
+          "The Kingdom will disappear",
+          "Although the beginnings of the Kingdom of God seem tiny and hidden, its growth is irresistible until it transforms and encompasses all creation",
+          "We must reject the bread",
+          "Only big trees count"
+        ],
+        "correct": 1,
+        "explanation": "Jesus thus reassures his disciples in the face of the apparent modesty of their group in the face of great empires."
+      },
+      {
+        "question": "In John 10:11-18, what characteristics distinguish the 'Good Shepherd' from the 'mercenary'?",
+        "options": [
+          "The mercenary has more sheep",
+          "The mercenary flees when the wolf comes because he does not care for the sheep; the Good Shepherd knows his own, calls them by name and gives his life for them",
+          "The Good Shepherd abandons the weak sheep",
+          "They act the same way"
+        ],
+        "correct": 1,
+        "explanation": "Jesus clarifies that he gives his life voluntarily (“No one takes it from me, but I give it of myself”) and that he still has other sheep (the nations) to gather."
+      },
+      {
+        "question": "In Luke 19:11-27, why does Jesus tell the parable of the ten minas just before entering Jerusalem?",
+        "options": [
+          "To teach banking",
+          "Because it was believed that the Kingdom of God would appear immediately; it shows that the King must leave to receive royalty before returning to ask his servants for an account",
+          "To criticize Zacchaeus",
+          "To cancel his ministry"
+        ],
+        "correct": 1,
+        "explanation": "The parable prepares the disciples for a period of active waiting and faithfulness between the Ascension and the return of Christ."
+      },
+      {
+        "question": "In 2 Timothy 3:16-17, what does the Greek term 'theopneustos' ('breathed by God') mean?",
+        "options": [
+          "Written by angels only",
+          "'God-breathed' — affirming the divine origin of the Scriptures which makes them fully sufficient for teaching, convicting, correcting and instructing",
+          "Mechanically dictated without human personality",
+          "Limited to the Psalms"
+        ],
+        "correct": 1,
+        "explanation": "God breathed His Word through human authors (2 Peter 1:21) that the man of God might be complete, equipped for every good work."
+      },
+      {
+        "question": "In Philippians 1:21-24, what inner dilemma does Paul express as he faces his trial in Rome?",
+        "options": [
+          "Flee to Spain or Egypt",
+          "Between the desire to depart and be with Christ (which is by far the best) and the need to remain in the flesh for the spiritual progress of the Philippians",
+          "To become a Roman citizen or not",
+          "Write or preach"
+        ],
+        "correct": 1,
+        "explanation": "This passage attests to Paul's hope of being immediately with Christ upon death, while remaining devoted to the service of the Church."
+      },
+      {
+        "question": "In Acts 20:28, what strong expression does Paul use before the elders of Ephesus to describe the value of the Church?",
+        "options": [
+          "A respectable human association",
+          "'The Church of God, which he purchased with his own blood'",
+          "A philosophical club",
+          "A Roman province"
+        ],
+        "correct": 1,
+        "explanation": "Paul entrusts the elders with the care of this precious flock purchased at the price of the very blood of Christ."
+      },
+      {
+        "question": "In Revelation 12:1-17, who symbolically represent the Woman clothed with the sun, the Male Child and the Red Dragon?",
+        "options": [
+          "Only three Greek constellations",
+          "God's faithful people (Israel/Church) giving birth to the Messiah (delighted with God), and Satan defeated who then pursues the rest of his descendants",
+          "Rome, Athens and Babylon",
+          "Three kings of Persia"
+        ],
+        "correct": 1,
+        "explanation": "The chapter reveals the invisible spiritual background of earthly persecutions: the dragon is already defeated by the blood of the Lamb (v. 11)."
       }
     ]
   }

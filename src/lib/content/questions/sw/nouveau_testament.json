@@ -561,6 +561,479 @@
         ],
         "correct": 1,
         "explanation": "Akiwa na umri wa miaka 12, Yesu alibaki Hekaluni huko Yerusalemu miongoni mwa waalimu wa Sheria (Luka 2:41-50)."
+      },
+      {
+        "question": "Majina ya wainjilisti wanne ni nini?",
+        "options": [
+          "Petro, Paulo, Yakobo na Yuda",
+          "Mathayo, Marko, Luka na Yohana",
+          "Étienne, Philippe, Luc na Paul",
+          "André, Thomas, Marc na Jean"
+        ],
+        "correct": 1,
+        "explanation": "Injili nne za kisheria zina majina ya Mathayo, Marko, Luka na Yohana."
+      },
+      {
+        "question": "Je, Mariamu alimlaza mtoto Yesu ndani ya nini alipozaliwa?",
+        "options": [
+          "Kitoto cha dhahabu",
+          "Chumba cha kulalia (horini)",
+          "Kikapu kwenye Nile",
+          "Gari la kifalme"
+        ],
+        "correct": 1,
+        "explanation": "Hakukuwa na nafasi kwa ajili yao katika nyumba ya wageni, hivyo Mariamu akamlaza katika hori (Luka 2:7)."
+      },
+      {
+        "question": "Ni nani waliokuwa wa kwanza kuja na kumwabudu Yesu mchanga katika usiku wa kuzaliwa kwake?",
+        "options": [
+          "Wafalme wa Rumi",
+          "Wachungaji walionywa na malaika",
+          "Mafarisayo",
+          "askari wa Herode"
+        ],
+        "correct": 1,
+        "explanation": "Malaika alitangaza habari njema kwa wachungaji wanaochunga makundi yao katika mashamba karibu na Bethlehemu (Luka 2:8-16)."
+      },
+      {
+        "question": "Ni zawadi gani tatu ambazo mamajusi wa Mashariki walimpa mtoto Yesu?",
+        "options": [
+          "Ngano, divai na mafuta",
+          "dhahabu, ubani na manemane",
+          "Lulu, shaba na kitani",
+          "Wana-kondoo, njiwa na chumvi"
+        ],
+        "correct": 1,
+        "explanation": "Mamajusi walifungua hazina zao na kumtolea dhahabu, uvumba na manemane (Mathayo 2:11)."
+      },
+      {
+        "question": "Yesu alitumia samaki wangapi pamoja na ile mikate mitano kuwalisha wanaume 5,000?",
+        "options": [
+          "1 samaki",
+          "2 samaki",
+          "5 samaki",
+          "7 samaki"
+        ],
+        "correct": 1,
+        "explanation": "Mvulana mdogo alikuwa na mikate mitano ya shayiri na samaki wawili, ambao Yesu alizidisha kwa ajili ya umati (Yohana 6:9-13)."
+      },
+      {
+        "question": "Ni vikapu vingapi vilivyojaa vipande vilivyobaki vilikusanywa baada ya kuzidisha mikate 5?",
+        "options": [
+          "3 vikapu",
+          "7 vikapu",
+          "Vikapu 12",
+          "Vikapu 40"
+        ],
+        "correct": 2,
+        "explanation": "Vikapu kumi na viwili vilijaa vipande vilivyobaki vya mikate mitano ya shayiri (Yohana 6:13)."
+      },
+      {
+        "question": "Yesu alifanya muujiza gani kwenye Ziwa Galilaya wakati dhoruba kali ilipotishia mashua?",
+        "options": [
+          "Alijenga daraja",
+          "Alitishia upepo na bahari, kukawa shwari kuu",
+          "Aliogelea hadi ufukweni",
+          "Alinyesha moto"
+        ],
+        "correct": 1,
+        "explanation": "Yesu akaiambia bahari: ‘Nyamaza! nyamaza!' na upepo ukakoma, ukawafanya wanafunzi kustaajabu ( Marko 4:39-41 )."
+      },
+      {
+        "question": "Yesu aliwaponya watu wangapi wenye ukoma wakati mmoja tu aliporudi kumshukuru?",
+        "options": [
+          "3",
+          "7",
+          "10",
+          "12"
+        ],
+        "correct": 2,
+        "explanation": "Wakoma kumi walitakaswa kwa kwenda kujionyesha kwa makuhani, lakini Msamaria mmoja tu ndiye aliyerudi kumpa Mungu utukufu (Luka 17:12-19)."
+      },
+      {
+        "question": "Ni nani aliyebeba msalaba wa Yesu kwenye njia ya kwenda Golgotha?",
+        "options": [
+          "Mwamba",
+          "Jeans",
+          "Simoni wa Kurene",
+          "Yusufu wa Arimathaya"
+        ],
+        "correct": 2,
+        "explanation": "Askari walimwamuru Simoni wa Kurene, ambaye alikuwa anarudi kutoka shambani, auchukue msalaba nyuma ya Yesu (Luka 23:26)."
+      },
+      {
+        "question": "Je, Yesu aliingia Yerusalemu kwa ushindi mbele ya umati ukipiga kelele 'Hosana'?",
+        "options": [
+          "Farasi mweupe",
+          "Punda",
+          "Gari la Kirumi",
+          "Ngamia"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alipanda mwana-punda ambaye bado hakuna mtu amepanda, akitimiza Zekaria 9:9 (Marko 11:2-10)."
+      },
+      {
+        "question": "Wanafunzi walifanya nini kwenye Karamu ya Mwisho kwa mkate na kikombe?",
+        "options": [
+          "Walisherehekea Sikukuu ya Vibanda",
+          "Yesu alianzisha Meza ya Bwana ('Huu ni mwili wangu... Hii ni damu yangu')",
+          "Walitoa fahali",
+          "Walifunga bila kula chochote"
+        ],
+        "correct": 1,
+        "explanation": "Katika mlo wa mwisho wa Pasaka, Yesu aliumega mkate na kushiriki kikombe katika ukumbusho wa kifo chake kwa ajili ya agano jipya ( Luka 22:19-20 )."
+      },
+      {
+        "question": "Je, ni ishara gani ya unyenyekevu ambayo Yesu huwafanyia wanafunzi wake kabla ya Karamu ya Mwisho katika Yohana 13?",
+        "options": [
+          "Aliwapa taji",
+          "Aliosha miguu yao",
+          "Aliwapa dhahabu",
+          "Anawajengea nyumba"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alijifunga kitambaa na kuosha miguu ya wanafunzi wake ili kuwaachia kielelezo cha kuhudumiana (Yohana 13:4-15)."
+      },
+      {
+        "question": "Ni mwanafunzi gani aliyekata sikio la mtumishi wa kuhani mkuu Yesu alipokamatwa?",
+        "options": [
+          "Jacques",
+          "Simon-Pierre",
+          "Thomas",
+          "Mathayo"
+        ],
+        "correct": 1,
+        "explanation": "Kulingana na Yohana 18:10, Simoni Petro aliuchomoa upanga wake na kukata sikio la kulia la Malko, ambalo Yesu aliliponya mara moja ( Luka 22:51 )."
+      },
+      {
+        "question": "Yuda Iskariote alimwonyeshaje askari-jeshi Yesu katika bustani ya Gethsemane?",
+        "options": [
+          "Akimnyooshea kidole",
+          "Kwa busu",
+          "Kupiga kelele jina lake",
+          "Na tochi"
+        ],
+        "correct": 1,
+        "explanation": "Yuda alikuwa ametoa ishara hii: 'Yeye nitakayembusu ndiye; mshike” (Mathayo 26:48-49)."
+      },
+      {
+        "question": "Ni nani aliyeachiliwa na Pontio Pilato badala ya Yesu kwa ombi la umati?",
+        "options": [
+          "Barnaba",
+          "Baraba",
+          "Nikodemo",
+          "Lazaro"
+        ],
+        "correct": 1,
+        "explanation": "Pilato alimwachilia Baraba, jambazi aliyefungwa kwa uasi na mauaji, na akamtoa Yesu ili asulibiwe (Luka 23:18-25)."
+      },
+      {
+        "question": "Pilato aliweka maandishi gani juu ya kichwa cha Yesu msalabani?",
+        "options": [
+          "Mwana wa Daudi",
+          "Yesu wa Nazareti, Mfalme wa Wayahudi (INRI)",
+          "Nabii wa Galilaya",
+          "Rafiki wa wenye dhambi"
+        ],
+        "correct": 1,
+        "explanation": "Alama hiyo ilisomeka kwa Kiebrania, Kilatini na Kigiriki: 'Yesu wa Nazareti, Mfalme wa Wayahudi' (Yohana 19:19-20)."
+      },
+      {
+        "question": "Yesu alimkabidhi mama yake Mariamu kutoka msalabani kwa nani?",
+        "options": [
+          "Kwa Petro",
+          "Kwa mwanafunzi aliyempenda (Yohana)",
+          "Kwa Yosefu wa Arimathaya",
+          "Kwa Thomas"
+        ],
+        "correct": 1,
+        "explanation": "Yesu akamwambia mama yake, ‘Mama, tazama mwanao,’ kisha akamwambia yule mwanafunzi, ‘Tazama mama yako’ (Yohana 19:26-27)."
+      },
+      {
+        "question": "Yesu aliahidi nini kwa mwizi aliyetubu aliyesulubishwa karibu naye?",
+        "options": [
+          "Kwamba angeachiliwa siku iliyofuata",
+          "'Leo utakuwa nami peponi'",
+          "Kwamba atakuwa mtume",
+          "Kwamba angerudi Nazareti"
+        ],
+        "correct": 1,
+        "explanation": "Kwa kuitikia imani ya mtenda maovu (“Unikumbuke”), Yesu alimhakikishia wokovu wa mara moja ( Luka 23:42-43 )."
+      },
+      {
+        "question": "Nani alimwomba Pilato mwili wa Yesu uzikwe katika kaburi jipya?",
+        "options": [
+          "Nikodemo peke yake",
+          "Yosefu wa Arimathaya (akisaidiwa na Nikodemo)",
+          "Simon-Pierre",
+          "Jean-Baptiste"
+        ],
+        "correct": 1,
+        "explanation": "Yusufu wa Arimathea, mshiriki wa Sanhedrini na mfuasi wa siri, aliuweka mwili wa Yesu katika kaburi lake jipya (Yohana 19:38-42)."
+      },
+      {
+        "question": "Katika mfano wa wanawali kumi (Mathayo 25), wanawali watano wapumbavu walikuwa wamesahau nini?",
+        "options": [
+          "Viatu vyao",
+          "Kuchukua mafuta kwa akiba ya taa zao",
+          "Anwani ya sikukuu",
+          "Mialiko yao"
+        ],
+        "correct": 1,
+        "explanation": "Wanawali watano wenye busara walikuwa wamechukua mafuta katika vyombo pamoja na taa zao, tayari kwa kuwasili kwa bwana-arusi (Mathayo 25:1-13)."
+      },
+      {
+        "question": "Katika mfano wa Msamaria Mwema, ni nani hatimaye alisimama ili kumsaidia mtu aliyejeruhiwa na majambazi?",
+        "options": [
+          "Kuhani",
+          "Mlawi",
+          "Msamaria",
+          "Askari wa Kirumi"
+        ],
+        "correct": 2,
+        "explanation": "Kuhani na Mlawi walipopita, Msamaria huyo alimhurumia, akafunga jeraha zake, na kumlipa mahali pa kulala (Luka 10:30-37)."
+      },
+      {
+        "question": "Katika mfano wa mwana mpotevu, baba alifanya nini alipomwona mwanawe akirudi kutoka mbali?",
+        "options": [
+          "Akafunga mlango",
+          "Alikimbia na kujitupa shingoni na kumbusu",
+          "Akamwomba amrudishe zile pesa",
+          "Alimfanya afanye kazi kama mtumwa"
+        ],
+        "correct": 1,
+        "explanation": "Akiwa na huruma, baba huyo akakimbia kumlaki, akampa vazi zuri zaidi, pete na kuamuru ndama aliyenona auawe (Luka 15:20-24)."
+      },
+      {
+        "question": "Katika mfano wa kondoo aliyepotea (Luka 15), mchungaji anaacha kondoo wangapi ili kumtafuta aliyepotea?",
+        "options": [
+          "10",
+          "50",
+          "99",
+          "100"
+        ],
+        "correct": 2,
+        "explanation": "Mchungaji mwema huwaacha wale wengine 99 nyikani kumtafuta kondoo mmoja aliyepotea hadi ampate (Luka 15:4)."
+      },
+      {
+        "question": "Mtu mwenye hekima anajenga nyumba yake juu ya nini kulingana na mwisho wa Mahubiri ya Mlimani?",
+        "options": [
+          "Juu ya mchanga",
+          "Juu ya mwamba",
+          "Juu ya majani",
+          "Juu ya udongo"
+        ],
+        "correct": 1,
+        "explanation": "Anayesikia maneno ya Yesu na kuyatekeleza anafanana na mtu mwenye busara aliyejenga nyumba yake juu ya mwamba (Mathayo 7:24)."
+      },
+      {
+        "question": "Je, ni maneno gani maarufu ya kwanza ya Heri katika Mathayo 5?",
+        "options": [
+          "Wenye furaha ni matajiri",
+          "Heri walio maskini wa roho maana ufalme wa mbinguni ni wao",
+          "Heri wenye nguvu",
+          "Heri Mafarisayo"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anafungua Mahubiri ya Mlimani kwa heri tisa zinazopindua maadili ya ulimwengu (Mathayo 5:3-12)."
+      },
+      {
+        "question": "Ni nini kilionekana juu ya vichwa vya wanafunzi siku ya Pentekoste?",
+        "options": [
+          "Nyota",
+          "Ndimi kama ndimi za moto",
+          "taji za miiba",
+          "Njiwa nyeupe"
+        ],
+        "correct": 1,
+        "explanation": "Ndimi za moto zilikaa juu ya kila mmoja wao, na wote wakajazwa na Roho Mtakatifu (Matendo 2:3-4)."
+      },
+      {
+        "question": "Ni watu wangapi walibatizwa siku ya Pentekoste baada ya mahubiri ya Petro?",
+        "options": [
+          "watu 120",
+          "Karibu watu 500",
+          "Karibu watu 3,000",
+          "Karibu watu 10,000"
+        ],
+        "correct": 2,
+        "explanation": "Siku hiyo idadi ya wanafunzi iliongezeka kwa karibu watu elfu tatu (Matendo 2:41)."
+      },
+      {
+        "question": "Ni muujiza gani ambao Petro na Yohana walifanya mbele ya lango la Hekalu linaloitwa Uzuri?",
+        "options": [
+          "Walibadilisha maji kuwa divai",
+          "Walimponya mtu aliyekuwa kilema tangu kuzaliwa",
+          "Walitembea juu ya maji",
+          "Walizidisha mkate"
+        ],
+        "correct": 1,
+        "explanation": "Petro akamwambia yule kiwete: ‘Sina fedha wala dhahabu; lakini nilicho nacho nitakupa: kwa jina la Yesu Kristo wa Nazareti, ondoka uende. (Matendo 3:6)."
+      },
+      {
+        "question": "Ni ofisa gani wa malkia wa Ethiopia aliyebatizwa na Filipo baada ya kusoma nabii Isaya kwenye gari lake?",
+        "options": [
+          "Kunguru",
+          "Towashi wa Ethiopia",
+          "Sergio Paulo",
+          "Felix"
+        ],
+        "correct": 1,
+        "explanation": "Filipo alimtangazia Yesu kutoka kwa Isaya 53, kisha akambatiza kwa maji kwenye barabara ya Gaza (Matendo 8:27-39)."
+      },
+      {
+        "question": "Mtume Petro alikombolewaje kimuujiza kutoka kwa gereza la Herode katika Matendo 12?",
+        "options": [
+          "Kwa tetemeko la ardhi pamoja na Paulo",
+          "Malaika wa Bwana alimwamsha, akaondoa minyororo yake na kufungua mlango wa chuma",
+          "Aliwalipa walinzi",
+          "Anatoroka kupitia handaki"
+        ],
+        "correct": 1,
+        "explanation": "Kanisa lilipokuwa likimwombea mara kwa mara, malaika alimtoa gerezani hadi nyumbani kwa Mariamu (Matendo 12:7-17)."
+      },
+      {
+        "question": "Mlinzi wa gereza wa Filipi aliwauliza nini Paulo na Sila baada ya tetemeko la ardhi la usiku?",
+        "options": [
+          "'Unaenda wapi?'",
+          "'Bwana, nifanye nini nipate kuokoka?'",
+          "'Una pesa ngapi?'",
+          "'Nani alifungua milango?'"
+        ],
+        "correct": 1,
+        "explanation": "Paulo na Sila wakamjibu, ‘Mwamini Bwana Yesu, nawe pamoja na jamaa yako mtaokolewa’ (Matendo 16:30-31)."
+      },
+      {
+        "question": "Ni waraka gani wa Agano Jipya ulio na 'wimbo wa kupenda' maarufu (sura ya 13)?",
+        "options": [
+          "Warumi",
+          "1 Wakorintho",
+          "Wagalatia",
+          "Waefeso"
+        ],
+        "correct": 1,
+        "explanation": "1 Wakorintho 13 huinua upendo (agape) kama bora kuliko karama zote za kiroho."
+      },
+      {
+        "question": "Ni waraka gani wa Agano Jipya unaoelezea 'silaha zote za Mungu' (silaha za mwamini) katika sura ya 6?",
+        "options": [
+          "Wafilipi",
+          "Waefeso",
+          "Wakolosai",
+          "1 Wathesalonike"
+        ],
+        "correct": 1,
+        "explanation": "Waefeso 6:10-18 inaeleza mshipi wa ukweli, dirii ya haki kifuani, ngao ya imani, chapeo ya wokovu, na upanga wa Roho."
+      },
+      {
+        "question": "Katika Yakobo 2, ni ulinganisho gani maarufu ambao mwandishi anatumia ili kuonyesha kwamba imani lazima itafsiriwe katika matendo?",
+        "options": [
+          "Imani bila matendo imekufa",
+          "Imani inachukua nafasi ya maombi",
+          "Matendo yanatosha pasipo imani",
+          "Imani ni siri"
+        ],
+        "correct": 0,
+        "explanation": "Yakobo anafundisha kwamba imani ya kweli ni lazima izae matendo ya upendo na utii (Yakobo 2:17,26)."
+      },
+      {
+        "question": "Ni kitabu gani katika Agano Jipya kinachoitwa 'mashujaa wa sura ya imani' (katika sura ya 11)?",
+        "options": [
+          "Warumi",
+          "Waebrania",
+          "Jacques",
+          "1 Petro"
+        ],
+        "correct": 1,
+        "explanation": "Waebrania 11 inafuatilia imani ya Abeli, Henoko, Nuhu, Ibrahimu, Sara, Musa, Rahabu, Daudi na manabii."
+      },
+      {
+        "question": "Katika Ufunuo, ni jina gani tukufu lililoandikwa kwenye vazi na paja la yeye anayepanda farasi mweupe ( Ufu 19:16 )?",
+        "options": [
+          "Nabii wa Galilaya",
+          "Mfalme wa wafalme na Bwana wa mabwana",
+          "Mchungaji wa Israeli",
+          "Mkuu wa Yudea"
+        ],
+        "correct": 1,
+        "explanation": "Ufunuo 19:16 inatangaza enzi kuu kamili ya Kristo mshindi: 'Mfalme wa wafalme na Bwana wa mabwana'."
+      },
+      {
+        "question": "Paulo alimwita ‘mtoto wangu wa kweli katika imani’ yupi kijana?",
+        "options": [
+          "Barnaba",
+          "Timotheo",
+          "Sila",
+          "Apolo"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anaonyesha mapenzi ya kina ya baba kwa Timotheo katika 1 Timotheo 1:2 na 2 Timotheo 1:2."
+      },
+      {
+        "question": "Ni mnyama gani aliimba Petro alipomkana Yesu mara tatu?",
+        "options": [
+          "kunguru",
+          "Jogoo",
+          "Njiwa",
+          "Tai"
+        ],
+        "correct": 1,
+        "explanation": "Mara tu Petro alipokana mara ya tatu, jogoo akawika na Petro akalia kwa uchungu (Luka 22:60-62)."
+      },
+      {
+        "question": "Yesu alingoja siku ngapi kabla ya kwenda Bethania baada ya kujua kuhusu ugonjwa wa Lazaro?",
+        "options": [
+          "Aliondoka mara moja",
+          "Alibaki siku mbili zaidi pale alipokuwa",
+          "Alingoja siku saba",
+          "Hakwenda"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alikaa siku mbili zaidi ili utukufu wa Mungu uangaze kupitia ufufuo wa Lazaro siku ya 4 (Yohana 11:6,14-15)."
+      },
+      {
+        "question": "Kipofu gani kutoka Yeriko alipaza sauti: 'Yesu, Mwana wa Daudi, nihurumie!' na kupata kuona tena?",
+        "options": [
+          "Lazaro",
+          "Bartimayo",
+          "Malchus",
+          "Nikodemo"
+        ],
+        "correct": 1,
+        "explanation": "Bartimayo, mwana wa Timayo, akatupa vazi lake chini, akamrukia Yesu, na akaponywa kwa imani yake (Mk 10:46-52)."
+      },
+      {
+        "question": "Ni mwanamke gani aliyeponywa kutoka kwa damu ya miaka kumi na miwili kwa kugusa upindo wa vazi la Yesu?",
+        "options": [
+          "Martha",
+          "Hemorrhoids (mwanamke aliye na upungufu wa damu)",
+          "Maria Magdalene",
+          "Salome"
+        ],
+        "correct": 1,
+        "explanation": "Yesu akamwambia: ‘Binti yangu, imani yako imekuokoa; nenda kwa amani’ (Marko 5:25-34)."
+      },
+      {
+        "question": "Yesu alifanya muujiza gani kwa binti ya Yairo, kiongozi wa sinagogi?",
+        "options": [
+          "Akamrudishia macho yake",
+          "Alimfufua kutoka kwa wafu ('Talitha koumi')",
+          "Anamponya ukoma",
+          "Alitoa pepo saba"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alishika mkono wa msichana mwenye umri wa miaka kumi na miwili na kumwambia, 'Msichana, inuka!' ( Marko 5:41-42 )."
+      },
+      {
+        "question": "Ni kitabu gani kifupi cha Agano Jipya ambacho ni barua ya kibinafsi kutoka kwa Paulo kwenda kwa bwana Mkristo kwa niaba ya mtumwa aliyetoroka aitwaye Onesimo?",
+        "options": [
+          "Tito",
+          "Filemoni",
+          "Yuda",
+          "3 Yohana"
+        ],
+        "correct": 1,
+        "explanation": "Katika waraka kwa Filemoni, Paulo anamwombea kwa upole Onesimo, ambaye amekuwa ‘ndugu mpendwa’ ( Filemoni 1:16 )."
       }
     ],
     "intermediaire": [
@@ -981,6 +1454,611 @@
         ],
         "correct": 1,
         "explanation": "Yesu alisema 'kikombe hiki ni agano jipya katika damu yangu' (Luka 22:20) - kutimiza ahadi ya Yeremia 31:31-34."
+      },
+      {
+        "question": "Je, kuhani mkuu aliyesimamia kesi ya kidini ya Yesu mbele ya Sanhedrini anaitwa nani?",
+        "options": [
+          "Anasi",
+          "Kayafa",
+          "Gamalieli",
+          "Zekaria"
+        ],
+        "correct": 1,
+        "explanation": "Joseph Kayafa, mkwe wa Anasi, alikuwa kuhani mkuu mwaka huo na alitangaza kwamba mtu mmoja lazima afe kwa ajili ya watu (Yohana 11:49-51; 18:13-24)."
+      },
+      {
+        "question": "Ni mshiriki gani wa Sanhedrini aliyetoa shauri la busara kwa kusema kwamba ikiwa kazi ya mitume inatoka kwa Mungu, haiwezi kuharibiwa?",
+        "options": [
+          "Kayafa",
+          "Gamalieli",
+          "Nikodemo",
+          "Anania"
+        ],
+        "correct": 1,
+        "explanation": "Gamalieli, daktari wa Sheria aliyeheshimiwa na watu wote (na mwalimu wa Paulo), alipendekeza kutopigana na Mungu ( Matendo 5:34-39 )."
+      },
+      {
+        "question": "Je, wanandoa Wakristo waliomdanganya Roho Mtakatifu kuhusu bei ya shamba lililouzwa katika Matendo 5 walikuwa wanaitwa nani?",
+        "options": [
+          "Akila na Prisila",
+          "Anania na Safira",
+          "Zekaria na Elizabeti",
+          "Andronicus na Junia"
+        ],
+        "correct": 1,
+        "explanation": "Anania na Safira waliweka sehemu ya bei huku wakijifanya walikuwa wakitoa yote; Petro alifichua uongo wao mbele za Mungu (Matendo 5:1-11)."
+      },
+      {
+        "question": "Ni mashemasi wangapi ('wanaume saba wa ushuhuda mzuri') walichaguliwa katika Matendo 6 kwa meza za kusubiri?",
+        "options": [
+          "5",
+          "7",
+          "12",
+          "70"
+        ],
+        "correct": 1,
+        "explanation": "Kanisa lilichagua wanaume saba waliojaa Roho na hekima, wakiwemo Stefano na Filipo, ili mitume wajitoe katika maombi na Neno (Matendo 6:3-6)."
+      },
+      {
+        "question": "Ni mchawi gani kutoka Samaria alitaka kununua kutoka kwa mitume uwezo wa kuwapa Roho Mtakatifu?",
+        "options": [
+          "Elima",
+          "Simon Mchawi",
+          "Bar-Yesu",
+          "Sceva"
+        ],
+        "correct": 1,
+        "explanation": "Petro akamkemea Simoni kwa ukali, akisema, Pesa yako na ipotelee mbali nawe! (Matendo 8:18-23), kwa hiyo neno ‘usimoni’."
+      },
+      {
+        "question": "Ni nabii na mchawi gani wa Kiyahudi katika Kipro aliyempinga Paulo mbele ya Sergio Paulo na akapigwa na upofu wa muda?",
+        "options": [
+          "Simon",
+          "Élymas (Bar-Yesu)",
+          "Demetrius",
+          "Alexander"
+        ],
+        "correct": 1,
+        "explanation": "Elima yule mchawi alitaka kumgeuza yule liwali aiache imani; Paulo alimkemea na wingu likayatia giza macho yake (Matendo 13:8-11)."
+      },
+      {
+        "question": "Ni kijana gani aliyelala usingizi wakati wa hotuba ndefu ya Paulo huko Troa, akaanguka kutoka orofa ya tatu, na kufufuliwa?",
+        "options": [
+          "Timotheo",
+          "Eutiko",
+          "Tito",
+          "Weka alama"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alishuka, akainama juu ya Eutiko, akamkumbatia na kumhakikishia kwamba roho yake ilikuwa ndani yake (Matendo 20:9-12)."
+      },
+      {
+        "question": "Ni fundi gani wa Efeso anayetengeneza mahekalu ya fedha ya Artemi aliyesababisha ghasia kwenye jumba la maonyesho dhidi ya Paulo?",
+        "options": [
+          "Alexander mhunzi",
+          "Demetrius",
+          "Diotrefe",
+          "Himenayo"
+        ],
+        "correct": 1,
+        "explanation": "Demetrio aliogopa kwa ajili ya biashara na heshima ya hekalu la Artemi katika uso wa waongofu wa Kikristo (Matendo 19:24-29)."
+      },
+      {
+        "question": "Katika injili gani Yesu anatamka wale saba wakuu 'Mimi niko' wenye sifa (Mkate wa uzima, Nuru, Mlango, Mchungaji Mwema, Ufufuo, Njia, Mzabibu wa Kweli)?",
+        "options": [
+          "Mathayo",
+          "Weka alama",
+          "Luka",
+          "Jeans"
+        ],
+        "correct": 3,
+        "explanation": "Injili ya Yohana inaunda ufunuo wake wa Kikristo kuzunguka matamko haya saba 'Egô eimi'."
+      },
+      {
+        "question": "Ni nini cha pekee kuhusu Injili ya Marko kulingana na mtindo na urefu wake?",
+        "options": [
+          "Ni ndefu zaidi na ina hotuba ndefu",
+          "Ndiyo fupi na yenye nguvu zaidi ('mara moja'), inayozingatia kitendo na msalaba wa Mtumishi.",
+          "Inaanza na nasaba ya kurudi kwa Adamu",
+          "Hasemi juu ya miujiza yoyote"
+        ],
+        "correct": 1,
+        "explanation": "Marko mara nyingi anatumia 'euthys' ('mara moja'), akimonyesha Yesu kama Mwana mtumishi wa Mungu ambaye anatoa maisha yake kama fidia (Marko 10:45)."
+      },
+      {
+        "question": "Kwa nini Injili ya Mathayo inaanza na ukoo unaorudi kwa Ibrahimu na Daudi?",
+        "options": [
+          "Ili kuthibitisha kwamba Yesu alikuwa Mrumi",
+          "Kuwaonyesha wasomaji wa Kiyahudi kwamba Yesu ndiye mrithi halali wa ahadi zilizotolewa kwa Ibrahimu na Mfalme Daudi",
+          "Kuiga nyaraka za Paulo",
+          "Kwa sababu hakujua kuhusu kuzaliwa na bikira"
+        ],
+        "correct": 1,
+        "explanation": "Mathayo 1:1-17 inapanga mfululizo 3 wa vizazi 14 kufikia kilele kwa Yesu Masihi, mwana wa Daudi na mwana wa Ibrahimu."
+      },
+      {
+        "question": "Kwa nini nasaba ya Luka (sura ya 3) inarudi kwa Adamu na 'mwana wa Mungu'?",
+        "options": [
+          "Kwa sababu Luka anawaandikia Mafarisayo tu",
+          "Ili kusisitiza upeo wa ulimwengu wote wa wokovu wa Yesu kwa wanadamu wote waliotokana na Adamu",
+          "Kwa makosa ya mpangilio",
+          "Kukataa agano na Ibrahimu"
+        ],
+        "correct": 1,
+        "explanation": "Luka anaangazia huruma ya Mungu kwa wote kwa maskini, wanawake, Wasamaria na mataifa yote."
+      },
+      {
+        "question": "Ni wimbo gani wa sifa ambao Mariamu aliimba wakati wa kumtembelea Elizabeti katika Luka 1?",
+        "options": [
+          "Benedictus",
+          "The Magnificat ('Nafsi yangu yamtukuza Bwana...')",
+          "Nunc Dimittis",
+          "Gloria"
+        ],
+        "correct": 1,
+        "explanation": "The Magnificat (Luka 1:46-55) inaadhimisha uaminifu wa Mungu katika kuwainua wanyenyekevu na kutimiza ahadi yake kwa Israeli."
+      },
+      {
+        "question": "Je! ni wimbo gani ambao Zekaria, baba yake Yohana Mbatizaji, alitoa wakati ulimi wake ulipoachiliwa (Luka 1:68-79)?",
+        "options": [
+          "The Magnificat",
+          "Benedictus ('Na ahimidiwe Bwana, Mungu wa Israeli...')",
+          "The Deum",
+          "Baba Yetu"
+        ],
+        "correct": 1,
+        "explanation": "Katika Benedikto, Zekaria anambariki Mungu kwa ajili ya ukombozi wa kimasihi na anatabiri utume wa matayarisho wa mwanawe Yohana."
+      },
+      {
+        "question": "Ni kielezi gani kutoka katika Injili ya Luka kinachoonyesha unyenyekevu katika sala katika uso wa utoshelevu wa kidini?",
+        "options": [
+          "Mpanzi",
+          "Mfarisayo na mtoza ushuru (mtoza ushuru) kwenye Hekalu",
+          "Magugu na ngano",
+          "Wafanyakazi wa saa kumi na moja"
+        ],
+        "correct": 1,
+        "explanation": "Mtoza ushuru hakuthubutu kuinua macho yake, akasema: 'Ee Mungu, unirehemu mimi mwenye dhambi!' akaenda zake akiwa amehesabiwa haki (Luka 18:9-14)."
+      },
+      {
+        "question": "Ni mfano gani unaofunza uvumilivu katika maombi mbele ya hakimu asiyejali (Luka 18:1-8)?",
+        "options": [
+          "Tajiri mjinga",
+          "Mjane mpole na hakimu dhalimu",
+          "Wadaiwa wawili",
+          "Mtini usiozaa"
+        ],
+        "correct": 1,
+        "explanation": "Ikiwa hata hakimu dhalimu ataishia kumtendea haki mjane anayevumilia, je! Mungu atawasikia zaidi wateule wake."
+      },
+      {
+        "question": "Katika Mathayo 18:21-35 , Yesu anasimulia mfano gani baada ya kumwambia Petro asamehe ‘mpaka sabini mara saba’?",
+        "options": [
+          "Migodi kumi",
+          "Mja asiye na huruma (anayekataa kusamehe deni ndogo baada ya kusamehewa deni kubwa)",
+          "Mwana Mpotevu",
+          "Vipaji"
+        ],
+        "correct": 1,
+        "explanation": "Yule ambaye mfalme amempa talanta elfu kumi akataa kungoja dinari mia moja, akionyesha uhitaji wa msamaha unaopokelewa na Mungu."
+      },
+      {
+        "question": "Katika mfano wa wafanyakazi katika shamba la mizabibu ( Mathayo 20:1-16 ), kwa nini wale walioajiriwa kwanza wananung’unika?",
+        "options": [
+          "Hawakupokea chochote",
+          "Wafanyakazi wa saa kumi na moja walipokea dinari sawa na wao - kuonyesha neema kuu ya Mungu na ukarimu.",
+          "Bwana akawapiga",
+          "Mzabibu ukawaka"
+        ],
+        "correct": 1,
+        "explanation": "'Je, jicho lako ni bovu kwa sababu mimi ni mwema?' inatukumbusha kwamba wokovu ni zawadi ya neema na si mshahara unaopatikana."
+      },
+      {
+        "question": "Ni mazungumzo gani ya usiku katika Yohana 3 yanafichua hitaji la 'kuzaliwa mara ya pili/kutoka juu' (kwa maji na Roho)?",
+        "options": [
+          "Mahojiano na mwanamke Msamaria",
+          "Mahojiano na Nikodemo",
+          "Mahojiano na Pilato",
+          "Mahojiano na Zakayo"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anamweleza Nikodemo, daktari wa Israeli, kwamba hakuna mtu awezaye kuingia katika Ufalme wa Mungu bila kuzaliwa upya na Roho (Yohana 3:3-8)."
+      },
+      {
+        "question": "Katika Yohana 4, Yesu anafunua ukweli gani kwa mwanamke Msamaria kuhusu mahali pa kweli pa ibada?",
+        "options": [
+          "Yerusalemu pekee",
+          "Mlima Gerizimu pekee",
+          "Saa inakuja ambapo waabudu wa kweli watamwabudu Baba ‘katika roho na kweli’",
+          "Hekalu la tatu lazima lijengwe Nazareti"
+        ],
+        "correct": 2,
+        "explanation": "Mungu ni Roho: ibada ya kweli haitegemei tena patakatifu pa kijiografia bali moyo uliofanywa upya katika kweli (Yohana 4:21-24)."
+      },
+      {
+        "question": "Katika Yohana 6, kwa nini wengi wa wanafunzi walijiondoa baada ya 'Mkate wa Uzima' kuzungumza?",
+        "options": [
+          "Kwa sababu hakukuwa na mkate tena",
+          "Kwa sababu walishtushwa na maneno ya Yesu yenye kudai sana (‘kula mwili wake na kuinywa damu yake’, yaani, kuamini kabisa kifo chake chenye kutoa uhai)",
+          "Kwa sababu Pilato aliwafukuza",
+          "Kwa sababu Petro aliwafukuza"
+        ],
+        "correct": 1,
+        "explanation": "Kwa swali la Yesu: ‘Na ninyi, je, ninyi pia hamtaki kwenda?’, Petro akajibu: ‘Bwana, tutaenda kwa nani? Wewe unayo maneno ya uzima wa milele’ (Yohana 6:68)."
+      },
+      {
+        "question": "Katika 1 Wakorintho 15, ni tukio gani ambalo Paulo anawasilisha kama msingi muhimu ambao bila imani ya Kikristo itakuwa bure?",
+        "options": [
+          "Ujenzi wa makanisa",
+          "Ufufuo wa mwili wa Kristo na ufufuo wa baadaye wa waumini",
+          "Tohara",
+          "Safiri hadi Yerusalemu"
+        ],
+        "correct": 1,
+        "explanation": "Kristo asipofufuka, imani yenu ni bure; bado mngali katika dhambi zenu’ (1 Wakorintho 15:17)."
+      },
+      {
+        "question": "Kulingana na 1 Wakorintho 15:6 , Yesu aliyefufuliwa alionekana kwa ndugu wangapi wakati mmoja kabla ya barua ya Paulo?",
+        "options": [
+          "Kwa watu 12",
+          "Kwa zaidi ya ndugu 500 kwa wakati mmoja",
+          "Kwa watu 70",
+          "Kwa watu 3 pekee"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anabainisha kwamba wengi wa hawa zaidi ya mashahidi 500 walikuwa bado hai wakati wa kuandika kwake (~55 AD)."
+      },
+      {
+        "question": "Katika 2 Wakorintho 5:18-20, ni cheo gani Paulo anawapa waamini wanaotangaza upatanisho na Mungu?",
+        "options": [
+          "Wafalme wa dunia",
+          "Mabalozi wa Kristo",
+          "Waamuzi wa Israeli",
+          "Malaika wa muungano"
+        ],
+        "correct": 1,
+        "explanation": "'Basi tunafanya kama mabalozi kwa ajili ya Kristo, kana kwamba Mungu anahimiza kupitia sisi: mpatanishwe na Mungu.'"
+      },
+      {
+        "question": "Katika 2 Wakorintho 12:7-9 , ni jibu gani ambalo Bwana alimpa Paulo ambaye alisali mara tatu ili kukombolewa kutoka katika ‘mwiba wake katika mwili’?",
+        "options": [
+          "Mara moja huponya splinter",
+          "'Neema yangu yakutosha; maana uweza wangu hutimilika katika udhaifu'",
+          "Akamwambia aende Yerusalemu",
+          "Akamuamuru anyamaze"
+        ],
+        "correct": 1,
+        "explanation": "Kwa hiyo Paulo anajifunza kujitukuza hata katika udhaifu wake ili uweza wa Kristo ukae juu yake."
+      },
+      {
+        "question": "Katika Warumi 5:12-21, ni ulinganifu gani mkuu wa kielelezo Paulo anachora ili kueleza anguko na wokovu?",
+        "options": [
+          "Kati ya Kaini na Habili",
+          "Kati ya Adamu wa kwanza (kutotii, dhambi, kifo) na Yesu Kristo, Adamu mpya/mwisho (utii, neema, uzima)",
+          "Kati ya Daudi na Sauli",
+          "Kati ya Eliya na Elisha"
+        ],
+        "correct": 1,
+        "explanation": "Kwa kosa la mtu mmoja hukumu imewafikia watu wote; kwa tendo la haki la kuhesabiwa haki kwa uzima mmoja hutolewa kwa wote."
+      },
+      {
+        "question": "Katika Warumi 8:1-17, ni tofauti gani inayounda maisha ya Kikristo?",
+        "options": [
+          "Utajiri dhidi ya Umaskini",
+          "Kuishi kwa kuufuata mwili (uletao mauti) na kuenenda kwa Roho (kuleta uzima, kufanywa wana na tumaini)",
+          "Myahudi dhidi ya Warumi pekee",
+          "Wazee dhidi ya vijana"
+        ],
+        "correct": 1,
+        "explanation": "Roho ya kufanywa wana inatufanya tulie 'Abba! Baba!' na hushuhudia kwa roho zetu kwamba sisi tu watoto na warithi wa Mungu."
+      },
+      {
+        "question": "Katika Warumi 12:1, Paulo anafafanuaje 'ibada ya busara/kiroho' ya waumini?",
+        "options": [
+          "Toeni mafahali na mbuzi",
+          "Itoeni miili yenu iwe dhabihu iliyo hai, takatifu, ya kumpendeza Mungu",
+          "Funga siku saba kwa mwezi",
+          "Jenga hekalu la mawe"
+        ],
+        "correct": 1,
+        "explanation": "Kwa kujibu rehema za Mungu (Warumi 1-11), maisha yote ya kila siku ya mwamini huwa ni sadaka iliyo hai."
+      },
+      {
+        "question": "Katika Wagalatia 3:24, Paulo analinganisha Sheria ya Musa na daraka gani la kale kabla ya kuja kwa imani?",
+        "options": [
+          "Hakimu mkatili",
+          "Mwalimu (mkufunzi/mwongozi) aliyetuongoza kwa Kristo",
+          "Mfalme wa milele",
+          "Hadithi rahisi"
+        ],
+        "correct": 1,
+        "explanation": "'Paidagogos' katika ulimwengu wa Wagiriki na Warumi walimsindikiza na kumsimamia mtoto huyo hadi alipokuwa mtu mzima; kuja kwa Kristo kunaanzisha enzi ya uwana kwa imani."
+      },
+      {
+        "question": "Katika Wagalatia 3:28 , ni vizuizi gani vitatu vya kijamii, kidini, na kitamaduni vinavyovunjwa ‘katika Kristo Yesu’?",
+        "options": [
+          "Tajiri, mtukufu, askari",
+          "Hakuna tena Myahudi wala Mgiriki, mtumwa wala huru, mwanamume wala mwanamke, wote ni mmoja katika Kristo Yesu",
+          "Wazee, mashemasi, maaskofu",
+          "Warumi, Waajemi, Wamisri"
+        ],
+        "correct": 1,
+        "explanation": "Bila kufuta tofauti zilizoundwa, Injili inawapa waamini wote hadhi sawa na ufikiaji sawa wa wokovu katika Kristo."
+      },
+      {
+        "question": "Katika Waefeso 2:8-10, neema, imani na matendo mema vina nafasi gani mtawalia?",
+        "options": [
+          "Kazi zinatuokoa kwanza",
+          "Tunaokolewa kwa neema kwa njia ya imani (zawadi ya Mungu, si kwa matendo), kufanya kazi nzuri zilizotayarishwa mapema",
+          "Imani na matendo ni bure",
+          "Neema inakuja baada ya sifa zetu"
+        ],
+        "correct": 1,
+        "explanation": "Matendo mema si mzizi bali ni tunda la wokovu lililopokelewa bure kwa neema."
+      },
+      {
+        "question": "Katika Wafilipi 3:7-8 , Paulo anazionaje sasa mapendeleo yake ya zamani ya kidini (kutahiriwa, Mfarisayo asiye na lawama)?",
+        "options": [
+          "Kama kiburi chake cha juu",
+          "Kama hasara na matope kwa ubora wa elimu ya Yesu Kristo",
+          "Kama nusu ya wokovu wake",
+          "Kama siri"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anakana haki yake mwenyewe kutoka kwa Sheria ili kupokea haki itokayo kwa Mungu kupitia imani katika Kristo."
+      },
+      {
+        "question": "Katika Wakolosai 1:15-17, Paulo anaelezeaje ukuu wa ulimwengu wa Kristo?",
+        "options": [
+          "Nabii rahisi wa kibinadamu",
+          "“Ni mfano wa Mungu asiyeonekana, mzaliwa wa kwanza wa viumbe vyote,” ambaye kupitia yeye na kwa ajili yake vitu vyote viliumbwa",
+          "Malaika aliyeumbwa baada ya Adamu",
+          "Mwanafalsafa wa Kigiriki"
+        ],
+        "correct": 1,
+        "explanation": "Wimbo huu wa Kikristo unathibitisha kwamba vitu vyote viko ndani ya Kristo na utimilifu wote unakaa ndani yake (Wakolosai 1:19)."
+      },
+      {
+        "question": "Katika 1 Wathesalonike 5:1-6 , Yesu na Paulo wanalinganisha ujio wa ghafula wa Siku ya Bwana na ulimwengu uliolala kwa taswira gani?",
+        "options": [
+          "Mfalme akitangaza safari yake mwaka mmoja kabla",
+          "Mwizi usiku",
+          "Mto tulivu",
+          "Kitabu kilichofungwa"
+        ],
+        "correct": 1,
+        "explanation": "Hii ndiyo sababu waumini, 'watoto wa nuru', wanaitwa kukesha na kuwa na kiasi."
+      },
+      {
+        "question": "Katika 1 Timotheo 2:5, Paulo anatoaje muhtasari wa upekee wa upatanishi kati ya Mungu na wanadamu?",
+        "options": [
+          "Kuna wapatanishi kadhaa wa kimalaika",
+          "\"Mungu ni mmoja, na mpatanishi kati ya Mungu na wanadamu ni mmoja, Mwanadamu Yesu Kristo.\"",
+          "Musa ndiye mpatanishi pekee",
+          "Kila kuhani ni mpatanishi"
+        ],
+        "correct": 1,
+        "explanation": "Mungu wa kweli na mwanadamu wa kweli, Yesu Kristo ndiye daraja pekee kati ya wanadamu na Mungu, akiwa amejitoa mwenyewe kuwa fidia kwa ajili ya wote."
+      },
+      {
+        "question": "Katika 2 Timotheo 4:7, ni sitiari gani yenye sehemu tatu ambayo Paulo anatumia ukingoni mwa kifo chake kuelezea uaminifu wake?",
+        "options": [
+          "Nilijenga mji",
+          "\"Nimevipiga vita vilivyo vizuri, mwendo nimeumaliza, Imani nimeilinda.\"",
+          "Nimeandika vitabu mia moja",
+          "Nilimshinda Roma"
+        ],
+        "correct": 1,
+        "explanation": "Sasa Paulo anangojea kwa uhakika ‘taji ya uadilifu’ ambayo Bwana, mwamuzi mwadilifu, atampa siku hiyo."
+      },
+      {
+        "question": "Katika Waebrania 4:14-16 , tunapata faraja gani kutokana na Yesu kuwa ‘kuhani wetu mkuu’?",
+        "options": [
+          "Yeye haelewi udhaifu wetu",
+          "Alijaribiwa katika mambo yote kama sisi, lakini bila dhambi—ili tuweze kukikaribia kiti cha neema kwa ujasiri.",
+          "Yeye hapatikani",
+          "Anadai dhabihu mpya za wanyama"
+        ],
+        "correct": 1,
+        "explanation": "Huruma ya Kristo aliyetukuzwa huwafungulia waamini upatikanaji wa rehema na usaidizi kwa wakati ufaao."
+      },
+      {
+        "question": "Katika Waebrania 12:1-2 , ni nani anayeitwa ‘kiongozi na mkamilishaji wa imani’?",
+        "options": [
+          "Ibrahimu",
+          "Musa",
+          "Yesu",
+          "Mwamba"
+        ],
+        "correct": 2,
+        "explanation": "Wakizungukwa na wingu kubwa la mashahidi, waamini wanakaza macho yao kwa Yesu ambaye alistahimili msalaba kwa mtazamo wa furaha ambayo alikuwa amewekewa yeye."
+      },
+      {
+        "question": "Katika Yakobo 3:1-12, Yakobo analinganisha ulimi wa mwanadamu na nini licha ya udogo wake?",
+        "options": [
+          "Kwa mlima tulivu",
+          "Kwa sehemu ya mdomo wa farasi, kwa usukani wa meli na kwa moto mdogo unaowasha msitu mkubwa.",
+          "Kwa mto wa amani",
+          "Kwa maua ya jangwa"
+        ],
+        "correct": 1,
+        "explanation": "Yakobo anakazia nguvu kubwa ya maneno ya kubariki au kuharibu, akiita ustadi kupitia hekima itokayo juu."
+      },
+      {
+        "question": "Katika 1 Petro 2:9, ni jina gani kutoka katika Kutoka (19:6) ambalo Petro analitumia kwa Kanisa zima?",
+        "options": [
+          "Watazamaji kimya",
+          "Mzao mteule, ukuhani wa kifalme, taifa takatifu, watu waliopatikana",
+          "Wanafalsafa wa Athene",
+          "Watumishi wa Hekalu la Mawe"
+        ],
+        "correct": 1,
+        "explanation": "Waumini wote wanaunda ukuhani wa kifalme unaoitwa kutangaza fadhila zake Yeye aliyewaita kutoka gizani hadi kwenye nuru yake ya kupendeza."
+      },
+      {
+        "question": "Katika 1 Yohana 1:8-9, Yohana anasema nini ikiwa mtu anadai kuwa hana dhambi?",
+        "options": [
+          "Anasema ukweli",
+          "Tunajidanganya wenyewe wala kweli haimo ndani yetu; lakini tukiziungama dhambi zetu, Mungu ni mwaminifu na wa haki hata atusamehe",
+          "Tayari yuko mbinguni",
+          "Yeye haitaji neema"
+        ],
+        "correct": 1,
+        "explanation": "Maisha ya Kikristo hayatokani na kujifanya kuwa mtu asiye na kasoro bali juu ya kuungama kwa dhati na kutakaswa kwa damu ya Yesu."
+      },
+      {
+        "question": "Katika 1 Yohana 4:1-3, ni mtihani gani wa kimafundisho unaoturuhusu kutambua Roho wa Mungu kutoka kwa roho ya mpinga-Kristo?",
+        "options": [
+          "Fanya miujiza ya ajabu",
+          "Kukiri kwamba Yesu Kristo alikuja katika mwili",
+          "Zungumza lugha kadhaa",
+          "Kuwa na mali nyingi"
+        ],
+        "correct": 1,
+        "explanation": "Dhidi ya makosa ya kabla ya Wagnostiki kukana umwilisho halisi, Yohana anaweka ukiri wa Yesu Kristo kuja katika mwili kama kigezo cha kuamua."
+      },
+      {
+        "question": "Katika Ufunuo 1:9-20 , mtume Yohana alikuwa wapi alipopokea maono ya Kristo aliyetukuzwa katikati ya vile vinara saba vya taa vya dhahabu?",
+        "options": [
+          "Katika Yerusalemu",
+          "Katika kisiwa cha Patmo, kwa sababu ya neno la Mungu na ushuhuda wa Yesu",
+          "Huko Roma gerezani",
+          "Katika Antiokia"
+        ],
+        "correct": 1,
+        "explanation": "Vinara saba vya dhahabu vinawakilisha Makanisa saba ya Asia Ndogo, na nyota saba katika mkono wake wa kulia ni malaika/wajumbe wao."
+      },
+      {
+        "question": "Katika Ufunuo 2-3, ni Kanisa gani linalosifiwa kwa upendo, imani, na uvumilivu licha ya umaskini wa mali (“Nyinyi ni tajiri!”)?",
+        "options": [
+          "Laodikia",
+          "Smirna",
+          "Sardi",
+          "Efeso"
+        ],
+        "correct": 1,
+        "explanation": "Smirna anastahimili mateso na umaskini bila kupokea shutuma yoyote kutoka kwa Yesu, ambaye anamuahidi taji ya uzima (Ufunuo 2:8-11)."
+      },
+      {
+        "question": "Katika Ufunuo 3:17, ni karipio gani kali ambalo Kristo analielekeza kwa Kanisa la Laodikia?",
+        "options": [
+          "Kwamba yeye ni maskini sana",
+          "Kwamba anadhani yeye ni tajiri na hahitaji chochote, hajui kuwa hana furaha, ana huzuni, maskini, kipofu na uchi.",
+          "Kwamba anafunga sana",
+          "Kwamba yeye huomba mara nyingi sana"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anamshauri kununua kutoka kwake dhahabu iliyojaribiwa kwa moto, mavazi meupe na dawa ya macho ili kuona vizuri (Ufunuo 3:18)."
+      },
+      {
+        "question": "Katika Ufunuo 5, ni nani peke yake anayepatikana anastahili kukifungua kitabu kilichofungwa kwa mihuri saba?",
+        "options": [
+          "Malaika Gabrieli",
+          "Simba wa kabila la Yuda / Mwanakondoo aliyechinjwa",
+          "Nabii Musa",
+          "Mmoja wa wazee ishirini na wanne"
+        ],
+        "correct": 1,
+        "explanation": "Akitangazwa kuwa Simba wa Yuda, anaonekana katika umbo la Mwana-Kondoo aliyechinjwa lakini amesimama, akistahili kwa damu yake ya ukombozi (Ufunuo 5:5-9)."
+      },
+      {
+        "question": "Katika Ufunuo 7:9 , ni nani wanaofanyiza ‘umati mkubwa ambao hakuna mtu angeweza kuuhesabu’ mbele ya kiti cha ufalme?",
+        "options": [
+          "Kabila tu",
+          "Watu kutoka kila taifa, kabila, jamaa na lugha, wamevaa mavazi meupe",
+          "Malaika tu",
+          "Wakazi wa Roma pekee"
+        ],
+        "correct": 1,
+        "explanation": "Maono haya yanatimiza ahadi iliyotolewa kwa Abrahamu kwa kuonyesha wokovu wa ulimwengu wote unaoadhimishwa mbinguni."
+      },
+      {
+        "question": "Katika Luka 10:38-42 , ni somo gani ambalo Yesu anampa Martha, akifadhaishwa na mahangaiko mengi, huku Mariamu akisikiliza miguuni pake?",
+        "options": [
+          "Kwamba kamwe usifanye kazi",
+          "Kwamba Mariamu alichagua 'sehemu njema, ambayo hataondolewa': kusikiliza Neno la Bwana kabla ya fadhaa yoyote.",
+          "Kwamba Marthe lazima aondoke nyumbani",
+          "Upikaji huo hauna maana"
+        ],
+        "correct": 1,
+        "explanation": "Yesu hapingi huduma na maombi, lakini anakumbuka kipaumbele kabisa cha kusikiliza kwa makini Neno lake."
+      },
+      {
+        "question": "Yesu alifanya muujiza gani siku ya Sabato ambao uliwakasirisha viongozi wa sinagogi kwenye Luka 13:10-17?",
+        "options": [
+          "Anamponya mwanamke ambaye amekuwa ameinama kwa miaka kumi na minane",
+          "Aligeuza maji kuwa divai",
+          "Alizidisha samaki",
+          "Alimfufua Lazaro"
+        ],
+        "correct": 0,
+        "explanation": "Yesu alitukumbusha kwamba tunamfungua ng'ombe au punda wetu siku ya sabato: si zaidi sana binti huyu wa Ibrahimu ambaye amefungwa miaka 18!"
+      },
+      {
+        "question": "Katika Yohana 20:24-29 , Yesu anatamka baraka gani baada ya Tomaso kumkiri 'Bwana wangu na Mungu wangu!' ?",
+        "options": [
+          "'Heri wale wanaogusa jeraha zangu'",
+          "Heri wale ambao hawajaona na kuamini!",
+          "“Heri waliobaki Yerusalemu”",
+          "'Heri wenye elimu'"
+        ],
+        "correct": 1,
+        "explanation": "Heri hii ya mwisho ya Injili inazungumza moja kwa moja kwa vizazi vyote vya waamini wanaoamini katika ushuhuda wa kitume."
+      },
+      {
+        "question": "Katika Luka 24:27 , Yesu aliyefufuliwa aliwaangaziaje wanafunzi wawili walioangushwa kwenye barabara ya kwenda Emau?",
+        "options": [
+          "Kwa maono ya malaika wenye silaha",
+          "Akianza na Musa na manabii wote, akawaeleza katika Maandiko yote mambo yaliyomhusu yeye mwenyewe",
+          "Kwa kuwapa dhahabu",
+          "Kwa kuwaonyesha Hekalu likiwa magofu"
+        ],
+        "correct": 1,
+        "explanation": "Mioyo ya wanafunzi iliwaka ndani yao alipowafungulia Maandiko, kisha wakamtambua alipoumega mkate (Luka 24:30-32)."
+      },
+      {
+        "question": "Ni mhusika gani katika kitabu cha Matendo aliuza shamba na kuleta bei miguuni pa mitume, akipokea jina la utani 'mwana wa kuhimizwa'?",
+        "options": [
+          "Anania",
+          "Yosefu (jina la utani Barnaba), Mlawi kutoka Kipro",
+          "Sauli wa Tarso",
+          "Sila"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 4:36-37 inamwonyesha Barnaba kama kielelezo cha ukarimu na kutia moyo katika Kanisa la kwanza."
+      },
+      {
+        "question": "Katika Matendo 17:23, ni madhabahu gani ya Athene ambayo Paulo alitumia kama jukwaa kumtangaza Mungu Muumba?",
+        "options": [
+          "Madhabahu ya Zeus",
+          "Madhabahu iliyoandikwa 'Kwa mungu asiyejulikana'",
+          "Madhabahu ya Artemi",
+          "Madhabahu ya Kaisari"
+        ],
+        "correct": 1,
+        "explanation": "Paulo aliondoka kwenye madhabahu hii ili kumtangaza Mungu aliyeufanya ulimwengu, ambaye hakai katika mahekalu yaliyofanywa kwa mikono na ambaye atahukumu kupitia Kristo aliyefufuka."
+      },
+      {
+        "question": "Katika Warumi 11:17-24 , ni taswira gani ya kitamaduni anayotumia Paulo kueleza kuunganishwa kwa waamini wasio Wayahudi katika watu wa Mungu?",
+        "options": [
+          "Mtini usiozaa",
+          "Matawi ya mzeituni mwitu yalipandikizwa kwenye mzeituni (Israeli) ili kuchangia utomvu wake",
+          "Mzabibu uliokatwa",
+          "Mwerezi kutoka Lebanoni"
+        ],
+        "correct": 1,
+        "explanation": "Sitiari hii inawaita Wakristo wa Mataifa kwenye unyenyekevu na utambuzi wa mizizi ya baba wa baba wa Israeli."
+      },
+      {
+        "question": "Katika 1 Wakorintho 12, Paulo analinganisha Kanisa na utofauti wa karama za kiroho na nini?",
+        "options": [
+          "Kwa jeshi la Warumi",
+          "Kwa mwili mmoja unaojumuisha washiriki kadhaa wenye kazi tofauti lakini zote muhimu",
+          "Katika shule ya falsafa",
+          "Kwa soko la kibiashara"
+        ],
+        "correct": 1,
+        "explanation": "Jicho haliwezi kuuambia mkono 'Sina haja nanyi': Roho huyohuyo anasambaza karama kwa manufaa ya wote (1 Wakorintho 12:7-27)."
       }
     ],
     "expert": [
@@ -1346,6 +2424,666 @@
         ],
         "correct": 1,
         "explanation": "'Katika Christô' (Matukio 160+): muungano wa fumbo, muhimu na halisi wa mwamini na Kristo aliyefufuka - msingi wa kuhesabiwa haki, kutakaswa, kupitishwa na kutukuzwa."
+      },
+      {
+        "question": "Katika theolojia ya Injili ya Yohana, maneno “saa ya Yesu” yanamaanisha nini (Yohana 2:4; 12:23; 13:1; 17:1)?",
+        "options": [
+          "Wakati wa kuzaliwa kwake",
+          "Saa ya kutukuzwa kwake kwa kifo chake msalabani, kufufuka kwake na kurudi kwake kwa Baba",
+          "Sabato ya Kiyahudi",
+          "Wakati wa uharibifu wa Roma"
+        ],
+        "correct": 1,
+        "explanation": "Katika Yohana, msalaba si kushindwa kufuatiwa na utukufu, lakini mahali pale ambapo Mwana 'ameinuliwa' na kutukuzwa (Yohana 12:23-33)."
+      },
+      {
+        "question": "Ni nini 'siri ya kimasihi' inayotambuliwa na wafafanuzi katika Injili ya Marko?",
+        "options": [
+          "Njama ya kisiasa ya Yuda",
+          "Maagizo ya mara kwa mara ya Yesu kwa mapepo, walioponywa, na wanafunzi wasifichue utambulisho wake kama Masihi kabla ya msalaba na ufufuo.",
+          "Kitabu kilichopotea cha Marc",
+          "Kundi la siri huko Galilaya"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anaepuka kutoelewana kwa umasihi wa utaifa wenye ushindi hadi utambulisho wake ufunuliwe msalabani (Marko 8:30; 15:39)."
+      },
+      {
+        "question": "Je, kuna umuhimu gani wa maungamo ya akida wa Kirumi chini ya msalaba katika Marko 15:39 ('Hakika mtu huyu alikuwa Mwana wa Mungu!')?",
+        "options": [
+          "Heshima rahisi ya kijeshi",
+          "Mkutano wa Kilele wa Kifasihi na Kitheolojia wa Marko: Mpagani Anatambua Utambulisho wa Kweli wa Yesu Wakati Haswa Anapokufa.",
+          "Hitilafu ya tafsiri",
+          "Mzaha kwa Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Injili iliyofunguliwa kwa “Injili ya Yesu Kristo, Mwana wa Mungu” (1:1) inafikia kilele kwa kinywa cha akida wa Kirumi kabla ya Kusulubiwa."
+      },
+      {
+        "question": "Katika Mathayo, ina maana gani kuweka mafundisho ya Yesu katika hotuba tano kuu (sura ya 5-7, 10, 13, 18, 24-25)?",
+        "options": [
+          "Sadfa bila nia",
+          "Ulinganifu wa mpangilio unaoonyesha Yesu kama Musa mpya na mkuu zaidi anayetoa Sheria ya Ufalme (kama vile vitabu 5 vya Pentateuch)",
+          "Siku 5 za wiki",
+          "Safari 5 za Paulo"
+        ],
+        "correct": 1,
+        "explanation": "Kila hotuba inamalizia kwa maneno ‘Yesu alipomaliza hotuba hizi...’ ( Mathayo 7:28; 11:1; 13:53; 19:1; 26:1 )."
+      },
+      {
+        "question": "Ni neno gani la Kiyunani lililotumiwa na Yesu katika Yohana 14:16 ('Parakletos') hurejelea Roho Mtakatifu?",
+        "options": [
+          "Nembo",
+          "Paraclete (Wakili, Mfariji, Mlinzi anayeitwa kando)",
+          "Kerygma",
+          "Didache"
+        ],
+        "correct": 1,
+        "explanation": "Msaidizi ndiye anayeitwa kwa upande wa mwamini kumsaidia, kumfundisha, kushuhudia na kushawishi ulimwengu (Yohana 14-16; 1 Yohana 2: 1 kwa Yesu)."
+      },
+      {
+        "question": "Je! ni tofauti gani kati ya 'kerygma' na 'didachè' katika masomo ya Agano Jipya?",
+        "options": [
+          "Hii ni miji miwili ya Ugiriki",
+          "Kerygma ni tangazo kuu la kimisionari la kifo na ufufuko wa Kristo; didache ni mafundisho ya kimaadili na kimafundisho yanayotolewa kwa waumini",
+          "Kerygma imehifadhiwa kwa AT",
+          "Didache anaashiria miujiza"
+        ],
+        "correct": 1,
+        "explanation": "C.H. Dodd ameonyesha kwamba mahubiri ya mitume ya Matendo na nyaraka zinashiriki msingi wa kawaida wa kerygmatic unaozingatia Pasaka."
+      },
+      {
+        "question": "Je, maneno 'eskatologia iliyozinduliwa' ('tayari na bado') yanamaanisha nini kuelezea mafundisho ya Yesu juu ya Ufalme wa Mungu?",
+        "options": [
+          "Kwamba Ufalme uko katika wakati ujao ulio mbali",
+          "Kwamba Ufalme tayari umezuka ndani ya mtu na kazi za Yesu ('ikiwa ni kwa kidole cha Mungu...'), huku ukingoja ukamilisho wake wa mwisho atakaporudi.",
+          "Kwamba Ufalme ulikuwa wa kisiasa tu katika mwaka wa 30",
+          "Kwamba ufufuo tayari umefanyika kwa kila mtu"
+        ],
+        "correct": 1,
+        "explanation": "Mvutano huu kati ya 'tayari' (Marko 1:15; Luka 11:20) na 'bado' (Mathayo 6:10; Ufu 11:15) inaendeshwa kote katika Agano Jipya."
+      },
+      {
+        "question": "Katika Warumi 1:16-17 , ni nini maana ya usemi 'haki ya Mungu' (dikaiosynê theou) kulingana na usomaji wa kitambo wa Matengenezo ya Kanisa na ufafanuzi wa kisasa?",
+        "options": [
+          "Ila adhabu ya wakosefu",
+          "Haki iokoayo ambayo Mungu hutoa bure kwa njia ya imani na uaminifu wa haki wa Mungu kwa agano lake katika Kristo",
+          "Haki ya mahakama za Kirumi",
+          "Sifa ya kimaadili inayopatikana na mwanadamu"
+        ],
+        "correct": 1,
+        "explanation": "Injili inafunua jinsi Mungu anavyobaki kuwa mwenye haki huku akiwahesabia haki wale walio na imani katika Yesu (Warumi 3:26)."
+      },
+      {
+        "question": "Je, ni nini maana ya wimbo unaowezekana wa kabla ya Paulo wa Wafilipi 2:6-11 ('katika umbo la Mungu', morphê theou)?",
+        "options": [
+          "Yesu alikuwa mwonekano wa kibinadamu tu",
+          "Aliyekuwepo hapo awali katika asili/hali ya kimungu (morphê theou), Kristo hakudai kuwa sawa na Mungu kama fursa ya wivu, bali alijinyenyekeza mpaka msalabani, akipokea jina la Bwana (Kyrios)",
+          "Yesu alifanyika mungu tu baada ya kifo chake",
+          "Malaika walimuumba Yesu"
+        ],
+        "correct": 1,
+        "explanation": "Matumizi ya Isaya 45:23 ('kila goti litapigwa') kwa Yesu katika mst.10-11 inathibitisha uungu wake kamili ulioshirikiwa na YHWH."
+      },
+      {
+        "question": "Katika Wakolosai 2:14-15, ni taswira gani ya kisheria na ya kijeshi ambayo Paulo anatumia kuelezea ushindi wa msalaba?",
+        "options": [
+          "Mkataba wa biashara",
+          "Kristo amefuta kitendo ambacho maagizo yake yalituhukumu kwa kuigongomelea msalabani, na amezivua enzi na mamlaka kwa kuzifanya kuwa tamasha hadharani.",
+          "Alimlipa Shetani fidia",
+          "Alijenga ngome"
+        ],
+        "correct": 1,
+        "explanation": "Msalaba ambao ulionekana kuwa ushindi wa nguvu za uadui unakuwa gari la ushindi la Mungu linalofichua kushindwa kwao."
+      },
+      {
+        "question": "Katika 1 Wakorintho 15:3-5 , wanahistoria wa Agano Jipya wanatoa hadhi gani kwa maneno 'Kristo alikufa kwa ajili ya dhambi zetu kulingana na Maandiko, alizikwa, alifufuka siku ya tatu...'?",
+        "options": [
+          "Uvumbuzi wa marehemu kutoka karne ya 2",
+          "Imani ya awali iliyopokelewa na Paulo muda mfupi sana baada ya kusulubishwa (kutoka miaka 30-35 BK)",
+          "Nukuu kutoka kwa Plato",
+          "Maandishi ya apokrifa ya Kinostiki"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anatumia vitenzi vya kiufundi vya marabi 'pokea' (paralambanô) na 'sambaza' (paradidômi), akithibitisha ukale wa imani ya Pasaka."
+      },
+      {
+        "question": "Nini maana ya 'mtazamo mpya juu ya Paul' (Sanders, Dunn, Wright) katika masomo ya kisasa ya Pauline?",
+        "options": [
+          "Paulo angemkataa Yesu",
+          "Anashikilia kwamba Uyahudi wa karne ya 1 ulikuwa ni 'kuteuliwa kwa agano' kwa msingi wa neema, na kwamba 'matendo ya sheria' hasa yanalenga alama za utambulisho (tohara, Sabato, sheria za chakula) bila kuwajumuisha wapagani.",
+          "Paulo hakuandika waraka wowote",
+          "Paulo alikuwa mwanafalsafa wa Stoiki"
+        ],
+        "correct": 1,
+        "explanation": "Huku ikiibua mijadala kwa usomaji wa kawaida wa Marekebisho, mbinu hii imeboresha uelewa wa muktadha wa Kiyahudi wa Wagalatia na Warumi."
+      },
+      {
+        "question": "Katika Warumi 7:14-25 ('Sitendi jema nitakalo...'), ni masomo gani mawili makuu ya utambulisho wa 'Mimi' (Egô)?",
+        "options": [
+          "Adamu pekee Peponi",
+          "Ama mwanadamu chini ya Sheria bila nguvu za Roho (ufafanuzi wengi wa hivi majuzi), au mapambano ya ndani ya Mkristo aliyezaliwa upya (Augustine, Reformation)",
+          "Malaika aliyeanguka",
+          "Mfalme Nero"
+        ],
+        "correct": 1,
+        "explanation": "Tofauti kati ya Warumi 7 (utumwa chini ya Sheria) na Warumi 8 (uhuru katika Roho) inafahamisha mjadala huu wa kifafanuzi."
+      },
+      {
+        "question": "Katika Wagalatia 2:11-14, kwa nini Paulo anampinga hadharani Petro (Kefa) huko Antiokia?",
+        "options": [
+          "Kwa swali la pesa",
+          "Kwa sababu Petro, kwa kuogopa watu waliotahiriwa waliokuwa wakitoka Yerusalemu, aliacha kula pamoja na Wakristo wasio Wayahudi, akiivunja ‘kweli ya Injili’.",
+          "Kwa sababu Petro alitaka kwenda Rumi",
+          "Kwa chaguo la askofu"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anaonyesha kwamba kuhesabiwa haki kwa imani pekee kunakataza utengano wowote wa meza kati ya waumini wa Kiyahudi na wa Mataifa."
+      },
+      {
+        "question": "Je, muundo wa fasihi wa kiasmatiki au mada wa waraka kwa Waebrania ni upi?",
+        "options": [
+          "Orodha rahisi ya majina",
+          "'Neno la kuonya' linalobadilishana mawasilisho ya Kikristo (ukuu wa Kristo juu ya malaika, Musa, Haruni na dhabihu) na maonyo mazito dhidi ya uasi.",
+          "Hesabu ya Kronolojia ya Maisha ya Paulo",
+          "Barua ya kibinafsi kwa mfalme"
+        ],
+        "correct": 1,
+        "explanation": "Waebrania huchanganya Christology ya ukuhani mkuu na vifungu vitano vya onyo vinavyowahimiza wasomaji kudumu katika imani."
+      },
+      {
+        "question": "Katika Waebrania 6:4-6 na 10:26, ni hatari gani mahususi ambayo mwandishi anawaonya wapokeaji wake?",
+        "options": [
+          "Kula vyakula fulani",
+          "Uasi wa kimakusudi - kukataa hadharani dhabihu moja ya Kristo na kurudi kwenye ibada za kale, bila kuacha dhabihu nyingine kwa ajili ya dhambi.",
+          "Ndoa",
+          "Kusafiri baharini"
+        ],
+        "correct": 1,
+        "explanation": "Katika mazingira ya mateso, wengine walijaribiwa kuiacha imani ya Kikristo ili kupata usalama wa Dini ya Kiyahudi unaotambuliwa na Rumi."
+      },
+      {
+        "question": "Nini maana ya neno 'hypostasis' (ὑπόστασις) katika Waebrania 1:3 ('chapa ya mtu/kitu') na 11:1 ('uhakikisho thabiti')?",
+        "options": [
+          "Kivuli rahisi",
+          "Katika 1:3, inataja hali halisi ya Mungu ambayo Mwana ndiye chapa yake; katika 11:1, uhakikisho thabiti wa bidhaa zinazotarajiwa",
+          "Hitilafu ya mnakili",
+          "Neno la kijeshi la Kirumi"
+        ],
+        "correct": 1,
+        "explanation": "Waebrania 1:3 ilichukua jukumu muhimu katika ukuzaji wa Ukristo wa Utatu wa mabaraza ya kwanza."
+      },
+      {
+        "question": "Je, waraka wa Yakobo (2:24: 'mtu huhesabiwa haki kwa matendo, wala si kwa imani tu') unapatana na Paulo (Warumi 3:28)?",
+        "options": [
+          "Wanapingana uso kwa uso",
+          "Paulo anapiga vita kushika sheria (kustahili wokovu mbele za Mungu bila imani katika Kristo); Yakobo anapigana na imani iliyokufa na ya maneno tu (akionyesha uhalisi wa imani yake kupitia matendo)",
+          "Yakobo anazungumza juu ya Yesu mwingine",
+          "Paulo anakataa maadili yote"
+        ],
+        "correct": 1,
+        "explanation": "Paulo na Yakobo wanatumia 'kuhalalisha' na 'imani' kutoka pembe mbili zinazokamilishana: moja inazungumza juu ya msingi wa wokovu, na nyingine ya uthibitishaji wake hai."
+      },
+      {
+        "question": "Katika 1 Petro 3:18-20, ni tafsiri gani inayojadiliwa zaidi ya mahubiri ya Kristo 'kwa roho waliofungwa'?",
+        "options": [
+          "Safari ya Mars",
+          "Ama tangazo la Roho kupitia Nuhu kwa watu wa wakati wa gharika, au tangazo la ushindi wa Kristo kwa nguvu/roho zilizoanguka baada ya kifo chake.",
+          "Nafasi ya pili ya ulimwengu baada ya kifo imethibitishwa wazi",
+          "Ndoto ya Petro huko Yopa"
+        ],
+        "correct": 1,
+        "explanation": "Kifungu kinasalia kuwa mojawapo ya maandiko yaliyojadiliwa zaidi ya Agano Jipya, lakini kusudi lake la kichungaji liko wazi: kuwatia moyo Wakristo wanaoteswa kupitia ushindi kamili wa Kristo (mstari 22)."
+      },
+      {
+        "question": "Katika 2 Petro 3:8-10, mtume anawajibuje wenye dhihaka wanaotilia shaka kurudi kwa Kristo (“iko wapi ahadi ya kuja kwake?”)?",
+        "options": [
+          "Kwa kuweka tarehe maalum",
+          "Tukikumbuka gharika iliyopita, kwamba mbele za Bwana siku moja ni kama miaka elfu, na kwamba 'kukawia' huko ni uvumilivu wa Mungu akipenda kwamba mtu yeyote asiangamie.",
+          "Kwa kukataa mwisho wa dunia",
+          "Kusema kwamba kurudi tayari kumefanyika kwa siri"
+        ],
+        "correct": 1,
+        "explanation": "Uvumilivu wa Mungu ni neema ya kimisionari inayoruhusu muda wa toba kabla ya kufanywa upya kwa moto."
+      },
+      {
+        "question": "Je, kuna uhusiano gani wa karibu wa kifasihi kati ya waraka wa Yuda na sura ya 2 ya waraka wa 2 wa Petro?",
+        "options": [
+          "Hakuna kiungo",
+          "Wanashiriki nyenzo na picha zinazofanana dhidi ya madaktari wa uwongo wa uhuru (k.m. mmoja labda alihamasishwa na mwingine au chanzo cha kawaida)",
+          "Yuda ananakili Warumi",
+          "2 Petro ananakili Apocalypse"
+        ],
+        "correct": 1,
+        "explanation": "Wasomi wengi wanaamini kwamba 2 Petro 2 ilitoholewa na kutumia tena Yuda kwa kuacha manukuu yake kutoka kwenye apokrifa ya Kiyahudi (1 Enoch, Kupalizwa kwa Musa)."
+      },
+      {
+        "question": "Nini maana ya neno 'koinônia' (κοινωνία) katika Agano Jipya (Matendo 2:42; 2 Kor 13:13; 1 Yohana 1:3)?",
+        "options": [
+          "Chakula rahisi cha kirafiki",
+          "Ushirika/ushirikiano wa kina na wa kuheshimiana na Mungu (Baba, Mwana, Roho) na kati ya waumini, unaohusisha kugawana mali na mshikamano wa kiroho.",
+          "Kodi ya kifalme",
+          "Cheo cha ukuhani"
+        ],
+        "correct": 1,
+        "explanation": "Koinônia inaeleza kushiriki kwa maisha mapya katika Kristo, hadi kukusanya fedha kwa ajili ya maskini wa Yerusalemu (Warumi 15:26)."
+      },
+      {
+        "question": "Katika Yohana 1:1 ('Hapo mwanzo kulikuwa na Logos... na Logos alikuwa Mungu'), ni nuance gani ya kisarufi inayobainisha ujenzi bila makala 'theos ên ho logos'?",
+        "options": [
+          "Kwamba kuna miungu miwili",
+          "Kwamba Logos anamiliki kikamilifu asili ya kimungu (ubora) huku akibaki tofauti na nafsi ya Baba ('karibu na Mungu')",
+          "Kwamba Logos ni kiumbe rahisi",
+          "Kwamba Mungu ameacha kuwepo"
+        ],
+        "correct": 1,
+        "explanation": "Kutokuwepo kwa kifungu kabla ya 'theos' (kanuni ya Colwell) huepusha modalism (kuchanganya Baba na Mwana) huku ikithibitisha uungu wa kweli wa Neno."
+      },
+      {
+        "question": "Katika Yohana 1:14 ('Naye Neno alifanyika mwili, akakaa kwetu'), ni kitenzi gani cha Kiyunani kinarejelea Agano la Kale?",
+        "options": [
+          "Ubatizo",
+          "Eskênôsen ('alipiga hema/hema yake' kati yetu), akiibua hema ya kukutania na utukufu wa Mungu (Shekinah)",
+          "Agapao",
+          "Didasko"
+        ],
+        "correct": 1,
+        "explanation": "Ndani ya Yesu, uwepo wa utukufu wa Mungu uliokaa katika hema la kukutania unakuja kukaa kimwili katikati ya wanadamu."
+      },
+      {
+        "question": "Nini maana ya usemi 'Kuzaliwa mara ya pili/kutoka juu' (gennêthênai anôthen) katika mazungumzo na Nikodemo (Yohana 3:3)?",
+        "options": [
+          "Kuzaliwa upya tu",
+          "Neno la Kigiriki 'anôthen' linamaanisha 'tena' na 'kutoka juu' - maana mbili iliyotumiwa na Yohana kutaja kuzaliwa kiroho kutoka kwa Mungu.",
+          "Umwagaji wa kila siku wa ibada",
+          "Mabadiliko ya utaifa"
+        ],
+        "correct": 1,
+        "explanation": "Nikodemo anafahamu maana ya muda tu ('kuingia tumboni mwa mama yake mara ya pili'), huku Yesu anazungumza kuhusu kuzaliwa 'kutoka juu' kwa Roho."
+      },
+      {
+        "question": "Katika Yohana 19:30, ni neno gani moja la Kiyunani ambalo Yesu anazungumza pale msalabani ('Imekwisha')?",
+        "options": [
+          "Amina",
+          "Tetelestai (wakati kamili wa kitenzi teleô: kukamilika kikamilifu, kulipwa kikamilifu, na athari ya kudumu)",
+          "Maranatha",
+          "Hosana"
+        ],
+        "correct": 1,
+        "explanation": "Katika risiti za zamani za kibiashara, 'tetelestai' ilimaanisha 'kulipwa kikamilifu'; Yesu anatangaza kukamilishwa kikamilifu kwa kazi ya ukombozi."
+      },
+      {
+        "question": "Katika Luka 15, ni uzi gani wa kawaida unaounganisha mifano mitatu (kondoo aliyepotea, sarafu iliyopotea, mwana mpotevu)?",
+        "options": [
+          "Umuhimu wa pesa",
+          "Furaha ya Mungu kutafuta na kumkaribisha mwenye dhambi aliyetubu—kwa kujibu manung’uniko ya Mafarisayo na waandishi (Luka 15:1-2).",
+          "Adhabu ya wachungaji",
+          "Sheria za Hekalu"
+        ],
+        "correct": 1,
+        "explanation": "Kila mfano unafikia kilele cha mwito wa kushiriki furaha ya mbinguni mbele ya mwenye dhambi mmoja anayetubu, akimwita kaka mkubwa (Mafarisayo)."
+      },
+      {
+        "question": "Je! ni jukumu gani la 'utangulizi wa Luka' (Luka 1:1-4) katika muktadha wa historia ya Wagiriki na Warumi?",
+        "options": [
+          "Sala ya kishairi",
+          "Utaratibu rasmi wa kujitolea kwa Théophile unaothibitisha uchunguzi mkali wa mashahidi wa macho ili kuhakikisha uthabiti wa mafundisho yaliyopokelewa.",
+          "Orodha ya nasaba",
+          "Zaburi ya Kiebrania"
+        ],
+        "correct": 1,
+        "explanation": "Luka anatumia Kigiriki makini cha fasihi kulinganishwa na dibaji za wanahistoria wa kale kama Thucydides au Polybius."
+      },
+      {
+        "question": "Katika Matendo 15, ni mambo gani manne ya kujiepusha ambayo Amri ya Kitume ya Yerusalemu inakubali kuwezesha ushirika kati ya Wakristo wa Kiyahudi na Wasio Wayahudi?",
+        "options": [
+          "Sabato, Tohara, Divai na Nyama",
+          "Nyama iliyotambikiwa sanamu, damu, wanyama walionyongwa na uasherati (uasherati)",
+          "Biashara, kijeshi, kodi na ndoa",
+          "Kufunga, kusafiri, kusoma na kuimba"
+        ],
+        "correct": 1,
+        "explanation": "Bila kulazimisha tohara au nira ya Sheria kwa ajili ya wokovu, baraza linaomba mambo haya yenye kutumika kuhusiana na Mambo ya Walawi 17-18 ."
+      },
+      {
+        "question": "Katika Warumi 9-11, ni suala gani kuu la kitheolojia ambalo Paulo anazungumzia baada ya kuinua uhakikisho wa wokovu katika Warumi 8?",
+        "options": [
+          "Jinsi ya kulipa kodi kwa Kaisari",
+          "Jinsi ya kupatanisha ahadi za uaminifu za Mungu kwa Israeli na ukweli kwamba wengi wa Israeli walimkataa Masihi wao.",
+          "Jinsi ya kujenga kanisa huko Roma",
+          "Jinsi ya kusherehekea Pasaka"
+        ],
+        "correct": 1,
+        "explanation": "Ikiwa neno la Mungu lilionekana kushindwa kwa Israeli, waamini wa Rumi wangewezaje kuamini Warumi 8? Paulo anaonyesha kwamba uaminifu wa Mungu unabaki thabiti."
+      },
+      {
+        "question": "Katika 1 Wakorintho 1-4, ni nini mzizi wa kina wa migawanyiko katika Kanisa la Korintho?",
+        "options": [
+          "Kutokubaliana juu ya tarehe ya Pasaka",
+          "Kushikamana na viongozi (Paulo, Apolo, Kefa) kuchochewa na utaftaji wa 'hekima ya kibinadamu' na heshima ya kijamii badala ya wazimu wa msalaba.",
+          "Vita vya wenyewe kwa wenyewe huko Korintho",
+          "Umaskini uliokithiri"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anatofautisha usemi wa kilimwengu na 'neno la msalaba', nguvu na hekima ya Mungu ambayo inaangusha kiburi cha mwanadamu."
+      },
+      {
+        "question": "Katika 1 Wakorintho 8-10, ni kanuni gani ya kimaadili ambayo Paulo anatunga kuhusu nyama zilizotolewa dhabihu kwa sanamu?",
+        "options": [
+          "Kula kila kitu bila wasiwasi juu ya mtu yeyote",
+          "Uhuru wa Kikristo (“mambo yote yanaruhusiwa, lakini si yote yanajenga”) ni lazima uongozwe na upendo kwa ndugu aliye dhaifu ambaye dhamiri yake inaweza kujeruhiwa.",
+          "Usizungumze kamwe na wasioamini",
+          "Rudi chini ya Sheria ya Musa"
+        ],
+        "correct": 1,
+        "explanation": "Haitoshi kujua kwamba sanamu si kitu: ujuzi hutukuza, bali upendo hujenga (1 Wakorintho 8:1)."
+      },
+      {
+        "question": "Katika 2 Wakorintho 3:6 ('herufi huua, bali Roho huhuisha'), 'herufi' ina maana gani hasa katika muktadha?",
+        "options": [
+          "Usomaji wowote halisi wa Biblia",
+          "Agano la kale lililoandikwa katika jiwe (Sheria isiyo na moyo mpya) ambayo inamhukumu mwenye dhambi, kinyume na huduma ya agano jipya kwa Roho.",
+          "Alfabeti ya Kigiriki",
+          "Barua za Paulo zenyewe"
+        ],
+        "correct": 1,
+        "explanation": "Paulo hatishii maandiko ya Biblia lakini analinganisha huduma ya hukumu ya Sinai na huduma ya kuhesabiwa haki kwa Roho."
+      },
+      {
+        "question": "Katika Waefeso 1:3-14, ni kipengele gani cha kisarufi na kitheolojia katika kifungu cha ufunguzi?",
+        "options": [
+          "Ina sentensi 12 fupi sana",
+          "Ni sentensi moja ndefu (eulogy) katika Kigiriki yenye maneno 202 ya kumbariki Mungu kulingana na muundo wa utatu (uchaguzi wa Baba, ukombozi wa Mwana, muhuri kwa Roho)",
+          "Ni mazungumzo na Timothée",
+          "Imeandikwa kwa Kiebrania"
+        ],
+        "correct": 1,
+        "explanation": "Kila sehemu ya baraka hii inafikia kilele kwa kujizuia 'katika sifa ya utukufu wa neema yake' / 'katika sifa ya utukufu wake'."
+      },
+      {
+        "question": "Katika Waefeso 5:21-33, Paulo anawekaje maadili ya ndoa ya Kikristo?",
+        "options": [
+          "Juu ya sheria za Kirumi za patria potestas",
+          "Juu ya 'fumbo kuu' la muungano kati ya Kristo na Kanisa: mume aliita kumpenda mke wake kama Kristo alivyolipenda Kanisa na kujitoa kwa ajili yake.",
+          "Juu ya ubora wa kitamaduni wa Uigiriki",
+          "Juu ya maslahi ya kiuchumi"
+        ],
+        "correct": 1,
+        "explanation": "Ikitanguliwa na ‘kunyenyekeana katika kicho cha Kristo’ (mstari 21), andiko hilo linabadilisha kwa kiasi kikubwa kanuni za familia za kale kupitia upendo wa dhabihu."
+      },
+      {
+        "question": "Katika 1 Wathesalonike 4:13-18, kwa nini Paulo anaandika kuhusu ufufuo na unyakuo?",
+        "options": [
+          "Kutoka kwa udadisi safi wa kubahatisha",
+          "Kuwafariji waamini walio na wasiwasi juu ya ndugu zao waliokufa kabla ya kurudi kwa Bwana, na kuwahakikishia kwamba hawatakuwa na hasara.",
+          "Ili kurekebisha mwaka wa 60 BK. AD",
+          "Kupiga marufuku mazishi"
+        ],
+        "correct": 1,
+        "explanation": "'Kwa hiyo farijianeni kwa maneno haya' (mstari 18): kwanza wafu katika Kristo watafufuliwa, na kisha wote watakuwa pamoja na Bwana milele."
+      },
+      {
+        "question": "Katika 1 Timotheo 3 na Tito 1, ni maneno gani yanayoweza kubadilishana yanayorejelea viongozi wa mahali wa Kanisa la mitume?",
+        "options": [
+          "Papa na makadinali",
+          "Presbyters/wazee (presbyteroi) na maaskofu/waangalizi (episkopoi), wakisaidiwa na mashemasi (diakonoi)",
+          "Walawi na makuhani",
+          "Mitume Wasafiri pekee"
+        ],
+        "correct": 1,
+        "explanation": "Katika Tito 1:5-7 na Matendo 20:17,28, 'mzee' na 'askofu/mwangalizi' tena hutaja kazi ile ile ya pamoja ya uongozi wa kichungaji."
+      },
+      {
+        "question": "Katika Tito 2:11-14, Paulo anatoaje muhtasari wa uhusiano kati ya neema inayoonekana, maadili ya sasa, na tumaini la wakati ujao?",
+        "options": [
+          "Neema inaachana na maadili yote",
+          "Neema iokoayo 'inatufundisha kukataa uovu...",
+          "Matarajio ya siku zijazo tu ndio yanahesabiwa",
+          "Neema ni kwa wazee tu"
+        ],
+        "correct": 1,
+        "explanation": "Neema ya kimungu ni chanzo cha msamaha (mwonekano wa kwanza) na mafundisho ya utakatifu hadi kuonekana kwa utukufu wa Kristo."
+      },
+      {
+        "question": "Nini maana ya neno la Kiyunani 'anathema' lililotumiwa na Paulo katika Wagalatia 1:8-9 na Warumi 9:3?",
+        "options": [
+          "Karipio rahisi la kirafiki",
+          "Kile ambacho kimekusudiwa kuadhibiwa au kulaaniwa/kutengwa na Mungu (sawa na 'herem' ya LXX)",
+          "Baraka ya kikuhani",
+          "Wimbo wa kiliturujia"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anatangaza laana kwa yeyote anayehubiri injili nyingine yoyote isipokuwa ile ya neema, na anaonyesha katika Warumi 9:3 upendo wake mwingi kwa Israeli."
+      },
+      {
+        "question": "Katika Warumi 16:7 , Androniko na Yunia waliotajwa na Paulo ni akina nani wakiwa na cheo mashuhuri cha ‘kuzingatiwa miongoni mwa mitume’?",
+        "options": [
+          "Magavana wawili wa Kirumi",
+          "Wanandoa (pamoja na Junia, jina la kwanza la kike) waliongoka mbele ya Paulo na kuheshimiwa miongoni mwa mitume/watu waliotumwa.",
+          "Maadui wawili wa Paulo huko Efeso",
+          "Askari wawili kutoka Kaisaria"
+        ],
+        "correct": 1,
+        "explanation": "Mababa wa Kanisa (pamoja na John Chrysostom) walimtambua Junia kama mwanamke wa ajabu katika mzunguko mpana wa mitume/wamisionari."
+      },
+      {
+        "question": "Katika 2 Wakorintho 8–9, ni kanuni gani za kiroho ambazo Paulo anafundisha kuhusu kukusanya kwa ajili ya watakatifu huko Yerusalemu?",
+        "options": [
+          "Ushuru wa lazima wa 30%",
+          "Ukarimu wa hiari, wa furaha ('Mungu huwapenda wale watoao kwa furaha'), sawia na njia, kama ishara ya usawa wa kiroho na kimwili.",
+          "Toa kununua nafasi za mamlaka",
+          "Okoa yote kwa ajili ya Korintho"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anaweka msingi huu wa ukarimu juu ya neema ya Kristo ambaye, ‘ijapokuwa alikuwa tajiri, alifanyika maskini kwa ajili yenu, ili kwamba kwa umaskini wake ninyi mpate utajiri’ (2 Wakor 8:9)."
+      },
+      {
+        "question": "Katika Ufunuo, nambari inayorudiwa mara kwa mara '7' inamaanisha nini (Makanisa 7, roho 7, mihuri 7, baragumu 7, bakuli 7)?",
+        "options": [
+          "Nambari ya bahati ya kipagani",
+          "Ishara ya kibiblia ya utimilifu wa kimungu, ukamilifu na ukamilifu",
+          "Idadi ya miaka ya utawala wa Nero",
+          "Idadi ya mitume"
+        ],
+        "correct": 1,
+        "explanation": "Kwa hiyo 'Makanisa saba' yanawakilisha jumuiya zote za kihistoria za Asia Ndogo na Kanisa zima kwa ujumla wake."
+      },
+      {
+        "question": "Katika Ufunuo, tunawezaje kufasiri 'miaka 1000' (Ufunuo 20) kulingana na milenia, premilenia na baada ya milenia?",
+        "options": [
+          "Wote wanasema kitu kimoja",
+          "Milenia: enzi ya sasa ya Kanisa kati ya ujio wa 1 na wa 2; Kabla ya Milenia: utawala wa kidunia wa miaka 1000 baada ya kurudi kwa Kristo; Baada ya Milenia: enzi ya dhahabu ya Injili kabla ya kurudi",
+          "Nakala inazungumza juu ya siku 1000 tu",
+          "Hakuna mtu anayetoa maoni juu ya sura hii"
+        ],
+        "correct": 1,
+        "explanation": "Shule hizi tatu zinashiriki imani ya pamoja katika kurudi binafsi kwa Kristo, ufufuo wa jumla na hukumu ya mwisho."
+      },
+      {
+        "question": "Katika Ufunuo 13:18, nambari '666' (idadi ya mwanadamu) inawakilisha nini kulingana na gematria ya zamani ya kawaida?",
+        "options": [
+          "Nambari Kamilifu ya Mungu",
+          "Kutokamilika mara tatu (chini ya 7 ya kimungu) na, kwa wanahistoria wengi, thamani ya nambari ya Kiebrania ya 'Neron Qesar' (Nero Caesar)",
+          "Idadi ya malaika",
+          "Tarehe ya uumbaji"
+        ],
+        "correct": 1,
+        "explanation": "Katika Kiebrania, herufi za 'Neron Qesar' ni 666 (na 616 zenye 'Nero Qesar' bila 'n' ya mwisho, lahaja iliyothibitishwa katika hati fulani)."
+      },
+      {
+        "question": "Katika Ufunuo 21-22, kwa nini ‘hakuna hekalu’ katika Yerusalemu Mpya?",
+        "options": [
+          "Kwa sababu wakazi hawaamini Mungu",
+          "'Kwa maana Bwana Mungu Mwenyezi ni hekalu lake, na Mwana-Kondoo' - upatanishi wa mfano watoa nafasi kwa ushirika wa moja kwa moja",
+          "Kwa sababu nyenzo hazipo",
+          "Kwa sababu hekalu linabaki Roma"
+        ],
+        "correct": 1,
+        "explanation": "Mji mzima unachukua sura ya ujazo wa Patakatifu pa Patakatifu (21:16), ikimaanisha kwamba viumbe vyote vilivyofanywa upya vinakuwa makao ya karibu ya Mungu."
+      },
+      {
+        "question": "Katika Yohana 17:20-23, ni nini umuhimu wa kimisionari wa sala ya Yesu kwa ajili ya umoja wa waumini?",
+        "options": [
+          "Usawa wa kiutawala wa kulazimishwa",
+          "Wote wawe kitu kimoja kama vile Baba na Mwana walivyo umoja, 'ili ulimwengu upate kusadiki kwamba ndiwe uliyenituma.'",
+          "Mapumziko mbali na ulimwengu",
+          "Kuunganishwa na Dola ya Kirumi"
+        ],
+        "correct": 1,
+        "explanation": "Umoja wa kiroho unaoonekana katika upendo kati ya wanafunzi unajumuisha ushuhuda wenye nguvu zaidi wa asili ya kiungu ya Kristo."
+      },
+      {
+        "question": "Katika Mathayo 16:18-19, maneno ‘milango ya kuzimu (Hadesi) haitalishinda’ inamaanisha nini?",
+        "options": [
+          "Kwamba Kanisa litashambulia kimwili makaburi",
+          "Milango inawakilisha ngome za mauti na uovu: haitaweza kupinga maendeleo ya Kanisa wala kuwashikilia washiriki wake katika kifo.",
+          "Kwamba Pierre hatakufa kamwe",
+          "Rumi hiyo haitaanguka kamwe"
+        ],
+        "correct": 1,
+        "explanation": "Katika nyakati za kale, milango ilikuwa miundo ya ulinzi: Kanisa lililojengwa na Kristo lilizingira na kuushinda ufalme wa kifo."
+      },
+      {
+        "question": "Katika Luka 16:19–31 (tajiri na Lazaro), ni hitimisho gani ambalo Abrahamu anapata kuhusu utoshelevu wa Maandiko?",
+        "options": [
+          "Kwamba mtu aliyefufuliwa daima atawashawishi kila mtu",
+          "\"Kama wasipowasikiliza Musa na manabii, hawatashawishwa hata kama akifufuka kutoka kwa wafu.\"",
+          "Utajiri uhakikishe mbinguni",
+          "Kwamba Lazaro alikuwa mfalme"
+        ],
+        "correct": 1,
+        "explanation": "Mfano huo unaonyesha kutoweza kutenduliwa kwa hukumu baada ya kifo na kwamba imani ya kweli huzaliwa kutokana na kusikiliza Neno la Mungu."
+      },
+      {
+        "question": "Katika Mathayo 12:31-32, 'kumkufuru Roho Mtakatifu' ni nini katika muktadha wake wa karibu?",
+        "options": [
+          "shaka kupita kawaida",
+          "Ugumu ulio wazi na wenye kudumu wa Mafarisayo wakijua kwamba Beelzebuli (Shetani) ni kazi dhahiri ya Roho wa Mungu iliyokamilishwa na Yesu.",
+          "Kusahau maombi",
+          "Uliza swali gumu"
+        ],
+        "correct": 1,
+        "explanation": "Yule ambaye kwa makusudi anakataa chanzo chenyewe cha nuru na msamaha kwa kukiita cha pepo kwa hiari anajifungia toba."
+      },
+      {
+        "question": "Katika Matendo 2:42, ni zipi nguzo nne za maisha ya kanisa la kwanza huko Yerusalemu?",
+        "options": [
+          "Siasa, utajiri, usanifu, jeshi",
+          "Mafundisho ya mitume, ushirika, kuumega mkate na maombi",
+          "Dhabihu za wanyama, safari za kwenda Roma, kufunga kila mwaka na falsafa",
+          "Upweke kabisa"
+        ],
+        "correct": 1,
+        "explanation": "Matendo haya manne ya kawaida yaliunda mdundo wa kiroho na wa jamii wa waumini wa kwanza."
+      },
+      {
+        "question": "Katika 1 Yohana 2:1-2, Yohana anaelezaje mwito wa kutotenda dhambi na tumaini katika tukio la kuanguka?",
+        "options": [
+          "Mtu akitenda dhambi, yote yamepotea",
+          "Nimewaandikia ninyi mambo haya ili kwamba msitende dhambi. Na kama mtu akitenda dhambi tunaye Mwombezi kwa Baba, Yesu Kristo mwenye haki.",
+          "Dhambi haipo tena",
+          "Wana-kondoo lazima watolewe"
+        ],
+        "correct": 1,
+        "explanation": "Yesu Kristo ndiye Mwombezi wetu kwa Baba na mhasiriwa wa upatanisho (hilasmos) kwa dhambi zetu na za ulimwengu mzima."
+      },
+      {
+        "question": "Katika Warumi 6:1-14, kwa nini Paulo anakataa wazo la ‘kukaa katika dhambi ili neema izidi kuwa nyingi’?",
+        "options": [
+          "Kwa sababu neema ina mipaka",
+          "Kwa sababu kupitia ubatizo na kuunganishwa na Kristo, mwamini amekufa kwa dhambi na kufufuka ili kutembea katika upya wa uzima.",
+          "Kwa sababu Sheria ya Musa bado inaokoa",
+          "Kwa sababu Malaika wamekataza"
+        ],
+        "correct": 1,
+        "explanation": "Neema haiweki huru kutenda dhambi, bali inaweka huru kutoka katika utumwa wa dhambi ili kutumikia haki."
+      },
+      {
+        "question": "Katika 1 Petro 1:3-5, Petro anaelezaje tumaini la Kikristo na urithi wake?",
+        "options": [
+          "Bahati ya kidunia inayoweza kuharibika",
+          "Tumaini lililo hai kwa ufufuo wa Yesu Kristo, la urithi usioweza kuharibika, wala kutiwa unajisi, wala kunyauka, uliohifadhiwa mbinguni.",
+          "Ufalme wa kisiasa wa moja kwa moja",
+          "Kusahau mateso"
+        ],
+        "correct": 1,
+        "explanation": "Waamini wanalindwa na nguvu za Mungu kwa njia ya imani kwa ajili ya wokovu huo ulio tayari kufunuliwa wakati wa mwisho."
+      },
+      {
+        "question": "Katika Mathayo 13, ni somo gani la kawaida la mifano ya 'mbegu ya haradali' na 'chachu'?",
+        "options": [
+          "Ufalme utatoweka",
+          "Ingawa mwanzo wa Ufalme wa Mungu unaonekana kuwa mdogo na uliofichwa, ukuzi wake hauzuiliki mpaka ubadilishe na kuzunguka viumbe vyote.",
+          "Ni lazima tukatae mkate",
+          "Miti mikubwa tu ndio inayohesabu"
+        ],
+        "correct": 1,
+        "explanation": "Hivyo Yesu awahakikishia wanafunzi wake mbele ya unyenyekevu unaoonekana wa kikundi chao mbele ya milki kuu."
+      },
+      {
+        "question": "Katika Yohana 10:11-18 , ni sifa gani zinazomtofautisha ‘Mchungaji Mwema’ na ‘mamluki’?",
+        "options": [
+          "Mamluki ana kondoo zaidi",
+          "Mamluki hukimbia ajapo mbwa-mwitu kwa sababu hajali kondoo; Mchungaji Mwema huwajua walio wake, huwaita kwa majina na kutoa uhai wake kwa ajili yao",
+          "Mchungaji Mwema huwaacha kondoo dhaifu",
+          "Wanatenda vivyo hivyo"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anafafanua kwamba anatoa uhai wake kwa hiari (“Hakuna mtu anayeninyang’anya, bali mimi nautoa mwenyewe”) na kwamba angali ana kondoo wengine (mataifa) wa kuwakusanya."
+      },
+      {
+        "question": "Katika Luka 19:11-27 , kwa nini Yesu anasimulia mfano wa mina kumi kabla tu ya kuingia Yerusalemu?",
+        "options": [
+          "Kufundisha benki",
+          "Kwa sababu iliaminika kwamba Ufalme wa Mungu ungetokea mara moja; inaonyesha kwamba Mfalme lazima aondoke ili kupokea mrahaba kabla ya kurudi kuwauliza watumishi wake hesabu",
+          "Kumkosoa Zakayo",
+          "Kufuta huduma yake"
+        ],
+        "correct": 1,
+        "explanation": "Mfano huo unawatayarisha wanafunzi kwa muda wa kusubiri na uaminifu kati ya Kupaa na kurudi kwa Kristo."
+      },
+      {
+        "question": "Katika 2 Timotheo 3:16-17, neno la Kiyunani 'theopneustos' ('linalopuliziwa na Mungu') linamaanisha nini?",
+        "options": [
+          "Imeandikwa na malaika pekee",
+          "'Iliyopuliziwa na Mungu' - kuthibitisha asili ya kimungu ya Maandiko ambayo huyafanya yatoshe kikamilifu kufundisha, kusadikisha, kusahihisha na kuelekeza.",
+          "Imeamriwa kiufundi bila utu wa kibinadamu",
+          "Ni mdogo kwa Zaburi"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alipulizia Neno lake kupitia waandishi wa kibinadamu (2 Petro 1:21) ili mtu wa Mungu awe kamili, amekamilishwa kwa kila kazi njema."
+      },
+      {
+        "question": "Katika Wafilipi 1:21-24, ni shida gani ya ndani ambayo Paulo anaeleza anapokabili kesi yake huko Rumi?",
+        "options": [
+          "Kimbilia Uhispania au Misri",
+          "Kati ya tamaa ya kuondoka na kuwa pamoja na Kristo (ambayo ni bora zaidi) na uhitaji wa kubaki katika mwili kwa ajili ya maendeleo ya kiroho ya Wafilipi.",
+          "Kuwa raia wa Kirumi au la",
+          "Andika au hubiri"
+        ],
+        "correct": 1,
+        "explanation": "Kifungu hiki kinathibitisha tumaini la Paulo la kuwa mara moja na Kristo baada ya kifo, huku akiendelea kujitoa kwa ajili ya huduma ya Kanisa."
+      },
+      {
+        "question": "Katika Matendo 20:28, ni usemi gani wenye nguvu anaotumia Paulo mbele ya wazee wa Efeso kuelezea thamani ya Kanisa?",
+        "options": [
+          "Muungano wa watu wenye heshima",
+          "'Kanisa la Mungu, alilolinunua kwa damu yake mwenyewe'",
+          "Klabu ya falsafa",
+          "Mkoa wa Kirumi"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anawakabidhi wazee uangalizi wa kundi hili la thamani lililonunuliwa kwa bei ya damu yenyewe ya Kristo."
+      },
+      {
+        "question": "Katika Ufunuo 12:1-17, ni nani anayewakilisha kwa njia ya mfano Mwanamke aliyevikwa jua, Mtoto wa Kiume na Joka Jekundu?",
+        "options": [
+          "Ni makundi matatu tu ya Kigiriki",
+          "Watu waaminifu wa Mungu (Israeli/Kanisa) wanaomzaa Masihi (waliofurahishwa na Mungu), na Shetani alimshinda ambaye kisha anawafuata wazao wake wengine.",
+          "Roma, Athene na Babeli",
+          "Wafalme watatu wa Uajemi"
+        ],
+        "correct": 1,
+        "explanation": "Sura hiyo inafunua asili ya kiroho isiyoonekana ya mateso ya kidunia: joka tayari ameshindwa kwa damu ya Mwana-Kondoo (mstari 11)."
       }
     ]
   }

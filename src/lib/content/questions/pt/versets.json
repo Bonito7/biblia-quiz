@@ -583,6 +583,457 @@
         ],
         "correct": 3,
         "explanation": "A 'regra de ouro' - 'Tudo o que quereis que os homens vos façam, fazei-o também a eles' - está em Mateus 7:12 (com o acréscimo 'porque esta é a lei e os profetas') e Lucas 6:31. Jesus o apresenta como o resumo de toda revelação moral."
+      },
+      {
+        "question": "Complete João 3:16: 'Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas...'",
+        "options": [
+          "que ele fique rico",
+          "que ele tenha a vida eterna",
+          "que ele seja rei na terra",
+          "que ele nunca sofre"
+        ],
+        "correct": 1,
+        "explanation": "João 3:16 resume o cerne do evangelho: o dom do Filho único da vida eterna através da fé."
+      },
+      {
+        "question": "Complete o Salmo 23:4: 'Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, pois...'",
+        "options": [
+          "Eu sou muito forte",
+          "você está comigo",
+          "Eu tenho uma espada",
+          "meus amigos me protegem"
+        ],
+        "correct": 1,
+        "explanation": "'O teu cajado e o teu cajado me consolam' - a presença do Pastor expulsa o medo (Salmo 23:4)."
+      },
+      {
+        "question": "Complete Provérbios 3:5: 'Confie no Senhor de todo o seu coração e não se apoie em...'",
+        "options": [
+          "sua riqueza",
+          "sua sabedoria",
+          "seus amigos",
+          "sua coragem"
+        ],
+        "correct": 1,
+        "explanation": "Provérbios 3:5-6 nos convida a reconhecer Deus em todos os seus caminhos para que Ele guie nossos caminhos."
+      },
+      {
+        "question": "Complete Mateus 6:33: 'Buscai primeiro o reino de Deus e a sua justiça; e todas essas coisas...'",
+        "options": [
+          "será tirado de você",
+          "será dado a você acima",
+          "será esquecido",
+          "virá em mil anos"
+        ],
+        "correct": 1,
+        "explanation": "Jesus ensina a não se preocupar com o amanhã, mas a colocar o Reino de Deus em primeiro lugar (Mateus 6:33)."
+      },
+      {
+        "question": "Complete Romanos 6:23: 'Porque o salário do pecado é a morte; mas o dom gratuito de Deus é...'",
+        "options": [
+          "a lei de Moisés",
+          "vida eterna em Jesus Cristo nosso Senhor",
+          "uma longa vida terrena",
+          "sabedoria humana"
+        ],
+        "correct": 1,
+        "explanation": "Paulo contrasta o “salário” merecido pelo pecado (morte) com o “dom gratuito” (carisma) de Deus em Cristo."
+      },
+      {
+        "question": "Complete 1 Coríntios 16:14: 'Tudo o que vocês fizerem seja feito...'",
+        "options": [
+          "temer",
+          "caridade (amor)",
+          "velocidade",
+          "orgulho"
+        ],
+        "correct": 1,
+        "explanation": "Este breve mandamento resume o espírito de toda a vida comunitária cristã."
+      },
+      {
+        "question": "Complete Josué 1:9: 'Não te ordenei: Seja forte e tenha coragem? Não fique assustado ou desanimado, pois...'",
+        "options": [
+          "você é invencível",
+          "O SENHOR, seu Deus, está com você em tudo o que você faz",
+          "ninguém vai brigar com você",
+          "você tem um grande exército"
+        ],
+        "correct": 1,
+        "explanation": "Deus encoraja assim Josué quando ele sucede a Moisés e entra em Canaã."
+      },
+      {
+        "question": "Complete o Salmo 118:24: 'Este é o dia que o Senhor fez: seja para nós...'",
+        "options": [
+          "um assunto de medo",
+          "um assunto de alegria e alegria",
+          "um dia de descanso forçado",
+          "uma memória distante"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo nos convida a receber cada dia como um presente de Deus merecedor de louvor e alegria."
+      },
+      {
+        "question": "Complete Mateus 5:9: 'Bem-aventurados os pacificadores, porque serão chamados...'",
+        "options": [
+          "reis da terra",
+          "Filho de Deus",
+          "juízes de Israel",
+          "profetas"
+        ],
+        "correct": 1,
+        "explanation": "Sétima bem-aventurança do Sermão da Montanha (Mateus 5:9)."
+      },
+      {
+        "question": "Complete Mateus 5:8: 'Bem-aventurados os puros de coração, porque...'",
+        "options": [
+          "eles herdarão o ouro",
+          "eles verão Deus",
+          "eles serão famosos",
+          "eles nunca vão chorar"
+        ],
+        "correct": 1,
+        "explanation": "Sexta bem-aventurança: a pureza interior abre à visão e à comunhão com Deus."
+      },
+      {
+        "question": "Complete 1 Pedro 5:7: 'Lançando sobre ele todos os seus cuidados, pois...'",
+        "options": [
+          "ele está longe",
+          "ele mesmo cuida de você",
+          "suas preocupações são imaginárias",
+          "ninguém mais escuta"
+        ],
+        "correct": 1,
+        "explanation": "Pedro exorta os crentes a se humilharem sob a poderosa mão de Deus, confiando a Ele todas as preocupações."
+      },
+      {
+        "question": "Complete Filipenses 4:6: 'Não andem ansiosos por coisa alguma; mas em tudo sejam reveladas a Deus as vossas necessidades, pela oração e pela súplica, com...'",
+        "options": [
+          "choro",
+          "ação de graças",
+          "sacrifícios",
+          "jejuando sozinho"
+        ],
+        "correct": 1,
+        "explanation": "A oração confiante e grata é seguida pela paz de Deus que guarda os corações (Filipenses 4:6-7)."
+      },
+      {
+        "question": "Complete o Salmo 100:5: 'Porque o Senhor é bom; a sua bondade dura para sempre, e a sua fidelidade...'",
+        "options": [
+          "dura sete anos",
+          "de geração em geração",
+          "está oculto",
+          "depende de reis"
+        ],
+        "correct": 1,
+        "explanation": "O Salmo 100 é um salmo de ação de graças que chama toda a terra a servir ao Senhor com alegria."
+      },
+      {
+        "question": "Complete o Salmo 46:10 (46:11): 'Fique quieto e saiba que eu sou Deus: tenho domínio sobre as nações...'",
+        "options": [
+          "e no mar",
+          "Eu domino a terra",
+          "Eu julgo as estrelas",
+          "Eu fico em silêncio"
+        ],
+        "correct": 1,
+        "explanation": "No meio das convulsões, Deus chama o seu povo à calma e à confiança diante da sua soberania."
+      },
+      {
+        "question": "Complete Gálatas 6:9: 'Não nos cansemos de fazer o bem; pois colheremos no devido tempo, se...'",
+        "options": [
+          "nós temos dinheiro",
+          "nós não relaxamos",
+          "estamos indo para longe",
+          "conversamos muito"
+        ],
+        "correct": 1,
+        "explanation": "Paulo incentiva a perseverança no serviço e a generosidade para com todos."
+      },
+      {
+        "question": "Complete João 8:12: 'Eu sou a luz do mundo; quem me segue não andará nas trevas, mas...'",
+        "options": [
+          "terá a luz da vida",
+          "encontrará um tesouro",
+          "conhecerá o futuro",
+          "será rei"
+        ],
+        "correct": 0,
+        "explanation": "Jesus fala esta palavra no Templo durante a Festa dos Tabernáculos."
+      },
+      {
+        "question": "Complete João 11:25: 'Eu sou a ressurreição e a vida. Quem acredita em mim ainda viverá...'",
+        "options": [
+          "ele seria pobre",
+          "ele teria morrido",
+          "ele estaria longe",
+          "ele estaria sozinho"
+        ],
+        "correct": 1,
+        "explanation": "Jesus faz esta promessa a Marta pouco antes de ressuscitar Lázaro."
+      },
+      {
+        "question": "Complete João 15:5: 'Eu sou a videira, vocês são os ramos. Aquele que permanece em mim e em quem eu habito dá muito fruto, pois sem mim...'",
+        "options": [
+          "você se move lentamente",
+          "você não pode fazer nada",
+          "você precisa orar mais",
+          "você é fraco"
+        ],
+        "correct": 1,
+        "explanation": "Jesus ensina a dependência vital e constante do discípulo dele."
+      },
+      {
+        "question": "Complete Mateus 22:37: 'Amarás o Senhor teu Deus de todo o teu coração e de toda a tua alma, e...'",
+        "options": [
+          "toda a sua riqueza",
+          "todos os seus pensamentos",
+          "toda a sua casa",
+          "toda a sua força sozinha"
+        ],
+        "correct": 1,
+        "explanation": "Jesus cita Deuteronômio 6:5 como o primeiro e maior mandamento."
+      },
+      {
+        "question": "Complete Mateus 7:1: 'Não julgueis, isso...'",
+        "options": [
+          "você é famoso",
+          "você não é julgado",
+          "você está certo",
+          "você é rico"
+        ],
+        "correct": 1,
+        "explanation": "Jesus alerta contra o crítico hipócrita que vê o cisco nos outros e esquece a trave que está no seu próprio olho (Mateus 7:1-5)."
+      },
+      {
+        "question": "Complete Atos 1:8: 'Mas você receberá poder quando o Espírito Santo descer sobre você, e você será...'",
+        "options": [
+          "os líderes de Roma",
+          "minhas testemunhas em Jerusalém, e em toda a Judéia, e em Samaria, e até os confins da terra",
+          "anjos",
+          "sacerdotes do Templo"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo traça o plano geográfico e missionário de todo o livro dos Atos dos Apóstolos."
+      },
+      {
+        "question": "Complete Atos 4:12: 'Não há salvação em nenhum outro; porque debaixo do céu não há outro nome, dado entre os homens, pelo qual...”",
+        "options": [
+          "nos tornamos sábios",
+          "tivemos que ser salvos",
+          "somos abençoados materialmente",
+          "podemos reinar"
+        ],
+        "correct": 1,
+        "explanation": "Pedro proclama a unidade da salvação em Jesus Cristo diante dos líderes do Sinédrio."
+      },
+      {
+        "question": "Complete Romanos 5:8: 'Mas Deus prova o seu amor para conosco, sendo nós ainda pecadores...'",
+        "options": [
+          "nós procuramos por isso",
+          "Cristo morreu por nós",
+          "nós mantivemos a lei",
+          "ele esperou até que fôssemos perfeitos"
+        ],
+        "correct": 1,
+        "explanation": "O amor de Deus precede todo mérito humano: Cristo entregou-se enquanto ainda éramos inimigos e pecadores."
+      },
+      {
+        "question": "Complete Romanos 10:9: 'Se com a tua boca confessares ao Senhor Jesus, e em teu coração creres que Deus o ressuscitou dentre os mortos, serás...'",
+        "options": [
+          "famoso",
+          "salvo",
+          "rico",
+          "profeta"
+        ],
+        "correct": 1,
+        "explanation": "Paulo une a fé interior do coração e a confissão pública do senhorio do Cristo ressuscitado."
+      },
+      {
+        "question": "Complete o Salmo 139:14: 'Eu te louvo por ser uma criatura tão maravilhosa. Suas obras são admiráveis, e minha alma...'",
+        "options": [
+          "ignore-o",
+          "reconhece bem",
+          "está com medo",
+          "duvide frequentemente"
+        ],
+        "correct": 1,
+        "explanation": "David celebra a sabedoria e a preocupação do Criador que nos formou desde o ventre."
+      },
+      {
+        "question": "Complete o Salmo 121:1-2: 'Elevo os meus olhos para os montes... De onde virá o meu socorro? O socorro vem até mim do Senhor, que fez...”",
+        "options": [
+          "o Templo",
+          "os céus e a terra",
+          "o Mar Vermelho",
+          "as estrelas apenas"
+        ],
+        "correct": 1,
+        "explanation": "Este canto de subida afirma a proteção vigilante de Deus que não cochila nem dorme (Salmo 121:4)."
+      },
+      {
+        "question": "Complete Provérbios 18:10: 'O nome do Senhor é uma torre forte; os justos se refugiam lá, e...'",
+        "options": [
+          "se esconde para sempre",
+          "é seguro",
+          "fica rico",
+          "esqueça tudo"
+        ],
+        "correct": 1,
+        "explanation": "O nome (caráter revelado) de Deus é um porto seguro para o crente."
+      },
+      {
+        "question": "Complete Provérbios 16:3: 'Entregue suas obras e seus planos ao Senhor...'",
+        "options": [
+          "será secreto",
+          "terá sucesso",
+          "mudará rapidamente",
+          "continuará pequeno"
+        ],
+        "correct": 1,
+        "explanation": "Confiar nossos negócios a Deus alinha nossos planos com Sua sabedoria e bênção."
+      },
+      {
+        "question": "Complete Lucas 6:38: 'Dai, e ser-vos-á dado: uma boa medida será derramada em vosso seio, comprimida e sacudida...'",
+        "options": [
+          "escondido",
+          "que transborda",
+          "pequeno",
+          "distante"
+        ],
+        "correct": 1,
+        "explanation": "Jesus incentiva a generosidade sem cálculo, garantindo a medida generosa de Deus."
+      },
+      {
+        "question": "Complete João 13:35: 'Nisto conhecerão todos que sois meus discípulos, se tiverdes...'",
+        "options": [
+          "muita ciência",
+          "amor um pelo outro",
+          "grandes edifícios",
+          "muitos discípulos"
+        ],
+        "correct": 1,
+        "explanation": "O amor fraterno mútuo é o sinal distintivo desejado por Jesus para os seus discípulos."
+      },
+      {
+        "question": "Complete 2 Coríntios 5:7: 'Porque andamos pela fé e não por...'",
+        "options": [
+          "a lei",
+          "a vista",
+          "temer",
+          "dinheiro"
+        ],
+        "correct": 1,
+        "explanation": "A confiança nas promessas invisíveis de Deus guia o crente além das aparências presentes."
+      },
+      {
+        "question": "Complete 1 João 4:19: 'Mas nós o amamos, porque ele...'",
+        "options": [
+          "nos temia",
+          "nos amou primeiro",
+          "criou os anjos",
+          "é muito forte"
+        ],
+        "correct": 1,
+        "explanation": "O amor humano a Deus é sempre uma resposta ao seu amor primeiro e atencioso."
+      },
+      {
+        "question": "Complete 1 João 5:14: 'Temos esta confiança para com ele, que se pedirmos alguma coisa segundo a sua vontade...'",
+        "options": [
+          "ele espera muito tempo",
+          "ele nos ouve",
+          "ele nos julga",
+          "ele fica em silêncio"
+        ],
+        "correct": 1,
+        "explanation": "Orar segundo a vontade revelada de Deus dá a certeza de ser ouvido."
+      },
+      {
+        "question": "Complete Mateus 19:26: 'Para os homens isso é impossível, mas para Deus...'",
+        "options": [
+          "tudo é difícil",
+          "tudo é possível",
+          "nada está prometido",
+          "poucas coisas são fáceis"
+        ],
+        "correct": 1,
+        "explanation": "Jesus responde assim aos discípulos que ficam maravilhados por saber quem pode ser salvo."
+      },
+      {
+        "question": "Complete Marcos 10:45: 'Porque o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida como...'",
+        "options": [
+          "um rei poderoso",
+          "o resgate de muitos",
+          "um juiz severo",
+          "um filósofo"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo chave resume a missão servil e redentora de Jesus."
+      },
+      {
+        "question": "Complete o Salmo 37:4: 'Deleita-te no Senhor, e ele te dará...'",
+        "options": [
+          "todo o ouro do Egito",
+          "o que seu coração deseja",
+          "uma longa guerra",
+          "um trono terreno"
+        ],
+        "correct": 1,
+        "explanation": "Quando o próprio Deus se torna a nossa alegria suprema, os nossos desejos estão de acordo com a sua vontade."
+      },
+      {
+        "question": "Complete o Salmo 91:1: 'Aquele que habita no abrigo do Altíssimo descansa na sombra...'",
+        "options": [
+          "do Templo",
+          "do Todo-Poderoso",
+          "cedros",
+          "montanhas"
+        ],
+        "correct": 1,
+        "explanation": "O Salmo 91 celebra a proteção fiel de Deus para aqueles que confiam Nele."
+      },
+      {
+        "question": "Complete Hebreus 13:8: 'Jesus Cristo é o mesmo ontem e hoje, e...'",
+        "options": [
+          "por mil anos",
+          "eternamente",
+          "até o final do ano",
+          "na terra sozinho"
+        ],
+        "correct": 1,
+        "explanation": "A fiel imutabilidade de Cristo estabelece a estabilidade da fé cristã."
+      },
+      {
+        "question": "Complete 1 Coríntios 10:13: 'Não vos sobreveio tentação que não seja humana, e Deus, que é fiel, não permitirá que sejais tentados...'",
+        "options": [
+          "de forma alguma",
+          "além da sua força",
+          "durante a noite",
+          "por seus amigos"
+        ],
+        "correct": 1,
+        "explanation": "Com a tentação, Deus também prepara a saída para que possamos suportá-la."
+      },
+      {
+        "question": "Complete Gálatas 5:22: 'Mas o fruto do Espírito é amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade, mansidão,...'",
+        "options": [
+          "fortuna",
+          "temperança (autocontrole)",
+          "eloquência",
+          "força física"
+        ],
+        "correct": 1,
+        "explanation": "Estas nove virtudes caracterizam a obra transformadora do Espírito Santo na vida do crente."
+      },
+      {
+        "question": "Complete Efésios 4:32: 'Sejam bondosos uns com os outros, compassivos, perdoando-se uns aos outros, como...'",
+        "options": [
+          "anjos fazem isso",
+          "Deus te perdoou em Cristo",
+          "a lei exige isso",
+          "seus pais te ensinaram isso"
+        ],
+        "correct": 1,
+        "explanation": "O perdão recebido em Cristo é fonte e medida do perdão fraterno."
       }
     ],
     "intermediaire": [
@@ -1190,6 +1641,424 @@
         ],
         "correct": 0,
         "explanation": "Lucas 15:20: '... estando ele ainda longe, seu pai o viu e ficou cheio de compaixão, e correu, lançou-se-lhe ao pescoço e beijou-o.' — o coração da parábola: o pai que corre em direção ao filho arrependido, imagem incomparável da graça divina que acolhe o pecador que regressa."
+      },
+      {
+        "question": "Qual livro e capítulo contém: 'O SENHOR lutará por você; e você, fica calado?",
+        "options": [
+          "Josué 6:20",
+          "Êxodo 14:14",
+          "1 Samuel 17:45",
+          "Salmo 46:1"
+        ],
+        "correct": 1,
+        "explanation": "Moisés tranquilizou assim Israel preso diante do Mar Vermelho e do exército do Faraó."
+      },
+      {
+        "question": "Qual versículo do Novo Testamento afirma: 'Porque a palavra da cruz é loucura para os que perecem; mas para nós que somos salvos é o poder de Deus'?",
+        "options": [
+          "Romanos 1:16",
+          "1 Coríntios 1:18",
+          "Gálatas 2:20",
+          "Efésios 2:8"
+        ],
+        "correct": 1,
+        "explanation": "Paulo contrasta a sabedoria mundana com o poder paradoxal da cruz de Cristo."
+      },
+      {
+        "question": "Em que passagem encontramos: 'Se Deus é por nós, quem será contra nós?'",
+        "options": [
+          "Romanos 8:31",
+          "Salmo 27:1",
+          "1 João 4:4",
+          "Filipenses 4:13"
+        ],
+        "correct": 0,
+        "explanation": "Romanos 8:31 abre a grande doxologia da segurança que conclui o capítulo 8."
+      },
+      {
+        "question": "Complete 2 Coríntios 5:17: 'Se alguém está em Cristo, nova criatura é. As coisas velhas já passaram; aqui está,...'",
+        "options": [
+          "eles voltarão mais tarde",
+          "todas as coisas se tornaram novas",
+          "a lei é restaurada",
+          "o mundo acabou"
+        ],
+        "correct": 1,
+        "explanation": "A união com o Cristo ressuscitado já inaugura a nova criação na vida do crente."
+      },
+      {
+        "question": "Qual versículo do Antigo Testamento diz: 'Não por força, nem por violência, mas pelo meu espírito, diz o Senhor dos Exércitos'?",
+        "options": [
+          "Isaías 40:31",
+          "Zacarias 4:6",
+          "Jeremias 29:11",
+          "Miquéias 6:8"
+        ],
+        "correct": 1,
+        "explanation": "Palavra dirigida a Zorobabel para a reconstrução do Templo apesar dos obstáculos."
+      },
+      {
+        "question": "Complete Provérbios 14:12: 'Há caminho que ao homem parece direito, mas o seu fim é...'",
+        "options": [
+          "a glória",
+          "o caminho da morte",
+          "descansar",
+          "sabedoria"
+        ],
+        "correct": 1,
+        "explanation": "Este provérbio adverte contra confiar nas próprias impressões morais sem a sabedoria de Deus."
+      },
+      {
+        "question": "Em que livro encontramos: ‘Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor’?",
+        "options": [
+          "Jó 38:2",
+          "Isaías 55:8",
+          "Jeremias 29:11",
+          "Romanos 11:33"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 55:8-9 enfatiza a altura infinita da misericórdia e sabedoria de Deus."
+      },
+      {
+        "question": "Complete 1 Samuel 16:7: 'O homem olha para o que é exterior, mas o SENHOR olha...'",
+        "options": [
+          "para roupas",
+          "no coração",
+          "para riquezas",
+          "com a idade"
+        ],
+        "correct": 1,
+        "explanation": "Deus disse isso a Samuel ao escolher Davi dentre os filhos de Jessé."
+      },
+      {
+        "question": "Qual versículo diz: 'O temor do Senhor é o princípio da sabedoria; e o conhecimento dos santos é inteligência?",
+        "options": [
+          "Provérbios 9:10 (e 1:7)",
+          "Eclesiastes 1:2",
+          "Jó 1:1",
+          "Salmo 1:1"
+        ],
+        "correct": 0,
+        "explanation": "O temor reverencial e amoroso de Deus é o fundamento de toda a verdadeira sabedoria na literatura sapiencial."
+      },
+      {
+        "question": "Em qual versículo Jesus diz: ‘O céu e a terra passarão, mas as minhas palavras não passarão’?",
+        "options": [
+          "Mateus 24:35 (Marcos 13:31; Lucas 21:33)",
+          "João 1:1",
+          "Apocalipse 21:1",
+          "Atos 1:8"
+        ],
+        "correct": 0,
+        "explanation": "Jesus afirma a autoridade eterna e infalível de suas próprias palavras no cerne do discurso escatológico."
+      },
+      {
+        "question": "Complete 1 Pedro 2:24: 'Ele mesmo levou em seu corpo os nossos pecados sobre o madeiro, para que, estando mortos para os pecados, vivamos para a justiça; aquele por cujas contusões...'",
+        "options": [
+          "nós somos julgados",
+          "você foi curado",
+          "somos ricos",
+          "o Templo é reconstruído"
+        ],
+        "correct": 1,
+        "explanation": "Pedro cita livremente Isaías 53:5 para mostrar o propósito moral e espiritual da cruz."
+      },
+      {
+        "question": "Qual versículo do Novo Testamento diz: 'Porque há um só Deus e um só mediador entre Deus e os homens, o homem Cristo Jesus'?",
+        "options": [
+          "Hebreus 9:15",
+          "1 Timóteo 2:5",
+          "Romanos 8:34",
+          "João 14:6"
+        ],
+        "correct": 1,
+        "explanation": "Paulo conecta este versículo ao desejo de Deus de que todos os homens sejam salvos (1 Timóteo 2:4)."
+      },
+      {
+        "question": "Complete 1 Timóteo 6:10: 'Porque o amor ao dinheiro é a raiz de todos os males; e alguns, possuídos, extraviaram-se...'",
+        "options": [
+          "de seus amigos",
+          "longe da fé, e se lançaram em muitos tormentos",
+          "de Jerusalém",
+          "trabalhar"
+        ],
+        "correct": 1,
+        "explanation": "Não é o dinheiro em si, mas “o amor ao dinheiro” (filargiria) que desvia o coração."
+      },
+      {
+        "question": "Qual versículo de Tiago afirma: 'Toda boa graça e todo dom perfeito descem do alto, do Pai das luzes'?",
+        "options": [
+          "Tiago 1:17",
+          "Tiago 2:14",
+          "Tiago 4:7",
+          "Tiago 5:16"
+        ],
+        "correct": 0,
+        "explanation": "Tiago enfatiza que Deus não tenta ninguém para o mal e permanece imutável em sua bondade ('em quem não há mudança nem sombra de variação')."
+      },
+      {
+        "question": "Complete Tiago 4:7: 'Sujeitai-vos, pois, a Deus; resista ao diabo, e...'",
+        "options": [
+          "ele vai te recompensar",
+          "ele vai fugir de você",
+          "ele vai conversar com você",
+          "ele vai esperar"
+        ],
+        "correct": 1,
+        "explanation": "A vitória espiritual baseia-se primeiro na submissão humilde a Deus antes da resistência ao inimigo."
+      },
+      {
+        "question": "Em que passagem encontramos: 'Pois onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles'?",
+        "options": [
+          "Mateus 18:20",
+          "João 14:23",
+          "Atos 2:42",
+          "1 Coríntios 12:12"
+        ],
+        "correct": 0,
+        "explanation": "Jesus promete a sua presença ativa no coração da comunidade orante e disciplinada (Mateus 18:15-20)."
+      },
+      {
+        "question": "Complete Colossenses 3:23: 'Tudo o que fizerem, façam-no de todo o coração, como para o Senhor e não para os homens, sabendo que...'",
+        "options": [
+          "você terá ouro aqui embaixo",
+          "você receberá do Senhor a herança como recompensa",
+          "ninguém te vê",
+          "trabalho é inútil"
+        ],
+        "correct": 1,
+        "explanation": "Paulo enobrece cada tarefa quotidiana, colocando-a sob o olhar e o serviço do Senhor Cristo."
+      },
+      {
+        "question": "Qual versículo diz: 'A benignidade do Senhor não se esgota, as suas misericórdias não têm fim; Eles são renovados todas as manhãs?",
+        "options": [
+          "Salmo 23:6",
+          "Lamentações 3:22-23",
+          "Isaías 40:28",
+          "Jeremias 31:3"
+        ],
+        "correct": 1,
+        "explanation": "No meio das ruínas de Jerusalém, o profeta exclama: ‘Oh! Quão grande é a sua fidelidade!'"
+      },
+      {
+        "question": "Complete Deuteronômio 31:6: 'Seja forte e corajoso! Não tema nem fique desanimado diante deles; porque o Senhor teu Deus andará contigo, e não te abandonará, e...'",
+        "options": [
+          "ele vai te deixar rico rapidamente",
+          "ele não vai te abandonar",
+          "ele transformará o deserto em mar",
+          "ele fará de você rei"
+        ],
+        "correct": 1,
+        "explanation": "Esta promessa é repetida em Hebreus 13:5 para encorajar os cristãos ao contentamento e à confiança."
+      },
+      {
+        "question": "Em qual versículo Paulo escreve: 'Não me envergonho do evangelho: é o poder de Deus para salvação de todo aquele que crê'?",
+        "options": [
+          "Romanos 1:16",
+          "1 Coríntios 15:1",
+          "Gálatas 1:6",
+          "Efésios 6:19"
+        ],
+        "correct": 0,
+        "explanation": "Este versículo constitui o tema programático de toda a epístola aos Romanos."
+      },
+      {
+        "question": "Complete Mateus 16:24: 'Se alguém quiser vir após mim, negue-se a si mesmo e tome a sua cruz, e...'",
+        "options": [
+          "que ele fique em casa",
+          "deixe ele me seguir",
+          "que ele julga o mundo",
+          "espere por um sinal"
+        ],
+        "correct": 1,
+        "explanation": "Jesus expõe o custo autêntico do discipulado imediatamente após anunciar a sua própria Paixão."
+      },
+      {
+        "question": "Qual versículo do AT afirma: 'O Senhor não tem prazer na morte dos ímpios, mas em que os ímpios se convertam e vivam'?",
+        "options": [
+          "Ezequiel 33:11 (e 18:23)",
+          "Provérbios 1:10",
+          "Salmo 1:6",
+          "Malaquias 4:1"
+        ],
+        "correct": 0,
+        "explanation": "Ezequiel revela o coração compassivo de Deus que continuamente chama seu povo ao arrependimento (“Por que vocês deveriam morrer?”)."
+      },
+      {
+        "question": "Complete 2 Timóteo 1:7: 'Porque Deus não nos deu um espírito de timidez, mas um espírito de...'",
+        "options": [
+          "raiva, riqueza e orgulho",
+          "força, amor e sabedoria",
+          "medo, silêncio e fuga",
+          "dominação política"
+        ],
+        "correct": 1,
+        "explanation": "Paulo encoraja o jovem Timóteo a reavivar o dom recebido de Deus e a não se envergonhar do testemunho do Senhor."
+      },
+      {
+        "question": "Em que salmo encontramos: ‘Coração quebrantado e contrito, ó Deus, não desprezas’?",
+        "options": [
+          "Salmo 23:3",
+          "Salmo 51:17 (51:19)",
+          "Salmo 103:8",
+          "Salmo 130:4"
+        ],
+        "correct": 1,
+        "explanation": "Davi reconhece que Deus prefere o arrependimento sincero ao sacrifício ritual apenas."
+      },
+      {
+        "question": "Complete o Salmo 103:12: 'Quanto o oriente está do ocidente, tão longe está de nós...'",
+        "options": [
+          "nossos inimigos",
+          "nossas transgressões",
+          "pobreza",
+          "nossas memórias"
+        ],
+        "correct": 1,
+        "explanation": "Uma imagem poética da infinita plenitude do perdão divino."
+      },
+      {
+        "question": "Qual versículo do NT diz: 'Porque onde estiver o teu tesouro, aí estará também o teu coração'?",
+        "options": [
+          "Mateus 6:21 (e Lucas 12:34)",
+          "1 Timóteo 6:10",
+          "Marcos 10:21",
+          "Tiago 5:1"
+        ],
+        "correct": 0,
+        "explanation": "Jesus nos convida a acumular tesouros no céu em vez de riquezas perecíveis na terra."
+      },
+      {
+        "question": "Complete João 16:33: 'Tenho-vos dito estas coisas, para que em mim tenhais paz. Você terá tribulações no mundo; mas tenha coragem...'",
+        "options": [
+          "o mundo vai te amar",
+          "Eu conquistei o mundo",
+          "o fim é em mil anos",
+          "os anjos lutarão sozinhos"
+        ],
+        "correct": 1,
+        "explanation": "A paz de Cristo não elimina as provações atuais, mas baseia-se na sua vitória decisiva."
+      },
+      {
+        "question": "Em qual livro encontramos: 'Aquele que permanece naquele que é verdadeiro... Sabemos que o Filho de Deus veio e que nos deu entendimento para conhecer a Verdade'?",
+        "options": [
+          "1 João 5:20",
+          "João 1:18",
+          "Romanos 12:2",
+          "Colossenses 2:3"
+        ],
+        "correct": 0,
+        "explanation": "João conclui a sua primeira epístola afirmando a realidade da vida eterna em Jesus Cristo, “o verdadeiro Deus”."
+      },
+      {
+        "question": "Complete Romanos 12:21: 'Não se deixem vencer pelo mal, mas...'",
+        "options": [
+          "sempre fuja do mundo",
+          "vencer o mal com o bem",
+          "devolver golpe por golpe",
+          "esperar sem agir"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo encerra a exortação de Romanos 12 sobre o amor sincero até mesmo para com os inimigos."
+      },
+      {
+        "question": "Qual versículo de Filipenses diz: 'Tende em vós mesmos os mesmos sentimentos que tivemos em Cristo Jesus'?",
+        "options": [
+          "Filipenses 2:5",
+          "Filipenses 4:4",
+          "Filipenses 1:21",
+          "Filipenses 3:14"
+        ],
+        "correct": 0,
+        "explanation": "Este versículo introduz o grande hino cristológico sobre a humildade e exaltação de Cristo (Filipenses 2:6-11)."
+      },
+      {
+        "question": "Complete 1 Coríntios 13:4: 'O amor é paciente e cheio de bondade; o amor não é invejoso; o amor não se vangloria, não se ensoberbece...'",
+        "options": [
+          "de alegria",
+          "de orgulho",
+          "de tristeza",
+          "de esperança"
+        ],
+        "correct": 1,
+        "explanation": "Paulo descreve concretamente o amor ágape através de uma série de verbos de ação e renúncia."
+      },
+      {
+        "question": "Qual versículo do NT ensina: 'Pois somos feitura dele, criados em Cristo Jesus para boas obras, as quais Deus de antemão preparou'?",
+        "options": [
+          "Efésios 2:10",
+          "Romanos 3:24",
+          "Tito 3:5",
+          "Tiago 2:17"
+        ],
+        "correct": 0,
+        "explanation": "Logo depois de “pela graça sois salvos” (vv. 8-9), Paulo mostra que a graça produz uma vida frutífera em boas obras."
+      },
+      {
+        "question": "Complete Provérbios 4:23: 'Guarda o teu coração acima de tudo, porque dele vem...'",
+        "options": [
+          "as riquezas",
+          "as fontes da vida",
+          "palavras sábias sozinhas",
+          "projetos humanos"
+        ],
+        "correct": 1,
+        "explanation": "Na sabedoria bíblica, o coração é o centro moral e espiritual que dirige toda a existência."
+      },
+      {
+        "question": "Em que versículo Jesus diz: ‘Ninguém vem ao Pai senão por mim’?",
+        "options": [
+          "João 14:6",
+          "João 10:9",
+          "João 3:16",
+          "Atos 4:12"
+        ],
+        "correct": 0,
+        "explanation": "Continuação imediata de 'Eu sou o caminho, a verdade e a vida', dirigida a Tomé."
+      },
+      {
+        "question": "Complete Hebreus 11:6: 'E sem fé é impossível agradar-lhe; pois aquele que vem a Deus deve acreditar que Deus existe, e que ele é...'",
+        "options": [
+          "invisível para sempre",
+          "o recompensador daqueles que o buscam",
+          "indiferente aos homens",
+          "único juiz"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo define a fé dinâmica exemplificada por Enoque e os patriarcas."
+      },
+      {
+        "question": "Qual versículo de Isaías diz: 'Tu conservarás em perfeita paz aquele cujo espírito está sobre ti, porque ele confia em ti'?",
+        "options": [
+          "Isaías 26:3",
+          "Isaías 40:31",
+          "Isaías 53:5",
+          "Isaías 61:1"
+        ],
+        "correct": 0,
+        "explanation": "Em hebraico, 'shalom shalom' expressa uma paz profunda, estável e completa dada ao pensamento confiante."
+      },
+      {
+        "question": "Complete 2 Pedro 1:5-7 sobre as virtudes cristãs: 'Faça todo esforço para acrescentar à sua fé a virtude, à virtude o conhecimento, ao conhecimento a temperança, à temperança a paciência, à paciência a piedade, à piedade o amor fraternal e ao amor fraternal...'",
+        "options": [
+          "fortuna",
+          "caridade (amor)",
+          "autoridade",
+          "o silêncio"
+        ],
+        "correct": 1,
+        "explanation": "Esta progressão espiritual culmina no amor (ágape) que torna fecundo o conhecimento do Senhor."
+      },
+      {
+        "question": "Qual versículo do Apocalipse afirma: 'Sê fiel até a morte, e eu te darei a coroa da vida'?",
+        "options": [
+          "Apocalipse 2:10",
+          "Apocalipse 3:20",
+          "Apocalipse 1:8",
+          "Apocalipse 22:12"
+        ],
+        "correct": 0,
+        "explanation": "Palavras de encorajamento dirigidas à Igreja perseguida de Esmirna."
       }
     ],
     "expert": [
@@ -1621,6 +2490,600 @@
         ],
         "correct": 1,
         "explanation": "Gênesis 1:26-27 é o fundamento da antropologia bíblica. 'Imagem' (tselem) e 'semelhança' (demut) designam: (1) relação com Deus (capacidade de compreensão e resposta); (2) representação/vice-regência (homem como representante de Deus sobre a criação); (3) diferença sexual (“homem e mulher ele os criou”) como reflexo da comunhão intradivina. O plural 'façamos' é visto como plural de majestade ou proto-trinitário dependendo dos intérpretes."
+      },
+      {
+        "question": "Em João 1:18 (“Ninguém jamais viu a Deus; o Filho unigênito, que está no seio do Pai, o deu a conhecer”), que verbo grego dá à nossa palavra “exegese”?",
+        "options": [
+          "Logotipos",
+          "Exêgêsato ('contado / exposto / tornado plenamente conhecido')",
+          "Eskênôsen",
+          "Plêroma"
+        ],
+        "correct": 1,
+        "explanation": "Jesus Cristo é literalmente a “exegese” viva do Pai invisível, daquele que O revela plenamente."
+      },
+      {
+        "question": "Qual é o significado do termo hebraico ‘kabod’ (כָּבוֹד) traduzido como ‘glória’ no Salmo 19:1 (“Os céus declaram a glória de Deus”)?",
+        "options": [
+          "Uma luz colorida simples",
+          "Literalmente 'peso, gravidade, valor avassalador' - expressando a real e radiante majestade de Deus",
+          "Uma canção de guerra",
+          "Uma sombra"
+        ],
+        "correct": 1,
+        "explanation": "Em contraste com 'hebel' (leveza/vapor), 'kabod' expressa a densidade majestosa do ser e da presença divina."
+      },
+      {
+        "question": "Em Romanos 3:25-26, que dilema teológico Paulo diz que a cruz de Cristo resolve?",
+        "options": [
+          "Como suprimir a Lei sem dizer nada",
+          "Como Deus pode permanecer totalmente justo (julgando o pecado em Cristo) enquanto justifica o pecador que tem fé em Jesus",
+          "Como enriquecer a Igreja de Roma",
+          "Como derrotar o Império Romano"
+        ],
+        "correct": 1,
+        "explanation": "A cruz demonstra a justiça de Deus diante dos pecados passados ​​que ficaram impunes sob Sua paciência e revela Sua graça presente."
+      },
+      {
+        "question": "Qual termo grego em 2 Coríntios 3:18 (“somos transformados de glória em glória na mesma imagem”) é a origem da palavra “metamorfose”?",
+        "options": [
+          "Metanóia",
+          "Metamorphoumetha (profundamente transformado internamente)",
+          "Koinônia",
+          "Parusia"
+        ],
+        "correct": 1,
+        "explanation": "Este verbo (também usado para Transfiguração em Marcos 9:2 e Romanos 12:2) descreve uma transformação real operada pelo Espírito."
+      },
+      {
+        "question": "Em Hebreus 1:1-2, que contraste retórico o autor traça entre o Antigo Testamento e a revelação em Cristo?",
+        "options": [
+          "O AT estava errado",
+          "Anteriormente, Deus falou “muitas vezes e de muitas maneiras” através dos profetas; nos últimos tempos, Ele nos falou 'em Filho' (in huiô)",
+          "Os profetas eram superiores ao Filho",
+          "Deus não fala mais nada"
+        ],
+        "correct": 1,
+        "explanation": "A revelação fragmentária e progressiva culmina na palavra final e pessoal que é o próprio Filho, herdeiro de todas as coisas."
+      },
+      {
+        "question": "Em Filipenses 3:10 (“para que conheçamos a Cristo, e o poder da sua ressurreição, e a comunhão dos seus sofrimentos”), que palavra grega significa “conhecer” por experiência pessoal?",
+        "options": [
+          "Somente Oida",
+          "Gnônai (conhecimento relacional, vivido e transformador)",
+          "Agnoia",
+          "Doxa"
+        ],
+        "correct": 1,
+        "explanation": "Paulo não procura uma simples informação intelectual, mas uma união vivida com Cristo na sua morte e ressurreição."
+      },
+      {
+        "question": "Em 1 João 3:2 (“Sabemos que, quando ele se manifestar, seremos semelhantes a ele, porque assim como ele é o veremos”), que doutrina é expressa?",
+        "options": [
+          "Reencarnação",
+          "A visão beatífica/glorificação escatológica pela qual a contemplação do Cristo glorificado completa a transformação dos crentes",
+          "Esquecendo a ressurreição",
+          "Divinização panteísta"
+        ],
+        "correct": 1,
+        "explanation": "Esta esperança purificadora motiva a santificação agora (1 João 3:3)."
+      },
+      {
+        "question": "Qual termo hebraico do Salmo 136 (“Porque a sua misericórdia dura para sempre”, repetido 26 vezes) expressa o amor fiel ligado à Aliança?",
+        "options": [
+          "Ruah",
+          "Hesed (lealdade amorosa, fidelidade infalível à aliança)",
+          "Nefesh",
+          "Torá"
+        ],
+        "correct": 1,
+        "explanation": "O refrão litúrgico 'ki le-olam hasdo' ancora toda a história de Israel – criação, êxodo, libertações – na fidelidade à aliança de YHWH."
+      },
+      {
+        "question": "Em Colossenses 1:24 (“Completo na minha carne o que falta aos sofrimentos de Cristo pelo seu corpo, que é a Igreja”), o que Paulo quer dizer?",
+        "options": [
+          "Que o sacrifício da cruz foi insuficiente para a salvação",
+          "Não que a expiação seja incompleta, mas que Paulo participa das tribulações missionárias que Cristo e seu Corpo ainda deverão suportar até o fim",
+          "Que Paulo morre pelos pecados dos Colossenses",
+          "Que devemos recusar a graça"
+        ],
+        "correct": 1,
+        "explanation": "Em Colossenses 1:20-22, Paulo acaba de afirmar que a reconciliação através da cruz é completa; Trata-se dos sofrimentos apostólicos do testemunho."
+      },
+      {
+        "question": "Qual é o significado do verbo grego 'katallasso' ('reconciliar') em 2 Coríntios 5:18-19 ('Deus estava em Cristo, reconciliando consigo o mundo')?",
+        "options": [
+          "Ignorando o mal sem justiça",
+          "Transformar uma relação de hostilidade em paz graças à iniciativa soberana de Deus que não imputa aos homens as suas ofensas",
+          "Preste homenagem às nações",
+          "Separar os Judeus dos Gregos"
+        ],
+        "correct": 1,
+        "explanation": "Fato notável: no NT, não é o homem quem reconcilia Deus consigo mesmo, mas Deus quem reconcilia o mundo consigo mesmo em Cristo."
+      },
+      {
+        "question": "Em Êxodo 34:6-7, como a tensão entre misericórdia (“lento em irar-se, abundante em bondade”) e justiça (“não considera inocente qualquer culpa”) é resolvida na Bíblia?",
+        "options": [
+          "Pelo puro e simples esquecimento da justiça",
+          "Através da obra expiatória de Cristo, onde a justa santidade e a misericórdia perdoadora de Deus são totalmente abraçadas (Salmo 85:11; Romanos 3:25-26)",
+          "Pela supressão do Antigo Testamento",
+          "Somente pelo esforço humano"
+        ],
+        "correct": 1,
+        "explanation": "Êxodo 34:6-7 é o texto mais citado no AT pelo próprio AT (Números 14, Neemias 9, Salmos 86/103/145, Joel 2, Jonas 4)."
+      },
+      {
+        "question": "Qual é o significado da expressão “jugo leve” de Mateus 11:29-30 em oposição ao “jugo” dos escribas e fariseus?",
+        "options": [
+          "Total falta de disciplina",
+          "O discípulo aceita o ensino e orientação gentil e humilde de Jesus (“porque sou manso e humilde de coração”), encontrando descanso para a alma em vez de um fardo legalista",
+          "Saindo do trabalho",
+          "Uma regra monástica"
+        ],
+        "correct": 1,
+        "explanation": "No judaísmo antigo, 'tomar o jugo da Torá' significava tornar-se discípulo de um mestre; Jesus convida seu próprio jugo libertador."
+      },
+      {
+        "question": "Em Gálatas 2:20, qual é o significado gramatical do tempo perfeito grego 'synectaurômai' ('Fui crucificado com Cristo')?",
+        "options": [
+          "Uma ação puramente futura",
+          "Um acontecimento passado decisivo (a crucificação com Cristo) cujos efeitos continuam no presente (“agora vivo pela fé no Filho de Deus”)",
+          "Uma simples metáfora poética passageira",
+          "Um desejo incerto"
+        ],
+        "correct": 1,
+        "explanation": "O perfeito grego sublinha a realidade permanente da morte do velho homem e da nova vida trazida à vida por Cristo."
+      },
+      {
+        "question": "Em Efésios 1:13-14, o que significa o duplo título dado ao Espírito Santo: 'selo' (sphragis) e 'penhor' (arrabôn)?",
+        "options": [
+          "Um ornamento real sem efeito",
+          "O selo autentica pertencer a Deus; o depósito é o primeiro pagamento real que garante a herança futura completa",
+          "Uma recompensa apenas para os apóstolos",
+          "Um símbolo da Lei Mosaica"
+        ],
+        "correct": 1,
+        "explanation": "No grego comercial, o arrabôn era o depósito vinculativo que obrigava o vendedor a pagar integralmente: o Espírito já é uma antecipação do céu."
+      },
+      {
+        "question": "Em Romanos 8:26-27, como o Espírito Santo auxilia a oração do crente em sua fraqueza?",
+        "options": [
+          "Ditando fórmulas mágicas",
+          "Por si mesmo intercedendo pelos santos segundo Deus com 'gemidos inexprimíveis' quando não sabemos o que pedir",
+          "Removendo todo o sofrimento imediatamente",
+          "Ao substituir a fé"
+        ],
+        "correct": 1,
+        "explanation": "O crente beneficia assim de uma dupla intercessão divina: o Espírito nele (v. 26) e Cristo à direita de Deus (v. 34)."
+      },
+      {
+        "question": "Qual é o significado da expressão “ter os lombos cingidos” (Lucas 12:35; Efésios 6:14; 1 Pedro 1:13)?",
+        "options": [
+          "Use armadura dourada",
+          "Levante e amarre as longas pontas da sua túnica com um cinto para estar pronto para agir, correr ou sair sem impedimentos - um símbolo de vigilância espiritual",
+          "Durma profundamente",
+          "Comemore uma festa"
+        ],
+        "correct": 1,
+        "explanation": "Relembrando a noite da Páscoa em Êxodo 12,11, esta imagem chama os crentes à lucidez e à disponibilidade imediata."
+      },
+      {
+        "question": "Em 1 Coríntios 15:44 (“o corpo animal/psíquico é semeado, o corpo espiritual é ressuscitado”), o que significa “corpo espiritual” (sôma pneumatikon)?",
+        "options": [
+          "Um fantasma imaterial sem corpo",
+          "Um corpo verdadeiro, físico e glorioso, totalmente animado, renovado e vivificado pelo Espírito Santo (como o corpo ressuscitado de Cristo)",
+          "Uma alma liberta de toda matéria",
+          "Uma ilusão de ótica"
+        ],
+        "correct": 1,
+        "explanation": "O adjetivo 'pneumatikon' não opõe 'imaterial' a 'material', mas 'animado pelo Espírito imperecível' a 'sujeito à fraqueza mortal' (v. 42-44)."
+      },
+      {
+        "question": "Em Tiago 1:25, por que o autor chama o evangelho de “a lei perfeita, a lei da liberdade”?",
+        "options": [
+          "Porque permite que você faça qualquer coisa",
+          "Porque realizado pelo Espírito e pelo amor (lei real de Tiago 2:8), liberta o crente para obedecer voluntariamente a partir de dentro, em vez de por compulsão servil.",
+          "Porque remove toda moralidade",
+          "Porque ela vem de Roma"
+        ],
+        "correct": 1,
+        "explanation": "Aquele que se dedica a isso com perseverança e o põe em prática é abençoado na sua própria ação."
+      },
+      {
+        "question": "Em 1 Pedro 2:2 (“desejai, como os recém-nascidos, o leite espiritual e puro”), que adjetivo grego (“logikon”) é traduzido como “espiritual”?",
+        "options": [
+          "Sarx",
+          "Logikon ('racional/de acordo com a Palavra/espiritual', próximo a Romanos 12:1)",
+          "Nomikos",
+          "Cosmico"
+        ],
+        "correct": 1,
+        "explanation": "Logo depois de celebrar a “palavra viva e permanente de Deus” (1,23-25), Pedro chama-nos a alimentar-nos avidamente desta Palavra pura para crescermos rumo à salvação."
+      },
+      {
+        "question": "Em 2 Coríntios 4:7 (“Trazemos este tesouro em vasos de barro”), que verdade ministerial Paulo declara?",
+        "options": [
+          "Que os apóstolos devem ser ricos",
+          "A fragilidade humana dos mensageiros destaca que o poder soberano vem de Deus e não de nós",
+          "Que o corpo humano é ruim",
+          "Que o Evangelho deve permanecer escondido"
+        ],
+        "correct": 1,
+        "explanation": "A fraqueza e as provações do servo tornam-se o cenário em que a vida de Jesus se manifesta (2 Coríntios 4:8-11)."
+      },
+      {
+        "question": "Em Mateus 5:17-20, o que significa “se a vossa justiça não exceder a dos escribas e fariseus”?",
+        "options": [
+          "Multiplique ainda mais regras externas",
+          "Uma justiça interior do coração, enraizada na graça e no amor fiel, que cumpre a intenção mais profunda da Lei, em vez de sua aparência legalista",
+          "Aprenda o Talmud de cor",
+          "Recusar a graça de Deus"
+        ],
+        "correct": 1,
+        "explanation": "As seis antíteses seguintes (“Vocês ouviram... mas eu lhes digo”, cap. 5) ilustram esta justiça do coração que se estende ao amor aos inimigos."
+      },
+      {
+        "question": "Em João 14:2 (“Há muitas moradas na casa de meu Pai”), qual é o significado da palavra grega “monai”?",
+        "options": [
+          "Hotéis transitórios temporários",
+          "Moradias permanentes/locais de residência duradoura com o Pai em comunhão eterna",
+          "Estrelas distantes",
+          "Recompensas desiguais na terra"
+        ],
+        "correct": 1,
+        "explanation": "Este termo vem da mesma raiz do verbo 'menein' (habitar) usado em João 14:23 ('faremos nele morada')."
+      },
+      {
+        "question": "Em Romanos 11:36 (“Dele, por meio dele e para ele são todas as coisas”), que relação tríplice de Deus com o universo é proclamada?",
+        "options": [
+          "Criação por acaso",
+          "Deus é a Fonte original ('dele'), o Meio de Sustentação ('através dele') e o Objetivo Final ('para ele') de toda a realidade",
+          "Panteísmo absoluto",
+          "A dualidade entre dois deuses"
+        ],
+        "correct": 1,
+        "explanation": "Esta doxologia conclui os onze capítulos doutrinários de Romanos antes da exortação prática de Romanos 12."
+      },
+      {
+        "question": "No Salmo 139:7-10 (“Para onde me irei do teu Espírito?”), que atributo divino o salmista pondera com admiração em vez de medo?",
+        "options": [
+          "Indiferença divina",
+          "A onipresença pessoal e benevolente de Deus que sustenta o crente mesmo nas extremidades mais remotas",
+          "Raiva cega",
+          "Desamparo humano"
+        ],
+        "correct": 1,
+        "explanation": "Longe de fugir de um espião hostil, David descobre que mesmo nos confins dos mares “a tua mão direita me agarrará”."
+      },
+      {
+        "question": "Em Isaías 40:28-31, em que base o profeta baseia a esperança do cansado (“Ele dá força ao cansado”)?",
+        "options": [
+          "Com a força do exército de Judá",
+          "Sobre a inesgotável transcendência do Deus Criador que não se cansa nem se cansa e cuja inteligência é insondável",
+          "Sobre a aliança com o Egito",
+          "No descanso da morte"
+        ],
+        "correct": 1,
+        "explanation": "Esperar/esperar no Senhor (qawah) permite que você receba asas como as águias e caminhe sem se cansar."
+      },
+      {
+        "question": "Em 1 Timóteo 3:16, qual é o gênero literário e o conteúdo da passagem 'Aquele que se manifestou na carne, justificado pelo Espírito...'?",
+        "options": [
+          "Uma lista de regras alimentares",
+          "Um antigo hino cristológico de seis versos paralelos que resume a encarnação, a vindicação pelo Espírito, o testemunho angélico, a pregação às nações, a fé do mundo e a ascensão à glória",
+          "Uma carta de Pierre",
+          "Um provérbio de Salomão"
+        ],
+        "correct": 1,
+        "explanation": "Este hino é descrito por Paulo como “o grande mistério da piedade”."
+      },
+      {
+        "question": "Em Hebreus 12:22-24, de que realidade espiritual os crentes da Nova Aliança já se aproximaram?",
+        "options": [
+          "Monte Sinai tremendo e inacessível",
+          "Monte Sião, a cidade do Deus vivo, a Jerusalém celestial, miríades de anjos e Jesus mediador da nova aliança",
+          "O Deserto Árabe",
+          "Templo de Herodes"
+        ],
+        "correct": 1,
+        "explanation": "O acesso confiante à presença de Deus em Cristo contrasta com o terror sagrado que cercava o Sinai."
+      },
+      {
+        "question": "Em 1 Coríntios 2:9 (“Os olhos não viram estas coisas...”), como Paulo responde ao v. 10 sobre o acesso a estas realidades?",
+        "options": [
+          "Ninguém jamais os conhecerá por mil anos",
+          "'Deus os revelou a nós através do Espírito. Pois o Espírito sonda tudo, até as profundezas de Deus'",
+          "Somente os filósofos gregos os conhecem",
+          "Nós os encontramos apenas pela lógica"
+        ],
+        "correct": 1,
+        "explanation": "Muitas vezes citado erroneamente como falando apenas do céu futuro, este texto descreve primeiro a sabedoria oculta da cruz revelada agora pelo Espírito."
+      },
+      {
+        "question": "Em Tito 3:5 (“ele nos salvou, não pelas obras de justiça que praticamos, mas segundo a sua misericórdia, pela lavagem da regeneração e renovação do Espírito Santo”), o que significa “paliggenesia” (regeneração)?",
+        "options": [
+          "Uma simples melhoria exterior",
+          "Um ‘novo nascimento/nova gênese’ realizado pelo Espírito Santo que renova radicalmente o coração",
+          "Um rito puramente simbólico sem fé",
+          "Uma tradição filosófica"
+        ],
+        "correct": 1,
+        "explanation": "O termo não aparece em nenhum outro lugar do NT até Mateus 19:28 para a renovação cósmica final."
+      },
+      {
+        "question": "No Salmo 119:11 (“Guardo firmemente a tua palavra no coração, para não pecar contra ti”), que conexão espiritual é feita?",
+        "options": [
+          "Esquecendo a Lei",
+          "Interiorização amorosa e memorização da Palavra de Deus como defesa moral contra a tentação",
+          "Leitura rápida sem pensar",
+          "Desprezo pela graça"
+        ],
+        "correct": 1,
+        "explanation": "Esconder (tsaphan) a Palavra como um tesouro no coração transforma nossos desejos e protege nossos passos."
+      },
+      {
+        "question": "Em Mateus 5:13 (“Vós sois o sal da terra. Mas se o sal perder o sabor...”), que função do discípulo no mundo é enfatizada?",
+        "options": [
+          "Retire-se do mundo para o deserto",
+          "Preservar da corrupção moral e dar gosto/testemunho através de lealdade distinta dentro da sociedade",
+          "Dominar pela força",
+          "Parece exatamente como o mundo"
+        ],
+        "correct": 1,
+        "explanation": "Tal como a luz (v. 14), o sal não existe por si só, mas para agir no coração do mundo sem perder a sua identidade."
+      },
+      {
+        "question": "Em 2 Coríntios 1:20 (“Quanto a todas as promessas de Deus, nele está o sim”), que chave hermenêutica Paulo dá?",
+        "options": [
+          "Que toda promessa do AT é cancelada",
+          "Que todas as promessas divinas encontrem a sua confirmação e cumprimento definitivo em Jesus Cristo, daí o nosso 'Amém' para a glória de Deus",
+          "Que só Paulo pode prometer",
+          "Que o AT não fala de Jesus"
+        ],
+        "correct": 1,
+        "explanation": "Cristo é o fiel fiador da palavra de Deus, em oposição à inconstância humana."
+      },
+      {
+        "question": "Em João 7:37-39 (“Se alguém tem sede, venha a mim e beba... do seu seio fluirão rios de água viva”), a que João diz que Jesus estava se referindo?",
+        "options": [
+          "Para as chuvas da Galiléia",
+          "Ao Espírito Santo que aqueles que nele cressem receberiam após a sua glorificação",
+          "Para os rios da Babilônia",
+          "Apenas no poço de Jacob"
+        ],
+        "correct": 1,
+        "explanation": "Jesus pronunciou estas palavras no último dia da Festa dos Tabernáculos, marcado pelas libações de água no Templo."
+      },
+      {
+        "question": "Em Gálatas 6:2 (“Levai os fardos uns dos outros e assim cumprireis a lei de Cristo”), o que é “a lei de Cristo”?",
+        "options": [
+          "Um novo código de 613 regras",
+          "A lei do amor fraternal prático e do serviço humilde seguindo o exemplo de Jesus (João 13:34; Gálatas 5:14)",
+          "Direito romano",
+          "A ausência de solidariedade"
+        ],
+        "correct": 1,
+        "explanation": "Em Gálatas 6:5, Paulo especifica então que cada pessoa carregará o seu próprio fardo de responsabilidade diante de Deus – a complementaridade da ajuda e responsabilidade mútuas."
+      },
+      {
+        "question": "Em 1 Pedro 4:10, como cada crente deve usar o dom espiritual (carisma) que recebeu?",
+        "options": [
+          "Para sua glória pessoal",
+          "Como bons dispensadores (administradores) das diversas graças de Deus, servindo uns aos outros",
+          "Mantendo isso em segredo",
+          "Ao vendê-lo"
+        ],
+        "correct": 1,
+        "explanation": "O dom é uma graça confiada na mordomia para edificar a Igreja, para que Deus seja glorificado em todas as coisas por meio de Jesus Cristo (v. 11)."
+      },
+      {
+        "question": "Em Romanos 14:17 (“Porque o reino de Deus não é comer nem beber, mas...”), quais são os três frutos que caracterizam o Reino?",
+        "options": [
+          "Riqueza, poder e glória",
+          "Justiça, paz e alegria, através do Espírito Santo",
+          "Jejum, silêncio e solidão",
+          "Ritos, leis e templos"
+        ],
+        "correct": 1,
+        "explanation": "Paulo relativiza as disputas sobre os dias e os alimentos para reorientar a Igreja para o essencial do Reino."
+      },
+      {
+        "question": "No Salmo 34:8 (34:9: 'Cheire e veja quão bom é o Senhor!'), que verbo hebraico é usado para 'cheirar/sabor'?",
+        "options": [
+          "Degustação (ta'am) — convite para uma experiência pessoal e confiante da bondade de Deus, ecoada em 1 Pedro 2:3",
+          "Esquecer",
+          "Apenas medo",
+          "Calcular"
+        ],
+        "correct": 0,
+        "explanation": "'Bem-aventurado o homem que busca refúgio em si mesmo!' conclui este versículo."
+      },
+      {
+        "question": "Em Mateus 25:40 (“Quando fizestes estas coisas a um destes meus pequeninos irmãos, a mim as fizestes”), que verdade cristológica é ensinada?",
+        "options": [
+          "Deixe as boas obras substituirem a fé",
+          "Que Jesus se identifique pessoalmente com o seu povo necessitado (famintos, estrangeiros, doentes, presos) e julgue a autenticidade da fé através da caridade concreta",
+          "Que só os ricos são julgados",
+          "Essa esmola é opcional"
+        ],
+        "correct": 1,
+        "explanation": "O serviço aos mais vulneráveis ​​demonstra verdadeiro amor pelo próprio Rei."
+      },
+      {
+        "question": "Em 2 Pedro 1:3-4, o que já foi dado ao crente através do conhecimento daquele que nos chamou?",
+        "options": [
+          "Um trono terreno",
+          "Tudo o que contribui para a vida e a piedade, bem como as maiores e mais preciosas promessas para participar da natureza divina",
+          "Infalibilidade científica",
+          "Imortalidade terrena imediata"
+        ],
+        "correct": 1,
+        "explanation": "Participar na “natureza divina” significa reflectir a santidade moral e o amor de Deus, fugindo da corrupção do mundo."
+      },
+      {
+        "question": "Em Efésios 3:20-21, como Paulo expressa a medida do poder de Deus operando na Igreja?",
+        "options": [
+          "Limitado às nossas tímidas orações",
+          "'Aquele que pode fazer, através do poder que opera dentro de nós, infinitamente além de tudo o que pedimos ou pensamos'",
+          "Reservado para o passado apostólico",
+          "Condicionado pela riqueza"
+        ],
+        "correct": 1,
+        "explanation": "Esta doxologia conclui a oração de Paulo para que os crentes compreendam a largura, o comprimento, a profundidade e a altura do amor de Cristo."
+      },
+      {
+        "question": "Em João 1:16 (“E todos nós recebemos da sua plenitude, e graça por graça”), o que significa “graça por graça” (charin anti charitos)?",
+        "options": [
+          "Uma graça que rapidamente se esgota",
+          "Uma sucessão ininterrupta e superabundante de graças (uma nova graça constantemente substituindo ou acrescentando à anterior, ou a graça do Evangelho sucedendo à da Lei)",
+          "Uma graça merecida pelas obras",
+          "Uma graça reservada apenas a João"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo expressa a generosidade inesgotável de Cristo, em comparação com o v. 17 da Lei dada por Moisés."
+      },
+      {
+        "question": "No Salmo 130:3-4 (“Se te lembrares das iniquidades, ó Senhor, quem subsistirá? Mas...”), em que se baseia o verdadeiro temor de Deus?",
+        "options": [
+          "No terror sem esperança",
+          "'Mas o perdão está com você, para que você seja temido' - o perdão gratuito inspira respeito amoroso e grato",
+          "Sobre o esquecimento do pecado pelo homem",
+          "Sobre a perfeição moral anterior"
+        ],
+        "correct": 1,
+        "explanation": "Longe de encorajar a leviandade, a descoberta do perdão divino gera uma profunda reverência para com Deus."
+      },
+      {
+        "question": "Em Atos 17:28 (“Nele temos vida, movimento e existência”), como Paulo usa a cultura grega em Atenas?",
+        "options": [
+          "Ao adotar o politeísmo",
+          "Ao citar poetas gregos (Epimênides/Aratos: 'Somos da sua raça') para mostrar que o homem depende do Deus Criador e deve rejeitar os ídolos",
+          "Ao negar a ressurreição",
+          "Ao recusar a pregação"
+        ],
+        "correct": 1,
+        "explanation": "Paulo constrói uma ponte cultural inteligente sem nunca comprometer o chamado final ao arrependimento e à ressurreição (vv. 30-31)."
+      },
+      {
+        "question": "Em Filipenses 4:11-13, qual é o contexto exato do famoso versículo “Posso todas as coisas naquele que me fortalece”?",
+        "options": [
+          "A promessa de sucesso em qualquer empreendimento esportivo ou financeiro sem esforço",
+          "O segredo do contentamento aprendido por Paulo: saber viver tanto na humilhação/carência como na abundância graças à força interior de Cristo",
+          "Conquista militar",
+          "A ausência de todo sofrimento"
+        ],
+        "correct": 1,
+        "explanation": "Colocado no contexto, este versículo ensina independência espiritual e paz interior em todas as circunstâncias."
+      },
+      {
+        "question": "Em Jeremias 17:9-10 (“O coração é mais tortuoso do que todas as coisas e perverso; quem o conhecerá?”), que resposta o v. 10 traz?",
+        "options": [
+          "Ninguém pode mudar",
+          "'Eu, o Senhor, testo o coração, examino as rédeas, para recompensar cada homem de acordo com seus caminhos'",
+          "O coração é naturalmente perfeito",
+          "Somente os anjos conhecem o coração"
+        ],
+        "correct": 1,
+        "explanation": "Este diagnóstico lúcido da condição humana explica a necessidade de um novo coração prometido em Jeremias 31 e Ezequiel 36."
+      },
+      {
+        "question": "Em Hebreus 10:19-22, quais são os três privilégios que decorrem da nossa “livre entrada no santuário pelo sangue de Jesus”?",
+        "options": [
+          "Riqueza, prestígio e poder",
+          "Aproximemo-nos com um coração sincero e na plenitude da fé, apeguemo-nos à profissão da nossa esperança e zelemos uns pelos outros para nos estimularmos ao amor.",
+          "Isolamento, silêncio e medo",
+          "Voltar aos sacrifícios de animais"
+        ],
+        "correct": 1,
+        "explanation": "As três virtudes teologais (fé, esperança, amor) fluem diretamente do acesso aberto pelo sacrifício de Cristo."
+      },
+      {
+        "question": "Em 1 Tessalonicenses 5:16-18 (“Estai sempre alegres. Orai sem cessar. Em tudo dai graças”), que esclarecimento importante acompanha “em todas as coisas”?",
+        "options": [
+          "Esse mal é bom",
+          "'Pois esta é a vontade de Deus em Cristo Jesus para convosco' - dando graças NO MEIO de cada circunstância (não necessariamente PELO mal em si)",
+          "Que você nunca deveria chorar",
+          "Deixe a oração durar 24 horas sem falar"
+        ],
+        "correct": 1,
+        "explanation": "A gratidão repousa na fidelidade soberana de Deus em Cristo em cada situação."
+      },
+      {
+        "question": "Em 1 João 2:15-17, como João descreve as três concupiscências que resumem “tudo o que há no mundo”?",
+        "options": [
+          "Estudar, trabalhar e descansar",
+          "A concupiscência da carne, a concupiscência dos olhos e a soberba da vida - essas coisas passam, mas aquele que faz a vontade de Deus permanece para sempre",
+          "Água, terra e fogo",
+          "Juventude, meia-idade e velhice"
+        ],
+        "correct": 1,
+        "explanation": "Este tríptico recorda tanto a tentação de Eva em Gênesis 3:6 como as tentações de Jesus no deserto."
+      },
+      {
+        "question": "Em Lucas 9:23-24, que paradoxo Jesus afirma sobre o verdadeiro significado da vida?",
+        "options": [
+          "Acumular bens salva vidas",
+          "'Quem quiser salvar a sua vida, perdê-la-á, mas quem a perder por minha causa, salvá-la-á'",
+          "Evite toda responsabilidade",
+          "Mantendo sua fé em segredo"
+        ],
+        "correct": 1,
+        "explanation": "Este paradoxo é repetido nos quatro Evangelhos (Mateus 10:39; 16:25; Marcos 8:35; João 12:25), pois é central para o ensino de Jesus."
+      },
+      {
+        "question": "Em Amós 5:24, que famosa imagem de justiça social e espiritual o profeta proclama?",
+        "options": [
+          "'Deixe os templos serem dourados'",
+          "'Mas deixe a justiça fluir como uma corrente de água, e a justiça como uma torrente que nunca seca!'",
+          "'Que os sacrifícios sejam duplicados'",
+          "'Deixe o povo ficar em silêncio'"
+        ],
+        "correct": 1,
+        "explanation": "Amós contrasta canções altas sem justiça com um rio interminável de equidade e justiça."
+      },
+      {
+        "question": "No Salmo 110:3, como o povo do Rei-Messias se apresenta no dia do seu poder?",
+        "options": [
+          "Forçado pela espada",
+          "Cheio de boa vontade (ofertas voluntárias), revestido de ornamentos sagrados, como o orvalho ascendente da madrugada",
+          "Fugindo para o deserto",
+          "Em silêncio"
+        ],
+        "correct": 1,
+        "explanation": "Imagem poética de um exército jovem, puro e voluntariamente devotado ao seu Rei."
+      },
+      {
+        "question": "Em Romanos 15:4, que papel pastoral Paulo atribui a todas as Escrituras do Antigo Testamento?",
+        "options": [
+          "Um simples livro de história antiga",
+          "'Tudo o que foi escrito de antemão foi escrito para nossa instrução, para que através da paciência e do conforto das Escrituras possamos ter esperança.'",
+          "Um texto desatualizado",
+          "Um manual reservado aos sacerdotes"
+        ],
+        "correct": 1,
+        "explanation": "Paulo afirma a contínua relevância espiritual e reconfortante do Antigo Testamento para a Igreja."
+      },
+      {
+        "question": "Em 2 Timóteo 2:15, que ideal Paulo propõe para o servo de Deus diante das Escrituras?",
+        "options": [
+          "Improvisar sem estudar",
+          "'Esforce-se para apresentar-se diante de Deus como um homem comprovado, um obreiro que não tem do que se envergonhar, que maneja bem a palavra da verdade.'",
+          "Para agradar a todos",
+          "Debatendo palavras inúteis"
+        ],
+        "correct": 1,
+        "explanation": "'Distribuir corretamente' (orthotomeô) significa literalmente 'traçar um sulco reto / cortar com precisão' a ​​Palavra sem torcê-la."
+      },
+      {
+        "question": "Em Apocalipse 1:5-6, como a doxologia inicial resume a obra passada e presente de Cristo?",
+        "options": [
+          "Ele nos julgará sem piedade",
+          "'Àquele que nos ama, que pelo seu sangue nos libertou dos nossos pecados e nos fez reino, sacerdotes para Deus, seu Pai'",
+          "Ele nos deu cidades terrenas",
+          "Ele escreveu um código civil"
+        ],
+        "correct": 1,
+        "explanation": "O presente “que nos ama” sublinha o amor presente e contínuo de Cristo ressuscitado, fundado na sua cruz."
       }
     ]
   }

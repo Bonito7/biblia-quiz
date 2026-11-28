@@ -616,6 +616,424 @@
         ],
         "correct": 1,
         "explanation": "Zekaria 9:9 “Tazama, mfalme wako anakuja kwako, mwenye haki na mshindi, ni mnyenyekevu, amepanda punda."
+      },
+      {
+        "question": "Ni siku gani ya uumbaji Mungu aliumba jua, mwezi na nyota?",
+        "options": [
+          "Siku ya 1",
+          "Siku ya 4",
+          "Siku ya 6",
+          "Siku ya 7"
+        ],
+        "correct": 1,
+        "explanation": "Mungu aliumba mianga katika anga la anga siku ya 4 (Mwanzo 1:14-19)."
+      },
+      {
+        "question": "Ni ndege gani Nuhu alimtuma kwanza kutoka kwenye safina ili kuona kama maji yalikuwa yamepungua?",
+        "options": [
+          "Njiwa",
+          "kunguru",
+          "Tai",
+          "shomoro"
+        ],
+        "correct": 1,
+        "explanation": "Nuhu kwanza alitoa kunguru, kisha akamtuma njiwa, ambaye alirudi na tawi la mzeituni (Mwanzo 8:7-11)."
+      },
+      {
+        "question": "Jina la ndugu pacha wa Yakobo lilikuwa nani?",
+        "options": [
+          "Joseph",
+          "Esau",
+          "Ishmaeli",
+          "Benjamin"
+        ],
+        "correct": 1,
+        "explanation": "Esau alikuwa ndugu mapacha mkubwa wa Yakobo, aliyezaliwa wa kwanza nyekundu na nywele (Mwanzo 25:25)."
+      },
+      {
+        "question": "Esau alimuuzia Yakobo haki yake ya mzaliwa wa kwanza kwa sahani gani?",
+        "options": [
+          "Mkate na divai",
+          "Supu ya dengu",
+          "Samaki ya kukaanga",
+          "Tini na asali"
+        ],
+        "correct": 1,
+        "explanation": "Esau, akiwa na njaa, alitoa haki yake ya mzaliwa wa kwanza kwa mkate na supu ya dengu (Mwanzo 25:34)."
+      },
+      {
+        "question": "Je, ni vazi gani maalum ambalo Yakobo alimpa mwanawe Yosefu?",
+        "options": [
+          "Nguo ya kitani nyeupe",
+          "Nguo ya rangi kadhaa (iliyo na mikono mirefu)",
+          "Silaha za shaba",
+          "Nguo ya zambarau"
+        ],
+        "correct": 1,
+        "explanation": "Israeli alimpenda Yusufu kuliko wanawe wengine wote na akamfanyia kanzu ya rangi nyingi (Mwanzo 37:3)."
+      },
+      {
+        "question": "Ni ndoto gani ya Yusufu iliyowakilisha ndugu zake na miganda ya ngano?",
+        "options": [
+          "Wale ng'ombe saba wanono",
+          "Miganda ya akina ndugu wakisujudu mbele yake",
+          "Jua, mwezi na nyota kumi na moja",
+          "Ngazi ya kwenda mbinguni"
+        ],
+        "correct": 1,
+        "explanation": "Katika ndoto yake ya kwanza, mganda wa Yusufu uliinuka na miganda ya ndugu zake ikainama mbele yake (Mwanzo 37:7)."
+      },
+      {
+        "question": "Je, mapigo ya kwanza kati ya kumi ya Misri yalikuwa yapi?",
+        "options": [
+          "Vyura",
+          "Maji ya Nile yaligeuka kuwa damu",
+          "Panzi",
+          "Giza"
+        ],
+        "correct": 1,
+        "explanation": "Haruni akayapiga maji ya mto kwa fimbo yake na maji yote ya Misri yakageuka kuwa damu (Kutoka 7:20)."
+      },
+      {
+        "question": "Pigo la kumi na la mwisho la Misri lilikuwa ni lipi?",
+        "options": [
+          "Salamu",
+          "Giza",
+          "Kifo cha mzaliwa wa kwanza",
+          "Vidonda"
+        ],
+        "correct": 2,
+        "explanation": "Usiku wa manane Bwana akawapiga wazaliwa wa kwanza wote wa Misri, isipokuwa zile nyumba zilizotiwa alama ya damu ya mwana-kondoo (Kutoka 12:29)."
+      },
+      {
+        "question": "Waisraeli walipaswa kuweka nini kwenye miimo na vizingiti vya milango yao wakati wa Pasaka ya kwanza?",
+        "options": [
+          "Mafuta ya mizeituni",
+          "Damu ya mwana-kondoo",
+          "Matawi ya mizeituni",
+          "Chumvi"
+        ],
+        "correct": 1,
+        "explanation": "Damu ya mwana-kondoo kwenye nguzo ilitumika kama ishara kwa mharibifu kupita juu (Kutoka 12:7-13)."
+      },
+      {
+        "question": "Ni nguo gani au kitu gani ambacho Haruni aliyeyusha jangwani wakati Musa alipokuwa kwenye Mlima Sinai?",
+        "options": [
+          "Nyoka ya shaba",
+          "Ndama wa dhahabu",
+          "Taji ya fedha",
+          "Sanamu ya jiwe"
+        ],
+        "correct": 1,
+        "explanation": "Haruni alikusanya pete za dhahabu za watu na kuzifanya kuwa ndama wa chuma cha kutupwa (Kutoka 32:4)."
+      },
+      {
+        "question": "Musa alikaa kwa muda gani kwenye Mlima Sinai ili kupokea Sheria?",
+        "options": [
+          "siku 7",
+          "siku 12",
+          "Siku 40 mchana na usiku",
+          "siku 70"
+        ],
+        "correct": 2,
+        "explanation": "Musa alikaa mlimani siku arobaini mchana na usiku bila kula wala kunywa (Kutoka 24:18; 34:28)."
+      },
+      {
+        "question": "Ni kiongozi gani wa kijeshi aliyemfuata Musa kuwaongoza Waisraeli kuingia Kanaani?",
+        "options": [
+          "Haruni",
+          "Kalebu",
+          "Yoshua",
+          "Gideoni"
+        ],
+        "correct": 2,
+        "explanation": "Yoshua, mwana wa Nuni, aliteuliwa na Musa kuwaongoza watu kwenye Nchi ya Ahadi (Kumbukumbu la Torati 34:9)."
+      },
+      {
+        "question": "Musa alituma wapelelezi wangapi kuchunguza nchi ya Kanaani?",
+        "options": [
+          "2",
+          "7",
+          "12",
+          "40"
+        ],
+        "correct": 2,
+        "explanation": "Musa alituma kiongozi kutoka katika kila kabila kumi na mbili, lakini ni Yoshua na Kalebu pekee waliowatia moyo watu (Hesabu 13)."
+      },
+      {
+        "question": "Musa aliinua kitu gani juu ya mti nyikani ili kuponya wale walioumwa na nyoka?",
+        "options": [
+          "Fimbo yenye maua",
+          "Nyoka ya shaba (ya shaba)",
+          "Jedwali la mawe",
+          "Ngao ya dhahabu"
+        ],
+        "correct": 1,
+        "explanation": "Yeyote aliyeumwa na kumtazama yule nyoka wa shaba alihifadhi uhai (Hesabu 21:9; Yohana 3:14)."
+      },
+      {
+        "question": "Daudi alitumia chombo gani ili kumtuliza Mfalme Sauli aliyeteswa?",
+        "options": [
+          "Baragumu",
+          "Kinubi",
+          "Matari",
+          "Filimbi"
+        ],
+        "correct": 1,
+        "explanation": "Roho mbaya ilipomshika Sauli, Daudi alichukua kinubi chake na kucheza, na Sauli akatulia (1 Samweli 16:23)."
+      },
+      {
+        "question": "Daudi alichagua mawe mangapi laini kutoka kwenye kijito kabla ya kukabiliana na Goliathi?",
+        "options": [
+          "1 jiwe",
+          "3 mawe",
+          "5 mawe",
+          "7 mawe"
+        ],
+        "correct": 2,
+        "explanation": "Daudi alichagua mawe matano yaliyong'aa kutoka kwenye kijito, lakini moja tu ilitosha kumwangusha Goliathi (1 Samweli 17:40-49)."
+      },
+      {
+        "question": "Mfalme Sulemani alimwomba Mungu nini alipomtokea katika ndoto huko Gibeoni?",
+        "options": [
+          "Miaka ndefu ya maisha",
+          "Utajiri mkubwa",
+          "Moyo wenye akili kuwahukumu watu wake (hekima)",
+          "Kifo cha maadui zake"
+        ],
+        "correct": 2,
+        "explanation": "Mungu aliguswa kwamba Sulemani aliomba hekima na kumpa mali na utukufu zaidi (1 Wafalme 3:9-13)."
+      },
+      {
+        "question": "Sulemani alisuluhishaje mzozo kati ya wanawake wawili waliokuwa wakipigania mtoto mmoja?",
+        "options": [
+          "Alipiga kura",
+          "Alipendekeza kumkata mtoto huyo vipande viwili ili kufichua mama halisi",
+          "Alimkabidhi mtoto huyo kwa kuhani mkuu",
+          "Aliuliza majirani"
+        ],
+        "correct": 1,
+        "explanation": "Mama wa kweli alipendelea kumtoa mwanawe aliye hai badala ya kumwona akiuawa, akidhihirisha upendo wake wa uzazi (1 Wafalme 3:25-27)."
+      },
+      {
+        "question": "Ni ndege gani aliyemlisha Eliya karibu na kijito cha Kerithi wakati wa njaa?",
+        "options": [
+          "Njiwa",
+          "Kunguru",
+          "Kware",
+          "Nguruwe"
+        ],
+        "correct": 1,
+        "explanation": "Kunguru walimletea Eliya mkate na nyama asubuhi na jioni (1 Wafalme 17:6)."
+      },
+      {
+        "question": "Je, marafiki watatu wa Danieli (Shadraka, Meshaki na Abednego) waliadhibiwaje kwa kukataa kuabudu sanamu ya dhahabu?",
+        "options": [
+          "Kutupwa kwenye tundu la simba",
+          "Kutupwa katika tanuru ya moto",
+          "Kuhamishwa kwenye kisiwa",
+          "Kupunguzwa kwa maisha gerezani"
+        ],
+        "correct": 1,
+        "explanation": "Walitupwa wakiwa wamefungwa ndani ya tanuru iliyotiwa moto mara saba zaidi, lakini mtu wa nne kama mwana wa miungu aliwahifadhi (Danieli 3)."
+      },
+      {
+        "question": "Je, ni kitabu gani katika Agano la Kale kinachoeleza kuhusu majaribu ya mtu mwenye haki ambaye alipoteza mali yake, watoto wake na afya yake?",
+        "options": [
+          "Methali",
+          "Kazi",
+          "Mhubiri",
+          "Maombolezo"
+        ],
+        "correct": 1,
+        "explanation": "Ayubu aliendelea kuwa mwaminifu kwa Mungu licha ya kupoteza kila kitu alichokuwa nacho na shutuma za rafiki zake (Ayubu 1-2)."
+      },
+      {
+        "question": "Samsoni alipata matunda au chakula gani kwenye mzoga wa simba aliyemuua?",
+        "options": [
+          "Tini",
+          "Nyuki asali",
+          "Tarehe",
+          "Zabibu"
+        ],
+        "correct": 1,
+        "explanation": "Kundi la nyuki na asali lilikuwa limefanyiza ndani ya maiti ya simba, likivuvia kitendawili cha Samsoni (Waamuzi 14:8-14)."
+      },
+      {
+        "question": "Ni mwanamke gani aliyemkata Samsoni mashungi saba ya nywele alipokuwa amelala?",
+        "options": [
+          "Esta",
+          "Delila",
+          "Yezebeli",
+          "Bathsheba"
+        ],
+        "correct": 1,
+        "explanation": "Akilipwa na wakuu wa Wafilisti, Delila alitoa siri ya Samsoni na kunyoa kichwa chake (Waamuzi 16:17-19)."
+      },
+      {
+        "question": "Ni mwana gani wa Nuhu aliona uchi wa baba yake mlevi bila kuufunika?",
+        "options": [
+          "Sem",
+          "Cham",
+          "Yafethi",
+          "Henoko"
+        ],
+        "correct": 1,
+        "explanation": "Hamu alitoa taarifa kwa ndugu zake wawili Shemu na Yafethi, ambao walimfunika baba yao nyuma (Mwanzo 9:22-23)."
+      },
+      {
+        "question": "Ahadi ya Mungu ilikuwa nini alipobadilisha jina la Abramu kuwa Ibrahimu?",
+        "options": [
+          "Kwamba angekuwa farao",
+          "kwamba atakuwa baba wa mataifa mengi",
+          "Kwamba hatazeeka tena",
+          "Kwamba angejenga Hekalu"
+        ],
+        "correct": 1,
+        "explanation": "Ibrahimu maana yake ni 'baba wa wengi' (Mwanzo 17:5)."
+      },
+      {
+        "question": "Abrahamu alitoa nini badala ya Isaka kwenye Mlima Moria?",
+        "options": [
+          "Fahali",
+          "Kondoo dume aliyeshikwa na pembe zake kwenye kichaka",
+          "Njiwa mbili",
+          "Mwana-kondoo aliyeletwa kutoka Beer-sheba"
+        ],
+        "correct": 1,
+        "explanation": "Malaika wa Bwana akauzuia mkono wa Ibrahimu, ambaye aliona kondoo mume ameshikwa na pembe, akamtoa kuwa sadaka ya kuteketezwa (Mwanzo 22:13)."
+      },
+      {
+        "question": "Ni siku ngapi mchana na usiku Yona alikaa ndani ya tumbo la samaki mkubwa?",
+        "options": [
+          "Siku 1 na usiku 1",
+          "Siku 3 na usiku 3",
+          "Siku 7 na usiku 7",
+          "Siku 40 mchana na usiku"
+        ],
+        "correct": 1,
+        "explanation": "Yona alimwomba Bwana akiwa ndani ya matumbo ya samaki huyo ambako alikaa siku tatu mchana na usiku (Yona 2:1)."
+      },
+      {
+        "question": "Ni mti gani ulikua kwa usiku mmoja ili kumpa Yona kivuli mbele ya Ninawi?",
+        "options": [
+          "Mzeituni",
+          "Mafuta ya castor",
+          "Mtini",
+          "Mwerezi"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alisababisha mmea wa castor kukua juu ya Yona, kisha mdudu akaukausha siku iliyofuata ili kumfundisha huruma (Yona 4:6-10)."
+      },
+      {
+        "question": "Je, ni jina gani la kitabu cha kishairi kinachohusishwa na Yeremia ambaye anaomboleza uharibifu wa Yerusalemu?",
+        "options": [
+          "Mhubiri",
+          "Maombolezo",
+          "Wimbo wa Nyimbo",
+          "Methali"
+        ],
+        "correct": 1,
+        "explanation": "Maombolezo ya Yeremia yanaonyesha huzuni juu ya uharibifu wa Yerusalemu na imani katika uaminifu wa Mungu (Maombolezo 3:22-23)."
+      },
+      {
+        "question": "Ni katika kitabu gani cha Biblia tunachopata: ‘Ubatili mtupu, yote ni ubatili’?",
+        "options": [
+          "Kazi",
+          "Methali",
+          "Mhubiri",
+          "Zaburi"
+        ],
+        "correct": 2,
+        "explanation": "Mhubiri (Qohelet) huanza na kumalizia kwa tafakari hii ya maana ya maisha chini ya jua (Mhubiri 1:2; 12:8)."
+      },
+      {
+        "question": "Ni watu gani wakubwa au wapiganaji waliomiliki nchi ya Kanaani kabla ya Yoshua, hasa Goliathi baadaye?",
+        "options": [
+          "Waajemi",
+          "Wafilisti na Wakanaani (pamoja na Waanaki)",
+          "Warumi",
+          "Wagiriki"
+        ],
+        "correct": 1,
+        "explanation": "Wapelelezi walitoa taarifa kuhusu wazao wa Anaki (Anaki) na miji yenye ngome katika Kanaani (Hesabu 13:28-33)."
+      },
+      {
+        "question": "Je! ni ishara gani Mungu alimpa Gideoni na ngozi ya pamba?",
+        "options": [
+          "Ngozi ilishika moto",
+          "Ngozi ilikuwa imelowa kwa umande kisha ikakauka siku iliyofuata kwenye ardhi yenye unyevunyevu",
+          "Ngozi ikawa dhahabu",
+          "Ngozi iliruka"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alijibu ombi la Gideoni mara mbili kwenye uwanja wa kupuria ili kuimarisha imani yake (Waamuzi 6:36-40)."
+      },
+      {
+        "question": "Wanaume 300 wa Gideoni waliwakimbiza Wamidiani kwa silaha gani zisizo za kawaida?",
+        "options": [
+          "Panga za dhahabu na magari ya vita",
+          "Baragumu, mitungi tupu na mienge",
+          "Upinde na mishale yenye sumu",
+          "Mikuki ya shaba"
+        ],
+        "correct": 1,
+        "explanation": "Kwa kuvunja mitungi, kuwasha mienge na kupuliza tarumbeta, walisababisha hofu katika kambi ya adui (Waamuzi 7:16-22)."
+      },
+      {
+        "question": "Ni mwana gani wa Daudi aliyeasi dhidi ya baba yake na kuning’inia kwa nywele zake kutoka kwenye matawi ya mti wa mwaloni?",
+        "options": [
+          "Sulemani",
+          "Absalomu",
+          "Adoniya",
+          "Amnoni"
+        ],
+        "correct": 1,
+        "explanation": "Absalomu alishikwa na kichwa kwenye matawi ya mti mkubwa wa mwaloni wakati wa kukimbia kwake na aliuawa na Yoabu (2 Samweli 18:9-14)."
+      },
+      {
+        "question": "Ni nabii gani aliyemfufua mwana wa mjane wa Sarepta na kisha kushusha moto kutoka mbinguni?",
+        "options": [
+          "Elisha",
+          "Eliya",
+          "Samweli",
+          "Yeremia"
+        ],
+        "correct": 1,
+        "explanation": "Eliya alilala juu ya mtoto wa mjane wa Sarepta mara tatu, na Bwana akamfufua (1 Wafalme 17:21-22)."
+      },
+      {
+        "question": "Je, mjane maskini wa nabii aliwezaje kulipa deni lake kutokana na muujiza wa Elisha?",
+        "options": [
+          "Kwa sarafu ya dhahabu iliyopatikana katika samaki",
+          "Mafuta kutoka kwenye chombo chake hayakuacha kutiririka maadamu alikuwa na vyombo vitupu.",
+          "Kwa mvua ya mana",
+          "Kwa hazina iliyofichwa"
+        ],
+        "correct": 1,
+        "explanation": "Elisha alizidisha chombo chake kimoja cha mafuta ili kujaza vyombo vyote vilivyoazima kutoka kwa majirani (2 Wafalme 4:1-7)."
+      },
+      {
+        "question": "Ni kitu gani kilielea juu ya maji ya Yordani kutokana na muujiza wa Elisha?",
+        "options": [
+          "Taji ya dhahabu",
+          "Kichwa cha shoka kilianguka ndani ya maji",
+          "Jiwe kutoka kwa Hekalu",
+          "Upanga wa chuma"
+        ],
+        "correct": 1,
+        "explanation": "Elisha akatupa kipande cha mti ndani ya maji na kuelea juu ya kichwa cha shoka lililoazima (2 Wafalme 6:5-7)."
+      },
+      {
+        "question": "Ni vitabu vingapi vinavyounda Pentateuch (Torah)?",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "12"
+        ],
+        "correct": 1,
+        "explanation": "Pentateuki inajumuisha vitabu vitano vya kwanza vya Biblia: Mwanzo, Kutoka, Mambo ya Walawi, Hesabu na Kumbukumbu la Torati."
       }
     ],
     "intermediaire": [
@@ -1069,6 +1487,578 @@
         ],
         "correct": 1,
         "explanation": "'Siku ya Bwana' ni dhana ya kinabii ya uingiliaji kati wa Mungu ili kuhukumu mataifa na kuwakomboa Israeli (Amosi 5:18-20; Yoeli 2:31)."
+      },
+      {
+        "question": "Ni mwana gani wa Yakobo alikuja kuwa babu wa makuhani na Walawi?",
+        "options": [
+          "Yuda",
+          "Lawi",
+          "Ruben",
+          "Simeoni"
+        ],
+        "correct": 1,
+        "explanation": "Kabila la Lawi lilitengwa kwa ajili ya huduma ya Hema la Kukutania na Hekalu, pamoja na ukoo wa Haruni kwa ukuhani (Hesabu 3)."
+      },
+      {
+        "question": "Ni kabila gani la Israeli lilitoa nasaba ya kifalme iliyoahidiwa kwa Daudi?",
+        "options": [
+          "Benjamin",
+          "Efraimu",
+          "Yuda",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "Daudi alikuwa wa kabila la Yuda, akitimiza baraka za Yakobo katika Mwanzo 49:10."
+      },
+      {
+        "question": "Ni mfalme gani aliyetawala Israeli ya kaskazini wakati Eliya alipotabiri kuhusu ukame mkuu?",
+        "options": [
+          "Yeroboamu",
+          "Ahabu",
+          "Yehu",
+          "Omri"
+        ],
+        "correct": 1,
+        "explanation": "Ahabu, mume wa Yezebeli, aliwapita wafalme wote wa Israeli waliomtangulia kwa kutomcha Mungu (1 Wafalme 16:30-33)."
+      },
+      {
+        "question": "Je, mtumishi wa Musa aliyemfuata aliitwa nani, lakini pia mwana wa kuhani mkuu katika Zekaria?",
+        "options": [
+          "Kalebu",
+          "Yoshua",
+          "Haruni",
+          "Gideoni"
+        ],
+        "correct": 1,
+        "explanation": "Yoshua (Yeshoua/Yehoshoua) inamaanisha 'Bwana ni wokovu', jina lililobebwa na mrithi wa Musa na kuhani mkuu wa baada ya uhamisho."
+      },
+      {
+        "question": "Je! Mungu alifanya mpango gani na Nuhu, Ibrahimu, Musa, na Daudi katika Agano la Kale?",
+        "options": [
+          "Mikataba ya kibiashara",
+          "Msururu wa miungano inayoendelea (Noach, Abrahamic, Sinaitic, Davidic)",
+          "Mikataba ya amani na Misri",
+          "Sheria za Kirumi"
+        ],
+        "correct": 1,
+        "explanation": "Historia ya Biblia inafunuliwa kupitia maagano makuu ya Mungu na wanadamu na Israeli."
+      },
+      {
+        "question": "Je, Urimu na Thumimu huvaliwa nini kwenye kifuko cha kifuani cha kuhani mkuu?",
+        "options": [
+          "vyombo vya muziki",
+          "Vitu vitakatifu vinavyomruhusu mtu kumwomba Mungu jibu",
+          "Vyombo viwili vya dhahabu",
+          "Mawe ya makaburi"
+        ],
+        "correct": 1,
+        "explanation": "Ikiwekwa katika dirii ya kifuani ya hukumu, Urimu na Thumimu zilitumiwa kushauriana na Bwana katika maamuzi makuu (Kutoka 28:30)."
+      },
+      {
+        "question": "Ni likizo gani ya Kiyahudi ya msimu wa joto husherehekea mavuno na kukumbuka ugeni wa Israeli katika mahema jangwani?",
+        "options": [
+          "Pasaka (Pasaka)",
+          "Sikukuu ya Vibanda (Sukkot)",
+          "Purim",
+          "Hanukkah"
+        ],
+        "correct": 1,
+        "explanation": "Wakati wa Sukkot, Waisraeli walikaa kwa siku saba chini ya vibanda vya majani kwa ukumbusho wa jangwa (Mambo ya Walawi 23:42-43)."
+      },
+      {
+        "question": "Ni sikukuu gani ya Kiyahudi inayoadhimisha ukombozi wa Wayahudi kutoka kwa njama ya Hamani chini ya Esta?",
+        "options": [
+          "Pasaka",
+          "Purim",
+          "Shavuot",
+          "Yom Kippur"
+        ],
+        "correct": 1,
+        "explanation": "Sikukuu ya Purimu ilichukua jina lake kutoka kwa 'staha' zilizotolewa na Hamani ili kurekebisha tarehe ya mauaji (Esta 9:24-26)."
+      },
+      {
+        "question": "Ni mfalme gani wa Yuda aliyevunja nyoka ya shaba ya Musa kwa sababu watu walimtolea uvumba?",
+        "options": [
+          "Yehoshafati",
+          "Hezekia",
+          "Sulemani",
+          "Rehoboamu"
+        ],
+        "correct": 1,
+        "explanation": "Hezekia aliongoza mageuzi makubwa ya kidini na kuharibu nyoka wa shaba aliyeitwa Nehushtani (2 Wafalme 18:4)."
+      },
+      {
+        "question": "Nabii aliyemshauri Daudi wakati wa kuhesabu na kuchagua mapigo matatu alikuwa anaitwa nani?",
+        "options": [
+          "Eliya",
+          "Gadi",
+          "Amosi",
+          "Mika"
+        ],
+        "correct": 1,
+        "explanation": "Nabii Gadi, mwonaji wa Daudi, alimpa chaguo kati ya miaka saba ya njaa, miezi mitatu ya kukimbia, au siku tatu za tauni (2 Samweli 24:11-13)."
+      },
+      {
+        "question": "Ni mfalme gani wa Yuda aliyepigwa na ukoma kwa kutaka kutoa uvumba ndani ya Hekalu?",
+        "options": [
+          "Asa",
+          "Uzia (Azaria)",
+          "Hezekia",
+          "Yosia"
+        ],
+        "correct": 1,
+        "explanation": "Licha ya upinzani wa makuhani 80, Uzia alishindwa kujizuia na kupigwa na ukoma kwenye paji la uso hadi kifo chake (2 Mambo ya Nyakati 26:16-21)."
+      },
+      {
+        "question": "Ni nani aliyekuwa mfalme asiyemwogopa Mungu wa Yuda aliyetawala kwa miaka 55, akaabudu sanamu kupita kiasi, kisha akatubu akiwa utekwani?",
+        "options": [
+          "Yosia",
+          "Manase",
+          "Ahazi",
+          "Joashi"
+        ],
+        "correct": 1,
+        "explanation": "Kulingana na 2 Mambo ya Nyakati 33:11-13 , Manase alichukuliwa kwa minyororo hadi Babeli ambako alijinyenyekeza sana mbele za Mungu."
+      },
+      {
+        "question": "Ni mfalme gani kijana wa Yuda aliyefichwa kwa muda wa miaka 6 Hekaluni na shangazi yake Yehosheba ili kuepuka mauaji ya Athalia?",
+        "options": [
+          "Yosia",
+          "Joashi",
+          "Uzia",
+          "Hezekia"
+        ],
+        "correct": 1,
+        "explanation": "Akiwa na umri wa miaka saba, Yoashi alitawazwa kuwa mfalme na kuhani mkuu Yehoyada, na hivyo kumaliza unyakuzi wa Athalia (2 Wafalme 11)."
+      },
+      {
+        "question": "Ni kiapo gani hasa kilichokataza kunywa divai, kugusa maiti, na kukata nywele za mtu?",
+        "options": [
+          "Nadhiri ya Mlawi",
+          "Nadhiri ya Mnadhiri",
+          "Nadhiri ya Sabato",
+          "Jubilee unataka"
+        ],
+        "correct": 1,
+        "explanation": "Imefafanuliwa katika Hesabu 6, Mnadhiri alipata uzoefu wa maisha na Samsoni na Samweli (na baadaye Yohana Mbatizaji)."
+      },
+      {
+        "question": "Kwa nini Musa hakuruhusiwa kuingia katika Nchi ya Ahadi licha ya uaminifu wake?",
+        "options": [
+          "Kwa sababu alikuwa mzee sana",
+          "Kwa sababu aligonga mwamba mara mbili kwa hasira badala ya kuongea na Meriba",
+          "Kwa sababu alipoteza meza za Sheria",
+          "Kwa sababu alikataa kuondoka Misri"
+        ],
+        "correct": 1,
+        "explanation": "Huko Meriba-Kadeshi, Musa na Haruni walishindwa kumtakasa Mungu machoni pa watu kwa kuupiga mwamba (Hesabu 20:11-12)."
+      },
+      {
+        "question": "Ni mwana gani wa Sauli aliyekuwa rafiki mkubwa wa Daudi na kumlinda dhidi ya hasira ya baba yake?",
+        "options": [
+          "Ish-Boshethi",
+          "Yonathani",
+          "Abneri",
+          "Mefiboshethi"
+        ],
+        "correct": 1,
+        "explanation": "Yonathani aliunganisha nafsi yake na ile ya Daudi na hata kwa hiari yake kukataa kiti cha enzi kwa ajili ya mteule wa Mungu (1 Samweli 18-20)."
+      },
+      {
+        "question": "Daudi alimkaribisha mjukuu gani wa Sauli kwenye meza yake kwa sababu ya ushikamanifu kwa Yonathani?",
+        "options": [
+          "Absalomu",
+          "Mefiboshethi",
+          "Adoniya",
+          "Gehazi"
+        ],
+        "correct": 1,
+        "explanation": "Mefiboshethi, mwana wa Yonathani, alipokea ardhi ya Sauli na kila mara alikula kwenye meza ya kifalme ya Daudi (2 Samweli 9)."
+      },
+      {
+        "question": "Je! jina la nabii aliyetabiri kifo cha Ahabu kabla ya Yehoshafati huku manabii 400 wakitabiri ushindi?",
+        "options": [
+          "Mika, mwana wa Jimla",
+          "Elisha",
+          "Nathan",
+          "Yeremia"
+        ],
+        "correct": 0,
+        "explanation": "Mika mwana wa Jimla alitangaza kwa ujasiri kushindwa na kifo cha Ahabu huko Ramoth-Gileadi (1 Wafalme 22:8-28)."
+      },
+      {
+        "question": "Ni mtumishi gani wa Elisha aliyepigwa na ukoma kwa sababu alisema uwongo na kudai zawadi kwa siri kutoka kwa Naamani?",
+        "options": [
+          "Baruku",
+          "Gehazi",
+          "Obadia",
+          "Tobie"
+        ],
+        "correct": 1,
+        "explanation": "Gehazi akamfuata Naamani mbio ili kuchukua fedha na mavazi; Ukoma wa Naamani ulishikamana naye (2 Wafalme 5:20-27)."
+      },
+      {
+        "question": "Elisha alimtulizaje mtumishi wake aliyeogopa huko Dothani mbele ya jeshi la Siria?",
+        "options": [
+          "Akafungua mlango wa siri",
+          "Aliomba kwamba Mungu afungue macho ya mtumishi, ambaye aliona mlima umejaa farasi na magari ya moto",
+          "Aliita jeshi la Misri",
+          "Anakimbia usiku"
+        ],
+        "correct": 1,
+        "explanation": "‘Hao walio pamoja nasi ni wengi zaidi kuliko wale walio pamoja nao’ (2 Wafalme 6:16-17)."
+      },
+      {
+        "question": "Ni jemadari gani Mwashuri aliyetishia Yerusalemu kwa kumtukana Mungu wa Israeli mbele ya Mfalme Hezekia?",
+        "options": [
+          "Naamani",
+          "Rabshake (mjumbe wa Senakeribu)",
+          "Holofernes",
+          "Sisera"
+        ],
+        "correct": 1,
+        "explanation": "Rabshake alijaribu kuwakatisha tamaa watu kwa Kiebrania; Isaya alimhakikishia Hezekia na malaika wa Bwana akaipiga kambi ya Waashuri (2 Wafalme 18-19)."
+      },
+      {
+        "question": "Ni katika kitabu gani cha Agano la Kale ambapo mfalme wa kipagani (Nebukadneza) mwenyewe anashuhudia ukuu wa Mungu Aliye Juu Zaidi baada ya nyakati saba za wazimu?",
+        "options": [
+          "Ezra",
+          "Danieli (sura ya 4)",
+          "Esta",
+          "Nehemia"
+        ],
+        "correct": 1,
+        "explanation": "Danieli 4 inachukua namna ya tangazo la kifalme ambapo Nebukadneza anamsifu Mfalme wa mbinguni baada ya kufedheheshwa (Danieli 4:34-37)."
+      },
+      {
+        "question": "Ni kazi gani kuu ya mwandishi na kuhani Ezra aliporudi Yerusalemu?",
+        "options": [
+          "Jenga jumba la kifalme",
+          "Kufundisha Sheria ya Musa na kurekebisha maisha ya kiroho na ya familia ya watu",
+          "Inueni jeshi dhidi ya Uajemi",
+          "Tafsiri Biblia katika Kigiriki"
+        ],
+        "correct": 1,
+        "explanation": "Ezra alikuwa ameweka moyo wake kusoma na kutenda Sheria ya Bwana na kuifundisha katika Israeli (Ezra 7:10)."
+      },
+      {
+        "question": "Ni maadui gani wakuu wawili waliompinga Nehemia wakati wa kujengwa upya kwa kuta za Yerusalemu?",
+        "options": [
+          "Farao na Senakeribu",
+          "Sanbalati, Mwahoroni, na Tobia Mwamoni",
+          "Goliathi na Sisera",
+          "Herode na Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Sanbalati na Tobia walitumia dhihaka, njama, na vitisho, lakini Nehemia aliwafanyia watu mwiko na upanga (Nehemia 4)."
+      },
+      {
+        "question": "Ni nabii gani aliyeitwa akiwa bado kijana na akapinga: 'Siwezi kusema, mimi ni mtoto'?",
+        "options": [
+          "Isaya",
+          "Yeremia",
+          "Ezekieli",
+          "Amosi"
+        ],
+        "correct": 1,
+        "explanation": "Wakati wa wito wake, Bwana aligusa kinywa cha Yeremia na kuahidi kuwa pamoja naye ili kumkomboa (Yeremia 1:6-9)."
+      },
+      {
+        "question": "Ni mwandishi gani mwaminifu aliyeandika vitabu vya kukunjwa vya Yeremia akiandikiwa na kumuunga mkono hadi Misri?",
+        "options": [
+          "Ezra",
+          "Baruku",
+          "Gehazi",
+          "Shafani"
+        ],
+        "correct": 1,
+        "explanation": "Baruku, mwana wa Neria, aliandika unabii wa Yeremia na kuusoma hadharani katika Hekalu (Yeremia 36)."
+      },
+      {
+        "question": "Ni mfalme gani wa Yuda aliyechoma kitabu cha kukunjwa cha unabii wa Yeremia kipande baada ya kipande katika kikaratasi?",
+        "options": [
+          "Yosia",
+          "Yehoyakimu",
+          "Hezekia",
+          "Manase"
+        ],
+        "correct": 1,
+        "explanation": "Yehoyakimu alikata nguzo zilizosomwa na kuzitupa motoni, lakini Yeremia na Baruku waliamuru kitabu cha kukunjwa cha pili, kilicho kamili zaidi (Yeremia 36:23-32)."
+      },
+      {
+        "question": "Je, Mungu alimfundishaje Ezekieli kuhusu hasara yenye uchungu ya Hekalu kwa kumpiga nabii huyo kwa huzuni ya kibinafsi?",
+        "options": [
+          "Alipoteza kuona",
+          "Mkewe alikufa ghafla na Mungu akamkataza kuomboleza hadharani kama ishara kwa Israeli",
+          "Alipelekwa uhamishoni Misri",
+          "Akawa mfalme"
+        ],
+        "correct": 1,
+        "explanation": "Kifo cha ‘macho yake yapendezayo’ bila machozi ya nje kilifananisha mshangao wa watu katika kuanguka kwa Hekalu ( Ezekieli 24:15-24 )."
+      },
+      {
+        "question": "Ni zaburi ipi ya toba ambayo kimapokeo inahusishwa na Daudi baada ya pambano na Nathani juu ya Bathsheba?",
+        "options": [
+          "Zaburi 23",
+          "Zaburi 51 ('Ee Mungu, nihurumie...')",
+          "Zaburi 119",
+          "Zaburi 137"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi ya 51 yaonyesha toba ya dhati: ‘Ee Mungu! uniumbie moyo safi, uifanye upya roho iliyo na nia njema ndani yangu."
+      },
+      {
+        "question": "Ni zaburi gani inayoelezea shauku ya wahamishwa huko Babeli ('Tulikaa na kulia kwenye ukingo wa mito ya Babeli')?",
+        "options": [
+          "Zaburi 1",
+          "Zaburi 137",
+          "Zaburi 91",
+          "Zaburi 150"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi ya 137 inaonyesha uchungu wa wahamishwa kukataa kuimba nyimbo za Sayuni katika nchi ya kigeni."
+      },
+      {
+        "question": "Ni mwanamke gani anayeadhimishwa mwishoni mwa kitabu cha Mithali (sura ya 31) kama kielelezo cha hekima inayotumika?",
+        "options": [
+          "Malkia wa Sheba",
+          "Mwanamke mwema/ shujaa ('eshet hayil')",
+          "binti Farao",
+          "Yezebeli"
+        ],
+        "correct": 1,
+        "explanation": "Mithali 31:10-31 hutengeneza shairi la kialfabeti linalosifu akili, uadilifu, na hofu ya Mungu ya mwanamke huyo."
+      },
+      {
+        "question": "Ni nani marafiki watatu wa Ayubu ambao hapo awali walikuja kumfariji lakini wakamshtaki kwamba amefanya dhambi?",
+        "options": [
+          "Shadraka, Meshaki na Abednego",
+          "Elifazi, Bildadi na Sofari",
+          "Reubeni, Simeoni na Lawi",
+          "Gadi, Nathani na Samweli"
+        ],
+        "correct": 1,
+        "explanation": "Elifazi wa Temani, Bildadi wa Shua, na Sofari wa Naama wanashikilia theolojia kali ya malipo ya haraka (Ayubu 2:11)."
+      },
+      {
+        "question": "Ni mgeni gani wa nne, mdogo anayezungumza mwishoni mwa hotuba katika Ayubu (sura ya 32-37)?",
+        "options": [
+          "Musa",
+          "Elihu",
+          "Balaamu",
+          "Yethro"
+        ],
+        "correct": 1,
+        "explanation": "Elihu anangoja kwa heshima kwa wazee kabla ya kusisitiza ufundishaji wa Mungu na upitaji wake mkuu, akitayarisha theofani ya mwisho."
+      },
+      {
+        "question": "Je, hatimaye Mungu anamjibu Ayubu vipi katika sura ya 38-41?",
+        "options": [
+          "Kwa kumpa orodha ya kina ya makosa ya Shetani",
+          "Kutoka kifuani mwa dhoruba, kumfunulia hekima na ukuu wa uumbaji wake",
+          "Kwa kuharibu marafiki zake watatu",
+          "Na malaika wa kimya"
+        ],
+        "correct": 1,
+        "explanation": "Mungu anamuuliza Ayubu kuhusu maajabu ya ulimwengu na viumbe, na hivyo kumwongoza Ayubu kwenye unyenyekevu na ibada (Ayubu 42:1-6)."
+      },
+      {
+        "question": "Katika Hesabu (sura ya 16), ni wanaume gani walioasi mamlaka ya Musa na Haruni na kumezwa na dunia?",
+        "options": [
+          "Dathani, Abiramu na Kora",
+          "Nadabu na Abihu",
+          "Hofni na Finehasi",
+          "Akani na Gehazi"
+        ],
+        "correct": 0,
+        "explanation": "Kora Mlawi, Dathani na Abiramu walishindana na ukuhani na uongozi wa Musa; nchi ikafunguka chini ya hema zao (Hesabu 16:31-33)."
+      },
+      {
+        "question": "Ni Mwisraeli gani aliyesababisha kushindwa mbele ya Ai kwa kuiba koti ya Shinari, fedha na pembe ya dhahabu iliyokatazwa huko Yeriko?",
+        "options": [
+          "Kora",
+          "Akani",
+          "Balaamu",
+          "Sauli"
+        ],
+        "correct": 1,
+        "explanation": "Dhambi ya Akani ilikiuka katazo (herem) juu ya Yeriko; kugunduliwa kwa kura, alihukumiwa katika bonde la Akori (Yoshua 7)."
+      },
+      {
+        "question": "Ni watu gani jirani waliomdanganya Yoshua kwa kuvaa nguo kuukuu na mkate wa ukungu ili kupata mapatano ya amani?",
+        "options": [
+          "Wafilisti",
+          "Wagibeoni",
+          "Wamoabu",
+          "Waamaleki"
+        ],
+        "correct": 1,
+        "explanation": "Wagibeoni walidai kwamba walitoka nchi ya mbali sana; Israeli waliapa bila kushauriana na Bwana na kushika kiapo chake (Yoshua 9)."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli aliyeangamiza nasaba ya Ahabu na kuamuru Yezebeli atupwe nje ya dirisha la jumba lake la kifalme?",
+        "options": [
+          "Omri",
+          "Yehu",
+          "Yeroboamu II",
+          "Hosea"
+        ],
+        "correct": 1,
+        "explanation": "Akiwa ametiwa mafuta na mfuasi wa Elisha, Yehu alitekeleza hukumu iliyotangazwa juu ya nyumba ya Ahabu (2 Wafalme 9-10)."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli wa kaskazini aliyefurahia utawala mrefu na wenye ufanisi katika karne ya 8? av. BC, chini yake Amosi na Hosea walishutumu ukosefu wa haki wa kijamii?",
+        "options": [
+          "Yeroboamu I",
+          "Yeroboamu II",
+          "Ahabu",
+          "Sauli"
+        ],
+        "correct": 1,
+        "explanation": "Yeroboamu II (793-753 KK) alipanua mipaka ya Israeli, lakini ustawi ulifunika upotovu mkubwa wa maadili (Amosi 2-6)."
+      },
+      {
+        "question": "Ni nini kilikuwa maalum kuhusu Sanduku la Agano lililojengwa na Bezaleli kulingana na mipango iliyopokelewa na Musa?",
+        "options": [
+          "Katika marumaru nyeupe",
+          "Kwa mti wa mshita uliofunikwa kwa dhahabu safi, na juu ya kiti cha rehema na makerubi wawili wa dhahabu",
+          "Katika shaba imara",
+          "Mwerezi usiofunikwa"
+        ],
+        "correct": 1,
+        "explanation": "Fundi Bezaleli, aliyejazwa na Roho wa Mungu, alitengeneza Sanduku kulingana na mfano ulioonyeshwa mlimani (Kutoka 25:10-22; 37:1-9)."
+      },
+      {
+        "question": "Wana wawili wa Haruni, Nadabu na Abihu, walikuwa na hatia gani ya kuleta katika patakatifu?",
+        "options": [
+          "Sanamu ya fedha",
+          "'Moto wa ajabu' ambao Bwana hakuwa amewaamuru",
+          "Mkate uliotiwa chachu",
+          "Damu ya nguruwe"
+        ],
+        "correct": 1,
+        "explanation": "Nadabu na Abihu wakasongeza moto wa kigeni mbele za Bwana; moto ukatoka mbele za BWANA na kuwateketeza (Mambo ya Walawi 10:1-2)."
+      },
+      {
+        "question": "Musa na Waisraeli waliimba wimbo gani mashuhuri baada tu ya kuvuka Bahari Nyekundu?",
+        "options": [
+          "Wimbo wa Anne",
+          "Wimbo wa Bahari (\"Nitamwimbia BWANA, kwa maana ameufanya utukufu wake kung'aa\", Kutoka 15)",
+          "Zaburi 136",
+          "Wimbo wa Deborah"
+        ],
+        "correct": 1,
+        "explanation": "Kutoka 15 ni mojawapo ya mashairi ya kale zaidi katika Biblia, yanayorudiwa hata katika Ufunuo 15:3 ('wimbo wa Musa na Mwana-Kondoo')."
+      },
+      {
+        "question": "Katika 1 Samweli 3, ni mara ngapi Bwana alimuita kijana Samweli kwenye patakatifu pa Shilo kabla ya Eli kuelewa?",
+        "options": [
+          "Mara 1",
+          "mara 3 (na Samweli akajibu mara ya 4, Nena, kwa maana mtumishi wako anasikiliza)",
+          "mara 7",
+          "mara 12"
+        ],
+        "correct": 1,
+        "explanation": "Baada ya miito mitatu ambapo Samweli alimkimbilia Eli, Eli alielewa kuwa ni Bwana na akamfundisha jinsi ya kujibu (1 Samweli 3:4-10)."
+      },
+      {
+        "question": "Ni mwamuzi gani wa Israeli aliapa kumweka wakfu kwa Mungu mtu wa kwanza ambaye aliiacha nyumba yake baada ya kurudi kwa ushindi?",
+        "options": [
+          "Gideoni",
+          "Yeftha",
+          "Samsoni",
+          "Ehud"
+        ],
+        "correct": 1,
+        "explanation": "Yeftha aliwashinda Waamoni, lakini binti yake wa pekee akatoka kumlaki akiwa na matari ( Waamuzi 11:30-40 )."
+      },
+      {
+        "question": "Ni mwamuzi gani wa mkono wa kushoto wa Israeli aliyewaokoa watu wa mfalme Egloni wa Moabu?",
+        "options": [
+          "Shamgar",
+          "Ehud",
+          "Baraka",
+          "Otniel"
+        ],
+        "correct": 1,
+        "explanation": "Ehudi, wa kabila la Benyamini, alificha upanga wenye makali kuwili kwenye paja lake la kulia na kumpiga Egloni (Waamuzi 3:15-22)."
+      },
+      {
+        "question": "Ni katika kitabu gani cha Biblia ambapo Mungu hataji jina lake waziwazi hata mara moja, huku akidhihirisha usimamizi wake uliofichika?",
+        "options": [
+          "Ruthu",
+          "Esta",
+          "Yona",
+          "Hagai"
+        ],
+        "correct": 1,
+        "explanation": "Jina la Mungu halionekani katika maandishi ya Kiebrania ya Esta, likikazia usimamizi wake wa kimya kupitia matukio ya kibinadamu."
+      },
+      {
+        "question": "Ni sadaka gani ambayo Kaini na Abeli ​​walimtolea Bwana katika Mwanzo 4?",
+        "options": [
+          "Wote wawili walitoa matunda",
+          "Kaini alitoa matunda ya ardhi; Habili akatoa wazaliwa wa kwanza wa kundi lake na mafuta yao",
+          "Kaini alitoa dhahabu; Abeli ​​wa uvumba",
+          "Habili alitoa ngano; Kaini mwana-kondoo"
+        ],
+        "correct": 1,
+        "explanation": "Bwana alipendezwa na Habili na sadaka yake (Waebrania 11:4 inasisitiza imani yake), lakini si Kaini (Mwanzo 4:3-5)."
+      },
+      {
+        "question": "Walawi walirithi miji mingapi kupitia makabila ya Israeli kwa vile hawakuwa na eneo lao wenyewe?",
+        "options": [
+          "12 miji",
+          "majiji 48 (pamoja na majiji 6 ya makimbilio)",
+          "70 miji",
+          "miji 100"
+        ],
+        "correct": 1,
+        "explanation": "Bwana mwenyewe alikuwa urithi wa Lawi; makabila mengine yaliwapa miji 48 na malisho yake ( Hesabu 35:7; Yoshua 21 )."
+      },
+      {
+        "question": "Ni kitabu gani cha Agano la Kale kinachofungua kwa mazungumzo kati ya Mungu na Shetani katika baraza la mbinguni?",
+        "options": [
+          "Mwanzo",
+          "Kazi",
+          "Daniel",
+          "Zekaria"
+        ],
+        "correct": 1,
+        "explanation": "Ayubu 1-2 inaonyesha jaribu lililoruhusiwa na Mungu juu ya uaminifu usio na ubinafsi wa mtumishi wake Ayubu."
+      },
+      {
+        "question": "Ni sheria gani ya kijamii kutoka Agano la Kale iliyoamuru pembe za mashamba ziachwe bila kuvunwa na masuke ya mahindi kuanguka?",
+        "options": [
+          "Haki ya kuokota masazo kwa maskini na wageni (k.m. Ruthu)",
+          "Zaka ya kifalme",
+          "Heshima ya vita",
+          "Sheria ya kulipiza kisasi"
+        ],
+        "correct": 0,
+        "explanation": "Mambo ya Walawi 19:9-10 na Kumbukumbu la Torati 24:19 ililinda yatima, mjane na mgeni—sheria ambayo Ruthu alinufaika nayo kwa Boazi."
+      },
+      {
+        "question": "Ni zaburi ipi iliyo na akrosti ndefu zaidi ya alfabeti (beti 22 za mistari 8 inayoadhimisha Neno la Mungu)?",
+        "options": [
+          "Zaburi 1",
+          "Zaburi 23",
+          "Zaburi 119",
+          "Zaburi 136"
+        ],
+        "correct": 2,
+        "explanation": "Zaburi ya 119 ina mistari 176 iliyopangwa kulingana na herufi 22 za alfabeti ya Kiebrania, ikiinua Torati."
+      },
+      {
+        "question": "Ni kuhani gani mkuu aliyejenga upya madhabahu ya kwanza na misingi ya Hekalu la Pili pamoja na Zerubabeli?",
+        "options": [
+          "Haruni",
+          "Yoshua (Yeshua), mwana wa Yosadaki",
+          "Hilkija",
+          "Kayafa"
+        ],
+        "correct": 1,
+        "explanation": "Yeshua (Yoshua) kuhani mkuu na Zerubabeli gavana waliongoza urejesho wa ibada na Hekalu (Ezra 3; Hagai 1)."
       }
     ],
     "expert": [
@@ -1456,6 +2446,644 @@
         ],
         "correct": 0,
         "explanation": "Baraka ya Haruni inaanza na 'Bwana akubariki na kukulinda' (Hesabu 6:24) - kanuni ya utatu ya ukuhani inayochanganya baraka, neema na amani."
+      },
+      {
+        "question": "Usemi 'Sheria ya kulipiza kisasi' ('jicho kwa jicho, jino kwa jino') unamaanisha nini katika muktadha wake wa kisheria wa Musa?",
+        "options": [
+          "Uchochezi wa kulipiza kisasi kibinafsi bila kikomo",
+          "Kikomo kali cha uwiano kilichowekwa kwa majaji ili kuzuia kulipiza kisasi kupita kiasi",
+          "Wajibu wa kuwakata wahalifu wote",
+          "Sheria ya Babeli iliyopuuzwa na Biblia"
+        ],
+        "correct": 1,
+        "explanation": "Katika Kutoka 21:23-25 ​​na Mambo ya Walawi 24:20, kanuni ya uwiano (“kipimo cha kipimo”) humlinda mkosaji kutokana na kisasi kisicho na uwiano."
+      },
+      {
+        "question": "Kuna tofauti gani kati ya 'Pentatiki ya Msamaria' na Maandishi ya Kiebrania ya Wamasora?",
+        "options": [
+          "Pentateuki ya Wasamaria ina Zaburi pekee",
+          "Wasamaria wanatambua tu vitabu 5 vya Torati kuwa halali, na tofauti fulani (k.m. kwenye Mlima Gerizimu)",
+          "Imeandikwa kwa Kilatini",
+          "Inajumuisha Injili"
+        ],
+        "correct": 1,
+        "explanation": "Pentateuki ya Wasamaria ni ushuhuda wa maandishi wa kale sana kwa maandishi ya Kiebrania ya Torati, ikiweka mkazo wa kitheolojia kwenye Mlima Gerizimu."
+      },
+      {
+        "question": "Ni neno gani la Kiebrania linalotaja 'sehemu iliyowekwa wakfu' au katazo kamili lililowekwa wakfu kwa Mungu wakati wa vita fulani vya ushindi (Yoshua 6-7)?",
+        "options": [
+          "Shalom",
+          "Hapa",
+          "Hesed",
+          "Berit"
+        ],
+        "correct": 1,
+        "explanation": "'herem' inarejelea kile ambacho kimetengwa kwa ajili ya Mungu bila kubatilishwa (ama kilichowekwa wakfu katika patakatifu au kuharibiwa kama hukumu juu ya ibada ya sanamu)."
+      },
+      {
+        "question": "Je, kuna umuhimu gani wa kitheolojia wa 'wingu la utukufu' (Kavod/Shekina) likiongoza Israeli jangwani?",
+        "options": [
+          "Jambo rahisi la hali ya hewa",
+          "Udhihirisho unaoonekana wa uwepo mtakatifu na wa ulinzi wa Mungu unaoandamana na watu wake (nguzo ya wingu mchana, ya moto usiku)",
+          "Ishara ya Misri",
+          "Silaha ya kijeshi ya Wafilisti"
+        ],
+        "correct": 1,
+        "explanation": "Utukufu (Kavod) wa YHWH unajaza Hema iliyokamilishwa (Kutoka 40:34) kisha Hekalu la Sulemani (1 Wafalme 8:10-11)."
+      },
+      {
+        "question": "Je! ni tofauti gani ya kimsingi kati ya mkataba wa suzerainty wa Wahiti kutoka milenia ya 2 KK? KK na muungano wa Sinai (Kutoka 19-24 / Kumbukumbu la Torati)?",
+        "options": [
+          "Hakuna kufanana",
+          "Umbo (utangulizi, utangulizi wa kihistoria, masharti, mashahidi, baraka/laana) uko karibu, lakini YHWH anaweka msingi wa utii kwenye neema yake ya ukombozi ('Nilikutoa Misri')",
+          "Agano la kibiblia halina masharti wala baraka",
+          "Mikataba ya Wahiti ni ya Mungu mmoja"
+        ],
+        "correct": 1,
+        "explanation": "Mawasiliano haya rasmi na mikataba ya Enzi ya Marehemu ya Shaba (karne ya 14-13 KK) mara nyingi hutajwa kwa mambo ya kale ya Kumbukumbu la Torati."
+      },
+      {
+        "question": "Katika mapokeo ya Kiebrania, ni sehemu gani tatu kuu za Tanakh (Agano la Kale)?",
+        "options": [
+          "Mwanzo, Kutoka, Zaburi",
+          "Torati (Sheria), Nevi'im (Manabii), Ketuvim (Maandiko)",
+          "Injili, Matendo, Nyaraka",
+          "Hekima, Historia, Apocalypse"
+        ],
+        "correct": 1,
+        "explanation": "Kifupi TaNaKh kinaleta pamoja Torati, Nevi'im na Ketouvim - mgawanyiko uliothibitishwa na Yesu mwenyewe katika Luka 24:44 ('Sheria ya Musa, Manabii na Zaburi')."
+      },
+      {
+        "question": "Kwa nini vitabu vya Yoshua, Waamuzi, Samweli na Wafalme vimeainishwa kuwa ‘Manabii wa Mapema’ katika Biblia ya Kiebrania?",
+        "options": [
+          "Kwa makosa ya uainishaji wa zama za kati",
+          "Kwa sababu wanatafsiri historia ya Israeli kwa mtazamo wa kinabii: uaminifu kwa Agano huamua hatima ya watu.",
+          "Kwa sababu hazina mfalme",
+          "Kwa sababu ziliandikwa kwa Kigiriki"
+        ],
+        "correct": 1,
+        "explanation": "Tofauti na historia ya kifalme isiyoegemea upande wowote, vitabu hivi vinahukumu kila utawala kwa mujibu wa Muungano na neno la kinabii."
+      },
+      {
+        "question": "Nini maana ya 'go'el ha-dam' (mlipiza kisasi cha damu) na miji ya makimbilio katika Hesabu 35?",
+        "options": [
+          "Kuhimiza vendetta za familia",
+          "Simamia haki ya kikabila kwa kutoa hukumu ya haki na hifadhi kwa mhusika wa kuua bila kukusudia hadi kifo cha kuhani mkuu.",
+          "Kulinda wauaji waliokusudia",
+          "Badilisha dhabihu za Hekalu"
+        ],
+        "correct": 1,
+        "explanation": "Miji ya makimbilio ililinda mauaji dhidi ya kulipizwa kisasi mara moja huku ikihitaji ukaguzi mkali wa mahakama."
+      },
+      {
+        "question": "Je, ni jukumu gani la kitheolojia la dhabihu ya 'hatia/fidia' (Asham) kuhusiana na dhabihu ya 'dhambi' (Hattat) katika Mambo ya Walawi 4-5?",
+        "options": [
+          "Wanafanana kabisa",
+          "Hattat husafisha na doa la dhambi; Asham hurekebisha unajisi au kosa linaloweza kupimwa dhidi ya Mungu au jirani (kwa fidia + 20%).",
+          "Ashamu imetengwa kwa ajili ya wafalme wa kipagani",
+          "Hattat haitumii damu"
+        ],
+        "correct": 1,
+        "explanation": "Ashamu inahitaji sio tu upatanisho bali urejesho kamili uliongezeka kwa tano (Mambo ya Walawi 5:16; 6:5), sanamu inayorudiwa katika Isaya 53:10."
+      },
+      {
+        "question": "Je, kuna umuhimu gani wa 'Sikukuu ya Upatanisho' (Yom Kippur, Mambo ya Walawi 16) kwa kuelewa kitabu cha Waebrania?",
+        "options": [
+          "Hakuna kiungo",
+          "Ni siku pekee ambayo kuhani mkuu aliingia Patakatifu pa Patakatifu na damu - aina kamili ya dhabihu ya kipekee ya Kristo (Waebrania 9).",
+          "Alisherehekea mavuno ya ngano",
+          "Ilifanyika kila wiki"
+        ],
+        "correct": 1,
+        "explanation": "Waebrania 9-10 inatofautisha dhabihu za kila mwaka za Yom Kippur na kuingia kwa mwisho kwa Kristo katika patakatifu pa mbinguni."
+      },
+      {
+        "question": "Nini maana ya neno la Kiebrania 'berit' (agano) katika Agano la Kale: agano la upande mmoja la neema au mapatano ya nchi mbili?",
+        "options": [
+          "Mkataba wa kibiashara tu wa kibinadamu",
+          "Vipimo vyote viwili vipo: muungano usio na masharti kwa kiapo cha kimungu (Mwanzo 15 na Ibrahimu) na muungano wa masharti unaofanya uaminifu (Sinai)",
+          "Neno la Kigiriki lililokopwa kutoka kwa Plato",
+          "Neno linalorejelea ndoa pekee"
+        ],
+        "correct": 1,
+        "explanation": "Katika Mwanzo 15, Mungu hupita peke yake katika umbo la tochi kati ya wanyama waliokatwa, yeye mwenyewe akichukua kiapo cha muungano."
+      },
+      {
+        "question": "Katika Mwanzo 15:6 ('Abramu alimwamini BWANA, aliyemhesabia kuwa haki'), ni kitenzi gani cha Kiebrania kinachothibitisha fundisho la Paulo la kuhesabiwa haki?",
+        "options": [
+          "Bara (unda)",
+          "Hashav (hesabu, hesabu, mkopo)",
+          "Qadosh (itakasa)",
+          "Shalom (amani)"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anataja Mwanzo 15:6 katika Warumi 4:3 na Wagalatia 3:6 ili kuonyesha kwamba imani ilikuwa tayari imehesabiwa kuwa haki kabla ya tohara na Sheria."
+      },
+      {
+        "question": "Je, ishara ya 'kukata pete ya harusi' (karat berit) inamaanisha nini katika Mashariki ya Karibu ya Kale na katika Mwanzo 15/Yeremia 34?",
+        "options": [
+          "Kukata mti mtakatifu",
+          "Kupita kati ya nusu ya wanyama walioshirikiwa kama ishara ya kujilaani ('hii inaweza kunitokea ikiwa nitavunja muungano')",
+          "Kuvunja mkataba wa amani",
+          "Kuandika kwenye papyrus"
+        ],
+        "correct": 1,
+        "explanation": "Neno la Kiebrania 'karat berit' kihalisi linamaanisha 'kufanya agano', likikumbusha ibada ya umwagaji damu ya kuridhiwa."
+      },
+      {
+        "question": "Je! ni umuhimu gani wa kitheolojia wa 'Sabato ya dunia' na 'Yubile' katika Mambo ya Walawi 25?",
+        "options": [
+          "Utawala rahisi wa kilimo bila umuhimu wa kijamii",
+          "Thibitisha kwamba ardhi ni ya Mungu pekee ('nchi ni yangu, wewe uko nyumbani kwangu kama wageni'), ukizuia utumwa wa kudumu na mkusanyiko wa ardhi.",
+          "Kuboresha wamiliki wakubwa",
+          "Kataza biashara na majirani"
+        ],
+        "correct": 1,
+        "explanation": "Kila mwaka wa 7 (shimo, msamaha wa deni) na mwaka wa 50 (ukombozi wa watumwa, kurudi kwa ardhi ya familia) ulitengeneza haki ya kiuchumi kulingana na ukuu wa Mungu."
+      },
+      {
+        "question": "Ni nini maana ya ulinganifu kati ya 'siku sita' za Mwanzo 1 na ujenzi wa Hema la kukutania katika Kutoka 25-40?",
+        "options": [
+          "Hakuna sambamba",
+          "Katika maandiko yote mawili, Mungu anazungumza katika hotuba saba, anabariki kazi iliyomalizika na kuingia katika 'pumziko'/makao yake kati ya watu.",
+          "Hema ilijengwa kabla ya uumbaji",
+          "Kutoka kunakili hekalu la Babeli"
+        ],
+        "correct": 1,
+        "explanation": "Wanatheolojia wengi wanasisitiza kwamba uumbaji ni hekalu la ulimwengu na kwamba Tabernakulo ni ulimwengu mdogo ambapo Mungu anakaa na wanadamu."
+      },
+      {
+        "question": "Nini maana ya usemi 'Mungu alitubu' (naham) katika Mwanzo 6:6 au Kutoka 32:14 ikilinganishwa na Hesabu 23:19 ('Mungu si mtu wa kutubu')?",
+        "options": [
+          "Mkanganyiko usioyeyuka",
+          "Hesabu 23:19 inakanusha kwamba Mungu hudanganya au kubadilisha tabia yake kwa kutamani; 'naham' anthropopathically huonyesha maumivu ya mtu kimaadili na jibu la haki kwa mabadiliko ya binadamu",
+          "Mungu husahau ahadi zake",
+          "Miungu miwili tofauti huzungumza"
+        ],
+        "correct": 1,
+        "explanation": "Kitenzi 'naham' kinaonyesha huruma chungu au kukataliwa kwa hukumu mbele ya maombezi au toba, bila kutilia shaka kutobadilika kwa maadili ya Mungu."
+      },
+      {
+        "question": "Je, ni kazi gani ya 'kitabu cha Mambo ya Nyakati' (1-2 Mambo ya Nyakati) kuhusiana na Samweli na Wafalme?",
+        "options": [
+          "Nakala rahisi ya neno kwa neno",
+          "Usomaji upya wa kitheolojia wa baada ya uhamisho ulizingatia Yuda, Hekalu, ibada ya Walawi na ahadi ya Daudi ya kuhimiza jumuiya inayorudi kutoka uhamishoni.",
+          "Kitabu kuhusu Ufalme wa Kirumi",
+          "Muendelezo ulioandikwa na Élie"
+        ],
+        "correct": 1,
+        "explanation": "Yaliyoandikwa baada ya uhamisho, kwa sehemu kubwa kitabu cha Mambo ya Nyakati hakiachi ufalme wa kaskazini na dhambi za kibinafsi za Daudi ili kukazia ibada halali na tumaini la kimasiya."
+      },
+      {
+        "question": "Katika Zaburi, ni jukumu gani la kimuundo la Zaburi ya 1 na Zaburi ya 2 iliyowekwa kwenye ufunguzi wa Zaburi?",
+        "options": [
+          "Waliwekwa bila mpangilio",
+          "Wanaunda utangulizi wa programu mbili: furaha ya waadilifu kutafakari juu ya Torati (Zab 1) na ushindi wa Mfalme Mtiwa-Mafuta wa Mungu juu ya mataifa (Zab 2)",
+          "Hizi ni zaburi mbili za mwisho zilizoongezwa",
+          "Wanazungumza tu kuhusu Musa"
+        ],
+        "correct": 1,
+        "explanation": "Iliyoundwa kwa heri ('Heri mtu yule...' Zab 1:1 / 'Heri wote wanaomtumaini!' Zab 2:12), wanatoa ufunguo wa kusoma Zaburi."
+      },
+      {
+        "question": "Je, ni kategoria zipi kuu za zaburi zinazotambuliwa na ukosoaji wa fomu (Gunkel)?",
+        "options": [
+          "Zaburi za vita tu",
+          "Nyimbo za sifa, maombolezo (ya mtu binafsi na ya pamoja), shukrani, zaburi za kifalme na zaburi za hekima/hija.",
+          "Mashairi ya mapenzi tu",
+          "Sheria za kisheria"
+        ],
+        "correct": 1,
+        "explanation": "Uainishaji huu hutusaidia kuelewa jinsi Zaburi inashughulikia uzoefu kamili wa mwanadamu mbele za Mungu, kutoka kwa dhiki hadi doksolojia."
+      },
+      {
+        "question": "Ni nini maana ya 'theodicy' katika kitabu cha Ayubu ikilinganishwa na kanuni ya adhabu kali iliyotetewa na marafiki zake?",
+        "options": [
+          "Ayubu anathibitisha kwamba Mungu hana haki",
+          "Kitabu kinakanusha mlingano rahisi 'mateso yote = adhabu kwa ajili ya dhambi ya kibinafsi' na kinataka imani isiyo na ubinafsi mbele ya fumbo la hekima ya kimungu.",
+          "Marafiki wa Ayubu walikuwa sahihi kabisa",
+          "Ayubu anakataa kuwepo kwa Mungu"
+        ],
+        "correct": 1,
+        "explanation": "Katika Ayubu 42:7, Mungu anatangaza kwamba Ayubu alizungumza kwa uadilifu juu yake mwenyewe, tofauti na marafiki zake watatu ambao imani yao ya sharti isivyo haki iliwashutumu wasio na hatia."
+      },
+      {
+        "question": "Katika Wimbo Ulio Bora, ni mapokeo gani mawili makuu ya tafsiri?",
+        "options": [
+          "Mkataba juu ya unajimu au vita",
+          "Usomaji halisi/hekima (sherehe ya upendo wa ndoa ulioumbwa na Mungu) na usomaji wa mafumbo/kielelezo (upendo kati ya Mungu na Israeli, au Kristo na Kanisa)",
+          "Historia ya Sulemani huko Misri",
+          "Tathmini ya ndoa"
+        ],
+        "correct": 1,
+        "explanation": "Masomo haya mawili yanakamilishana: wema wa upendo wa kibinadamu (Mwanzo 2) unaonyesha agano la upendo la Mungu na watu wake (Waefeso 5:32)."
+      },
+      {
+        "question": "Ni nini maana ya neno la Kiebrania 'hebeli' ('ubatili/ukungu/mvuke') linalorudiwa mara 38 katika Mhubiri?",
+        "options": [
+          "Dhambi ya mauti pekee",
+          "Ni jambo gani la kitambo, lisilowezekana, la muda mfupi na lisilowezekana kudhibitiwa kwa hekima ya kibinadamu pekee 'chini ya jua'",
+          "Utajiri wa nyenzo kama lengo la juu zaidi",
+          "Ibada ya sanamu ya Kanaani"
+        ],
+        "correct": 1,
+        "explanation": "'Hebeli' kihalisi humaanisha pumzi au mvuke: bila Mungu juu ya jua, juhudi zote za mwanadamu zinaonekana kuwa za kupita na za kushangaza."
+      },
+      {
+        "question": "Je, Mhubiri anahitimishaje uchunguzi wake wa kuwepo (Mhubiri 12:13-14)?",
+        "options": [
+          "Kwa kukata tamaa kabisa na kutokana Mungu",
+          "‘Mche Mungu na uzishike amri zake. Hivi ndivyo kila mwanadamu anapaswa kufanya, kwa maana Mungu ataleta kila kazi hukumuni",
+          "Kwa sifa ya pesa",
+          "Kwa kurudi Misri"
+        ],
+        "correct": 1,
+        "explanation": "Licha ya mafumbo ya maisha chini ya jua, Qohelet anathibitisha maana ya maadili, furaha iliyopokelewa kutoka kwa Mungu na hukumu ya mwisho."
+      },
+      {
+        "question": "Katika Kumbukumbu la Torati 30:11-14, Musa anasema nini kuhusu ukaribu wa Neno la Mungu (“Sheria hii haiko mbinguni... iko karibu nawe, katika kinywa chako na katika moyo wako”)?",
+        "options": [
+          "Kwamba haiwezekani kujua",
+          "Kwamba Mungu alijifanya kupatikana kwa watu wake - andiko lililochukuliwa na Paulo katika Warumi 10:6-8 kuelezea haki ya imani katika Kristo.",
+          "Kwamba unapaswa kuvuka bahari ili kuipata",
+          "Kwamba imehifadhiwa kwa ajili ya Malaika"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anatumia ukaribu huu wa Neno lililofunuliwa kwa neno la imani lililohubiriwa katika Injili."
+      },
+      {
+        "question": "Je! ni jukumu gani la 'Kitabu cha Agano' (Kutoka 20:22 - 23:33) mara tu baada ya Dekalojia?",
+        "options": [
+          "Orodha ya wafalme",
+          "Msimbo wa casuistry unaotumia kanuni za Amri Kumi kwa maisha ya kiraia, kijamii, kimahakama na kidini ya Israeli.",
+          "Hadithi ya uumbaji",
+          "Unabii kuhusu Babeli"
+        ],
+        "correct": 1,
+        "explanation": "Kitabu cha Agano kinatafsiri amri za maadili katika sheria thabiti zinazolinda watumwa, wajane, yatima, na wageni."
+      },
+      {
+        "question": "Kwa nini kitabu cha Mambo ya Walawi kinaweka 'Kanuni ya Utakatifu' (Mambo ya Walawi 17-26) katikati ya maagizo yake?",
+        "options": [
+          "Kwa makuhani tu",
+          "Kuonyesha kwamba utakatifu wa kiibada hauwezi kutenganishwa na utakatifu wa kiadili na kijamii (‘Iweni watakatifu, kwa maana mimi ni mtakatifu’, kutia ndani Mambo ya Walawi 19:18 : ‘Mpende jirani yako kama nafsi yako’)",
+          "Kupiga marufuku kilimo",
+          "Kuelezea vita dhidi ya Roma"
+        ],
+        "correct": 1,
+        "explanation": "Mambo ya Walawi 19 huunganisha heshima kwa wazazi, haki ya kimahakama, kukaribisha wageni na upendo kwa jirani chini ya muhuri 'Mimi ndimi Bwana'."
+      },
+      {
+        "question": "Ni nini maana ya 'kufunga kwa kweli' iliyofafanuliwa na Mungu katika Isaya 58:6-7?",
+        "options": [
+          "Usile chochote kwa siku 40 ukimya",
+          "Legeza minyororo ya uovu, shiriki mkate wako na wenye njaa na kukusanya wasiobahatika",
+          "Toeni mafahali elfu moja katika Hekalu",
+          "Kuvaa nguo zilizochanika hadharani"
+        ],
+        "correct": 1,
+        "explanation": "Manabii (Isaya 58, Amosi 5, Mika 6) wanashutumu ibada ya nje iliyokatiliwa mbali na haki na rehema."
+      },
+      {
+        "question": "Katika 1 Samweli 15:22, ni kanuni gani ya msingi ambayo Samweli anaelekeza kwa Sauli baada ya kutotii kwake Amaleki?",
+        "options": [
+          "'Dhahabu ni bora kuliko sala'",
+          "'Kutii ni bora kuliko dhabihu, na kulishika neno lake ni bora kuliko mafuta ya kondoo waume'",
+          "'Mfalme yuko juu ya sheria'",
+          "'Makuhani huamua peke yao'"
+        ],
+        "correct": 1,
+        "explanation": "Neno hili linaweka kipaumbele cha mara kwa mara cha utii wa moyo juu ya ibada za dhabihu."
+      },
+      {
+        "question": "Je! ni umuhimu gani wa kitheolojia wa maombi ya Sulemani wakati wa kuwekwa wakfu kwa Hekalu (1 Wafalme 8:27-43)?",
+        "options": [
+          "Anadai kwamba Mungu amefungwa ndani ya Hekalu",
+          "Anakiri kwamba ‘mbingu na mbingu za mbingu haziwezi kukutosha,’ lakini anaomba kwamba Mungu pia amsikilize mgeni aliitiaye jina lake mahali hapa.",
+          "Anakataza wageni wasimkaribie",
+          "Anatoa wito wa kuangamizwa kwa mataifa"
+        ],
+        "correct": 1,
+        "explanation": "Sulemani anathibitisha upitaji mipaka kamili wa Mungu na uwazi wa wote wa Hekalu kwa maombi ya mataifa yote."
+      },
+      {
+        "question": "Katika Mwanzo 12:1-3, ni vipimo gani vitatu vya ahadi iliyotolewa kwa Abramu?",
+        "options": [
+          "Dhahabu tu",
+          "Nchi moja (Kanaani), uzao mmoja mkubwa (taifa) na baraka ya ulimwengu wote kwa jamaa zote za dunia.",
+          "Ushindi juu ya Babeli",
+          "Ujenzi wa Roma"
+        ],
+        "correct": 1,
+        "explanation": "Ahadi hizi tatu zinaunda Pentateuki nzima na kupata utimilifu wao wa mwisho katika Agano katika Kristo."
+      },
+      {
+        "question": "Nini maana ya kipindi cha 'mapambano ya Yakobo na Penieli' (Mwanzo 32:24-31)?",
+        "options": [
+          "Mapambano rahisi na jambazi",
+          "Kukutana kwa ajabu na Mungu ambaye anavunja utoshelevu wa Yakobo (kiuno kilichoteguka) na kumbariki kwa kumwita Israeli.",
+          "Ushindi wa kijeshi dhidi ya Esau",
+          "Ndoto bila matokeo"
+        ],
+        "correct": 1,
+        "explanation": "Yakobo sasa analegea lakini anapokea baraka za kimungu; Hosea 12:5 inaandika kwamba alilia na kuomba rehema."
+      },
+      {
+        "question": "Je! ni nini umuhimu wa kitheolojia wa 'theophany wa Horebu' kwa Eliya aliyekata tamaa (1 Wafalme 19:11-13)?",
+        "options": [
+          "Mungu anaonekana tu katika vurugu",
+          "Mungu hakuwa katika kimbunga, wala katika tetemeko la ardhi, wala motoni, bali katika 'minong'ono laini na nyepesi' (sauti ya mwisho wa ukimya).",
+          "Eliya amekataliwa hakika",
+          "Eliya lazima arudi Misri"
+        ],
+        "correct": 1,
+        "explanation": "Baada ya tamasha la ajabu la Karmeli, Mungu anamfundisha Eliya kwamba Yeye pia anatenda kwa busara na kuwaweka waaminifu mabaki 7,000."
+      },
+      {
+        "question": "Je! ni nini nafasi ya 'Kitabu cha Ruthu' katika historia ya wokovu na theolojia ya Agano la Kale?",
+        "options": [
+          "Anecdote rahisi ya kichungaji",
+          "Kuonyesha uaminifu (hesed) kupitia kwa mgeni Mmoabu aliyejumuishwa katika nasaba ya kimasiya ya Daudi (mama mkubwa wa Daudi) shukrani kwa mkombozi (go'eli) Boazi.",
+          "Kataza ndoa zote na waongofu",
+          "Eleza sheria za vita"
+        ],
+        "correct": 1,
+        "explanation": "Ruthu anaonyesha ufunguzi wa neema ya kimungu kwa mataifa na anaonyesha Kristo kama mkombozi wa jamaa (go'el)."
+      },
+      {
+        "question": "Katika Zaburi za Kutawazwa kwa Kifalme ( Zaburi 93:95-99 ), ni mada gani kuu inayotangazwa?",
+        "options": [
+          "Utukufu wa Babeli",
+          "'Bwana anatawala!' (YHWH Malak) - ufalme wa Mungu wa ulimwengu wote na wa haki juu ya viumbe vyote na watu",
+          "Kifo cha wafalme",
+          "Kutoroka jangwani"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi hizi zinamsifu Mungu akiwa Muumba na Mwamuzi mkuu ambaye dunia yote inashangilia mbele zake."
+      },
+      {
+        "question": "Ni nini maana ya 'baraka na laana' katika Kumbukumbu la Torati 27-28?",
+        "options": [
+          "Uchawi wa uchawi",
+          "Matokeo ya asili na ya kiagano ya uaminifu kwa Torati (maisha, amani, kuzaa matunda) au uasi (uhamisho, utawanyiko)",
+          "Ahadi zimehifadhiwa kwa Wamisri",
+          "Andiko lililoandikwa baada ya Yesu Kristo"
+        ],
+        "correct": 1,
+        "explanation": "Musa anaweka mbele ya Waisraeli ‘uzima na wema, kifo na uovu’ ( Kumbukumbu la Torati 30:15-19 ), akiwataka kuchagua uzima."
+      },
+      {
+        "question": "Katika Danieli 1, kwa nini Danieli na wenzake watatu wanakataa chakula kutoka kwenye meza ya mfalme?",
+        "options": [
+          "Kwa lishe rahisi ya kisasa ya mboga",
+          "Ili kuepuka kujitia unajisi kwa vyakula vichafu au vyakula vilivyowekwa wakfu kwa sanamu za Babeli, kubaki mwaminifu kwa Agano katika nchi ya uhamisho.",
+          "Kwa sababu chakula kiliharibika",
+          "Kwa agizo la Ezekieli"
+        ],
+        "correct": 1,
+        "explanation": "Uaminifu wao katika mambo madogo ya kila siku hufungua njia kwa ajili ya hekima ambayo Mungu huwapa mbele ya Nebukadneza."
+      },
+      {
+        "question": "Ni nini maana ya jibu la kishujaa la wale vijana watatu Waebrania katika Danieli 3:17-18 ('Mungu wetu anaweza kutuokoa... na hata kama hakufanya...')?",
+        "options": [
+          "Mashaka juu ya uwezo wa Mungu",
+          "Imani isiyo na masharti inayomtii Mungu kwa upendo na uaminifu, bila kujali matokeo ya kidunia",
+          "Makubaliano na mfalme",
+          "Kukubalika kwa ibada ya sanamu"
+        ],
+        "correct": 1,
+        "explanation": "Kukiri kwao kunaonyesha kwamba uaminifu kwa Mungu hautegemei uhakikisho wa faraja au ukombozi wa mara moja."
+      },
+      {
+        "question": "Je, ni nini cha pekee kuhusu kitabu cha Yona ikilinganishwa na vitabu vingine vya unabii?",
+        "options": [
+          "Ina sheria tu",
+          "Inaripoti karibu hakuna usemi wowote lakini inasimulia hadithi ya nabii mkaidi aliyetumwa kwa mji wa kipagani (Ninewi) kufunua huruma ya Mungu kwa ulimwengu wote.",
+          "Imeandikwa kwa Kiaramu pekee",
+          "Anazungumza kuhusu Yerusalemu pekee"
+        ],
+        "correct": 1,
+        "explanation": "Kitabu hicho kinatilia shaka utaifa finyu na kinaonyesha kwamba moyo wa Mungu unasukumwa pia kwa ajili ya wakaaji 120,000 wa Ninawi."
+      },
+      {
+        "question": "Katika Malaki 3:8-10 , ni jambo gani hususa ambalo Mungu huwajaribu watu wake?",
+        "options": [
+          "Kujenga mnara",
+          "Uaminifu katika zaka na sadaka, akiahidi kufungua madirisha ya mbinguni",
+          "Ushindi wa Uajemi",
+          "Mfungo wa siku 70"
+        ],
+        "correct": 1,
+        "explanation": "Malaki anawakemea makuhani na watu kwa uzembe wao wa ibada na maadili huku akiahidi baraka tele juu ya toba."
+      },
+      {
+        "question": "Katika Mwanzo 50:20, ni neno gani maarufu ambalo Yusufu anaelekeza kwa ndugu zake akitoa muhtasari wa maongozi ya kimungu?",
+        "options": [
+          "'Hatimaye nitalipiza kisasi'",
+          "'Mlipanga kunidhuru: Mungu aliibadilisha kuwa nzuri, ili kutimiza yanayotokea leo, kuokoa maisha ya watu wengi'",
+          "'Mungu alisababisha dhambi yako'",
+          "'Rudi Kanaani bila mimi'"
+        ],
+        "correct": 1,
+        "explanation": "Mstari huu kwa ustadi unaeleza wajibu wa mwanadamu kwa ajili ya uovu na ukuu wa ukarimu wa Mungu ambao unaurudisha kwenye wokovu."
+      },
+      {
+        "question": "Kumbukumbu la Torati 8:3 inafundisha nini (‘Mtu haishi kwa mkate tu, bali kwa kila litokalo katika kinywa cha BWANA’)?",
+        "options": [
+          "Kwamba ni haramu kula mkate",
+          "Utegemezi huo kwa Neno la Mungu ni muhimu zaidi kuliko chakula cha kimwili - mstari uliotajwa na Yesu dhidi ya Shetani",
+          "Kwamba mana itadumu milele",
+          "Kwamba jangwa lina rutuba"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anarudia mstari huu hasa wakati wa jaribu lake la kwanza jangwani (Mathayo 4:4)."
+      },
+      {
+        "question": "Je! ni nini umuhimu wa kipindi cha 'dhabihu ya Yeftha' (Waamuzi 11) na wafafanuzi wanakisomaje?",
+        "options": [
+          "Ukiwa kielelezo cha kuiga kibali cha Mungu",
+          "Kama mfano wa kusikitisha wa ufisadi wa kidini na wa kimantiki katika nyakati za Waamuzi ('kila mtu alifanya yale aliyoona ni mema'), iliyoshutumiwa na Sheria (Kumb 12:31)",
+          "Kama sheria rasmi ya Musa",
+          "Kama hadithi ya Kigiriki"
+        ],
+        "correct": 1,
+        "explanation": "Kitabu cha Waamuzi kinaeleza anguko la kiadili la Israeli hatua kwa hatua bila kuidhinisha matendo ya mashujaa wake wenye kasoro."
+      },
+      {
+        "question": "Katika Mambo ya Walawi 17:11, kwa nini damu imekatazwa kuliwa na kuhifadhiwa kwa ajili ya madhabahu?",
+        "options": [
+          "Kwa sababu za urembo tu",
+          "'Kwa maana uhai (nephesh) wa mwili u katika hiyo damu. Nimewapa ninyi hiyo madhabahuni, ili iwe upatanisho kwa ajili ya nafsi zenu.",
+          "Kwa sababu Wamisri walikunywa",
+          "Kwa sababu ilikuwa nadra"
+        ],
+        "correct": 1,
+        "explanation": "Mstari huu unathibitisha theolojia ya kibiblia ya dhabihu: ni maisha yanayotolewa ambayo hufanya upatanisho, kanuni iliyotimizwa katika Kristo (Waebrania 9:22)."
+      },
+      {
+        "question": "Ni nini maana ya 'Zaburi 8' ('Mwanadamu ni nini, hata umkumbuke?') katika upeo wake wa uumbaji wa pande mbili na wa kimasiya?",
+        "options": [
+          "Anampunguza mwanadamu kuwa si kitu",
+          "Inaadhimisha hadhi ya kifalme iliyokabidhiwa kwa wanadamu juu ya uumbaji, iliyoletwa kwenye ukamilifu katika Yesu Kristo (Waebrania 2:6-9)",
+          "Anazungumza tu kuhusu malaika",
+          "Anaelezea Babeli"
+        ],
+        "correct": 1,
+        "explanation": "Waraka kwa Waebrania unaonyesha kwamba ikiwa mwanadamu bado hajatumia utawala huu kikamilifu, tayari tunamwona Yesu akiwa amevishwa taji ya utukufu na heshima."
+      },
+      {
+        "question": "Katika Mithali 8:22-31, ni jinsi gani ‘Hekima’ (Hokhmah) imefanywa kuwa mtu?",
+        "options": [
+          "Kama mungu mke wa kipagani mpinzani wa YHWH",
+          "Nikiwa na Mungu tangu kabla ya uumbaji, mjenzi mkuu mwenye furaha wa ulimwengu - sura ambayo inalisha Ukristo wa Logos (Yohana 1, Kol 1)",
+          "Kama uvumbuzi wa marehemu wa mwanadamu",
+          "Kama malaika aliyeanguka"
+        ],
+        "correct": 1,
+        "explanation": "Utu wa kishairi wa Hekima ya kimungu hutayarisha uthibitisho wa Agano Jipya kwamba Kristo ndiye Hekima na Neno la ubunifu la Mungu."
+      },
+      {
+        "question": "Je, ni muundo gani wa kitabu cha Kutoka katika sehemu kuu mbili za kitheolojia?",
+        "options": [
+          "Uumbaji kisha mafuriko",
+          "Ukombozi kutoka kwa utumwa (sura ya 1-18), kisha Agano na ujenzi wa Makao ya Mungu katikati ya watu wake (sura ya 19-40).",
+          "Vita kisha uhamishoni",
+          "Mithali kisha zaburi"
+        ],
+        "correct": 1,
+        "explanation": "Mungu hakomboi tu Israeli kutoka kwa Farao: Anawaleta kwake (Kutoka 19:4) kukaa katikati ya kambi yake."
+      },
+      {
+        "question": "Je, ni nini maana ya jina 'Ehyeh Asher Ehyeh' ('Mimi ndimi nilivyo' / 'nitakuwa nitakayekuwa') lililofunuliwa kwa Musa katika Kutoka 3:14?",
+        "options": [
+          "Kitendawili cha kukataa kujibu",
+          "Ufunuo wa uwepo wa Mungu wa uhuru, wa milele na wa uaminifu kwa watu wake ili kuwakomboa",
+          "Jina la Misri",
+          "Jina lililohifadhiwa kwa Sulemani"
+        ],
+        "correct": 1,
+        "explanation": "Jina hili linasisitiza kuwa Mungu kabisa na uwepo wake hai na mwaminifu katika historia ya Israeli."
+      },
+      {
+        "question": "Katika 2 Samweli 7:12-16, ni ahadi gani isiyo na masharti ambayo Mungu alimpa Daudi kupitia nabii Nathani?",
+        "options": [
+          "Kwamba Sulemani ataishi miaka elfu",
+          "Kwamba nyumba yake, kiti chake cha enzi na ufalme wake vitaimarishwa milele - ahadi kuu ya kimasiya",
+          "Yerusalemu hiyo haitashambuliwa kamwe",
+          "Kwamba Daudi atajenga Hekalu mwenyewe"
+        ],
+        "correct": 1,
+        "explanation": "Hata kama wazao wake wakiadhibiwa wanapotenda dhambi, agano la Daudi bado halibadiliki na linatimizwa katika Yesu, mwana wa Daudi (Luka 1:32-33)."
+      },
+      {
+        "question": "Je, 'manabii wa mahakama' waliompinga Mika au Yeremia walikuwa na jukumu gani katika Agano la Kale?",
+        "options": [
+          "Walisema ukweli kila wakati",
+          "Waliwasifu wafalme kwa kutangaza 'Amani! Amani!' wakati hakukuwa na amani, bila wito wa toba",
+          "Waliishi jangwani",
+          "Wote walikuwa makuhani Walawi"
+        ],
+        "correct": 1,
+        "explanation": "Yeremia 6:14 na 23 inawashutumu manabii hawa wa uwongo ambao waliponya jeraha la watu kwa urahisi bila kushutumu dhambi."
+      },
+      {
+        "question": "Katika Hesabu 6:24-26, ni mienendo gani mitatu inayoongezeka ya baraka ya Haruni?",
+        "options": [
+          "Utajiri, ushindi, maisha marefu",
+          "Ulinzi ('akubariki na akulinde'), neema ('uangaze uso wake na akupe neema'), na amani ('kugeuza uso wake na kukupa amani')",
+          "Kufunga, sala, sadaka",
+          "Hekima, nguvu, uzuri"
+        ],
+        "correct": 1,
+        "explanation": "Kila mstari wa Kiebrania hurefuka (3, 5, kisha maneno 7), ikifikia kilele cha zawadi kuu ya 'Shalom' ya kimungu."
+      },
+      {
+        "question": "Nini maana ya neno 'Shalom' katika Agano la Kale zaidi ya kutokuwepo kwa vita kwa urahisi?",
+        "options": [
+          "Kimya kabisa",
+          "Ukamilifu, uadilifu, maelewano ya kimahusiano na Mungu, na wengine na uumbaji",
+          "Utajiri wa kifedha tu",
+          "Upweke"
+        ],
+        "correct": 1,
+        "explanation": "'Shalom' huonyesha ustawi kamili na urejesho wa utaratibu unaotakikana na Mungu."
+      },
+      {
+        "question": "Katika Mwanzo 22, kwa nini Ibrahimu anataja mahali pa dhabihu 'Yahweh Jireh'?",
+        "options": [
+          "'Bwana anahukumu'",
+          "'Bwana atatoa' (lit. 'atajiona/atajiruzuku kwa mwana-kondoo')",
+          "'Bwana anaharibu'",
+          "'Mlima mtakatifu'"
+        ],
+        "correct": 1,
+        "explanation": "Jina hili linajibu swali la Isaka ('mwanakondoo yuko wapi?') na kutabiri utoaji wa mwisho wa Mungu katika Kristo (Mwanzo 22:8,14)."
+      },
+      {
+        "question": "Nini maana ya 'pazia' juu ya uso wa Musa katika Kutoka 34:29-35 kulingana na Paulo katika 2 Wakorintho 3?",
+        "options": [
+          "Musa alificha jeraha",
+          "Musa alifunika utukufu upitao wa agano la kale uliokuwa unafifia; katika Kristo, utaji unaondolewa ili kutafakari kwa uso wazi utukufu wa Bwana",
+          "Watu waliogopa jua",
+          "Pazia liliashiria dhambi ya Musa"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anatofautisha utukufu unaopungua wa huduma ya waraka na utukufu wa Roho udumuo na kubadilisha (2 Wakorintho 3:7-18)."
+      },
+      {
+        "question": "Katika Isaya 1:18, Mungu anatumia taswira gani wazi ya msamaha?",
+        "options": [
+          "'Dhambi zako zimechorwa katika shaba'",
+          "Dhambi zenu zijapokuwa nyekundu sana, zitakuwa nyeupe kama theluji; zikiwa nyekundu kama zambarau, zitakuwa kama sufu'",
+          "'Dhambi zako zitasahauliwa baada ya miaka elfu'",
+          "'Makuhani pekee ndio wanaosamehewa'"
+        ],
+        "correct": 1,
+        "explanation": "Mungu huwaita watu wake kusihi na kutoa utakaso kamili usiowezekana kwa mwanadamu peke yake."
+      },
+      {
+        "question": "Je, ni umuhimu gani wa kitabu cha Habakuki katika theolojia ya kibiblia ya imani?",
+        "options": [
+          "Anazungumza tu juu ya vita",
+          "Anakabiliana na tatizo la uovu na ukosefu wa haki usio na adhabu na anajibu kwa ujasiri wa subira: 'mwenye haki ataishi kwa imani yake' na furaha katika Mungu hata katika ufukara (Hab 3:17-18).",
+          "Anatoa sheria za lishe",
+          "Inasimulia maisha ya Daudi"
+        ],
+        "correct": 1,
+        "explanation": "Habakuki anatoka kwenye maombolezo ('Hata lini?') hadi kwenye wimbo wa imani isiyoyumba, hata wakati mitini, mizabibu na makundi ya kondoo haipo."
+      },
+      {
+        "question": "Katika zile zinazoitwa Zaburi 'zisizoweza kutabirika' (k.m. Zaburi 109, 137), theolojia ya kibiblia inaelewaje vilio hivi dhidi ya wadhalimu?",
+        "options": [
+          "Kama leseni ya kulipiza kisasi cha kibinafsi",
+          "Kama vile kulipiza kisasi mikononi mwa Mungu mwadilifu badala ya kuchukua haki mikononi mwa mtu mwenyewe (Warumi 12:19), akionyesha kutisha kwa uovu.",
+          "Kama makosa ya tafsiri",
+          "Kama maombi kwa malaika"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi hizi kwa uaminifu husalimisha ghadhabu mbele za Mungu, zikimtumaini Hakimu wa dunia yote kurejesha haki."
+      },
+      {
+        "question": "Je, kuna uhusiano gani kati ya 'Sikukuu ya Majuma' (Shavuot) katika Agano la Kale na Pentekoste ya Kikristo?",
+        "options": [
+          "Hakuna kiungo",
+          "Shavuot aliadhimisha matunda ya kwanza ya mavuno siku 50 baada ya Pasaka (na utoaji wa Torati katika mapokeo ya Kiyahudi); Siku ya Pentekoste, Roho humiminwa na roho 3000 zinaunda malimbuko ya Kanisa.",
+          "Shavuot ilifanyika wakati wa baridi",
+          "Ilikuwa sikukuu ya Babeli"
+        ],
+        "correct": 1,
+        "explanation": "Utimilifu wa mfano unaunganisha malimbuko ya mavuno na kumwagwa kwa Roho kuandika sheria juu ya mioyo (Matendo 2)."
+      },
+      {
+        "question": "Katika 1 Wafalme 8:46 na Mhubiri 7:20, ni ukweli gani wa kianthropolojia unaothibitishwa kutoka katika Agano la Kale?",
+        "options": [
+          "Kwamba baadhi ya watu hawana dhambi",
+          "‘Hakuna mwenye haki duniani afanyaye mema na asifanye dhambi’",
+          "Kwamba ni Adamu pekee aliyetenda dhambi",
+          "Kwamba wafalme hawana makosa"
+        ],
+        "correct": 1,
+        "explanation": "Ulimwengu wa dhambi tayari umefundishwa waziwazi katika Agano la Kale, kutayarisha tangazo la neema ya ulimwengu wote katika Kristo (Warumi 3:10-23)."
       }
     ]
   }

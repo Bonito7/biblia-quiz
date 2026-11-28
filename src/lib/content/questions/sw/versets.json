@@ -583,6 +583,457 @@
         ],
         "correct": 3,
         "explanation": "'Kanuni ya dhahabu' - 'Lolote mtakalo watu wawatendee, watendeeni vivyo hivyo' - iko katika Mathayo 7:12 (pamoja na nyongeza 'kwa maana hii ndiyo torati na manabii') na Luka 6:31. Yesu anaiwasilisha kama muhtasari wa ufunuo wote wa maadili."
+      },
+      {
+        "question": "Kamilisha Yohana 3:16: 'Kwa maana jinsi hii Mungu aliupenda ulimwengu, hata akamtoa Mwanawe pekee, ili kila mtu amwaminiye asipotee, bali...'",
+        "options": [
+          "kwamba anakuwa tajiri",
+          "awe na uzima wa milele",
+          "awe mfalme duniani",
+          "kwamba hatateseka kamwe"
+        ],
+        "correct": 1,
+        "explanation": "Yohana 3:16 inatoa muhtasari wa moyo wa injili: zawadi ya Mwana pekee wa uzima wa milele kwa njia ya imani."
+      },
+      {
+        "question": "Kamilisha Zaburi 23:4: ‘Nijapopita kati ya bonde la uvuli wa mauti, Sitaogopa mabaya;",
+        "options": [
+          "Nina nguvu sana",
+          "uko pamoja nami",
+          "Nina upanga",
+          "marafiki zangu wanilinde"
+        ],
+        "correct": 1,
+        "explanation": "'Gongo lako na fimbo yako vyanifariji' - Uwepo wa Mchungaji huondoa woga (Zaburi 23:4)."
+      },
+      {
+        "question": "Kamilisha Mithali 3:5: 'Mtumaini BWANA kwa moyo wako wote, wala usitegemee...'",
+        "options": [
+          "utajiri wako",
+          "hekima yako",
+          "marafiki zako",
+          "ujasiri wako"
+        ],
+        "correct": 1,
+        "explanation": "Mithali 3:5-6 inatualika tumtambue Mungu katika njia zake zote ili aongoze mapito yetu."
+      },
+      {
+        "question": "Kamilisha Mathayo 6:33 : ‘Utafuteni kwanza ufalme wa Mungu na haki yake; na mambo haya yote...'",
+        "options": [
+          "itachukuliwa kutoka kwako",
+          "utapewa hapo juu",
+          "itasahaulika",
+          "itakuja katika miaka elfu"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anafundisha tusihangaikie kesho bali kutanguliza Ufalme wa Mungu (Mathayo 6:33)."
+      },
+      {
+        "question": "Kamilisha Warumi 6:23 : ‘Kwa maana mshahara wa dhambi ni mauti; bali karama ya Mungu ni…'",
+        "options": [
+          "sheria ya Musa",
+          "uzima wa milele katika Yesu Kristo Bwana wetu",
+          "maisha marefu duniani",
+          "hekima ya kibinadamu"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anatofautisha 'mshahara' unaostahiliwa na dhambi (kifo) na 'zawadi ya bure' (charisma) ya Mungu katika Kristo."
+      },
+      {
+        "question": "Kamilisha 1 Wakorintho 16:14: 'Lolote mfanyalo na lifanyike kwa...'",
+        "options": [
+          "hofu",
+          "upendo (mapenzi)",
+          "kasi",
+          "kiburi"
+        ],
+        "correct": 1,
+        "explanation": "Amri hii fupi inajumlisha roho ya maisha yote ya jumuiya ya Kikristo."
+      },
+      {
+        "question": "Kamilisha Yoshua 1:9: ‘Je, sikukuagizia, Uwe hodari na ujipe moyo? Msiogope wala msifadhaike, kwa maana...'",
+        "options": [
+          "haushindwi",
+          "BWANA Mungu wako yu pamoja nawe katika kila jambo unalofanya",
+          "hakuna mtu atakayepigana nawe",
+          "una jeshi kubwa"
+        ],
+        "correct": 1,
+        "explanation": "Hivyo Mungu anamtia moyo Yoshua anapomrithi Musa na kuingia Kanaani."
+      },
+      {
+        "question": "Kamilisha Zaburi 118:24: 'Siku hii ndiyo aliyoifanya BWANA, iwe kwetu...'",
+        "options": [
+          "somo la hofu",
+          "somo la furaha na furaha",
+          "siku ya kupumzika kwa kulazimishwa",
+          "kumbukumbu ya mbali"
+        ],
+        "correct": 1,
+        "explanation": "Mstari huu unatualika kupokea kila siku kama zawadi kutoka kwa Mungu inayostahili sifa na shangwe."
+      },
+      {
+        "question": "Kamilisha Mathayo 5:9: 'Heri wapatanishi; maana hao wataitwa...'",
+        "options": [
+          "wafalme wa dunia",
+          "Mwana wa Mungu",
+          "waamuzi wa Israeli",
+          "manabii"
+        ],
+        "correct": 1,
+        "explanation": "Heri ya Saba ya Mahubiri ya Mlimani (Mathayo 5:9)."
+      },
+      {
+        "question": "Kamilisha Mathayo 5:8: 'Heri wenye moyo safi maana...'",
+        "options": [
+          "watairithi dhahabu",
+          "watamwona Mungu",
+          "watakuwa maarufu",
+          "hawatalia kamwe"
+        ],
+        "correct": 1,
+        "explanation": "Heri ya sita: usafi wa ndani hufungua mtu kwa maono na ushirika na Mungu."
+      },
+      {
+        "question": "Kamilisha 1 Petro 5:7: 'Mkimtwika yeye fadhaa zenu zote, kwa maana...'",
+        "options": [
+          "yuko mbali",
+          "yeye mwenyewe anakujali",
+          "wasiwasi wako ni wa kufikirika",
+          "hakuna mwingine anayesikiliza"
+        ],
+        "correct": 1,
+        "explanation": "Petro anawasihi waumini wanyenyekee chini ya mkono wa Mungu wenye nguvu kwa kumweleza kila mahangaiko yake."
+      },
+      {
+        "question": "Kamilisha Wafilipi 4:6 : ‘Msijisumbue kwa neno lo lote; bali katika kila haja zenu na zijulikane na Mungu kwa kusali na kuomba kwa...'",
+        "options": [
+          "kulia",
+          "shukrani",
+          "sadaka",
+          "kufunga peke yake"
+        ],
+        "correct": 1,
+        "explanation": "Sala ya uhakika na ya shukrani inafuatwa na amani ya Mungu ambayo inalinda mioyo (Wafilipi 4:6-7)."
+      },
+      {
+        "question": "Kamilisha Zaburi 100:5 : ‘Kwa kuwa BWANA ni mwema; wema wake wadumu milele, na uaminifu wake...'",
+        "options": [
+          "huchukua miaka saba",
+          "kutoka kizazi hadi kizazi",
+          "imefichwa",
+          "inategemea wafalme"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi ya 100 ni zaburi ya shukrani inayoita ulimwengu wote kumtumikia Bwana kwa furaha."
+      },
+      {
+        "question": "Kamilisha Zaburi 46:10 ( 46:11 ): ‘Simameni tu, mjue ya kuwa mimi ni Mungu; nina mamlaka juu ya mataifa.",
+        "options": [
+          "na juu ya bahari",
+          "Ninatawala dunia",
+          "Ninahukumu nyota",
+          "Nanyamaza kimya"
+        ],
+        "correct": 1,
+        "explanation": "Katika moyo wa misukosuko, Mungu huwaita watu wake watulie na kuwa na uhakika mbele ya enzi kuu yake."
+      },
+      {
+        "question": "Kamilisha Wagalatia 6:9 : ‘Tusichoke katika kutenda mema; kwa maana tutavuna kwa wakati wake, ikiwa...'",
+        "options": [
+          "tuna pesa",
+          "hatupumziki",
+          "tunaenda mbali",
+          "tunaongea sana"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anahimiza uvumilivu katika huduma na ukarimu kwa wote."
+      },
+      {
+        "question": "Kamilisha Yohana 8:12 : ‘Mimi ndimi nuru ya ulimwengu; yeye anifuataye hatakwenda gizani kamwe, bali...'",
+        "options": [
+          "itakuwa na nuru ya uzima",
+          "utapata hazina",
+          "atajua yajayo",
+          "atakuwa mfalme"
+        ],
+        "correct": 0,
+        "explanation": "Yesu anazungumza neno hili Hekaluni wakati wa Sikukuu ya Vibanda."
+      },
+      {
+        "question": "Kamilisha Yohana 11:25: 'Mimi ndimi huo ufufuo na uzima. Yeye aniaminiye mimi ataishi...'",
+        "options": [
+          "angekuwa maskini",
+          "angekufa",
+          "angekuwa mbali",
+          "angekuwa peke yake"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anamwambia Martha ahadi hii kabla tu ya kumfufua Lazaro."
+      },
+      {
+        "question": "Kamilisha Yohana 15:5: ‘Mimi ni mzabibu, ninyi ni matawi. Akaaye ndani yangu na mimi kukaa ndani yake, huyo huzaa sana; maana pasipo mimi...'",
+        "options": [
+          "unasonga taratibu",
+          "huwezi kufanya lolote",
+          "unahitaji kuomba zaidi",
+          "wewe ni dhaifu"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anafundisha utegemezi muhimu na wa kudumu wa mwanafunzi kwake."
+      },
+      {
+        "question": "Kamilisha Mathayo 22:37: 'Mpende Bwana Mungu wako kwa moyo wako wote na kwa roho yako yote na...'",
+        "options": [
+          "utajiri wako wote",
+          "mawazo yako yote",
+          "nyumba yako yote",
+          "nguvu zako zote peke yako"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anataja Kumbukumbu la Torati 6:5 kama amri kuu na ya kwanza."
+      },
+      {
+        "question": "Kamilisha Mathayo 7:1: 'Msihukumu, ili...'",
+        "options": [
+          "wewe ni maarufu",
+          "huhukumiwi",
+          "uko sahihi",
+          "wewe ni tajiri"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anaonya dhidi ya mkosoaji mnafiki ambaye huona kibanzi kwa wengine na kusahau boriti katika jicho lake mwenyewe (Mathayo 7:1-5)."
+      },
+      {
+        "question": "Kamilisha Matendo 1:8: 'Lakini mtapokea nguvu, akiisha kuwajilia juu yenu Roho Mtakatifu, nanyi mtakuwa...'",
+        "options": [
+          "viongozi wa Roma",
+          "mashahidi wangu katika Yerusalemu, na katika Uyahudi wote, na Samaria, na hata mwisho wa nchi",
+          "malaika",
+          "makuhani wa Hekalu"
+        ],
+        "correct": 1,
+        "explanation": "Mstari huu unafuatilia mpango wa kijiografia na wa kimisionari wa kitabu kizima cha Matendo ya Mitume."
+      },
+      {
+        "question": "Kamilisha Matendo 4:12 : ‘Hakuna wokovu katika mwingine; kwa maana hapana jina jingine chini ya mbingu walilopewa wanadamu ambalo kwalo...’",
+        "options": [
+          "tukawa wenye busara",
+          "ilitubidi kuokolewa",
+          "tumebarikiwa mali",
+          "tunaweza kutawala"
+        ],
+        "correct": 1,
+        "explanation": "Petro anatangaza umoja wa wokovu katika Yesu Kristo mbele ya viongozi wa Sanhedrin."
+      },
+      {
+        "question": "Kamilisha Warumi 5:8: 'Bali Mungu aonyesha pendo lake yeye mwenyewe kwetu sisi, kwa kuwa tulipokuwa tungali wenye dhambi.'",
+        "options": [
+          "tuliitafuta",
+          "Kristo alikufa kwa ajili yetu",
+          "tulishika Sheria",
+          "alingoja hadi tulipokuwa wakamilifu"
+        ],
+        "correct": 1,
+        "explanation": "Upendo wa Mungu unatangulia sifa zote za kibinadamu: Kristo alijitoa tulipokuwa tungali maadui na wenye dhambi."
+      },
+      {
+        "question": "Kamilisha Warumi 10:9: 'Ukimkiri Yesu kwa kinywa chako ya kuwa ni Bwana, na kuamini moyoni mwako ya kuwa Mungu alimfufua katika wafu, utakuwa...'",
+        "options": [
+          "maarufu",
+          "kuokolewa",
+          "tajiri",
+          "nabii"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anaunganisha imani ya ndani ya moyo na maungamo ya hadharani ya ubwana wa Kristo mfufuka."
+      },
+      {
+        "question": "Kamilisha Zaburi 139:14 : ‘Nakusifu kwa kuwa mimi ni kiumbe wa ajabu sana. Matendo yako yanastaajabisha, na nafsi yangu...’",
+        "options": [
+          "kumpuuza",
+          "inatambua vizuri",
+          "anaogopa",
+          "shaka mara nyingi"
+        ],
+        "correct": 1,
+        "explanation": "Daudi anasherehekea hekima na kujali kwa Muumba aliyetuumba kutoka tumboni."
+      },
+      {
+        "question": "Kamilisha Zaburi 121:1-2: 'Nainua macho yangu niitazame milima... Msaada wangu utatoka wapi? Msaada unanijia kutoka kwa Bwana, aliyefanya...’",
+        "options": [
+          "Hekalu",
+          "mbingu na ardhi",
+          "Bahari Nyekundu",
+          "nyota pekee"
+        ],
+        "correct": 1,
+        "explanation": "Wimbo huu wa kupaa unathibitisha ulinzi mkali wa Mungu ambaye hasinzii wala kulala (Zaburi 121:4)."
+      },
+      {
+        "question": "Kamilisha Mithali 18:10 : ‘Jina la BWANA ni ngome imara; wenye haki hukimbilia huko, na...’",
+        "options": [
+          "hujificha milele",
+          "iko salama",
+          "inakuwa tajiri",
+          "kusahau kila kitu"
+        ],
+        "correct": 1,
+        "explanation": "Jina (tabia iliyofunuliwa) ya Mungu ni kimbilio salama kwa mwamini."
+      },
+      {
+        "question": "Kamilisha Mithali 16:3: 'Mkabidhi BWANA kazi zako na mipango yako...'",
+        "options": [
+          "itakuwa siri",
+          "itafanikiwa",
+          "itabadilika haraka",
+          "itabaki kuwa ndogo"
+        ],
+        "correct": 1,
+        "explanation": "Kukabidhi biashara zetu kwa Mungu kunaoanisha mipango yetu na hekima na baraka zake."
+      },
+      {
+        "question": "Kamilisha Luka 6:38: ‘Wapeni watu vitu, nanyi mtapewa;",
+        "options": [
+          "siri",
+          "ambayo hufurika",
+          "ndogo",
+          "mbali"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anahimiza ukarimu bila hesabu, akihakikisha kipimo cha ukarimu wa Mungu."
+      },
+      {
+        "question": "Kamilisha Yohana 13:35: 'Hivyo watu wote watajua ya kuwa ninyi mmekuwa wanafunzi wangu, mkiwa...'",
+        "options": [
+          "sayansi nyingi",
+          "upendo kwa kila mmoja",
+          "majengo makubwa",
+          "wanafunzi wengi"
+        ],
+        "correct": 1,
+        "explanation": "Upendo wa kindugu ni ishara ya pekee ambayo Yesu alitamani kwa wanafunzi wake."
+      },
+      {
+        "question": "Kamilisha 2 Wakorintho 5:7: 'Maana twaenenda kwa imani, wala si kwa...'",
+        "options": [
+          "sheria",
+          "mtazamo",
+          "hofu",
+          "pesa"
+        ],
+        "correct": 1,
+        "explanation": "Kujiamini katika ahadi zisizoonekana za Mungu humwongoza mwamini zaidi ya kuonekana kwa sasa."
+      },
+      {
+        "question": "Kamilisha 1 Yohana 4:19: 'Lakini sisi tunampenda kwa sababu yeye...'",
+        "options": [
+          "walituogopa",
+          "alitupenda kwanza",
+          "aliumba malaika",
+          "ina nguvu sana"
+        ],
+        "correct": 1,
+        "explanation": "Upendo wa kibinadamu kwa Mungu daima ni jibu kwa upendo wake wa kwanza na wa kujali."
+      },
+      {
+        "question": "Kamilisha 1 Yohana 5:14: 'Tuna ujasiri huu kwake, ya kwamba, tukiomba kitu sawasawa na mapenzi yake...'",
+        "options": [
+          "anasubiri kwa muda mrefu",
+          "anatusikiliza",
+          "anatuhukumu",
+          "anakaa kimya"
+        ],
+        "correct": 1,
+        "explanation": "Kuomba kulingana na mapenzi ya Mungu yaliyofunuliwa kunatoa uhakika wa kusikilizwa."
+      },
+      {
+        "question": "Kamilisha Mathayo 19:26: 'Kwa wanadamu hilo haliwezekani, bali kwa Mungu...'",
+        "options": [
+          "kila kitu ni kigumu",
+          "kila kitu kinawezekana",
+          "hakuna kinachoahidiwa",
+          "mambo machache ni rahisi"
+        ],
+        "correct": 1,
+        "explanation": "Hivyo Yesu anawajibu wanafunzi wanaostaajabu kujua ni nani anayeweza kuokolewa."
+      },
+      {
+        "question": "Kamilisha Marko 10:45: 'Kwa maana Mwana wa Adamu alikuja si kutumikiwa, bali kutumika, na kuutoa uhai wake kama...'",
+        "options": [
+          "mfalme mwenye nguvu",
+          "fidia ya wengi",
+          "hakimu mkali",
+          "mwanafalsafa"
+        ],
+        "correct": 1,
+        "explanation": "Mstari huu muhimu unatoa muhtasari wa huduma na utume wa ukombozi wa Yesu."
+      },
+      {
+        "question": "Kamilisha Zaburi 37:4: 'Utajifurahisha kwa BWANA, naye atakupa...'",
+        "options": [
+          "dhahabu yote ya Misri",
+          "moyo wako unataka nini",
+          "vita vya muda mrefu",
+          "kiti cha enzi cha duniani"
+        ],
+        "correct": 1,
+        "explanation": "Wakati Mungu mwenyewe anakuwa furaha yetu kuu, tamaa zetu zinapatana na mapenzi yake."
+      },
+      {
+        "question": "Kamilisha Zaburi 91:1: “Aketiye katika kificho chake Aliye juu hukaa katika uvuli…”",
+        "options": [
+          "wa Hekalu",
+          "wa Mwenyezi",
+          "mierezi",
+          "milima"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi ya 91 inaadhimisha ulinzi wa Mungu mwaminifu kwa wale wanaomtumaini."
+      },
+      {
+        "question": "Kamilisha Waebrania 13:8: 'Yesu Kristo ni yeye yule, jana na leo, na...'",
+        "options": [
+          "kwa miaka elfu",
+          "milele",
+          "hadi mwisho wa mwaka",
+          "duniani pekee"
+        ],
+        "correct": 1,
+        "explanation": "Kutobadilika kwa uaminifu kwa Kristo kunaweka uthabiti wa imani ya Kikristo."
+      },
+      {
+        "question": "Kamilisha 1 Wakorintho 10:13: 'Jaribu halikuwapata ninyi ambalo si la kibinadamu, wala Mungu aliye mwaminifu hatawaacha mjaribiwe...'",
+        "options": [
+          "hata kidogo",
+          "zaidi ya nguvu zako",
+          "wakati wa usiku",
+          "na marafiki zako"
+        ],
+        "correct": 1,
+        "explanation": "Pamoja na majaribu, Mungu pia hutayarisha njia ya kutoka kwayo ili tuweze kustahimili."
+      },
+      {
+        "question": "Kamilisha Wagalatia 5:22: 'Lakini tunda la Roho ni upendo, furaha, amani, uvumilivu, utu wema, fadhili, uaminifu, upole, ...'",
+        "options": [
+          "utajiri",
+          "kiasi (kujidhibiti)",
+          "ufasaha",
+          "nguvu za kimwili"
+        ],
+        "correct": 1,
+        "explanation": "Maadili haya tisa yanaonyesha kazi ya mabadiliko ya Roho Mtakatifu katika maisha ya mwamini."
+      },
+      {
+        "question": "Kamilisha Waefeso 4:32: 'Iweni wafadhili ninyi kwa ninyi, wenye huruma, mkasameheane kama...'",
+        "options": [
+          "malaika hufanya hivyo",
+          "Mungu amekusamehe katika Kristo",
+          "sheria inaitaka",
+          "wazazi wako walikufundisha"
+        ],
+        "correct": 1,
+        "explanation": "Msamaha uliopokelewa katika Kristo ni chanzo na kipimo cha msamaha wa kindugu."
       }
     ],
     "intermediaire": [
@@ -1190,6 +1641,424 @@
         ],
         "correct": 0,
         "explanation": "Luka 15:20: '... alipokuwa angali mbali, baba yake alimwona, akamwonea huruma, akapiga mbio, akamwangukia shingoni, akambusu.' — moyo wa mfano huo: baba anayemkimbilia mwana aliyetubu, picha isiyo na kifani ya neema ya kimungu inayomkaribisha mwenye dhambi anayerudi."
+      },
+      {
+        "question": "Ni kitabu gani na sura gani inayo: 'BWANA atawapigania; na wewe ukae kimya?",
+        "options": [
+          "Yoshua 6:20",
+          "Kutoka 14:14",
+          "1 Samweli 17:45",
+          "Zaburi 46:1"
+        ],
+        "correct": 1,
+        "explanation": "Hivyo Musa aliwahakikishia Waisraeli walionaswa mbele ya Bahari Nyekundu na jeshi la Farao."
+      },
+      {
+        "question": "Mstari upi wa Agano Jipya unasema: ‘Kwa maana neno la msalaba kwao wanaopotea ni upuzi; lakini kwetu sisi tunaookolewa ni nguvu ya Mungu’?",
+        "options": [
+          "Warumi 1:16",
+          "1 Wakorintho 1:18",
+          "Wagalatia 2:20",
+          "Waefeso 2:8"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anatofautisha hekima ya kidunia na nguvu ya kitendawili ya msalaba wa Kristo."
+      },
+      {
+        "question": "Ni katika kifungu gani tunapata: 'Ikiwa Mungu yuko upande wetu, ni nani atakayekuwa dhidi yetu?'",
+        "options": [
+          "Warumi 8:31",
+          "Zaburi 27:1",
+          "1 Yohana 4:4",
+          "Wafilipi 4:13"
+        ],
+        "correct": 0,
+        "explanation": "Warumi 8:31 inafungua doksolojia kuu ya uhakikisho inayohitimisha sura ya 8."
+      },
+      {
+        "question": "Kamilisha 2 Wakorintho 5:17: 'Ikiwa mtu yuko ndani ya Kristo, amekuwa kiumbe kipya. Mambo ya kale yamepita; hapa,...'",
+        "options": [
+          "watarudi baadae",
+          "mambo yote yamekuwa mapya",
+          "sheria inarejeshwa",
+          "dunia imekwisha"
+        ],
+        "correct": 1,
+        "explanation": "Muungano na Kristo mfufuka tayari unaanzisha uumbaji mpya katika maisha ya mwamini."
+      },
+      {
+        "question": "Ni mstari gani wa Agano la Kale unasema: ‘Si kwa uwezo, wala si kwa uwezo, bali ni kwa roho yangu, asema BWANA wa majeshi’?",
+        "options": [
+          "Isaya 40:31",
+          "Zekaria 4:6",
+          "Yeremia 29:11",
+          "Mika 6:8"
+        ],
+        "correct": 1,
+        "explanation": "Neno lililoelekezwa kwa Zerubabeli kwa ajili ya ujenzi wa Hekalu licha ya vikwazo."
+      },
+      {
+        "question": "Kamilisha Mithali 14:12: 'Iko njia ionekanayo kuwa sawa machoni pa mtu, lakini mwisho wake ni...'",
+        "options": [
+          "utukufu",
+          "njia ya kifo",
+          "pumzika",
+          "hekima"
+        ],
+        "correct": 1,
+        "explanation": "Methali hii inaonya dhidi ya kuamini maoni ya mtu mwenyewe ya maadili bila hekima ya Mungu."
+      },
+      {
+        "question": "Ni katika kitabu gani tunapata: ‘Maana mawazo yangu si mawazo yenu, wala njia zenu si njia zangu, asema BWANA’?",
+        "options": [
+          "Ayubu 38:2",
+          "Isaya 55:8",
+          "Yeremia 29:11",
+          "Warumi 11:33"
+        ],
+        "correct": 1,
+        "explanation": "Isaya 55:8-9 inasisitiza urefu usio na kikomo wa rehema na hekima ya Mungu."
+      },
+      {
+        "question": "Kamilisha 1 Samweli 16:7: 'Mwanadamu hutazama kwa nje, bali BWANA hutazama...'",
+        "options": [
+          "kwa nguo",
+          "moyoni",
+          "kwa utajiri",
+          "katika umri"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alisema hivi kwa Samweli alipomchagua Daudi kutoka kwa wana wa Yese."
+      },
+      {
+        "question": "Mstari gani unasema: 'Kumcha BWANA ni mwanzo wa hekima; na ujuzi wa watakatifu ni akili?",
+        "options": [
+          "Mithali 9:10 (na 1:7)",
+          "Mhubiri 1:2",
+          "Ayubu 1:1",
+          "Zaburi 1:1"
+        ],
+        "correct": 0,
+        "explanation": "Kumcha Mungu kwa heshima na upendo ndio msingi wa hekima yote ya kweli katika fasihi ya hekima."
+      },
+      {
+        "question": "Yesu anasema katika mstari gani: ‘Mbingu na dunia zitapita, lakini maneno yangu hayatapita kamwe’?",
+        "options": [
+          "Mathayo 24:35 ( Marko 13:31; Luka 21:33 )",
+          "Yohana 1:1",
+          "Ufunuo 21:1",
+          "Matendo 1:8"
+        ],
+        "correct": 0,
+        "explanation": "Yesu anathibitisha mamlaka ya milele na isiyoweza kukosea ya maneno yake mwenyewe katika kiini cha mazungumzo ya eskatolojia."
+      },
+      {
+        "question": "Kamilisha 1 Petro 2:24: ‘Yeye mwenyewe alizichukua dhambi zetu katika mwili wake juu ya mti, tukiwa wafu kwa mambo ya dhambi, tuwe hai kwa mambo ya haki; ambaye kwa michubuko...'",
+        "options": [
+          "tunahukumiwa",
+          "umeponywa",
+          "sisi ni matajiri",
+          "Hekalu linajengwa upya"
+        ],
+        "correct": 1,
+        "explanation": "Petro ananukuu kwa uhuru Isaya 53:5 ili kuonyesha kusudi la msalaba kimaadili na kiroho."
+      },
+      {
+        "question": "Ni mstari gani katika Agano Jipya unasema: 'Kwa maana Mungu ni mmoja, na mpatanishi kati ya Mungu na wanadamu ni mmoja, Mwanadamu Kristo Yesu'?",
+        "options": [
+          "Waebrania 9:15",
+          "1 Timotheo 2:5",
+          "Warumi 8:34",
+          "Yohana 14:6"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anaunganisha mstari huu na nia ya Mungu kwa watu wote kuokolewa (1 Timotheo 2:4)."
+      },
+      {
+        "question": "Kamilisha 1 Timotheo 6:10 : ‘Maana shina moja la mabaya ya kila namna ni kupenda fedha; na wengine kwa kuwa wamepagawa, walipotea...’",
+        "options": [
+          "ya marafiki zao",
+          "mbali na imani, wakajitia katika mateso mengi",
+          "kutoka Yerusalemu",
+          "kazi"
+        ],
+        "correct": 1,
+        "explanation": "Si pesa kwa kila nafsi, bali ni 'kupenda pesa' (philargyria) ndiko kunakoongoza moyo kupotea."
+      },
+      {
+        "question": "Ni mstari gani katika Yakobo unasema hivi: ‘Kila neema njema na kila zawadi kamilifu hushuka kutoka juu, kutoka kwa Baba wa mianga’?",
+        "options": [
+          "Yakobo 1:17",
+          "Yakobo 2:14",
+          "Yakobo 4:7",
+          "Yakobo 5:16"
+        ],
+        "correct": 0,
+        "explanation": "Yakobo anasisitiza kwamba Mungu hamjaribu yeyote kwa uovu na hubaki bila kubadilika katika wema wake ('ambaye kwake hakuna kubadilika wala kivuli cha kutofautiana')."
+      },
+      {
+        "question": "Kamilisha Yakobo 4:7 : ‘Basi mtiini Mungu; mpingeni shetani, na...’",
+        "options": [
+          "atakulipa",
+          "atakukimbia",
+          "atazungumza na wewe",
+          "atasubiri"
+        ],
+        "correct": 1,
+        "explanation": "Ushindi wa kiroho unategemea kwanza katika kunyenyekea kwa unyenyekevu kwa Mungu kabla ya upinzani dhidi ya adui."
+      },
+      {
+        "question": "Ni katika kifungu gani tunapata: ‘Kwa maana walipo wawili au watatu wamekusanyika kwa jina langu, mimi nipo papo hapo katikati yao’?",
+        "options": [
+          "Mathayo 18:20",
+          "Yohana 14:23",
+          "Matendo 2:42",
+          "1 Wakorintho 12:12"
+        ],
+        "correct": 0,
+        "explanation": "Yesu anaahidi uwepo wake hai katika moyo wa jumuiya ya maombi na nidhamu (Mathayo 18:15-20)."
+      },
+      {
+        "question": "Kamilisha Wakolosai 3:23: 'Lolote mfanyalo, lifanyeni kwa moyo, kama kwa Bwana, wala si kwa wanadamu, mkijua ya kuwa...'",
+        "options": [
+          "utakuwa na dhahabu hapa chini",
+          "mtapokea kwa Bwana urithi kama thawabu",
+          "hakuna anayekuona",
+          "kazi ni bure"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anainua kila kazi ya kila siku kwa kuiweka chini ya macho na huduma ya Bwana Kristo."
+      },
+      {
+        "question": "Mstari upi unasema: ‘Fadhili za Bwana hazikomi, rehema zake hazikomi; Zinasasishwa kila asubuhi?",
+        "options": [
+          "Zaburi 23:6",
+          "Maombolezo 3:22-23",
+          "Isaya 40:28",
+          "Yeremia 31:3"
+        ],
+        "correct": 1,
+        "explanation": "Katikati ya magofu ya Yerusalemu, nabii anapaaza sauti hivi: ‘Lo! Uaminifu wako jinsi ulivyo mkuu!"
+      },
+      {
+        "question": "Kamilisha Kumbukumbu la Torati 31:6 : ‘Uwe hodari na ushujaa! Msiogope wala msifadhaike mbele yao; kwa kuwa BWANA, Mungu wako, atakwenda pamoja nawe, wala hatakuacha, na...’",
+        "options": [
+          "atakutajirisha haraka",
+          "hatakuacha",
+          "atabadilisha jangwa kuwa bahari",
+          "atakufanya mfalme"
+        ],
+        "correct": 1,
+        "explanation": "Ahadi hii imerudiwa katika Waebrania 13:5 ili kuwatia moyo Wakristo kuridhika na kujiamini."
+      },
+      {
+        "question": "Paulo anaandika katika mstari gani: ‘Siionei haya Injili; ni uweza wa Mungu uuletao wokovu kwa kila aaminiye’?",
+        "options": [
+          "Warumi 1:16",
+          "1 Wakorintho 15:1",
+          "Wagalatia 1:6",
+          "Waefeso 6:19"
+        ],
+        "correct": 0,
+        "explanation": "Mstari huu unajumuisha mada ya programu ya waraka wote kwa Warumi."
+      },
+      {
+        "question": "Kamilisha Mathayo 16:24: 'Mtu ye yote akitaka kunifuata, na ajikane mwenyewe, ajitwike msalaba wake, na...'",
+        "options": [
+          "kwamba anakaa nyumbani",
+          "anifuate",
+          "kwamba anauhukumu ulimwengu",
+          "subiri ishara"
+        ],
+        "correct": 1,
+        "explanation": "Yesu anafichua gharama halisi ya ufuasi mara baada ya kutangaza Mateso yake mwenyewe."
+      },
+      {
+        "question": "Ni mstari gani wa Agano la Kale unasema: ‘BWANA hafurahii kufa kwake mtu mwovu, bali kugeuka kwake mtu mwovu na kuishi kwake’?",
+        "options": [
+          "Ezekieli 33:11 (na 18:23)",
+          "Mithali 1:10",
+          "Zaburi 1:6",
+          "Malaki 4:1"
+        ],
+        "correct": 0,
+        "explanation": "Ezekieli anafunua moyo wa huruma wa Mungu ambaye huwaita watu wake watubu siku zote ('Kwa nini ufe?')."
+      },
+      {
+        "question": "Kamilisha 2Timotheo 1:7: 'Maana Mungu hakutupa roho ya woga, bali roho ya...'",
+        "options": [
+          "hasira, mali na kiburi",
+          "nguvu, upendo na hekima",
+          "hofu, ukimya na kukimbia",
+          "utawala wa kisiasa"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anamtia moyo kijana Timotheo kufufua zawadi ya Mungu iliyopokelewa na kutouonea haya ushuhuda wa Bwana."
+      },
+      {
+        "question": "Ni katika zaburi gani tunapata: ‘Moyo uliovunjika na kupondeka, Ee Mungu, hauudharau’?",
+        "options": [
+          "Zaburi 23:3",
+          "Zaburi 51:17 ( 51:19 )",
+          "Zaburi 103:8",
+          "Zaburi 130:4"
+        ],
+        "correct": 1,
+        "explanation": "Daudi anatambua kwamba Mungu anapendelea toba ya kweli kuliko dhabihu ya kiibada pekee."
+      },
+      {
+        "question": "Kamilisha Zaburi 103:12: 'Kama mashariki ilivyo mbali na magharibi, ndivyo ilivyo mbali nasi...'",
+        "options": [
+          "adui zetu",
+          "makosa yetu",
+          "umaskini",
+          "kumbukumbu zetu"
+        ],
+        "correct": 1,
+        "explanation": "Picha ya kishairi ya utimilifu usio na mwisho wa msamaha wa kimungu."
+      },
+      {
+        "question": "Ni mstari gani wa Agano Jipya unaosema: ‘Kwa maana hazina yako ilipo, ndipo utakapokuwapo na moyo wako’?",
+        "options": [
+          "Mathayo 6:21 (na Luka 12:34)",
+          "1 Timotheo 6:10",
+          "Marko 10:21",
+          "Yakobo 5:1"
+        ],
+        "correct": 0,
+        "explanation": "Yesu anatualika tujiwekee hazina mbinguni kuliko utajiri unaoharibika duniani."
+      },
+      {
+        "question": "Kamilisha Yohana 16:33 : ‘Nimewaambia mambo haya ili mpate kuwa na amani ndani yangu. Mtakuwa na dhiki duniani; lakini jipe ​​moyo...'",
+        "options": [
+          "ulimwengu utakupenda",
+          "Niliushinda ulimwengu",
+          "mwisho ni katika miaka elfu",
+          "malaika watapigana peke yao"
+        ],
+        "correct": 1,
+        "explanation": "Amani ya Kristo haiondoi majaribu ya sasa bali inategemea ushindi wake thabiti."
+      },
+      {
+        "question": "Katika kitabu gani tunapata: ‘Yeye akaaye ndani yake yeye aliye wa kweli... Tunajua kwamba Mwana wa Mungu amekuja, na kwamba ametupa sisi ufahamu wa kuijua Kweli’?",
+        "options": [
+          "1 Yohana 5:20",
+          "Yohana 1:18",
+          "Warumi 12:2",
+          "Wakolosai 2:3"
+        ],
+        "correct": 0,
+        "explanation": "Yohana anahitimisha waraka wake wa kwanza kwa kuthibitisha ukweli wa uzima wa milele katika Yesu Kristo, 'Mungu wa kweli'."
+      },
+      {
+        "question": "Kamilisha Warumi 12:21: 'Msishindwe na ubaya, bali...'",
+        "options": [
+          "daima kukimbia kutoka duniani",
+          "ushinde ubaya kwa wema",
+          "pigo la kurudi kwa pigo",
+          "subiri bila kuchukua hatua"
+        ],
+        "correct": 1,
+        "explanation": "Mstari huu unahitimisha himizo la Warumi 12 kuhusu upendo wa dhati hata kwa adui za mtu."
+      },
+      {
+        "question": "Ni mstari gani wa Wafilipi unaosema: ‘Iweni na nia zile zile ndani yenu kama zilivyokuwa katika Kristo Yesu’?",
+        "options": [
+          "Wafilipi 2:5",
+          "Wafilipi 4:4",
+          "Wafilipi 1:21",
+          "Wafilipi 3:14"
+        ],
+        "correct": 0,
+        "explanation": "Mstari huu unatoa utangulizi wa wimbo mkuu wa Kikristo kuhusu unyenyekevu na kuinuliwa kwa Kristo (Wafilipi 2:6-11)."
+      },
+      {
+        "question": "Kamilisha 1 Wakorintho 13:4 : ‘Upendo huvumilia, umejaa fadhili; upendo hauna wivu; upendo haujivuni, haujivuni...’",
+        "options": [
+          "ya furaha",
+          "ya kiburi",
+          "ya huzuni",
+          "ya matumaini"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anaeleza kwa uthabiti upendo wa agape kupitia mfululizo wa vitenzi vya kitendo na ukanushaji."
+      },
+      {
+        "question": "Mstari upi wa Agano Jipya unafundisha: ‘Maana tu kazi yake, tuliumbwa katika Kristo Yesu, tutende matendo mema, ambayo Mungu alitangulia kuyatengeneza’?",
+        "options": [
+          "Waefeso 2:10",
+          "Warumi 3:24",
+          "Tito 3:5",
+          "Yakobo 2:17"
+        ],
+        "correct": 0,
+        "explanation": "Mara tu baada ya 'kuokolewa kwa neema' (mash. 8-9), Paulo anaonyesha kwamba neema huzaa maisha yenye matunda katika matendo mema."
+      },
+      {
+        "question": "Kamilisha Mithali 4:23: 'Linda moyo wako kuliko yote uyalindayo; maana ndiko hutokako...'",
+        "options": [
+          "utajiri",
+          "vyanzo vya maisha",
+          "maneno ya busara peke yake",
+          "miradi ya binadamu"
+        ],
+        "correct": 1,
+        "explanation": "Katika hekima ya kibiblia, moyo ndio kitovu cha maadili na kiroho kinachoongoza uwepo wote."
+      },
+      {
+        "question": "Yesu anasema katika mstari gani: ‘Hakuna anayekuja kwa Baba ila kupitia kwangu’?",
+        "options": [
+          "Yohana 14:6",
+          "Yohana 10:9",
+          "Yohana 3:16",
+          "Matendo 4:12"
+        ],
+        "correct": 0,
+        "explanation": "Muendelezo wa mara moja wa 'Mimi ndimi njia, ukweli na uzima', ulielekezwa kwa Tomaso."
+      },
+      {
+        "question": "Kamilisha Waebrania 11:6 : ‘Na pasipo imani haiwezekani kumpendeza; kwa maana mtu amwendeaye Mungu lazima aamini kwamba Mungu yuko, na kwamba yeye yuko...’",
+        "options": [
+          "asiyeonekana milele",
+          "mthawabishaji wa wale wamtafutao",
+          "kutojali wanaume",
+          "hakimu tu"
+        ],
+        "correct": 1,
+        "explanation": "Mstari huu unafafanua imani yenye nguvu iliyoonyeshwa na Henoko na wazee wa ukoo."
+      },
+      {
+        "question": "Ni mstari gani wa Isaya unaosema: ‘Utamlinda yeye ambaye roho yake i juu yako katika amani kamilifu, kwa sababu anakutumaini wewe’?",
+        "options": [
+          "Isaya 26:3",
+          "Isaya 40:31",
+          "Isaya 53:5",
+          "Isaya 61:1"
+        ],
+        "correct": 0,
+        "explanation": "Katika Kiebrania, 'shalom shalom' huonyesha amani ya kina, thabiti na kamili inayotolewa kwa mawazo ya kujiamini."
+      },
+      {
+        "question": "Kamilisha 2 Petro 1:5-7 juu ya wema wa Kikristo: ‘Tafuteni kwa bidii zote mwongezee imani yenu wema, katika wema wenu maarifa, katika ujuzi kiasi, katika kiasi saburi, katika saburi utauwa, katika utauwa upendo wa kindugu, na katika upendo wa kindugu.",
+        "options": [
+          "utajiri",
+          "upendo (mapenzi)",
+          "mamlaka",
+          "ukimya"
+        ],
+        "correct": 1,
+        "explanation": "Maendeleo haya ya kiroho yanaishia katika upendo (agape) ambao hufanya ujuzi wa Bwana kuzaa matunda."
+      },
+      {
+        "question": "Ni mstari gani katika Ufunuo unaosema: ‘Uwe mwaminifu hata kufa, nami nitakupa taji ya uzima’?",
+        "options": [
+          "Ufunuo 2:10",
+          "Ufunuo 3:20",
+          "Ufunuo 1:8",
+          "Ufunuo 22:12"
+        ],
+        "correct": 0,
+        "explanation": "Maneno ya kutia moyo yaliyoelekezwa kwa Kanisa lililoteswa la Smirna."
       }
     ],
     "expert": [
@@ -1621,6 +2490,600 @@
         ],
         "correct": 1,
         "explanation": "Mwanzo 1:26-27 ndio msingi wa anthropolojia ya kibiblia. 'Picha' (tselem) na 'kufanana' (demut) hutaja: (1) uhusiano na Mungu (uwezo wa kuelewa na kuitikia); (2) uwakilishi/makamu-regency (mtu kama mwakilishi wa Mungu juu ya uumbaji); (3) tofauti ya kijinsia ('mwanamume na mwanamke aliwaumba') kama onyesho la ushirika wa ndani. Wingi 'tufanye' inaonekana kama wingi wa ukuu au proto-Utatu kulingana na wakalimani."
+      },
+      {
+        "question": "Katika Yohana 1:18 ('Hakuna mtu aliyemwona Mungu wakati wo wote; Mwana pekee, aliye katika kifua cha Baba, amemjulisha), ni kitenzi gani cha Kigiriki kinachotoa neno letu 'exegesis'?",
+        "options": [
+          "Nembo",
+          "Exêgêsato ('kuambiwa / kufichuliwa / kujulikana kikamilifu')",
+          "Eskênôsen",
+          "Plêroma"
+        ],
+        "correct": 1,
+        "explanation": "Yesu Kristo kihalisi ndiye 'ufafanuzi' ulio hai wa Baba asiyeonekana, yule anayemfunua kikamilifu."
+      },
+      {
+        "question": "Nini maana ya neno la Kiebrania 'kabod' (כָּבוֹד) lililotafsiriwa kama 'utukufu' katika Zaburi 19:1 ('Mbingu zatangaza utukufu wa Mungu')?",
+        "options": [
+          "Nuru rahisi ya rangi",
+          "Kihalisi 'uzito, mvuto, thamani kubwa mno' - ikionyesha ukuu halisi na angavu wa Mungu",
+          "Wimbo wa vita",
+          "Kivuli"
+        ],
+        "correct": 1,
+        "explanation": "Kinyume na 'hebel' (wepesi/mvuke), 'kabod' inadhihirisha msongamano mkuu wa kuwa na uwepo wa Mungu."
+      },
+      {
+        "question": "Katika Warumi 3:25-26, ni shida gani ya kitheolojia ambayo Paulo anasema msalaba wa Kristo unasuluhisha?",
+        "options": [
+          "Jinsi ya kukandamiza Sheria bila kusema chochote",
+          "Jinsi Mungu anavyoweza kubaki mwenye haki kabisa (akihukumu dhambi juu ya Kristo) huku akimhesabia haki mwenye dhambi aliye na imani katika Yesu",
+          "Jinsi ya kutajirisha Kanisa la Roma",
+          "Jinsi ya kushinda Dola ya Kirumi"
+        ],
+        "correct": 1,
+        "explanation": "Msalaba unaonyesha haki ya Mungu mbele ya dhambi za zamani zilizoachwa bila kuadhibiwa chini ya subira yake na unadhihirisha neema yake ya sasa."
+      },
+      {
+        "question": "Je! ni neno gani la Kiyunani katika 2 Wakorintho 3:18 ('tunabadilishwa tufanane na sura ile ile kutoka utukufu hata utukufu') ambalo ni chimbuko la neno 'metamorphosis'?",
+        "options": [
+          "Metanoia",
+          "Metamorphoumetha (imebadilishwa sana ndani)",
+          "Koinônia",
+          "Parousia"
+        ],
+        "correct": 1,
+        "explanation": "Kitenzi hiki (pia kinatumika kwa Kugeuzwa sura katika Marko 9:2 na Warumi 12:2) kinaelezea badiliko la kweli lililofanywa na Roho."
+      },
+      {
+        "question": "Katika Waebrania 1:1-2, ni tofauti gani ya balagha ambayo mwandishi huchota kati ya Agano la Kale na ufunuo katika Kristo?",
+        "options": [
+          "OT haikuwa sahihi",
+          "Hapo awali Mungu alisema ‘katika nyakati nyingi na kwa njia nyingi’ kupitia manabii; katika siku za hivi karibuni, Amezungumza nasi 'katika Mwana' (in huiô)",
+          "Manabii walikuwa wakuu kuliko Mwana",
+          "Mungu hasemi tena kabisa"
+        ],
+        "correct": 1,
+        "explanation": "Ufunuo uliogawanyika na unaoendelea unafikia kilele katika neno la mwisho na la kibinafsi ambalo ni Mwana mwenyewe, mrithi wa vitu vyote."
+      },
+      {
+        "question": "Katika Wafilipi 3:10 ('ili tumjue Kristo, na uweza wa kufufuka kwake, na ushirika wa mateso yake'), ni neno gani la Kiyunani linamaanisha 'kujua' kwa uzoefu wa kibinafsi?",
+        "options": [
+          "Oida pekee",
+          "Gnônai (maarifa ya uhusiano, maisha na mabadiliko)",
+          "Agnoia",
+          "Doka"
+        ],
+        "correct": 1,
+        "explanation": "Paulo hatafuti taarifa rahisi za kiakili bali muungano wenye uzoefu na Kristo katika kifo na ufufuo wake."
+      },
+      {
+        "question": "Katika 1 Yohana 3:2 ('Tunajua ya kuwa itakapodhihirika tutafanana naye, kwa maana tutamwona jinsi alivyo'), ni fundisho gani linaloonyeshwa?",
+        "options": [
+          "Kuzaliwa upya",
+          "Maono ya heri/kutukuzwa kwa eskatologia ambapo kumtafakari Kristo aliyetukuzwa kunakamilisha mabadiliko ya waumini.",
+          "Kusahau ufufuo",
+          "Uganga wa Kipantheistic"
+        ],
+        "correct": 1,
+        "explanation": "Tumaini hili la kutakasa huchochea utakaso sasa (1 Yohana 3:3)."
+      },
+      {
+        "question": "Ni neno gani la Kiebrania kutoka Zaburi 136 ('Kwa maana fadhili zake ni za milele', zilizorudiwa mara 26) zinazoonyesha upendo mwaminifu unaohusishwa na Agano?",
+        "options": [
+          "Ruah",
+          "Hesed (uaminifu wa upendo, uaminifu wa agano usio na kushindwa)",
+          "Nephesh",
+          "Torati"
+        ],
+        "correct": 1,
+        "explanation": "Kiitikio cha kiliturujia 'ki le-olam hasdo' kinatia nanga historia nzima ya Israeli - uumbaji, kutoka, ukombozi - katika uaminifu wa agano la YHWH."
+      },
+      {
+        "question": "Katika Wakolosai 1:24 ('Nakamilisha katika mwili wangu yale yaliyopungua katika mateso ya Kristo kwa ajili ya mwili wake, ambao ni Kanisa'), Paulo anamaanisha nini?",
+        "options": [
+          "Kwamba dhabihu ya msalaba ilikuwa haitoshi kwa wokovu",
+          "Sio kwamba upatanisho haujakamilika, lakini kwamba Paulo anashiriki katika dhiki za kimisionari ambazo Kristo na Mwili wake wanapaswa kuvumilia hadi mwisho.",
+          "Kwamba Paulo anakufa kwa ajili ya dhambi za Wakolosai",
+          "Kwamba tunapaswa kukataa neema"
+        ],
+        "correct": 1,
+        "explanation": "Katika Wakolosai 1:20-22, Paulo amethibitisha kwamba upatanisho kupitia msalaba umekamilika; Hii inahusu mateso ya kitume ya ushuhuda."
+      },
+      {
+        "question": "Nini maana ya kitenzi cha Kiyunani 'katallasso' ('kupatanisha') katika 2 Wakorintho 5:18-19 ('Mungu alikuwa ndani ya Kristo, akiupatanisha ulimwengu na nafsi yake')?",
+        "options": [
+          "Kupuuza uovu bila haki",
+          "Kubadilisha uhusiano wa uadui kuwa amani shukrani kwa mpango mkuu wa Mungu ambaye hauhesabii makosa yao kwa wanadamu.",
+          "Toa heshima kwa mataifa",
+          "Watenge Wayahudi na Wagiriki"
+        ],
+        "correct": 1,
+        "explanation": "Ukweli wa ajabu: katika Agano Jipya, si mwanadamu anayepatanisha Mungu na nafsi yake, bali ni Mungu anayeupatanisha ulimwengu na nafsi yake katika Kristo."
+      },
+      {
+        "question": "Katika Kutoka 34:6-7 , mvutano kati ya rehema ('mwingi wa hasira, mwingi wa fadhili') na haki ('haina hatia') unatatuliwaje katika Biblia?",
+        "options": [
+          "Kwa usahaulifu safi na rahisi wa haki",
+          "Kupitia kazi ya upatanisho ya Kristo ambapo utakatifu wa haki wa Mungu na rehema ya msamaha hukumbatiwa kikamilifu (Zaburi 85:11; Warumi 3:25-26)",
+          "Kwa kukandamizwa kwa Agano la Kale",
+          "Kwa juhudi za kibinadamu pekee"
+        ],
+        "correct": 1,
+        "explanation": "Kutoka 34:6-7 ni maandishi yaliyotajwa sana katika Agano la Kale na Agano la Kale lenyewe (Hesabu 14, Nehemia 9, Zaburi 86/103/145, Yoeli 2, Yona 4)."
+      },
+      {
+        "question": "Ni nini maana ya usemi ‘nira nyepesi’ ya Mathayo 11:29-30 kinyume na ‘nira’ ya waandishi na Mafarisayo?",
+        "options": [
+          "Ukosefu wa nidhamu kabisa",
+          "Mwanafunzi anakubali mafundisho ya upole na unyenyekevu na mwongozo wa Yesu ('kwa maana mimi ni mpole na mnyenyekevu wa moyo'), akipata pumziko kwa nafsi badala ya mzigo wa kisheria.",
+          "Kuacha kazi",
+          "Utawala wa kimonaki"
+        ],
+        "correct": 1,
+        "explanation": "Katika Dini ya Kiyahudi ya kale, ‘kuchukua nira ya Torati’ kulimaanisha kuwa mfuasi wa bwana-mkubwa; Yesu anaalika nira yake ya ukombozi."
+      },
+      {
+        "question": "Katika Wagalatia 2:20, ni nini maana ya kisarufi ya neno la Kiyunani 'synectaurômai' ('Nimesulubishwa pamoja na Kristo')?",
+        "options": [
+          "Kitendo cha siku zijazo",
+          "Tukio la hakika lililopita (kusulubishwa pamoja na Kristo) ambalo athari zake zinaendelea wakati huu ('Sasa ninaishi kwa imani katika Mwana wa Mungu')",
+          "Mfano rahisi wa kishairi",
+          "Tamaa isiyo na uhakika"
+        ],
+        "correct": 1,
+        "explanation": "Ukamilifu wa Kiyunani unasisitiza ukweli wa kudumu wa kifo kwa mtu wa kale na maisha mapya yaliyohuishwa na Kristo."
+      },
+      {
+        "question": "Katika Waefeso 1:13-14, je, jina la cheo maradufu alilopewa Roho Mtakatifu linamaanisha nini: 'muhuri' (sphragis) na ' bidii' (arrabôn)?",
+        "options": [
+          "Mapambo ya kifalme bila athari",
+          "Muhuri unathibitisha mali ya Mungu; amana ni malipo ya kwanza halisi yanayohakikisha urithi kamili wa siku zijazo",
+          "Malipo kwa mitume peke yao",
+          "Ishara ya Sheria ya Musa"
+        ],
+        "correct": 1,
+        "explanation": "Katika Kigiriki cha kibiashara, arrabôn ilikuwa amana ya kisheria ambayo ilimpa muuzaji kulipa kikamilifu: Roho tayari ni mwonjo wa mbinguni."
+      },
+      {
+        "question": "Katika Warumi 8:26-27, Roho Mtakatifu anasaidiaje maombi ya mwamini katika udhaifu wake?",
+        "options": [
+          "Kwa kuamuru kanuni za uchawi",
+          "Kwa yeye mwenyewe kuwaombea watakatifu kulingana na Mungu kwa 'kuugua kusikoweza kutamkwa' wakati hatujui la kuuliza.",
+          "Kwa kuondoa mateso yote mara moja",
+          "Kwa kuchukua nafasi ya imani"
+        ],
+        "correct": 1,
+        "explanation": "Kwa hiyo mwamini anafaidika kutokana na maombezi ya kimungu maradufu: Roho ndani yake (mst. 26) na Kristo aliye mkono wa kuume wa Mungu (mstari 34)."
+      },
+      {
+        "question": "Ni nini maana ya usemi ‘kujifunga kiunoni’ ( Luka 12:35; Waefeso 6:14; 1 Petro 1:13 )?",
+        "options": [
+          "Vaa silaha za dhahabu",
+          "Inua na ufunge mikia mirefu ya kanzu yako kwa mshipi ili kuwa tayari kuchukua hatua, kukimbia au kuondoka bila kizuizi - ishara ya kukesha kiroho.",
+          "Kulala sana",
+          "Sherehekea sherehe"
+        ],
+        "correct": 1,
+        "explanation": "Ikiukumbuka usiku wa Pasaka katika Kutoka 12:11, sanamu hii inawaita waumini kwenye ufahamu na upatikanaji wa haraka."
+      },
+      {
+        "question": "Katika 1 Wakorintho 15:44 ('mwili wa mnyama/kiakili hupandwa, mwili wa kiroho hufufuliwa'), 'mwili wa kiroho' (sôma pneumatikon) inamaanisha nini?",
+        "options": [
+          "Roho isiyo na mwili bila mwili",
+          "Mwili wa kweli, wa kimwili, wa utukufu, uliohuishwa kikamilifu, unaofanywa upya na kuhuishwa na Roho Mtakatifu (kama mwili wa Kristo uliofufuka)",
+          "Nafsi iliyoachiliwa kutoka kwa kila jambo",
+          "Udanganyifu wa macho"
+        ],
+        "correct": 1,
+        "explanation": "Kivumishi 'pneumatikon' hakipingi 'isiyoonekana' na 'nyenzo', lakini 'kuhuishwa na Roho asiyeharibika' ili 'kuwa chini ya udhaifu wa kufa' (mst. 42-44)."
+      },
+      {
+        "question": "Katika Yakobo 1:25, kwa nini mwandishi anaita injili 'sheria kamilifu, sheria ya uhuru'?",
+        "options": [
+          "Kwa sababu hukuruhusu kufanya chochote",
+          "Kwa sababu inakamilishwa na Roho na upendo (sheria ya kifalme ya Yakobo 2:8), inaweka huru mwamini kutii kwa hiari kutoka ndani badala ya kulazimishwa.",
+          "Kwa sababu inaondoa maadili yote",
+          "Kwa sababu anatoka Rumi"
+        ],
+        "correct": 1,
+        "explanation": "Anayejishughulisha nayo kwa ustahimilivu na akaiweka katika vitendo amebarikiwa katika utendaji wake."
+      },
+      {
+        "question": "Katika 1 Petro 2:2 ('tamani kama watoto wachanga maziwa ya kiroho na safi'), ni kivumishi gani cha Kiyunani ('logikon') kinatafsiriwa kama 'kiroho'?",
+        "options": [
+          "Sarx",
+          "Logikon ('ya kimantiki/kulingana na Neno/kiroho', karibu na Warumi 12:1)",
+          "Nomikos",
+          "Kosmikos"
+        ],
+        "correct": 1,
+        "explanation": "Baada tu ya kusherehekea ‘neno la Mungu lililo hai na la kudumu’ ( 1:23-25 ​​), Petro anatuita tujilishe kwa pupa juu ya Neno hili safi ili kukua kuelekea wokovu."
+      },
+      {
+        "question": "Katika 2 Wakorintho 4:7 ('Tunaibeba hazina hii katika vyombo vya udongo'), ni kweli gani ya kihuduma anayosema Paulo?",
+        "options": [
+          "Kwamba mitume lazima wawe matajiri",
+          "Udhaifu wa kibinadamu wa wajumbe unaonyesha kwamba nguvu kuu hutoka kwa Mungu na si kutoka kwetu",
+          "Kwamba mwili wa mwanadamu ni mbaya",
+          "Kwamba Injili lazima ibaki siri"
+        ],
+        "correct": 1,
+        "explanation": "Udhaifu na majaribu ya mtumishi huwa eneo ambalo maisha ya Yesu yanadhihirika (2 Wakorintho 4:8-11)."
+      },
+      {
+        "question": "Katika Mathayo 5:17-20, 'haki yako isipozidi ile ya waandishi na Mafarisayo' inamaanisha nini?",
+        "options": [
+          "Zidisha sheria zaidi za nje",
+          "Haki ya ndani ya moyo, iliyosimikwa katika neema na upendo mwaminifu ambao hutimiza nia ya ndani zaidi ya Sheria badala ya kuonekana kwayo kisheria.",
+          "Jifunze Talmud kwa moyo",
+          "Kataa neema ya Mungu"
+        ],
+        "correct": 1,
+        "explanation": "Kanusho sita zifuatazo (“Mmesikia... lakini nawaambia”, sura ya 5) zinaonyesha haki hii ya moyo inayoenea hadi kwenye upendo wa maadui."
+      },
+      {
+        "question": "Katika Yohana 14:2 ('Kuna makao mengi katika nyumba ya Baba yangu'), ni nini maana ya neno la Kigiriki 'monai'?",
+        "options": [
+          "Hoteli za muda mfupi",
+          "Makao ya kudumu/maeneo ya makazi ya kudumu na Baba katika ushirika wa milele",
+          "Nyota za mbali",
+          "Thawabu zisizo sawa duniani"
+        ],
+        "correct": 1,
+        "explanation": "Neno hili linatokana na mzizi sawa na kitenzi 'menein' (kaa) kilichotumiwa katika Yohana 14:23 ('tutafanya makao kwake')."
+      },
+      {
+        "question": "Katika Warumi 11:36 (‘Kutoka kwake yeye, na kwa ajili yake vitu vyote ni vyake’), ni uhusiano gani wa sehemu tatu wa Mungu na ulimwengu unaotangazwa?",
+        "options": [
+          "Uumbaji kwa bahati",
+          "Mungu ndiye Chanzo asili ('kutoka kwake'), Njia Endelevu ('kupitia yeye') na Lengo la Mwisho ('kwake') la ukweli wote.",
+          "Pantheism kabisa",
+          "Uwili kati ya miungu miwili"
+        ],
+        "correct": 1,
+        "explanation": "Doksolojia hii inahitimisha sura kumi na moja za mafundisho ya Warumi kabla ya himizo la vitendo la Warumi 12."
+      },
+      {
+        "question": "Katika Zaburi 139:7-10 ('Nitaenda wapi niiache Roho yako?'), ni sifa gani ya kimungu ambayo mtunga-zaburi anaitafakari kwa mshangao badala ya kuogopa?",
+        "options": [
+          "Kutojali kwa kimungu",
+          "Uwepo wa kibinafsi na wema wa Mungu ambaye humudumisha mwamini hata katika mipaka ya mbali.",
+          "hasira kipofu",
+          "Unyonge wa kibinadamu"
+        ],
+        "correct": 1,
+        "explanation": "Mbali na kumkimbia jasusi mwenye uadui, Daudi anagundua kwamba hata kwenye ncha za bahari 'mkono wako wa kuume utanishika'."
+      },
+      {
+        "question": "Katika Isaya 40:28-31 , ni kwa msingi gani nabii anaweka tumaini la waliochoka (“Huwapa nguvu waliochoka”)?",
+        "options": [
+          "Juu ya nguvu za jeshi la Yuda",
+          "Juu ya uweza usioisha wa Mungu Muumba ambaye hachoki wala hachoki na ambaye akili yake haiwezi kueleweka.",
+          "Juu ya muungano na Misri",
+          "Juu ya mapumziko ya kifo"
+        ],
+        "correct": 1,
+        "explanation": "Kungoja/kumtumaini Bwana (qawah) inakuwezesha kupokea mbawa kama tai na kutembea bila kuchoka."
+      },
+      {
+        "question": "Katika 1 Timotheo 3:16, ni aina gani ya fasihi na maudhui ya kifungu 'Yeye aliyedhihirishwa katika mwili, akahesabiwa haki na Roho...'?",
+        "options": [
+          "Orodha ya sheria za chakula",
+          "Wimbo wa awali wa Kikristo wa mistari sita inayofanana inayofupisha kupata mwili, kuthibitishwa na Roho, ushuhuda wa malaika, kuhubiria mataifa, imani ya ulimwengu na kupaa katika utukufu.",
+          "Barua kutoka kwa Pierre",
+          "Methali ya Sulemani"
+        ],
+        "correct": 1,
+        "explanation": "Wimbo huu unaelezewa na Paulo kama 'siri kuu ya utauwa'."
+      },
+      {
+        "question": "Katika Waebrania 12:22-24, ni ukweli gani wa kiroho ambao waumini wa Agano Jipya tayari wameukaribia?",
+        "options": [
+          "Mlima Sinai ukitetemeka na kutoweza kufikiwa",
+          "Mlima Sayuni, jiji la Mungu aliye hai, Yerusalemu la mbinguni, maelfu ya malaika na Yesu mpatanishi wa agano jipya.",
+          "Jangwa la Arabia",
+          "Hekalu la Herode"
+        ],
+        "correct": 1,
+        "explanation": "Ufikiaji wa uhakika wa uwepo wa Mungu katika Kristo unatofautiana na utisho mtakatifu uliozunguka Sinai."
+      },
+      {
+        "question": "Katika 1 Wakorintho 2:9 ('Jicho halijaona mambo haya...'), ni jinsi gani Paulo anajibu mst. 10 juu ya kupata mambo haya halisi?",
+        "options": [
+          "Hakuna mtu atakayewajua kwa miaka elfu",
+          "'Mungu ametufunulia sisi kwa Roho. Maana Roho huchunguza kila kitu, hata mafumbo ya Mungu.",
+          "Wanafalsafa wa Kigiriki pekee ndio wanaowajua",
+          "Tunawapata kwa mantiki pekee"
+        ],
+        "correct": 1,
+        "explanation": "Mara nyingi ikitajwa kimakosa kuwa inazungumza tu juu ya mbingu ya baadaye, andiko hili kwanza linaelezea hekima iliyofichwa ya msalaba iliyofunuliwa sasa na Roho."
+      },
+      {
+        "question": "Katika Tito 3:5 ('alituokoa sisi, si kwa matendo ya haki tuliyoyatenda sisi, bali kwa rehema yake, kwa kuoshwa kwa kuzaliwa kwa pili na kufanywa upya na Roho Mtakatifu'), 'paliggenesia' (kuzaliwa upya) inamaanisha nini?",
+        "options": [
+          "Uboreshaji rahisi wa nje",
+          "'Kuzaliwa upya/mwanzo mpya' unaofanywa na Roho Mtakatifu ambaye hufanya upya moyo kwa kiasi kikubwa",
+          "Ibada ya mfano bila imani",
+          "Tamaduni ya kifalsafa"
+        ],
+        "correct": 1,
+        "explanation": "Neno hili halionekani mahali pengine katika Agano Jipya hadi Mathayo 19:28 kwa upyaji wa mwisho wa ulimwengu."
+      },
+      {
+        "question": "Katika Zaburi 119:11 ('Moyoni mwangu nalishikilia neno lako, nisije nikakutenda dhambi'), ni uhusiano gani wa kiroho unaofanywa?",
+        "options": [
+          "Kusahau Sheria",
+          "Upendo wa ndani na kukariri Neno la Mungu kama ulinzi wa maadili dhidi ya majaribu",
+          "Kusoma kwa kasi bila kufikiria",
+          "Dharau kwa neema"
+        ],
+        "correct": 1,
+        "explanation": "Kuficha (tsaphan) Neno kama hazina iliyo moyoni hubadilisha tamaa zetu na kulinda hatua zetu."
+      },
+      {
+        "question": "Katika Mathayo 5:13 ('Ninyi ni chumvi ya dunia. Lakini chumvi ikipoteza ladha yake...'), ni kazi gani ya mfuasi duniani inayosisitizwa?",
+        "options": [
+          "Ondoka kutoka kwa ulimwengu kwenda jangwani",
+          "Jikinge na ufisadi wa kimaadili na toa ladha/ushahidi kupitia uaminifu wa kipekee ndani ya jamii",
+          "Kutawala kwa nguvu",
+          "Kufanana kabisa na ulimwengu"
+        ],
+        "correct": 1,
+        "explanation": "Kama vile nuru (mst. 14), chumvi haipo kwa ajili yake yenyewe bali kutenda katika moyo wa ulimwengu bila kupoteza utambulisho wake."
+      },
+      {
+        "question": "Katika 2 Wakorintho 1:20 ('Kwa habari ya ahadi zote za Mungu, ndani yake ni ndiyo'), ni ufunguo gani wa kihemenetiki anaoutoa Paulo?",
+        "options": [
+          "Kwamba kila ahadi ya Agano la Kale imefutwa",
+          "Ahadi zote za kimungu na zipate uthibitisho wake na utimilifu wa uhakika katika Yesu Kristo, kwa hiyo 'Amina' yetu kwa utukufu wa Mungu.",
+          "Hiyo ni Paulo pekee anayeweza kuahidi",
+          "Kwamba Agano la Kale halisemi juu ya Yesu"
+        ],
+        "correct": 1,
+        "explanation": "Kristo ndiye mdhamini mwaminifu wa neno la Mungu, kinyume na kutokuwa na msimamo wa kibinadamu."
+      },
+      {
+        "question": "Katika Yohana 7:37-39 (“Mtu akiona kiu, na aje kwangu na anywe... mito ya maji yaliyo hai itatiririka kutoka kifuani mwake”), Yohana anasema Yesu alikuwa akimaanisha nini?",
+        "options": [
+          "Kwa mvua ya Galilaya",
+          "Kwa Roho Mtakatifu ambaye wale waliomwamini walipaswa kumpokea baada ya kutukuzwa kwake",
+          "Kwa mito ya Babeli",
+          "Kwenye kisima cha Yakobo pekee"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alisema maneno haya katika siku ya mwisho ya Sikukuu ya Vibanda, iliyoangaziwa na matoleo ya maji kwenye Hekalu."
+      },
+      {
+        "question": "Katika Wagalatia 6:2 ('Mchukuliane mizigo na hivyo mtaitimiza sheria ya Kristo'), 'sheria ya Kristo' ni nini?",
+        "options": [
+          "Nambari mpya ya sheria 613",
+          "Sheria ya upendo wa kindugu wa vitendo na huduma ya unyenyekevu ikifuata mfano wa Yesu (Yohana 13:34; Wagalatia 5:14)",
+          "Sheria ya Kirumi",
+          "Kutokuwepo kwa mshikamano"
+        ],
+        "correct": 1,
+        "explanation": "Katika Wagalatia 6:5, Paulo basi anabainisha kwamba kila mtu atabeba mzigo wake mwenyewe wa wajibu mbele za Mungu - ukamilishano wa kusaidiana na wajibu."
+      },
+      {
+        "question": "Katika 1 Petro 4:10, kila mwamini anapaswa kutumiaje karama ya kiroho (charisma) aliyopokea?",
+        "options": [
+          "Kwa utukufu wake binafsi",
+          "Kama watoaji wema (wakili) wa neema mbalimbali za Mungu, wakihudumiana",
+          "Kwa kutunza siri",
+          "Kwa kuiuza"
+        ],
+        "correct": 1,
+        "explanation": "Karama ni neema iliyokabidhiwa katika uwakili ili kulijenga Kanisa ili Mungu atukuzwe katika mambo yote kupitia Yesu Kristo (mstari 11)."
+      },
+      {
+        "question": "Katika Warumi 14:17 ('Maana ufalme wa Mungu si kula na kunywa, bali...'), ni matunda gani matatu yanayotambulisha Ufalme huo?",
+        "options": [
+          "Utajiri, nguvu na utukufu",
+          "Haki, amani na furaha, kwa njia ya Roho Mtakatifu",
+          "Kufunga, ukimya na upweke",
+          "Ibada, sheria na mahekalu"
+        ],
+        "correct": 1,
+        "explanation": "Paulo analinganisha ugomvi wa siku na vyakula ili kulenga tena Kanisa juu ya mambo muhimu ya Ufalme."
+      },
+      {
+        "question": "Katika Zaburi 34:8 ( 34:9 : 'Nyukeni mwone jinsi BWANA alivyo mwema!'), ni kitenzi gani cha Kiebrania kinachotumiwa kwa 'kunuka/kuonja'?",
+        "options": [
+          "Kuonja (ta'am) - mwaliko wa uzoefu wa kibinafsi na wa uhakika wa wema wa Mungu, unaorudiwa katika 1 Petro 2:3",
+          "Sahau",
+          "Hofu tu",
+          "Kokotoa"
+        ],
+        "correct": 0,
+        "explanation": "'Heri mtu yule anayetafuta kimbilio kwake!' inahitimisha aya hii."
+      },
+      {
+        "question": "Katika Mathayo 25:40 ('Kadiri mlivyomtendea mmojawapo wa hao ndugu zangu walio wadogo, mlinifanyia mimi'), ni ukweli gani wa Kikristo unaofunzwa?",
+        "options": [
+          "Acha matendo mema yachukue nafasi ya imani",
+          "Yesu binafsi ajitambulishe na watu wake wenye uhitaji (walio na njaa, wageni, wagonjwa, wafungwa) na ahukumu uhalisi wa imani kwa njia ya upendo thabiti.",
+          "Kwamba matajiri pekee ndio wanaohukumiwa",
+          "Sadaka hiyo ni ya hiari"
+        ],
+        "correct": 1,
+        "explanation": "Utumishi kwa walio hatarini zaidi hudhihirisha upendo wa kweli kwa Mfalme mwenyewe."
+      },
+      {
+        "question": "Katika 2 Petro 1:3-4, ni nini ambacho tayari kimetolewa kwa mwamini kupitia kumjua yeye aliyetuita?",
+        "options": [
+          "Kiti cha enzi cha duniani",
+          "Yote ambayo huchangia uzima na utauwa, pamoja na ahadi kuu na za thamani zaidi ili kushiriki katika asili ya kimungu.",
+          "Kutokosea kwa kisayansi",
+          "Kutokufa mara moja duniani"
+        ],
+        "correct": 1,
+        "explanation": "Kushiriki katika 'asili ya kimungu' kunamaanisha kuakisi utakatifu wa kimaadili na upendo wa Mungu kwa kukimbia uharibifu wa ulimwengu."
+      },
+      {
+        "question": "Katika Waefeso 3:20-21, Paulo anaonyeshaje kipimo cha nguvu za Mungu zinazofanya kazi katika Kanisa?",
+        "options": [
+          "Ni mdogo kwa maombi yetu ya woga",
+          "\"Yeye awezaye kufanya, kwa uweza utendao kazi ndani yetu, kwa ukamilifu kuliko yote tuyaombayo au tuyawazayo.\"",
+          "Imehifadhiwa kwa ajili ya siku za mitume",
+          "Imechangiwa na utajiri"
+        ],
+        "correct": 1,
+        "explanation": "Doksolojia hii inahitimisha sala ya Paulo kwa waamini kufahamu upana, urefu, kina, na kimo cha upendo wa Kristo."
+      },
+      {
+        "question": "Katika Yohana 1:16 ('Na katika utimilifu wake sisi sote tulipokea, na neema juu ya neema'), 'neema juu ya neema' (charin anti charitos) inamaanisha nini?",
+        "options": [
+          "Neema ambayo inaisha haraka",
+          "Mfululizo usiokatizwa na mwingi wa neema (neema mpya ikichukua nafasi au kuongeza kila mara kwa ile iliyotangulia, au neema ya Injili ikifuata ile ya Sheria)",
+          "Neema inayostahili kwa matendo",
+          "Neema iliyohifadhiwa kwa ajili ya Yohana pekee"
+        ],
+        "correct": 1,
+        "explanation": "Mstari huu unaonyesha ukarimu usio na kikomo wa Kristo, ikilinganishwa na mstari wa 17 wa Sheria iliyotolewa na Musa."
+      },
+      {
+        "question": "Katika Zaburi 130:3-4 ('Ukikumbuka maovu, Ee BWANA, ni nani awezaye kusimama? Lakini...'), hofu ya kweli ya Mungu inategemea nini?",
+        "options": [
+          "Juu ya ugaidi usio na matumaini",
+          "\"Lakini msamaha uko kwenu, ili mpate kuogopwa\" - msamaha wa bure huamsha upendo na heshima.",
+          "Juu ya mtu kusahau dhambi",
+          "Juu ya ukamilifu wa awali wa maadili"
+        ],
+        "correct": 1,
+        "explanation": "Mbali na kuhimiza uadilifu, ugunduzi wa msamaha wa kimungu huleta heshima kubwa kwa Mungu."
+      },
+      {
+        "question": "Katika Matendo 17:28 ('Ndani yake tuna uzima, na harakati, na kuwa'), jinsi gani Paulo anatumia utamaduni wa Kigiriki huko Athene?",
+        "options": [
+          "Kwa kuchukua ushirikina",
+          "Kwa kunukuu washairi wa Kigiriki ( Epimenides / Aratos: 'Sisi ni wa kabila yake') ili kuonyesha kwamba mwanadamu anamtegemea Mungu Muumba na lazima akataa sanamu.",
+          "Kwa kukataa ufufuo",
+          "Kwa kukataa kuhubiri"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anajenga daraja la kitamaduni lenye akili bila kuhatarisha mwito wa mwisho wa toba na ufufuo (mash. 30-31)."
+      },
+      {
+        "question": "Katika Wafilipi 4:11-13 , ni muktadha gani hasa wa mstari maarufu ‘Nayaweza mambo yote katika yeye anitiaye nguvu’?",
+        "options": [
+          "Ahadi ya kufanikiwa katika shughuli zozote za kimichezo au za kifedha bila juhudi",
+          "Siri ya kuridhika iliyojifunza na Paulo: kujua jinsi ya kuishi katika unyonge / kifo na pia kwa wingi shukrani kwa nguvu ya ndani ya Kristo.",
+          "Ushindi wa kijeshi",
+          "Kutokuwepo kwa mateso yote"
+        ],
+        "correct": 1,
+        "explanation": "Ikiwekwa katika muktadha, aya hii inafundisha uhuru wa kiroho na amani ya ndani katika hali zote."
+      },
+      {
+        "question": "Katika Yeremia 17:9-10 ('Moyo ni mdanganyifu kuliko vitu vyote, nao ni mwovu, ni nani awezaye kuujua?'), je, inaleta jibu gani mst. 10?",
+        "options": [
+          "Hakuna anayeweza kubadilika",
+          "‘Mimi, BWANA, naujaribu moyo, navichunguza viuno, ili kumlipa kila mtu sawasawa na njia zake.",
+          "Moyo ni mkamilifu kiasili",
+          "Malaika pekee wanajua moyo"
+        ],
+        "correct": 1,
+        "explanation": "Utambuzi huu wazi wa hali ya mwanadamu unaelezea hitaji la moyo mpya ulioahidiwa katika Yeremia 31 na Ezekieli 36."
+      },
+      {
+        "question": "Katika Waebrania 10:19-22 , ni mapendeleo gani matatu yanayotiririka kutoka ‘kuingia kwetu bila malipo katika patakatifu kwa damu ya Yesu’?",
+        "options": [
+          "Utajiri, heshima na madaraka",
+          "Na tukaribie kwa moyo mnyofu katika utimilifu wa imani, tushike sana ungamo la tumaini letu, na kuangaliana sisi kwa sisi ili kuchocheana katika upendo.",
+          "Kutengwa, ukimya na hofu",
+          "Rudi kwa dhabihu za wanyama"
+        ],
+        "correct": 1,
+        "explanation": "Fadhila tatu za kitheolojia (imani, tumaini, upendo) hutiririka moja kwa moja kutoka kwa ufikiaji unaofunguliwa na dhabihu ya Kristo."
+      },
+      {
+        "question": "Katika 1 Wathesalonike 5:16-18 ( ‘Furahini sikuzote. Ombeni bila kukoma. Katika mambo yote shukuruni’), ni ufafanuzi gani muhimu unaoambatana na ‘katika mambo yote’?",
+        "options": [
+          "Uovu huo ni mzuri",
+          "'Maana haya ni mapenzi ya Mungu kwenu katika Kristo Yesu' — kushukuru KATIKATI ya kila hali (si lazima kwa ubaya wenyewe)",
+          "Kwamba usiwahi kulia",
+          "Acha maombi yadumu kwa masaa 24 bila kusema"
+        ],
+        "correct": 1,
+        "explanation": "Shukrani hutegemea uaminifu mkuu wa Mungu katika Kristo ndani ya kila hali."
+      },
+      {
+        "question": "Katika 1 Yohana 2:15-17 , Yohana anafafanuaje tamaa tatu zinazojumlisha ‘vyote vilivyomo duniani’?",
+        "options": [
+          "Kusoma, kufanya kazi na kupumzika",
+          "Tamaa ya mwili, na tamaa ya macho, na kiburi cha uzima, vyote hivyo vinapita, bali yeye afanyaye mapenzi ya Mungu adumu hata milele.",
+          "Maji, ardhi na moto",
+          "Vijana, umri wa kati na uzee"
+        ],
+        "correct": 1,
+        "explanation": "Triptych hii inakumbuka majaribu ya Hawa katika Mwanzo 3:6 na majaribu ya Yesu jangwani."
+      },
+      {
+        "question": "Katika Luka 9:23-24, ni kitendawili gani anachosema Yesu kuhusu maana ya kweli ya maisha?",
+        "options": [
+          "Kukusanya bidhaa huokoa maisha",
+          "'Yeyote anayetaka kuiokoa nafsi yake ataiangamiza, lakini yeyote atakayeipoteza kwa ajili yangu ataiokoa'",
+          "Epuka wajibu wote",
+          "Kuweka imani yako kuwa siri"
+        ],
+        "correct": 1,
+        "explanation": "Kitendawili hiki kimerudiwa katika Injili nne (Mathayo 10:39; 16:25; Marko 8:35; Yohana 12:25) kwa kuwa ni kiini cha mafundisho ya Yesu."
+      },
+      {
+        "question": "Katika Amosi 5:24, ni taswira gani maarufu ya haki ya kijamii na kiroho ambayo nabii anatangaza?",
+        "options": [
+          "\"Wacha mahekalu yawe ya dhahabu\"",
+          "'Lakini uadilifu na utiririke kama kijito cha maji, na uadilifu kama kijito kisichokauka kamwe!'",
+          "'Sadaka na ziongezwe maradufu'",
+          "\"Wacha watu wakae kimya\""
+        ],
+        "correct": 1,
+        "explanation": "Amosi anatofautisha nyimbo zenye sauti kubwa bila haki na mto usio na mwisho wa usawa na uadilifu."
+      },
+      {
+        "question": "Katika Zaburi 110:3 , watu wa Masihi-Mfalme wanajitokezaje katika siku ya uweza wake?",
+        "options": [
+          "Kulazimishwa kwa upanga",
+          "Amejaa mapenzi (sadaka za hiari), aliyevikwa mapambo matakatifu, kama umande wa mapambazuko.",
+          "Kukimbilia jangwani",
+          "Katika ukimya"
+        ],
+        "correct": 1,
+        "explanation": "Picha ya kishairi ya jeshi changa, safi na lililojitolea kwa hiari kwa Mfalme wake."
+      },
+      {
+        "question": "Katika Warumi 15:4, ni jukumu gani la kichungaji ambalo Paulo anapeana kwa Maandiko yote ya Agano la Kale?",
+        "options": [
+          "Kitabu rahisi cha historia ya zamani",
+          "'Mambo yote yaliyoandikwa kimbele yaliandikwa ili kutufundisha sisi, ili kupitia saburi na faraja ya Maandiko tuwe na tumaini.'",
+          "Maandishi ya kizamani",
+          "Mwongozo uliotengwa kwa ajili ya makuhani"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anathibitisha umuhimu unaoendelea wa kiroho na faraja wa Agano la Kale kwa Kanisa."
+      },
+      {
+        "question": "Katika 2 Timotheo 2:15, ni jambo gani bora ambalo Paulo anapendekeza kwa mtumishi wa Mungu katika uso wa Maandiko?",
+        "options": [
+          "Boresha bila kusoma",
+          "'Jitahidi kujionyesha mbele za Mungu kama mtu aliyethibitishwa, mtenda kazi asiye na sababu ya kutahayari, ukitumia kwa halali neno la kweli.'",
+          "Mfurahisha umati",
+          "Kujadili maneno yasiyo na maana"
+        ],
+        "correct": 1,
+        "explanation": "'Kusambaza ipasavyo' (orthotomeô) kihalisi humaanisha 'kufuatilia mtaro ulionyooka / kukata kwa usahihi' Neno bila kulipinda."
+      },
+      {
+        "question": "Katika Ufunuo 1:5-6, ni jinsi gani doksolojia inayofungua ina muhtasari wa kazi ya Kristo ya zamani na ya sasa?",
+        "options": [
+          "Atatuhukumu bila huruma",
+          "\"Kwake yeye atupendaye, aliyetuokoa katika dhambi zetu kwa damu yake, na kutufanya kuwa ufalme, na makuhani kwa Mungu Baba yake.\"",
+          "Alitupa miji ya duniani",
+          "Aliandika kanuni ya kiraia"
+        ],
+        "correct": 1,
+        "explanation": "Wakati wa sasa 'anayetupenda' inasisitiza upendo wa sasa na unaoendelea wa Kristo mfufuka ulioanzishwa juu ya msalaba wake."
       }
     ]
   }

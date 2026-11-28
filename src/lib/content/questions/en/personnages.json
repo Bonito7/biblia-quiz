@@ -616,6 +616,424 @@
         ],
         "correct": 2,
         "explanation": "David is called 'a man after God's own heart' (1 Samuel 13:14; Acts 13:22)—not because he was perfect (the Bathsheba affair shows this), but because of his faith, his sincere repentance, and his ardent love for God (Psalm 51)."
+      },
+      {
+        "question": "Who was the first woman created by God in the Garden of Eden?",
+        "options": [
+          "Sarah",
+          "Ève",
+          "Rebecca",
+          "Married"
+        ],
+        "correct": 1,
+        "explanation": "Adam called his wife Eve ('living'), because she was the mother of all living (Genesis 3:20)."
+      },
+      {
+        "question": "Who was killed by his brother Cain out of jealousy?",
+        "options": [
+          "Seth",
+          "Abel",
+          "Enoch",
+          "Lemec"
+        ],
+        "correct": 1,
+        "explanation": "Cain was angry because the Lord had looked favorably on Abel's offering and killed him in the field (Genesis 4:8)."
+      },
+      {
+        "question": "Which nephew of Abraham lived in Sodom and was saved by angels before the city was destroyed?",
+        "options": [
+          "Ishmael",
+          "Batch",
+          "Laban",
+          "Eliezer"
+        ],
+        "correct": 1,
+        "explanation": "The angels took Lot, his wife, and his two daughters by the hand and led them out of Sodom (Genesis 19:16)."
+      },
+      {
+        "question": "Which woman became Isaac's wife after giving water to Abraham's servant and his camels?",
+        "options": [
+          "Rachael",
+          "Rebecca",
+          "Lea",
+          "Agar"
+        ],
+        "correct": 1,
+        "explanation": "Rebekah, sister of Laban, agreed to follow Abraham's servant to marry Isaac (Genesis 24)."
+      },
+      {
+        "question": "Who were the two wives of Jacob, daughters of Laban?",
+        "options": [
+          "Sarah and Hagar",
+          "Lea and Rachel",
+          "Martha and Mary",
+          "Ruth and Orpah"
+        ],
+        "correct": 1,
+        "explanation": "Jacob first married Leah the eldest by Laban's trick, then Rachel whom he loved (Genesis 29)."
+      },
+      {
+        "question": "Who was the youngest of the twelve sons of Jacob, Joseph's full brother?",
+        "options": [
+          "Ruben",
+          "Judah",
+          "Benjamin",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "Rachel died giving birth to Benjamin near Bethlehem (Genesis 35:18)."
+      },
+      {
+        "question": "Who was the wife of Moses, daughter of Jethro the priest of Midian?",
+        "options": [
+          "Miriam",
+          "Zipporah (Tzippora)",
+          "Deborah",
+          "Rahab"
+        ],
+        "correct": 1,
+        "explanation": "Jethro gave his daughter Zipporah to Moses when he fled to Midian (Exodus 2:21)."
+      },
+      {
+        "question": "Which faithful companion of Moses entered alone with Joshua into the Promised Land among the generation that came out of Egypt?",
+        "options": [
+          "Aaron",
+          "Caleb",
+          "Korah",
+          "Gideon"
+        ],
+        "correct": 1,
+        "explanation": "Because Caleb and Joshua fully followed the Lord, they were the only ones of their generation to enter Canaan (Numbers 14:24,30)."
+      },
+      {
+        "question": "Which high priest raised young Samuel in the sanctuary of Shiloh?",
+        "options": [
+          "Aaron",
+          "Eli",
+          "Nathan",
+          "Tzadok"
+        ],
+        "correct": 1,
+        "explanation": "Hannah dedicated her son Samuel to the Lord and entrusted him to the priest Eli in Shiloh (1 Samuel 1-2)."
+      },
+      {
+        "question": "Who was King David's father?",
+        "options": [
+          "Saul",
+          "Jesse (Jesse) of Bethlehem",
+          "Jonathan",
+          "Samuel"
+        ],
+        "correct": 1,
+        "explanation": "David was the youngest of the eight sons of Jesse the Bethlehemite (1 Samuel 16:1-13)."
+      },
+      {
+        "question": "Which wicked queen of Israel persecuted the prophets of the Lord and threatened Elijah with death?",
+        "options": [
+          "Esther",
+          "Jezebel",
+          "Bathsheba",
+          "Athalie"
+        ],
+        "correct": 1,
+        "explanation": "Jezebel, daughter of Ethbaal king of the Sidonians and wife of Ahab, imposed the worship of Baal in Israel (1 Kings 18-19)."
+      },
+      {
+        "question": "Which older cousin raised Esther in Susa and refused to bow down to Haman?",
+        "options": [
+          "Nehemiah",
+          "Mordecai",
+          "Ezra",
+          "Daniel"
+        ],
+        "correct": 1,
+        "explanation": "Mordecai foiled a plot against the king and encouraged Esther to intercede for her people ('perhaps it is for such a time...') (Esther 4:14)."
+      },
+      {
+        "question": "Which high-ranking Persian official wanted to hang Mordecai and exterminate all the Jews?",
+        "options": [
+          "Cyrus",
+          "Aman",
+          "Sanballat",
+          "Goliath"
+        ],
+        "correct": 1,
+        "explanation": "Haman the Agagite was finally hanged on the tree he himself had erected for Mordecai (Esther 7:10)."
+      },
+      {
+        "question": "Who was the chief of the angels who appeared to Zechariah then to Mary to announce the births of John and Jesus?",
+        "options": [
+          "Michael",
+          "Gabriel",
+          "Raphael",
+          "Cherub"
+        ],
+        "correct": 1,
+        "explanation": "The angel Gabriel declared to Zechariah: 'I am Gabriel, I stand before God' (Luke 1:19,26)."
+      },
+      {
+        "question": "Who was the mother of Jean-Baptiste, cousin or relative of Mary?",
+        "options": [
+          "Anne",
+          "Elizabeth",
+          "Salome",
+          "Martha"
+        ],
+        "correct": 1,
+        "explanation": "Elizabeth, advanced in years and once barren, joyfully bore John the Baptist (Luke 1:5-58)."
+      },
+      {
+        "question": "Which apostle was the brother of James (the two sons of Zebedee)?",
+        "options": [
+          "Rock",
+          "Jeans",
+          "Andrew",
+          "Philip"
+        ],
+        "correct": 1,
+        "explanation": "James and John, sons of Zebedee, were fishermen on Lake Galilee before being called by Jesus (Mark 1:19)."
+      },
+      {
+        "question": "Which apostle brought his brother Simon Peter to Jesus saying: 'We have found the Messiah'?",
+        "options": [
+          "Philip",
+          "Andrew",
+          "Thomas",
+          "Matthew"
+        ],
+        "correct": 1,
+        "explanation": "Andrew, first a disciple of John the Baptist, immediately went to seek out his brother Simon (John 1:40-42)."
+      },
+      {
+        "question": "Which disciple said to Nathanael about Jesus, 'Come and see'?",
+        "options": [
+          "Rock",
+          "Philip",
+          "Thomas",
+          "Judas"
+        ],
+        "correct": 1,
+        "explanation": "When Nathanael asked if anything good could come out of Nazareth, Philip simply invited him to come and see (John 1:45-46)."
+      },
+      {
+        "question": "Which undeceitful Israelite did Jesus praise by saying that he saw him under the fig tree?",
+        "options": [
+          "Zacchaeus",
+          "Nathanaël (Barthélemy)",
+          "Nicodemus",
+          "Lazarus"
+        ],
+        "correct": 1,
+        "explanation": "Nathanael immediately confessed: 'Rabbi, you are the Son of God, you are the king of Israel!' (John 1:47-49)."
+      },
+      {
+        "question": "Who was the sister of Lazarus and Mary who ministered and confessed, 'You are the Christ, the Son of God'?",
+        "options": [
+          "Salome",
+          "Martha",
+          "Lydia",
+          "Priscilla"
+        ],
+        "correct": 1,
+        "explanation": "Before the resurrection of Lazarus, Martha made a magnificent confession of faith before Jesus (John 11:27)."
+      },
+      {
+        "question": "Which man from Bethany did Jesus raise from the dead after four days in the tomb?",
+        "options": [
+          "Bartimaeus",
+          "Lazarus",
+          "Jairus",
+          "Epaphrodite"
+        ],
+        "correct": 1,
+        "explanation": "Jesus cried out with a loud voice: 'Lazarus, come out!' and the dead man came out with his hands and feet bound in bands (John 11:43-44)."
+      },
+      {
+        "question": "Which young collaborator accompanied Paul on his travels and received two epistles bearing his name?",
+        "options": [
+          "Barnabas",
+          "Timothy",
+          "Apollos",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Originally from Lystra, Timothy had a believing Jewish mother (Eunice) and a Greek father (Acts 16:1-3)."
+      },
+      {
+        "question": "Which companion accompanied Paul on the second missionary journey after Barnabas left?",
+        "options": [
+          "Mark",
+          "Silas (Silvain)",
+          "Luke",
+          "Rock"
+        ],
+        "correct": 1,
+        "explanation": "Paul chose Silas, an esteemed man in the Jerusalem church, with whom he sang praises in the prison of Philippi (Acts 15:40; 16:25)."
+      },
+      {
+        "question": "Which beloved physician accompanied Paul and wrote the third Gospel and Acts?",
+        "options": [
+          "Mark",
+          "Luke",
+          "Barnabas",
+          "Titus"
+        ],
+        "correct": 1,
+        "explanation": "Paul calls him 'Luke, the beloved physician' in Colossians 4:14."
+      },
+      {
+        "question": "Which king had John the Baptist beheaded at the instigation of Herodias and his daughter?",
+        "options": [
+          "Herod the Great",
+          "Herod Antipas",
+          "Herod Agrippa II",
+          "Pontius Pilate"
+        ],
+        "correct": 1,
+        "explanation": "Herod Antipas, tetrarch of Galilee and Perea, cowardly gave in to his reckless oath (Mark 6:14-29)."
+      },
+      {
+        "question": "What Roman governor declared 'I find no crime in this man' and yet delivered Jesus to the cross?",
+        "options": [
+          "Felix",
+          "Pontius Pilate",
+          "Festus",
+          "Galleon"
+        ],
+        "correct": 1,
+        "explanation": "Pilate washed his hands in front of the crowd while yielding to political pressure (Matthew 27:24)."
+      },
+      {
+        "question": "Who was the father of Solomon and the author of many psalms?",
+        "options": [
+          "Saul",
+          "David",
+          "Jonathan",
+          "Samuel"
+        ],
+        "correct": 1,
+        "explanation": "David married Bathsheba and Solomon was born from this union, chosen by God to build the Temple (2 Samuel 12:24)."
+      },
+      {
+        "question": "Which godly woman prayed silently in the sanctuary of Shiloh for a son and gave birth to Samuel?",
+        "options": [
+          "Peninna",
+          "Anne (Hanna)",
+          "Naomi",
+          "Deborah"
+        ],
+        "correct": 1,
+        "explanation": "Hannah promised that if the Lord gave her a son, she would devote him to his service for the rest of his life (1 Samuel 1:11)."
+      },
+      {
+        "question": "Which Philistine giant measuring more than six cubits defied the army of Israel for forty days?",
+        "options": [
+          "Og",
+          "Goliath of Gath",
+          "Sisera",
+          "Sennacherib"
+        ],
+        "correct": 1,
+        "explanation": "Goliath challenged Israel morning and evening until young David struck him down in the name of the Lord of hosts (1 Samuel 17)."
+      },
+      {
+        "question": "Which Old Testament character was sold to Egypt but became number two in the kingdom after Pharaoh?",
+        "options": [
+          "Moses",
+          "Joseph",
+          "Daniel",
+          "Aaron"
+        ],
+        "correct": 1,
+        "explanation": "God brought Joseph from prison to the palace to save Egypt and his own family from famine (Genesis 41)."
+      },
+      {
+        "question": "Who was Moses' older sister who watched over his basket on the Nile and led the women's songs after the Red Sea?",
+        "options": [
+          "Sephora",
+          "Miriam (Marie)",
+          "Deborah",
+          "Rachael"
+        ],
+        "correct": 1,
+        "explanation": "Miriam took a tambourine and sang, 'Sing to the LORD, for he has made his glory shine!' (Exodus 15:20-21)."
+      },
+      {
+        "question": "Which king of Babylon threw Daniel's three friends into the fiery furnace and then recognized the greatness of their God?",
+        "options": [
+          "Cyrus",
+          "Nebuchadnezzar",
+          "Belshazzar",
+          "Darius"
+        ],
+        "correct": 1,
+        "explanation": "Nebuchadnezzar was amazed to see four men walking free through the fire and praised the God of Shadrach, Meshach, and Abednego (Daniel 3:24-28)."
+      },
+      {
+        "question": "Which Medo-Persian king was forced by his own decree to throw Daniel into the lions' den, and spent the night fasting for him?",
+        "options": [
+          "Nebuchadnezzar",
+          "Darius the Mede",
+          "Ahasuerus",
+          "Belshazzar"
+        ],
+        "correct": 1,
+        "explanation": "Darius greatly rejoiced at dawn to find Daniel safe and issued a decree honoring the living God (Daniel 6:18-26)."
+      },
+      {
+        "question": "Which leader of the Sanhedrin came to Jesus at night and then defended a fair trial and participated in his burial?",
+        "options": [
+          "Caiaphas",
+          "Nicodemus",
+          "Gamaliel",
+          "Annas"
+        ],
+        "correct": 1,
+        "explanation": "Nicodemus brought about one hundred pounds of a mixture of myrrh and aloe to bury Jesus (John 19:39)."
+      },
+      {
+        "question": "Which apostle was chosen by lot in Acts 1 to replace Judas Iscariot?",
+        "options": [
+          "Barnabas",
+          "Matthias",
+          "Etienne",
+          "Silas"
+        ],
+        "correct": 1,
+        "explanation": "Between Joseph Barsabbas and Matthias, the lot fell to Matthias, who was associated with the eleven apostles (Acts 1:23-26)."
+      },
+      {
+        "question": "Which disciple of Damascus received in a vision the order to lay his hands on Saul of Tarsus who had become blind?",
+        "options": [
+          "Barnabas",
+          "Ananias",
+          "Philip",
+          "Agabus"
+        ],
+        "correct": 1,
+        "explanation": "Despite his legitimate fear of the persecutor, Ananias obeyed and welcomed Saul, calling him 'Saul my brother' (Acts 9:10-17)."
+      },
+      {
+        "question": "Which king put James, brother of John, to death and imprisoned Peter before being struck by an angel in Caesarea?",
+        "options": [
+          "Herod the Great",
+          "Herod Agrippa I",
+          "Herod Antipas",
+          "Nero"
+        ],
+        "correct": 1,
+        "explanation": "Herod Agrippa I accepted the divine acclamations of the people at Caesarea and immediately died eaten by worms (Acts 12:21-23)."
+      },
+      {
+        "question": "Which evangelist is traditionally identified with the young man dressed in a linen cloth who fled when Jesus was arrested (Mark 14:51-52)?",
+        "options": [
+          "Paul",
+          "Jean-Marc (according to tradition)",
+          "Luke",
+          "Thomas"
+        ],
+        "correct": 1,
+        "explanation": "Marc is the only one to mention this young man dressed in a sheet who runs away naked, often identified with Marc himself as a discreet signature."
       }
     ],
     "intermediaire": [
@@ -1256,6 +1674,391 @@
         ],
         "correct": 1,
         "explanation": "Joab was David's powerful general-in-chief and his nephew (son of his sister Ceruiah). He treacherously killed Abner (2 Samuel 3:27) and Amasa (2 Samuel 20:10), and participated in the murder of Absalom. On his deathbed, David asked Solomon to punish him—Solomon had him executed (1 Kings 2:34)."
+      },
+      {
+        "question": "Who was Moses' father-in-law who advised him to delegate current affairs to honest judges?",
+        "options": [
+          "Laban",
+          "Jethro (Reuel)",
+          "Balaam",
+          "Caleb"
+        ],
+        "correct": 1,
+        "explanation": "Jethro saw Moses exhausting himself from morning to evening and advised him to appoint leaders of thousands, of hundreds, of fifties and of ten (Exodus 18:13-24)."
+      },
+      {
+        "question": "Which nephew of King Saul was the supreme leader of his army before being murdered by Joab?",
+        "options": [
+          "Amass",
+          "Abner",
+          "Benaia",
+          "Urie"
+        ],
+        "correct": 1,
+        "explanation": "Abner attempted to rally the northern tribes to David, but Joab killed him in revenge for the death of Asael (2 Samuel 3:27)."
+      },
+      {
+        "question": "Which Hittite soldier loyal to David was sent to the front lines to die to cover up the king's adultery?",
+        "options": [
+          "Joab",
+          "Uriah the Hittite",
+          "Abner",
+          "Ittai"
+        ],
+        "correct": 1,
+        "explanation": "Uriah refused even to enjoy the comforts of his home while the Ark and his companions camped in the open country (2 Samuel 11:11)."
+      },
+      {
+        "question": "What wise but spiteful advisor betrayed David to join Absalom's rebellion and then hanged himself when his advice was rejected?",
+        "options": [
+          "Hushai",
+          "Ahithophel",
+          "Shimei",
+          "Tsiba"
+        ],
+        "correct": 1,
+        "explanation": "Ahithophel was famous for his advice as oracles from God, but God foiled his advice through Hushai the Arkian (2 Samuel 15-17)."
+      },
+      {
+        "question": "Which member of Saul's family cursed David and threw stones at him as he fled from Absalom?",
+        "options": [
+          "Mephibosheth",
+          "Shimei",
+          "Abner",
+          "Barzillai"
+        ],
+        "correct": 1,
+        "explanation": "David prevented Abishai from killing him by saying, 'Perhaps the LORD will look upon my affliction' (2 Samuel 16:5-12)."
+      },
+      {
+        "question": "Which generous old man from Gilead supplied David and his exhausted army in Mahanaim during Absalom's revolt?",
+        "options": [
+          "Nabal",
+          "Barzillai",
+          "Boaz",
+          "Jethro"
+        ],
+        "correct": 1,
+        "explanation": "At the age of 80, Barzillai declined the invitation to live at the court in Jerusalem but recommended his son Kimham to David (2 Samuel 19:32-38)."
+      },
+      {
+        "question": "What rich and brutal man from Carmel refused hospitality to David, before his wife Abigail saved his house?",
+        "options": [
+          "Laban",
+          "Nabal",
+          "Achan",
+          "Gehazi"
+        ],
+        "correct": 1,
+        "explanation": "Nabal ('fool') died ten days later, and David married the wise and beautiful Abigail (1 Samuel 25)."
+      },
+      {
+        "question": "Which king of Judah made an alliance with Ahab despite prophetic warnings, but also organized the teaching of the Law and praised God in the face of enemy armies?",
+        "options": [
+          "Rehoboam",
+          "Jehoshaphat",
+          "Ahaz",
+          "Manasseh"
+        ],
+        "correct": 1,
+        "explanation": "During the invasion of Moab and Ammon, Jehoshaphat placed singers before the army, proclaiming: 'Praise the Lord, for his mercy endures forever!' (2 Chronicles 20:21)."
+      },
+      {
+        "question": "Which ungodly queen of Israelite origin (daughter of Ahab and Jezebel) usurped the throne of Judah and destroyed the royal family?",
+        "options": [
+          "Bathsheba",
+          "Athalie",
+          "Vashti",
+          "Delilah"
+        ],
+        "correct": 1,
+        "explanation": "Athaliah reigned over Judah for six years until the high priest Jehoiada crowned the young prince Joash hidden in the Temple (2 Kings 11)."
+      },
+      {
+        "question": "Which high priest led the restoration of David's worship and rightful throne by overthrowing Athaliah?",
+        "options": [
+          "Hilkija",
+          "Jehojada",
+          "Tzadok",
+          "Abiatar"
+        ],
+        "correct": 1,
+        "explanation": "As long as Jehoiada lived, King Joash did what was right in the sight of the LORD (2 Kings 12:2)."
+      },
+      {
+        "question": "Which prophet was sent by Elisha to anoint Jehu in secret at Ramoth Gilead?",
+        "options": [
+          "Gehazi",
+          "A young son of the prophets",
+          "Micah",
+          "Amos"
+        ],
+        "correct": 1,
+        "explanation": "The young prophet poured oil on Jehu's head and fled immediately after pronouncing judgment on the house of Ahab (2 Kings 9:1-10)."
+      },
+      {
+        "question": "Which Ethiopian officer in the service of King Zedekiah rescued Jeremiah from the muddy cistern with ropes and old rags?",
+        "options": [
+          "Baruch",
+          "Ébed-Mélec",
+          "Guedalia",
+          "Pashur"
+        ],
+        "correct": 1,
+        "explanation": "As a reward for his faith and courage, God promised Ebed-melech that his life would be spared during the capture of Jerusalem (Jeremiah 38-39)."
+      },
+      {
+        "question": "Which governor appointed by Babylon over the rest of Judah after 586 BC? was assassinated by Ishmael?",
+        "options": [
+          "Zerubbabel",
+          "Guedalia",
+          "Nehemiah",
+          "Zedekiah"
+        ],
+        "correct": 1,
+        "explanation": "Gedaliah ruled in Mizpah and called the survivors to live in peace under Babylon (2 Kings 25:22-25; Jeremiah 40-41)."
+      },
+      {
+        "question": "Which governor of Judah led the first large convoy returning from exile with the high priest Joshua?",
+        "options": [
+          "Nehemiah",
+          "Zerubbabel",
+          "Ezra",
+          "Mordecai"
+        ],
+        "correct": 1,
+        "explanation": "Zerubbabel, grandson of King Jehoiachin, laid the foundations of the Second Temple despite local opposition (Ezra 2-4; Haggai 2:23)."
+      },
+      {
+        "question": "Which Persian queen lost her crown for refusing to appear before the drunken guests of King Ahasuerus, paving the way for Esther?",
+        "options": [
+          "Zeresh",
+          "Vashti",
+          "Delilah",
+          "Jezebel"
+        ],
+        "correct": 1,
+        "explanation": "Vashti's refusal to obey led the royal advisors to organize the choice of a new queen (Esther 1-2)."
+      },
+      {
+        "question": "Which king of Judah, unlike his son Hezekiah, refused a sign from God out of unbelief and preferred the alliance with Assyria?",
+        "options": [
+          "Josiah",
+          "Ahaz",
+          "Asa",
+          "David"
+        ],
+        "correct": 1,
+        "explanation": "It was in the face of Ahaz's unbelief that Isaiah uttered the oracle of Immanuel in Isaiah 7:10-14."
+      },
+      {
+        "question": "Which artisan of Israel, son of Uri of the tribe of Judah, was filled with the Spirit of God to make the Tabernacle and the Ark?",
+        "options": [
+          "Hiram",
+          "Bezaleel (assisted by Oholiab)",
+          "Solomon",
+          "Gideon"
+        ],
+        "correct": 1,
+        "explanation": "Bezaleel and Oholiab were given artistic wisdom and skill by the Spirit of God (Exodus 31:1-6)."
+      },
+      {
+        "question": "Which king of Tire provided David and then Solomon with cedar wood and skilled workers for the Temple?",
+        "options": [
+          "Ahab",
+          "Hiram",
+          "Ben Hadad",
+          "Balak"
+        ],
+        "correct": 1,
+        "explanation": "Hiram, king of Tyre, loved David and concluded a fraternal treaty with Solomon for the construction of the Temple (1 Kings 5)."
+      },
+      {
+        "question": "Which king of Moab hired the soothsayer Balaam to curse Israel on the plains of Moab?",
+        "options": [
+          "Sihon",
+          "Balak",
+          "Og",
+          "Eglon"
+        ],
+        "correct": 1,
+        "explanation": "Whenever Balak wanted to curse Israel, God changed Balaam's words into blessings (Numbers 22-24)."
+      },
+      {
+        "question": "What mother and son were driven into the wilderness of Beersheba but rescued by the angel of the Lord who opened a well of water?",
+        "options": [
+          "Sarah and Isaac",
+          "Hagar and Ishmael",
+          "Rebekah and Esau",
+          "Léa and Ruben"
+        ],
+        "correct": 1,
+        "explanation": "God heard the child's voice and promised Hagar that Ishmael would become a great nation (Genesis 21:14-20)."
+      },
+      {
+        "question": "Which prophet reprimanded King Asa and then was put in prison by him for reminding him that he should rely on God rather than Syria?",
+        "options": [
+          "Nathan",
+          "Hanani the Seer",
+          "Elijah",
+          "Amos"
+        ],
+        "correct": 1,
+        "explanation": "'The LORD extends his sight to all the earth, to uphold those whose hearts are fully devoted to him' (2 Chronicles 16:7-10)."
+      },
+      {
+        "question": "Which prophetess consulted by the envoys of Josiah authenticated the Book of the Law found in the Temple?",
+        "options": [
+          "Deborah",
+          "Hulda",
+          "Miriam",
+          "Anne"
+        ],
+        "correct": 1,
+        "explanation": "Huldah, living in Jerusalem in the second quarter, announced judgment on Judah while promising Josiah to die in peace before the catastrophe (2 Kings 22:14-20)."
+      },
+      {
+        "question": "Which NT character was the Jewish king before whom Paul delivered his famous defense ('A little more, and you will persuade me to become a Christian')?",
+        "options": [
+          "Herod the Great",
+          "Herod Agrippa II (with Berenice)",
+          "Pontius Pilate",
+          "Caesar Augustus"
+        ],
+        "correct": 1,
+        "explanation": "Agrippa II agreed with Festus that Paul had done nothing worthy of death or prison (Acts 26:28-32)."
+      },
+      {
+        "question": "Which Roman governor of Judea hoped to receive money from Paul and left him in prison in Caesarea for two years?",
+        "options": [
+          "Galleon",
+          "Felix",
+          "Festus",
+          "Pilate"
+        ],
+        "correct": 1,
+        "explanation": "Felix was frightened when Paul spoke of righteousness, temperance, and the coming judgment (Acts 24:24-27)."
+      },
+      {
+        "question": "Which successor to Felix declared to Paul: 'You are crazy, Paul! Your great knowledge is making you lose your mind?",
+        "options": [
+          "Galleon",
+          "Porcius Festus",
+          "Sergius Paulus",
+          "Lysias"
+        ],
+        "correct": 1,
+        "explanation": "It was before Festus that Paul exercised his right as a Roman citizen by appealing to Caesar (Acts 25:11; 26:24)."
+      },
+      {
+        "question": "Which Roman tribune in Jerusalem saved Paul from the lynching of the crowd and then from the ambush of the 40 conspirators?",
+        "options": [
+          "Crow",
+          "Claude Lysias",
+          "Julius",
+          "Felix"
+        ],
+        "correct": 1,
+        "explanation": "Claudius Lysias had Paul escorted by night to Caesarea with 470 soldiers, horsemen and archers (Acts 23:23-26)."
+      },
+      {
+        "question": "Which centurion of the august cohort treated Paul humanely during the crossing and shipwreck to Rome?",
+        "options": [
+          "Crow",
+          "Julius",
+          "Longin",
+          "Lysias"
+        ],
+        "correct": 1,
+        "explanation": "Julius stopped the soldiers from killing the prisoners during the shipwreck at Malta in order to save Paul (Acts 27:3,43)."
+      },
+      {
+        "question": "Which collaborator of Paul was left in Crete to organize the Churches and carried out a delicate mission in Corinth?",
+        "options": [
+          "Timothy",
+          "Titus",
+          "Silas",
+          "Trophy"
+        ],
+        "correct": 1,
+        "explanation": "Paul calls Titus 'my companion and colleague among you' (2 Corinthians 8:23; Titus 1:4-5)."
+      },
+      {
+        "question": "Which wealthy Christian in Colossae received Paul's letter inviting him to welcome his fugitive slave as a brother?",
+        "options": [
+          "Gaius",
+          "Philemon",
+          "Diotrephes",
+          "Archippus"
+        ],
+        "correct": 1,
+        "explanation": "Paul even promised to repay any wrongs caused by Onesimus with his own hand (Philemon 1:18-19)."
+      },
+      {
+        "question": "Which companion of Paul's had first abandoned him at Perge in Pamphylia, causing a rift with Barnabas, before being later rehabilitated?",
+        "options": [
+          "Luke",
+          "Jean-Marc",
+          "Silas",
+          "Demas"
+        ],
+        "correct": 1,
+        "explanation": "In 2 Timothy 4:11, Paul finally writes: 'Take Mark and bring him with you, for he is useful to me for the ministry.'"
+      },
+      {
+        "question": "Which former colleague abandoned Paul at the end of his life 'out of love for this world' (2 Timothy 4:10)?",
+        "options": [
+          "Titus",
+          "Demas",
+          "Luke",
+          "Tychicus"
+        ],
+        "correct": 1,
+        "explanation": "Demas left for Thessalonica, contrasting with the loyalty of Luke who remained alone with Paul."
+      },
+      {
+        "question": "What faithful letter bearer delivered the epistles to the Ephesians and Colossians on behalf of Paul?",
+        "options": [
+          "Onesimus",
+          "Tychicus",
+          "Epaphras",
+          "Apollos"
+        ],
+        "correct": 1,
+        "explanation": "Paul describes him as 'the beloved brother and faithful minister in the Lord' (Ephesians 6:21; Colossians 4:7)."
+      },
+      {
+        "question": "Which probable founder of the Church of Colossae is praised by Paul for his prayer struggles on behalf of the Colossians?",
+        "options": [
+          "Titus",
+          "Epaphras",
+          "Barnabas",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Epaphras (not to be confused with Epaphroditus of Philippi) is called 'our beloved fellow servant' (Colossians 1:7; 4:12)."
+      },
+      {
+        "question": "What proud leader of a local Church refused to welcome the envoys of the Apostle John (3 John 9)?",
+        "options": [
+          "Gaius",
+          "Diotrephes",
+          "Demetrius",
+          "Alexander"
+        ],
+        "correct": 1,
+        "explanation": "John contrasts the tyrannical vanity of Diotrephes with the faithful hospitality of Gaius and the good testimony of Demetrius."
+      },
+      {
+        "question": "Which Levite from Cyprus sold a field and brought the price to the apostles, receiving the nickname Barnabas?",
+        "options": [
+          "Ananias",
+          "Joseph (from Cyprus)",
+          "Simon of Cyrene",
+          "Nicodemus"
+        ],
+        "correct": 1,
+        "explanation": "Acts 4:36 explains that Barnabas means 'son of exhortation/consolation'."
       }
     ],
     "expert": [
@@ -1720,6 +2523,567 @@
         ],
         "correct": 1,
         "explanation": "Mary is remarkably discreet in the NT: present at the Annunciation (Luke 1:38: 'I am the handmaid of the Lord'), at the birth, at Cana (John 2:3-5), sometimes with the family seeking Jesus (Matthew 12:46), at the Cross (John 19:26-27), and in the Upper Room praying with the disciples (Acts 1:14). The Johannine epistle and the epistles of Paul do not mention it. His Magnificat (Luke 1:46-55) is the most complete expression of his theology."
+      },
+      {
+        "question": "Who was Melchizedek in Genesis 14 and why does Hebrews consider him superior to the Levitical priesthood?",
+        "options": [
+          "A simple warrior from Egypt",
+          "King of Salem and priest of the Most High God without recorded genealogy, who blessed Abraham and received tithes from him (including from Levi still in Abraham)",
+          "A fallen angel",
+          "Abraham's father"
+        ],
+        "correct": 1,
+        "explanation": "His dual title as king of justice/peace and eternal priest without Levitical lineage makes him the direct type of Christ (Hebrews 7:1-17)."
+      },
+      {
+        "question": "What is the paradoxical role of Tamar in Genesis 38 in the messianic genealogy of Matthew 1?",
+        "options": [
+          "She is excluded",
+          "She forced Judah to recognize her injustice (“She is more just than I”), becoming the ancestor of Perets, David and Jesus",
+          "She was the daughter of Pharaoh",
+          "She destroyed the tribe of Judah"
+        ],
+        "correct": 1,
+        "explanation": "Matthew 1:3-6 deliberately includes four remarkable women (Tamar, Rahab, Ruth, Bathsheba) exemplifying God's sovereign grace."
+      },
+      {
+        "question": "Which loyal military leader of David stood by him when even Israelites deserted him, proclaiming his loyalty before Kidron?",
+        "options": [
+          "Joab",
+          "Ittai the Gathite (Philistine converted to loyalty to God's anointed)",
+          "Abner",
+          "Absalom"
+        ],
+        "correct": 1,
+        "explanation": "A stranger from Gath who arrived the day before, Ittai swore to follow David in life and death (2 Samuel 15:19-21)."
+      },
+      {
+        "question": "What unknown prophet called only 'the man of God of Judah' (1 Kings 13) disobeyed divine command after being deceived by an old prophet from Bethel?",
+        "options": [
+          "Ahija",
+          "The man of God killed by a lion on the way home",
+          "Micah son of Jimla",
+          "Elisha"
+        ],
+        "correct": 1,
+        "explanation": "His account is a stern reminder that a word already received from God must never be annulled by the claim of another prophet (Galatians 1:8)."
+      },
+      {
+        "question": "Who was Jehosheba, the little-known heroine of 2 Kings 11 who saved David's messianic lineage?",
+        "options": [
+          "Ahab's wife",
+          "The sister of King Ahaziah and wife of the high priest Jehoiada, who hid the six-year-old baby Joash in the Temple",
+          "Solomon's mother",
+          "Moses' sister"
+        ],
+        "correct": 1,
+        "explanation": "Without Jehosheba's courageous action in the face of Athaliah's slaughter, David's royal line would have been extinguished."
+      },
+      {
+        "question": "Which mysterious figure in Job 1-2 ('ha-Satan' with the definite article) literally signifies a legal role?",
+        "options": [
+          "The creator of absolute evil",
+          "'The Accuser/Adversary' who appears before the heavenly council to challenge Job's selfless integrity under God's sovereign authority",
+          "A Babylonian king",
+          "A friend of Job"
+        ],
+        "correct": 1,
+        "explanation": "In Job 1-2, Satan can only act within the strict limits set by God, highlighting the non-dualistic character of biblical theology."
+      },
+      {
+        "question": "Which OT character is cited in James 5:17 as a man 'of the same nature as we' whose fervent prayer closed and then opened heaven?",
+        "options": [
+          "Moses",
+          "Elijah",
+          "Daniel",
+          "Samuel"
+        ],
+        "correct": 1,
+        "explanation": "James demystifies the great biblical heroes to encourage every believer to pray with faith and perseverance."
+      },
+      {
+        "question": "Which king of Judah, father of Hezekiah, closed the doors of the Temple and introduced an Aramaic altar from Damascus into the sanctuary?",
+        "options": [
+          "Josiah",
+          "Ahaz",
+          "Uzziah",
+          "Jehoshaphat"
+        ],
+        "correct": 1,
+        "explanation": "Ahaz even sacrificed his son by fire and copied the pagan altar of Tiglath-pileser in Damascus (2 Kings 16:3,10-16)."
+      },
+      {
+        "question": "Which royal reformer in Judah sent Levites and princes to teach the book of the Law in all the cities of Judah?",
+        "options": [
+          "Rehoboam",
+          "Jehoshaphat (2 Chronicles 17:7-9)",
+          "Ahab",
+          "Jeroboam"
+        ],
+        "correct": 1,
+        "explanation": "Public instruction in the Torah under Jehoshaphat brought a respectful fear of God even to neighboring kingdoms."
+      },
+      {
+        "question": "Which faithful priest from the line of Eleazar became the sole head of the priesthood under Solomon, giving his name to the 'sons of Zadok'?",
+        "options": [
+          "Abiatar",
+          "Tzadok",
+          "Eli",
+          "Hophni"
+        ],
+        "correct": 1,
+        "explanation": "Abiatar having supported Adonijah was deposed (fulfilling the word against the house of Eli), and Zadok remained the sole high priest (1 Kings 2:26-35)."
+      },
+      {
+        "question": "Which scribe and minister of King Josiah presented the Book of the Law found in the Temple?",
+        "options": [
+          "Baruch",
+          "Shaphan",
+          "Ezra",
+          "Nehemiah"
+        ],
+        "correct": 1,
+        "explanation": "Shaphan's family (notably his sons Ahikam, Gemariah and his grandson Gedaliah) later protected Jeremiah on several occasions."
+      },
+      {
+        "question": "Which false prophet broke the wooden yoke on Jeremiah's neck and died within a year as Jeremiah predicted?",
+        "options": [
+          "Pashur",
+          "Hananiah of Gibeon (Jeremiah 28)",
+          "Micah",
+          "Zedekias"
+        ],
+        "correct": 1,
+        "explanation": "Hananiah falsely announced the return of the exiles in two years; Jeremiah denounced his lie which gave false hope to the people."
+      },
+      {
+        "question": "Which OT character is called 'much loved man' (ish hamoudot) by the angel Gabriel in apocalyptic visions?",
+        "options": [
+          "Moses",
+          "Daniel (Daniel 9:23; 10:11,19)",
+          "Ezekiel",
+          "David"
+        ],
+        "correct": 1,
+        "explanation": "This affectionate title emphasizes Daniel's humility and constant piety in his old age in Babylon and Persia."
+      },
+      {
+        "question": "Who was Zerubbabel in relation to David's royal line, and what promise did he receive in Haggai 2:23?",
+        "options": [
+          "A Levite priest unrelated to David",
+          "A royal descendant of David (grandson of Jehoiachin), called by God 'my ring/seal', foreshadowing the Messiah",
+          "A Persian general",
+          "A Roman governor"
+        ],
+        "correct": 1,
+        "explanation": "Haggai 2:23 reverses the curse pronounced against Jehoiachin (Jeremiah 22:24) by restoring messianic hope in the line of Zerubbabel."
+      },
+      {
+        "question": "What were the four main Jewish religious movements or groups at the time of Jesus?",
+        "options": [
+          "Levites, Prophets, Judges, Kings",
+          "Pharisees, Sadducees, Essenes (Qumran) and Zealots",
+          "Samaritans, Greeks, Romans, Syrians",
+          "Mages, Scribes, Deacons, Elders"
+        ],
+        "correct": 1,
+        "explanation": "The Pharisees (oral tradition, resurrection), Sadducees (Temple aristocracy, denying the resurrection), Essenes (ascetic withdrawal) and Zealots (armed resistance) formed the landscape of the 1st century."
+      },
+      {
+        "question": "What major doctrinal difference opposed the Pharisees and Sadducees, skillfully used by Paul before the Sanhedrin (Acts 23:6-8)?",
+        "options": [
+          "The date of Passover",
+          "The resurrection of the dead, the existence of angels and spirits — affirmed by the Pharisees but denied by the Sadducees",
+          "The name of Moses",
+          "The construction of the Temple"
+        ],
+        "correct": 1,
+        "explanation": "By declaring 'It is because of the hope and the resurrection of the dead that I am under judgment', Paul immediately divided the congregation."
+      },
+      {
+        "question": "Who was Hannah the prophetess in Luke 2:36-38?",
+        "options": [
+          "Mary's mother",
+          "An 84-year-old widow from the tribe of Asher who served God night and day in the Temple and praised God at the presentation of Jesus",
+          "Pontius Pilate's wife",
+          "Lazarus' sister"
+        ],
+        "correct": 1,
+        "explanation": "With Simeon, Anna represents the faithful remnant of Israel who awaited the deliverance of Jerusalem."
+      },
+      {
+        "question": "What was the composition of the inner circle of the three disciples who witnessed the resurrection of Jairus' daughter, the Transfiguration and Gethsemane?",
+        "options": [
+          "Pierre, André and Thomas",
+          "Peter, James and John",
+          "Matthew, Mark and Luke",
+          "Philippe, Barthélemy and Jude"
+        ],
+        "correct": 1,
+        "explanation": "Jesus particularly associated Peter, James and John at the key moments of his glory and his agony."
+      },
+      {
+        "question": "Which apostle bore the Hebrew/Aramaic name 'Didymus' (twin) and expressed lucid courage before Lazarus ('Let us also go, that we may die with him')?",
+        "options": [
+          "Philip",
+          "Thomas (John 11:16)",
+          "Matthew",
+          "Simon the Zealot"
+        ],
+        "correct": 1,
+        "explanation": "Far from being just the 'unbeliever', Thomas showed courageous loyalty and made John's highest Christological confession (John 20:28)."
+      },
+      {
+        "question": "Which apostle asked Jesus the question: 'Lord, how is it that you will make yourself known to us, and not to the world?' (John 14:22)?",
+        "options": [
+          "Judas Iscariot",
+          "Jude (called 'not the Iscariot', Thaddeus)",
+          "Andrew",
+          "Bartholomew"
+        ],
+        "correct": 1,
+        "explanation": "This question allowed Jesus to clarify that his inner manifestation is linked to love and obedience to his Word (John 14:23)."
+      },
+      {
+        "question": "What is the portrait of Mary Magdalene (Mary Magdalene) according to the four Gospels (without confusing her with the anonymous sinner of Luke 7)?",
+        "options": [
+          "A Queen of Galilee",
+          "A faithful disciple delivered from seven demons, who supported Jesus financially, remained at the foot of the cross and was the first witness to his resurrection",
+          "Peter's wife",
+          "The mother of Jean-Baptiste"
+        ],
+        "correct": 1,
+        "explanation": "The identification of Mary Magdalene with the sinner of Luke 7 or with Mary of Bethany comes from a late fusion without direct textual support."
+      },
+      {
+        "question": "Who were Joanna (wife of Chuza, Herod's steward) and Susanna mentioned in Luke 8:1-3?",
+        "options": [
+          "Enemies of Jesus",
+          "Healed women who followed Jesus and assisted him with their goods (patrons of the apostolic ministry)",
+          "The sisters of Lazarus",
+          "Prophetesses of Rome"
+        ],
+        "correct": 1,
+        "explanation": "Luke emphasizes the determining spiritual and material role of the women disciples around Jesus and up to the empty tomb (Luke 24:10)."
+      },
+      {
+        "question": "Which companion of Paul's in Acts was first an eloquent Jew from Alexandria well versed in the Scriptures but knowing only the baptism of John?",
+        "options": [
+          "Barnabas",
+          "Apollos",
+          "Silas",
+          "Titus"
+        ],
+        "correct": 1,
+        "explanation": "Priscilla and Aquila took him aside to teach him more exactly the way of God, making him a powerful evangelist in Achaia (Acts 18:24-28)."
+      },
+      {
+        "question": "In Paul's epistles, why is Priscilla (Prisca) often named before her husband Aquila (4 times out of 6)?",
+        "options": [
+          "By copyist error",
+          "Probably because of his particularly active role in teaching or his higher social status in the Church which met in their home",
+          "Because Aquilas had died",
+          "Because she was an apostle of the Twelve"
+        ],
+        "correct": 1,
+        "explanation": "This exemplary couple welcomed Paul in Corinth, trained Apollos in Ephesus, and risked their lives for Paul (Romans 16:3-5)."
+      },
+      {
+        "question": "Who was James 'the brother of the Lord' (Galatians 1:19), probable author of the epistle of James?",
+        "options": [
+          "James, son of Zebedee",
+          "The brother (or half-brother) of Jesus, initially skeptical during his ministry, converted after an appearance of the Resurrected One (1 Cor 15:7) and became pillar of Jerusalem",
+          "James, son of Alphaeus",
+          "A Roman governor"
+        ],
+        "correct": 1,
+        "explanation": "He actually presided over the Council of Jerusalem in Acts 15 and was nicknamed 'James the Just' in ancient Christian tradition."
+      },
+      {
+        "question": "Who was Jude, the author of the Epistle of Jude (Jude 1:1)?",
+        "options": [
+          "Judas Iscariot",
+          "'Servant of Jesus Christ and brother of James' — therefore also earthly brother of the Lord",
+          "A king of Idumea",
+          "A companion of Pilate"
+        ],
+        "correct": 1,
+        "explanation": "Out of humility, neither James nor Jude boast of being blood brothers of the Lord, presenting themselves first as his servants."
+      },
+      {
+        "question": "Which collaborator of Greek origin accompanied Paul to Jerusalem, provoking a false rumor that he had introduced him into the forbidden court of the Temple?",
+        "options": [
+          "Titus",
+          "Trophy of Ephesus (Acts 21:29)",
+          "Timothy",
+          "Luke"
+        ],
+        "correct": 1,
+        "explanation": "This false accusation by the Jews of Asia triggered the riot and the arrest of Paul at the Temple."
+      },
+      {
+        "question": "Which Greek companion of Paul was not forced to be circumcised during the journey to Jerusalem in Galatians 2:3, proving the freedom of the gospel?",
+        "options": [
+          "Timothy",
+          "Titus",
+          "Silas",
+          "Apollos"
+        ],
+        "correct": 1,
+        "explanation": "Paul refused to give in on Titus (purely a pagan) to defend the principle of salvation without circumcision, while he later circumcised Timothy (son of a Jewish mother) out of missionary concern."
+      },
+      {
+        "question": "Which character from Romans 16:22 served as Paul's secretary (amanuensis) in writing the epistle to the Romans?",
+        "options": [
+          "Luke",
+          "Tertius ('I, Tertius, who wrote this letter, greet you in the Lord')",
+          "Tychicus",
+          "Silas"
+        ],
+        "correct": 1,
+        "explanation": "Paul usually dictated his letters to a secretary before adding a few final lines in his own handwriting (Galatians 6:11; 1 Cor 16:21)."
+      },
+      {
+        "question": "Which NT character was a Jerusalem 'prophet' mentioned in Acts 15:32 with Judas Barsabbas to encourage Antioch?",
+        "options": [
+          "Agabus",
+          "Silas (Silvain)",
+          "Barnabas",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Judas Barsabbas and Silas, themselves prophets, exhorted the brothers of Antioch with numerous speeches after the council of Jerusalem."
+      },
+      {
+        "question": "What is the name of the father of Alexander and Rufus who carried the cross of Jesus according to Mark 15:21?",
+        "options": [
+          "Joseph of Arimathea",
+          "Simon of Cyrene",
+          "Nicodemus",
+          "Lazarus"
+        ],
+        "correct": 1,
+        "explanation": "Mark's mention of Alexander and Rufus suggests that they had become well-known Christians in the receiving Church (perhaps Rufus in Romans 16:13)."
+      },
+      {
+        "question": "Which high priest ordered Paul to be struck on the mouth when he appeared before the Sanhedrin (Acts 23:2-5)?",
+        "options": [
+          "Caiaphas",
+          "Ananias, son of Nebedee",
+          "Annas",
+          "Eli"
+        ],
+        "correct": 1,
+        "explanation": "Paul called him a 'whitewashed wall' before apologizing out of respect for the office according to Exodus 22:28 as soon as he learned he was high priest."
+      },
+      {
+        "question": "Which OT character is cited in Hebrews 11:31 as an example of heroic faith even though she was a pagan and a prostitute in Jericho?",
+        "options": [
+          "Delilah",
+          "Rahab",
+          "Jezebel",
+          "Vashti"
+        ],
+        "correct": 1,
+        "explanation": "Rahab welcomed the spies through faith in the God of Israel, was saved with her family, and integrated into the genealogy of Christ (Matthew 1:5; James 2:25)."
+      },
+      {
+        "question": "What was the significance of Cornelius' conversion (Acts 10) in Church history?",
+        "options": [
+          "An isolated event without follow-up",
+          "The 'Pentecost of the Gentiles': the first uncircumcised pagan publicly receives the Holy Spirit and baptism under the ministry of Peter",
+          "The conversion of a Pharisee",
+          "The founding of the Church of Alexandria"
+        ],
+        "correct": 1,
+        "explanation": "This episode broke down the barrier between Jews and Gentiles and forced the Church in Jerusalem to recognize that God also grants repentance to the nations (Acts 11:18)."
+      },
+      {
+        "question": "What professional speaker was hired by the high priest Ananias to accuse Paul before Governor Felix?",
+        "options": [
+          "Gamaliel",
+          "The speaker Tertullus (Acts 24:1-8)",
+          "Demetrius",
+          "Alexander"
+        ],
+        "correct": 1,
+        "explanation": "Tertullus accused Paul of being a pest, a troublemaker and a leader of the Nazarene sect, accusations which Paul refuted point by point."
+      },
+      {
+        "question": "What family bond united Berenice to King Herod Agrippa II during Paul's audience in Caesarea (Acts 25-26)?",
+        "options": [
+          "His mother",
+          "His sister (Bérénice), daughter of Herod Agrippa I",
+          "Pontius Pilate's wife",
+          "A prophetess from Ephesus"
+        ],
+        "correct": 1,
+        "explanation": "Agrippa II and his sister Berenice formed an influential but controversial royal couple to whom Paul testified about his conversion."
+      },
+      {
+        "question": "Which disciple of Joppa, also called Tabitha, is the only character explicitly qualified as the feminine 'disciple' (mathêtria) in the NT?",
+        "options": [
+          "Lydia",
+          "Dorcas (Tabitha)",
+          "Priscilla",
+          "Phoebe"
+        ],
+        "correct": 1,
+        "explanation": "Acts 9:36 uses the feminine term 'mathêtria' for Tabitha, rich in good works and alms for widows."
+      },
+      {
+        "question": "Who was Jason of Thessalonica mentioned in Acts 17:5-9?",
+        "options": [
+          "A Roman soldier",
+          "The host of Paul and Silas who had to pay bail before the politarchs after the riot against the Gospel",
+          "The high priest of Jerusalem",
+          "A philosopher from Athens"
+        ],
+        "correct": 1,
+        "explanation": "The rioters dragged Jason before the magistrates, shouting: 'These people who turned the world upside down have also come here!'"
+      },
+      {
+        "question": "Which synagogue ruler in Corinth believed in the Lord with all his household after Paul's arrival (Acts 18:8)?",
+        "options": [
+          "Sosthene only",
+          "Crispus (baptized by Paul himself according to 1 Cor 1:14)",
+          "Galleon",
+          "Jairus"
+        ],
+        "correct": 1,
+        "explanation": "Crispus, head of the synagogue, converted with his house; Sosthenes was then beaten before the court of Gallion."
+      },
+      {
+        "question": "Who was Gaius in the writings of Paul and John?",
+        "options": [
+          "A converted Roman emperor",
+          "A generous host of Paul in Corinth (Romans 16:23) and/or the faithful recipient of the 3rd epistle of John",
+          "A Pharisee from Jerusalem",
+          "A king of Syria"
+        ],
+        "correct": 1,
+        "explanation": "Paul praises Gaius as 'my host and that of the whole Church', and John praises a Gaius for his walk in truth and his hospitality."
+      },
+      {
+        "question": "Which faithful companion of Paul sent by the Philippians fell seriously ill to death in the service of the apostle?",
+        "options": [
+          "Epaphras",
+          "Epaphroditus (Philippians 2:25-30)",
+          "Tychicus",
+          "Onesiphorus"
+        ],
+        "correct": 1,
+        "explanation": "Paul sends him back to Philippi with the letter to allay their worry and to honor him for his dedication."
+      },
+      {
+        "question": "Which Ephesian Christian diligently sought Paul in Rome without being ashamed of his chains and often refreshed him (2 Timothy 1:16-18)?",
+        "options": [
+          "Demas",
+          "Onesiphorus",
+          "Alexander",
+          "Hymenaeus"
+        ],
+        "correct": 1,
+        "explanation": "While many in Asia had turned away from Paul, Onesiphorus demonstrated courageous loyalty to the end."
+      },
+      {
+        "question": "Who were Hymenaeus and Philetus mentioned in 2 Timothy 2:17-18?",
+        "options": [
+          "Two faithful deacons",
+          "Two false teachers who deviated from the truth by claiming that 'the resurrection has already come', overturning the faith of many",
+          "Two kings of Galatia",
+          "Two angels"
+        ],
+        "correct": 1,
+        "explanation": "Their pre-Gnostic error spiritualized the resurrection and denied the future bodily resurrection."
+      },
+      {
+        "question": "Which OT character is presented in Jude 9 in an argument with the devil over his body?",
+        "options": [
+          "Enoch",
+          "Moses (dispute between the archangel Michael and the devil)",
+          "Abraham",
+          "Elijah"
+        ],
+        "correct": 1,
+        "explanation": "Jude points out that even the archangel Michael did not dare to pronounce an insulting judgment but said: 'May the Lord rebuke you!'"
+      },
+      {
+        "question": "Which NT prophet is mentioned as the author of Revelation and the 4th Gospel — but what unique characteristic does he have in his Gospel?",
+        "options": [
+          "He signs his name in each chapter",
+          "He never addresses himself by his own first name, discreetly referring to himself as 'the disciple whom Jesus loved'",
+          "He was brother of Pierre",
+          "He was a Pharisee in Rome"
+        ],
+        "correct": 1,
+        "explanation": "This literary discretion (John 13:23; 19:26; 21:20-24) puts all the light on Jesus alone."
+      },
+      {
+        "question": "Who was Abigail in relation to the kings of Israel—and what theological lesson does her speech to David (1 Samuel 25:26-31) illustrate?",
+        "options": [
+          "She encouraged David to take revenge quickly",
+          "She prevented David from shedding innocent blood by reminding him that the Lord would build his house and that his life would be kept in 'the bundle of the living'",
+          "She betrays David for Saul",
+          "She was queen of Egypt"
+        ],
+        "correct": 1,
+        "explanation": "David blesses God for sending Abigail to meet him to restrain him from personal vengeance."
+      },
+      {
+        "question": "Which king of Israel showed great repentance after Jonah's prophecy to Nineveh?",
+        "options": [
+          "The King of Assyria (King of Nineveh)",
+          "The king of Egypt",
+          "The king of Babylon",
+          "The King of Tire"
+        ],
+        "correct": 0,
+        "explanation": "Hearing Jonah's preaching, the king of Nineveh came down from his throne, covered himself with sackcloth, and ordered a fast of repentance (Jonah 3:6-9)."
+      },
+      {
+        "question": "Which OT character is explicitly presented in the passage in 1 Samuel 9:9 explaining that the prophet was once called a 'seer'?",
+        "options": [
+          "Goliath",
+          "Samuel (the ancient term 'seer' referred to the prophet)",
+          "Saul",
+          "Joab"
+        ],
+        "correct": 1,
+        "explanation": "1 Samuel 9:9 explains a transition in terminology: 'He who is now called the prophet was formerly called the seer.'"
+      },
+      {
+        "question": "Which OT character prayed that the sun would stand over Gibeon and the moon over the Valley of Ayalon?",
+        "options": [
+          "Moses",
+          "Joshua (Joshua 10:12-14)",
+          "Gideon",
+          "David"
+        ],
+        "correct": 1,
+        "explanation": "The LORD heard a man's voice and fought for Israel on that one day."
+      },
+      {
+        "question": "Who was Aaron in relation to the privileges and limitations of the old covenant priesthood according to Hebrews 5 and 7?",
+        "options": [
+          "An eternal sinless priest",
+          "A mortal and weak high priest who had to offer sacrifices first for his own sins before those of the people—unlike the sinless Christ",
+          "A king of Judah",
+          "A prophet from Nineveh"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 7:26-28 contrasts the weakness of the mortal priests of Aaron's line with the Son made perfect for eternity."
+      },
+      {
+        "question": "Which NT character is described in Acts 13:1 among the prophets and teachers of Antioch as 'raised with Herod the tetrarch'?",
+        "options": [
+          "Lucius of Cyrene",
+          "Manahem (Menahem)",
+          "Simeon called Niger",
+          "Barnabas"
+        ],
+        "correct": 1,
+        "explanation": "Acts 13:1 shows the remarkable social and geographic diversity of Antioch's leadership (from the aristocrat Manahem to the African Simeon Niger and Lucius of Cyrene)."
       }
     ]
   }

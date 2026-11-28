@@ -616,6 +616,424 @@
         ],
         "correct": 2,
         "explanation": "A David se le llama 'un hombre conforme al corazón de Dios' (1 Samuel 13:14; Hechos 13:22), no porque fuera perfecto (el asunto de Betsabé lo demuestra), sino por su fe, su sincero arrepentimiento y su ardiente amor por Dios (Salmo 51)."
+      },
+      {
+        "question": "¿Quién fue la primera mujer creada por Dios en el Jardín del Edén?",
+        "options": [
+          "sara",
+          "Víspera",
+          "rebeca",
+          "Casado"
+        ],
+        "correct": 1,
+        "explanation": "Adán llamó a su esposa Eva ('viviente'), porque ella era la madre de todos los vivientes (Génesis 3:20)."
+      },
+      {
+        "question": "¿A quién mató su hermano Caín por celos?",
+        "options": [
+          "set",
+          "Abel",
+          "Enoc",
+          "Lemec"
+        ],
+        "correct": 1,
+        "explanation": "Caín estaba enojado porque el Señor había visto con buenos ojos la ofrenda de Abel y lo mató en el campo (Génesis 4:8)."
+      },
+      {
+        "question": "¿Qué sobrino de Abraham vivió en Sodoma y fue salvo por los ángeles antes de que la ciudad fuera destruida?",
+        "options": [
+          "Ismael",
+          "Lote",
+          "Labán",
+          "Eliezer"
+        ],
+        "correct": 1,
+        "explanation": "Los ángeles tomaron de la mano a Lot, su esposa y sus dos hijas y los sacaron de Sodoma (Génesis 19:16)."
+      },
+      {
+        "question": "¿Qué mujer se convirtió en esposa de Isaac después de darle agua al siervo de Abraham y a sus camellos?",
+        "options": [
+          "raquel",
+          "rebeca",
+          "Pasto",
+          "Agar"
+        ],
+        "correct": 1,
+        "explanation": "Rebeca, hermana de Labán, aceptó seguir al siervo de Abraham para casarse con Isaac (Génesis 24)."
+      },
+      {
+        "question": "¿Quiénes fueron las dos esposas de Jacob, hijas de Labán?",
+        "options": [
+          "Sara y Agar",
+          "Lea y Raquel",
+          "Marta y María",
+          "Rut y Orfa"
+        ],
+        "correct": 1,
+        "explanation": "Jacob se casó primero con Lea, la mayor, por engaño de Labán, y luego con Raquel, a quien amaba (Génesis 29)."
+      },
+      {
+        "question": "¿Quién era el menor de los doce hijos de Jacob, hermano completo de José?",
+        "options": [
+          "Rubén",
+          "Judá",
+          "Benjamín",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "Raquel murió al dar a luz a Benjamín cerca de Belén (Génesis 35:18)."
+      },
+      {
+        "question": "¿Quién fue la esposa de Moisés, hija de Jetro sacerdote de Madián?",
+        "options": [
+          "Miriam",
+          "Séfora (Tzipora)",
+          "Débora",
+          "Rahab"
+        ],
+        "correct": 1,
+        "explanation": "Jetro le dio a su hija Séfora a Moisés cuando este huyó a Madián (Éxodo 2:21)."
+      },
+      {
+        "question": "¿Qué fiel compañero de Moisés entró solo con Josué a la Tierra Prometida entre la generación que salió de Egipto?",
+        "options": [
+          "Aarón",
+          "caleb",
+          "Coré",
+          "Gedeón"
+        ],
+        "correct": 1,
+        "explanation": "Debido a que Caleb y Josué siguieron plenamente al Señor, fueron los únicos de su generación en entrar a Canaán (Números 14:24,30)."
+      },
+      {
+        "question": "¿Qué sumo sacerdote crió al joven Samuel en el santuario de Silo?",
+        "options": [
+          "Aarón",
+          "eli",
+          "natán",
+          "Tzadok"
+        ],
+        "correct": 1,
+        "explanation": "Ana dedicó a su hijo Samuel al Señor y lo confió al sacerdote Elí en Silo (1 Samuel 1-2)."
+      },
+      {
+        "question": "¿Quién fue el padre del rey David?",
+        "options": [
+          "Saúl",
+          "Jesé (Jesse) de Belén",
+          "jonathan",
+          "samuel"
+        ],
+        "correct": 1,
+        "explanation": "David era el menor de los ocho hijos de Isaí de Belén (1 Samuel 16:1-13)."
+      },
+      {
+        "question": "¿Qué reina malvada de Israel persiguió a los profetas del Señor y amenazó de muerte a Elías?",
+        "options": [
+          "Ester",
+          "Jezabel",
+          "Betsabé",
+          "athalie"
+        ],
+        "correct": 1,
+        "explanation": "Jezabel, hija de Etbaal rey de los sidonios y esposa de Acab, impuso el culto a Baal en Israel (1 Reyes 18-19)."
+      },
+      {
+        "question": "¿Qué prima mayor crió a Ester en Susa y se negó a inclinarse ante Amán?",
+        "options": [
+          "Nehemías",
+          "Mardoqueo",
+          "Esdras",
+          "Daniel"
+        ],
+        "correct": 1,
+        "explanation": "Mardoqueo frustró un complot contra el rey y animó a Ester a interceder por su pueblo (\"tal vez sea para tal tiempo...\") (Ester 4:14)."
+      },
+      {
+        "question": "¿Qué funcionario persa de alto rango quería ahorcar a Mardoqueo y exterminar a todos los judíos?",
+        "options": [
+          "Ciro",
+          "aman",
+          "Sanbalat",
+          "Goliat"
+        ],
+        "correct": 1,
+        "explanation": "Amán el agagueo finalmente fue colgado en el árbol que él mismo había erigido para Mardoqueo (Ester 7:10)."
+      },
+      {
+        "question": "¿Quién fue el principal de los ángeles que se aparecieron a Zacarías y luego a María para anunciar los nacimientos de Juan y Jesús?",
+        "options": [
+          "Miguel",
+          "gabriel",
+          "Rafael",
+          "Querubín"
+        ],
+        "correct": 1,
+        "explanation": "El ángel Gabriel declaró a Zacarías: \"Yo soy Gabriel, estoy delante de Dios\" (Lucas 1:19,26)."
+      },
+      {
+        "question": "¿Quién era la madre de Jean-Baptiste, prima o pariente de María?",
+        "options": [
+          "Ana",
+          "Isabel",
+          "Salomé",
+          "marta"
+        ],
+        "correct": 1,
+        "explanation": "Isabel, avanzada en años y una vez estéril, dio a luz con alegría a Juan el Bautista (Lucas 1:5-58)."
+      },
+      {
+        "question": "¿Qué apóstol era hermano de Santiago (los dos hijos de Zebedeo)?",
+        "options": [
+          "Roca",
+          "Vaqueros",
+          "Andrés",
+          "Felipe"
+        ],
+        "correct": 1,
+        "explanation": "Santiago y Juan, hijos de Zebedeo, eran pescadores en el lago Galilea antes de ser llamados por Jesús (Marcos 1:19)."
+      },
+      {
+        "question": "¿Qué apóstol llevó a su hermano Simón Pedro a Jesús diciéndole: 'Hemos encontrado al Mesías'?",
+        "options": [
+          "Felipe",
+          "Andrés",
+          "tomás",
+          "Mateo"
+        ],
+        "correct": 1,
+        "explanation": "Andrés, primero discípulo de Juan el Bautista, fue inmediatamente a buscar a su hermano Simón (Juan 1:40-42)."
+      },
+      {
+        "question": "¿Qué discípulo le dijo a Natanael acerca de Jesús: 'Ven y mira'?",
+        "options": [
+          "Roca",
+          "Felipe",
+          "tomás",
+          "Judas"
+        ],
+        "correct": 1,
+        "explanation": "Cuando Natanael preguntó si algo bueno podría salir de Nazaret, Felipe simplemente lo invitó a venir y ver (Juan 1:45-46)."
+      },
+      {
+        "question": "¿A qué israelita infiel alabó Jesús al decir que lo vio debajo de la higuera?",
+        "options": [
+          "Zaqueo",
+          "Natanaël (Barthélemy)",
+          "Nicodemo",
+          "Lázaro"
+        ],
+        "correct": 1,
+        "explanation": "Natanael inmediatamente confesó: '¡Rabí, tú eres el Hijo de Dios, tú eres el rey de Israel!' (Juan 1:47-49)."
+      },
+      {
+        "question": "¿Quién era la hermana de Lázaro y María que ministraba y confesaba: 'Tú eres el Cristo, el Hijo de Dios'?",
+        "options": [
+          "Salomé",
+          "marta",
+          "lidia",
+          "priscila"
+        ],
+        "correct": 1,
+        "explanation": "Antes de la resurrección de Lázaro, Marta hizo una magnífica confesión de fe ante Jesús (Juan 11:27)."
+      },
+      {
+        "question": "¿A qué hombre de Betania resucitó Jesús de entre los muertos después de cuatro días en el sepulcro?",
+        "options": [
+          "Bartimeo",
+          "Lázaro",
+          "Jairo",
+          "epafrodita"
+        ],
+        "correct": 1,
+        "explanation": "Jesús gritó a gran voz: '¡Lázaro, sal!' y el muerto salió con las manos y los pies atados con grilletes (Juan 11:43-44)."
+      },
+      {
+        "question": "¿Qué joven colaborador acompañó a Pablo en sus viajes y recibió dos epístolas que llevaban su nombre?",
+        "options": [
+          "Bernabé",
+          "Timoteo",
+          "Apolos",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Originario de Listra, Timoteo tenía una madre judía creyente (Eunice) y un padre griego (Hechos 16:1-3)."
+      },
+      {
+        "question": "¿Qué compañero acompañó a Pablo en el segundo viaje misionero después de la partida de Bernabé?",
+        "options": [
+          "Marca",
+          "Silas (Silvaín)",
+          "lucas",
+          "Roca"
+        ],
+        "correct": 1,
+        "explanation": "Pablo eligió a Silas, un hombre estimado en la iglesia de Jerusalén, con quien cantó alabanzas en la prisión de Filipos (Hechos 15:40; 16:25)."
+      },
+      {
+        "question": "¿Qué amado médico acompañó a Pablo y escribió el tercer Evangelio y Hechos?",
+        "options": [
+          "Marca",
+          "lucas",
+          "Bernabé",
+          "Tito"
+        ],
+        "correct": 1,
+        "explanation": "Pablo lo llama \"Lucas, el médico amado\" en Colosenses 4:14."
+      },
+      {
+        "question": "¿Qué rey hizo decapitar a Juan el Bautista por instigación de Herodías y su hija?",
+        "options": [
+          "Herodes el grande",
+          "Herodes Antipas",
+          "Herodes Agripa II",
+          "Poncio Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Herodes Antipas, tetrarca de Galilea y Perea, cedió cobardemente a su imprudente juramento (Marcos 6:14-29)."
+      },
+      {
+        "question": "¿Qué gobernador romano declaró: \"No encuentro ningún delito en este hombre\" y aun así entregó a Jesús en la cruz?",
+        "options": [
+          "Félix",
+          "Poncio Pilato",
+          "Festo",
+          "Galeón"
+        ],
+        "correct": 1,
+        "explanation": "Pilato se lavó las manos frente a la multitud mientras cedía a la presión política (Mateo 27:24)."
+      },
+      {
+        "question": "¿Quién fue el padre de Salomón y autor de muchos salmos?",
+        "options": [
+          "Saúl",
+          "David",
+          "jonathan",
+          "samuel"
+        ],
+        "correct": 1,
+        "explanation": "David se casó con Betsabé y de esta unión nació Salomón, elegido por Dios para construir el Templo (2 Samuel 12:24)."
+      },
+      {
+        "question": "¿Qué mujer piadosa oró en silencio en el santuario de Silo pidiendo un hijo y dio a luz a Samuel?",
+        "options": [
+          "Penina",
+          "Ana (Hanna)",
+          "Noemí",
+          "Débora"
+        ],
+        "correct": 1,
+        "explanation": "Ana prometió que si el Señor le daba un hijo, lo dedicaría a su servicio por el resto de su vida (1 Samuel 1:11)."
+      },
+      {
+        "question": "¿Qué gigante filisteo que medía más de seis codos desafió al ejército de Israel durante cuarenta días?",
+        "options": [
+          "og",
+          "Goliat de Gat",
+          "Sísara",
+          "Senaquerib"
+        ],
+        "correct": 1,
+        "explanation": "Goliat desafió a Israel mañana y tarde hasta que el joven David lo derribó en el nombre del Señor de los ejércitos (1 Samuel 17)."
+      },
+      {
+        "question": "¿Qué personaje del Antiguo Testamento fue vendido a Egipto pero llegó a ser el número dos en el reino después del Faraón?",
+        "options": [
+          "Moisés",
+          "José",
+          "Daniel",
+          "Aarón"
+        ],
+        "correct": 1,
+        "explanation": "Dios sacó a José de la prisión al palacio para salvar a Egipto y a su propia familia del hambre (Génesis 41)."
+      },
+      {
+        "question": "¿Quién era la hermana mayor de Moisés que cuidaba su canasta en el Nilo y dirigía los cantos de las mujeres después del Mar Rojo?",
+        "options": [
+          "Séfora",
+          "Miriam (María)",
+          "Débora",
+          "raquel"
+        ],
+        "correct": 1,
+        "explanation": "Miriam tomó un pandero y cantó: '¡Cantad al Señor, porque él ha hecho resplandecer su gloria!' (Éxodo 15:20-21)."
+      },
+      {
+        "question": "¿Qué rey de Babilonia arrojó a los tres amigos de Daniel al horno de fuego y luego reconoció la grandeza de su Dios?",
+        "options": [
+          "Ciro",
+          "Nabucodonosor",
+          "Baltasar",
+          "Darío"
+        ],
+        "correct": 1,
+        "explanation": "Nabucodonosor se asombró al ver a cuatro hombres caminando libres a través del fuego y alabó al Dios de Sadrac, Mesac y Abed-nego (Daniel 3:24-28)."
+      },
+      {
+        "question": "¿Qué rey medopersa se vio obligado por su propio decreto a arrojar a Daniel al foso de los leones y pasó la noche ayunando por él?",
+        "options": [
+          "Nabucodonosor",
+          "Darío el Medo",
+          "Asuero",
+          "Baltasar"
+        ],
+        "correct": 1,
+        "explanation": "Darío se alegró mucho al amanecer al encontrar a Daniel a salvo y emitió un decreto honrando al Dios vivo (Daniel 6:18-26)."
+      },
+      {
+        "question": "¿Qué líder del Sanedrín vino a Jesús por la noche y luego defendió un juicio justo y participó en su entierro?",
+        "options": [
+          "Caifás",
+          "Nicodemo",
+          "Gamaliel",
+          "Anás"
+        ],
+        "correct": 1,
+        "explanation": "Nicodemo trajo unas cien libras de una mezcla de mirra y áloe para sepultar a Jesús (Juan 19:39)."
+      },
+      {
+        "question": "¿Qué apóstol fue elegido por sorteo en Hechos 1 para reemplazar a Judas Iscariote?",
+        "options": [
+          "Bernabé",
+          "Matías",
+          "Etienne",
+          "Silas"
+        ],
+        "correct": 1,
+        "explanation": "Entre José Barsabás y Matías, la suerte recayó en Matías, quien estaba asociado con los once apóstoles (Hechos 1:23-26)."
+      },
+      {
+        "question": "¿Qué discípulo de Damasco recibió en visión la orden de imponer sus manos sobre Saulo de Tarso que se había quedado ciego?",
+        "options": [
+          "Bernabé",
+          "Ananías",
+          "Felipe",
+          "Agabo"
+        ],
+        "correct": 1,
+        "explanation": "A pesar de su temor legítimo al perseguidor, Ananías obedeció y recibió a Saulo, llamándolo 'Saulo mi hermano' (Hechos 9:10-17)."
+      },
+      {
+        "question": "¿Qué rey mató a Santiago, hermano de Juan, y encarceló a Pedro antes de ser golpeado por un ángel en Cesarea?",
+        "options": [
+          "Herodes el grande",
+          "Herodes Agripa I",
+          "Herodes Antipas",
+          "Nerón"
+        ],
+        "correct": 1,
+        "explanation": "Herodes Agripa I aceptó las aclamaciones divinas del pueblo en Cesarea e inmediatamente murió comido por gusanos (Hechos 12:21-23)."
+      },
+      {
+        "question": "¿Qué evangelista se identifica tradicionalmente con el joven vestido con un lienzo que huyó cuando arrestaron a Jesús (Marcos 14:51-52)?",
+        "options": [
+          "Pablo",
+          "Jean-Marc (según la tradición)",
+          "lucas",
+          "tomás"
+        ],
+        "correct": 1,
+        "explanation": "Marc es el único que menciona a este joven vestido con una sábana que huye desnudo, a menudo identificado con el propio Marc como firma discreta."
       }
     ],
     "intermediaire": [
@@ -1256,6 +1674,391 @@
         ],
         "correct": 1,
         "explanation": "Joab era el poderoso general en jefe de David y su sobrino (hijo de su hermana Ceruiá). Mató a traición a Abner (2 Samuel 3:27) y a Amasa (2 Samuel 20:10), y participó en el asesinato de Absalón. En su lecho de muerte, David le pidió a Salomón que lo castigara; Salomón hizo que lo ejecutaran (1 Reyes 2:34)."
+      },
+      {
+        "question": "¿Quién fue el suegro de Moisés que le aconsejó delegar los asuntos de actualidad en jueces honestos?",
+        "options": [
+          "Labán",
+          "Jetro (Reuel)",
+          "Balaam",
+          "caleb"
+        ],
+        "correct": 1,
+        "explanation": "Jetro vio a Moisés agotarse desde la mañana hasta la tarde y le aconsejó que nombrara líderes de miles, de cien, de cincuenta y de diez (Éxodo 18:13-24)."
+      },
+      {
+        "question": "¿Qué sobrino del rey Saúl era el líder supremo de su ejército antes de ser asesinado por Joab?",
+        "options": [
+          "Acumular",
+          "abner",
+          "Benaía",
+          "uri"
+        ],
+        "correct": 1,
+        "explanation": "Abner intentó unir a las tribus del norte con David, pero Joab lo mató en venganza por la muerte de Asael (2 Samuel 3:27)."
+      },
+      {
+        "question": "¿Qué soldado hitita leal a David fue enviado al frente a morir para encubrir el adulterio del rey?",
+        "options": [
+          "joab",
+          "Urías el hitita",
+          "abner",
+          "ittai"
+        ],
+        "correct": 1,
+        "explanation": "Urías se negó incluso a disfrutar de las comodidades de su hogar mientras el Arca y sus compañeros acamparon en campo abierto (2 Samuel 11:11)."
+      },
+      {
+        "question": "¿Qué consejero sabio pero rencoroso traicionó a David para unirse a la rebelión de Absalón y luego se ahorcó cuando su consejo fue rechazado?",
+        "options": [
+          "husai",
+          "Ahitofel",
+          "Simei",
+          "Tsiba"
+        ],
+        "correct": 1,
+        "explanation": "Ahitofel era famoso por sus consejos como oráculos de Dios, pero Dios frustró sus consejos a través de Husai el Arkian (2 Samuel 15-17)."
+      },
+      {
+        "question": "¿Qué miembro de la familia de Saúl maldijo a David y le arrojó piedras mientras huía de Absalón?",
+        "options": [
+          "Mefiboset",
+          "Simei",
+          "abner",
+          "Barzilai"
+        ],
+        "correct": 1,
+        "explanation": "David impidió que Abisai lo matara diciendo: 'Tal vez Jehová vea mi aflicción' (2 Samuel 16:5-12)."
+      },
+      {
+        "question": "¿Qué anciano generoso de Galaad suministró a David y su exhausto ejército en Mahanaim durante la revuelta de Absalón?",
+        "options": [
+          "Nabal",
+          "Barzilai",
+          "Booz",
+          "Jetro"
+        ],
+        "correct": 1,
+        "explanation": "A la edad de 80 años, Barzilai rechazó la invitación a vivir en la corte de Jerusalén, pero recomendó a su hijo Kimham a David (2 Samuel 19:32-38)."
+      },
+      {
+        "question": "¿Qué hombre rico y brutal del Carmelo rechazó la hospitalidad de David, antes de que su esposa Abigail salvara su casa?",
+        "options": [
+          "Labán",
+          "Nabal",
+          "Acán",
+          "Giezi"
+        ],
+        "correct": 1,
+        "explanation": "Nabal (\"tonto\") murió diez días después y David se casó con la sabia y hermosa Abigail (1 Samuel 25)."
+      },
+      {
+        "question": "¿Qué rey de Judá hizo una alianza con Acab a pesar de las advertencias proféticas, pero también organizó la enseñanza de la Ley y alabó a Dios frente a los ejércitos enemigos?",
+        "options": [
+          "Roboam",
+          "Josafat",
+          "Acaz",
+          "Manasés"
+        ],
+        "correct": 1,
+        "explanation": "Durante la invasión de Moab y Amón, Josafat colocó cantores ante el ejército, proclamando: '¡Alabado sea el Señor, porque para siempre es su misericordia!' (2 Crónicas 20:21)."
+      },
+      {
+        "question": "¿Qué reina impía de origen israelita (hija de Acab y Jezabel) usurpó el trono de Judá y destruyó a la familia real?",
+        "options": [
+          "Betsabé",
+          "athalie",
+          "Vasti",
+          "Dalila"
+        ],
+        "correct": 1,
+        "explanation": "Atalía reinó sobre Judá durante seis años hasta que el sumo sacerdote Joiada coronó al joven príncipe Joás escondido en el templo (2 Reyes 11)."
+      },
+      {
+        "question": "¿Qué sumo sacerdote dirigió la restauración de la adoración y el trono legítimo de David al derrocar a Atalía?",
+        "options": [
+          "Hilkija",
+          "jojada",
+          "Tzadok",
+          "Abiatar"
+        ],
+        "correct": 1,
+        "explanation": "Mientras vivió Joiada, el rey Joás hizo lo recto ante los ojos del Señor (2 Reyes 12:2)."
+      },
+      {
+        "question": "¿Qué profeta fue enviado por Eliseo para ungir a Jehú en secreto en Ramot de Galaad?",
+        "options": [
+          "Giezi",
+          "Un joven hijo de los profetas.",
+          "Miqueas",
+          "Amós"
+        ],
+        "correct": 1,
+        "explanation": "El joven profeta derramó aceite sobre la cabeza de Jehú y huyó inmediatamente después de pronunciar juicio sobre la casa de Acab (2 Reyes 9:1-10)."
+      },
+      {
+        "question": "¿Qué oficial etíope al servicio del rey Sedequías rescató a Jeremías de la cisterna lodosa con cuerdas y trapos viejos?",
+        "options": [
+          "Baruc",
+          "Ébed-Mélec",
+          "Guedalia",
+          "Pashur"
+        ],
+        "correct": 1,
+        "explanation": "Como recompensa por su fe y valentía, Dios le prometió a Ebed-melec que le perdonaría la vida durante la captura de Jerusalén (Jeremías 38-39)."
+      },
+      {
+        "question": "¿Qué gobernador designado por Babilonia sobre el resto de Judá después del 586 a.C.? ¿Fue asesinado por Ismael?",
+        "options": [
+          "Zorobabel",
+          "Guedalia",
+          "Nehemías",
+          "Sedequías"
+        ],
+        "correct": 1,
+        "explanation": "Gedalías gobernó en Mizpa y llamó a los sobrevivientes a vivir en paz bajo Babilonia (2 Reyes 25:22-25; Jeremías 40-41)."
+      },
+      {
+        "question": "¿Qué gobernador de Judá encabezó el primer gran convoy que regresaba del exilio con el sumo sacerdote Josué?",
+        "options": [
+          "Nehemías",
+          "Zorobabel",
+          "Esdras",
+          "Mardoqueo"
+        ],
+        "correct": 1,
+        "explanation": "Zorobabel, nieto del rey Joaquín, puso los cimientos del Segundo Templo a pesar de la oposición local (Esdras 2-4; Hageo 2:23)."
+      },
+      {
+        "question": "¿Qué reina persa perdió su corona por negarse a presentarse ante los invitados borrachos del rey Asuero, allanando el camino para Ester?",
+        "options": [
+          "Zeresh",
+          "Vasti",
+          "Dalila",
+          "Jezabel"
+        ],
+        "correct": 1,
+        "explanation": "La negativa de Vasti a obedecer llevó a los consejeros reales a organizar la elección de una nueva reina (Ester 1-2)."
+      },
+      {
+        "question": "¿Qué rey de Judá, a diferencia de su hijo Ezequías, rechazó una señal de Dios por incredulidad y prefirió la alianza con Asiria?",
+        "options": [
+          "Josías",
+          "Acaz",
+          "asa",
+          "David"
+        ],
+        "correct": 1,
+        "explanation": "Fue ante la incredulidad de Acaz que Isaías pronunció el oráculo de Emanuel en Isaías 7:10-14."
+      },
+      {
+        "question": "¿Qué artesano de Israel, hijo de Uri de la tribu de Judá, fue lleno del Espíritu de Dios para hacer el Tabernáculo y el Arca?",
+        "options": [
+          "Hiram",
+          "Bezaleel (asistido por Oholiab)",
+          "Salomón",
+          "Gedeón"
+        ],
+        "correct": 1,
+        "explanation": "Bezaleel y Oholiab recibieron sabiduría y habilidad artística por el Espíritu de Dios (Éxodo 31:1-6)."
+      },
+      {
+        "question": "¿Qué rey de Tiro proporcionó a David y luego a Salomón madera de cedro y trabajadores calificados para el templo?",
+        "options": [
+          "Acab",
+          "Hiram",
+          "Ben Hadad",
+          "balac"
+        ],
+        "correct": 1,
+        "explanation": "Hiram, rey de Tiro, amaba a David y concluyó un tratado fraternal con Salomón para la construcción del Templo (1 Reyes 5)."
+      },
+      {
+        "question": "¿Qué rey de Moab contrató al adivino Balaam para que maldijera a Israel en las llanuras de Moab?",
+        "options": [
+          "Sehón",
+          "balac",
+          "og",
+          "Eglón"
+        ],
+        "correct": 1,
+        "explanation": "Cada vez que Balac quería maldecir a Israel, Dios convertía las palabras de Balaam en bendiciones (Números 22-24)."
+      },
+      {
+        "question": "¿Qué madre y qué hijo fueron arrojados al desierto de Beerseba pero rescatados por el ángel del Señor que abrió un pozo de agua?",
+        "options": [
+          "sara e isaac",
+          "Agar e Ismael",
+          "Rebeca y Esaú",
+          "Lea y Rubén"
+        ],
+        "correct": 1,
+        "explanation": "Dios escuchó la voz del niño y le prometió a Agar que Ismael se convertiría en una gran nación (Génesis 21:14-20)."
+      },
+      {
+        "question": "¿Qué profeta reprendió al rey Asa y luego fue encarcelado por recordarle que debía confiar en Dios en lugar de Siria?",
+        "options": [
+          "natán",
+          "Hanani la vidente",
+          "Elías",
+          "Amós"
+        ],
+        "correct": 1,
+        "explanation": "'El Señor extiende su vista a toda la tierra, para sostener a aquellos cuyo corazón está totalmente dedicado a él' (2 Crónicas 16:7-10)."
+      },
+      {
+        "question": "¿Qué profetisa consultada por los enviados de Josías autenticó el Libro de la Ley encontrado en el Templo?",
+        "options": [
+          "Débora",
+          "Hulda",
+          "Miriam",
+          "Ana"
+        ],
+        "correct": 1,
+        "explanation": "Hulda, que vivía en Jerusalén en el segundo trimestre, anunció el juicio sobre Judá mientras prometía a Josías morir en paz antes de la catástrofe (2 Reyes 22:14-20)."
+      },
+      {
+        "question": "¿Qué personaje del Nuevo Testamento era el rey judío ante quien Pablo pronunció su famosa defensa (\"Un poco más y me persuadirás a convertirme en cristiano\")?",
+        "options": [
+          "Herodes el grande",
+          "Herodes Agripa II (con Berenice)",
+          "Poncio Pilato",
+          "César Augusto"
+        ],
+        "correct": 1,
+        "explanation": "Agripa II estuvo de acuerdo con Festo en que Pablo no había hecho nada digno de muerte o prisión (Hechos 26:28-32)."
+      },
+      {
+        "question": "¿Qué gobernador romano de Judea esperaba recibir dinero de Pablo y lo dejó preso en Cesarea durante dos años?",
+        "options": [
+          "Galeón",
+          "Félix",
+          "Festo",
+          "Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Félix se asustó cuando Pablo habló de justicia, templanza y el juicio venidero (Hechos 24:24-27)."
+      },
+      {
+        "question": "¿Qué sucesor de Félix declaró a Pablo: '¡Estás loco, Pablo! ¿Tu gran conocimiento te está haciendo perder la cabeza?",
+        "options": [
+          "Galeón",
+          "Porcio Festo",
+          "Sergio Pablo",
+          "Lisias"
+        ],
+        "correct": 1,
+        "explanation": "Fue ante Festo que Pablo ejerció su derecho como ciudadano romano apelando al César (Hechos 25:11; 26:24)."
+      },
+      {
+        "question": "¿Qué tribuno romano en Jerusalén salvó a Pablo del linchamiento de la multitud y luego de la emboscada de los 40 conspiradores?",
+        "options": [
+          "Cuervo",
+          "Claude Lisias",
+          "julio",
+          "Félix"
+        ],
+        "correct": 1,
+        "explanation": "Claudio Lisias hizo escoltar a Pablo de noche a Cesarea con 470 soldados, jinetes y arqueros (Hechos 23:23-26)."
+      },
+      {
+        "question": "¿Qué centurión de la augusta cohorte trató humanamente a Pablo durante el cruce y el naufragio hacia Roma?",
+        "options": [
+          "Cuervo",
+          "julio",
+          "Longin",
+          "Lisias"
+        ],
+        "correct": 1,
+        "explanation": "Julio impidió que los soldados mataran a los prisioneros durante el naufragio en Malta para salvar a Pablo (Hechos 27:3,43)."
+      },
+      {
+        "question": "¿Qué colaborador de Pablo se quedó en Creta para organizar las Iglesias y cumplió una delicada misión en Corinto?",
+        "options": [
+          "Timoteo",
+          "Tito",
+          "Silas",
+          "Trofeo"
+        ],
+        "correct": 1,
+        "explanation": "Pablo llama a Tito 'mi compañero y colega entre vosotros' (2 Corintios 8:23; Tito 1:4-5)."
+      },
+      {
+        "question": "¿Qué cristiano rico de Colosas recibió la carta de Pablo invitándolo a recibir como a un hermano a su esclavo fugitivo?",
+        "options": [
+          "Cayo",
+          "Filemón",
+          "Diótrefes",
+          "Arquipo"
+        ],
+        "correct": 1,
+        "explanation": "Pablo incluso prometió pagar cualquier daño causado por Onésimo con su propia mano (Filemón 1:18-19)."
+      },
+      {
+        "question": "¿Qué compañero de Pablo lo había abandonado por primera vez en Perge en Panfilia, provocando una ruptura con Bernabé, antes de ser rehabilitado más tarde?",
+        "options": [
+          "lucas",
+          "Jean-Marc",
+          "Silas",
+          "demas"
+        ],
+        "correct": 1,
+        "explanation": "En 2 Timoteo 4:11, Pablo finalmente escribe: \"Toma a Marcos y tráelo contigo, porque me es útil para el ministerio\"."
+      },
+      {
+        "question": "¿Qué ex colega abandonó a Pablo al final de su vida \"por amor a este mundo\" (2 Timoteo 4:10)?",
+        "options": [
+          "Tito",
+          "demas",
+          "lucas",
+          "Tíquico"
+        ],
+        "correct": 1,
+        "explanation": "Demas partió hacia Tesalónica, contrastando con la lealtad de Lucas que permaneció solo con Pablo."
+      },
+      {
+        "question": "¿Qué fiel cartero entregó las epístolas a los Efesios y Colosenses en nombre de Pablo?",
+        "options": [
+          "Onésimo",
+          "Tíquico",
+          "Epafras",
+          "Apolos"
+        ],
+        "correct": 1,
+        "explanation": "Pablo lo describe como \"el hermano amado y ministro fiel en el Señor\" (Efesios 6:21; Colosenses 4:7)."
+      },
+      {
+        "question": "¿Qué probable fundador de la Iglesia de Colosas es elogiado por Pablo por sus luchas de oración a favor de los colosenses?",
+        "options": [
+          "Tito",
+          "Epafras",
+          "Bernabé",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Epafras (que no debe confundirse con Epafrodito de Filipos) es llamado \"nuestro consiervo amado\" (Colosenses 1:7; 4:12)."
+      },
+      {
+        "question": "¿Qué líder orgulloso de una Iglesia local se negó a recibir a los enviados del apóstol Juan (3 Juan 9)?",
+        "options": [
+          "Cayo",
+          "Diótrefes",
+          "Demetrio",
+          "Alejandro"
+        ],
+        "correct": 1,
+        "explanation": "Juan contrasta la vanidad tiránica de Diótrefes con la fiel hospitalidad de Gayo y el buen testimonio de Demetrio."
+      },
+      {
+        "question": "¿Qué levita de Chipre vendió un campo y llevó el precio a los apóstoles, recibiendo el sobrenombre de Bernabé?",
+        "options": [
+          "Ananías",
+          "José (de Chipre)",
+          "Simón de Cirene",
+          "Nicodemo"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 4:36 explica que Bernabé significa \"hijo de exhortación/consuelo\"."
       }
     ],
     "expert": [
@@ -1720,6 +2523,567 @@
         ],
         "correct": 1,
         "explanation": "María es notablemente discreta en el Nuevo Testamento: presente en la Anunciación (Lucas 1,38: \"Yo soy la esclava del Señor\"), en el nacimiento, en Caná (Juan 2,3-5), a veces con la familia que busca a Jesús (Mateo 12,46), en la Cruz (Juan 19,26-27), y en el Cenáculo orando con los discípulos (Hechos 1,14). La epístola de Juan y las epístolas de Pablo no lo mencionan. Su Magnificat (Lucas 1:46-55) es la expresión más completa de su teología."
+      },
+      {
+        "question": "¿Quién era Melquisedec en Génesis 14 y por qué Hebreos lo considera superior al sacerdocio levítico?",
+        "options": [
+          "Un simple guerrero de Egipto.",
+          "Rey de Salem y sacerdote del Dios Altísimo sin genealogía registrada, que bendijo a Abraham y recibió diezmos de él (incluidos los de Leví todavía en Abraham)",
+          "un angel caido",
+          "el padre de abraham"
+        ],
+        "correct": 1,
+        "explanation": "Su doble título como rey de justicia/paz y sacerdote eterno sin linaje levítico lo convierte en el tipo directo de Cristo (Hebreos 7:1-17)."
+      },
+      {
+        "question": "¿Cuál es el papel paradójico de Tamar en Génesis 38 en la genealogía mesiánica de Mateo 1?",
+        "options": [
+          "ella esta excluida",
+          "Obligó a Judá a reconocer su injusticia (“Ella es más justa que yo”), convirtiéndose en el antepasado de Perets, David y Jesús.",
+          "Ella era hija del faraón.",
+          "Ella destruyó la tribu de Judá"
+        ],
+        "correct": 1,
+        "explanation": "Mateo 1:3-6 incluye deliberadamente a cuatro mujeres notables (Tamar, Rahab, Rut, Betsabé) que ejemplifican la gracia soberana de Dios."
+      },
+      {
+        "question": "¿Qué líder militar leal a David lo apoyó cuando hasta los israelitas lo abandonaron, proclamando su lealtad ante Cedrón?",
+        "options": [
+          "joab",
+          "Ittai el gathita (filisteo convertido a la lealtad al ungido de Dios)",
+          "abner",
+          "Absalón"
+        ],
+        "correct": 1,
+        "explanation": "Ittai, un extraño de Gat que llegó el día anterior, juró seguir a David en vida y muerte (2 Samuel 15:19-21)."
+      },
+      {
+        "question": "¿Qué profeta desconocido llamado sólo 'el hombre de Dios de Judá' (1 Reyes 13) desobedeció el mandato divino después de haber sido engañado por un viejo profeta de Betel?",
+        "options": [
+          "Ahija",
+          "El hombre de Dios asesinado por un león camino a casa",
+          "Miqueas hijo de Jimla",
+          "Elíseo"
+        ],
+        "correct": 1,
+        "explanation": "Su relato es un severo recordatorio de que una palabra ya recibida de Dios nunca debe ser anulada por la afirmación de otro profeta (Gálatas 1:8)."
+      },
+      {
+        "question": "¿Quién era Jehosheba, la heroína poco conocida de 2 Reyes 11 que salvó el linaje mesiánico de David?",
+        "options": [
+          "La esposa de Acab",
+          "Hermana del rey Ocozías y esposa del sumo sacerdote Joiada, quien escondió al bebé Joás, de seis años, en el templo.",
+          "la madre de salomon",
+          "la hermana de moises"
+        ],
+        "correct": 1,
+        "explanation": "Sin la valiente acción de Jehosheba ante la matanza de Atalía, el linaje real de David se habría extinguido."
+      },
+      {
+        "question": "¿Qué figura misteriosa en Job 1-2 (\"ha-Satanás\" con el artículo definido) significa literalmente un papel legal?",
+        "options": [
+          "El creador del mal absoluto.",
+          "'El Acusador/Adversario' que se presenta ante el concilio celestial para desafiar la integridad desinteresada de Job bajo la autoridad soberana de Dios",
+          "Un rey babilónico",
+          "Un amigo de Job"
+        ],
+        "correct": 1,
+        "explanation": "En Job 1-2, Satanás sólo puede actuar dentro de los estrictos límites establecidos por Dios, destacando el carácter no dualista de la teología bíblica."
+      },
+      {
+        "question": "¿Qué personaje del Antiguo Testamento se cita en Santiago 5:17 como un hombre 'de la misma naturaleza que nosotros' cuya ferviente oración cerró y luego abrió el cielo?",
+        "options": [
+          "Moisés",
+          "Elías",
+          "Daniel",
+          "samuel"
+        ],
+        "correct": 1,
+        "explanation": "Santiago desmitifica a los grandes héroes bíblicos para animar a cada creyente a orar con fe y perseverancia."
+      },
+      {
+        "question": "¿Qué rey de Judá, padre de Ezequías, cerró las puertas del templo e introdujo en el santuario un altar arameo procedente de Damasco?",
+        "options": [
+          "Josías",
+          "Acaz",
+          "Uzías",
+          "Josafat"
+        ],
+        "correct": 1,
+        "explanation": "Acaz incluso sacrificó a su hijo por el fuego y copió el altar pagano de Tiglat-pileser en Damasco (2 Reyes 16:3,10-16)."
+      },
+      {
+        "question": "¿Qué reformador real de Judá envió levitas y príncipes para enseñar el libro de la Ley en todas las ciudades de Judá?",
+        "options": [
+          "Roboam",
+          "Josafat (2 Crónicas 17:7-9)",
+          "Acab",
+          "Botella grande"
+        ],
+        "correct": 1,
+        "explanation": "La instrucción pública de la Torá bajo Josafat trajo un temor respetuoso de Dios incluso a los reinos vecinos."
+      },
+      {
+        "question": "¿Qué sacerdote fiel del linaje de Eleazar llegó a ser el único jefe del sacerdocio bajo Salomón, dando su nombre a los 'hijos de Sadoc'?",
+        "options": [
+          "Abiatar",
+          "Tzadok",
+          "eli",
+          "Ofni"
+        ],
+        "correct": 1,
+        "explanation": "Abiatar, habiendo apoyado a Adonías, fue depuesto (cumpliendo la palabra contra la casa de Elí), y Sadoc siguió siendo el único sumo sacerdote (1 Reyes 2:26-35)."
+      },
+      {
+        "question": "¿Qué escriba y ministro del rey Josías presentó el Libro de la Ley que se encuentra en el Templo?",
+        "options": [
+          "Baruc",
+          "Safán",
+          "Esdras",
+          "Nehemías"
+        ],
+        "correct": 1,
+        "explanation": "La familia de Safán (en particular sus hijos Ahicam, Gemarías y su nieto Gedalías) protegieron posteriormente a Jeremías en varias ocasiones."
+      },
+      {
+        "question": "¿Qué falso profeta rompió el yugo de madera sobre el cuello de Jeremías y murió dentro de un año como lo predijo Jeremías?",
+        "options": [
+          "Pashur",
+          "Hananías de Gabaón (Jeremías 28)",
+          "Miqueas",
+          "Sedequías"
+        ],
+        "correct": 1,
+        "explanation": "Hananías anunció falsamente el regreso de los exiliados en dos años; Jeremías denunció su mentira que dio falsas esperanzas al pueblo."
+      },
+      {
+        "question": "¿Qué personaje del Antiguo Testamento es llamado 'hombre muy amado' (ish hamoudot) por el ángel Gabriel en visiones apocalípticas?",
+        "options": [
+          "Moisés",
+          "Daniel (Daniel 9:23; 10:11,19)",
+          "Ezequiel",
+          "David"
+        ],
+        "correct": 1,
+        "explanation": "Este título afectuoso enfatiza la humildad y la piedad constante de Daniel en su vejez en Babilonia y Persia."
+      },
+      {
+        "question": "¿Quién era Zorobabel en relación con el linaje real de David y qué promesa recibió en Hageo 2:23?",
+        "options": [
+          "Un sacerdote levita no relacionado con David.",
+          "Un descendiente real de David (nieto de Joaquín), llamado por Dios \"mi anillo/sello\", presagiando al Mesías.",
+          "Un general persa",
+          "Un gobernador romano"
+        ],
+        "correct": 1,
+        "explanation": "Hageo 2:23 revierte la maldición pronunciada contra Joaquín (Jeremías 22:24) al restaurar la esperanza mesiánica en el linaje de Zorobabel."
+      },
+      {
+        "question": "¿Cuáles eran los cuatro principales movimientos o grupos religiosos judíos en la época de Jesús?",
+        "options": [
+          "Levitas, profetas, jueces, reyes",
+          "Fariseos, saduceos, esenios (Qumran) y zelotes",
+          "Samaritanos, griegos, romanos, sirios.",
+          "Magos, escribas, diáconos, ancianos"
+        ],
+        "correct": 1,
+        "explanation": "Los fariseos (tradición oral, resurrección), saduceos (aristocracia del templo, que negaban la resurrección), esenios (retirada ascética) y zelotes (resistencia armada) formaron el paisaje del siglo I."
+      },
+      {
+        "question": "¿Qué diferencia doctrinal principal opuso a fariseos y saduceos, hábilmente utilizada por Pablo ante el Sanedrín (Hechos 23:6-8)?",
+        "options": [
+          "La fecha de la Pascua",
+          "La resurrección de los muertos, la existencia de ángeles y espíritus, afirmada por los fariseos pero negada por los saduceos.",
+          "El nombre de Moisés",
+          "La construcción del Templo"
+        ],
+        "correct": 1,
+        "explanation": "Al declarar: \"Por la esperanza y la resurrección de los muertos estoy bajo juicio\", Pablo inmediatamente dividió a la congregación."
+      },
+      {
+        "question": "¿Quién fue Ana la profetisa en Lucas 2:36-38?",
+        "options": [
+          "la madre de maria",
+          "Una viuda de 84 años de la tribu de Aser que sirvió a Dios día y noche en el Templo y alabó a Dios en la presentación de Jesús.",
+          "La esposa de Poncio Pilato",
+          "La hermana de Lázaro."
+        ],
+        "correct": 1,
+        "explanation": "Con Simeón, Ana representa el remanente fiel de Israel que esperaba la liberación de Jerusalén."
+      },
+      {
+        "question": "¿Cuál era la composición del círculo interno de los tres discípulos que presenciaron la resurrección de la hija de Jairo, la Transfiguración y Getsemaní?",
+        "options": [
+          "Pierre, André y Thomas",
+          "Pedro, Santiago y Juan",
+          "Mateo, Marcos y Lucas",
+          "Philippe, Barthélemy y Judas"
+        ],
+        "correct": 1,
+        "explanation": "Jesús asoció particularmente a Pedro, Santiago y Juan en los momentos claves de su gloria y de su agonía."
+      },
+      {
+        "question": "¿Qué apóstol llevaba el nombre hebreo/arameo 'Dídimo' (gemelo) y expresó valor lúcido ante Lázaro ('Vayamos también nosotros, para morir con él')?",
+        "options": [
+          "Felipe",
+          "Tomás (Juan 11:16)",
+          "Mateo",
+          "Simón el Zelote"
+        ],
+        "correct": 1,
+        "explanation": "Lejos de ser simplemente el \"incrédulo\", Tomás mostró una valiente lealtad e hizo la más alta confesión cristológica de Juan (Juan 20:28)."
+      },
+      {
+        "question": "¿Qué apóstol le preguntó a Jesús: 'Señor, ¿cómo es que te darás a conocer a nosotros y no al mundo?' (Juan 14:22)?",
+        "options": [
+          "Judas Iscariote",
+          "Judas (llamado 'no el Iscariote', Tadeo)",
+          "Andrés",
+          "Bartolomé"
+        ],
+        "correct": 1,
+        "explanation": "Esta pregunta le permitió a Jesús aclarar que su manifestación interior está ligada al amor y la obediencia a su Palabra (Juan 14:23)."
+      },
+      {
+        "question": "¿Cuál es el retrato de María Magdalena (María Magdalena) según los cuatro evangelios (sin confundirla con la pecadora anónima de Lucas 7)?",
+        "options": [
+          "Una reina de Galilea",
+          "Un fiel discípulo liberado de siete demonios, que apoyó económicamente a Jesús, permaneció al pie de la cruz y fue el primer testigo de su resurrección.",
+          "la esposa de pedro",
+          "La madre de Jean-Baptiste"
+        ],
+        "correct": 1,
+        "explanation": "La identificación de María Magdalena con el pecador de Lucas 7 o con María de Betania proviene de una fusión tardía sin apoyo textual directo."
+      },
+      {
+        "question": "¿Quiénes fueron Juana (esposa de Chuza, mayordomo de Herodes) y Susana mencionadas en Lucas 8:1-3?",
+        "options": [
+          "enemigos de jesus",
+          "Mujeres curadas que seguían a Jesús y lo ayudaban con sus bienes (patronas del ministerio apostólico)",
+          "Las hermanas de Lázaro",
+          "Profetisas de Roma"
+        ],
+        "correct": 1,
+        "explanation": "Lucas enfatiza el papel espiritual y material determinante de las discípulas alrededor de Jesús y hasta la tumba vacía (Lucas 24:10)."
+      },
+      {
+        "question": "¿Qué compañero de Pablo en Hechos fue primero un judío elocuente de Alejandría, muy versado en las Escrituras pero que sólo conocía el bautismo de Juan?",
+        "options": [
+          "Bernabé",
+          "Apolos",
+          "Silas",
+          "Tito"
+        ],
+        "correct": 1,
+        "explanation": "Priscila y Aquila lo llevaron aparte para enseñarle más exactamente el camino de Dios, convirtiéndolo en un poderoso evangelista en Acaya (Hechos 18:24-28)."
+      },
+      {
+        "question": "En las epístolas de Pablo, ¿por qué a menudo se nombra a Priscila (Prisca) antes que a su esposo Aquila (4 de 6 veces)?",
+        "options": [
+          "Por error de copista",
+          "Probablemente debido a su papel particularmente activo en la enseñanza o a su estatus social más alto en la Iglesia que se reunía en su casa.",
+          "Porque Aquilas había muerto",
+          "Porque ella era apóstol de los Doce"
+        ],
+        "correct": 1,
+        "explanation": "Esta pareja ejemplar recibió a Pablo en Corinto, entrenó a Apolos en Éfeso y arriesgó sus vidas por Pablo (Romanos 16:3-5)."
+      },
+      {
+        "question": "¿Quién era Santiago 'el hermano del Señor' (Gálatas 1:19), probable autor de la epístola de Santiago?",
+        "options": [
+          "Santiago, hijo de Zebedeo",
+          "El hermano (o medio hermano) de Jesús, inicialmente escéptico durante su ministerio, se convirtió tras una aparición del Resucitado (1 Cor 15,7) y se convirtió en columna de Jerusalén.",
+          "Santiago, hijo de Alfeo",
+          "Un gobernador romano"
+        ],
+        "correct": 1,
+        "explanation": "De hecho, presidió el Concilio de Jerusalén en Hechos 15 y fue apodado 'Santiago el Justo' en la antigua tradición cristiana."
+      },
+      {
+        "question": "¿Quién fue Judas, el autor de la Epístola de Judas (Judas 1:1)?",
+        "options": [
+          "Judas Iscariote",
+          "'Siervo de Jesucristo y hermano de Santiago'; por lo tanto, también hermano terrenal del Señor",
+          "Un rey de Idumea",
+          "Un compañero de Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Por humildad, ni Santiago ni Judas se jactan de ser hermanos de sangre del Señor, presentándose primero como sus siervos."
+      },
+      {
+        "question": "¿Qué colaborador de origen griego acompañó a Pablo a Jerusalén, provocando un falso rumor de que lo había introducido en el patio prohibido del Templo?",
+        "options": [
+          "Tito",
+          "Trofeo de Éfeso (Hechos 21:29)",
+          "Timoteo",
+          "lucas"
+        ],
+        "correct": 1,
+        "explanation": "Esta falsa acusación de los judíos de Asia desencadenó el motín y el arresto de Pablo en el Templo."
+      },
+      {
+        "question": "¿Qué compañero griego de Pablo no fue obligado a circuncidarse durante el viaje a Jerusalén en Gálatas 2:3, lo que demuestra la libertad del evangelio?",
+        "options": [
+          "Timoteo",
+          "Tito",
+          "Silas",
+          "Apolos"
+        ],
+        "correct": 1,
+        "explanation": "Pablo se negó a ceder ante Tito (puramente un pagano) para defender el principio de la salvación sin la circuncisión, mientras que más tarde circuncidó a Timoteo (hijo de madre judía) por preocupación misionera."
+      },
+      {
+        "question": "¿Qué personaje de Romanos 16:22 sirvió como secretario (amanuense) de Pablo al escribir la epístola a los Romanos?",
+        "options": [
+          "lucas",
+          "Tertius ('Yo, Tertius, que escribí esta carta, os saludo en el Señor')",
+          "Tíquico",
+          "Silas"
+        ],
+        "correct": 1,
+        "explanation": "Pablo usualmente dictaba sus cartas a un secretario antes de agregar algunas líneas finales de su puño y letra (Gálatas 6:11; 1 Cor 16:21)."
+      },
+      {
+        "question": "¿Qué personaje del Nuevo Testamento fue un 'profeta' de Jerusalén mencionado en Hechos 15:32 junto con Judas Barsabás para animar a Antioquía?",
+        "options": [
+          "Agabo",
+          "Silas (Silvaín)",
+          "Bernabé",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Judas Barsabás y Silas, ellos mismos profetas, exhortaron a los hermanos de Antioquía con numerosos discursos después del concilio de Jerusalén."
+      },
+      {
+        "question": "¿Cómo se llama el padre de Alejandro y Rufo que llevó la cruz de Jesús según Marcos 15:21?",
+        "options": [
+          "José de Arimatea",
+          "Simón de Cirene",
+          "Nicodemo",
+          "Lázaro"
+        ],
+        "correct": 1,
+        "explanation": "La mención que hace Marcos de Alejandro y Rufo sugiere que se habían convertido en cristianos muy conocidos en la Iglesia receptora (quizás Rufo en Romanos 16:13)."
+      },
+      {
+        "question": "¿Qué sumo sacerdote ordenó que golpearan a Pablo en la boca cuando se presentó ante el Sanedrín (Hechos 23:2-5)?",
+        "options": [
+          "Caifás",
+          "Ananías, hijo de Nebedeo",
+          "Anás",
+          "eli"
+        ],
+        "correct": 1,
+        "explanation": "Pablo lo llamó \"muro blanqueado\" antes de disculparse por respeto al oficio según Éxodo 22:28 tan pronto como supo que era sumo sacerdote."
+      },
+      {
+        "question": "¿Qué personaje del Antiguo Testamento se cita en Hebreos 11:31 como ejemplo de fe heroica a pesar de que era pagana y prostituta en Jericó?",
+        "options": [
+          "Dalila",
+          "Rahab",
+          "Jezabel",
+          "Vasti"
+        ],
+        "correct": 1,
+        "explanation": "Rahab recibió a los espías mediante la fe en el Dios de Israel, fue salva con su familia y se integró a la genealogía de Cristo (Mateo 1:5; Santiago 2:25)."
+      },
+      {
+        "question": "¿Cuál fue el significado de la conversión de Cornelio (Hechos 10) en la historia de la Iglesia?",
+        "options": [
+          "Un hecho aislado sin seguimiento",
+          "El 'Pentecostés de los gentiles': el primer pagano incircunciso recibe públicamente el Espíritu Santo y el bautismo bajo el ministerio de Pedro",
+          "La conversión de un fariseo",
+          "La fundación de la Iglesia de Alejandría."
+        ],
+        "correct": 1,
+        "explanation": "Este episodio rompió la barrera entre judíos y gentiles y obligó a la Iglesia en Jerusalén a reconocer que Dios también concede el arrepentimiento a las naciones (Hechos 11:18)."
+      },
+      {
+        "question": "¿Qué orador profesional fue contratado por el sumo sacerdote Ananías para acusar a Pablo ante el gobernador Félix?",
+        "options": [
+          "Gamaliel",
+          "El orador Tértulo (Hechos 24:1-8)",
+          "Demetrio",
+          "Alejandro"
+        ],
+        "correct": 1,
+        "explanation": "Tértulo acusó a Pablo de ser una plaga, un alborotador y un líder de la secta nazarena, acusaciones que Pablo refutó punto por punto."
+      },
+      {
+        "question": "¿Qué vínculo familiar unió a Berenice con el rey Herodes Agripa II durante la audiencia de Pablo en Cesarea (Hechos 25-26)?",
+        "options": [
+          "su madre",
+          "Su hermana (Bérénice), hija de Herodes Agripa I",
+          "La esposa de Poncio Pilato",
+          "Una profetisa de Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Agripa II y su hermana Berenice formaron una pareja real influyente pero controvertida a quien Pablo testificó sobre su conversión."
+      },
+      {
+        "question": "¿Qué discípula de Jope, también llamada Tabita, es el único personaje calificado explícitamente como \"discípula\" femenina (mathêtria) en el Nuevo Testamento?",
+        "options": [
+          "lidia",
+          "Dorcas (Tabita)",
+          "priscila",
+          "Phoebe"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 9:36 usa el término femenino 'mathêtria' para Tabita, rica en buenas obras y limosnas para las viudas."
+      },
+      {
+        "question": "¿Quién fue Jasón de Tesalónica mencionado en Hechos 17:5-9?",
+        "options": [
+          "Un soldado romano",
+          "La hueste de Pablo y Silas que tuvo que pagar la fianza ante los politarcas tras el motín contra el Evangelio",
+          "El sumo sacerdote de Jerusalén",
+          "Un filósofo de Atenas"
+        ],
+        "correct": 1,
+        "explanation": "Los alborotadores arrastraron a Jason ante los magistrados, gritando: \"¡Estas personas que pusieron el mundo patas arriba también han venido aquí!\"."
+      },
+      {
+        "question": "¿Qué gobernante de la sinagoga de Corinto creyó en el Señor con toda su casa después de la llegada de Pablo (Hechos 18:8)?",
+        "options": [
+          "Sóstene solamente",
+          "Crispo (bautizado por el mismo Pablo según 1 Cor 1:14)",
+          "Galeón",
+          "Jairo"
+        ],
+        "correct": 1,
+        "explanation": "Crispo, jefe de la sinagoga, se convirtió con su casa; Luego, Sóstenes fue derrotado ante el tribunal de Galión."
+      },
+      {
+        "question": "¿Quién era Gayo en los escritos de Pablo y Juan?",
+        "options": [
+          "Un emperador romano convertido",
+          "Un anfitrión generoso de Pablo en Corinto (Romanos 16:23) y/o el fiel destinatario de la tercera epístola de Juan.",
+          "Un fariseo de Jerusalén",
+          "Un rey de Siria"
+        ],
+        "correct": 1,
+        "explanation": "Pablo elogia a Gayo como \"mi anfitrión y el de toda la Iglesia\", y Juan elogia a Gayo por su caminar en la verdad y su hospitalidad."
+      },
+      {
+        "question": "¿Qué fiel compañero de Pablo enviado por los filipenses cayó gravemente enfermo y murió al servicio del apóstol?",
+        "options": [
+          "Epafras",
+          "Epafrodito (Filipenses 2:25-30)",
+          "Tíquico",
+          "Onesíforo"
+        ],
+        "correct": 1,
+        "explanation": "Pablo lo envía de regreso a Filipos con la carta para aliviar su preocupación y honrarlo por su dedicación."
+      },
+      {
+        "question": "¿Qué cristiano de Efeso buscó diligentemente a Pablo en Roma sin avergonzarse de sus cadenas y muchas veces lo refrescaba (2 Timoteo 1:16-18)?",
+        "options": [
+          "demas",
+          "Onesíforo",
+          "Alejandro",
+          "Himeneo"
+        ],
+        "correct": 1,
+        "explanation": "Si bien muchos en Asia se habían alejado de Pablo, Onesíforo demostró una valiente lealtad hasta el final."
+      },
+      {
+        "question": "¿Quiénes fueron Himeneo y Fileto mencionados en 2 Timoteo 2:17-18?",
+        "options": [
+          "Dos diáconos fieles",
+          "Dos falsos maestros que se desviaron de la verdad al afirmar que 'la resurrección ya vino', volcando la fe de muchos",
+          "Dos reyes de Galacia",
+          "dos angeles"
+        ],
+        "correct": 1,
+        "explanation": "Su error pregnóstico espiritualizó la resurrección y negó la futura resurrección corporal."
+      },
+      {
+        "question": "¿Qué personaje del Antiguo Testamento se presenta en Judas 9 en una discusión con el diablo sobre su cuerpo?",
+        "options": [
+          "Enoc",
+          "Moisés (disputa entre el arcángel Miguel y el diablo)",
+          "Abrahán",
+          "Elías"
+        ],
+        "correct": 1,
+        "explanation": "Judas señala que ni siquiera el arcángel Miguel se atrevió a pronunciar un juicio insultante, sino que dijo: '¡Que el Señor os reprenda!'"
+      },
+      {
+        "question": "¿Qué profeta del Nuevo Testamento se menciona como el autor del Apocalipsis y del cuarto evangelio, pero qué característica única tiene en su evangelio?",
+        "options": [
+          "Firma su nombre en cada capítulo.",
+          "Nunca se dirige a sí mismo por su propio nombre, refiriéndose discretamente a sí mismo como \"el discípulo a quien Jesús amaba\".",
+          "Era hermano de Pedro.",
+          "Él era un fariseo en Roma."
+        ],
+        "correct": 1,
+        "explanation": "Esta discreción literaria (Juan 13:23; 19:26; 21:20-24) pone toda la luz sólo en Jesús."
+      },
+      {
+        "question": "¿Quién era Abigail en relación con los reyes de Israel y qué lección teológica ilustra su discurso a David (1 Samuel 25:26-31)?",
+        "options": [
+          "Ella animó a David a vengarse rápidamente.",
+          "Ella evitó que David derramara sangre inocente recordándole que el Señor construiría su casa y que su vida se guardaría en 'el haz de los vivos'.",
+          "Ella traiciona a David por Saúl",
+          "Ella era reina de Egipto."
+        ],
+        "correct": 1,
+        "explanation": "David bendice a Dios por enviar a Abigail a su encuentro para impedirle la venganza personal."
+      },
+      {
+        "question": "¿Qué rey de Israel mostró gran arrepentimiento después de la profecía de Jonás a Nínive?",
+        "options": [
+          "El Rey de Asiria (Rey de Nínive)",
+          "El rey de Egipto",
+          "El rey de Babilonia",
+          "El rey de Tiro"
+        ],
+        "correct": 0,
+        "explanation": "Al escuchar la predicación de Jonás, el rey de Nínive descendió de su trono, se cubrió de cilicio y ordenó un ayuno de arrepentimiento (Jonás 3:6-9)."
+      },
+      {
+        "question": "¿Qué personaje del Antiguo Testamento se presenta explícitamente en el pasaje de 1 Samuel 9:9 que explica que una vez el profeta fue llamado 'vidente'?",
+        "options": [
+          "Goliat",
+          "Samuel (el antiguo término 'vidente' se refería al profeta)",
+          "Saúl",
+          "joab"
+        ],
+        "correct": 1,
+        "explanation": "1 Samuel 9:9 explica una transición en la terminología: \"El que ahora se llama profeta, antes se llamaba vidente\"."
+      },
+      {
+        "question": "¿Qué personaje del Antiguo Testamento oró para que el sol estuviera sobre Gabaón y la luna sobre el valle de Ayalón?",
+        "options": [
+          "Moisés",
+          "Josué (Josué 10:12-14)",
+          "Gedeón",
+          "David"
+        ],
+        "correct": 1,
+        "explanation": "El Señor escuchó la voz de un hombre y peleó por Israel aquel día."
+      },
+      {
+        "question": "¿Quién era Aarón en relación con los privilegios y limitaciones del sacerdocio del antiguo pacto según Hebreos 5 y 7?",
+        "options": [
+          "Un sacerdote eterno sin pecado",
+          "Un sumo sacerdote mortal y débil que tenía que ofrecer sacrificios primero por sus propios pecados antes que por los del pueblo, a diferencia del Cristo sin pecado.",
+          "Un rey de Judá",
+          "Un profeta de Nínive"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos 7:26-28 contrasta la debilidad de los sacerdotes mortales del linaje de Aarón con el Hijo hecho perfecto para la eternidad."
+      },
+      {
+        "question": "¿Qué personaje del Nuevo Testamento se describe en Hechos 13:1 entre los profetas y maestros de Antioquía como 'resucitado con Herodes el tetrarca'?",
+        "options": [
+          "Lucio de Cirene",
+          "Manahem (Menahem)",
+          "Simeón llamado Níger",
+          "Bernabé"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 13:1 muestra la notable diversidad social y geográfica del liderazgo de Antioquía (desde el aristócrata Manahem hasta el africano Simeón Níger y Lucio de Cirene)."
       }
     ]
   }

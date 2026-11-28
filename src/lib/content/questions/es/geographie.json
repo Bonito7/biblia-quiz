@@ -165,6 +165,523 @@
         ],
         "correct": 0,
         "explanation": "El lago Tiberíades, también llamado mar de Galilea o lago de Genesaret, fue el centro del ministerio de Jesús en Galilea."
+      },
+      {
+        "question": "¿En qué ciudad vivía María cuando el ángel Gabriel le anunció el nacimiento de Jesús?",
+        "options": [
+          "Belén",
+          "Nazaret",
+          "Jerusalén",
+          "Cafarnaúm"
+        ],
+        "correct": 1,
+        "explanation": "El ángel Gabriel fue enviado a Nazaret, un pueblo de Galilea, a María (Lucas 1:26-27)."
+      },
+      {
+        "question": "¿En qué ciudad está el estanque de Siloé donde Jesús curó a un ciego de nacimiento?",
+        "options": [
+          "Samaria",
+          "Jerusalén",
+          "Jericó",
+          "Cafarnaúm"
+        ],
+        "correct": 1,
+        "explanation": "Jesús envió al ciego de nacimiento a lavarse en el estanque de Siloé en Jerusalén (Juan 9:7)."
+      },
+      {
+        "question": "¿Qué ciudad fue destruida junto con Sodoma por fuego y azufre?",
+        "options": [
+          "Jericó",
+          "gomorra",
+          "Nínive",
+          "Babilonia"
+        ],
+        "correct": 1,
+        "explanation": "Dios hizo llover azufre y fuego sobre Sodoma y Gomorra a causa de su pecado (Génesis 19:24)."
+      },
+      {
+        "question": "¿A qué ciudad fue enviado Jonás por Dios para predicar el arrepentimiento?",
+        "options": [
+          "Babilonia",
+          "Nínive",
+          "Tarso",
+          "Damasco"
+        ],
+        "correct": 1,
+        "explanation": "Dios envió a Jonás a Nínive, la gran capital de Asiria (Jonás 1:2; 3:2)."
+      },
+      {
+        "question": "¿En qué monte fue crucificado Jesús justo fuera de los muros de Jerusalén?",
+        "options": [
+          "Monte Sinaí",
+          "Gólgota (Calvario)",
+          "Monte Carmelo",
+          "Monte Tabor"
+        ],
+        "correct": 1,
+        "explanation": "Jesús fue crucificado en un lugar llamado Gólgota, que significa \"lugar de la Calavera\" (Juan 19:17)."
+      },
+      {
+        "question": "¿En qué pueblo vivían Lázaro, Marta y María, los amigos de Jesús?",
+        "options": [
+          "Nazaret",
+          "Betania",
+          "Caná",
+          "Emaús"
+        ],
+        "correct": 1,
+        "explanation": "Lázaro, Marta y María vivían en Betania, cerca de Jerusalén (Juan 11:1)."
+      },
+      {
+        "question": "¿En qué pueblo de Galilea realizó Jesús su primer milagro en una boda?",
+        "options": [
+          "Cafarnaúm",
+          "Caná",
+          "Tiberíades",
+          "magdala"
+        ],
+        "correct": 1,
+        "explanation": "Jesús transformó el agua en vino en las bodas de Caná de Galilea (Juan 2:1-11)."
+      },
+      {
+        "question": "¿Qué río cruza Egipto y dónde colocaron al bebé Moisés en una canasta?",
+        "options": [
+          "El Jordán",
+          "el tigre",
+          "El Nilo",
+          "El Éufrates"
+        ],
+        "correct": 2,
+        "explanation": "La madre de Moisés colocó la canasta de juncos entre los juncos a orillas del Nilo (Éxodo 2:3)."
+      },
+      {
+        "question": "¿En qué ciudad se derrumbaron los muros ante los israelitas liderados por Josué?",
+        "options": [
+          "Hebrón",
+          "Jericó",
+          "Capilla para marinos",
+          "Siquem"
+        ],
+        "correct": 1,
+        "explanation": "Los muros de Jericó cayeron después de que el pueblo los circunnavegó (Josué 6:20)."
+      },
+      {
+        "question": "¿Qué región del sur de Israel albergaba a Jerusalén y Belén en la época de Jesús?",
+        "options": [
+          "Galilea",
+          "Samaria",
+          "Judea",
+          "La Decápolis"
+        ],
+        "correct": 2,
+        "explanation": "Jerusalén y Belén están en Judea, en el sur del país (Mateo 2:1)."
+      },
+      {
+        "question": "¿En qué región del norte creció Jesús y realizó la mayoría de sus milagros?",
+        "options": [
+          "Judea",
+          "Galilea",
+          "Idumea",
+          "Perea"
+        ],
+        "correct": 1,
+        "explanation": "Jesús creció en Nazaret y llevó a cabo la mayor parte de su ministerio en Galilea (Mateo 4:23)."
+      },
+      {
+        "question": "¿Qué región estaba entre Judea al sur y Galilea al norte?",
+        "options": [
+          "Samaria",
+          "Fenicia",
+          "Siria",
+          "Cilicia"
+        ],
+        "correct": 0,
+        "explanation": "Samaria estaba entre Judea y Galilea; Jesús lo cruzó notablemente en Sicar (Juan 4:4)."
+      },
+      {
+        "question": "¿Cómo se llama la colina al este de Jerusalén donde Jesús oró y ascendió al cielo?",
+        "options": [
+          "Monte Sión",
+          "El Monte de los Olivos",
+          "Monte Carmelo",
+          "Monte Nebo"
+        ],
+        "correct": 1,
+        "explanation": "El Monte de los Olivos mira hacia el Templo de Jerusalén; aquí estaba ubicado Getsemaní y el lugar de la Ascensión (Hechos 1:12)."
+      },
+      {
+        "question": "¿Dónde vio Moisés la zarza ardiente que no se consumía?",
+        "options": [
+          "A orillas del Jordán",
+          "En Horeb (Monte Sinaí)",
+          "A Jericó",
+          "En Hebrón"
+        ],
+        "correct": 1,
+        "explanation": "Moisés estaba conduciendo el rebaño al monte de Dios en Horeb cuando vio la zarza ardiendo (Éxodo 3:1-2)."
+      },
+      {
+        "question": "¿En qué montaña contempló Moisés la Tierra Prometida antes de morir?",
+        "options": [
+          "Monte Carmelo",
+          "Monte Nebo",
+          "Monte Tabor",
+          "Monte Hermón"
+        ],
+        "correct": 1,
+        "explanation": "Moisés subió al monte Nebo (cumbre del Pisga) frente a Jericó para ver Canaán antes de su muerte (Deuteronomio 34:1)."
+      },
+      {
+        "question": "¿En qué ciudad nació Saulo de Tarso (el apóstol Pablo)?",
+        "options": [
+          "Antioquía",
+          "Tarso en Cilicia",
+          "Éfeso",
+          "Corinto"
+        ],
+        "correct": 1,
+        "explanation": "El propio Pablo se declara \"judío, de Tarso de Cilicia\" (Hechos 21:39)."
+      },
+      {
+        "question": "¿En qué ciudad los discípulos fueron llamados \"cristianos\" por primera vez?",
+        "options": [
+          "Jerusalén",
+          "Antioquía de Siria",
+          "Roma",
+          "Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Fue en Antioquía donde los discípulos fueron llamados cristianos por primera vez (Hechos 11:26)."
+      },
+      {
+        "question": "¿En qué ciudad estableció David su primera capital durante 7 años antes de Jerusalén?",
+        "options": [
+          "Belén",
+          "Hebrón",
+          "Siquem",
+          "Capilla para marinos"
+        ],
+        "correct": 1,
+        "explanation": "David primero reinó 7 años y 6 meses en Hebrón sobre Judá antes de conquistar Jerusalén (2 Samuel 5:5)."
+      },
+      {
+        "question": "¿Dónde construyeron los israelitas la Torre que provocó la confusión de idiomas?",
+        "options": [
+          "En Nínive",
+          "En Babel (Babilonia)",
+          "en ur",
+          "en jerusalén"
+        ],
+        "correct": 1,
+        "explanation": "Los hombres construyeron la torre en la llanura de Sinar; el lugar se llamó Babel (Génesis 11:2-9)."
+      },
+      {
+        "question": "¿En qué desierto vivían los israelitas 40 años después del Éxodo?",
+        "options": [
+          "El desierto del Sahara",
+          "El desierto del Sinaí y Paran",
+          "El desierto del centro de Arabia Saudita",
+          "El desierto de Gobi"
+        ],
+        "correct": 1,
+        "explanation": "Viajaron por los desiertos de Shur, Sin, Sinaí, Parán y Zin (Éxodo, Números)."
+      },
+      {
+        "question": "¿Qué aldea estaba a unas 7 millas de Jerusalén donde Jesús resucitado caminó con dos discípulos?",
+        "options": [
+          "Betania",
+          "Emaús",
+          "Caná",
+          "Capilla para marinos"
+        ],
+        "correct": 1,
+        "explanation": "Dos discípulos iban camino a la aldea de Emaús cuando Jesús resucitado caminó con ellos (Lucas 24:13)."
+      },
+      {
+        "question": "¿En qué ciudad Zaqueo, el principal recaudador de impuestos, trepó a un sicomoro?",
+        "options": [
+          "Jerusalén",
+          "Jericó",
+          "Cafarnaúm",
+          "Betsaida"
+        ],
+        "correct": 1,
+        "explanation": "Jesús estaba pasando por Jericó cuando llamó a Zaqueo para que bajara de su sicomoro (Lucas 19:1-5)."
+      },
+      {
+        "question": "¿Qué mar muy salado se encuentra en el extremo sur del río Jordán?",
+        "options": [
+          "El Mar de Galilea",
+          "El Mar Muerto (Mar Salado)",
+          "El Mar Rojo",
+          "El Mar Negro"
+        ],
+        "correct": 1,
+        "explanation": "El Jordán desemboca en el Mar Muerto, también llamado Mar Salado o Mar de Araba en la Biblia (Génesis 14:3)."
+      },
+      {
+        "question": "¿En qué ciudad de Judea nació David y cuidaba los rebaños?",
+        "options": [
+          "Hebrón",
+          "Belén",
+          "Jerusalén",
+          "Gaza"
+        ],
+        "correct": 1,
+        "explanation": "David era hijo de Jesé de Belén, también llamada la 'ciudad de David' (1 Samuel 16:1; Lucas 2:4)."
+      },
+      {
+        "question": "¿Qué ciudad importante del Imperio Romano fue el destino final del último viaje de Pablo en Hechos?",
+        "options": [
+          "Atenas",
+          "Alejandría",
+          "Roma",
+          "Antioquía"
+        ],
+        "correct": 2,
+        "explanation": "Pablo apeló al César y fue llevado a Roma (Hechos 28:14-16)."
+      },
+      {
+        "question": "¿En qué ciudad griega predicó Pablo ante el tribunal del Areópago?",
+        "options": [
+          "Corinto",
+          "Atenas",
+          "Filipos",
+          "Salónica"
+        ],
+        "correct": 1,
+        "explanation": "Pablo habló a los filósofos atenienses en medio del Areópago de Atenas (Hechos 17:22)."
+      },
+      {
+        "question": "¿Dónde fue llevado cautivo el profeta Daniel en su juventud?",
+        "options": [
+          "En Egipto",
+          "en babilonia",
+          "En Nínive",
+          "en roma"
+        ],
+        "correct": 1,
+        "explanation": "Daniel fue deportado a Babilonia bajo el rey Nabucodonosor (Daniel 1:1-6)."
+      },
+      {
+        "question": "¿En qué ciudad perdió Sansón sus fuerzas y provocó el colapso del templo de Dagón?",
+        "options": [
+          "Asdod",
+          "Gaza",
+          "Ascalón",
+          "Ecrón"
+        ],
+        "correct": 1,
+        "explanation": "Los filisteos encarcelaron a Sansón en Gaza, donde derribó los pilares del templo (Jueces 16:21-30)."
+      },
+      {
+        "question": "¿Qué país gobernó la reina que vino a probar la sabiduría de Salomón?",
+        "options": [
+          "Egipto",
+          "Sabá",
+          "Persia",
+          "Sólo la Etiopía moderna"
+        ],
+        "correct": 1,
+        "explanation": "La reina de Saba vino a Jerusalén con especias y oro para escuchar a Salomón (1 Reyes 10:1)."
+      },
+      {
+        "question": "¿En qué ciudad del norte de Galilea vivían Pedro y Andrés durante la época del ministerio de Jesús?",
+        "options": [
+          "Belén",
+          "Cafarnaúm",
+          "Jericó",
+          "Betania"
+        ],
+        "correct": 1,
+        "explanation": "Jesús permanecía a menudo en Capernaum, donde estaba ubicada la casa de Simón Pedro (Marcos 1:29; 2:1)."
+      },
+      {
+        "question": "¿A qué país descendieron Abraham y Sara cuando una hambruna azotó Canaán?",
+        "options": [
+          "en babilonia",
+          "En Egipto",
+          "en persia",
+          "En Grecia"
+        ],
+        "correct": 1,
+        "explanation": "Una hambruna en Canaán hizo que Abraham fuera a Egipto (Génesis 12:10)."
+      },
+      {
+        "question": "¿Sobre qué montaña estaban los israelitas cuando Josué renovó el pacto entre Ebal y Gerizim?",
+        "options": [
+          "Monte Sinaí",
+          "Monte Gerizim y Monte Ebal",
+          "Monte Carmelo",
+          "Monte Sión"
+        ],
+        "correct": 1,
+        "explanation": "Moisés luego Josué colocó las tribus frente a los montes Gerizim (bendición) y Ebal (maldición) cerca de Siquem (Josué 8:33)."
+      },
+      {
+        "question": "¿En qué ciudad sanó Jesús a un paralítico que se había caído de un tejado?",
+        "options": [
+          "Jerusalén",
+          "Cafarnaúm",
+          "Belén",
+          "Nazaret"
+        ],
+        "correct": 1,
+        "explanation": "Fue en Cafarnaúm donde cuatro hombres abrieron el techo para bajar al paralítico delante de Jesús (Marcos 2:1-5)."
+      },
+      {
+        "question": "¿En qué río tuvo que sumergirse Naamán el sirio 7 veces para curarse de su lepra?",
+        "options": [
+          "La Abaña",
+          "el farpar",
+          "El Jordán",
+          "El Éufrates"
+        ],
+        "correct": 2,
+        "explanation": "Eliseo ordenó a Naamán que se lavara siete veces en el Jordán (2 Reyes 5:10-14)."
+      },
+      {
+        "question": "¿En qué ciudad portuaria se embarcó Jonás para huir a Tarsis?",
+        "options": [
+          "Neumático",
+          "Sidón",
+          "Jaffa (Joppa)",
+          "Cesarea"
+        ],
+        "correct": 2,
+        "explanation": "Jonás descendió a Jaffa (Joppa) y encontró un barco con destino a Tarsis (Jonás 1:3)."
+      },
+      {
+        "question": "¿En qué ciudad tuvo Pedro la visión del mantel que descendía del cielo sobre la terraza de Simón el peletero?",
+        "options": [
+          "Cesarea",
+          "Jaffa (Joppa)",
+          "Jerusalén",
+          "lida"
+        ],
+        "correct": 1,
+        "explanation": "Pedro estaba alojado con Simón el curtidor en Jope cuando recibió la visión antes de ir a Cornelio (Hechos 10:5-16)."
+      },
+      {
+        "question": "¿En qué ciudad residió el centurión romano Cornelio bautizado por Pedro?",
+        "options": [
+          "Jerusalén",
+          "Cesarea Marítima",
+          "Tarso",
+          "Antioquía"
+        ],
+        "correct": 1,
+        "explanation": "Cornelio, centurión de la llamada cohorte italiana, residía en Cesarea Marítima (Hechos 10:1)."
+      },
+      {
+        "question": "¿Qué jardín plantó Dios 'en el Edén, al lado oriental' para colocar allí al hombre?",
+        "options": [
+          "El Huerto de Getsemaní",
+          "El jardín del Edén",
+          "El jardín del rey",
+          "El valle de Akor"
+        ],
+        "correct": 1,
+        "explanation": "Jehová Dios plantó un jardín en Edén, al lado oriental, y puso allí al hombre (Génesis 2:8)."
+      },
+      {
+        "question": "¿En qué ciudad se establecieron Rut y Noemí al regresar de Moab?",
+        "options": [
+          "Jerusalén",
+          "Belén",
+          "Hebrón",
+          "Jericó"
+        ],
+        "correct": 1,
+        "explanation": "Noemí y su nuera Rut regresaron a Belén al comienzo de la cosecha de cebada (Rut 1:22)."
+      },
+      {
+        "question": "¿Qué país fue la patria original de Rut?",
+        "options": [
+          "Egipto",
+          "Moab",
+          "Edom",
+          "Siria"
+        ],
+        "correct": 1,
+        "explanation": "Rut era moabita, de la tierra de Moab al este del Mar Muerto (Rut 1:4)."
+      },
+      {
+        "question": "¿En qué ciudad se reunieron los primeros discípulos en el 'cenar superior' en Pentecostés?",
+        "options": [
+          "Belén",
+          "Jerusalén",
+          "Nazaret",
+          "Antioquía"
+        ],
+        "correct": 1,
+        "explanation": "Jesús había ordenado a los apóstoles que no salieran de Jerusalén hasta la promesa del Padre (Hechos 1:4; 2:1)."
+      },
+      {
+        "question": "¿En qué valle se enfrentó David a Goliat?",
+        "options": [
+          "Valle de Cedrón",
+          "El valle de Ela (de los Terebintos)",
+          "El valle de Jezreel",
+          "El valle de Josafat"
+        ],
+        "correct": 1,
+        "explanation": "Los filisteos e Israel acamparon uno frente al otro en el valle de Ela/Terebintos (1 Samuel 17:2)."
+      },
+      {
+        "question": "¿Dónde se encontró Jesús con la mujer samaritana junto al pozo de Jacob?",
+        "options": [
+          "En Samaria",
+          "A Sicar",
+          "En Cafarnaúm",
+          "En Tiberíades"
+        ],
+        "correct": 1,
+        "explanation": "Jesús se detuvo junto al pozo de Jacob en Sicar, Samaria (Juan 4:5-6)."
+      },
+      {
+        "question": "¿Qué lago o mar bordea la ciudad de Cafarnaúm?",
+        "options": [
+          "El Mar Muerto",
+          "El Mar de Galilea (Lago de Genesaret)",
+          "El Mar Rojo",
+          "El mar Caspio"
+        ],
+        "correct": 1,
+        "explanation": "Cafarnaúm estaba situada en la orilla noroeste del mar de Galilea, también llamado lago de Genesaret o Tiberíades."
+      },
+      {
+        "question": "¿En qué ciudad de Asia Menor se encontraba el inmenso templo de Artemisa que provocó un motín contra Pablo?",
+        "options": [
+          "Corinto",
+          "Éfeso",
+          "Filipos",
+          "Esmirna"
+        ],
+        "correct": 1,
+        "explanation": "En Éfeso, el orfebre Demetrio alzó a la multitud gritando: \"¡Grande es Artemisa de los Efesios!\". (Hechos 19:28)."
+      },
+      {
+        "question": "¿En qué isla naufragó Pablo antes de llegar a Roma?",
+        "options": [
+          "Chipre",
+          "Creta",
+          "Malta",
+          "Patmos"
+        ],
+        "correct": 2,
+        "explanation": "Después de 14 días de tormenta, el barco encalló en la isla de Malta, donde una víbora mordió a Pablo sin causarle daño (Hechos 28:1-5)."
+      },
+      {
+        "question": "¿Qué montaña domina el suroeste de Jerusalén y suele ser sinónimo de la ciudad de David?",
+        "options": [
+          "Monte Carmelo",
+          "Monte Sión",
+          "Monte Tabor",
+          "Monte Gerizim"
+        ],
+        "correct": 1,
+        "explanation": "David capturó la fortaleza de Sión, que se convirtió en la ciudad de David (2 Samuel 5:7)."
       }
     ],
     "intermediaire": [
@@ -332,6 +849,523 @@
         ],
         "correct": 1,
         "explanation": "Las 7 Iglesias (Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia, Laodicea) estaban todas en Asia Menor (Apocalipsis 1:11)."
+      },
+      {
+        "question": "¿En qué ciudad de Egipto construyeron los israelitas ciudades-almacén para Faraón?",
+        "options": [
+          "Menfis y Tebas",
+          "Pitón y Ramsés",
+          "Alejandría y Guiza",
+          "Luxor y Asuán"
+        ],
+        "correct": 1,
+        "explanation": "Los israelitas construyeron las ciudades almacén de Pitón y Ramsés para el faraón (Éxodo 1:11)."
+      },
+      {
+        "question": "¿Qué región de Egipto asignó Faraón a Jacob y su familia?",
+        "options": [
+          "Alto Egipto",
+          "La tierra de Gosen",
+          "Sinaí",
+          "Nubia"
+        ],
+        "correct": 1,
+        "explanation": "José instaló a su padre y a sus hermanos en la mejor tierra de Egipto, la tierra de Gosén (Génesis 47:6)."
+      },
+      {
+        "question": "¿En qué ciudad Josué estableció por primera vez el Tabernáculo después de la conquista de Canaán?",
+        "options": [
+          "Jerusalén",
+          "Silo",
+          "Hebrón",
+          "Capilla para marinos"
+        ],
+        "correct": 1,
+        "explanation": "Toda la congregación de Israel se reunió en Siló y plantó allí la Tienda de Reunión (Josué 18:1)."
+      },
+      {
+        "question": "¿En qué ciudad fue colocada el Arca del Pacto con Abinadab después de su regreso de los filisteos?",
+        "options": [
+          "Silo",
+          "Quiriat-jearim",
+          "Cabeza",
+          "Gabaón"
+        ],
+        "correct": 1,
+        "explanation": "El pueblo de Quiriat-jearim llevó el Arca a la casa de Abinadab en la colina (1 Samuel 7:1)."
+      },
+      {
+        "question": "¿A dónde fue Salomón al comienzo de su reinado para ofrecer mil holocaustos y recibir sabiduría?",
+        "options": [
+          "Jerusalén",
+          "Gabaón",
+          "Hebrón",
+          "Capilla para marinos"
+        ],
+        "correct": 1,
+        "explanation": "Salomón fue a Gabaón a sacrificar, donde estaban el gran lugar alto y el altar de bronce (1 Reyes 3:4-5)."
+      },
+      {
+        "question": "¿Cuáles dos ciudades escogió Jeroboam para instalar sus becerros de oro?",
+        "options": [
+          "Samaria y Siquem",
+          "Betel y Dan",
+          "Jericó y Hebrón",
+          "Gaza y Asdod"
+        ],
+        "correct": 1,
+        "explanation": "Para impedir que el pueblo subiera a Jerusalén, Jeroboam colocó un becerro de oro en Betel (sur) y otro en Dan (norte) (1 Reyes 12:29)."
+      },
+      {
+        "question": "¿En qué ciudad fenicia se quedó Elías con una viuda durante la hambruna?",
+        "options": [
+          "Neumático",
+          "Sarepta",
+          "Sidón",
+          "Biblos"
+        ],
+        "correct": 1,
+        "explanation": "Dios envió a Elías a Sarepta, ciudad de Sidón, a una viuda a la que no le faltaba harina ni aceite (1 Reyes 17:9)."
+      },
+      {
+        "question": "¿Cuál era la residencia real de verano de los reyes de Israel donde Nabot tenía su viña?",
+        "options": [
+          "Samaria",
+          "Jezreel",
+          "Dan",
+          "Megido"
+        ],
+        "correct": 1,
+        "explanation": "Nabot de Jezreel tenía un viñedo cerca del palacio de Acab en Jezreel (1 Reyes 21:1)."
+      },
+      {
+        "question": "¿En qué montaña lloró David a Saúl y Jonatán, muertos en batalla?",
+        "options": [
+          "Monte Carmelo",
+          "Monte Gilboa",
+          "Monte Tabor",
+          "Monte Hermón"
+        ],
+        "correct": 1,
+        "explanation": "Saúl y sus hijos perecieron en el monte Gilboa contra los filisteos (1 Samuel 31:1-8)."
+      },
+      {
+        "question": "¿En qué cueva o región desértica se escondió David cuando perdonó la vida a Saúl?",
+        "options": [
+          "La cueva de Qumrán",
+          "En-Guédi (y la cueva de Adulam)",
+          "Monte Nebo",
+          "El valle de Siquem"
+        ],
+        "correct": 1,
+        "explanation": "David se refugió en las fortalezas de Engedi cerca del Mar Muerto, donde cortó un trozo del manto de Saúl (1 Samuel 24)."
+      },
+      {
+        "question": "¿En qué lugar preciso del desierto de Etiopía o Palestina fue bautizado por Felipe el eunuco etíope?",
+        "options": [
+          "En la carretera desierta de Jerusalén a Gaza",
+          "En Damasco",
+          "En Antioquía",
+          "A orillas del Nilo"
+        ],
+        "correct": 0,
+        "explanation": "El ángel envió a Felipe por el camino que desciende de Jerusalén a Gaza, un camino que está desierto (Hechos 8:26)."
+      },
+      {
+        "question": "¿En qué ciudad de Macedonia Pablo convirtió a Lidia y fue encarcelado con Silas?",
+        "options": [
+          "Salónica",
+          "Filipos",
+          "Berea",
+          "Corinto"
+        ],
+        "correct": 1,
+        "explanation": "En Filipos, la primera ciudad romana de Macedonia visitada por Pablo, Lidia creyó y un carcelero se convirtió después del terremoto (Hechos 16)."
+      },
+      {
+        "question": "¿Qué personas de un pueblo macedonio examinaban las Escrituras diariamente para verificar las palabras de Pablo?",
+        "options": [
+          "los filipenses",
+          "Los bereanos",
+          "los corintios",
+          "Los atenienses"
+        ],
+        "correct": 1,
+        "explanation": "Los judíos de Berea tenían sentimientos más nobles que los de Tesalónica y escudriñaban las Escrituras a diario (Hechos 17:11)."
+      },
+      {
+        "question": "¿En qué región del sureste de Judea se encuentra la ciudad de Masada?",
+        "options": [
+          "En Galilea",
+          "Por el Mar Muerto",
+          "En la costa mediterránea",
+          "En Samaria"
+        ],
+        "correct": 1,
+        "explanation": "La fortaleza de Masada domina la costa occidental del Mar Muerto."
+      },
+      {
+        "question": "¿Qué región al noreste del Jordán incluía una confederación de diez ciudades helenísticas visitadas por Jesús?",
+        "options": [
+          "Judea",
+          "La Decápolis",
+          "Galilea",
+          "Samaria"
+        ],
+        "correct": 1,
+        "explanation": "La Decápolis ('diez ciudades') se extendía principalmente al este del Jordán y el mar de Galilea (Marcos 5:20; 7:31)."
+      },
+      {
+        "question": "¿En qué zona sanó Jesús al hombre poseído por la 'Legión' y envió a los demonios a una piara de cerdos?",
+        "options": [
+          "Judea",
+          "La tierra de los gadarenos/gerasenos",
+          "Samaria",
+          "Fenicia"
+        ],
+        "correct": 1,
+        "explanation": "Jesús cruzó el mar de Galilea hasta la costa oriental, hacia la tierra de los gerasenos/gadarenitas (Marcos 5:1)."
+      },
+      {
+        "question": "¿En qué pueblo de Fenicia sanó Jesús a la hija de una mujer sirofenicia?",
+        "options": [
+          "En la región de Tiro y Sidón",
+          "A Jericó",
+          "En Hebrón",
+          "En Betel"
+        ],
+        "correct": 0,
+        "explanation": "Jesús se retiró al territorio de Tiro y Sidón donde escuchó la fe de esta mujer (Marcos 7:24-30)."
+      },
+      {
+        "question": "¿Cerca de qué ciudad del norte, en la cabecera del Jordán, confesó Pedro que Jesús es el Cristo?",
+        "options": [
+          "Nazaret",
+          "Cesarea de Filipo",
+          "Cafarnaúm",
+          "Tiberíades"
+        ],
+        "correct": 1,
+        "explanation": "Fue en las aldeas de Cesarea de Filipo, al pie del monte Hermón, donde Pedro hizo su confesión (Mateo 16:13-16)."
+      },
+      {
+        "question": "¿Qué río corría cerca de la ciudad de Susa, donde vivían Nehemías y Ester en la corte persa?",
+        "options": [
+          "El Nilo",
+          "Ulaï (Karkheh)",
+          "El Jordán",
+          "El Tíber"
+        ],
+        "correct": 1,
+        "explanation": "Daniel tuvo una visión en Susa, en la provincia de Elam, junto al río Ulai (Daniel 8:2)."
+      },
+      {
+        "question": "¿En qué ciudad de Mesopotamia vivió Abraham con su padre Taré antes de entrar a Canaán?",
+        "options": [
+          "Nínive",
+          "Ur en Caldea y luego Harán",
+          "Susa",
+          "Damasco"
+        ],
+        "correct": 1,
+        "explanation": "Taré llevó a Abram y a Lot desde Ur en Caldea a Harán, desde donde Abraham partió hacia Canaán (Génesis 11:31-12:4)."
+      },
+      {
+        "question": "¿Qué río bíblico marcaba tradicionalmente la frontera nororiental ideal prometida a Abraham?",
+        "options": [
+          "El Nilo",
+          "El Éufrates",
+          "el tigre",
+          "Los Orontes"
+        ],
+        "correct": 1,
+        "explanation": "Dios prometió a los descendientes de Abraham la tierra \"desde el río de Egipto hasta el gran río, el río Éufrates\" (Génesis 15:18)."
+      },
+      {
+        "question": "¿Qué ciudad fue la capital del reino de Aram (Siria) en el Antiguo Testamento?",
+        "options": [
+          "hamat",
+          "Damasco",
+          "Alepo",
+          "tadmor"
+        ],
+        "correct": 1,
+        "explanation": "Damasco era la capital de Aram-Damasco, a menudo en conflicto o alianza con Israel (1 Reyes 11:24; Isaías 7:8)."
+      },
+      {
+        "question": "¿En qué calle de Damasco Saulo de Tarso recuperó la vista gracias a Ananías?",
+        "options": [
+          "Calle del templo",
+          "La calle llamada la Derecha",
+          "Calle Mercante",
+          "calle del césar"
+        ],
+        "correct": 1,
+        "explanation": "El Señor le dijo a Ananías que fuera a la calle llamada Derecha, a la casa de Judas (Hechos 9:11)."
+      },
+      {
+        "question": "¿Qué isla del Mediterráneo fue la patria de Bernabé y la primera parada del primer viaje misionero?",
+        "options": [
+          "Creta",
+          "Chipre",
+          "Rodas",
+          "Sicilia"
+        ],
+        "correct": 1,
+        "explanation": "Bernabé era de Chipre (Hechos 4:36), donde él y Pablo desembarcaron en Salamina y cruzaron a Pafos (Hechos 13)."
+      },
+      {
+        "question": "¿En qué provincia de Asia Menor estaban ubicadas las ciudades de Iconio, Listra y Derbe?",
+        "options": [
+          "macedonia",
+          "Galacia (Licaonia/Frigia)",
+          "Acaya",
+          "Bitinia"
+        ],
+        "correct": 1,
+        "explanation": "Iconio, Listra y Derbe pertenecían a la provincia romana de Galacia del Sur durante el primer viaje de Pablo (Hechos 14)."
+      },
+      {
+        "question": "¿En qué ciudad fueron confundidos Pablo y Bernabé con Zeus y Hermes después de sanar a un cojo?",
+        "options": [
+          "Antioquía de Pisidia",
+          "Listra",
+          "iconio",
+          "Tarso"
+        ],
+        "correct": 1,
+        "explanation": "En Listra, la multitud quería ofrecerles sacrificios, llamándolos Zeus (Bernabé) y Hermes (Pablo) (Hechos 14:11-12)."
+      },
+      {
+        "question": "¿Dónde recibió Ezequiel sus visiones entre los judíos exiliados en Babilonia?",
+        "options": [
+          "A orillas del Nilo",
+          "A orillas del río Kebar",
+          "A orillas del Jordán",
+          "Por el Mar Muerto"
+        ],
+        "correct": 1,
+        "explanation": "Ezequiel estaba entre los cautivos cerca del río Quebar (un canal del Éufrates) cuando los cielos se abrieron (Ezequiel 1:1)."
+      },
+      {
+        "question": "¿Qué ciudad en el extremo norte de Israel dio la expresión bíblica 'desde Dan hasta ___'?",
+        "options": [
+          "Jericó",
+          "Cerveza Saba",
+          "Hebrón",
+          "Gaza"
+        ],
+        "correct": 1,
+        "explanation": "'Desde Dan hasta Beerseba' significaba toda la extensión de Israel, desde el extremo norte hasta el sur del Néguev (Jueces 20:1)."
+      },
+      {
+        "question": "¿Qué desierto árido se encuentra al sur de Judea, alrededor de Beerseba?",
+        "options": [
+          "Sinaí",
+          "El Néguev",
+          "Líbano",
+          "carmelo"
+        ],
+        "correct": 1,
+        "explanation": "El Néguev ('seco/sur') es la región semidesértica donde Abraham e Isaac vivieron alrededor de Beersheba (Génesis 20:1)."
+      },
+      {
+        "question": "¿Qué ciudad costera fue construida por Herodes el Grande y se convirtió en la capital administrativa romana de Judea?",
+        "options": [
+          "Jaffa",
+          "Cesarea Marítima",
+          "Ascalón",
+          "Acre"
+        ],
+        "correct": 1,
+        "explanation": "Cesarea Marítima fue el hogar de prefectos y procuradores romanos como Pilato, Félix y Festo (Hechos 23:23)."
+      },
+      {
+        "question": "¿En qué ciudad construyó Herodes el Grande el palacio-fortaleza de Herodión y fue enterrado?",
+        "options": [
+          "Norte de Nazaret",
+          "Al sur de Jerusalén, cerca de Belén",
+          "En Cafarnaúm",
+          "en gaza"
+        ],
+        "correct": 1,
+        "explanation": "Herodión es una colina artificial situada a unos 12 km al sur de Jerusalén, cerca de Belén."
+      },
+      {
+        "question": "¿Qué río separa a Jerusalén del Monte de los Olivos?",
+        "options": [
+          "El Jordán",
+          "El torrente Cedrón",
+          "El Cisón",
+          "El Yabbok"
+        ],
+        "correct": 1,
+        "explanation": "Jesús cruzó el río Cedrón con sus discípulos hasta el huerto de Getsemaní (Juan 18:1)."
+      },
+      {
+        "question": "¿Cerca de qué arroyo luchó Jacob toda la noche con un extraño antes de encontrar a Esaú?",
+        "options": [
+          "El Cedrón",
+          "El Yabbok",
+          "El Arnón",
+          "El Cisón"
+        ],
+        "correct": 1,
+        "explanation": "Jacob cruzó el Jaboc (afluente oriental del Jordán) y allí recibió el nombre de Israel (Génesis 32:22-28)."
+      },
+      {
+        "question": "¿Qué alta montaña cubierta de nieve marca la frontera norte de Israel?",
+        "options": [
+          "Monte Tabor",
+          "Monte Hermón",
+          "Monte Carmelo",
+          "Monte Nebo"
+        ],
+        "correct": 1,
+        "explanation": "El monte Hermón (2.814 m) domina el norte de Israel y alimenta las fuentes del Jordán (Salmo 133:3)."
+      },
+      {
+        "question": "¿Qué puerto de la isla de Creta recomendó Pablo usar para pasar el invierno antes del naufragio (Hechos 27:8-12)?",
+        "options": [
+          "Pafos",
+          "Puertos finos (Kaloi Limenes)",
+          "patara",
+          "Mileto"
+        ],
+        "correct": 1,
+        "explanation": "Pablo advirtió contra el regreso al mar desde Beaux-Ports en Creta, pero el centurión prefirió intentar llegar a Phoenix."
+      },
+      {
+        "question": "¿En qué ciudad portuaria de Asia Menor se despidió Pablo conmovedoramente de los ancianos de Éfeso (Hechos 20)?",
+        "options": [
+          "Tróade",
+          "Mileto",
+          "Esmirna",
+          "Pérgamo"
+        ],
+        "correct": 1,
+        "explanation": "Para ahorrar tiempo en Asia, Pablo llevó a los ancianos de Éfeso a Mileto (Hechos 20:17)."
+      },
+      {
+        "question": "¿En qué puerto tuvo Pablo la visión del macedonio que le suplicaba: '¡Ve a Macedonia, ayúdanos!' ?",
+        "options": [
+          "Antioquía",
+          "Tróade",
+          "Éfeso",
+          "Corinto"
+        ],
+        "correct": 1,
+        "explanation": "Fue en Troas, en la costa del mar Egeo, donde Pablo recibió el llamado a Europa (Hechos 16:8-10)."
+      },
+      {
+        "question": "¿Cuáles eran los dos puertos que servían a Corinto, convirtiéndola en un importante cruce comercial?",
+        "options": [
+          "Jope y Gaza",
+          "Lechaion (oeste) y Cencreas (este)",
+          "Tiro y Sidón",
+          "Ostia y Pozzuoli"
+        ],
+        "correct": 1,
+        "explanation": "Situada en el istmo, Corinto conectaba el golfo de Corinto (Lechaion) y el golfo Sarónico (Cenchreae, citado en Romanos 16:1)."
+      },
+      {
+        "question": "¿Cómo se llamaba el puerto donde Pablo desembarcó en Italia antes de regresar a Roma (Hechos 28:13)?",
+        "options": [
+          "Ostia",
+          "Pozzuoli (Puteoli)",
+          "Nápoles",
+          "Bríndisi"
+        ],
+        "correct": 1,
+        "explanation": "Pablo desembarcó en Pozzuoli, en la bahía de Nápoles, donde ya encontró hermanos cristianos (Hechos 28:13-14)."
+      },
+      {
+        "question": "¿Qué ciudad era la capital del reino de Edom al sureste del Mar Muerto (a menudo identificada con los acantilados de Petra/Sela)?",
+        "options": [
+          "Sela/Botsra",
+          "Nínive",
+          "Samaria",
+          "Hebrón"
+        ],
+        "correct": 0,
+        "explanation": "Edom ocupó las montañas de Seir con fortalezas como Botzra y Selah (2 Reyes 14:7; Abdías)."
+      },
+      {
+        "question": "¿En qué llanura vio Ezequiel el valle de los huesos secos?",
+        "options": [
+          "La llanura de Sinar",
+          "Un valle/llanura en Babilonia (a menudo conectado con el río Kebar)",
+          "El valle de Josafat",
+          "La llanura de Sharon"
+        ],
+        "correct": 1,
+        "explanation": "El Espíritu llevó a Ezequiel al medio de un valle lleno de huesos en la tierra de los caldeos (Ezequiel 37:1)."
+      },
+      {
+        "question": "¿Qué ciudad cananea del norte fue quemada por Josué después de su victoria sobre el rey Jabín (Josué 11)?",
+        "options": [
+          "Jericó",
+          "hazor",
+          "Gabaón",
+          "Ai"
+        ],
+        "correct": 1,
+        "explanation": "Hazor, que era 'la capital de todos estos reinos', fue tomada y quemada por Josué (Josué 11:10-11)."
+      },
+      {
+        "question": "¿En qué ciudad filistea el Arca de la Alianza derribó la estatua del dios Dagón?",
+        "options": [
+          "Gaza",
+          "Asdod",
+          "gath",
+          "Ascalón"
+        ],
+        "correct": 1,
+        "explanation": "Los filisteos colocaron el Arca en el templo de Dagón en Asdod, donde el ídolo se derrumbó ante ella (1 Samuel 5:1-4)."
+      },
+      {
+        "question": "¿Qué ciudad natal de Goliat fue una de las cinco ciudades de la pentápolis filistea?",
+        "options": [
+          "Gaza",
+          "gath",
+          "Jericó",
+          "Siquem"
+        ],
+        "correct": 1,
+        "explanation": "Goliat era de Gat (1 Samuel 17:4); las cinco ciudades eran Gaza, Asdod, Ascalón, Gat y Ecrón."
+      },
+      {
+        "question": "¿En qué región montañosa estaban ubicadas Silo, Betel y Jerusalén?",
+        "options": [
+          "La llanura costera de Sharon",
+          "La sierra central (montaña de Efraín y Judá)",
+          "El valle del Jordán",
+          "El desierto árabe"
+        ],
+        "correct": 1,
+        "explanation": "La cresta de la montaña central alberga la mayoría de los grandes santuarios y ciudades históricas del Antiguo Testamento."
+      },
+      {
+        "question": "¿En qué ciudad de Judea probablemente nació Juan el Bautista según la tradición (casa de Zacarías e Isabel)?",
+        "options": [
+          "Belén",
+          "Un pueblo en la montaña de Judá (tradicionalmente Ein Kerem)",
+          "Nazaret",
+          "Cafarnaúm"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 1:39 registra que María fue apresuradamente a la región montañosa a un pueblo de Judá (identificado como Ein Kerem)."
+      },
+      {
+        "question": "¿En qué ciudad de los Hechos de los Apóstoles predicó con éxito Felipe el diácono antes de la llegada de Pedro y Juan?",
+        "options": [
+          "Damasco",
+          "Un pueblo en Samaria",
+          "Corinto",
+          "Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Felipe descendió a un pueblo de Samaria y allí proclamó a Cristo con muchas señales (Hechos 8:5-14)."
       }
     ],
     "expert": [
@@ -477,6 +1511,534 @@
         ],
         "correct": 1,
         "explanation": "Casi todos los historiadores identifican \"Babilonia\" en 1 Pedro 5:13 con Roma. Uso similar en el Apocalipsis y en la literatura judía posterior a los años 70 para designar el imperio opresivo."
+      },
+      {
+        "question": "¿Qué valle situado al suroeste de Jerusalén (Ge-Hinnom) dio nombre al término 'Gehena'?",
+        "options": [
+          "Valle de Cedrón",
+          "El valle de Ben-Hinnom",
+          "El valle de Akor",
+          "El valle de Refaim"
+        ],
+        "correct": 1,
+        "explanation": "El valle de Ben-Hinnom, escenario de sacrificios paganos bajo Acaz y Manasés, se convirtió en el símbolo del juicio final (Gehena)."
+      },
+      {
+        "question": "¿Qué término geográfico se refiere a las colinas bajas entre la llanura costera filistea y las montañas de Judá?",
+        "options": [
+          "El Néguev",
+          "La Sefelá",
+          "La Arabá",
+          "Basán"
+        ],
+        "correct": 1,
+        "explanation": "La Sefelá ('tierras bajas') era una zona de amortiguamiento estratégica con fortalezas como Laquis, Azeca y Bet-Semesh."
+      },
+      {
+        "question": "¿Qué fortaleza de Sefelá fue sitiada por Senaquerib en el año 701 a.C.? AD, ¿escena inmortalizada en los bajorrelieves de Nínive?",
+        "options": [
+          "Megido",
+          "Lakish",
+          "Guézer",
+          "hazor"
+        ],
+        "correct": 1,
+        "explanation": "Los bajorrelieves del palacio de Senaquerib en Nínive representan con precisión el asedio de Laquis en el año 701 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué valle o llanura fértil en el norte de Israel conecta la costa mediterránea con el río Jordán y sirve como símbolo del 'Armagedón'?",
+        "options": [
+          "La llanura de Sharon",
+          "La llanura de Jezreel (Esdrelón), dominada por Megido",
+          "Valle de Cedrón",
+          "La llanura de Moab"
+        ],
+        "correct": 1,
+        "explanation": "Armagedón proviene de 'Har-Megiddo' (montaña de Meguido), que domina el acceso a la estratégica llanura de Jezreel (Apocalipsis 16:16)."
+      },
+      {
+        "question": "¿Qué meseta fértil al este del lago Galilea era famosa por sus robles y sus grandes toros en el Antiguo Testamento?",
+        "options": [
+          "El Néguev",
+          "Basán (Golán)",
+          "La Sefelá",
+          "Sinaí"
+        ],
+        "correct": 1,
+        "explanation": "Basán era conocido por sus robles (Isaías 2:13) y sus rebaños vigorosos (Salmo 22:13; Amós 4:1)."
+      },
+      {
+        "question": "¿Qué río marcaba la frontera entre los territorios de Edom/Moab o entre Moab y los amorreos?",
+        "options": [
+          "El Cisón",
+          "El Arnón (Wadi Mujib)",
+          "El Cedrón",
+          "El Besor"
+        ],
+        "correct": 1,
+        "explanation": "El torrente del Arnón, un profundo cañón que desemboca en el Mar Muerto, separó a Moab del reino amorreo de Sehón (Números 21:13)."
+      },
+      {
+        "question": "¿Cuál es la identificación geográfica del 'río de Egipto' (Nahal Mitzraim) en varias fronteras de la AT?",
+        "options": [
+          "Sólo el Nilo",
+          "Wadi el-Arish en el norte del Sinaí",
+          "El Mar Rojo",
+          "El Jordán"
+        ],
+        "correct": 1,
+        "explanation": "En los textos que describen la frontera sur de Canaán (Números 34:5; Josué 15:4), \"el torrente de Egipto\" se refiere a Wadi el-Arish."
+      },
+      {
+        "question": "¿Qué depresión tectónica se extiende desde el lago Galilea hasta el golfo de Aqaba pasando por el mar Muerto?",
+        "options": [
+          "La Sefelá",
+          "Valle del Rift / Araba (Ghor)",
+          "La media luna fértil",
+          "La llanura de Sharon"
+        ],
+        "correct": 1,
+        "explanation": "La gran división del Rift (valle del Jordán y Araba) desciende hasta -430 m en el Mar Muerto antes de unirse al Mar Rojo."
+      },
+      {
+        "question": "¿Qué túnel hidráulico de 533 metros excavado bajo Ezequías conectaba el manantial de Gihón con el estanque de Siloé?",
+        "options": [
+          "acueducto de pilato",
+          "El túnel de Siloé (inscripción de Siloé)",
+          "pozo de jacob",
+          "El canal Warren"
+        ],
+        "correct": 1,
+        "explanation": "Excavado por dos equipos partiendo de extremos opuestos alrededor del 701 a.C. AC, aseguró agua a Jerusalén durante el asedio asirio (2 Crónicas 32:30)."
+      },
+      {
+        "question": "¿Qué ruta comercial internacional recorría la costa mediterránea y luego pasaba por Meguido hasta Damasco?",
+        "options": [
+          "El camino real",
+          "La Via Maris ('Camino del Mar')",
+          "El camino de los patriarcas",
+          "La Vía Apia"
+        ],
+        "correct": 1,
+        "explanation": "La Via Maris conectaba Egipto con Siria y Mesopotamia a través de la llanura costera, Meguido y Galilea (Isaías 9:1)."
+      },
+      {
+        "question": "¿Dónde estaba Étsion-Géber, el puerto marítimo utilizado por la flota de Salomón?",
+        "options": [
+          "En la costa mediterránea cerca de Gaza",
+          "En el fondo del Golfo de Aqaba (Mar Rojo), cerca de Elat",
+          "En el Mar Muerto",
+          "En el lago Tiberíades"
+        ],
+        "correct": 1,
+        "explanation": "Salomón construyó una flota en Etzión-geber, cerca de Elot, a orillas del Mar Rojo (1 Reyes 9:26)."
+      },
+      {
+        "question": "¿Qué región bíblica corresponde a la actual llanura costera entre Jaffa y el Monte Carmelo?",
+        "options": [
+          "La Sefelá",
+          "La llanura de Sharon",
+          "El Néguev",
+          "La Decápolis"
+        ],
+        "correct": 1,
+        "explanation": "La llanura de Sarón era famosa por su fertilidad y flores (Cnt. 2:1; Isaías 35:2)."
+      },
+      {
+        "question": "¿Cuáles eran los nombres de las 6 ciudades especiales repartidas a lo largo del Jordán para proteger contra el homicidio involuntario?",
+        "options": [
+          "Ciudades reales",
+          "Ciudades de refugio (Kedesh, Siquem, Hebrón, Betser, Ramot, Golán)",
+          "Ciudades almacén",
+          "Ciudades de la Decápolis"
+        ],
+        "correct": 1,
+        "explanation": "Dios estableció seis ciudades de refugio, tres al oeste y tres al este del Jordán, accesibles rápidamente desde toda la tierra (Josué 20:7-8)."
+      },
+      {
+        "question": "¿Qué sitio en el desierto de Judea, al noroeste del Mar Muerto, fue el hogar de la comunidad que copió los rollos bíblicos?",
+        "options": [
+          "Masada",
+          "Qumrán",
+          "En-Guédi",
+          "Jericó"
+        ],
+        "correct": 1,
+        "explanation": "Las cuevas de Khirbet Qumran arrojaron los Rollos del Mar Muerto entre 1947 y 1956."
+      },
+      {
+        "question": "¿Qué ciudad del Apocalipsis era conocida por el agua tibia de los acueductos (a diferencia de las aguas termales de Hierápolis y las aguas frías de Colosas)?",
+        "options": [
+          "Éfeso",
+          "Laodicea",
+          "Esmirna",
+          "Filadelfia"
+        ],
+        "correct": 1,
+        "explanation": "La alusión a que el agua no es ni fría ni hirviendo en Apocalipsis 3:15-16 refleja directamente el suministro de agua tibia de Laodicea."
+      },
+      {
+        "question": "¿Qué ciudad entre las 7 iglesias del Apocalipsis albergaba un famoso altar monumental de Zeus ('el trono de Satanás')?",
+        "options": [
+          "Sardis",
+          "Pérgamo",
+          "Tiatira",
+          "Esmirna"
+        ],
+        "correct": 1,
+        "explanation": "Pérgamo (Apocalipsis 2:13) tenía el gran altar de Zeus en su acrópolis, así como un culto imperial temprano."
+      },
+      {
+        "question": "¿Qué ciudad de Asia Menor, receptora del Apocalipsis, fue famosa por sus trabajos de tinte púrpura (patria de Lidia)?",
+        "options": [
+          "Laodicea",
+          "Tiatira",
+          "Sardis",
+          "Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Lidia, una comerciante de púrpuras a quien Pablo conoció en Filipos, era de Tiatira (Hechos 16:14; Apocalipsis 2:18)."
+      },
+      {
+        "question": "¿Por qué camino romano fue escoltado por Pablo por los hermanos que vinieron de Roma al 'Foro de Apio' y las 'Tres Tabernas'?",
+        "options": [
+          "La Vía Egnacia",
+          "La Vía Apia",
+          "La Vía Maris",
+          "El camino real"
+        ],
+        "correct": 1,
+        "explanation": "La Via Appia unía el sur de Italia con Roma; Los cristianos vinieron a encontrarse con Pablo en estos dos puntos de relevo (Hechos 28:15)."
+      },
+      {
+        "question": "¿Qué calzada romana atravesaba Macedonia de este a oeste, conectando Filipos, Tesalónica y el mar Adriático?",
+        "options": [
+          "La Vía Apia",
+          "La Vía Egnacia",
+          "La Vía Sebaste",
+          "El camino real"
+        ],
+        "correct": 1,
+        "explanation": "Pablo tomó la Vía Egnatia en su segundo viaje misionero desde Neapolis/Philippes a Tesalónica (Hechos 16-17)."
+      },
+      {
+        "question": "¿Cómo se llamaba el templo construido por los samaritanos como rival del de Jerusalén?",
+        "options": [
+          "El templo de Betel",
+          "El templo del monte Gerizim",
+          "El templo de Dan",
+          "El templo de Elefantina"
+        ],
+        "correct": 1,
+        "explanation": "Juan 4:20 se refiere a este santuario en el monte Gerizim ('Nuestros padres adoraron en este monte')."
+      },
+      {
+        "question": "¿En qué ciudad real del norte estableció Omri su nueva capital alrededor del año 880 a.C.? ¿ANUNCIO en una colina comprada en Shemer?",
+        "options": [
+          "tirsa",
+          "Samaria (Shomron)",
+          "Siquem",
+          "Dan"
+        ],
+        "correct": 1,
+        "explanation": "Omri compró la colina de Sémer y construyó allí Samaria, que siguió siendo la capital del Reino del Norte hasta el 722 a.C. (1 Reyes 16:24)."
+      },
+      {
+        "question": "¿Qué ciudad fue la antigua capital de Judá antes de Jerusalén, y el lugar de las tumbas de los patriarcas (Makpelah)?",
+        "options": [
+          "Belén",
+          "Hebrón",
+          "Gaza",
+          "Siquem"
+        ],
+        "correct": 1,
+        "explanation": "Abraham compró la cueva de Macpela en Hebrón (Génesis 23), donde fueron enterrados Abraham, Sara, Isaac, Rebeca, Jacob y Lea."
+      },
+      {
+        "question": "¿En qué parte del Templo de Jerusalén la cortina (velo) separaba el Lugar Santo del Lugar Santísimo?",
+        "options": [
+          "En los tribunales de los paganos",
+          "Dentro del santuario (Hekhal/Debir)",
+          "En el Monte de los Olivos",
+          "En el estanque de Betesda"
+        ],
+        "correct": 1,
+        "explanation": "El velo que separaba el Lugar Santo del Lugar Santísimo se rasgó de arriba a abajo en la muerte de Jesús (Marcos 15:38)."
+      },
+      {
+        "question": "¿Qué puerta o estanque de Jerusalén, con cinco pórticos cerca de la Puerta de las Ovejas, se menciona en Juan 5?",
+        "options": [
+          "siloé",
+          "Betesda (Betzata)",
+          "La puerta de Efraín",
+          "Gihón"
+        ],
+        "correct": 1,
+        "explanation": "Las excavaciones arqueológicas cerca de Santa Ana en Jerusalén confirmaron los dos estanques rodeados por cinco pórticos de Betesda (Juan 5:2)."
+      },
+      {
+        "question": "¿Qué pórtico cubierto del Templo de Jerusalén servía como lugar de reunión para los primeros cristianos (Hechos 5:12)?",
+        "options": [
+          "El pórtico de David",
+          "pórtico de salomón",
+          "pórtico de herodes",
+          "Pórtico de Pilato"
+        ],
+        "correct": 1,
+        "explanation": "El pórtico de Salomón, en el lado oriental de la explanada del Templo, acogió las enseñanzas de Jesús (Juan 10:23) y luego las de los apóstoles."
+      },
+      {
+        "question": "¿En qué región de Egipto una colonia militar judía tenía su propio templo yahvista en el siglo V a.C.? ¿ANUNCIO?",
+        "options": [
+          "Alejandría",
+          "Elefantina (Asuán)",
+          "gosen",
+          "Menfis"
+        ],
+        "correct": 1,
+        "explanation": "Los papiros de Elefantina revelan la existencia de una comunidad judía en una isla del Nilo en la frontera sur de Egipto."
+      },
+      {
+        "question": "¿Qué ciudad situada en la orilla oriental del Jordán sirvió de refugio a los cristianos de Jerusalén antes del asedio del año 70 d.C.? ¿BC según Eusebio?",
+        "options": [
+          "Jericó",
+          "Pella (en Decápolis)",
+          "Damasco",
+          "Antioquía"
+        ],
+        "correct": 1,
+        "explanation": "Según Eusebio de Cesarea, los cristianos huyeron de Jerusalén a Pella en Perea/Decápolis antes de la destrucción en el año 70."
+      },
+      {
+        "question": "¿Qué región bíblica corresponde a la Transjordania central, atribuida a las tribus de Rubén y Gad?",
+        "options": [
+          "El Néguev",
+          "Galaad y la llanura de Moab",
+          "Galilea",
+          "Fenicia"
+        ],
+        "correct": 1,
+        "explanation": "La tierra de Galaad, montañosa y boscosa al este del Jordán, fue dividida entre Rubén, Gad y la media tribu de Manasés (Números 32)."
+      },
+      {
+        "question": "¿Qué desierto se encuentra directamente al este de Jerusalén hacia Jericó y el Mar Muerto?",
+        "options": [
+          "El desierto de Judea",
+          "El desierto de Paraná",
+          "El desierto sirio",
+          "El desierto de Libia"
+        ],
+        "correct": 0,
+        "explanation": "El desierto de Judea desciende abruptamente desde los +800 m en Jerusalén hasta los -430 m en el Mar Muerto en unos treinta kilómetros."
+      },
+      {
+        "question": "¿Qué ciudad nabatea controlaba las rutas del incienso hacia el sureste de Israel en la época del Nuevo Testamento (reino de Aretas IV, 2 Cor 11:32)?",
+        "options": [
+          "Palmira",
+          "Petra (Nabatène)",
+          "Babilonia",
+          "Tarso"
+        ],
+        "correct": 1,
+        "explanation": "Pablo menciona al rey nabateo Aretas IV que custodiaba Damasco (2 Corintios 11:32)."
+      },
+      {
+        "question": "¿Qué puerto de la costa de Licia le permitió a Pablo cambiar de barco a un barco alejandrino en ruta a Roma (Hechos 27:5-6)?",
+        "options": [
+          "patara",
+          "mira",
+          "Atalia",
+          "Seleucia"
+        ],
+        "correct": 1,
+        "explanation": "En Mira, en Licia, el centurión Julio encontró un barco procedente de Alejandría navegando hacia Italia."
+      },
+      {
+        "question": "¿Qué ciudad era el puerto de Antioquía en Siria desde donde Pablo y Bernabé navegaron hacia Chipre?",
+        "options": [
+          "Tarso",
+          "Seleucia de Piería",
+          "Jaffa",
+          "Sidón"
+        ],
+        "correct": 1,
+        "explanation": "Bajaron a Seleucia, un puerto marítimo de Antioquía en la desembocadura del Orontes, y de allí navegaron a Chipre (Hechos 13:4)."
+      },
+      {
+        "question": "¿Qué isla del mar Egeo sirvió como primera escala europea de Pablo antes de Neápolis?",
+        "options": [
+          "Rodas",
+          "Samotracia",
+          "Lesbos",
+          "Corfú"
+        ],
+        "correct": 1,
+        "explanation": "Partiendo de Troas, se dirigieron directamente a Samotracia y al día siguiente a Neápolis (Hechos 16:11)."
+      },
+      {
+        "question": "¿Cuál fue el puerto de Filipos donde Pablo desembarcó en Europa?",
+        "options": [
+          "cencrees",
+          "Neápolis (Kavala)",
+          "Salónica",
+          "Berea"
+        ],
+        "correct": 1,
+        "explanation": "Neápolis sirvió como puerto para la colonia romana de Filipos, ubicada a unos 15 kilómetros tierra adentro (Hechos 16:11-12)."
+      },
+      {
+        "question": "¿Qué región montañosa de Israel alberga las ciudades de Nazaret, Caná y el monte Tabor?",
+        "options": [
+          "Alta Galilea",
+          "Baja Galilea",
+          "Judea",
+          "El Néguev"
+        ],
+        "correct": 1,
+        "explanation": "La Baja Galilea, con valles fértiles y colinas moderadas, concentra la mayoría de sitios evangélicos en torno a Nazaret y Tiberíades."
+      },
+      {
+        "question": "¿Qué nueva ciudad fundada por Herodes Antipas alrededor del año 20 d.C.? J.-C. ¿Dió su otro nombre al lago Galilea?",
+        "options": [
+          "Séforis",
+          "Tiberíades",
+          "Cesarea",
+          "Betania"
+        ],
+        "correct": 1,
+        "explanation": "Llamada así en honor del emperador Tiberio, Tiberias dio su nombre al 'Mar de Tiberias' en el Evangelio de Juan (Juan 6:1; 21:1)."
+      },
+      {
+        "question": "¿Qué capital galáctica de Herodes Antipas, ubicada a sólo 6 km al norte de Nazaret, nunca aparece nombrada en los Evangelios?",
+        "options": [
+          "Tiberíades",
+          "Séforis",
+          "Escitópolis",
+          "Ptolomeo"
+        ],
+        "correct": 1,
+        "explanation": "Séforis era una gran ciudad grecorromana vecina de Nazaret, donde José y Jesús podían trabajar como carpinteros, aunque no se menciona en el Nuevo Testamento."
+      },
+      {
+        "question": "¿Dónde estaba el lugar llamado 'Ainon, cerca de Salim', donde Juan bautizó porque había mucha agua (Juan 3:23)?",
+        "options": [
+          "En Idumea",
+          "En el valle del Jordán (cerca de Escitópolis/Samaria)",
+          "en jerusalén",
+          "En la costa de Gaza"
+        ],
+        "correct": 1,
+        "explanation": "Aïnon ('fuentes'), cerca de Salim, estaba situada en el valle del Jordán, rico en abundantes manantiales."
+      },
+      {
+        "question": "¿Qué ciudad fortaleza al este del Mar Muerto fue el lugar del encarcelamiento y decapitación de Juan Bautista según Flavio Josefo?",
+        "options": [
+          "Masada",
+          "Machaerus (Makherontes)",
+          "Herodión",
+          "Gama"
+        ],
+        "correct": 1,
+        "explanation": "Flavio Josefo (Antigüedades 18.5.2) sitúa la ejecución de Juan Bautista por Herodes Antipas en la fortaleza de Maqueronte en Perea."
+      },
+      {
+        "question": "¿Qué río de Mesopotamia limita con la antigua Nínive, capital del Imperio Asirio?",
+        "options": [
+          "El Éufrates",
+          "el tigre",
+          "El Nilo",
+          "El Jordán"
+        ],
+        "correct": 1,
+        "explanation": "Nínive se encontraba en la orilla oriental del Tigris, frente a la actual Mosul en Irak."
+      },
+      {
+        "question": "¿Sobre qué río se encontraba la antigua ciudad de Babilonia?",
+        "options": [
+          "el tigre",
+          "El Éufrates",
+          "El Nilo",
+          "Sólo Kebar"
+        ],
+        "correct": 1,
+        "explanation": "El Éufrates fluía por el corazón de la ciudad de Babilonia (Salmo 137:1: 'A orillas de los ríos de Babilonia')."
+      },
+      {
+        "question": "¿Qué región bíblica ubicada al sur de Judea entre Hebrón y el Néguev era territorio de Esaú después de la salida de Edom?",
+        "options": [
+          "Samaria",
+          "Idumea",
+          "Galilea",
+          "La Decápolis"
+        ],
+        "correct": 1,
+        "explanation": "Los edomitas se establecieron en el sur de Judá después del exilio, dando origen a Idumea, de donde procedía Herodes el Grande (Marcos 3:8)."
+      },
+      {
+        "question": "¿En qué ciudad de Egipto una gran comunidad judía tradujo la Biblia hebrea al griego (Septuaginta)?",
+        "options": [
+          "Menfis",
+          "Alejandría",
+          "Tebas",
+          "heliópolis"
+        ],
+        "correct": 1,
+        "explanation": "Alejandría, fundada por Alejandro Magno, fue el hogar de la diáspora judía de habla helénica más grande del mundo antiguo."
+      },
+      {
+        "question": "¿Qué ciudad de Grecia ubicada en Acaya fue la sede de una Iglesia turbulenta a la que Pablo escribió al menos dos largas epístolas?",
+        "options": [
+          "Filipos",
+          "Corinto",
+          "Salónica",
+          "Berea"
+        ],
+        "correct": 1,
+        "explanation": "Corinto era la capital de la provincia romana de Acaya, donde Pablo permaneció durante 18 meses (Hechos 18:1-11)."
+      },
+      {
+        "question": "¿Qué isla del Mediterráneo oriental se asocia con Tito en la epístola que le dirigió?",
+        "options": [
+          "Chipre",
+          "Creta",
+          "Malta",
+          "Sicilia"
+        ],
+        "correct": 1,
+        "explanation": "Pablo dejó a Tito en Creta para terminar de organizar las iglesias y establecer ancianos en cada ciudad (Tito 1:5)."
+      },
+      {
+        "question": "¿Qué provincia romana de Asia Menor reunió a las Iglesias de Colosas, Laodicea y Hierápolis en el valle de Lycos?",
+        "options": [
+          "Bitinia",
+          "Frigia (provincia de Asia)",
+          "Capadocia",
+          "Cilicia"
+        ],
+        "correct": 1,
+        "explanation": "Colosas, Laodicea y Hierápolis formaban una tríada de ciudades vecinas en el valle de Lycus de Frigia (Colosenses 4:13)."
+      },
+      {
+        "question": "¿Qué paso de montaña histórico o paso conectaba la llanura costera con Jerusalén, donde Josué detuvo el sol (Josué 10)?",
+        "options": [
+          "El ascenso de Adumim",
+          "El valle de Ayalón / subida de Bet-horón",
+          "El paso de Meguido",
+          "El paso de Michmas"
+        ],
+        "correct": 1,
+        "explanation": "Josué persiguió a los reyes amorreos hasta Bet Horón hacia el valle de Ayalón (Josué 10:10-12)."
+      },
+      {
+        "question": "¿Qué lugar al este de Jericó marcó el último campamento de Israel antes de cruzar el Jordán?",
+        "options": [
+          "Capilla para marinos",
+          "Las llanuras de Moab/Sittim (Abel-Sittim)",
+          "Hebrón",
+          "Gaza"
+        ],
+        "correct": 1,
+        "explanation": "Los israelitas acamparon en las llanuras de Moab en Sitim, frente a Jericó, antes de cruzar el Jordán (Números 22:1; Josué 3:1)."
       }
     ]
   }

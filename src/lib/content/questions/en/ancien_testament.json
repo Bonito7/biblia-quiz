@@ -616,6 +616,424 @@
         ],
         "correct": 1,
         "explanation": "Zechariah 9:9: 'Behold, your king comes to you, righteous and victorious, lowly and riding on a donkey'."
+      },
+      {
+        "question": "On what day of creation did God create the sun, moon and stars?",
+        "options": [
+          "The 1st day",
+          "The 4th day",
+          "The 6th day",
+          "The 7th day"
+        ],
+        "correct": 1,
+        "explanation": "God created the lights in the expanse of the sky on the 4th day (Genesis 1:14-19)."
+      },
+      {
+        "question": "Which bird did Noah send out of the ark first to see if the waters had receded?",
+        "options": [
+          "A dove",
+          "A raven",
+          "An eagle",
+          "A sparrow"
+        ],
+        "correct": 1,
+        "explanation": "Noah first released the raven, then sent out the dove, which returned with an olive branch (Genesis 8:7-11)."
+      },
+      {
+        "question": "What was the name of Jacob's twin brother?",
+        "options": [
+          "Joseph",
+          "Esau",
+          "Ishmael",
+          "Benjamin"
+        ],
+        "correct": 1,
+        "explanation": "Esau was Jacob's older twin brother, born the first red and hairy (Genesis 25:25)."
+      },
+      {
+        "question": "For what dish did Esau sell his birthright to Jacob?",
+        "options": [
+          "Bread and wine",
+          "A lentil soup",
+          "Grilled fish",
+          "Figs and honey"
+        ],
+        "correct": 1,
+        "explanation": "Esau, hungry, gave up his birthright for bread and lentil soup (Genesis 25:34)."
+      },
+      {
+        "question": "What special tunic did Jacob give his son Joseph?",
+        "options": [
+          "A white linen tunic",
+          "A tunic of several colors (with long sleeves)",
+          "Bronze armor",
+          "A cloak of purple"
+        ],
+        "correct": 1,
+        "explanation": "Israel loved Joseph more than all his other sons and made him a coat of many colors (Genesis 37:3)."
+      },
+      {
+        "question": "What dream of Joseph represented his brothers by sheaves of wheat?",
+        "options": [
+          "The seven fat cows",
+          "The sheaves of the brothers prostrating themselves before his",
+          "The sun, the moon and eleven stars",
+          "The ladder going up to heaven"
+        ],
+        "correct": 1,
+        "explanation": "In his first dream, Joseph's sheaf rose and the sheaves of his brothers bowed down before it (Genesis 37:7)."
+      },
+      {
+        "question": "What was the first of the ten plagues of Egypt?",
+        "options": [
+          "The frogs",
+          "Nile water turned into blood",
+          "The grasshoppers",
+          "Darkness"
+        ],
+        "correct": 1,
+        "explanation": "Aaron struck the waters of the river with his staff and all the water in Egypt was turned to blood (Exodus 7:20)."
+      },
+      {
+        "question": "What was the tenth and final plague of Egypt?",
+        "options": [
+          "Hail",
+          "Darkness",
+          "The death of the firstborn",
+          "Ulcers"
+        ],
+        "correct": 2,
+        "explanation": "At midnight the Lord smote all the firstborn of Egypt, except the houses marked with the blood of the lamb (Exodus 12:29)."
+      },
+      {
+        "question": "What were the Israelites supposed to put on their doorposts and lintels during the first Passover?",
+        "options": [
+          "Olive oil",
+          "The blood of the lamb",
+          "Olive branches",
+          "Salt"
+        ],
+        "correct": 1,
+        "explanation": "The blood of the lamb on the posts served as a sign for the destroyer to pass over (Exodus 12:7-13)."
+      },
+      {
+        "question": "What item of clothing or item did Aaron melt in the desert while Moses was on Mount Sinai?",
+        "options": [
+          "A bronze serpent",
+          "A golden calf",
+          "A silver crown",
+          "A stone statue"
+        ],
+        "correct": 1,
+        "explanation": "Aaron collected the gold rings of the people and made them into a cast iron calf (Exodus 32:4)."
+      },
+      {
+        "question": "How long did Moses stay on Mount Sinai to receive the Law?",
+        "options": [
+          "7 days",
+          "12 days",
+          "40 jours et 40 nuits",
+          "70 days"
+        ],
+        "correct": 2,
+        "explanation": "Moses remained on the mountain forty days and forty nights without eating or drinking (Exodus 24:18; 34:28)."
+      },
+      {
+        "question": "Which military leader succeeded Moses to lead Israel into Canaan?",
+        "options": [
+          "Aaron",
+          "Caleb",
+          "Joshua",
+          "Gideon"
+        ],
+        "correct": 2,
+        "explanation": "Joshua, son of Nun, was appointed by Moses to lead the people to the Promised Land (Deuteronomy 34:9)."
+      },
+      {
+        "question": "How many spies did Moses send to explore the land of Canaan?",
+        "options": [
+          "2",
+          "7",
+          "12",
+          "40"
+        ],
+        "correct": 2,
+        "explanation": "Moses sent a leader from each of the twelve tribes, but only Joshua and Caleb encouraged the people (Numbers 13)."
+      },
+      {
+        "question": "What object did Moses lift up on a pole in the wilderness to heal those who were bitten by serpents?",
+        "options": [
+          "A flowered stick",
+          "A brazen serpent (bronze)",
+          "A stone table",
+          "A golden shield"
+        ],
+        "correct": 1,
+        "explanation": "Whoever was bitten and looked at the brazen serpent retained life (Numbers 21:9; John 3:14)."
+      },
+      {
+        "question": "What cantor or instrument did David use to appease the tormented King Saul?",
+        "options": [
+          "The trumpet",
+          "The harp",
+          "The tambourine",
+          "The flute"
+        ],
+        "correct": 1,
+        "explanation": "When the evil spirit seized Saul, David took his harp and played, and Saul was relieved (1 Samuel 16:23)."
+      },
+      {
+        "question": "How many smooth stones did David choose from the stream before confronting Goliath?",
+        "options": [
+          "1 stone",
+          "3 stones",
+          "5 stones",
+          "7 stones"
+        ],
+        "correct": 2,
+        "explanation": "David chose five polished stones from the stream, but only one was enough to bring down Goliath (1 Samuel 17:40-49)."
+      },
+      {
+        "question": "What did young King Solomon ask God when He appeared to him in a dream in Gibeon?",
+        "options": [
+          "Long years of life",
+          "Immense riches",
+          "An intelligent heart to judge his people (wisdom)",
+          "The death of his enemies"
+        ],
+        "correct": 2,
+        "explanation": "God was touched that Solomon asked for wisdom and granted him additional wealth and glory (1 Kings 3:9-13)."
+      },
+      {
+        "question": "How did Solomon resolve the dispute between the two women who were fighting over the same baby?",
+        "options": [
+          "He cast lots",
+          "He proposed cutting the child in two to reveal the real mother",
+          "He entrusted the child to the high priest",
+          "He asked the neighbors"
+        ],
+        "correct": 1,
+        "explanation": "The true mother preferred to give up her living son rather than see him killed, revealing her maternal love (1 Kings 3:25-27)."
+      },
+      {
+        "question": "What bird fed Elijah by the Brook Cherith during the famine?",
+        "options": [
+          "Doves",
+          "Crows",
+          "Quails",
+          "Storks"
+        ],
+        "correct": 1,
+        "explanation": "The ravens brought Elijah bread and meat in the morning and evening (1 Kings 17:6)."
+      },
+      {
+        "question": "How were Daniel's three friends (Shadrach, Meshach and Abednego) punished for refusing to worship the golden image?",
+        "options": [
+          "Thrown into the lions' den",
+          "Thrown into a fiery furnace",
+          "Exiled on an island",
+          "Reduced to life in prison"
+        ],
+        "correct": 1,
+        "explanation": "They were thrown bound into the furnace heated seven times more, but a fourth personage like a son of the gods preserved them (Daniel 3)."
+      },
+      {
+        "question": "What book in the Old Testament tells of the trials of a righteous man who lost his possessions, his children and his health?",
+        "options": [
+          "Proverbs",
+          "Job",
+          "Ecclesiastes",
+          "Lamentations"
+        ],
+        "correct": 1,
+        "explanation": "Job remained faithful to God despite the loss of everything he had and the reproaches of his friends (Job 1-2)."
+      },
+      {
+        "question": "What fruit or food did Samson find in the carcass of the lion he had killed?",
+        "options": [
+          "Figs",
+          "Bee honey",
+          "Dates",
+          "Grapes"
+        ],
+        "correct": 1,
+        "explanation": "A swarm of bees and honey had formed in the lion's corpse, inspiring Samson's riddle (Judges 14:8-14)."
+      },
+      {
+        "question": "Which woman cut Samson's seven locks of hair while he slept?",
+        "options": [
+          "Esther",
+          "Delilah",
+          "Jezebel",
+          "Bathsheba"
+        ],
+        "correct": 1,
+        "explanation": "Paid by the Philistine princes, Delilah extracted Samson's secret and had his head shaved (Judges 16:17-19)."
+      },
+      {
+        "question": "Which son of Noah saw the nakedness of his drunken father without covering it?",
+        "options": [
+          "Sem",
+          "Cham",
+          "Japheth",
+          "Enoch"
+        ],
+        "correct": 1,
+        "explanation": "Ham reported the matter to his two brothers Shem and Japheth, who covered their father backwards (Genesis 9:22-23)."
+      },
+      {
+        "question": "What was God's promise when He changed Abram's name to Abraham?",
+        "options": [
+          "That he would become pharaoh",
+          "That he would be the father of a multitude of nations",
+          "That he would no longer age",
+          "That he would build the Temple"
+        ],
+        "correct": 1,
+        "explanation": "Abraham means 'father of many' (Genesis 17:5)."
+      },
+      {
+        "question": "What did Abraham offer in place of Isaac on Mount Moriah?",
+        "options": [
+          "A bull",
+          "A ram held by its horns in a bush",
+          "Two doves",
+          "A lamb brought from Beersheba"
+        ],
+        "correct": 1,
+        "explanation": "The angel of the Lord restrained the hand of Abraham, who saw a ram taken by the horns and offered it as a burnt offering (Genesis 22:13)."
+      },
+      {
+        "question": "How many days and nights did Jonah stay in the belly of the great fish?",
+        "options": [
+          "1 day and 1 night",
+          "3 days and 3 nights",
+          "7 jours et 7 nuits",
+          "40 jours et 40 nuits"
+        ],
+        "correct": 1,
+        "explanation": "Jonah prayed to the Lord from the bowels of the fish where he remained three days and three nights (Jonah 2:1)."
+      },
+      {
+        "question": "What tree grew in one night to give Jonah shade before Nineveh?",
+        "options": [
+          "An olive tree",
+          "A castor oil",
+          "A fig tree",
+          "A cedar"
+        ],
+        "correct": 1,
+        "explanation": "God caused a castor plant to grow above Jonah, then a worm dried it the next day to teach him compassion (Jonah 4:6-10)."
+      },
+      {
+        "question": "What is the title of the poetic book attributed to Jeremiah who mourns the destruction of Jerusalem?",
+        "options": [
+          "Ecclesiastes",
+          "Lamentations",
+          "Song of Songs",
+          "Proverbs"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah's Lamentations expresses sorrow over the ruin of Jerusalem and faith in God's faithfulness (Lamentations 3:22-23)."
+      },
+      {
+        "question": "In which book of the Bible do we find: 'Vanity of vanities, all is vanity'?",
+        "options": [
+          "Job",
+          "Proverbs",
+          "Ecclesiastes",
+          "Psalms"
+        ],
+        "correct": 2,
+        "explanation": "Ecclesiastes (Qohelet) begins and ends with this reflection on the meaning of life under the sun (Ecclesiastes 1:2; 12:8)."
+      },
+      {
+        "question": "What giant or warrior people occupied the land of Canaan before Joshua, notably Goliath later?",
+        "options": [
+          "The Persians",
+          "The Philistines and the Canaanites (including the Anakim)",
+          "The Romans",
+          "The Greeks"
+        ],
+        "correct": 1,
+        "explanation": "The spies reported the descendants of Anak (Anakim) and the fortified cities in Canaan (Numbers 13:28-33)."
+      },
+      {
+        "question": "What sign did God give Gideon with a fleece of wool?",
+        "options": [
+          "The fleece caught fire",
+          "The fleece was wet with dew then dried the next day on wet ground",
+          "The fleece became gold",
+          "The fleece flew away"
+        ],
+        "correct": 1,
+        "explanation": "God answered Gideon's request twice on the threshing floor to strengthen his faith (Judges 6:36-40)."
+      },
+      {
+        "question": "With what unusual weapons did Gideon's 300 men put the Midianites to flight?",
+        "options": [
+          "Golden swords and chariots",
+          "Trumpets, empty pitchers and torches",
+          "Poisoned bows and arrows",
+          "Bronze spears"
+        ],
+        "correct": 1,
+        "explanation": "By breaking the pitchers, brandishing the torches and blowing the trumpets, they caused panic in the enemy camp (Judges 7:16-22)."
+      },
+      {
+        "question": "Which son of David rebelled against his father and hung by his hair from the branches of a terebinth tree?",
+        "options": [
+          "Solomon",
+          "Absalom",
+          "Adonijah",
+          "Amnon"
+        ],
+        "correct": 1,
+        "explanation": "Absalom was held by the head on the branches of a large terebinth tree during his flight and was killed by Joab (2 Samuel 18:9-14)."
+      },
+      {
+        "question": "Which prophet restored the son of the widow of Zarephath to life and then brought down fire from heaven?",
+        "options": [
+          "Elisha",
+          "Elijah",
+          "Samuel",
+          "Jeremiah"
+        ],
+        "correct": 1,
+        "explanation": "Elijah lay upon the child of the widow of Zarephath three times, and the Lord restored him to life (1 Kings 17:21-22)."
+      },
+      {
+        "question": "How was the poor widow of a prophet able to pay her debts thanks to the miracle of Elisha?",
+        "options": [
+          "By a gold coin found in a fish",
+          "The oil from her vessel did not stop flowing as long as she had empty vessels.",
+          "By a rain of manna",
+          "By a hidden treasure"
+        ],
+        "correct": 1,
+        "explanation": "Elisha multiplied his one vessel of oil to fill all the vessels borrowed from neighbors (2 Kings 4:1-7)."
+      },
+      {
+        "question": "What object floated on the water of the Jordan thanks to a miracle by Elisha?",
+        "options": [
+          "A golden crown",
+          "An ax head fallen into the water",
+          "A stone from the Temple",
+          "An iron sword"
+        ],
+        "correct": 1,
+        "explanation": "Elisha threw a piece of wood into the water and floated the head of the borrowed ax (2 Kings 6:5-7)."
+      },
+      {
+        "question": "How many books make up the Pentateuch (the Torah)?",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "12"
+        ],
+        "correct": 1,
+        "explanation": "The Pentateuch includes the first five books of the Bible: Genesis, Exodus, Leviticus, Numbers and Deuteronomy."
       }
     ],
     "intermediaire": [
@@ -1069,6 +1487,578 @@
         ],
         "correct": 1,
         "explanation": "The 'Day of the Lord' is a prophetic concept of decisive divine intervention to judge the nations and deliver Israel (Amos 5:18-20; Joel 2:31)."
+      },
+      {
+        "question": "Which son of Jacob became the ancestor of the priests and Levites?",
+        "options": [
+          "Judah",
+          "Levi",
+          "Ruben",
+          "Simeon"
+        ],
+        "correct": 1,
+        "explanation": "The tribe of Levi was set apart for the service of the Tabernacle and the Temple, with the line of Aaron for the priesthood (Numbers 3)."
+      },
+      {
+        "question": "Which tribe of Israel provided the royal lineage promised to David?",
+        "options": [
+          "Benjamin",
+          "Ephraim",
+          "Judah",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "David belonged to the tribe of Judah, fulfilling Jacob's blessing in Genesis 49:10."
+      },
+      {
+        "question": "Which king ruled over northern Israel when Elijah prophesied the great drought?",
+        "options": [
+          "Jeroboam",
+          "Ahab",
+          "Jehu",
+          "Omri"
+        ],
+        "correct": 1,
+        "explanation": "Ahab, husband of Jezebel, surpassed in godlessness all the kings of Israel who had preceded him (1 Kings 16:30-33)."
+      },
+      {
+        "question": "What was the name of the servant of Moses who succeeded him, but also the son of the high priest in Zechariah?",
+        "options": [
+          "Caleb",
+          "Joshua",
+          "Aaron",
+          "Gideon"
+        ],
+        "correct": 1,
+        "explanation": "Joshua (Yeshoua/Yehoshoua) means 'The Lord is salvation', the name borne by the successor of Moses and the post-exilic high priest."
+      },
+      {
+        "question": "What deal did God make with Noah, Abraham, Moses, and David throughout the Old Testament?",
+        "options": [
+          "Commercial contracts",
+          "A series of progressive alliances (Noachic, Abrahamic, Sinaitic, Davidic)",
+          "Peace treaties with Egypt",
+          "Roman laws"
+        ],
+        "correct": 1,
+        "explanation": "Biblical history unfolds through God's great covenants with humanity and with Israel."
+      },
+      {
+        "question": "What are the Urim and Thummim worn on the breastplate of the high priest?",
+        "options": [
+          "musical instruments",
+          "Sacred objects allowing one to consult God for an answer",
+          "Two golden censers",
+          "Tombstones"
+        ],
+        "correct": 1,
+        "explanation": "Placed in the breastplate of judgment, the Urim and Thummim were used to consult the Lord in major decisions (Exodus 28:30)."
+      },
+      {
+        "question": "What Jewish fall holiday celebrates the harvest and recalls Israel's sojourn in tents in the desert?",
+        "options": [
+          "Passover (Pesach)",
+          "The Feast of Tabernacles (Sukkot)",
+          "Purim",
+          "Hanukkah"
+        ],
+        "correct": 1,
+        "explanation": "During Sukkot, the Israelites dwelt for seven days under huts of leaves in remembrance of the desert (Leviticus 23:42-43)."
+      },
+      {
+        "question": "Which Jewish holiday commemorates the deliverance of the Jews from Haman's plot under Esther?",
+        "options": [
+          "Passover",
+          "Purim",
+          "Shavuot",
+          "Yom Kippur"
+        ],
+        "correct": 1,
+        "explanation": "The festival of Purim takes its name from the 'spells' cast by Haman to fix the date of the massacre (Esther 9:24-26)."
+      },
+      {
+        "question": "Which king of Judah had Moses' bronze serpent broken because the people offered him incense?",
+        "options": [
+          "Jehoshaphat",
+          "Hezekiah",
+          "Solomon",
+          "Rehoboam"
+        ],
+        "correct": 1,
+        "explanation": "Hezekiah led a profound religious reform and destroyed the bronze serpent called Nehushtan (2 Kings 18:4)."
+      },
+      {
+        "question": "What was the name of the prophet who advised David when counting and choosing the three plagues?",
+        "options": [
+          "Elijah",
+          "Gad",
+          "Amos",
+          "Micah"
+        ],
+        "correct": 1,
+        "explanation": "The prophet Gad, David's seer, presented him with the choice between seven years of famine, three months of flight, or three days of pestilence (2 Samuel 24:11-13)."
+      },
+      {
+        "question": "Which king of Judah was stricken with leprosy for wanting to offer incense himself in the Temple?",
+        "options": [
+          "Asa",
+          "Uzziah (Azariah)",
+          "Hezekiah",
+          "Josiah"
+        ],
+        "correct": 1,
+        "explanation": "Despite the opposition of 80 priests, Uzziah lost his temper and was stricken with leprosy on his forehead until his death (2 Chronicles 26:16-21)."
+      },
+      {
+        "question": "Who was the ungodly king of Judah who reigned for 55 years, practiced extreme idolatry, and then repented in captivity?",
+        "options": [
+          "Josiah",
+          "Manasseh",
+          "Ahaz",
+          "Joash"
+        ],
+        "correct": 1,
+        "explanation": "According to 2 Chronicles 33:11-13, Manasseh was taken in chains to Babylon where he deeply humbled himself before God."
+      },
+      {
+        "question": "Which young king of Judah was hidden for 6 years in the Temple by his aunt Jehosheba to escape the massacre of Athaliah?",
+        "options": [
+          "Josiah",
+          "Joash",
+          "Uzziah",
+          "Hezekiah"
+        ],
+        "correct": 1,
+        "explanation": "At age seven, Joash was crowned king by the high priest Jehoiada, ending Athaliah's usurpation (2 Kings 11)."
+      },
+      {
+        "question": "What particular vow forbade drinking wine, touching a dead body, and cutting one's hair?",
+        "options": [
+          "The Levite's Vow",
+          "The Nazirite Vow",
+          "The Sabbath Vow",
+          "Jubilee wish"
+        ],
+        "correct": 1,
+        "explanation": "Described in Numbers 6, the Nazirite was notably experienced for life by Samson and Samuel (and later John the Baptist)."
+      },
+      {
+        "question": "Why was Moses not allowed to enter the Promised Land despite his faithfulness?",
+        "options": [
+          "Because he was too old",
+          "Because he hit the rock twice in anger instead of speaking to Meribah",
+          "Because he lost the tables of the Law",
+          "Because he refused to leave Egypt"
+        ],
+        "correct": 1,
+        "explanation": "At Meribah-Kadesh, Moses and Aaron failed to sanctify God in the eyes of the people by striking the rock (Numbers 20:11-12)."
+      },
+      {
+        "question": "Which son of Saul became David's best friend and protected him against his father's wrath?",
+        "options": [
+          "Ish-Bosheth",
+          "Jonathan",
+          "Abner",
+          "Mephibosheth"
+        ],
+        "correct": 1,
+        "explanation": "Jonathan linked his soul to that of David and even voluntarily renounced the throne in favor of God's chosen one (1 Samuel 18-20)."
+      },
+      {
+        "question": "Which lame grandson of Saul did David welcome to his table out of loyalty to Jonathan?",
+        "options": [
+          "Absalom",
+          "Mephibosheth",
+          "Adonijah",
+          "Gehazi"
+        ],
+        "correct": 1,
+        "explanation": "Mephibosheth, son of Jonathan, received the lands of Saul and always ate at David's royal table (2 Samuel 9)."
+      },
+      {
+        "question": "What was the name of the prophet who predicted the death of Ahab before Jehoshaphat while 400 prophets predicted victory?",
+        "options": [
+          "Micah, son of Jimla",
+          "Elisha",
+          "Nathan",
+          "Jeremiah"
+        ],
+        "correct": 0,
+        "explanation": "Micah son of Jimla courageously announced the defeat and death of Ahab at Ramoth Gilead (1 Kings 22:8-28)."
+      },
+      {
+        "question": "Which servant of Elisha was stricken with leprosy because he lied and secretly demanded gifts from Naaman?",
+        "options": [
+          "Baruch",
+          "Gehazi",
+          "Obadiah",
+          "Tobie"
+        ],
+        "correct": 1,
+        "explanation": "Gehazi ran after Naaman to get money and clothing; Naaman's leprosy attached itself to him (2 Kings 5:20-27)."
+      },
+      {
+        "question": "How did Elisha reassure his frightened servant in Dothan before the Syrian army?",
+        "options": [
+          "He opened a secret door",
+          "He prayed that God would open the eyes of the servant, who saw the mountain full of horses and chariots of fire",
+          "He called the army of Egypt",
+          "He runs away at night"
+        ],
+        "correct": 1,
+        "explanation": "'They that are with us are more in number than those that are with them' (2 Kings 6:16-17)."
+      },
+      {
+        "question": "Which Assyrian general threatened Jerusalem by insulting the God of Israel in front of King Hezekiah?",
+        "options": [
+          "Naaman",
+          "The Rabshakeh (envoy of Sennacherib)",
+          "Holofernes",
+          "Sisera"
+        ],
+        "correct": 1,
+        "explanation": "Rabshaké tried to demoralize the people in Hebrew; Isaiah reassured Hezekiah and the angel of the Lord struck the Assyrian camp (2 Kings 18-19)."
+      },
+      {
+        "question": "In which book of the OT does a pagan king (Nebuchadnezzar) himself testify to the sovereignty of the Most High God after seven times of madness?",
+        "options": [
+          "Ezra",
+          "Daniel (chapter 4)",
+          "Esther",
+          "Nehemiah"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 4 takes the form of a royal proclamation where Nebuchadnezzar praises the King of heaven after his humiliation (Daniel 4:34-37)."
+      },
+      {
+        "question": "What was the main mission of the scribe and priest Ezra upon his return to Jerusalem?",
+        "options": [
+          "Build a royal palace",
+          "Teaching the Law of Moses and reforming the spiritual and family life of the people",
+          "Raise an army against Persia",
+          "Translate the Bible into Greek"
+        ],
+        "correct": 1,
+        "explanation": "Ezra had set his heart to study and practice the Law of the Lord and to teach it in Israel (Ezra 7:10)."
+      },
+      {
+        "question": "What two main enemies opposed Nehemiah during the rebuilding of the walls of Jerusalem?",
+        "options": [
+          "Pharaoh and Sennacherib",
+          "Sanballat the Horonite and Tobijah the Ammonite",
+          "Goliath and Sisera",
+          "Herod and Pilate"
+        ],
+        "correct": 1,
+        "explanation": "Sanballat and Tobijah used mockery, plots, and threats, but Nehemiah worked the people with a trowel and a sword (Nehemiah 4)."
+      },
+      {
+        "question": "Which prophet was called while still a young man and objected: 'I cannot speak, I am a child'?",
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Amos"
+        ],
+        "correct": 1,
+        "explanation": "During his calling, the Lord touched Jeremiah's mouth and promised to be with him to deliver him (Jeremiah 1:6-9)."
+      },
+      {
+        "question": "What faithful scribe wrote the scrolls of Jeremiah under dictation and supported him as far as Egypt?",
+        "options": [
+          "Ezra",
+          "Baruch",
+          "Gehazi",
+          "Shaphan"
+        ],
+        "correct": 1,
+        "explanation": "Baruch, son of Neriah, wrote Jeremiah's prophecies and read them publicly in the Temple (Jeremiah 36)."
+      },
+      {
+        "question": "Which king of Judah burned the scroll of Jeremiah's prophecies piece by piece in a brazier?",
+        "options": [
+          "Josiah",
+          "Jehoiakim",
+          "Hezekiah",
+          "Manasseh"
+        ],
+        "correct": 1,
+        "explanation": "Jehoiakim cut up the columns read and threw them into the fire, but Jeremiah and Baruch dictated a second, even more complete scroll (Jeremiah 36:23-32)."
+      },
+      {
+        "question": "How did God teach Ezekiel about the painful loss of the Temple by striking the prophet with personal grief?",
+        "options": [
+          "He lost his sight",
+          "His wife died suddenly and God forbade him to mourn publicly as a sign to Israel",
+          "He was exiled to Egypt",
+          "He became king"
+        ],
+        "correct": 1,
+        "explanation": "The death of 'the delight of his eyes' without outward tears foreshadowed the people's astonishment at the fall of the Temple (Ezekiel 24:15-24)."
+      },
+      {
+        "question": "Which penitential psalm is traditionally attributed to David after the confrontation with Nathan over Bathsheba?",
+        "options": [
+          "Psalm 23",
+          "Psalm 51 ('O God! have mercy on me...')",
+          "Psalm 119",
+          "Psalm 137"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 51 expresses sincere contrition: 'O God! create in me a pure heart, renew in me a well-disposed spirit'."
+      },
+      {
+        "question": "Which psalm expresses the nostalgia of the exiles in Babylon ('On the banks of the rivers of Babylon we sat and wept')?",
+        "options": [
+          "Psalm 1",
+          "Psalm 137",
+          "Psalm 91",
+          "Psalm 150"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 137 reflects the pain of the deportees refusing to sing the songs of Zion in a foreign land."
+      },
+      {
+        "question": "Which woman is celebrated at the end of the book of Proverbs (chapter 31) as a model of practical wisdom?",
+        "options": [
+          "The Queen of Sheba",
+          "The virtuous/valiant woman ('eshet hayil')",
+          "Pharaoh's daughter",
+          "Jezebel"
+        ],
+        "correct": 1,
+        "explanation": "Proverbs 31:10-31 forms an alphabetical poem praising the valiant woman's intelligence, integrity, and fear of God."
+      },
+      {
+        "question": "Who are Job's three friends who initially came to console him but then accuse him of having sinned?",
+        "options": [
+          "Shadrach, Meshach and Abednego",
+          "Eliphaz, Bildad and Zophar",
+          "Reuben, Simeon and Levi",
+          "Gad, Nathan and Samuel"
+        ],
+        "correct": 1,
+        "explanation": "Eliphaz of Teman, Bildad of Shuah, and Zophar of Naamah uphold a rigid theology of immediate retribution (Job 2:11)."
+      },
+      {
+        "question": "Which fourth, younger visitor speaks at the end of the speeches in Job (chapters 32-37)?",
+        "options": [
+          "Moses",
+          "Elihu",
+          "Balaam",
+          "Jethro"
+        ],
+        "correct": 1,
+        "explanation": "Elihu waits out of respect for the elders before emphasizing the pedagogy of God and his transcendence, preparing the final theophany."
+      },
+      {
+        "question": "How does God ultimately respond to Job in chapters 38-41?",
+        "options": [
+          "By giving him a detailed list of Satan's faults",
+          "From the bosom of the storm, revealing to him the wisdom and greatness of his creation",
+          "By destroying his three friends",
+          "By a silent angel"
+        ],
+        "correct": 1,
+        "explanation": "God questions Job about the wonders of the cosmos and creatures, leading Job to humility and worship (Job 42:1-6)."
+      },
+      {
+        "question": "In Numbers (chapter 16), which men rebelled against the authority of Moses and Aaron and were swallowed up by the earth?",
+        "options": [
+          "Dathan, Abiram and Korah",
+          "Nadab and Abihu",
+          "Hophni and Phinehas",
+          "Achan and Gehazi"
+        ],
+        "correct": 0,
+        "explanation": "Korah the Levite, Dathan and Abiram contested the priesthood and leadership of Moses; the earth opened under their tents (Numbers 16:31-33)."
+      },
+      {
+        "question": "Which Israelite caused defeat before Ai for having stolen a coat of Shinar, silver and a gold ingot forbidden in Jericho?",
+        "options": [
+          "Korah",
+          "Achan",
+          "Balaam",
+          "Saul"
+        ],
+        "correct": 1,
+        "explanation": "Achan's sin violated the prohibition (herem) on Jericho; discovered by lot, he was judged in the valley of Achor (Joshua 7)."
+      },
+      {
+        "question": "Which neighboring people deceived Joshua by wearing old clothes and moldy bread to obtain a peace treaty?",
+        "options": [
+          "The Philistines",
+          "The Gibeonites",
+          "The Moabites",
+          "The Amalekites"
+        ],
+        "correct": 1,
+        "explanation": "The Gibeonites claimed to come from a very distant land; Israel swore without consulting the Lord and kept his oath (Joshua 9)."
+      },
+      {
+        "question": "Which king of Israel exterminated Ahab's dynasty and had Jezebel thrown out of his palace window?",
+        "options": [
+          "Omri",
+          "Jehu",
+          "Jeroboam II",
+          "Hosea"
+        ],
+        "correct": 1,
+        "explanation": "Anointed by a disciple of Elisha, Jehu carried out the announced judgment on the house of Ahab (2 Kings 9-10)."
+      },
+      {
+        "question": "Which king of northern Israel enjoyed a long, prosperous reign in the 8th century? av. BC, under which Amos and Hosea denounced social injustice?",
+        "options": [
+          "Jeroboam I",
+          "Jeroboam II",
+          "Ahab",
+          "Saul"
+        ],
+        "correct": 1,
+        "explanation": "Jeroboam II (793-753 BC) expanded Israel's borders, but prosperity masked deep moral corruption (Amos 2-6)."
+      },
+      {
+        "question": "What was special about the Ark of the Covenant built by Bezaleel according to the plans received by Moses?",
+        "options": [
+          "In white marble",
+          "In acacia wood covered with pure gold, topped with the mercy seat and two golden cherubim",
+          "In solid bronze",
+          "Uncovered cedar"
+        ],
+        "correct": 1,
+        "explanation": "The craftsman Bezaleel, filled with the Spirit of God, made the Ark according to the model shown on the mountain (Exodus 25:10-22; 37:1-9)."
+      },
+      {
+        "question": "What were Aaron's two sons, Nadab and Abihu, guilty of bringing into the sanctuary?",
+        "options": [
+          "A silver idol",
+          "A 'strange fire' that the Lord had not commanded them",
+          "Leavened bread",
+          "Pig's blood"
+        ],
+        "correct": 1,
+        "explanation": "Nadab and Abihu offered strange fire before the LORD; fire came out from before the LORD and consumed them (Leviticus 10:1-2)."
+      },
+      {
+        "question": "What famous song did Moses and the Israelites sing just after crossing the Red Sea?",
+        "options": [
+          "Anne's song",
+          "The Song of the Sea (“I will sing to the LORD, for he has made his glory shine”, Exodus 15)",
+          "Psalm 136",
+          "Deborah's song"
+        ],
+        "correct": 1,
+        "explanation": "Exodus 15 is one of the oldest poems in the Bible, repeated even in Revelation 15:3 ('the song of Moses and the Lamb')."
+      },
+      {
+        "question": "In 1 Samuel 3, how many times did the Lord call young Samuel to the sanctuary in Shiloh before Eli understood?",
+        "options": [
+          "1 time",
+          "3 times (and the 4th time Samuel replied 'Speak, for your servant is listening')",
+          "7 times",
+          "12 times"
+        ],
+        "correct": 1,
+        "explanation": "After three calls where Samuel ran to Eli, Eli understood that it was the Lord and taught him how to respond (1 Samuel 3:4-10)."
+      },
+      {
+        "question": "Which judge of Israel vowed to consecrate to God the first person who left his house upon his victorious return?",
+        "options": [
+          "Gideon",
+          "Jephthah",
+          "Samson",
+          "Ehud"
+        ],
+        "correct": 1,
+        "explanation": "Jephthah defeated the Ammonites, but his only daughter came out to meet him with tambourines (Judges 11:30-40)."
+      },
+      {
+        "question": "Which left-handed judge of Israel delivered the people of King Eglon of Moab?",
+        "options": [
+          "Shamgar",
+          "Ehud",
+          "Barak",
+          "Otniel"
+        ],
+        "correct": 1,
+        "explanation": "Ehud, of the tribe of Benjamin, hid a two-edged sword on his right thigh and struck Eglon (Judges 3:15-22)."
+      },
+      {
+        "question": "In which book of the Bible does God not explicitly mention his name even once, while manifesting his hidden providence?",
+        "options": [
+          "Ruth",
+          "Esther",
+          "Jonah",
+          "Haggai"
+        ],
+        "correct": 1,
+        "explanation": "God's name does not appear in the Hebrew text of Esther, emphasizing his silent providence through human events."
+      },
+      {
+        "question": "What offering did Cain and Abel respectively present to the Lord in Genesis 4?",
+        "options": [
+          "Both offered fruit",
+          "Cain offered fruits of the earth; Abel offered of the firstlings of his flock and their fat",
+          "Cain offered gold; Abel of incense",
+          "Abel offered wheat; Cain a lamb"
+        ],
+        "correct": 1,
+        "explanation": "The Lord looked favorably on Abel and his offering (Hebrews 11:4 emphasizes his faith), but not on Cain (Genesis 4:3-5)."
+      },
+      {
+        "question": "How many cities did the Levites inherit through the tribes of Israel since they had no territory of their own?",
+        "options": [
+          "12 cities",
+          "48 cities (including 6 cities of refuge)",
+          "70 cities",
+          "100 cities"
+        ],
+        "correct": 1,
+        "explanation": "The LORD himself was the inheritance of Levi; the other tribes gave them 48 cities and their suburbs (Numbers 35:7; Joshua 21)."
+      },
+      {
+        "question": "Which Old Testament book opens with the dialogue between God and Satan in the heavenly council?",
+        "options": [
+          "Genesis",
+          "Job",
+          "Daniel",
+          "Zechariah"
+        ],
+        "correct": 1,
+        "explanation": "Job 1-2 depicts the test permitted by God on the selfless faithfulness of his servant Job."
+      },
+      {
+        "question": "What social law from the Old Testament ordered the corners of the fields to be left unharvested and the ears of corn to fall?",
+        "options": [
+          "The right of gleaning for the poor and foreigners (e.g. Ruth)",
+          "The royal tithe",
+          "The war tribute",
+          "The law of retaliation"
+        ],
+        "correct": 0,
+        "explanation": "Leviticus 19:9-10 and Deuteronomy 24:19 thus protected the orphan, the widow and the stranger — a law from which Ruth benefited at Boaz."
+      },
+      {
+        "question": "Which psalm contains the longest alphabetical acrostic (22 stanzas of 8 verses celebrating the Word of God)?",
+        "options": [
+          "Psalm 1",
+          "Psalm 23",
+          "Psalm 119",
+          "Psalm 136"
+        ],
+        "correct": 2,
+        "explanation": "Psalm 119 has 176 verses organized according to the 22 letters of the Hebrew alphabet, exalting the Torah."
+      },
+      {
+        "question": "Which high priest rebuilt the first altar and the foundations of the Second Temple with Zerubbabel?",
+        "options": [
+          "Aaron",
+          "Joshua (Jeshua), son of Jozadak",
+          "Hilkija",
+          "Caiaphas"
+        ],
+        "correct": 1,
+        "explanation": "Jeshua (Joshua) the high priest and Zerubbabel the governor led the restoration of worship and the Temple (Ezra 3; Haggai 1)."
       }
     ],
     "expert": [
@@ -1456,6 +2446,644 @@
         ],
         "correct": 0,
         "explanation": "The Aaronic blessing begins with 'The Lord bless you and keep you' (Numbers 6:24) — a triune priestly formula combining blessing, grace and peace."
+      },
+      {
+        "question": "What does the expression 'Law of retaliation' ('an eye for an eye, a tooth for a tooth') mean in its Mosaic legal context?",
+        "options": [
+          "An incitement to unlimited private revenge",
+          "A strict proportional limit imposed on judges to prevent excessive revenge",
+          "The obligation to mutilate all criminals",
+          "A Babylonian law ignored by the Bible"
+        ],
+        "correct": 1,
+        "explanation": "In Exodus 21:23-25 ​​and Leviticus 24:20, the principle of proportionality (“measure for measure”) protects the offender from disproportionate reprisals."
+      },
+      {
+        "question": "What is the distinction between the 'Samaritan Pentateuch' and the Hebrew Masoretic Text?",
+        "options": [
+          "The Samaritan Pentateuch contains only the Psalms",
+          "The Samaritans only recognize the 5 books of the Torah as canonical, with some variations (e.g. on Mount Gerizim)",
+          "It is written in Latin",
+          "It includes the Gospels"
+        ],
+        "correct": 1,
+        "explanation": "The Samaritan Pentateuch is a very ancient textual witness to the Hebrew text of the Torah, placing the theological emphasis on Mount Gerizim."
+      },
+      {
+        "question": "What Hebrew term designates the 'consecrated portion' or the total prohibition dedicated to God during certain wars of conquest (Joshua 6-7)?",
+        "options": [
+          "Shalom",
+          "Herem",
+          "Hesed",
+          "Berit"
+        ],
+        "correct": 1,
+        "explanation": "The 'herem' refers to that which is irrevocably set apart for God (either consecrated in the sanctuary or destroyed as judgment on idolatry)."
+      },
+      {
+        "question": "What is the theological significance of the 'cloud of glory' (Kavod/Shekinah) guiding Israel into the desert?",
+        "options": [
+          "A simple meteorological phenomenon",
+          "The visible manifestation of the holy and protective presence of God accompanying his people (pillar of cloud by day, of fire by night)",
+          "A symbol of Egypt",
+          "A military weapon of the Philistines"
+        ],
+        "correct": 1,
+        "explanation": "The glory (Kavod) of YHWH fills the completed Tabernacle (Exodus 40:34) then the Temple of Solomon (1 Kings 8:10-11)."
+      },
+      {
+        "question": "What is the fundamental difference between a Hittite suzerainty treaty from the 2nd millennium BC? BC and the Sinai alliance (Exodus 19-24 / Deuteronomy)?",
+        "options": [
+          "No similarity",
+          "The form (preamble, historical prologue, stipulations, witnesses, blessings/curses) is close, but YHWH bases obedience on his liberating grace ('I brought you out of Egypt')",
+          "The biblical covenant has no stipulations or blessings",
+          "Hittite treaties are monotheistic"
+        ],
+        "correct": 1,
+        "explanation": "This formal correspondence with the treaties of the Late Bronze Age (14th-13th centuries BC) is often cited for the antiquity of Deuteronomy."
+      },
+      {
+        "question": "In the Hebrew tradition, what are the three major divisions of the Tanakh (Old Testament)?",
+        "options": [
+          "Genesis, Exodus, Psalms",
+          "Torah (Law), Nevi'im (Prophets), Ketuvim (Writings)",
+          "Gospels, Acts, Epistles",
+          "Wisdom, History, Apocalypse"
+        ],
+        "correct": 1,
+        "explanation": "The acronym TaNaKh brings together Torah, Nevi'im and Ketouvim - a division attested by Jesus himself in Luke 24:44 ('Law of Moses, Prophets and Psalms')."
+      },
+      {
+        "question": "Why are the books of Joshua, Judges, Samuel and Kings classified as 'Earlier Prophets' in the Hebrew Bible?",
+        "options": [
+          "By medieval classification error",
+          "Because they interpret the history of Israel from a prophetic point of view: loyalty to the Covenant determines the destiny of the people",
+          "Because they contain no king",
+          "Because they were written in Greek"
+        ],
+        "correct": 1,
+        "explanation": "Unlike a neutral royal chronicle, these books judge each reign in terms of the Alliance and the prophetic word."
+      },
+      {
+        "question": "What is the meaning of 'go'el ha-dam' (avenger of blood) and cities of refuge in Numbers 35?",
+        "options": [
+          "Encouraging family vendettas",
+          "Supervise tribal justice by providing a fair trial and asylum to the perpetrator of involuntary homicide until the death of the high priest",
+          "Protecting premeditated murderers",
+          "Replace the Temple sacrifices"
+        ],
+        "correct": 1,
+        "explanation": "Cities of refuge protected manslaughter from immediate vengeance while requiring strict judicial review."
+      },
+      {
+        "question": "What is the theological role of the 'guilt/reparation' sacrifice (Asham) in relation to the 'sin' sacrifice (Hattat) in Leviticus 4-5?",
+        "options": [
+          "They are completely identical",
+          "Hattat purifies from the taint of sin; Asham repairs a desecration or a quantifiable wrong against God or neighbor (with restitution + 20%)",
+          "Asham is reserved for pagan kings",
+          "Hattat does not use blood"
+        ],
+        "correct": 1,
+        "explanation": "The Asham requires not only atonement but full restitution increased by a fifth (Leviticus 5:16; 6:5), an image repeated in Isaiah 53:10."
+      },
+      {
+        "question": "What is the importance of the 'Feast of Atonement' (Yom Kippur, Leviticus 16) for understanding the book of Hebrews?",
+        "options": [
+          "No link",
+          "It is the only day on which the high priest entered the Holy of Holies with blood — perfect type of the unique sacrifice of Christ (Hebrews 9)",
+          "She celebrated the wheat harvest",
+          "It took place every week"
+        ],
+        "correct": 1,
+        "explanation": "Hebrews 9-10 contrasts the repeated annual sacrifices of Yom Kippur with Christ's final entry into the heavenly sanctuary."
+      },
+      {
+        "question": "What is the meaning of the Hebrew word 'berit' (covenant) in the Old Testament: unilateral covenant of grace or bilateral pact?",
+        "options": [
+          "Only a human commercial contract",
+          "Both dimensions exist: unconditional alliance by divine oath (Genesis 15 with Abraham) and conditional alliance committing fidelity (Sinai)",
+          "A Greek word borrowed from Plato",
+          "A term referring only to marriage"
+        ],
+        "correct": 1,
+        "explanation": "In Genesis 15, God passes alone in the form of a torch between the cut animals, himself assuming the oath of alliance."
+      },
+      {
+        "question": "In Genesis 15:6 ('Abram trusted in the LORD, who credited it to him as righteousness'), what Hebrew verb establishes the Pauline doctrine of justification?",
+        "options": [
+          "Bara (create)",
+          "Hashav (count, impute, credit)",
+          "Qadosh (sanctify)",
+          "Shalom (peace)"
+        ],
+        "correct": 1,
+        "explanation": "Paul cites Genesis 15:6 in Romans 4:3 and Galatians 3:6 to show that faith was already counted for righteousness before circumcision and the Law."
+      },
+      {
+        "question": "What does the gesture of 'cutting a wedding ring' (karat berit) mean in the Ancient Near East and in Genesis 15 / Jeremiah 34?",
+        "options": [
+          "Cutting down a sacred tree",
+          "Passing between the halves of shared animals as a sign of self-curse ('may this happen to me if I break the alliance')",
+          "Breaking a peace treaty",
+          "Writing on papyrus"
+        ],
+        "correct": 1,
+        "explanation": "The Hebrew expression 'karat berit' literally means 'to make a covenant', recalling the bloody rite of ratification."
+      },
+      {
+        "question": "What is the theological significance of the 'Sabbath of the earth' and 'Jubilee' in Leviticus 25?",
+        "options": [
+          "A simple agricultural rule without social significance",
+          "Affirm that the land belongs to God alone ('the land is mine, you are in my house as strangers'), preventing perpetual enslavement and concentration of land",
+          "Enrich the big owners",
+          "Prohibit trade with neighbors"
+        ],
+        "correct": 1,
+        "explanation": "Each 7th year (fallow, forgiveness of debts) and 50th year (liberation of slaves, return of family lands) structured an economic justice based on the sovereignty of God."
+      },
+      {
+        "question": "What is the sense of the parallel between the 'six days' of Genesis 1 and the construction of the Tabernacle in Exodus 25-40?",
+        "options": [
+          "No parallel",
+          "In both texts, God speaks in seven speeches, blesses the finished work and enters into his 'rest'/dwelling among the people",
+          "The Tabernacle was built before creation",
+          "Exodus copies a Babylonian temple"
+        ],
+        "correct": 1,
+        "explanation": "Many theologians emphasize that creation is a cosmic temple and that the Tabernacle is the microcosm where God dwells with humanity."
+      },
+      {
+        "question": "What is the meaning of the expression 'God repented' (naham) in Genesis 6:6 or Exodus 32:14 compared to Numbers 23:19 ('God is not a man to repent')?",
+        "options": [
+          "An insoluble contradiction",
+          "Numbers 23:19 denies that God lies or changes His character on a whim; 'naham' anthropopathically expresses one's moral pain and righteous response to human change",
+          "God forgets his promises",
+          "Two different gods speak"
+        ],
+        "correct": 1,
+        "explanation": "The verb 'naham' expresses painful compassion or the renunciation of judgment in the face of intercession or repentance, without calling into question the moral immutability of God."
+      },
+      {
+        "question": "What is the function of the 'book of Chronicles' (1-2 Chronicles) in relation to Samuel and Kings?",
+        "options": [
+          "A simple word-for-word copy",
+          "A post-exilic theological rereading centered on Judah, the Temple, Levitical worship and the Davidic promise to encourage the community returning from exile",
+          "A book about the Roman Empire",
+          "A sequel written by Élie"
+        ],
+        "correct": 1,
+        "explanation": "Written after the exile, the Chronicles largely omit the northern kingdom and David's private sins to highlight legitimate worship and messianic hope."
+      },
+      {
+        "question": "In the Psalms, what is the structural role of Psalm 1 and Psalm 2 placed at the opening of the Psalter?",
+        "options": [
+          "They were placed randomly",
+          "They form a double programmatic introduction: the happiness of the righteous meditating on the Torah (Ps 1) and the victory of God's Anointed King over the nations (Ps 2)",
+          "These are the last two psalms added",
+          "They only talk about Moses"
+        ],
+        "correct": 1,
+        "explanation": "Framed by beatitude ('Blessed is the man...' Ps 1:1 / 'Blessed are all those who trust in him!' Ps 2:12), they provide the key to reading the Psalter."
+      },
+      {
+        "question": "What are the main categories of psalms identified by form criticism (Gunkel)?",
+        "options": [
+          "Only war psalms",
+          "Hymns of praise, lamentations (individual and collective), thanksgiving, royal psalms and psalms of wisdom/pilgrimage",
+          "Only love poems",
+          "Legal laws"
+        ],
+        "correct": 1,
+        "explanation": "This classification helps us understand how the Psalter covers the full range of human experience before God, from distress to doxology."
+      },
+      {
+        "question": "What is the meaning of 'theodicy' in the book of Job compared to the principle of strict retribution defended by his friends?",
+        "options": [
+          "Job proves that God is unjust",
+          "The book refutes the simplistic equation 'all suffering = punishment for personal sin' and calls for selfless faith in the face of the mystery of divine wisdom",
+          "Job's friends were absolutely right",
+          "Job rejects the existence of God"
+        ],
+        "correct": 1,
+        "explanation": "In Job 42:7, God declares that Job spoke righteously about himself, unlike his three friends whose dogmatism unjustly condemned the innocent."
+      },
+      {
+        "question": "In the Song of Solomon, what are the two major traditions of interpretation?",
+        "options": [
+          "A treatise on astronomy or war",
+          "The literal/wisdom reading (celebration of marital love created by God) and the allegorical/typological reading (love between God and Israel, or Christ and the Church)",
+          "A historical account of Solomon in Egypt",
+          "A review of marriage"
+        ],
+        "correct": 1,
+        "explanation": "The two readings complement each other: the goodness of human love (Genesis 2) reflects God's loving covenant with his people (Ephesians 5:32)."
+      },
+      {
+        "question": "What is the meaning of the Hebrew word 'hebel' ('vanity/mist/vapour') repeated 38 times in Ecclesiastes?",
+        "options": [
+          "Mortal sin only",
+          "What is ephemeral, elusive, fleeting and impossible to control by human wisdom alone 'under the sun'",
+          "Material wealth as the highest goal",
+          "Canaanite idolatry"
+        ],
+        "correct": 1,
+        "explanation": "'Hebel' literally means a breath or a vapor: without God above the sun, all human effort seems fleeting and paradoxical."
+      },
+      {
+        "question": "How does Ecclesiastes conclude his existential inquiry (Ecclesiastes 12:13-14)?",
+        "options": [
+          "By total despair and atheism",
+          "'Fear God and observe his commandments. This is what every man must do, for God will bring every work into judgment",
+          "By the praise of money",
+          "By returning to Egypt"
+        ],
+        "correct": 1,
+        "explanation": "Despite the enigmas of life under the sun, Qohelet affirms the moral sense, the joy received from God and the final judgment."
+      },
+      {
+        "question": "In Deuteronomy 30:11-14, what does Moses say about the proximity of God's Word (\"This law is not in heaven...it is near you, in your mouth and in your heart\")?",
+        "options": [
+          "That it is impossible to know",
+          "That God made himself accessible to his people — text taken up by Paul in Romans 10:6-8 to describe the righteousness of faith in Christ",
+          "That you have to cross the sea to find it",
+          "That it is reserved for angels"
+        ],
+        "correct": 1,
+        "explanation": "Paul applies this proximity of the revealed Word to the word of faith preached in the Gospel."
+      },
+      {
+        "question": "What is the role of the 'Book of the Covenant' (Exodus 20:22 - 23:33) immediately after the Decalogue?",
+        "options": [
+          "A list of kings",
+          "A casuistry code applying the principles of the Ten Commandments to the civil, social, judicial and religious life of Israel",
+          "A story of creation",
+          "A prophecy about Babylon"
+        ],
+        "correct": 1,
+        "explanation": "The Book of the Covenant translates moral commandments into concrete laws protecting slaves, widows, orphans, and foreigners."
+      },
+      {
+        "question": "Why does the book of Leviticus place the 'Code of Holiness' (Leviticus 17-26) at the heart of its prescriptions?",
+        "options": [
+          "Only for priests",
+          "To show that ritual holiness is inseparable from moral and social holiness ('Be holy, for I am holy', including Leviticus 19:18: 'You shall love your neighbor as yourself')",
+          "To ban agriculture",
+          "To describe the war against Rome"
+        ],
+        "correct": 1,
+        "explanation": "Leviticus 19 unites respect for parents, judicial fairness, welcoming strangers and love of neighbor under the seal 'I am the Lord'."
+      },
+      {
+        "question": "What is the meaning of 'true fasting' defined by God in Isaiah 58:6-7?",
+        "options": [
+          "Eat nothing for 40 days in silence",
+          "Loosen the chains of wickedness, share your bread with the hungry and collect the unfortunate",
+          "Offer a thousand bulls in the Temple",
+          "Wearing torn clothes in public"
+        ],
+        "correct": 1,
+        "explanation": "The prophets (Isaiah 58, Amos 5, Micah 6) denounce a purely external worship cut off from justice and mercy."
+      },
+      {
+        "question": "In 1 Samuel 15:22, what fundamental maxim does Samuel address to Saul after his disobedience regarding Amalek?",
+        "options": [
+          "'Gold is better than prayer'",
+          "'Obedience is better than sacrifice, and keeping his word is better than the fat of rams'",
+          "'The king is above the law'",
+          "'Priests decide alone'"
+        ],
+        "correct": 1,
+        "explanation": "This word places the constant priority of obedience of the heart over sacrificial rites."
+      },
+      {
+        "question": "What is the theological significance of Solomon's prayer at the dedication of the Temple (1 Kings 8:27-43)?",
+        "options": [
+          "He claims that God is locked in the Temple",
+          "He acknowledges that 'heaven and the heaven of heavens cannot contain you', but prays that God will also listen to the stranger who calls on his name to this place",
+          "He forbids strangers from approaching",
+          "He calls for the destruction of nations"
+        ],
+        "correct": 1,
+        "explanation": "Solomon affirms both the absolute transcendence of God and the universal openness of the Temple to the prayer of all nations."
+      },
+      {
+        "question": "In Genesis 12:1-3, what are the three dimensions of the promise made to Abram?",
+        "options": [
+          "Only gold",
+          "One land (Canaan), one great seed (nation) and a universal blessing for all the families of the earth",
+          "Victory over Babylon",
+          "The construction of Rome"
+        ],
+        "correct": 1,
+        "explanation": "These three promises structure the entire Pentateuch and find their ultimate fulfillment in the Covenant in Christ."
+      },
+      {
+        "question": "What is the meaning of the episode of 'Jacob's struggle with Peniel' (Genesis 32:24-31)?",
+        "options": [
+          "A simple fight with a bandit",
+          "The mysterious encounter with God who breaks Jacob's self-sufficiency (dislocated hip) and blesses him by naming him Israel",
+          "A military victory over Esau",
+          "A dream without consequences"
+        ],
+        "correct": 1,
+        "explanation": "Jacob now limps but receives divine blessing; Hosea 12:5 records that he wept and begged for mercy."
+      },
+      {
+        "question": "What is the theological significance of the 'theophany of Horeb' for the discouraged Elijah (1 Kings 19:11-13)?",
+        "options": [
+          "God only appears in violence",
+          "God was neither in the hurricane, nor in the earthquake, nor in the fire, but in a 'soft and light whisper' (voice of end of silence)",
+          "Elijah is definitively rejected",
+          "Elijah must return to Egypt"
+        ],
+        "correct": 1,
+        "explanation": "After the flamboyant spectacle of Carmel, God teaches Elijah that He also acts discreetly and keeps a remnant of 7,000 faithful."
+      },
+      {
+        "question": "What is the role of the 'Book of Ruth' in salvation history and OT theology?",
+        "options": [
+          "A simple pastoral anecdote",
+          "Showing faithfulness (hesed) through a Moabite stranger integrated into the messianic genealogy of David (David's great-grandmother) thanks to the redeemer (go'el) Boaz",
+          "Prohibit all marriages with converts",
+          "Describe the laws of war"
+        ],
+        "correct": 1,
+        "explanation": "Ruth illustrates the opening of divine grace to the nations and prefigures Christ as kinsman-redeemer (go'el)."
+      },
+      {
+        "question": "In the Psalms of Royal Enthronement (Psalms 93:95-99), what is the central theme proclaimed?",
+        "options": [
+          "The glory of Babylon",
+          "'The Lord reigns!' (YHWH Malak) — the universal and righteous kingship of God over all creation and peoples",
+          "The death of kings",
+          "The escape into the desert"
+        ],
+        "correct": 1,
+        "explanation": "These psalms celebrate God as Creator and sovereign Judge before whom all the earth rejoices."
+      },
+      {
+        "question": "What is the meaning of 'blessing and cursing' in Deuteronomy 27-28?",
+        "options": [
+          "A magic spell",
+          "The natural and covenant consequences of fidelity to the Torah (life, peace, fruitfulness) or apostasy (exile, dispersion)",
+          "Promises reserved for Egyptians",
+          "A text written after Jesus Christ"
+        ],
+        "correct": 1,
+        "explanation": "Moses places before Israel 'life and good, death and evil' (Deuteronomy 30:15-19), calling for them to choose life."
+      },
+      {
+        "question": "In Daniel 1, why do Daniel and his three companions refuse food from the king's table?",
+        "options": [
+          "By simple modern vegetarian diet",
+          "To avoid defiling oneself with impure foods or foods consecrated to Babylonian idols, remaining faithful to the Covenant in the land of exile",
+          "Because the food was spoiled",
+          "By order of Ezekiel"
+        ],
+        "correct": 1,
+        "explanation": "Their faithfulness in the little daily things paves the way for the wisdom that God grants them before Nebuchadnezzar."
+      },
+      {
+        "question": "What is the meaning of the heroic response of the three young Hebrews in Daniel 3:17-18 ('Our God can deliver us... and even if he did not...')?",
+        "options": [
+          "A doubt about the power of God",
+          "An unconditional faith that obeys God out of love and faithfulness, whatever the earthly outcome",
+          "A bargain with the king",
+          "An acceptance of idolatry"
+        ],
+        "correct": 1,
+        "explanation": "Their confession manifests that faithfulness to God does not depend on a guarantee of comfort or immediate deliverance."
+      },
+      {
+        "question": "What is special about the book of Jonah compared to other prophetic books?",
+        "options": [
+          "It only contains laws",
+          "It reports almost no oracles but tells the story of a recalcitrant prophet sent to a pagan city (Nineveh) to reveal the universal compassion of God",
+          "It is written in Aramaic only",
+          "He speaks exclusively of Jerusalem"
+        ],
+        "correct": 1,
+        "explanation": "The book questions narrow nationalism and shows that God's heart is also moved for the 120,000 inhabitants of Nineveh."
+      },
+      {
+        "question": "In Malachi 3:8-10, on what specific point does God test his people?",
+        "options": [
+          "Building a tower",
+          "Faithfulness in tithes and offerings, promising to open the windows of heaven",
+          "The conquest of Persia",
+          "The 70 day fast"
+        ],
+        "correct": 1,
+        "explanation": "Malachi rebukes the priests and people for their cultic and moral negligence while promising abundant blessing upon repentance."
+      },
+      {
+        "question": "In Genesis 50:20, what famous word does Joseph address to his brothers summarizing divine providence?",
+        "options": [
+          "'I'm finally going to get revenge'",
+          "'You planned to do me harm: God changed it for good, to accomplish what is happening today, to save the lives of many people'",
+          "'God caused your sin'",
+          "'Go back to Canaan without me'"
+        ],
+        "correct": 1,
+        "explanation": "This verse masterfully articulates human responsibility for evil and God's benevolent sovereignty which returns it to salvation."
+      },
+      {
+        "question": "What does Deuteronomy 8:3 teach ('Man does not live by bread alone, but by everything that proceeds from the mouth of the LORD')?",
+        "options": [
+          "That it is forbidden to eat bread",
+          "That dependence on God's Word is more vital than material food - verse cited by Jesus against Satan",
+          "That the manna will last forever",
+          "That the desert is fertile"
+        ],
+        "correct": 1,
+        "explanation": "Jesus repeats this verse exactly during his first temptation in the desert (Matthew 4:4)."
+      },
+      {
+        "question": "What is the significance of the episode of the 'sacrifice of Jephthah' (Judges 11) and how do exegetes read it?",
+        "options": [
+          "As a model to imitate approved by God",
+          "As a tragic example of religious and syncretistic corruption in the time of the Judges ('everyone did what seemed good to him'), condemned by the Law (Dt 12:31)",
+          "Like an official law of Moses",
+          "Like a Greek fable"
+        ],
+        "correct": 1,
+        "explanation": "The book of Judges describes the gradual moral fall of Israel without endorsing the actions of its flawed heroes."
+      },
+      {
+        "question": "In Leviticus 17:11, why is blood forbidden for consumption and reserved for the altar?",
+        "options": [
+          "For purely aesthetic reasons",
+          "'For the life (nephesh) of the flesh is in the blood. I have given it to you on the altar, that it may be an atonement for your souls.",
+          "Because the Egyptians drank it",
+          "Because it was rare"
+        ],
+        "correct": 1,
+        "explanation": "This verse establishes the biblical theology of sacrifice: it is the life given which makes atonement, a principle fulfilled in Christ (Hebrews 9:22)."
+      },
+      {
+        "question": "What is the meaning of 'Psalm 8' ('What is man, that you should remember him?') in its dual creational and messianic scope?",
+        "options": [
+          "He reduces man to nothingness",
+          "It celebrates the royal dignity entrusted to humanity over creation, brought to perfection in Jesus Christ (Hebrews 2:6-9)",
+          "He only talks about angels",
+          "He describes Babylon"
+        ],
+        "correct": 1,
+        "explanation": "The epistle to the Hebrews shows that if man does not yet fully exercise this dominion, we already see Jesus crowned with glory and honor."
+      },
+      {
+        "question": "In Proverbs 8:22-31, how is 'Wisdom' (Hokhmah) personified?",
+        "options": [
+          "Like a pagan goddess rival of YHWH",
+          "As present with God since before creation, joyful master builder of the universe - figure which nourishes the Christology of the Logos (John 1, Col 1)",
+          "Like a late human invention",
+          "Like a fallen angel"
+        ],
+        "correct": 1,
+        "explanation": "The poetic personification of divine Wisdom prepares the New Testament affirmation that Christ is the Wisdom and creative Word of God."
+      },
+      {
+        "question": "What is the structure of Exodus into two major theological parts?",
+        "options": [
+          "Creation then flood",
+          "Deliverance from slavery (ch. 1-18), then Covenant and construction of the Dwelling of God in the midst of his people (ch. 19-40)",
+          "War then exile",
+          "Proverbs then psalms"
+        ],
+        "correct": 1,
+        "explanation": "God not only frees Israel from Pharaoh: He brings them to Himself (Exodus 19:4) to dwell in the midst of his camp."
+      },
+      {
+        "question": "What is the meaning of the name 'Ehyeh Asher Ehyeh' ('I am who I am' / 'I will be who I will be') revealed to Moses in Exodus 3:14?",
+        "options": [
+          "A riddle to refuse to answer",
+          "The revelation of the autonomous, eternal and faithfully present existence of God to his people to deliver them",
+          "An Egyptian title",
+          "A name reserved for Solomon"
+        ],
+        "correct": 1,
+        "explanation": "This name emphasizes both the absolute being of God and his active and faithful presence in the history of Israel."
+      },
+      {
+        "question": "In 2 Samuel 7:12-16, what unconditional promise did God make to David through the prophet Nathan?",
+        "options": [
+          "That Solomon will live a thousand years",
+          "That his house, his throne and his kingdom will be established forever — central messianic promise",
+          "That Jerusalem will never be attacked",
+          "That David will build the Temple himself"
+        ],
+        "correct": 1,
+        "explanation": "Even if his descendants are punished when they sin, the Davidic covenant remains irrevocable and is fulfilled in Jesus, son of David (Luke 1:32-33)."
+      },
+      {
+        "question": "What role did the 'court prophets' opposed to Micah or Jeremiah play in the Old Testament?",
+        "options": [
+          "They always told the truth",
+          "They flattered the kings by announcing 'Peace! Peace !' when there was no peace, without a call to repentance",
+          "They lived in the desert",
+          "They were all Levite priests"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah 6:14 and 23 denounce these false prophets who lightly healed the wound of the people without denouncing sin."
+      },
+      {
+        "question": "In Numbers 6:24-26, what are the three increasing movements of the Aaronic blessing?",
+        "options": [
+          "Wealth, victory, long life",
+          "Protection ('bless you and keep you'), grace ('make his face shine and give you grace'), and peace ('turn his face and give you peace')",
+          "Fasting, prayer, alms",
+          "Wisdom, strength, beauty"
+        ],
+        "correct": 1,
+        "explanation": "Each Hebrew line lengthens (3, 5, then 7 words), culminating in the supreme gift of divine 'Shalom'."
+      },
+      {
+        "question": "What is the meaning of the term 'Shalom' in the Old Testament beyond the simple absence of war?",
+        "options": [
+          "Absolute silence",
+          "Fullness, integrity, relational harmony with God, with others and with creation",
+          "Financial wealth only",
+          "Loneliness"
+        ],
+        "correct": 1,
+        "explanation": "'Shalom' expresses complete well-being and the restoration of order desired by God."
+      },
+      {
+        "question": "In Genesis 22, why does Abraham name the place of sacrifice 'Yahweh Jireh'?",
+        "options": [
+          "'The Lord judges'",
+          "'The Lord will provide' (lit. 'will see/provide himself with a lamb')",
+          "'The Lord destroys'",
+          "'The holy mountain'"
+        ],
+        "correct": 1,
+        "explanation": "This name answers Isaac's question ('where is the lamb?') and prophesies God's ultimate provision in Christ (Genesis 22:8,14)."
+      },
+      {
+        "question": "What is the meaning of the 'veil' on Moses' face in Exodus 34:29-35 according to Paul in 2 Corinthians 3?",
+        "options": [
+          "Moses hid a wound",
+          "Moses veiled the passing glory of the old covenant which was fading away; in Christ, the veil is removed to contemplate with open face the glory of the Lord",
+          "The people were afraid of the sun",
+          "The veil symbolized Moses' sin"
+        ],
+        "correct": 1,
+        "explanation": "Paul contrasts the diminishing glory of the ministry of the letter with the abiding and transforming glory of the Spirit (2 Corinthians 3:7-18)."
+      },
+      {
+        "question": "In Isaiah 1:18, what vivid image of forgiveness does God use?",
+        "options": [
+          "'Your sins are engraved in bronze'",
+          "'Though your sins be like scarlet, they shall be as white as snow; if they are red like purple, they will become like wool'",
+          "'Your sins will be forgotten after a thousand years'",
+          "'Only priests are forgiven'"
+        ],
+        "correct": 1,
+        "explanation": "God calls his people to plea and offers a total cleansing impossible for man alone."
+      },
+      {
+        "question": "What is the importance of the book of Habakkuk in the biblical theology of faith?",
+        "options": [
+          "He only talks about war",
+          "He confronts the problem of evil and unpunished injustice and responds with patient confidence: 'the righteous shall live by his faith' and joy in God even in destitution (Hab 3:17-18).",
+          "He gives dietary laws",
+          "It tells the life of David"
+        ],
+        "correct": 1,
+        "explanation": "Habakkuk goes from lament ('How long?') to the hymn of unwavering faith, even when fig trees, vines and flocks are lacking."
+      },
+      {
+        "question": "In the so-called 'imprecatory' Psalms (e.g. Psalm 109, 137), how does biblical theology understand these cries against the oppressors?",
+        "options": [
+          "Like a license for armed personal revenge",
+          "Such as placing vengeance in the hands of the righteous God rather than taking justice into one's own hands (Romans 12:19), expressing a horror of evil",
+          "Like translation errors",
+          "Like prayers to angels"
+        ],
+        "correct": 1,
+        "explanation": "These psalms honestly surrender wrath before God, trusting the Judge of all the earth to restore justice."
+      },
+      {
+        "question": "What is the connection between the 'Feast of Weeks' (Shavuot) in the OT and the Christian Pentecost?",
+        "options": [
+          "No link",
+          "Shavuot celebrated the first fruits of the harvest 50 days after Passover (and the giving of the Torah in Jewish tradition); at Pentecost, the Spirit is poured out and 3000 souls form the firstfruits of the Church",
+          "Shavuot took place in winter",
+          "It was a Babylonian festival"
+        ],
+        "correct": 1,
+        "explanation": "The typological fulfillment unites the firstfruits of the harvest and the outpouring of the Spirit writing the law on hearts (Acts 2)."
+      },
+      {
+        "question": "In 1 Kings 8:46 and Ecclesiastes 7:20, what anthropological truth is affirmed from the Old Testament?",
+        "options": [
+          "That some men are without sin",
+          "'There is no righteous man on earth who does good and never sins'",
+          "That only Adam sinned",
+          "That kings are infallible"
+        ],
+        "correct": 1,
+        "explanation": "The universality of sin is already clearly taught in the OT, preparing for the announcement of universal grace in Christ (Romans 3:10-23)."
       }
     ]
   }

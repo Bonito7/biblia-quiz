@@ -165,6 +165,523 @@
         ],
         "correct": 1,
         "explanation": "Isaya 2:2-4 / Mika 4: 1-3: \"Mataifa watapanda juu ya mlima wa Bwana ili kujifunza njia zake."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba Yesu ataitwa Imanueli ('Mungu pamoja nasi')?",
+        "options": [
+          "Yeremia",
+          "Isaya",
+          "Ezekieli",
+          "Amosi"
+        ],
+        "correct": 1,
+        "explanation": "Isaya 7:14 inasema, 'Tazama, msichana atachukua mimba na kuzaa mtoto mwanamume, naye atamwita jina lake Imanueli.'"
+      },
+      {
+        "question": "Ni nabii gani aliyemtaja Masihi kuwa ‘Mfalme wa Amani’ na ‘Mungu Mwenye Nguvu’?",
+        "options": [
+          "Mika",
+          "Isaya",
+          "Hosea",
+          "Yoeli"
+        ],
+        "correct": 1,
+        "explanation": "Isaya 9:5-6 inamtaja Masihi kuwa Mshauri wa Ajabu, Mungu Mwenye Nguvu, Baba wa Milele, Mfalme wa Amani."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba Masiya angezaliwa kutoka katika ukoo wa Daudi (tawi kutoka shina la Yese)?",
+        "options": [
+          "Yona",
+          "Isaya",
+          "Obadia",
+          "Malaki"
+        ],
+        "correct": 1,
+        "explanation": "Isaya 11:1 inatabiri kwamba tawi litatoka katika shina la Yese, baba yake Mfalme Daudi."
+      },
+      {
+        "question": "Ni kitabu gani cha Zaburi kinachoanza na kilio 'Mungu wangu, Mungu wangu, mbona umeniacha?' iliyosemwa na Yesu msalabani?",
+        "options": [
+          "Zaburi 1",
+          "Zaburi 22",
+          "Zaburi 51",
+          "Zaburi 119"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi 22 inaelezea kwa usahihi mateso ya kusulubiwa (mikono na miguu iliyopigwa, nguo zilizogawanywa kwa kura)."
+      },
+      {
+        "question": "Kulingana na Zaburi 22:18 , askari-jeshi walifanya nini na mavazi ya Masihi?",
+        "options": [
+          "Walizichoma moto",
+          "Walipiga kura",
+          "Wakawatupa baharini",
+          "Wakavirudisha kwa mama yake"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi 22:18 inatangaza: 'Wanagawa nguo zangu kati yao, wanapiga kura kwa ajili ya vazi langu', iliyotimizwa chini ya msalaba (Yohana 19:24)."
+      },
+      {
+        "question": "Ni unabii gani wa Agano la Kale uliotabiri kwamba hakuna mfupa wowote wa Masihi ungevunjwa?",
+        "options": [
+          "Zaburi 34:20 (na Kutoka 12:46)",
+          "Zaburi 1:1",
+          "Mithali 3:5",
+          "Isaya 40:3"
+        ],
+        "correct": 0,
+        "explanation": "Zaburi 34:20 inasema 'Yeye huiweka mifupa yake yote, hakuna hata mmoja wao kuvunjwa', alinukuliwa wakati wa kusulubiwa (Yohana 19:36)."
+      },
+      {
+        "question": "Ni nabii gani alitangaza: 'Alijeruhiwa kwa dhambi zetu, alivunjwa kwa maovu yetu'?",
+        "options": [
+          "Yeremia",
+          "Isaya (sura ya 53)",
+          "Ezekieli",
+          "Amosi"
+        ],
+        "correct": 1,
+        "explanation": "Isaya 53:5 inaeleza mateso ya ukombozi ya Mtumishi wa Bwana."
+      },
+      {
+        "question": "Ni nabii gani aliyemezwa na samaki mkubwa kwa siku 3, akifananisha ufufuo wa Yesu?",
+        "options": [
+          "Eliya",
+          "Yona",
+          "Daniel",
+          "Habakuki"
+        ],
+        "correct": 1,
+        "explanation": "Yesu mwenyewe analinganisha siku 3 za Yona ndani ya samaki na kukaa kwake mwenyewe kaburini (Mathayo 12:40)."
+      },
+      {
+        "question": "Ni nabii gani aliyetabiri kwamba Masiya angefanya vipofu kuona, viziwi wasikie, na vilema watembee?",
+        "options": [
+          "Isaya (sura ya 35)",
+          "Obadia",
+          "Nahumu",
+          "Sefania"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 35:5-6 inatangaza uponyaji huu wa kimasiya, ambao Yesu anataja kuwajibu wanafunzi wa Yohana Mbatizaji (Mathayo 11:5)."
+      },
+      {
+        "question": "Ni nabii gani alitangaza mauaji ya watoto katika Bethlehemu ('Raheli analilia watoto wake')?",
+        "options": [
+          "Yeremia ( 31:15 )",
+          "Yona",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Mathayo 2:17-18 inanukuu Yeremia 31:15 wakati wa mauaji ya watu wasio na hatia yaliyoamriwa na Herode."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba Masiya angehubiri ‘habari njema kwa maskini’ (iliyosomwa na Yesu huko Nazareti)?",
+        "options": [
+          "Isaya ( 61:1 )",
+          "Amosi",
+          "Malaki",
+          "Yona"
+        ],
+        "correct": 0,
+        "explanation": "Katika sinagogi la Nazareti, Yesu alisoma Isaya 61:1-2 na kusema: ‘Leo neno hili limetimia’ ( Luka 4:18-21 )."
+      },
+      {
+        "question": "Ni nani aliyetangaza kuharibiwa kwa Yerusalemu na uhamisho wa Babeli?",
+        "options": [
+          "Yona",
+          "Yeremia",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 1,
+        "explanation": "Yeremia alionya kwa miaka arobaini kwamba Babeli ingeharibu Yerusalemu ikiwa watu hawatatubu."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba Masiya angetanguliwa na mjumbe anayetayarisha njia?",
+        "options": [
+          "Malaki ( 3:1 )",
+          "Obadia",
+          "Nahumu",
+          "Yona"
+        ],
+        "correct": 0,
+        "explanation": "Malaki 3:1 hutangaza hivi: ‘Tazama, namtuma mjumbe wangu; ataitengeneza njia mbele yangu', iliyotimizwa katika Yohana Mbatizaji."
+      },
+      {
+        "question": "Katika kitabu gani tunapata unabii wa sanamu yenye miguu ya udongo na chuma?",
+        "options": [
+          "Isaya",
+          "Danieli (sura ya 2)",
+          "Ezekieli",
+          "Zekaria"
+        ],
+        "correct": 1,
+        "explanation": "Danieli alifasiri ndoto ya Nebukadreza ya falme nne ikifuatiwa na ufalme wa milele ulioanzishwa na Mungu (Danieli 2)."
+      },
+      {
+        "question": "Katika ndoto ya Nebukadreza (Danieli 2), jiwe lililolegea lilifanya nini bila msaada wa mkono wowote?",
+        "options": [
+          "Anazama baharini",
+          "Anaivunja sanamu hiyo na kuwa mlima mkubwa unaoijaza dunia yote",
+          "Inageuka kuwa dhahabu",
+          "Anatoweka angani"
+        ],
+        "correct": 1,
+        "explanation": "Jiwe hili linawakilisha Ufalme wa Mungu ambao utaharibu falme zote za wanadamu na kudumu milele (Danieli 2:34-44)."
+      },
+      {
+        "question": "Ni nabii gani alitangaza hukumu ya ulimwengu na ujio wa 'Mwana wa Adamu' juu ya mawingu ya mbinguni?",
+        "options": [
+          "Amosi",
+          "Danieli (sura ya 7)",
+          "Hosea",
+          "Yona"
+        ],
+        "correct": 1,
+        "explanation": "Danieli 7:13-14 inaeleza Mwana wa Adamu akija juu ya mawingu ya mbinguni kupokea utawala wa milele."
+      },
+      {
+        "question": "Ni nabii gani aliyetabiri kwamba panga zingepigwa ziwe majembe na mikuki iwe miundu?",
+        "options": [
+          "Isaya (na Mika)",
+          "Yona",
+          "Obadia",
+          "Nahumu"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 2:4 na Mika 4:3 yatangaza enzi hii ya amani ya ulimwengu wote mzima wakati mataifa hayatajifunza vita tena."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba mfalme mwadilifu angekuja Yerusalemu akiwa amepanda punda?",
+        "options": [
+          "Zekaria (9:9)",
+          "Hagai",
+          "Malaki",
+          "Yoeli"
+        ],
+        "correct": 0,
+        "explanation": "Yesu alitimiza kihalisi Zekaria 9:9 wakati wa kuingia kwake kwa ushindi Yerusalemu (Mathayo 21:4-5)."
+      },
+      {
+        "question": "Je, ni unabii gani wa AK unaotangaza kwamba Masihi angedharauliwa na kukataliwa na wanadamu?",
+        "options": [
+          "Isaya 53:3",
+          "Zaburi 23:1",
+          "Mithali 1:7",
+          "Mwanzo 1:1"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 53:3 inamfafanua Mtumishi huyo kuwa ‘aliyedharauliwa na kuachwa na watu, mtu wa huzuni na mzoefu wa mateso’."
+      },
+      {
+        "question": "Ni zaburi ipi inatangaza hivi: ‘Hutaiacha nafsi yangu kuzimu, wala hutamruhusu mpendwa wako aone uharibifu’?",
+        "options": [
+          "Zaburi 16:10",
+          "Zaburi 1:1",
+          "Zaburi 100:1",
+          "Zaburi 150:1"
+        ],
+        "correct": 0,
+        "explanation": "Petro na Paulo wanataja Zaburi 16:10 kama unabii wa ufufuo wa Kristo (Matendo 2:27; 13:35)."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba Masihi angeitwa ‘Bwana haki yetu’?",
+        "options": [
+          "Yeremia ( 23:6 )",
+          "Yona",
+          "Obadia",
+          "Habakuki"
+        ],
+        "correct": 0,
+        "explanation": "Yeremia 23:5-6 inatangaza tawi la haki lililoinuliwa katika Daudi ambalo jina lake litakuwa 'Bwana haki yetu'."
+      },
+      {
+        "question": "Ni unabii gani wa Mwanzo unaosema kwamba wazao wa mwanamke wangeponda kichwa cha nyoka?",
+        "options": [
+          "Mwanzo 3:15",
+          "Mwanzo 11:9",
+          "Mwanzo 19:26",
+          "Mwanzo 37:28"
+        ],
+        "correct": 0,
+        "explanation": "Mwanzo 3:15 inaitwa 'Protegospel', ahadi ya kwanza ya ushindi juu ya Shetani kupitia uzao wa mwanamke."
+      },
+      {
+        "question": "Ni mzee gani ambaye Mungu aliahidi kwamba familia zote za dunia zingebarikiwa katika uzao wake?",
+        "options": [
+          "Nuhu",
+          "Ibrahimu (Mwanzo 12:3)",
+          "Kundi",
+          "Esau"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alimwahidi Ibrahimu kwamba mataifa yote yatabarikiwa katika uzao wake, ahadi iliyotimizwa katika Kristo (Wagalatia 3:8)."
+      },
+      {
+        "question": "Ni kutoka kabila gani la Israeli alikuwa Masihi ('Shilo') aje kulingana na baraka za Yakobo katika Mwanzo 49:10?",
+        "options": [
+          "Ruben",
+          "Yuda",
+          "Lawi",
+          "Benjamin"
+        ],
+        "correct": 1,
+        "explanation": "Yakobo alitabiri kwamba fimbo ya enzi haitaondoka katika Yuda hadi Shilo aje (Mwanzo 49:10)."
+      },
+      {
+        "question": "Ni nabii gani aliyetabiri kwamba nyota ingetoka kwa Yakobo na fimbo ya enzi itatokea katika Israeli?",
+        "options": [
+          "Balaamu ( Hesabu 24:17 )",
+          "Yona",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Balaamu alitamka neno hili la kimasihi juu ya nyota ya Yakobo (Hesabu 24:17), iliyokumbukwa na nyota ya Mamajusi."
+      },
+      {
+        "question": "Ni nabii gani ambaye Musa alitangaza kwamba Mungu angemwinua kati ya ndugu zake kama yeye?",
+        "options": [
+          "Nabii mkuu kama Musa (Kumbukumbu la Torati 18:15)",
+          "Malaika",
+          "Mfalme wa Misri",
+          "Mfarisayo"
+        ],
+        "correct": 0,
+        "explanation": "Kumbukumbu la Torati 18:15-18 inaahidi nabii kama Musa ambaye Israeli wote wanapaswa kumsikiliza—ilitumika kwa Yesu (Matendo 3:22)."
+      },
+      {
+        "question": "Ni nabii gani aliyepokea maono ya Bwana akiwa ameketi kwenye kiti cha enzi kirefu na maserafi wakilia 'Mtakatifu, mtakatifu, mtakatifu'?",
+        "options": [
+          "Isaya (sura ya 6)",
+          "Yona",
+          "Habakuki",
+          "Sefania"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 6 inarekodi maono yake ya uzinduzi katika Hekalu na utume mgumu uliotangazwa kwa watu wagumu."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kujengwa upya kwa Hekalu baada ya uhamisho kwa kuwatia moyo Zerubabeli na Yoshua?",
+        "options": [
+          "Hagai (na Zekaria)",
+          "Amosi",
+          "Hosea",
+          "Yeremia"
+        ],
+        "correct": 0,
+        "explanation": "Hagai na Zekaria waliwatia moyo watu mwaka 520 KK. BC kuanza tena ujenzi wa Hekalu la Pili."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba utukufu wa nyumba ya pili (Hekalu) ungekuwa mkuu kuliko ule wa kwanza?",
+        "options": [
+          "Hagai ( 2:9 )",
+          "Obadia",
+          "Nahumu",
+          "Yona"
+        ],
+        "correct": 0,
+        "explanation": "Hagai 2:9 inaahidi kwamba Yule Anayetamaniwa wa mataifa yote atakuja na kuijaza nyumba hii utukufu."
+      },
+      {
+        "question": "Nani alitabiri katika Agano Jipya kuzaliwa kwa Yesu kwa muujiza kwa Mariamu?",
+        "options": [
+          "Malaika Gabrieli",
+          "Nabii Eliya",
+          "Mtume Petro",
+          "Kuhani mkuu Kayafa"
+        ],
+        "correct": 0,
+        "explanation": "Malaika Gabrieli alitangaza kwa Mariamu kwamba atamzaa Mwana wa Aliye Juu Zaidi, ambaye utawala wake hautakuwa na mwisho (Luka 1:31-33)."
+      },
+      {
+        "question": "Ni mzee gani mcha Mungu katika Hekalu aliyetabiri kwamba mtoto Yesu angekuwa ‘nuru ya kuwaangazia mataifa’?",
+        "options": [
+          "Nikodemo",
+          "Simeoni ( Luka 2:29-32 )",
+          "Zekaria",
+          "Yusufu wa Arimathaya"
+        ],
+        "correct": 1,
+        "explanation": "Simeoni alimchukua Yesu mikononi mwake na kutamka wimbo 'Nunc Dimittis', akitangaza wokovu kwa watu wote."
+      },
+      {
+        "question": "Ni unabii gani ambao Yesu alizungumza kuhusu Hekalu la Yerusalemu kwa wanafunzi wake?",
+        "options": [
+          "Kwamba ingedumu milele bila uharibifu",
+          "Kwamba lisingebaki jiwe juu ya jiwe ambalo halitapinduliwa",
+          "Kwamba atasafirishwa hadi Rumi",
+          "Kwamba itakuwa ikulu ya Kigiriki"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alitangaza uharibifu wa Hekalu (Mathayo 24:2), uliokamilishwa na majeshi ya Kirumi mwaka 70 BK. AD"
+      },
+      {
+        "question": "Yesu alitabiri tukio gani kwa Petro kabla ya jogoo kuwika?",
+        "options": [
+          "Kwamba angekuwa mfalme",
+          "Kwamba atamkana mara tatu",
+          "Kwamba angeenda Babeli",
+          "Kwamba angeandika injili"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alitabiri kwa Petro kwamba kabla ya jogoo kuwika, atamkana mara tatu (Mathayo 26:34)."
+      },
+      {
+        "question": "Ni unabii gani mtume Paulo anakumbuka katika 1 Wathesalonike 4 kuhusu kurudi kwa Bwana?",
+        "options": [
+          "Mwisho wa mafuriko",
+          "Bwana mwenyewe atashuka kutoka mbinguni na waliokufa katika Kristo watafufuliwa kwanza",
+          "Kuanguka kwa Ninawi",
+          "Kujengwa upya kwa Babeli"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anafundisha kuhusu ufufuo wa wafu katika Kristo na kunyakuliwa kwa walio hai ili kukutana na Bwana (1 Wathesalonike 4:16-17)."
+      },
+      {
+        "question": "Ni nabii gani aliyetabiri kwamba Masihi angenyamaza mbele ya washtaki wake ‘kama mwana-kondoo anayepelekwa machinjoni’?",
+        "options": [
+          "Isaya ( 53:7 )",
+          "Yona",
+          "Obadia",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 53:7 inaeleza ukimya wa Mtumishi Mteso, kifungu ambacho towashi Mwethiopia alisoma katika Matendo 8:32."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba maji ya Bahari ya Chumvi yangetakaswa na mto unaotiririka kutoka Hekaluni?",
+        "options": [
+          "Ezekieli (sura ya 47)",
+          "Yona",
+          "Amosi",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Ezekieli 47 inaeleza mto wa uzima unaotiririka kutoka patakatifu pa patakatifu na kuponya Bahari ya Chumvi hadi ukatoa uhai kila mahali."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kuzaliwa kwa uzao wa haki ambao wataishi kwa imani yao ('wenye haki wataishi kwa imani yao')?",
+        "options": [
+          "Habakuki ( 2:4 )",
+          "Obadia",
+          "Yona",
+          "Hagai"
+        ],
+        "correct": 0,
+        "explanation": "Habakuki 2:4 ni mojawapo ya aya za unabii za msingi zilizochukuliwa na Paulo katika Warumi 1:17 na Wagalatia 3:11."
+      },
+      {
+        "question": "Ni unabii gani kutoka katika Ufunuo unaotangaza kutoweka kwa kifo, maombolezo na machozi?",
+        "options": [
+          "Ufunuo 21:4",
+          "Ufunuo 2:1",
+          "Ufunuo 13:18",
+          "Ufunuo 6:1"
+        ],
+        "correct": 0,
+        "explanation": "Andiko la Ufunuo 21:4 linaahidi kwamba Mungu atafuta kila chozi na kwamba kifo, kilio, na maumivu hayatakuwapo tena."
+      },
+      {
+        "question": "Ni nabii gani aliyetabiri kwamba Masihi angesalitiwa na rafiki wa karibu aliyekula mkate wake?",
+        "options": [
+          "Daudi ( Zaburi 41:9 )",
+          "Yona",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Yesu ananukuu Zaburi 41:9 ('Aliyekula mkate pamoja nami ameniinulia kisigino chake') kuhusu Yuda (Yohana 13:18)."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba Mungu angewapa kinywaji bure wale walio na kiu (“Njooni majini, ninyi nyote mlio na kiu”)?",
+        "options": [
+          "Isaya ( 55:1 )",
+          "Obadia",
+          "Nahumu",
+          "Sefania"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 55:1-3 inaalika majini bure na kuingia katika agano la milele kulingana na neema alizoahidiwa Daudi."
+      },
+      {
+        "question": "Ni nabii gani alisema kwamba Mungu angefukuza kifo milele na kufuta machozi katika nyuso zote?",
+        "options": [
+          "Isaya ( 25:8 )",
+          "Yona",
+          "Obadia",
+          "Hagai"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 25:8 inatangaza sikukuu ya eskatolojia ambapo Mungu huharibu kifo milele, inayotajwa katika 1 Wakorintho 15:54."
+      },
+      {
+        "question": "Ni nabii gani katika kitabu cha Matendo alitabiri njaa kubwa duniani kote chini ya Maliki Klaudio?",
+        "options": [
+          "Agabo (Matendo 11:28)",
+          "Etienne",
+          "Barnaba",
+          "Timotheo"
+        ],
+        "correct": 0,
+        "explanation": "Agabo, nabii aliyeshuka kutoka Yerusalemu kwenda Antiokia, alitangaza kwa uwezo wa Roho njaa kuu iliyotokea chini ya Klaudio."
+      },
+      {
+        "question": "Ni nabii gani alitabiri kwamba Paulo angefungwa na Wayahudi huko Yerusalemu kwa kuchukua mshipi wake mwenyewe?",
+        "options": [
+          "Agabo (Matendo 21:10-11)",
+          "Philip",
+          "Sila",
+          "Anania"
+        ],
+        "correct": 0,
+        "explanation": "Huko Kaisaria, Agabo alichukua mshipi wa Paulo, akamfunga mikono na miguu, na akatangaza kukamatwa kwake huko Yerusalemu."
+      },
+      {
+        "question": "Ni unabii gani wa Zekaria unaotangaza mfalme mnyenyekevu anayeleta amani kwa mataifa hadi miisho ya dunia?",
+        "options": [
+          "Zekaria 9:9-10",
+          "Zekaria 1:1",
+          "Obadia 1:1",
+          "Nahumu 1:1"
+        ],
+        "correct": 0,
+        "explanation": "Zekaria 9:9-10 inaunganisha unyenyekevu wa mfalme juu ya mwana-punda na utawala wake wa amani wa ulimwengu wote mzima."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba Masihi angebeba dhambi za wengi na kuwaombea wenye hatia?",
+        "options": [
+          "Isaya ( 53:12 )",
+          "Yona",
+          "Obadia",
+          "Hagai"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 53:12 inatimizwa msalabani kati ya watenda mabaya wawili Yesu anapoomba: 'Baba, uwasamehe' (Luka 23:34)."
+      },
+      {
+        "question": "Ni nabii gani alitabiri kurudi kwa watu wa Kiyahudi kwenye ardhi yao na umoja wao wa baadaye chini ya mchungaji mmoja ('mtumishi wangu Daudi')?",
+        "options": [
+          "Ezekieli ( 34:23; 37:24 )",
+          "Yona",
+          "Nahumu",
+          "Obadia"
+        ],
+        "correct": 0,
+        "explanation": "Ezekieli 34 na 37 zinatangaza kwamba Mungu atamwinua mchungaji mmoja, mtumishi wake Daudi, ili kulisha kundi lake lenye umoja."
+      },
+      {
+        "question": "Katika mfano wa Agano la Kale au unabii, ni nabii gani aliyevunja mtungi wa udongo kuashiria uharibifu usioweza kutenduliwa wa Yerusalemu?",
+        "options": [
+          "Yeremia (sura ya 19)",
+          "Isaya",
+          "Yona",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Kwa amri ya Mungu, Yeremia alivunja chungu cha mfinyanzi katika bonde la Ben-Hinomu mbele ya wazee (Yeremia 19:10-11)."
       }
     ],
     "intermediaire": [
@@ -332,6 +849,523 @@
         ],
         "correct": 1,
         "explanation": "Isaya 52:13-53:12 ni wimbo wa 4 wa Mtumishi, uliotajwa zaidi ya mara 40 katika Agano Jipya kwa ajili ya Kristo."
+      },
+      {
+        "question": "Ni zaburi gani ya kifalme inayotabiri: 'Bwana alimwambia Bwana wangu: Keti mkono wangu wa kuume'?",
+        "options": [
+          "Zaburi 2",
+          "Zaburi 110:1",
+          "Zaburi 23",
+          "Zaburi 139"
+        ],
+        "correct": 1,
+        "explanation": "Zaburi 110:1 ni andiko la Agano la Kale linalotajwa mara kwa mara katika Agano Jipya ili kutaja kuinuliwa kwa Kristo (Mathayo 22:44; Matendo 2:34)."
+      },
+      {
+        "question": "Ni zaburi gani inayotabiri kwamba Masihi ni ‘kuhani milele kulingana na utaratibu wa Melkizedeki’?",
+        "options": [
+          "Zaburi 110:4",
+          "Zaburi 51:1",
+          "Zaburi 19:1",
+          "Zaburi 90:1"
+        ],
+        "correct": 0,
+        "explanation": "Zaburi 110:4 inachanganya ufalme wa kimasiya na ukuhani wa milele wa Melkizedeki, ulioendelezwa katika Waebrania 5-7."
+      },
+      {
+        "question": "Ni zaburi gani ya kimasiya inayotangaza hivi: ‘Wewe ni Mwanangu, mimi leo nimekuzaa’?",
+        "options": [
+          "Zaburi 2:7",
+          "Zaburi 14:1",
+          "Zaburi 42:1",
+          "Zaburi 121:1"
+        ],
+        "correct": 0,
+        "explanation": "Zaburi 2:7 imetajwa wakati wa ubatizo wa Yesu, ufufuo (Matendo 13:33) na katika Waebrania 1:5."
+      },
+      {
+        "question": "Ni zaburi gani inayotangaza hivi: ‘Jiwe walilolikataa waashi limekuwa kuu la pembeni’?",
+        "options": [
+          "Zaburi 118:22",
+          "Zaburi 24:1",
+          "Zaburi 84:1",
+          "Zaburi 133:1"
+        ],
+        "correct": 0,
+        "explanation": "Yesu na Petro wanatumia Zaburi 118:22 kwa viongozi wa kidini kumkataa Masihi na ushindi wake ( Mathayo 21:42; Matendo 4:11 )."
+      },
+      {
+        "question": "Ni nabii gani aliyetumia nira ya mbao kwenye shingo yake ili kufananisha kujitiisha kwa Babiloni?",
+        "options": [
+          "Isaya",
+          "Yeremia ( sura ya 27-28 )",
+          "Ezekieli",
+          "Hosea"
+        ],
+        "correct": 1,
+        "explanation": "Yeremia alibeba nira ili kuwahimiza mataifa wamtii Nebukadreza; Hanania aliivunja na nafasi yake kuchukuliwa na nira ya chuma."
+      },
+      {
+        "question": "Ezekieli anatimiza ishara gani ya kiunabii kwa kulalia ubavu wake wa kushoto kisha ubavu wake wa kuume?",
+        "options": [
+          "Urefu wa utawala wa Daudi",
+          "Miaka ya uovu wa Israeli (siku 390) na Yuda (siku 40)",
+          "Ujenzi wa safina",
+          "Mfungo wa siku 40 jangwani"
+        ],
+        "correct": 1,
+        "explanation": "Katika Ezekieli 4:4-6, nabii kwa mfano anabeba uovu wa Israeli na Yuda kwa siku moja kwa mwaka mmoja."
+      },
+      {
+        "question": "Andiko la Mika 3:12 lilitabiri nini kuhusu Sayuni na Yerusalemu, unabii ambao baadaye ulikumbukwa ili kumwokoa Yeremia?",
+        "options": [
+          "Yerusalemu hiyo isingeanguka kamwe",
+          "Kwamba Sayuni ingelimwa kama shamba na Yerusalemu itakuwa rundo la mawe",
+          "Kwamba Misri ingeivamia Babeli",
+          "Kwamba Hekalu lingekuwa dhahabu"
+        ],
+        "correct": 1,
+        "explanation": "Katika Yeremia 26:18, wazee wanamnukuu Mika wa Moreshethi ili kutukumbusha kwamba nabii alikuwa tayari ametangaza kuharibiwa kwa Yerusalemu."
+      },
+      {
+        "question": "Ni unabii gani wa Zekaria ( 11:12-13 ) unaohusisha sarafu 30 za fedha na ‘shamba la mfinyanzi’?",
+        "options": [
+          "Zekaria anaomba ujira wake na kuutupa katika nyumba ya Bwana kwa ajili ya mfinyanzi",
+          "Zekaria anunua gari la vita",
+          "Zekaria anajenga hekalu",
+          "Zekaria anaharibu sanamu"
+        ],
+        "correct": 0,
+        "explanation": "Mathayo 27:9-10 inaunganisha usaliti wa Yuda kwa vipande 30 vya fedha na ununuzi wa shamba la mfinyanzi na Zekaria 11 na Yeremia."
+      },
+      {
+        "question": "Ni nabii gani aliyesema: ‘Nitampiga mchungaji, na kondoo wa kundi watatawanyika’?",
+        "options": [
+          "Zekaria ( 13:7 )",
+          "Obadia",
+          "Nahumu",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Yesu ananukuu Zekaria 13:7 usiku wa Gethsemane kutangaza kutawanyika kwa wanafunzi wake (Mathayo 26:31)."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba mataifa ya kipagani yangelijua jina la Mungu, kutoka mashariki hadi magharibi?",
+        "options": [
+          "Malaki ( 1:11 )",
+          "Obadia",
+          "Nahumu",
+          "Yona"
+        ],
+        "correct": 0,
+        "explanation": "Malaki 1:11 inatangaza kwamba tangu mawio ya jua hata machweo ya jua, jina la BWANA ni kuu kati ya mataifa."
+      },
+      {
+        "question": "Katika Danieli 7, wanyama wanne wakubwa wanaotoka baharini wanawakilisha nini?",
+        "options": [
+          "Malaika wanne",
+          "Falme/falme nne zinazofuatana zitatokea duniani",
+          "Makabila manne ya Israeli",
+          "Misimu minne"
+        ],
+        "correct": 1,
+        "explanation": "Wale wanyama wanne (simba, dubu, chui, mnyama wa kutisha) wanalingana na milki nne zinazofuatana (Danieli 7:17)."
+      },
+      {
+        "question": "Katika Danieli 8, kondoo mume mwenye pembe mbili na mbuzi mwenye manyoya mwenye pembe kubwa kati ya macho anawakilisha nini?",
+        "options": [
+          "Misri na Israeli",
+          "Milki ya Umedi na Uajemi (kondoo dume) iliyoshindwa na Milki ya Kigiriki ya Aleksanda Mkuu (mbuzi)",
+          "Roma na Carthage",
+          "Babeli na Ashuru"
+        ],
+        "correct": 1,
+        "explanation": "Danieli 8:20-21 inamtambulisha kwa uwazi kondoo mume na wafalme wa Wamedi na Waajemi, na mbuzi na mfalme wa Yavani (Ugiriki)."
+      },
+      {
+        "question": "Ni nabii gani aliyetangaza hukumu ya Edomu kwa kumsaliti ndugu yake Yakobo wakati wa anguko la Yerusalemu?",
+        "options": [
+          "Obadia",
+          "Yoeli",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Kitabu kizima cha Obadia ni unabii dhidi ya kiburi cha Edomu na jeuri dhidi ya Yuda (Obadia 10-15)."
+      },
+      {
+        "question": "Ni unabii gani wa Amosi ( 9:11 ) unaotajwa na Yakobo kwenye Baraza la Yerusalemu ili kuhalalisha kuwakaribisha wasio Wayahudi?",
+        "options": [
+          "‘Nitainua hema ya Daudi kutokana na anguko lake’ ili watu wengine wote wamtafute Yehova",
+          "'Bahari itapungua'",
+          "'Hekalu litaharibiwa'",
+          "'Milima itayeyuka'"
+        ],
+        "correct": 0,
+        "explanation": "Matendo 15:16-17 inanukuu Amosi 9:11-12 kuonyesha kwamba kujumuishwa kwa mataifa kulitabiriwa na manabii."
+      },
+      {
+        "question": "Ni nabii gani aliyetabiri kwa jina mfalme Koreshi wa Uajemi zaidi ya karne moja kabla ya kuzaliwa kwake akiwa chombo cha Mungu cha kujenga upya Yerusalemu?",
+        "options": [
+          "Isaya ( 44:28 – 45:1 )",
+          "Amosi",
+          "Hosea",
+          "Yona"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 44:28-45:1 inamtaja Koreshi kuwa 'mchungaji wangu' na 'mpakwa mafuta wake' ili kuwakomboa watu waliohamishwa na kujenga upya Hekalu."
+      },
+      {
+        "question": "Ni nabii gani aliyepokea maono ya kinara cha taa cha dhahabu kinachoendeshwa na mizeituni miwili yenye maneno haya: ‘Si kwa uwezo, wala kwa uwezo, bali kwa Roho yangu’?",
+        "options": [
+          "Zekaria (sura ya 4)",
+          "Hagai",
+          "Yeremia",
+          "Ezekieli"
+        ],
+        "correct": 0,
+        "explanation": "Zekaria 4:6 inamtia moyo Zerubabeli kukamilisha Hekalu si kwa nguvu za kibinadamu bali kwa Roho wa Bwana."
+      },
+      {
+        "question": "Ni unabii gani wa Isaya ( 42:1-4 ) unaofafanua Mtumishi ambaye ‘hatavunja mwanzi uliovunjika, wala hatauzima utambi wa moshi’?",
+        "options": [
+          "Wimbo wa kwanza wa Mtumishi",
+          "Kuanguka kwa Babeli",
+          "Maono ya Hekalu",
+          "Wimbo wa Musa"
+        ],
+        "correct": 0,
+        "explanation": "Mathayo 12:18-21 inanukuu Isaya 42:1-4 kuelezea upole na uadilifu wa huduma ya Yesu."
+      },
+      {
+        "question": "Katika Mathayo 2:23, 'ataitwa Mnazareti' inaelekea inarejelea maneno gani ya kiunabii ya Kiebrania?",
+        "options": [
+          "Netzer (chipukizi/chipukizi la Isaya 11:1)",
+          "Betheli (nyumba ya Mungu)",
+          "Shalom (amani)",
+          "Torati (sheria)"
+        ],
+        "correct": 0,
+        "explanation": "Wafafanuzi kadhaa wanaona kiungo na 'netzer' (uzao/tawi) katika Isaya 11:1 pamoja na dharau inayohusishwa na Nazareti."
+      },
+      {
+        "question": "Ni nabii gani aliyetangaza kwamba nuru ingeangazia kwanza ‘Galilaya ya mataifa’ (nchi za Zabuloni na Naftali)?",
+        "options": [
+          "Isaya ( 8:23 – 9:1 )",
+          "Yeremia",
+          "Ezekieli",
+          "Amosi"
+        ],
+        "correct": 0,
+        "explanation": "Mathayo 4:14-16 inanukuu Isaya 9:1-2 Yesu anapoanza huduma yake ya hadharani huko Galilaya huko Kapernaumu."
+      },
+      {
+        "question": "Ni nabii gani alitabiri kwamba sauti ya maombolezo ingesikika juu ya Yerusalemu, lakini pia agano jipya na msamaha wa dhambi?",
+        "options": [
+          "Yeremia (sura ya 31)",
+          "Yona",
+          "Nahumu",
+          "Obadia"
+        ],
+        "correct": 0,
+        "explanation": "Yeremia 31 inatangaza machozi ya Raheli na Agano Jipya lililochorwa mioyoni (31:31-34)."
+      },
+      {
+        "question": "Ni nabii gani aliyeagizwa kununua shamba huko Anathothi wakati jeshi la Babeli lilipokuwa likizingira Yerusalemu?",
+        "options": [
+          "Yeremia (sura ya 32)",
+          "Ezekieli",
+          "Isaya",
+          "Daniel"
+        ],
+        "correct": 0,
+        "explanation": "Kwa kununua shamba la binamu yake Hanameli katikati ya kuzingirwa, Yeremia alitabiri kwa tendo kwamba uhai na ardhi vitarudi kwa Yuda (Yeremia 32:15)."
+      },
+      {
+        "question": "Ni unabii gani wa Agano la Kale unatabiri mfalme ambaye 'atahukumu kati ya mataifa mengi' na ambaye amani yake haitaisha?",
+        "options": [
+          "Isaya 9:6-7 (na 2:4)",
+          "Obadia 1:1",
+          "Yona 3:4",
+          "Nahumu 1:15"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 9:6-7 inaahidi ongezeko lisilo na mwisho kwa utawala na amani ya kiti cha enzi cha Daudi."
+      },
+      {
+        "question": "Ni nabii gani alitabiri ukame wa miaka mitatu na nusu chini ya Ahabu kabla ya kuomba kurudi kwa mvua?",
+        "options": [
+          "Eliya (1 Wafalme 17-18)",
+          "Elisha",
+          "Nathan",
+          "Gadi"
+        ],
+        "correct": 0,
+        "explanation": "Eliya alitangaza kwamba hakutakuwa na umande wala mvua isipokuwa neno lake (1 Wafalme 17:1; Yakobo 5:17)."
+      },
+      {
+        "question": "Ni nabii gani aliyemtangazia Yeroboamu wa Kwanza kuraruliwa kwa ufalme kwa kurarua kanzu mpya vipande 12?",
+        "options": [
+          "Ahiya wa Shilo (1 Wafalme 11:29-31)",
+          "Nathan",
+          "Samweli",
+          "Eliya"
+        ],
+        "correct": 0,
+        "explanation": "Ahiya alimpa Yeroboamu vipande 10, akitangaza kwamba Sulemani angepoteza makabila 10 kwa ibada ya sanamu."
+      },
+      {
+        "question": "Ni nabii gani aliyetangaza kwamba mfalme aliyeitwa Yosia angeteketeza mifupa ya wanadamu kwenye madhabahu ya ibada ya sanamu huko Betheli?",
+        "options": [
+          "Mtu wa Mungu kutoka Yuda (1 Wafalme 13:2)",
+          "Eliya",
+          "Elisha",
+          "Mika"
+        ],
+        "correct": 0,
+        "explanation": "Karne tatu kabla ya Yosia, mtu huyu wa Mungu alimwita Yosia mbele ya madhabahu ya Betheli; unabii huo unatimizwa katika 2 Wafalme 23:15-16."
+      },
+      {
+        "question": "Katika Ufunuo, ‘mashahidi wawili’ wanaotabiri juu ya siku 1260 wakiwa wamevaa nguo za magunia wanawakilisha nini ( Ufunuo 11 )?",
+        "options": [
+          "Adamu na Nuhu pekee",
+          "Ushahidi wa kinabii wa Kanisa (ukikumbuka Musa na Eliya) kwa mataifa",
+          "Wafalme wawili wa Uajemi",
+          "wana wawili wa Yakobo"
+        ],
+        "correct": 1,
+        "explanation": "Wakiwa wamevikwa nguvu za Musa (maji yalibadilika kuwa damu) na Eliya (kufunga anga), wanawakilisha ushuhuda wa kinabii mwaminifu hadi mwisho."
+      },
+      {
+        "question": "Je, zile ‘mihuri saba’, ‘baragumu saba’ na ‘bakuli saba’ zinafananisha nini katika kitabu cha Ufunuo?",
+        "options": [
+          "Siku 7 za wiki pekee",
+          "Mizunguko ya hukumu na maonyo ya kimungu inayoongoza kwenye hukumu ya mwisho na Ufalme wa Mungu",
+          "Maajabu 7 ya ulimwengu wa kale",
+          "Miezi 7 ya mwaka"
+        ],
+        "correct": 1,
+        "explanation": "Septenaries hizi tatu zinaunda ufunuo wa apocalyptic wa hukumu inayoendelea juu ya ulimwengu wa uasi na ushindi wa Mwanakondoo."
+      },
+      {
+        "question": "Ni unabii gani wa Paulo katika Warumi 11 unaoonyesha kimbele wakati ujao wa kiroho wa Israeli?",
+        "options": [
+          "Kwamba Israeli imekataliwa hakika",
+          "Acha ugumu wa sehemu uje juu ya Israeli mpaka Mataifa yote yameingia, na hivyo Israeli wote wataokolewa",
+          "Roma hiyo itachukua mahali pa Biblia",
+          "Kwamba Sheria ya Musa imefutwa kwa Wayahudi"
+        ],
+        "correct": 1,
+        "explanation": "Warumi 11:25-26 inafunua 'siri' hii ya uaminifu wa Mungu usioweza kutenduliwa kwa ahadi zilizofanywa kwa mababu."
+      },
+      {
+        "question": "Katika 2 Wathesalonike 2, ni nini lazima kitendeke kabla ya Siku ya Bwana?",
+        "options": [
+          "Amani kamili ya ulimwengu",
+          "Uasi na ufunuo wa 'mtu asiyemcha Mungu' (mwana wa uharibifu)",
+          "Ujenzi wa mnara huko Babeli",
+          "Mwisho wa misimu"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anaonya dhidi ya kufikiria kwamba siku ya Bwana tayari imefika, akikumbuka uasi na wasiomcha Mungu wakiwa wameketi katika hekalu la Mungu."
+      },
+      {
+        "question": "Ni unabii gani wa Yesu katika Luka 21:24 unaounganisha anguko la Yerusalemu na kipindi maalum cha kihistoria?",
+        "options": [
+          "‘Yerusalemu utakanyagwa na mataifa, hata nyakati za mataifa zitakapotimia’",
+          "'Yerusalemu haitashambuliwa kamwe'",
+          "‘Mataifa yatajenga upya Babeli’",
+          "Yordani itatoweka katika siku moja"
+        ],
+        "correct": 0,
+        "explanation": "Yesu anatangaza uharibifu wa Yerusalemu mwaka 70 BK. BC na kikomo cha muda kilichowekwa na Mungu ('nyakati za mataifa')."
+      },
+      {
+        "question": "Ni nabii gani aliyeeleza kuanguka kwa Tiro yenye kiburi, jiji la bahari la Foinike?",
+        "options": [
+          "Ezekieli ( sura ya 26-28 )",
+          "Yona",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Ezekieli alitabiri kwamba Tiro ingebomolewa na vifusi vyake kutupwa baharini, jambo ambalo lilitimizwa hasa wakati wa kuzingirwa kwa Aleksanda Mkuu."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba watu walioketi gizani wangeona nuru kuu?",
+        "options": [
+          "Isaya (9:1)",
+          "Amosi",
+          "Obadia",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 9:1-2 inatabiri juu ya nuru kuu itakayowazukia wale wakaao katika nchi ya uvuli wa mauti."
+      },
+      {
+        "question": "Ni unabii gani kutoka katika Zaburi 69:9 ('Bidii ya nyumba yako inanila') ambayo inatumiwa kwa Yesu na wanafunzi?",
+        "options": [
+          "Wakati wa kuzaliwa kwake Bethlehemu",
+          "Anapowafukuza wafanyabiashara kutoka Hekaluni (Yohana 2:17)",
+          "Wakati wa kuzidisha mikate",
+          "Wakati wa ubatizo wake"
+        ],
+        "correct": 1,
+        "explanation": "Wanafunzi wake walipomwona Yesu akilisafisha Hekalu la Yerusalemu, walikumbuka neno hili kutoka katika Zaburi 69:9."
+      },
+      {
+        "question": "Ni mstari gani kutoka kwa Zaburi 69:21 ulionyesha kimbele siki iliyotolewa kwa Yesu msalabani?",
+        "options": [
+          "\"Wanatia uchungu katika chakula changu, na kuzima kiu yangu wakanywa siki juu yangu.\"",
+          "'Unaweka meza mbele yangu'",
+          "'Kikombe changu kinafurika'",
+          "'Bwana ni nuru yangu'"
+        ],
+        "correct": 0,
+        "explanation": "Yohana 19:28-29 huangazia utimizo wa Maandiko Yesu aliposema 'naona kiu' na akapewa siki."
+      },
+      {
+        "question": "Ni nabii gani alitangaza kwamba mto wa neema ungeponya uchungu na utasa wa dunia (Ezekieli 47)—ni mti gani unaomea kwenye kingo zake?",
+        "options": [
+          "Miti inayozaa matunda kila mwezi na ambayo majani yake hutumiwa kwa uponyaji",
+          "Miiba na miiba",
+          "Mierezi bila matunda",
+          "Matete kavu"
+        ],
+        "correct": 0,
+        "explanation": "Maono haya kutoka kwa Ezekieli 47:12 yanarudiwa karibu neno kwa neno kwa mti wa uzima katika Yerusalemu Mpya (Ufunuo 22:2)."
+      },
+      {
+        "question": "Katika unabii wa Danieli 12:2, inasema nini waziwazi kuhusu wafu?",
+        "options": [
+          "Waache walale milele bila kuamka",
+          "‘Wengi wa hao walalao katika mavumbi ya nchi wataamka, wengine wapate uzima wa milele.",
+          "Wacha wawe nyota halisi",
+          "Kwamba hakuna ufufuo"
+        ],
+        "correct": 1,
+        "explanation": "Danieli 12:2 ni mojawapo ya uthibitisho wa wazi zaidi wa ufufuo wa mtu binafsi na hukumu ya mwisho katika Agano la Kale."
+      },
+      {
+        "question": "Ni nabii gani aliyemwona Bwana akishikilia timazi (kiwango) kupima haki ya Israeli?",
+        "options": [
+          "Amosi ( 7:7-8 )",
+          "Yona",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Maono ya timazi katika Amosi 7 yaonyesha kwamba wakati wa msamaha bila toba umepita kwa ufalme wa kaskazini."
+      },
+      {
+        "question": "Ni nabii gani alitabiri kwamba njaa ingekuja, si kutoka kwa mkate na maji, lakini kutokana na kusikia maneno ya Bwana?",
+        "options": [
+          "Amosi ( 8:11 )",
+          "Yona",
+          "Hagai",
+          "Obadia"
+        ],
+        "correct": 0,
+        "explanation": "Andiko la Amosi 8:11 linaonya kwamba kukataa kwa kudumu neno la kinabii kutaongoza kwenye ukimya wenye uchungu kutoka kwa Mungu."
+      },
+      {
+        "question": "Ni unabii gani katika Zekaria 3 unaoonyesha kuhani mkuu Yoshua akiwa amevaa mavazi machafu na kisha kusafishwa na Malaika wa Bwana?",
+        "options": [
+          "Maono yanayotangaza msamaha wa dhambi za Israeli na ujio wa 'Tawi' kwa siku moja.",
+          "Unabii kuhusu Misri",
+          "Unabii kuhusu Ninawi",
+          "Wimbo wa mapenzi"
+        ],
+        "correct": 0,
+        "explanation": "Zekaria 3:8-9 inatangaza kwamba Mungu ataondoa uovu wa nchi kwa siku moja kupitia mtumishi wake Tawi."
+      },
+      {
+        "question": "Ni nabii gani aliyetangaza kwamba mkia wa vazi la Myahudi utakamatwa, akisema: ‘Tutakwenda pamoja nanyi, kwa maana tumesikia kwamba Mungu yu pamoja nanyi’?",
+        "options": [
+          "Zekaria ( 8:23 )",
+          "Yona",
+          "Obadia",
+          "Nahumu"
+        ],
+        "correct": 0,
+        "explanation": "Zekaria 8:23 inatangaza mvuto wa kiroho wa mataifa kwa Yerusalemu na Mungu wa Israeli."
+      },
+      {
+        "question": "Ni unabii gani katika Isaya 19 unaotangaza kwa mshangao upatanisho wa wakati ujao wa maadui watatu wa kale: Misri, Ashuru na Israeli?",
+        "options": [
+          "Na wabarikiwe Misri watu wangu, na Ashuru kazi ya mikono yangu, na Israeli urithi wangu;",
+          "'Misri na Ashuru zitafutwa milele'",
+          "'Israeli watatawala kwa upanga'",
+          "'Hakutakuwa na mataifa tena'"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 19:24-25 hutoa maono yenye kutokeza ya ulimwengu mzima ambapo watesi wa zamani wanakuwa watu wa Mungu pamoja na Israeli."
+      },
+      {
+        "question": "Ni nabii gani aliyeeleza farasi wa rangi nne (nyekundu, nyeusi, nyeupe, na madoadoa) wakizunguka-zunguka duniani?",
+        "options": [
+          "Zekaria ( 1:8 na 6:1-8 )",
+          "Yona",
+          "Obadia",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Maono ya wapanda farasi na magari manne katika Zekaria yaliongoza moja kwa moja wapanda farasi wanne wa Apocalypse (Ufunuo 6)."
+      },
+      {
+        "question": "Ni nabii gani alitangaza hivi: ‘Kwa maana dunia itajazwa maarifa ya utukufu wa Bwana, kama vilindi vya bahari vinavyoifunika’?",
+        "options": [
+          "Habakuki (2:14) na Isaya (11:9)",
+          "Yona",
+          "Obadia",
+          "Hagai"
+        ],
+        "correct": 0,
+        "explanation": "Habakuki 2:14 (karibu na Isaya 11:9) huthibitisha kwamba utukufu wa Mungu utajaza viumbe vyote."
+      },
+      {
+        "question": "Ni nabii gani aliyemwambia Hezekia kwamba siku moja hazina za jumba lake la kifalme zingepelekwa Babeli?",
+        "options": [
+          "Isaya ( 39:6 )",
+          "Yeremia",
+          "Ezekieli",
+          "Daniel"
+        ],
+        "correct": 0,
+        "explanation": "Baada ya Hezekia kuwaonyesha wajumbe wa Babiloni utajiri wake, Isaya alitabiri uhamisho wa wakati ujao wa Babiloni."
+      },
+      {
+        "question": "Ni nabii gani alitabiri kwamba Masihi angeifanya nafsi yake kuwa sadaka ya hatia (asham) na kuona kizazi kirefu cha siku zake?",
+        "options": [
+          "Isaya ( 53:10 )",
+          "Amosi",
+          "Yona",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 53:10 inatangaza kifo cha upatanisho cha Mtumishi na ushindi/ufufuo wake ('ataongeza siku zake')."
+      },
+      {
+        "question": "Ni nabii gani aliyetangaza kwamba Mungu wa Israeli angeleta ‘wavuvi’ na ‘wawindaji’ ili kuwarudisha watu wake waliotawanyika?",
+        "options": [
+          "Yeremia ( 16:16 )",
+          "Yona",
+          "Obadia",
+          "Nahumu"
+        ],
+        "correct": 0,
+        "explanation": "Yeremia 16:14-16 inatangaza msafara mpya mkubwa zaidi kuliko ule wa Misri."
+      },
+      {
+        "question": "Katika Matendo ya Mitume, ni nabii gani wa Agano la Kale ambaye Petro anamtaja kuelezea kifo na badala ya Yuda?",
+        "options": [
+          "Zaburi 69:25 na 109:8",
+          "Kitabu cha Yona",
+          "Kitabu cha Obadia",
+          "Kitabu cha Ruthu"
+        ],
+        "correct": 0,
+        "explanation": "Petro ananukuu zaburi hizi mbili katika Matendo 1:20 kabla ya kumpigia kura Mathias kuchukua nafasi ya Yuda."
       }
     ],
     "expert": [
@@ -510,6 +1544,501 @@
         ],
         "correct": 1,
         "explanation": "Isaya 53:4: Mathayo 8:17 = uponyaji (maana halisi ya magonjwa); 1 Petro 2:24 = dhambi. Zote mbili ni halali kwa sababu maandishi ya Kiebrania yana vipimo vyote viwili."
+      },
+      {
+        "question": "Je, tunaitaje aina ya fasihi ya unabii uliopangwa kama kesi ya kisheria ambapo Mungu anawashitaki Israeli kwa kuvunja agano?",
+        "options": [
+          "'rîb' (mchakato wa agano, k.m. Mika 6, Isaya 1)",
+          "Mtiririko wa kati",
+          "apothegm",
+          "Diatribe ya Stoiki"
+        ],
+        "correct": 0,
+        "explanation": "Unabii 'rîb' unachukua muundo wa mikataba ya suzerainty: kuita mashahidi (mbingu na ardhi), ukumbusho wa faida, mashtaka na hukumu."
+      },
+      {
+        "question": "Je, ni nini kazi ya 'darubini ya kinabii' (mtazamo wa kilele) katika ufasiri wa unabii wa Biblia?",
+        "options": [
+          "Bashiri tarehe kamili za siku",
+          "Tazama ujio wa kwanza na wa pili wa Kristo ukiwa umelingana kwenye upeo wa macho kama vile vilele viwili vya mbali bila kutofautisha bonde kati ya hizo mbili.",
+          "Kataa utabiri wowote wa siku zijazo",
+          "Soma maana halisi ya kijiografia pekee"
+        ],
+        "correct": 1,
+        "explanation": "Kama katika Isaya 61:1-2 (ambapo Yesu anatulia kabla ya 'siku ya kisasi'), manabii wanatafakari wokovu wa kwanza na utimilifu wa mwisho pamoja."
+      },
+      {
+        "question": "Ni neno gani katika Isaya 7:14-16 ambalo kwanza lilikuwa na ishara ya muda mfupi kwa Mfalme Ahazi kabla ya utimizo wake kamili katika Yesu?",
+        "options": [
+          "Kabla mtoto huyo hajajua jinsi ya kukataa uovu na kuchagua mema, wafalme wawili adui (Damasko na Samaria) wataachwa.",
+          "Babeli itaharibu Roma katika miaka 3",
+          "Eliya atarudi katika maisha yake",
+          "Ahazi atatawala kwa miaka 100"
+        ],
+        "correct": 0,
+        "explanation": "Oracle ilijibu mgogoro wa 735 BC. (ishara ya haraka katika miaka michache) huku akiwa amebeba ahadi ya kimasihi iliyotimizwa katika Mathayo 1:23."
+      },
+      {
+        "question": "Katika Hosea 11:1 ('Nimemwita mwanangu kutoka Misri'), Mathayo 2:15 inatumiaje andiko hili?",
+        "options": [
+          "Kama nukuu rahisi",
+          "Kwa usomaji wa mfano: Yesu anarejelea kikamilifu na kukamilisha historia ya Israeli kama Mwana mwaminifu wa Mungu",
+          "Kama nukuu kutoka kwa Isaya",
+          "Ili kuthibitisha kwamba Musa alikuwa amerudi"
+        ],
+        "correct": 1,
+        "explanation": "Katika Hosea 11:1, 'mwanangu' inarejelea Israeli katika Kutoka; Mathayo anaona mfano mzuri katika Yesu, Israeli wa kweli."
+      },
+      {
+        "question": "Kuna tofauti gani kati ya unabii wa zamani (kabla ya exilic) na apocalyptic (exilic/post-exilic kama Danieli na Zekaria 9-14)?",
+        "options": [
+          "Hakuna tofauti",
+          "Unabii wa kitambo unaitaka toba katika historia ya sasa; apocalyptic hufunua kupitia maono ya mfano matokeo ya ulimwengu wa ulimwengu katika uso wa uovu",
+          "Apocalyptic kamwe kuzungumza juu ya Mungu",
+          "Unabii wa kawaida hautumii picha"
+        ],
+        "correct": 1,
+        "explanation": "Apocalyptic inatokea wakati wa shida kali (uhamisho, mateso) na malaika wanaotafsiri, uwili wa ulimwengu na ushindi wa mwisho wa Mungu."
+      },
+      {
+        "question": "Katika Yeremia 29:10-14, ni kiwango gani cha mpangilio ambacho Mungu hutoa kwa ahadi ya urejesho?",
+        "options": [
+          "Mara moja baada ya miaka 2 (kama Hanania alivyodai)",
+          "Ni wakati tu miaka 70 imekamilika kwa Babeli",
+          "Kamwe kabla ya miaka 1000",
+          "Baada ya kutekwa kwa Roma"
+        ],
+        "correct": 1,
+        "explanation": "Dhidi ya manabii wa uongo wenye matumaini (Yeremia 28), Yeremia anatangaza uhamisho wa miaka 70 na kuwahimiza wahamishwa kujenga na kuomba kwa ajili ya Babeli."
+      },
+      {
+        "question": "Katika Danieli 9:2, Danieli alikuwa akijifunza andiko gani la Biblia alipotambua kwamba mwisho wa uhamisho ulikuwa karibu?",
+        "options": [
+          "Vitabu vya kukunjwa vya nabii Yeremia vinavyotangaza miaka 70 ya ukiwa",
+          "Wimbo wa Nyimbo",
+          "Kitabu cha Esta",
+          "Nyaraka za Paulo"
+        ],
+        "correct": 0,
+        "explanation": "Danieli 9:2 inataja kwa uwazi usomaji wake wa vitabu na hesabu ya miaka iliyofunuliwa na Bwana kwa nabii Yeremia."
+      },
+      {
+        "question": "Ni nini maana ya 'majuma 70' (miaka 490) yaliyogawanywa katika majuma 7 + 62 + 1 kwenye Danieli 9:24-27?",
+        "options": [
+          "Wanafikia kilele kwa upatanisho wa uovu, kuja kwa Mtiwa Mafuta aliyekatwa (Masihi), kisha kuharibiwa kwa jiji na patakatifu.",
+          "Zinahusu uumbaji katika siku 6 pekee",
+          "Wanatabiri urefu wa utawala wa Sauli",
+          "Wanaelezea Misri ya kale"
+        ],
+        "correct": 0,
+        "explanation": "Danieli 9:24-27 hutangaza baraka sita za kuokoa na agano lililoimarishwa baada ya kukatiliwa mbali kwa Mtiwa-Mafuta na kuharibiwa kwa patakatifu."
+      },
+      {
+        "question": "Je! ni jukumu gani la 'Go'eli' (mkombozi) katika Ayubu 19:25 ('Najua kwamba mkombozi wangu yu hai')?",
+        "options": [
+          "Mwanasheria rahisi wa kibinadamu huko Yerusalemu",
+          "Mtetezi wa kimungu na mdhamini ambaye atachukua njia ya watu wema hata zaidi ya kifo",
+          "Mfalme wa Wafilisti",
+          "Malaika aliyeanguka"
+        ],
+        "correct": 1,
+        "explanation": "Tumaini la Ayubu zaidi ya ukosefu wa haki linawasilisha Mlipiza kisasi/Mkombozi aliye hai ambaye atapanda kutoka mavumbini na kumruhusu amwone Mungu."
+      },
+      {
+        "question": "Kwa nini Yeremia 18:7-10 ni muhimu kwa kuelewa 'masharti' ya unabii fulani wa hukumu au baraka?",
+        "options": [
+          "Kwa sababu inafundisha fatalism kabisa",
+          "Kwa sababu Mungu anatangaza kwamba ikiwa taifa lilitabiri kutenda maovu linatubu, anaacha maovu aliyokusudia kuwatenda (kama vile Ninawi katika Yona)",
+          "Kwa sababu manabii hubuni jumbe zao",
+          "Kwa sababu Mungu habadilishi njia yake"
+        ],
+        "correct": 1,
+        "explanation": "Yeremia 18 inaeleza kanuni ya mwitikio wa kimaadili: maneno ya hukumu yanataka toba ili kuepuka hukumu (Yona 3:10)."
+      },
+      {
+        "question": "Katika Kumbukumbu la Torati 13:1-5 na 18:20-22, ni majaribio gani mawili ya nyongeza huturuhusu kutambua nabii wa kweli kutoka kwa nabii wa uongo?",
+        "options": [
+          "Utajiri wake na ufasaha wake",
+          "Utimilifu wa utabiri wake NA uaminifu wake wa kimafundisho kwa Mungu mmoja wa kweli (YHWH)",
+          "Umri na kabila lake",
+          "Idadi ya wanafunzi wake"
+        ],
+        "correct": 1,
+        "explanation": "Hata ikiwa ishara itatimizwa, ikiwa inaongoza kwa miungu mingine (Kumb 13), ni nabii wa uongo; vivyo hivyo, neno lisilotimizwa halitoki kwa Mungu (Kumb 18)."
+      },
+      {
+        "question": "Katika Matendo 2:17-21, kwa nini Petro anabadilika ‘baada ya haya’ ( Yoeli 2:28 ) hadi ‘siku za mwisho’?",
+        "options": [
+          "Kwa makosa ya kumbukumbu",
+          "Ili kusisitiza kitheolojia kwamba kumwagwa kwa Roho siku ya Pentekoste kunaanzisha enzi ya mwisho ya eskatolojia ('siku za mwisho')",
+          "Ili kupingana na Yoeli",
+          "Kwa sababu alimnukuu Homer"
+        ],
+        "correct": 1,
+        "explanation": "Kwa mtazamo wa Agano Jipya, 'siku za mwisho' zinaanza na ujio wa kwanza wa Kristo na kumwagwa kwa Roho hadi Parousia."
+      },
+      {
+        "question": "Ni nini tafsiri ya kawaida ya 'kizuizi' (kwa katechon / ho katechôn) kilichotajwa na Paulo katika 2 Wathesalonike 2:6-7?",
+        "options": [
+          "Injili pekee",
+          "Kijadi inatambulishwa na utaratibu wa kifalme wa Kirumi/mamlaka ya kiraia, au kitendo cha Roho Mtakatifu kuzuia kuachiliwa kwa uovu hadi wakati uliowekwa.",
+          "Mtume Petro",
+          "Hekalu la Yerusalemu"
+        ],
+        "correct": 1,
+        "explanation": "Mababa (Tertullian, Chrysostom) mara nyingi waliona Dola ya Kirumi ikidumisha utaratibu; wengine wanaona kuwa ni Roho Mtakatifu au mpango mkuu wa Mungu."
+      },
+      {
+        "question": "Katika Warumi 11:26, ni zipi tafsiri kuu tatu za maneno 'Israeli wote wataokolewa'?",
+        "options": [
+          "Wakazi wa sasa wa Roma tu",
+          "(1) Viongozi wote waliochaguliwa Wayahudi na wapagani; (2) mabaki waaminifu wa Israeli katika vizazi vyote; (3) wongofu mkubwa wa watu wa Kiyahudi mwishoni mwa wakati",
+          "Wanadamu wote bila ubaguzi",
+          "Mitume 12 pekee"
+        ],
+        "correct": 1,
+        "explanation": "Wafafanuzi wa mjadala kati ya Israeli wa kiroho (Calvin), jumla ya mabaki ya wateule wa Kiyahudi, au mwamko wa mwisho wa Israeli wa kikabila kabla ya Parousia."
+      },
+      {
+        "question": "Je! ni nini umuhimu wa usemi wa Zekaria 12:10 ('Watanitazama mimi niliyemchoma') katika Ukristo wa Agano Jipya?",
+        "options": [
+          "Hakuna manukuu katika AJ",
+          "Imenukuliwa katika Yohana 19:37 (upande uliochomwa wa Yesu) na Ufunuo 1:7 (kurudi kwa utukufu) - ambapo YHWH mwenyewe anasema 'kwangu' walimchoma.",
+          "Imetajwa kwa ajili ya Musa pekee",
+          "Ilitumika kwa Mfalme Koreshi"
+        ],
+        "correct": 1,
+        "explanation": "Katika maandishi ya Kiebrania, YHWH anazungumza katika nafsi ya kwanza ('kwangu mimi, ambaye walimchoma'), akisisitiza utambulisho wa kimungu wa Kristo aliyesulubiwa."
+      },
+      {
+        "question": "Katika Ezekieli 40-48, ni masomo gani mawili makuu ya maono ya Hekalu la eskatolojia?",
+        "options": [
+          "Mpango wa usanifu wa Babeli",
+          "Ama maono halisi ya hekalu la baadaye la milenia au maono ya mfano ya uwepo mkamilifu wa Mungu pamoja na watu wake (iliyotimizwa katika Kristo na Yerusalemu Mpya)",
+          "Maelezo rahisi ya Maskani ya Musa",
+          "Tathmini ya Sulemani"
+        ],
+        "correct": 1,
+        "explanation": "Ufafanuzi wa ugawaji unatarajia hekalu halisi la siku zijazo, wakati mbinu ya Christocentric/milenia inaiona kama ishara ya ibada kamilifu katika Kristo (Ufu 21:22)."
+      },
+      {
+        "question": "Ni andiko gani la kiunabii kutoka Isaya 52:7 (‘Jinsi ilivyo mizuri juu ya milima miguu yake yeye aletaye habari njema’) inayotajwa na Paulo katika Warumi 10:15?",
+        "options": [
+          "Ili kuhalalisha hitaji la mahubiri ya kimisionari ya Injili",
+          "Kuelezea safari za Sulemani",
+          "Kuzungumza juu ya usanifu wa Hekalu",
+          "Kupiga marufuku safari za baharini"
+        ],
+        "correct": 0,
+        "explanation": "Paulo anatumia tangazo la ukombozi wa Sayuni kwa wajumbe wa Injili ya amani iliyotumwa kwa mataifa yote."
+      },
+      {
+        "question": "Je, Waebrania 8:8-13 inatumiaje unabii wa Yeremia 31:31-34 kuhusu Agano Jipya?",
+        "options": [
+          "Ili kuonyesha kwamba agano la kale lilikuwa kamilifu na la mwisho",
+          "Ili kuthibitisha hilo kutoka Agano la Kale Mungu alitangaza muungano mkuu na kuufanya muungano wa zamani wa Walawi kuwa wa kizamani",
+          "Kukataa Agano lote la Kale",
+          "Kurudisha dhabihu za wanyama"
+        ],
+        "correct": 1,
+        "explanation": "Mwandishi wa Waebrania anabainisha kwamba neno 'mpya' katika kalamu ya Yeremia kwa njia hiyo linafanya agano la kale kuwa la kizamani na kuwa tayari kutoweka."
+      },
+      {
+        "question": "Katika Ufunuo, ni unabii gani kutoka Isaya 65:17 na 66:22 unaoweka tumaini la mwisho la kitabu hicho?",
+        "options": [
+          "Kuumbwa kwa mbingu mpya na nchi mpya",
+          "Rudia Enzi ya Dhahabu ya Babeli",
+          "Kujengwa upya kwa hekalu la Herode",
+          "Uhamisho huko Misri"
+        ],
+        "correct": 0,
+        "explanation": "Ufunuo 21:1 inachukua moja kwa moja kutoka kwa Isaya 65:17 kuelezea upya wa mwisho wa ulimwengu ambapo Mungu anakaa na wanadamu."
+      },
+      {
+        "question": "Katika Mika 5:1-3 ( 5:2-4 ), ni asili gani ya kutatanisha inayohusishwa na mtawala wa baadaye aliyezaliwa Bethlehemu?",
+        "options": [
+          "Alitoka Misri miaka 10 iliyopita",
+          "'Asili yake inarudi nyuma hadi nyakati za kale, hadi siku za milele'",
+          "Alizaliwa huko Roma",
+          "Hana uhusiano na Daudi"
+        ],
+        "correct": 1,
+        "explanation": "Kando ya udogo wa Bethlehemu Efrata, Mika anathibitisha ukuu wa ajabu (hata wa milele) wa Masihi."
+      },
+      {
+        "question": "Je! ni nini maana ya jina la mfano 'Lo-Ami' ('Si watu wangu') aliopewa mwana wa nabii Hosea (Hosea 1:9)?",
+        "options": [
+          "Ushindi wa kijeshi wa Israel mara moja",
+          "Kuvunjwa kwa muda kwa agano kufuatia ukosefu wa uaminifu wa Israeli, ikifuatiwa na ahadi ya urejesho ('Ammi', watu wangu)",
+          "Kuzaliwa kwa Sulemani",
+          "Baraka ya Ashuru"
+        ],
+        "correct": 1,
+        "explanation": "Petro (1 Petro 2:10) na Paulo (Warumi 9:25) wanatumia badiliko hili la Hosea 2:23 kwa waamini wasio Wayahudi ambao wamekuwa watu wa Mungu."
+      },
+      {
+        "question": "Je! ni jukumu gani la 'nyimbo za shamba la mizabibu' katika Isaya 5:1-7 na Yesu anaichukuaje katika Mathayo 21:33-43?",
+        "options": [
+          "Wanazungumza tu juu ya kilimo",
+          "Isaya analinganisha Israeli na mzabibu usio na shukrani; Yesu anachukua sanamu hiyo pamoja na wakulima wauaji wanaomuua Mwana ili kutangaza kuhamishwa kwa Ufalme",
+          "Wanasherehekea divai ya Kana",
+          "Wanawasifu viongozi wa dini"
+        ],
+        "correct": 1,
+        "explanation": "Wasikilizaji wa Yesu walielewa mara moja kwamba mfano wa wafanyakazi wa shamba la mizabibu ulilenga kuwakataa manabii na Mwana ( Mathayo 21:45 )."
+      },
+      {
+        "question": "Katika Zekaria 6:12-13 , ni cheo gani cha kimasiya kinachounganisha kwa njia ya pekee kazi ya kifalme na ya ukuhani?",
+        "options": [
+          "'Chipukizi' (Tsemah) ambaye atajenga Hekalu la Bwana na kuwa kuhani katika kiti chake cha enzi",
+          "Farao wa Misri",
+          "Mwandishi wa Ashuru",
+          "Jaji wa Dan"
+        ],
+        "correct": 0,
+        "explanation": "Chini ya Sheria ya Musa, mfalme (Yuda) na kuhani (Lawi) walitenganishwa; Zekaria 6:13 inatangaza muunganiko wao wenye upatani katika Kijidudu."
+      },
+      {
+        "question": "Nabii gani wa karne ya 8 KK? AD alitangaza kuanguka kwa Samaria huku akiahidi mabaki yaliyokusanywa kama kondoo zizini (Mika 2:12)?",
+        "options": [
+          "Mika",
+          "Hagai",
+          "Malaki",
+          "Yona"
+        ],
+        "correct": 0,
+        "explanation": "Mika anabadilisha usemi wa hukumu isiyobadilika juu ya Samaria na Yerusalemu na ahadi tukufu za mkusanyiko wa kimasiya."
+      },
+      {
+        "question": "Nini maana ya neno la siri katika Sefania 3:9 linaloahidi 'midomo safi' kwa watu?",
+        "options": [
+          "Kujifunza Kiaramu",
+          "Uongofu wa mataifa ambao wote wataliitia jina la Bwana na kumtumikia kwa nia moja",
+          "Ukimya wa kudumu",
+          "Mwisho wa sala"
+        ],
+        "correct": 1,
+        "explanation": "Sefania 3:9 hutangaza kuenezwa ulimwenguni pote kwa ibada safi baada ya hukumu, tofauti na kuchanganyikiwa kwa ndimi za Babeli."
+      },
+      {
+        "question": "Ni unabii gani katika Danieli 11:31 unaotangaza 'chukizo la uharibifu', usemi uliochukuliwa na Yesu katika Mathayo 24:15?",
+        "options": [
+          "Kuchafuliwa kwa Hekalu na Antiochus IV (167 KK), ambayo ikawa aina ya unajisi wa eskatolojia na kuzingirwa kwa 70 AD. AD",
+          "Ujenzi wa Hekalu la Sulemani",
+          "Kuanguka kwa Ninawi",
+          "Njia ya Bahari ya Shamu"
+        ],
+        "correct": 0,
+        "explanation": "Utimilifu wa kihistoria chini ya Antioko IV Epifania unatumika kama kielelezo cha kinabii cha Yesu kwa mgogoro wa Yerusalemu na nyakati za mwisho."
+      },
+      {
+        "question": "Katika Isaya 49:6 , kwa nini Mungu anatangaza kwamba kurejeshwa kwa makabila tu ya Israeli ni ‘jambo dogo’ kwa Mtumishi?",
+        "options": [
+          "Kwa sababu anawaacha Israeli",
+          "Kwa sababu alimweka kuwa ‘nuru ya mataifa’, ili wokovu wake ufikie miisho ya dunia",
+          "Kwa sababu anapendelea Babeli",
+          "Kwa sababu dunia itatoweka mara moja"
+        ],
+        "correct": 1,
+        "explanation": "Paulo na Barnaba wanataja Isaya 49:6 huko Antiokia ya Pisidia (Matendo 13:47) ili kuhalalisha utume wao kwa Mataifa."
+      },
+      {
+        "question": "Je, ni kitendawili gani cha Zaburi 110:1 kilichotolewa na Yesu mbele ya Mafarisayo katika Mathayo 22:41-45?",
+        "options": [
+          "Je, Masihi anawezaje kuwa mwana wa Daudi (mzao) na 'Bwana' wake?",
+          "Kwa nini Daudi aliandika zaburi hii katika Kigiriki?",
+          "Daudi alikuwa na askari wangapi?",
+          "Melkizedeki alikuwa wapi?"
+        ],
+        "correct": 0,
+        "explanation": "Yesu aonyesha kwamba Masihi ni zaidi ya mfalme wa kibinadamu aliyetoka kwa Daudi: yeye ndiye Bwana wa kimungu aliyeketi mkono wa kuume wa Mungu."
+      },
+      {
+        "question": "Katika 1 Petro 1:10-12, mtume anafunua nini kuhusu ufahamu wa manabii wa Agano la Kale juu ya maneno yao wenyewe?",
+        "options": [
+          "Walielewa kila undani wa mpangilio wa matukio",
+          "Walichunguza nyakati na mazingira ambayo yalitia alama Roho wa Kristo ndani yao, wakagundua kwamba walikuwa wakitumikia kizazi chetu.",
+          "Hawakuongozwa na Roho",
+          "Waliandika kwa ajili ya malaika tu"
+        ],
+        "correct": 1,
+        "explanation": "1 Petro 1:10-12 inaangazia pande mbili za unabii: manabii walichunguza fumbo la mateso ya Kristo na utukufu uliofuata."
+      },
+      {
+        "question": "Ni unabii gani wa AK unaotajwa katika Warumi 15:9-12 ili kuthibitisha ibada ya kawaida ya Wayahudi na Wamataifa?",
+        "options": [
+          "Mlolongo wa maandishi manne (2 Sam 22 / Zab 18, Kumb 32:43, Zab 117:1, Isaya 11:10)",
+          "Kitabu cha Esta pekee",
+          "Kitabu cha Ayubu pekee",
+          "Mithali pekee"
+        ],
+        "correct": 0,
+        "explanation": "Paulo anaunganisha pamoja manukuu kutoka kwa Sheria, Zaburi, na Manabii (sehemu zote tatu za Biblia ya Kiebrania) ili kuonyesha kujumuishwa kwa mataifa."
+      },
+      {
+        "question": "Nini maana ya sanamu ya 'jiwe lililotoka mlimani' (Danieli 2) kuhusiana na 'jiwe la pembeni' (Isaya 28:16 / Zab 118:22)?",
+        "options": [
+          "Picha mbili zinazopingana",
+          "Ukristo uleule wa Jiwe: jiwe la msingi na la pembeni kwa wale wanaoamini, jiwe la kuanguka na hukumu inayovunja falme za uasi.",
+          "Makumbusho mawili huko Misri",
+          "Mawe mawili kutoka jangwa la Sinai"
+        ],
+        "correct": 1,
+        "explanation": "Luka 20:17-18 na 1 Petro 2:6-8 huunganisha maandiko haya: jiwe lililokataliwa huwa jiwe la pembeni au jiwe la kusagwa."
+      },
+      {
+        "question": "Katika Malaki 4:5-6 (3:23-24), Yesu anatafsirije ahadi ya nabii Eliya kuja kabla ya Siku ya Bwana?",
+        "options": [
+          "Anasema Eliya hatakuja kamwe",
+          "Anamtambulisha Yohana Mbatizaji kuwa ‘Eliya ambaye angekuja’ katika roho na nguvu za Eliya ( Mathayo 11:14; 17:12 )",
+          "Anasema Musa ni Eliya",
+          "Anasema Petro ni Eliya"
+        ],
+        "correct": 1,
+        "explanation": "Malaika Gabrieli ( Luka 1:17 ) na Yesu ( Mathayo 11:14 ) wanatumia hotuba ya Malaki kwa huduma ya maandalizi ya Yohana Mbatizaji."
+      },
+      {
+        "question": "Ni unabii gani kutoka katika Yeremia 7:11 ambao Yesu anataja katika kusafisha Hekalu ('Mmelifanya pango la wanyang'anyi')?",
+        "options": [
+          "Onyo dhidi ya usalama wa dini ya uwongo ambayo inaamini kuwa Hekalu haliwezi kukiuka licha ya ukosefu wa haki wa kimaadili",
+          "Sheria juu ya bei ya njiwa",
+          "Sifa za Makuhani",
+          "Wimbo wa sikukuu ya Pasaka"
+        ],
+        "correct": 0,
+        "explanation": "Katika Yeremia 7, nabii alishutumu udanganyifu 'Hili ni Hekalu la Bwana!' ; Yesu anasasisha haswa ukosoaji huu wa kinabii."
+      },
+      {
+        "question": "Katika Ufunuo, maneno 'ushuhuda wa Yesu ni roho ya unabii' (Ufunuo 19:10) inamaanisha nini?",
+        "options": [
+          "Yesu pekee ndiye anayeweza kusema",
+          "Unabii wote wa kweli wa kibiblia una kama kitovu, lengo na chanzo cha ushuhuda kwa Yesu Kristo",
+          "Unabii ulikoma katika Agano la Kale",
+          "Malaika wanapaswa kuabudiwa"
+        ],
+        "correct": 1,
+        "explanation": "Malaika anakataa kuabudiwa kwa Yohana na anatukumbusha kwamba uvuvio wote wa kinabii unaungana juu ya mtu na kazi ya Kristo."
+      },
+      {
+        "question": "Je! kuna tofauti gani kati ya matarajio ya Masihi ya Kiyahudi ya karne ya 1 na picha ya kinabii ya Yesu katika Injili?",
+        "options": [
+          "Hakuna tofauti",
+          "Matarajio ya wengi yalitumainiwa kwa Masihi mwenye ushindi wa mara moja wa kisiasa/kijeshi, akijitahidi kuunganisha Mtumishi Anayeteseka wa Isaya 53 kabla ya utukufu.",
+          "Wayahudi hawakutarajia Masihi",
+          "Walikuwa wanamngoja Masihi kutoka Rumi"
+        ],
+        "correct": 1,
+        "explanation": "Hii ndiyo sababu Yesu alieleza njiani kuelekea Emau (Luka 24:26) kwamba Kristo alipaswa kuteswa mambo haya kabla ya kuingia katika utukufu wake."
+      },
+      {
+        "question": "Katika Isaya 6:9-10 ('Sikilizeni kwa makini, lakini msielewe'), kwa nini Yesu anataja unabii huu kufafanua mifano (Marko 4:12)?",
+        "options": [
+          "Ili kuzuia mtu yeyote asiamini",
+          "Kwa sababu mifano hufunua mafumbo ya Ufalme kwa mioyo yenye unyenyekevu huku ikidhihirisha hukumu juu ya wale wanaojifanya migumu",
+          "Kwa sababu hakuweza kusema wazi",
+          "Kunukuu methali ya Kigiriki"
+        ],
+        "correct": 1,
+        "explanation": "Mifano hiyo inatimiza athari maradufu ya neno la kinabii la Isaya 6: kuwaangazia wanafunzi na kuwaacha wasioamini katika ugumu wao wa hiari."
+      },
+      {
+        "question": "Ni nabii gani alielezea urejesho wa mwisho wa kiroho wa Israeli kama mvua ya masika na vuli (Hosea 6:3) na uponyaji kutokana na kukosa uaminifu (Hosea 14)?",
+        "options": [
+          "Hosea",
+          "Obadia",
+          "Nahumu",
+          "Hagai"
+        ],
+        "correct": 0,
+        "explanation": "Hosea anahitimisha kitabu chake cha hukumu kwa ahadi kuu ya uponyaji wa bure na kuzaa matunda ya kiroho (Hosea 14:4-8)."
+      },
+      {
+        "question": "Katika Ezekieli 28:11-19, maombolezo juu ya mfalme wa Tiro yanatumia sanamu za Edeni ('kerubi mlinzi'): ni jinsi gani mapokeo ya Kikristo yameisoma mara kwa mara?",
+        "options": [
+          "Kama mapishi rahisi ya kupikia",
+          "Zote mbili kama kejeli ya kiburi cha kupindukia cha mfalme wa Tiro na, kwa mfano, kama kielelezo cha anguko la Shetani (pamoja na Isaya 14)",
+          "Kama sifa ya utajiri wa Tiro",
+          "Kama hadithi kuhusu Musa"
+        ],
+        "correct": 1,
+        "explanation": "Kama vile Isaya 14 juu ya mfalme wa Babeli ('nyota angavu'), Ezekieli 28 inashutumu hali ya chini ya utawala wa kidunia kupitia kiini cha anguko la asili."
+      },
+      {
+        "question": "Ni unabii gani katika Mwanzo 9:25-27 uliosemwa na Noa unaoonyesha kimbele daraka la kiroho la wakati ujao la ukoo wa Shemu?",
+        "options": [
+          "‘Na ahimidiwe BWANA, Mungu wa Shemu’ na Yafethi akae katika hema za Shemu",
+          "Kwamba Nuhu atajenga upya Babeli",
+          "Huyo Hamu atatawala dunia yote",
+          "Kwamba mafuriko yataanza tena"
+        ],
+        "correct": 0,
+        "explanation": "Baraka ya Shemu inafananisha nasaba iliyochaguliwa (Ibrahimu, Israeli, Masihi) ambayo mataifa (Yafethi) yatapata makao katika ‘hema zake."
+      },
+      {
+        "question": "Katika Wagalatia 3:16, ni maelezo gani ya kisarufi ya ahadi kwa Ibrahimu ambayo Paulo anasisitiza kuitumia kwa Kristo?",
+        "options": [
+          "Umoja 'kwa uzao wako' (sperma) badala ya wingi 'kwa vizazi vyako', na hatimaye kumtaja Kristo.",
+          "Matumizi ya kivumishi cha Kigiriki",
+          "Kutokuwepo kwa kitenzi",
+          "Jina la Sarah"
+        ],
+        "correct": 0,
+        "explanation": "Paulo anaonyesha kwamba ahadi iliyotolewa kwa wazao wa Abrahamu inapata utimizo wake wa hakika katika nafsi ya pekee ya Kristo."
+      },
+      {
+        "question": "Ni nabii gani alitabiri kwamba maji machungu na jangwa litachanua kama daffodili/liyu wakati waliokombolewa wa Bwana watakaporudi?",
+        "options": [
+          "Isaya (sura ya 35)",
+          "Yona",
+          "Obadia",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 35 inaadhimisha mageuzi ya jangwa lisilo na kitu na 'njia takatifu' iliyofunguliwa kwa waliokombolewa na Bwana."
+      },
+      {
+        "question": "Katika Matendo 3:21 , Petro anazungumza juu ya 'nyakati za kufanywa upya kwa vitu vyote' (apokatastasis): juu ya msingi gani anaweka taraja hili?",
+        "options": [
+          "Juu ya manabii wa Agano la Kale (‘ambao Mungu alinena habari zao zamani kwa kinywa cha manabii wake watakatifu’)",
+          "Juu ya falsafa ya Stoic",
+          "Kwa amri ya Seneti ya Kirumi",
+          "Juu ya mapokeo kutoka Efeso"
+        ],
+        "correct": 0,
+        "explanation": "Petro anathibitisha kwamba mbingu lazima zimpokee Yesu hadi urejesho wa ulimwengu ulioahidiwa na manabii wote tangu mwanzo."
+      },
+      {
+        "question": "Ni nabii gani aliyetangaza anguko la Babiloni katika chumba cha mahubiri maarufu kilicholinganisha utukufu wake wa zamani na jangwa lisilokaliwa na wanyama-mwitu?",
+        "options": [
+          "Isaya (sura ya 13) na Yeremia (50-51)",
+          "Yona",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 13:19-22 na Yeremia 50-51 yatangaza anguko kamili na la kudumu la jiji kuu la Babiloni."
+      },
+      {
+        "question": "Katika 2 Petro 1:19-21 , mtume anatumia taswira gani kueleza ‘neno la kinabii’ kabla ya kurudi kwa Kristo?",
+        "options": [
+          "Taa ing'aayo mahali penye giza, mpaka kutakapopambazuka na nyota ya asubuhi kuzuka katika mioyo yetu.",
+          "Wingu linalopita",
+          "Upepo wa jangwani",
+          "Sanamu ya udongo"
+        ],
+        "correct": 0,
+        "explanation": "Petro anakumbuka wakati huo huo kwamba hakuna unabii wa Maandiko ambao ni tunda la kufasiriwa na mapenzi ya mwanadamu, bali unabebwa na Roho Mtakatifu."
+      },
+      {
+        "question": "Ni unabii gani katika Zekaria 14:4-9 unaoeleza Bwana akiweka miguu yake juu ya mlima maalum karibu na Yerusalemu katika siku ya mwisho?",
+        "options": [
+          "Mlima wa Mizeituni, ambao utapasuka katikati kutoka mashariki hadi magharibi",
+          "Mlima Sinai",
+          "Mlima Karmeli",
+          "Mlima Nebo"
+        ],
+        "correct": 0,
+        "explanation": "Zekaria 14:4 inatangaza kwamba miguu yake itasimama juu ya Mlima wa Mizeituni siku hiyo, ikifuatwa na utawala wa ulimwengu mzima wa Bwana juu ya dunia yote."
       }
     ]
   }

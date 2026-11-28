@@ -165,6 +165,523 @@
         ],
         "correct": 1,
         "explanation": "Isaiah 2:2-4 / Micah 4:1-3: The nations shall go up to the mountain of the LORD to learn his ways."
+      },
+      {
+        "question": "Which prophet announced that Jesus would be called Emmanuel ('God with us')?",
+        "options": [
+          "Jeremiah",
+          "Isaiah",
+          "Ezekiel",
+          "Amos"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 7:14 says, 'Behold, the girl will conceive and bear a son, and she will call his name Immanuel.'"
+      },
+      {
+        "question": "Which prophet described the Messiah as 'Prince of Peace' and 'Mighty God'?",
+        "options": [
+          "Micah",
+          "Isaiah",
+          "Hosea",
+          "Joel"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 9:5-6 names the Messiah as Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."
+      },
+      {
+        "question": "Which prophet announced that the Messiah would be born from the line of David (a branch from the trunk of Jesse)?",
+        "options": [
+          "Jonah",
+          "Isaiah",
+          "Obadiah",
+          "Malachi"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 11:1 prophesies that a branch will come out of the trunk of Jesse, the father of King David."
+      },
+      {
+        "question": "Which book of Psalms begins with the cry 'My God, my God, why have you forsaken me?' spoken by Jesus on the cross?",
+        "options": [
+          "Psalm 1",
+          "Psalm 22",
+          "Psalm 51",
+          "Psalm 119"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 22 accurately describes the suffering of crucifixion (pierced hands and feet, garments divided by lot)."
+      },
+      {
+        "question": "According to Psalm 22:18, what did the soldiers do with Messiah's clothing?",
+        "options": [
+          "They burned them",
+          "They drew lots",
+          "They threw them into the sea",
+          "They returned them to his mother"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 22:18 announces: 'They divide my garments among them, they cast lots for my tunic', fulfilled at the foot of the cross (John 19:24)."
+      },
+      {
+        "question": "What Old Testament prophecy predicted that none of the bones of the Messiah would be broken?",
+        "options": [
+          "Psalm 34:20 (and Exodus 12:46)",
+          "Psalm 1:1",
+          "Proverbs 3:5",
+          "Isaiah 40:3"
+        ],
+        "correct": 0,
+        "explanation": "Psalm 34:20 states 'He keeps all his bones, none of them is broken', quoted at the crucifixion (John 19:36)."
+      },
+      {
+        "question": "Which prophet announced: 'He was wounded for our sins, broken for our iniquities'?",
+        "options": [
+          "Jeremiah",
+          "Isaiah (chapter 53)",
+          "Ezekiel",
+          "Amos"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah 53:5 describes the redeeming suffering of the Servant of the Lord."
+      },
+      {
+        "question": "Which prophet was swallowed by a large fish for 3 days, foreshadowing the resurrection of Jesus?",
+        "options": [
+          "Elijah",
+          "Jonah",
+          "Daniel",
+          "Habakkuk"
+        ],
+        "correct": 1,
+        "explanation": "Jesus himself compares Jonah's 3 days in the fish to his own stay in the tomb (Matthew 12:40)."
+      },
+      {
+        "question": "Which prophet predicted that the Messiah would make the blind see, the deaf hear, and the lame walk?",
+        "options": [
+          "Isaiah (chapter 35)",
+          "Obadiah",
+          "Nahum",
+          "Zephaniah"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 35:5-6 announces these messianic healings, which Jesus cites in response to the disciples of John the Baptist (Matthew 11:5)."
+      },
+      {
+        "question": "Which prophet announced the massacre of children in Bethlehem ('Rachel cries for her children')?",
+        "options": [
+          "Jeremiah (31:15)",
+          "Jonah",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Matthew 2:17-18 quotes Jeremiah 31:15 during the massacre of the innocents ordered by Herod."
+      },
+      {
+        "question": "Which prophet announced that the Messiah would preach 'good news to the poor' (read by Jesus in Nazareth)?",
+        "options": [
+          "Isaiah (61:1)",
+          "Amos",
+          "Malachi",
+          "Jonah"
+        ],
+        "correct": 0,
+        "explanation": "At the synagogue in Nazareth, Jesus read Isaiah 61:1-2 and declared: 'Today this word is fulfilled' (Luke 4:18-21)."
+      },
+      {
+        "question": "Who announced the destruction of Jerusalem and an exile to Babylon?",
+        "options": [
+          "Jonah",
+          "Jeremiah",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah warned for forty years that Babylon would destroy Jerusalem if the people did not repent."
+      },
+      {
+        "question": "Which prophet announced that the Messiah would be preceded by a messenger preparing the way?",
+        "options": [
+          "Malachi (3:1)",
+          "Obadiah",
+          "Nahum",
+          "Jonah"
+        ],
+        "correct": 0,
+        "explanation": "Malachi 3:1 announces: 'Behold, I will send my messenger; he will prepare the way before me', fulfilled in John the Baptist."
+      },
+      {
+        "question": "In which book do we find the prophecy of the statue with feet of clay and iron?",
+        "options": [
+          "Isaiah",
+          "Daniel (chapter 2)",
+          "Ezekiel",
+          "Zechariah"
+        ],
+        "correct": 1,
+        "explanation": "Daniel interpreted Nebuchadnezzar's dream of the four kingdoms followed by an eternal kingdom established by God (Daniel 2)."
+      },
+      {
+        "question": "In Nebuchadnezzar's dream (Daniel 2), what did the loose stone do without the help of any hand?",
+        "options": [
+          "She sinks into the sea",
+          "She breaks the statue and becomes a great mountain filling the whole earth",
+          "It turns into gold",
+          "She disappears into the sky"
+        ],
+        "correct": 1,
+        "explanation": "This stone represents the Kingdom of God which will destroy all human kingdoms and endure forever (Daniel 2:34-44)."
+      },
+      {
+        "question": "Which prophet announced the judgment of the world and the coming of a 'Son of man' on the clouds of heaven?",
+        "options": [
+          "Amos",
+          "Daniel (chapter 7)",
+          "Hosea",
+          "Jonah"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 7:13-14 describes the Son of Man coming on the clouds of heaven to receive eternal dominion."
+      },
+      {
+        "question": "Which prophet predicted that swords would be beaten into plowshares and spears into pruning hooks?",
+        "options": [
+          "Isaiah (and Micah)",
+          "Jonah",
+          "Obadiah",
+          "Nahum"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 2:4 and Micah 4:3 announce this era of universal peace when the nations will no longer learn war."
+      },
+      {
+        "question": "Which prophet announced that the righteous king would come to Jerusalem riding on a donkey?",
+        "options": [
+          "Zechariah (9:9)",
+          "Haggai",
+          "Malachi",
+          "Joel"
+        ],
+        "correct": 0,
+        "explanation": "Jesus literally fulfilled Zechariah 9:9 during his triumphal entry into Jerusalem (Matthew 21:4-5)."
+      },
+      {
+        "question": "What OT prophecy announces that the Messiah would be despised and rejected by men?",
+        "options": [
+          "Isaiah 53:3",
+          "Psalm 23:1",
+          "Proverbs 1:7",
+          "Genesis 1:1"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 53:3 describes the Servant as 'despised and forsaken of men, a man of sorrows and accustomed to suffering'."
+      },
+      {
+        "question": "Which psalm announces: 'You will not abandon my soul to hell, you will not allow your beloved to see corruption'?",
+        "options": [
+          "Psalm 16:10",
+          "Psalm 1:1",
+          "Psalm 100:1",
+          "Psalm 150:1"
+        ],
+        "correct": 0,
+        "explanation": "Peter and Paul cite Psalm 16:10 as a prophecy of Christ's resurrection (Acts 2:27; 13:35)."
+      },
+      {
+        "question": "Which prophet announced that the Messiah would be called 'the Lord our righteousness'?",
+        "options": [
+          "Jeremiah (23:6)",
+          "Jonah",
+          "Obadiah",
+          "Habakkuk"
+        ],
+        "correct": 0,
+        "explanation": "Jeremiah 23:5-6 announces a righteous branch raised up in David whose name will be 'The Lord our righteousness'."
+      },
+      {
+        "question": "Which Genesis prophecy states that the woman's descendants would crush the serpent's head?",
+        "options": [
+          "Genesis 3:15",
+          "Genesis 11:9",
+          "Genesis 19:26",
+          "Genesis 37:28"
+        ],
+        "correct": 0,
+        "explanation": "Genesis 3:15 is called the 'Protegospel', the first promise of victory over Satan through the seed of the woman."
+      },
+      {
+        "question": "To which patriarch did God promise that all the families of the earth would be blessed in his posterity?",
+        "options": [
+          "Noah",
+          "Abraham (Genesis 12:3)",
+          "Batch",
+          "Esau"
+        ],
+        "correct": 1,
+        "explanation": "God promised Abraham that all nations would be blessed in his descendants, a promise fulfilled in Christ (Galatians 3:8)."
+      },
+      {
+        "question": "From which tribe of Israel was the Messiah (the 'Shiloh') to come according to Jacob's blessing in Genesis 49:10?",
+        "options": [
+          "Ruben",
+          "Judah",
+          "Levi",
+          "Benjamin"
+        ],
+        "correct": 1,
+        "explanation": "Jacob prophesied that the scepter would not depart from Judah until Shiloh came (Genesis 49:10)."
+      },
+      {
+        "question": "Which prophet foretold that a star would come out of Jacob and a scepter would arise from Israel?",
+        "options": [
+          "Balaam (Numbers 24:17)",
+          "Jonah",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Balaam uttered this messianic oracle on the star of Jacob (Numbers 24:17), recalled by the star of the Magi."
+      },
+      {
+        "question": "Which prophet did Moses announce that God would raise up among his brothers like him?",
+        "options": [
+          "A great prophet like Moses (Deuteronomy 18:15)",
+          "An angel",
+          "An Egyptian king",
+          "A Pharisee"
+        ],
+        "correct": 0,
+        "explanation": "Deuteronomy 18:15-18 promises a prophet like Moses to whom all Israel must listen—applied to Jesus (Acts 3:22)."
+      },
+      {
+        "question": "Which prophet received a vision of the Lord sitting on a high throne and seraphim crying 'Holy, holy, holy'?",
+        "options": [
+          "Isaiah (chapter 6)",
+          "Jonah",
+          "Habakkuk",
+          "Zephaniah"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 6 records his inaugural vision in the Temple and the difficult mission announced to the hardened people."
+      },
+      {
+        "question": "Which prophet announced the reconstruction of the Temple after the exile by encouraging Zerubbabel and Joshua?",
+        "options": [
+          "Haggai (and Zechariah)",
+          "Amos",
+          "Hosea",
+          "Jeremiah"
+        ],
+        "correct": 0,
+        "explanation": "Haggai and Zechariah encouraged the people in 520 BC. BC to resume the construction of the Second Temple."
+      },
+      {
+        "question": "Which prophet announced that the glory of the second house (the Temple) would be greater than that of the first?",
+        "options": [
+          "Haggai (2:9)",
+          "Obadiah",
+          "Nahum",
+          "Jonah"
+        ],
+        "correct": 0,
+        "explanation": "Haggai 2:9 promises that the Desired One of all nations will come and fill this house with glory."
+      },
+      {
+        "question": "Who prophesied in the New Testament the miraculous birth of Jesus to Mary?",
+        "options": [
+          "The angel Gabriel",
+          "The prophet Elijah",
+          "The Apostle Peter",
+          "The high priest Caiaphas"
+        ],
+        "correct": 0,
+        "explanation": "The angel Gabriel announced to Mary that she would give birth to the Son of the Most High, whose reign will have no end (Luke 1:31-33)."
+      },
+      {
+        "question": "What pious old man in the Temple prophesied that the baby Jesus would be 'a light to enlighten the nations'?",
+        "options": [
+          "Nicodemus",
+          "Simeon (Luke 2:29-32)",
+          "Zechariah",
+          "Joseph of Arimathea"
+        ],
+        "correct": 1,
+        "explanation": "Simeon took Jesus in his arms and uttered the song 'Nunc Dimittis', announcing salvation for all people."
+      },
+      {
+        "question": "What prophecy did Jesus speak about the Temple in Jerusalem to his disciples?",
+        "options": [
+          "That it would last forever without damage",
+          "That there would not be one stone left upon another that would not be overturned",
+          "That he would be transported to Rome",
+          "That it would become a Greek palace"
+        ],
+        "correct": 1,
+        "explanation": "Jesus announced the destruction of the Temple (Matthew 24:2), accomplished by the Roman legions in 70 AD. AD"
+      },
+      {
+        "question": "What event did Jesus prophesie to Peter before the rooster crowed?",
+        "options": [
+          "That he would become king",
+          "That he would deny him three times",
+          "That he would go to Babylon",
+          "That he would write a gospel"
+        ],
+        "correct": 1,
+        "explanation": "Jesus predicted to Peter that before the rooster crows, he would deny him three times (Matthew 26:34)."
+      },
+      {
+        "question": "What prophecy does the apostle Paul recall in 1 Thessalonians 4 about the return of the Lord?",
+        "options": [
+          "The end of the flood",
+          "The Lord himself will come down from heaven and the dead in Christ will rise first",
+          "The fall of Nineveh",
+          "The reconstruction of Babel"
+        ],
+        "correct": 1,
+        "explanation": "Paul teaches about the resurrection of the dead in Christ and the catching up of the living to meet the Lord (1 Thessalonians 4:16-17)."
+      },
+      {
+        "question": "Which prophet predicted that the Messiah would be silent before his accusers 'like a lamb led to the slaughter'?",
+        "options": [
+          "Isaiah (53:7)",
+          "Jonah",
+          "Obadiah",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 53:7 describes the silence of the Suffering Servant, a passage the Ethiopian eunuch read in Acts 8:32."
+      },
+      {
+        "question": "Which prophet announced that the waters of the Dead Sea would be cleansed by a river flowing from the Temple?",
+        "options": [
+          "Ezekiel (chapter 47)",
+          "Jonah",
+          "Amos",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Ezekiel 47 describes the river of life flowing out of the sanctuary and healing the Dead Sea until it gave life everywhere."
+      },
+      {
+        "question": "Which prophet announced the birth of a righteous posterity who will live by their faith ('the righteous will live by their faith')?",
+        "options": [
+          "Habakkuk (2:4)",
+          "Obadiah",
+          "Jonah",
+          "Haggai"
+        ],
+        "correct": 0,
+        "explanation": "Habakkuk 2:4 is one of the founding prophetic verses taken up by Paul in Romans 1:17 and Galatians 3:11."
+      },
+      {
+        "question": "What prophecy from Revelation announces the disappearance of death, mourning and tears?",
+        "options": [
+          "Revelation 21:4",
+          "Revelation 2:1",
+          "Revelation 13:18",
+          "Revelation 6:1"
+        ],
+        "correct": 0,
+        "explanation": "Revelation 21:4 promises that God will wipe away every tear and that death, crying, and pain will be no more."
+      },
+      {
+        "question": "Which prophet predicted that the Messiah would be betrayed by a close friend who ate his bread?",
+        "options": [
+          "David (Psalm 41:9)",
+          "Jonah",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Jesus quotes Psalm 41:9 ('He who ate bread with me has lifted up his heel against me') about Judas (John 13:18)."
+      },
+      {
+        "question": "Which prophet announced that God would offer a free drink to those who thirst (“Come to the waters, all you who are thirsty”)?",
+        "options": [
+          "Isaiah (55:1)",
+          "Obadiah",
+          "Nahum",
+          "Zephaniah"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 55:1-3 invites freely to the waters and enters into an everlasting covenant according to the graces promised to David."
+      },
+      {
+        "question": "Which prophet said that God would drive away death forever and wipe away tears from all faces?",
+        "options": [
+          "Isaiah (25:8)",
+          "Jonah",
+          "Obadiah",
+          "Haggai"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 25:8 announces the eschatological feast where God destroys death forever, cited in 1 Corinthians 15:54."
+      },
+      {
+        "question": "Which prophet in the book of Acts predicted a great famine throughout the earth under Emperor Claudius?",
+        "options": [
+          "Agabus (Acts 11:28)",
+          "Etienne",
+          "Barnabas",
+          "Timothy"
+        ],
+        "correct": 0,
+        "explanation": "Agabus, a prophet who came down from Jerusalem to Antioch, announced by the Spirit a great famine which occurred under Claudius."
+      },
+      {
+        "question": "Which prophet predicted that Paul would be bound by the Jews in Jerusalem by taking his own girdle?",
+        "options": [
+          "Agabus (Acts 21:10-11)",
+          "Philip",
+          "Silas",
+          "Ananias"
+        ],
+        "correct": 0,
+        "explanation": "In Caesarea, Agabus took Paul's belt, tied his hands and feet, and announced his arrest in Jerusalem."
+      },
+      {
+        "question": "What prophecy of Zechariah announces a humble king bringing peace to the nations to the ends of the earth?",
+        "options": [
+          "Zechariah 9:9-10",
+          "Zechariah 1:1",
+          "Obadiah 1:1",
+          "Nahum 1:1"
+        ],
+        "correct": 0,
+        "explanation": "Zechariah 9:9-10 unites the humility of the king on the colt with his universal reign of peace."
+      },
+      {
+        "question": "Which prophet announced that the Messiah would bear the sins of many and intercede for the guilty?",
+        "options": [
+          "Isaiah (53:12)",
+          "Jonah",
+          "Obadiah",
+          "Haggai"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 53:12 is fulfilled on the cross between two evildoers as Jesus prays: 'Father, forgive them' (Luke 23:34)."
+      },
+      {
+        "question": "Which prophet predicted the return of the Jewish people to their land and their future unity under one shepherd ('my servant David')?",
+        "options": [
+          "Ezekiel (34:23; 37:24)",
+          "Jonah",
+          "Nahum",
+          "Obadiah"
+        ],
+        "correct": 0,
+        "explanation": "Ezekiel 34 and 37 announce that God will raise up a single shepherd, his servant David, to feed his united flock."
+      },
+      {
+        "question": "In the OT parable or prophecy, which prophet broke an earthen pitcher to symbolize the irreversible ruin of Jerusalem?",
+        "options": [
+          "Jeremiah (chapter 19)",
+          "Isaiah",
+          "Jonah",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "By God's command, Jeremiah broke a potter's pot in the valley of Ben-Hinnom before the elders (Jeremiah 19:10-11)."
       }
     ],
     "intermediaire": [
@@ -332,6 +849,523 @@
         ],
         "correct": 1,
         "explanation": "Isaiah 52:13-53:12 is the 4th Servant song, cited more than 40 times in the NT for Christ."
+      },
+      {
+        "question": "Which royal psalm prophesies: 'The Lord said to my Lord: Sit at my right hand'?",
+        "options": [
+          "Psalm 2",
+          "Psalm 110:1",
+          "Psalm 23",
+          "Psalm 139"
+        ],
+        "correct": 1,
+        "explanation": "Psalm 110:1 is the OT text most frequently cited in the NT to designate the exaltation of Christ (Matthew 22:44; Acts 2:34)."
+      },
+      {
+        "question": "Which psalm prophesies that the Messiah is 'a priest forever according to the order of Melchizedek'?",
+        "options": [
+          "Psalm 110:4",
+          "Psalm 51:1",
+          "Psalm 19:1",
+          "Psalm 90:1"
+        ],
+        "correct": 0,
+        "explanation": "Psalm 110:4 combines messianic kingship and the eternal priesthood of Melchizedek, developed in Hebrews 5-7."
+      },
+      {
+        "question": "Which messianic psalm declares: 'You are my Son, this day have I begotten you'?",
+        "options": [
+          "Psalm 2:7",
+          "Psalm 14:1",
+          "Psalm 42:1",
+          "Psalm 121:1"
+        ],
+        "correct": 0,
+        "explanation": "Psalm 2:7 is cited at Jesus' baptism, resurrection (Acts 13:33) and in Hebrews 1:5."
+      },
+      {
+        "question": "Which psalm announces: 'The stone which the builders rejected has become the chief of the corner'?",
+        "options": [
+          "Psalm 118:22",
+          "Psalm 24:1",
+          "Psalm 84:1",
+          "Psalm 133:1"
+        ],
+        "correct": 0,
+        "explanation": "Jesus and Peter apply Psalm 118:22 to the religious leaders' rejection of the Messiah and his victory (Matthew 21:42; Acts 4:11)."
+      },
+      {
+        "question": "Which prophet used a wooden yoke on his neck to symbolize submission to Babylon?",
+        "options": [
+          "Isaiah",
+          "Jeremiah (chapters 27-28)",
+          "Ezekiel",
+          "Hosea"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah bore a yoke to exhort the nations to submit to Nebuchadnezzar; Hananiah broke it and was replaced by a yoke of iron."
+      },
+      {
+        "question": "What prophetic sign does Ezekiel fulfill by lying on his left side then on his right side?",
+        "options": [
+          "The length of David's reign",
+          "The years of iniquity of Israel (390 days) and Judah (40 days)",
+          "The construction of the ark",
+          "The 40-day fast in the desert"
+        ],
+        "correct": 1,
+        "explanation": "In Ezekiel 4:4-6, the prophet symbolically bears the iniquity of Israel and Judah for one day for one year."
+      },
+      {
+        "question": "What did Micah 3:12 predict about Zion and Jerusalem, a prophecy later recalled to save Jeremiah?",
+        "options": [
+          "That Jerusalem would never fall",
+          "That Zion would be plowed like a field and Jerusalem would become a heap of stones",
+          "That Egypt would invade Babylon",
+          "That the Temple would become gold"
+        ],
+        "correct": 1,
+        "explanation": "In Jeremiah 26:18, the elders cite Micah of Moresheth to remind us that a prophet had already announced the ruin of Jerusalem."
+      },
+      {
+        "question": "Which prophecy from Zechariah (11:12-13) associates the 30 silver coins with the 'potter's field'?",
+        "options": [
+          "Zechariah asks for his wages and throws it into the house of the Lord for the potter",
+          "Zechariah buys a war chariot",
+          "Zechariah builds a temple",
+          "Zechariah destroys an idol"
+        ],
+        "correct": 0,
+        "explanation": "Matthew 27:9-10 connects Judas' betrayal for 30 pieces of silver and purchase of the potter's field to Zechariah 11 and Jeremiah."
+      },
+      {
+        "question": "Which prophet said: 'I will strike the shepherd, and the sheep of the flock will be scattered'?",
+        "options": [
+          "Zechariah (13:7)",
+          "Obadiah",
+          "Nahum",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Jesus quotes Zechariah 13:7 on the night of Gethsemane to announce the dispersion of his disciples (Matthew 26:31)."
+      },
+      {
+        "question": "What prophet announced that the pagan nations would know the name of God, from the east to the west?",
+        "options": [
+          "Malachi (1:11)",
+          "Obadiah",
+          "Nahum",
+          "Jonah"
+        ],
+        "correct": 0,
+        "explanation": "Malachi 1:11 declares that from the rising of the sun to the setting of the sun, the name of the LORD is great among the nations."
+      },
+      {
+        "question": "In Daniel 7, what do the four great animals coming out of the sea represent?",
+        "options": [
+          "Four angels",
+          "Four successive kingdoms/empires that will arise on the earth",
+          "Four tribes of Israel",
+          "Four seasons"
+        ],
+        "correct": 1,
+        "explanation": "The four beasts (lion, bear, leopard, fearsome beast) correspond to four successive empires (Daniel 7:17)."
+      },
+      {
+        "question": "In Daniel 8, what do the ram with two horns and the hairy goat with a large horn between the eyes represent?",
+        "options": [
+          "Egypt and Israel",
+          "The Medo-Persian Empire (ram) defeated by the Greek Empire of Alexander the Great (goat)",
+          "Rome and Carthage",
+          "Babylon and Assyria"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 8:20-21 explicitly identifies the ram with the kings of the Medes and the Persians, and the goat with the king of Javan (Greece)."
+      },
+      {
+        "question": "Which prophet announced the judgment of Edom for its betrayal of its brother Jacob during the fall of Jerusalem?",
+        "options": [
+          "Obadiah",
+          "Joel",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "The entire book of Obadiah is a prophecy against Edom's pride and violence toward Judah (Obadiah 10-15)."
+      },
+      {
+        "question": "What prophecy from Amos (9:11) is cited by James at the Council of Jerusalem to justify welcoming non-Jews?",
+        "options": [
+          "'I will raise up the tent of David from its fall' so that the rest of men will seek the Lord",
+          "'The sea will recede'",
+          "'The Temple will be destroyed'",
+          "'The mountains will melt'"
+        ],
+        "correct": 0,
+        "explanation": "Acts 15:16-17 cites Amos 9:11-12 to show that the inclusion of the nations was foretold by the prophets."
+      },
+      {
+        "question": "Which prophet predicted by name the Persian king Cyrus more than a century before his birth as God's instrument to rebuild Jerusalem?",
+        "options": [
+          "Isaiah (44:28 – 45:1)",
+          "Amos",
+          "Hosea",
+          "Jonah"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 44:28-45:1 names Cyrus as 'my shepherd' and 'his anointed' to deliver the exiles and rebuild the Temple."
+      },
+      {
+        "question": "Which prophet received a vision of a golden lampstand powered by two olive trees with the words: 'Neither by power, nor by might, but by my Spirit'?",
+        "options": [
+          "Zechariah (chapter 4)",
+          "Haggai",
+          "Jeremiah",
+          "Ezekiel"
+        ],
+        "correct": 0,
+        "explanation": "Zechariah 4:6 encourages Zerubbabel to complete the Temple not by human power but by the Spirit of the Lord."
+      },
+      {
+        "question": "Which prophecy from Isaiah (42:1-4) describes the Servant who 'will not break a broken reed or quench a smoking wick'?",
+        "options": [
+          "The first song of the Servant",
+          "The fall of Babylon",
+          "The vision of the Temple",
+          "The song of Moses"
+        ],
+        "correct": 0,
+        "explanation": "Matthew 12:18-21 cites Isaiah 42:1-4 to describe the gentleness and righteousness of Jesus' ministry."
+      },
+      {
+        "question": "In Matthew 2:23, 'He will be called a Nazarene' likely refers to what Hebrew prophetic pun?",
+        "options": [
+          "Netzer (the shoot/sprout of Isaiah 11:1)",
+          "Bethel (house of God)",
+          "Shalom (peace)",
+          "Torah (law)"
+        ],
+        "correct": 0,
+        "explanation": "Several commentators see a link with 'netzer' (offspring/branch) in Isaiah 11:1 as well as with the contempt attached to Nazareth."
+      },
+      {
+        "question": "Which prophet announced that light would first shine on 'the Galilee of the nations' (lands of Zebulun and Naphtali)?",
+        "options": [
+          "Isaiah (8:23 – 9:1)",
+          "Jeremiah",
+          "Ezekiel",
+          "Amos"
+        ],
+        "correct": 0,
+        "explanation": "Matthew 4:14-16 quotes Isaiah 9:1-2 when Jesus begins his public ministry in Galilee at Capernaum."
+      },
+      {
+        "question": "Which prophet predicted that a voice of lamentation would be heard over Jerusalem, but also a new covenant with forgiveness of sins?",
+        "options": [
+          "Jeremiah (chapter 31)",
+          "Jonah",
+          "Nahum",
+          "Obadiah"
+        ],
+        "correct": 0,
+        "explanation": "Jeremiah 31 announces both Rachel's tears and the New Covenant engraved in hearts (31:31-34)."
+      },
+      {
+        "question": "Which prophet was ordered to purchase a field in Anathoth while the Babylonian army was besieging Jerusalem?",
+        "options": [
+          "Jeremiah (chapter 32)",
+          "Ezekiel",
+          "Isaiah",
+          "Daniel"
+        ],
+        "correct": 0,
+        "explanation": "By purchasing his cousin Hanameel's field in the midst of a siege, Jeremiah prophesied by deed that life and land would return to Judah (Jeremiah 32:15)."
+      },
+      {
+        "question": "What OT prophecy predicts a king who will 'judge between many peoples' and whose peace will have no end?",
+        "options": [
+          "Isaiah 9:6-7 (and 2:4)",
+          "Obadiah 1:1",
+          "Jonah 3:4",
+          "Nahum 1:15"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 9:6-7 promises endless increase to the dominion and peace of David's throne."
+      },
+      {
+        "question": "Which prophet predicted the three and a half year drought under Ahab before praying for the return of rain?",
+        "options": [
+          "Elijah (1 Kings 17-18)",
+          "Elisha",
+          "Nathan",
+          "Gad"
+        ],
+        "correct": 0,
+        "explanation": "Elijah announced that there would be neither dew nor rain except for his word (1 Kings 17:1; James 5:17)."
+      },
+      {
+        "question": "Which prophet announced to Jeroboam I the tearing of the kingdom by tearing a new coat into 12 pieces?",
+        "options": [
+          "Ahijah of Shiloh (1 Kings 11:29-31)",
+          "Nathan",
+          "Samuel",
+          "Elijah"
+        ],
+        "correct": 0,
+        "explanation": "Ahijah gave 10 pieces to Jeroboam, announcing that Solomon would lose 10 tribes to idolatry."
+      },
+      {
+        "question": "Which prophet announced that a king named Josiah would burn human bones on the idolatrous altar at Bethel?",
+        "options": [
+          "A man of God from Judah (1 Kings 13:2)",
+          "Elijah",
+          "Elisha",
+          "Micah"
+        ],
+        "correct": 0,
+        "explanation": "Three centuries before Josiah, this man of God named Josiah before the altar of Bethel; the prophecy is fulfilled in 2 Kings 23:15-16."
+      },
+      {
+        "question": "In Revelation, what do the 'two witnesses' who prophesy of 1260 days clothed in sackcloth represent (Revelation 11)?",
+        "options": [
+          "Only Adam and Noah",
+          "The prophetic witness of the Church (recalling Moses and Elijah) to the nations",
+          "Two kings of Persia",
+          "Jacob's two sons"
+        ],
+        "correct": 1,
+        "explanation": "Clothed with the powers of Moses (water changed into blood) and Elijah (closing the sky), they represent the faithful prophetic testimony to the end."
+      },
+      {
+        "question": "What do the 'seven seals', 'seven trumpets' and 'seven vials' symbolize in the book of Revelation?",
+        "options": [
+          "7 days of the week only",
+          "Cycles of divine judgments and warnings leading to final judgment and the Kingdom of God",
+          "The 7 wonders of the ancient world",
+          "The 7 months of the year"
+        ],
+        "correct": 1,
+        "explanation": "These three septenaries structure the apocalyptic revelation of the progressive judgment on a rebellious world and the victory of the Lamb."
+      },
+      {
+        "question": "What prophecy of Paul's in Romans 11 foreshadows Israel's spiritual future?",
+        "options": [
+          "That Israel is definitively rejected",
+          "Let a partial hardening come upon Israel until all the Gentiles have entered, and thus all Israel will be saved",
+          "That Rome will replace the Bible",
+          "That the Law of Moses is canceled for the Jews"
+        ],
+        "correct": 1,
+        "explanation": "Romans 11:25-26 reveals this 'mystery' of God's irrevocable faithfulness to the promises made to the fathers."
+      },
+      {
+        "question": "In 2 Thessalonians 2, what must happen before the Day of the Lord?",
+        "options": [
+          "Perfect world peace",
+          "The apostasy and the revelation of the 'ungodly man' (son of perdition)",
+          "The construction of a tower at Babel",
+          "The end of the seasons"
+        ],
+        "correct": 1,
+        "explanation": "Paul warns against thinking that the day of the Lord is already here, recalling the apostasy and the ungodly sitting in the temple of God."
+      },
+      {
+        "question": "Which prophecy of Jesus in Luke 21:24 connects the fall of Jerusalem to a specific historical period?",
+        "options": [
+          "'Jerusalem will be trodden down by the nations, until the times of the nations are fulfilled'",
+          "'Jerusalem will never be attacked'",
+          "'The nations will rebuild Babel'",
+          "'The Jordan will disappear in one day'"
+        ],
+        "correct": 0,
+        "explanation": "Jesus announces the ruin of Jerusalem in 70 AD. BC and a temporal limit set by God ('the times of the nations')."
+      },
+      {
+        "question": "Which prophet described the collapse of proud Tyre, a Phoenician maritime city?",
+        "options": [
+          "Ezekiel (chapters 26-28)",
+          "Jonah",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Ezekiel prophesied that Tire would be razed and its rubble thrown into the sea, which was notably accomplished during the siege of Alexander the Great."
+      },
+      {
+        "question": "Which prophet announced that the people sitting in darkness would see a great light?",
+        "options": [
+          "Isaiah (9:1)",
+          "Amos",
+          "Obadiah",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 9:1-2 prophesies of a great light rising upon those who dwell in the land of the shadow of death."
+      },
+      {
+        "question": "Which prophecy from Psalm 69:9 ('The zeal of your house devours me') is applied to Jesus by the disciples?",
+        "options": [
+          "At his birth in Bethlehem",
+          "When he drives out the merchants from the Temple (John 2:17)",
+          "When multiplying loaves",
+          "During his baptism"
+        ],
+        "correct": 1,
+        "explanation": "As his disciples saw Jesus purifying the Temple in Jerusalem, they remembered this word from Psalm 69:9."
+      },
+      {
+        "question": "Which verse from Psalm 69:21 foreshadowed the vinegar presented to Jesus on the cross?",
+        "options": [
+          "'They put gall in my food, and to quench my thirst they drink vinegar over me'",
+          "'You set a table before me'",
+          "'My cup overflows'",
+          "'The Lord is my light'"
+        ],
+        "correct": 0,
+        "explanation": "John 19:28-29 highlights the fulfillment of Scripture when Jesus said 'I thirst' and was given vinegar."
+      },
+      {
+        "question": "What prophet announced that a river of grace would heal the bitterness and barrenness of the earth (Ezekiel 47)—what tree grows on its banks?",
+        "options": [
+          "Trees bearing fruit every month and whose leaves are used for healing",
+          "Brambles and thorns",
+          "Cedars without fruit",
+          "Dry reeds"
+        ],
+        "correct": 0,
+        "explanation": "This vision from Ezekiel 47:12 is repeated almost word for word for the tree of life in the New Jerusalem (Revelation 22:2)."
+      },
+      {
+        "question": "In the prophecy of Daniel 12:2, what does it clearly say about the dead?",
+        "options": [
+          "Let them sleep forever without waking up",
+          "'Many of those who sleep in the dust of the earth shall awake, some to everlasting life...'",
+          "Let them become literal stars",
+          "That there is no resurrection"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 12:2 is one of the most explicit affirmations of individual resurrection and final judgment in the Old Testament."
+      },
+      {
+        "question": "Which prophet saw the Lord holding a plumb line (level) to measure the righteousness of Israel?",
+        "options": [
+          "Amos (7:7-8)",
+          "Jonah",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "The vision of the plumb line in Amos 7 shows that the time for forgiveness without repentance has passed for the northern kingdom."
+      },
+      {
+        "question": "What prophet predicted that a famine would come, not from bread and water, but from hearing the words of the Lord?",
+        "options": [
+          "Amos (8:11)",
+          "Jonah",
+          "Haggai",
+          "Obadiah"
+        ],
+        "correct": 0,
+        "explanation": "Amos 8:11 warns that persistent rejection of the prophetic word will lead to a painful silence from God."
+      },
+      {
+        "question": "Which prophecy in Zechariah 3 shows the high priest Joshua clothed in filthy garments and then cleansed by the Angel of the Lord?",
+        "options": [
+          "A vision announcing the forgiveness of Israel's sins and the coming of the 'Branch' in a single day",
+          "A prophecy about Egypt",
+          "A prophecy about Nineveh",
+          "A song of love"
+        ],
+        "correct": 0,
+        "explanation": "Zechariah 3:8-9 announces that God will remove the iniquity of the land in one day through his servant the Branch."
+      },
+      {
+        "question": "Which prophet announced that the tail of a Jew's garment would be seized, saying: 'We will go with you, for we have heard that God is with you'?",
+        "options": [
+          "Zechariah (8:23)",
+          "Jonah",
+          "Obadiah",
+          "Nahum"
+        ],
+        "correct": 0,
+        "explanation": "Zechariah 8:23 announces the spiritual attraction of the nations to Jerusalem and the God of Israel."
+      },
+      {
+        "question": "Which prophecy in Isaiah 19 surprisingly announces the future reconciliation of three ancient enemies: Egypt, Assyria and Israel?",
+        "options": [
+          "'Blessed be Egypt my people, and Assyria the work of my hands, and Israel my inheritance'",
+          "'Egypt and Assyria will be erased forever'",
+          "'Israel will rule by the sword'",
+          "'There will be no more nations'"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 19:24-25 offers a striking universal vision where former oppressors become God's people with Israel."
+      },
+      {
+        "question": "Which prophet described horses of four colors (red, black, white, spotted) patrolling the earth?",
+        "options": [
+          "Zechariah (1:8 and 6:1-8)",
+          "Jonah",
+          "Obadiah",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "The visions of the horsemen and the four chariots in Zechariah directly inspired the four horsemen of the Apocalypse (Revelation 6)."
+      },
+      {
+        "question": "Which prophet announced: 'For the earth shall be filled with the knowledge of the glory of the Lord, as the depths of the sea by the waters that cover it'?",
+        "options": [
+          "Habakkuk (2:14) and Isaiah (11:9)",
+          "Jonah",
+          "Obadiah",
+          "Haggai"
+        ],
+        "correct": 0,
+        "explanation": "Habakkuk 2:14 (close to Isaiah 11:9) affirms that God's glory will ultimately fill all creation."
+      },
+      {
+        "question": "Which prophet told Hezekiah that the treasures of his palace would one day be taken to Babylon?",
+        "options": [
+          "Isaiah (39:6)",
+          "Jeremiah",
+          "Ezekiel",
+          "Daniel"
+        ],
+        "correct": 0,
+        "explanation": "After Hezekiah showed his riches to Babylon's envoys, Isaiah prophesied the future Babylonian deportation."
+      },
+      {
+        "question": "Which prophet predicted that the Messiah would make his soul a guilt offering (asham) and see a posterity prolong his days?",
+        "options": [
+          "Isaiah (53:10)",
+          "Amos",
+          "Jonah",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 53:10 announces both the Servant's atoning death and his victory/resurrection ('he will prolong his days')."
+      },
+      {
+        "question": "Which prophet announced that the God of Israel would bring 'fishermen' and 'hunters' to bring back his scattered people?",
+        "options": [
+          "Jeremiah (16:16)",
+          "Jonah",
+          "Obadiah",
+          "Nahum"
+        ],
+        "correct": 0,
+        "explanation": "Jeremiah 16:14-16 announces a new exodus greater than that of Egypt."
+      },
+      {
+        "question": "In the Acts of the Apostles, which OT prophet does Peter cite to explain the death and replacement of Judas?",
+        "options": [
+          "Psalms 69:25 and 109:8",
+          "The Book of Jonah",
+          "The Book of Obadiah",
+          "The Book of Ruth"
+        ],
+        "correct": 0,
+        "explanation": "Peter quotes these two psalms in Acts 1:20 before casting lots for Matthias to replace Judas."
       }
     ],
     "expert": [
@@ -510,6 +1544,501 @@
         ],
         "correct": 1,
         "explanation": "Isaiah 53:4: Matthew 8:17 = healings (literal meaning of illnesses); 1 Peter 2:24 = sins. Both are legitimate because the Hebrew text contains both dimensions."
+      },
+      {
+        "question": "What do we call the literary genre of prophecies structured as a legal trial in which God sues Israel for breaking the covenant?",
+        "options": [
+          "The 'rîb' (covenant process, e.g. Micah 6, Isaiah 1)",
+          "The midrash",
+          "The apothegm",
+          "The Stoic diatribe"
+        ],
+        "correct": 0,
+        "explanation": "The prophetic 'rîb' takes up the structure of treaties of suzerainty: summoning of witnesses (heavens and earth), reminder of benefits, accusation and sentence."
+      },
+      {
+        "question": "What is the function of 'prophetic telescopy' (peak perspective) in the interpretation of biblical prophecies?",
+        "options": [
+          "Predict exact dates to the day",
+          "See the first and second coming of Christ aligned on the same horizon like two distant peaks without distinguishing the valley between the two",
+          "Deny any future predictions",
+          "Read only the literal geographic meaning"
+        ],
+        "correct": 1,
+        "explanation": "As in Isaiah 61:1-2 (where Jesus pauses before 'the day of vengeance'), the prophets contemplate initial salvation and final consummation together."
+      },
+      {
+        "question": "Which oracle in Isaiah 7:14-16 first had a short-term sign for King Ahaz before its full fulfillment in Jesus?",
+        "options": [
+          "Before the child knows how to reject evil and choose good, the two enemy kings (Damascus and Samaria) will be abandoned",
+          "Babylon will destroy Rome in 3 years",
+          "Elijah will return in his lifetime",
+          "Ahaz will reign for 100 years"
+        ],
+        "correct": 0,
+        "explanation": "The oracle responded to the crisis of 735 BC. (rapid sign in a few years) while carrying a plenary messianic promise fulfilled in Matthew 1:23."
+      },
+      {
+        "question": "In Hosea 11:1 ('I have called my son out of Egypt'), how does Matthew 2:15 use this text?",
+        "options": [
+          "Like a simple misquotation",
+          "By typological reading: Jesus perfectly recapitulates and completes the history of Israel as the faithful Son of God",
+          "Like a quote from Isaiah",
+          "To prove that Moses had returned"
+        ],
+        "correct": 1,
+        "explanation": "In Hosea 11:1, 'my son' refers to Israel in the Exodus; Matthew sees an accomplished type in Jesus, true Israel."
+      },
+      {
+        "question": "What is the difference between classical (pre-exilic) prophecy and apocalyptic (exilic/post-exilic like Daniel and Zechariah 9-14)?",
+        "options": [
+          "No difference",
+          "Classical prophecy calls for repentance in present history; the apocalyptic reveals through symbolic visions the sovereign cosmic outcome in the face of evil",
+          "The apocalyptic never talks about God",
+          "Classical prophecy never uses images"
+        ],
+        "correct": 1,
+        "explanation": "The apocalyptic arises in times of extreme crisis (exile, persecution) with interpreting angels, cosmic dualism and the final triumph of God."
+      },
+      {
+        "question": "In Jeremiah 29:10-14, what chronological standard does God give to the promise of restoration?",
+        "options": [
+          "Immediately in 2 years (as Hanania claimed)",
+          "Only when 70 years are completed for Babylon",
+          "Never before 1000 years",
+          "After the conquest of Rome"
+        ],
+        "correct": 1,
+        "explanation": "Against the optimistic false prophets (Jeremiah 28), Jeremiah announces a 70-year exile and exhorts the exiles to build and pray for Babylon."
+      },
+      {
+        "question": "In Daniel 9:2, what Bible text was Daniel studying when he realized the end of the exile was near?",
+        "options": [
+          "The scrolls of the prophet Jeremiah announcing 70 years of desolation",
+          "The Song of Songs",
+          "The Book of Esther",
+          "Paul's epistles"
+        ],
+        "correct": 0,
+        "explanation": "Daniel 9:2 explicitly mentions his reading of the books and the number of years revealed by the Lord to the prophet Jeremiah."
+      },
+      {
+        "question": "What is the meaning of the '70 weeks' (490 years) divided into 7 + 62 + 1 weeks in Daniel 9:24-27?",
+        "options": [
+          "They culminate in the atonement of iniquity, the coming of a cut-off Anointed One (Messiah), then the destruction of the city and the sanctuary",
+          "They only concern creation in 6 days",
+          "They predict the length of Saul's reign",
+          "They describe ancient Egypt"
+        ],
+        "correct": 0,
+        "explanation": "Daniel 9:24-27 announces six saving blessings and the strengthened covenant after the cutting off of an Anointed One and the ruin of the sanctuary."
+      },
+      {
+        "question": "What is the role of the 'Go'el' (redeemer) in Job 19:25 ('I know that my redeemer lives')?",
+        "options": [
+          "A simple human lawyer in Jerusalem",
+          "A divine defender and guarantor who will take up the cause of the righteous even beyond death",
+          "A Philistine king",
+          "A fallen angel"
+        ],
+        "correct": 1,
+        "explanation": "Job's hope beyond injustice presents a living Avenger/Redeemer who will rise from the dust and allow him to see God."
+      },
+      {
+        "question": "Why is Jeremiah 18:7-10 crucial for understanding the 'conditionality' of certain prophecies of judgment or blessing?",
+        "options": [
+          "Because it teaches absolute fatalism",
+          "Because God declares that if a nation prophesied to do evil repents, He renounces the evil He intended to do to them (like Nineveh in Jonah)",
+          "Because the prophets invent their messages",
+          "Because God never changes his method"
+        ],
+        "correct": 1,
+        "explanation": "Jeremiah 18 states the principle of moral response: the oracles of judgment call for repentance to avoid sentence (Jonah 3:10)."
+      },
+      {
+        "question": "In Deuteronomy 13:1-5 and 18:20-22, what two complementary tests allow us to discern a true prophet from a false prophet?",
+        "options": [
+          "His wealth and eloquence",
+          "The fulfillment of his predictions AND his doctrinal fidelity to the one true God (YHWH)",
+          "His age and tribe",
+          "The number of his disciples"
+        ],
+        "correct": 1,
+        "explanation": "Even if a sign is fulfilled, if it leads to other gods (Dt 13), it is a false prophet; likewise, a word that is not fulfilled does not come from God (Dt 18)."
+      },
+      {
+        "question": "In Acts 2:17-21, why does Peter change 'after this' (Joel 2:28) to 'in the last days'?",
+        "options": [
+          "By memory error",
+          "To emphasize theologically that the outpouring of the Spirit at Pentecost inaugurates the final eschatological era ('the last days')",
+          "To contradict Joel",
+          "Because he quoted Homer"
+        ],
+        "correct": 1,
+        "explanation": "From the NT perspective, the 'last days' begin with the first coming of Christ and the outpouring of the Spirit until the Parousia."
+      },
+      {
+        "question": "What is the classic interpretation of the 'restrictor' (to katechon / ho katechôn) mentioned by Paul in 2 Thessalonians 2:6-7?",
+        "options": [
+          "The Gospel only",
+          "Traditionally identified with Roman imperial order/civil authority, or the action of the Holy Spirit restraining the unleashing of evil until the appointed time",
+          "The Apostle Peter",
+          "The Temple of Jerusalem"
+        ],
+        "correct": 1,
+        "explanation": "The Fathers (Tertullian, Chrysostom) often saw the Roman Empire maintaining order; others see it as the Holy Spirit or God's sovereign design."
+      },
+      {
+        "question": "In Romans 11:26, what are the three main interpretations of the phrase 'all Israel will be saved'?",
+        "options": [
+          "Only current residents of Rome",
+          "(1) All Jewish and pagan elected officials; (2) the faithful remnant of Israel throughout the ages; (3) a mass conversion of the Jewish people at the end of time",
+          "All human beings without exception",
+          "Only the 12 apostles"
+        ],
+        "correct": 1,
+        "explanation": "Exegetes debate between spiritual Israel (Calvin), the sum of the Jewish elect remnant, or a final awakening of ethnic Israel before the Parousia."
+      },
+      {
+        "question": "What is the significance of the oracle of Zechariah 12:10 ('They will look to me whom they have pierced') in NT Christology?",
+        "options": [
+          "No citations in the NT",
+          "Quoted in John 19:37 (pierced side of Jesus) and Revelation 1:7 (glorious return) — where YHWH himself says 'unto me' they pierced",
+          "Cited only for Moses",
+          "Applied to King Cyrus"
+        ],
+        "correct": 1,
+        "explanation": "In the Hebrew text, YHWH speaks in the first person ('to me, whom they pierced'), emphasizing the divine identity of the crucified Christ."
+      },
+      {
+        "question": "In Ezekiel 40-48, what are the two main readings of the vision of the eschatological Temple?",
+        "options": [
+          "An architectural plan for Babylon",
+          "Either a literal vision of a future millennial temple or a symbolic vision of God's perfect presence with his people (fulfilled in Christ and the New Jerusalem)",
+          "A simple description of the Tabernacle of Moses",
+          "A review of Solomon"
+        ],
+        "correct": 1,
+        "explanation": "The dispensationalist interpretation expects a literal future temple, while the Christocentric/amillennialist approach sees it as a symbol of perfect worship in Christ (Rev 21:22)."
+      },
+      {
+        "question": "Which prophetic text from Isaiah 52:7 ('How beautiful on the mountains are the feet of him who brings good news') is cited by Paul in Romans 10:15?",
+        "options": [
+          "To justify the need for missionary preaching of the Gospel",
+          "To describe Solomon's travels",
+          "To talk about the architecture of the Temple",
+          "To prohibit sea travel"
+        ],
+        "correct": 0,
+        "explanation": "Paul applies the announcement of the deliverance of Zion to the messengers of the Gospel of peace sent to all nations."
+      },
+      {
+        "question": "How does Hebrews 8:8-13 use the prophecy of Jeremiah 31:31-34 about the New Covenant?",
+        "options": [
+          "To show that the old covenant was perfect and final",
+          "To prove that from the OT God announced a superior alliance making the old Levitical alliance obsolete",
+          "To reject the entire Old Testament",
+          "To restore animal sacrifices"
+        ],
+        "correct": 1,
+        "explanation": "The author of Hebrews notes that the word 'new' in Jeremiah's pen thereby renders the old covenant obsolete and ready to disappear."
+      },
+      {
+        "question": "In Revelation, which prophecy from Isaiah 65:17 and 66:22 establishes the final hope of the book?",
+        "options": [
+          "The creation of new heavens and a new earth",
+          "Return to the Golden Age of Babylon",
+          "The reconstruction of Herod's temple",
+          "Exile in Egypt"
+        ],
+        "correct": 0,
+        "explanation": "Revelation 21:1 takes directly from Isaiah 65:17 to describe the final cosmic renewal where God dwells with men."
+      },
+      {
+        "question": "In Micah 5:1-3 (5:2-4), what paradoxical origin is attributed to the future ruler born in Bethlehem?",
+        "options": [
+          "He came from Egypt 10 years ago",
+          "'Its origins go back to ancient times, to the days of eternity'",
+          "He was born in Rome",
+          "He has no connection with David"
+        ],
+        "correct": 1,
+        "explanation": "Alongside the smallness of Bethlehem Ephrata, Micah affirms the mysterious (even eternal) seniority of the Messiah."
+      },
+      {
+        "question": "What is the meaning of the symbolic name 'Lo-Ammi' ('Not my people') given to the son of the prophet Hosea (Hosea 1:9)?",
+        "options": [
+          "Israel's immediate military victory",
+          "The temporary breaking of the covenant following Israel's unfaithfulness, followed by a promise of restoration ('Ammi', my people)",
+          "The birth of Solomon",
+          "The blessing of Assyria"
+        ],
+        "correct": 1,
+        "explanation": "Peter (1 Peter 2:10) and Paul (Romans 9:25) apply this reversal of Hosea 2:23 to Gentile believers who have become God's people."
+      },
+      {
+        "question": "What is the role of 'songs of the vineyard' in Isaiah 5:1-7 and how does Jesus take it up in Matthew 21:33-43?",
+        "options": [
+          "They only talk about agriculture",
+          "Isaiah compares Israel to an ungrateful vine; Jesus takes up the image with murderous winegrowers who kill the Son to announce the transfer of the Kingdom",
+          "They celebrate the wine of Cana",
+          "They praise religious leaders"
+        ],
+        "correct": 1,
+        "explanation": "Jesus' listeners immediately understood that the parable of the vineyard workers was aimed at their rejection of the prophets and the Son (Matthew 21:45)."
+      },
+      {
+        "question": "In Zechariah 6:12-13, what messianic title uniquely unites the royal and priestly functions?",
+        "options": [
+          "The 'Sprout' (Tsemah) who will build the Temple of the Lord and be priest on his throne",
+          "The Pharaoh of Egypt",
+          "The scribe of Assyria",
+          "Dan's judge"
+        ],
+        "correct": 0,
+        "explanation": "Under the Mosaic Law, king (Judah) and priest (Levi) were separated; Zechariah 6:13 announces their harmonious union in the Germ."
+      },
+      {
+        "question": "Which prophet of the 8th century BC? AD announced the fall of Samaria while promising a remnant gathered like sheep to the fold (Micah 2:12)?",
+        "options": [
+          "Micah",
+          "Haggai",
+          "Malachi",
+          "Jonah"
+        ],
+        "correct": 0,
+        "explanation": "Micah alternates oracles of uncompromising judgment on Samaria and Jerusalem with luminous promises of messianic gathering."
+      },
+      {
+        "question": "What is the meaning of the oracle in Zephaniah 3:9 promising 'clean lips' to the people?",
+        "options": [
+          "Learning Aramaic",
+          "The conversion of the nations who will all call on the name of the Lord and serve him with one accord",
+          "The perpetual silence",
+          "The end of the prayer"
+        ],
+        "correct": 1,
+        "explanation": "Zephaniah 3:9 announces the universalization of pure worship after the judgment, in contrast to the confusion of the tongues of Babel."
+      },
+      {
+        "question": "Which prophecy in Daniel 11:31 announces 'the abomination that causes desolation', an expression taken up by Jesus in Matthew 24:15?",
+        "options": [
+          "The desecration of the Temple by Antiochus IV (167 BC), which became the type of eschatological desecration and the siege of 70 AD. AD",
+          "La construction du Temple de Salomon",
+          "The fall of Nineveh",
+          "The passage of the Red Sea"
+        ],
+        "correct": 0,
+        "explanation": "The historical fulfillment under Antiochus IV Epiphanes serves as Jesus' prophetic model for the Jerusalem crisis and the end times."
+      },
+      {
+        "question": "In Isaiah 49:6, why does God declare that the restoration of just the tribes of Israel is 'a small thing' to the Servant?",
+        "options": [
+          "Because he abandons Israel",
+          "Because He established him to be the 'light of the nations', so that his salvation would reach to the ends of the earth",
+          "Because he prefers Babylon",
+          "Because the earth will disappear immediately"
+        ],
+        "correct": 1,
+        "explanation": "Paul and Barnabas cite Isaiah 49:6 in Antioch of Pisidia (Acts 13:47) to justify their mission to the Gentiles."
+      },
+      {
+        "question": "What is the paradox of Psalm 110:1 raised by Jesus before the Pharisees in Matthew 22:41-45?",
+        "options": [
+          "How can the Messiah be both David's son (descendant) and his 'Lord'?",
+          "Why did David write this psalm in Greek?",
+          "How many soldiers did David have?",
+          "Where was Melchizedek?"
+        ],
+        "correct": 0,
+        "explanation": "Jesus shows that the Messiah is more than just a human king descended from David: he is the divine Lord seated at the right hand of God."
+      },
+      {
+        "question": "In 1 Peter 1:10-12, what does the apostle reveal about the OT prophets' awareness of their own oracles?",
+        "options": [
+          "They understood every chronological detail",
+          "They searched out the times and circumstances that marked the Spirit of Christ in them, finding that they were serving our generation.",
+          "They were not inspired by the Spirit",
+          "They only wrote for angels"
+        ],
+        "correct": 1,
+        "explanation": "1 Peter 1:10-12 illuminates the double dimension of prophecy: the prophets scrutinized the mystery of Christ's sufferings and subsequent glories."
+      },
+      {
+        "question": "Which OT prophecy is cited in Romans 15:9-12 to prove the common worship of Jews and Gentiles?",
+        "options": [
+          "A sequence of four texts (2 Sam 22 / Ps 18, Dt 32:43, Ps 117:1, Isaiah 11:10)",
+          "Only the book of Esther",
+          "The book of Job alone",
+          "Proverbs only"
+        ],
+        "correct": 0,
+        "explanation": "Paul weaves together quotes from the Law, Psalms, and Prophets (all three parts of the Hebrew Bible) to demonstrate the inclusion of the nations."
+      },
+      {
+        "question": "What is the meaning of the image of the 'stone that came out of the mountain' (Daniel 2) in relation to the 'corner stone' (Isaiah 28:16 / Ps 118:22)?",
+        "options": [
+          "Two contradictory images",
+          "The same Christology of the Stone: foundation and corner stone for those who believe, stone of fall and judgment that shatters rebellious kingdoms",
+          "Two monuments in Egypt",
+          "Two stones from the Sinai desert"
+        ],
+        "correct": 1,
+        "explanation": "Luke 20:17-18 and 1 Peter 2:6-8 synthesize these texts: the rejected stone becomes a corner stone or a crushing stone."
+      },
+      {
+        "question": "In Malachi 4:5-6 (3:23-24), how does Jesus interpret the promise of the prophet Elijah coming before the Day of the Lord?",
+        "options": [
+          "He says Elijah will never come",
+          "He identifies John the Baptist as the 'Elijah who was to come' in the spirit and power of Elijah (Matthew 11:14; 17:12)",
+          "He says Moses is Elijah",
+          "He says Peter is Elijah"
+        ],
+        "correct": 1,
+        "explanation": "The angel Gabriel (Luke 1:17) and Jesus (Matthew 11:14) apply Malachi's oracle to the preparatory ministry of John the Baptist."
+      },
+      {
+        "question": "Which prophecy from Jeremiah 7:11 does Jesus cite in cleansing the Temple ('You have made it a den of thieves')?",
+        "options": [
+          "A warning against false religious security which believes the Temple inviolable despite moral injustice",
+          "A rule on the price of doves",
+          "A Praise of the Priests",
+          "A festive Passover song"
+        ],
+        "correct": 0,
+        "explanation": "In Jeremiah 7, the prophet denounced the illusion 'This is the Temple of the Lord!' ; Jesus updates exactly this prophetic criticism."
+      },
+      {
+        "question": "In Revelation, what does the phrase 'the testimony of Jesus is the spirit of prophecy' (Revelation 19:10) mean?",
+        "options": [
+          "Only Jesus can speak",
+          "All true biblical prophecy has as its center, goal and source the testimony to Jesus Christ",
+          "Prophecy ceased in the Old Testament",
+          "Angels are to be worshiped"
+        ],
+        "correct": 1,
+        "explanation": "The angel refuses John's adoration and reminds us that all prophetic inspiration converges on the person and work of Christ."
+      },
+      {
+        "question": "What is the difference between the majority Jewish messianic expectation of the 1st century and the prophetic portrait of Jesus in the Gospels?",
+        "options": [
+          "No difference",
+          "The majority expectation hoped for an immediate triumphant political/military Messiah, struggling to integrate the Suffering Servant of Isaiah 53 before glory",
+          "The Jews expected no Messiah",
+          "They were waiting for a Messiah from Rome"
+        ],
+        "correct": 1,
+        "explanation": "This is why Jesus explained on the road to Emmaus (Luke 24:26) that Christ had to suffer these things before entering into his glory."
+      },
+      {
+        "question": "In Isaiah 6:9-10 ('Listen carefully, but do not understand'), why does Jesus cite this prophecy to explain the parables (Mark 4:12)?",
+        "options": [
+          "To prevent anyone from believing",
+          "Because parables reveal the mysteries of the Kingdom to humble hearts while manifesting judgment on those who harden themselves",
+          "Because he couldn't speak clearly",
+          "To quote a Greek proverb"
+        ],
+        "correct": 1,
+        "explanation": "The parables accomplish the double effect of the prophetic word of Isaiah 6: to enlighten the disciples and leave the unbelievers in their voluntary hardness."
+      },
+      {
+        "question": "Which prophet described the final spiritual restoration of Israel as spring and autumn rain (Hosea 6:3) and healing from unfaithfulness (Hosea 14)?",
+        "options": [
+          "Hosea",
+          "Obadiah",
+          "Nahum",
+          "Haggai"
+        ],
+        "correct": 0,
+        "explanation": "Hosea concludes his book of judgment with a magnificent promise of free healing and spiritual fruitfulness (Hosea 14:4-8)."
+      },
+      {
+        "question": "In Ezekiel 28:11-19, the lament over the king of Tire uses Edenic images ('protecting cherub'): how has the Christian tradition often read it?",
+        "options": [
+          "Like a simple cooking recipe",
+          "Both as a satire of the excessive pride of the king of Tire and, typologically, as a figure of the fall of Satan (with Isaiah 14)",
+          "As a praise of the wealth of Tire",
+          "Like a story about Moses"
+        ],
+        "correct": 1,
+        "explanation": "Just like Isaiah 14 on the king of Babylon ('bright star'), Ezekiel 28 denounces the hubris of an earthly sovereign through the prism of the original fall."
+      },
+      {
+        "question": "What prophecy from Genesis 9:25-27 spoken by Noah foreshadows the future spiritual role of the line of Shem?",
+        "options": [
+          "'Blessed be the LORD God of Shem' and may Japheth dwell in the tents of Shem",
+          "That Noah will rebuild Babel",
+          "That Ham will dominate the whole earth",
+          "That the flood will start again"
+        ],
+        "correct": 0,
+        "explanation": "The blessing of Shem foreshadows the chosen lineage (Abraham, Israel, the Messiah) in whose 'tents' the nations (Japheth) will find shelter."
+      },
+      {
+        "question": "In Galatians 3:16, what grammatical detail of the promise to Abraham does Paul emphasize to apply it to Christ?",
+        "options": [
+          "The singular 'to your posterity' (sperma) rather than the plural 'to your posterities', ultimately designating Christ",
+          "The use of a Greek adjective",
+          "The absence of a verb",
+          "Sarah's name"
+        ],
+        "correct": 0,
+        "explanation": "Paul shows that the promise made to the descendants of Abraham finds its decisive fulfillment in the unique person of Christ."
+      },
+      {
+        "question": "Which prophet foretold that the bitter waters and the desert would blossom like the daffodil/lily upon the return of the redeemed of the Lord?",
+        "options": [
+          "Isaiah (chapter 35)",
+          "Jonah",
+          "Obadiah",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 35 celebrates the transformation of the barren desert and the 'holy way' opened to the Lord's redeemed."
+      },
+      {
+        "question": "In Acts 3:21, Peter speaks of the 'times of restoration of all things' (apokatastasis): on what basis does he base this expectation?",
+        "options": [
+          "On the prophets of the Old Testament ('of whom God spoke anciently by the mouth of his holy prophets')",
+          "On Stoic philosophy",
+          "By a decree of the Roman Senate",
+          "On a tradition from Ephesus"
+        ],
+        "correct": 0,
+        "explanation": "Peter affirms that heaven must receive Jesus until the cosmic restoration promised by all the prophets from the beginning."
+      },
+      {
+        "question": "Which prophet announced the fall of Babylon in a famous oracle comparing its past glory to an uninhabited desert populated by wild beasts?",
+        "options": [
+          "Isaiah (chapter 13) and Jeremiah (50-51)",
+          "Jonah",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 13:19-22 and Jeremiah 50-51 announce the complete and lasting collapse of the Babylonian metropolis."
+      },
+      {
+        "question": "In 2 Peter 1:19-21, what image does the apostle use to describe the 'prophetic word' before Christ's return?",
+        "options": [
+          "A lamp that shines in a dark place, until the day dawns and the morning star rises in our hearts",
+          "A passing cloud",
+          "A desert wind",
+          "A clay statue"
+        ],
+        "correct": 0,
+        "explanation": "Peter recalls at the same time that no prophecy of Scripture is the fruit of human interpretation or will, but carried by the Holy Spirit."
+      },
+      {
+        "question": "Which prophecy in Zechariah 14:4-9 describes the Lord setting His feet on a specific mountain near Jerusalem on the final day?",
+        "options": [
+          "The Mount of Olives, which will split in the middle from east to west",
+          "Mount Sinai",
+          "Mount Carmel",
+          "Mount Nebo"
+        ],
+        "correct": 0,
+        "explanation": "Zechariah 14:4 announces that his feet will stand on the Mount of Olives on that day, followed by the universal reign of the Lord over all the earth."
       }
     ]
   }

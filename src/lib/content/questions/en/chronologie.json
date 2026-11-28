@@ -165,6 +165,523 @@
         ],
         "correct": 2,
         "explanation": "Jesus manifested himself for 40 days after his resurrection before ascending to heaven (Acts 1:3)."
+      },
+      {
+        "question": "Quel prophète a vécu avant Moïse : Abraham ou Élie ?",
+        "options": [
+          "Elijah",
+          "Abraham",
+          "Les deux ont vécu après Moïse",
+          "Aucun des deux"
+        ],
+        "correct": 1,
+        "explanation": "Abraham vécut environ 700 ans avant Moïse, tandis qu'Élie vécut environ 400 ans après Moïse (IXe siècle av. J.-C.)."
+      },
+      {
+        "question": "Qui a été créé en premier selon la Genèse : Adam ou Ève ?",
+        "options": [
+          "Ève",
+          "Adam",
+          "Ils ont été créés simultanément le 3e jour",
+          "Noah"
+        ],
+        "correct": 1,
+        "explanation": "Selon Genèse 2:7-22, Dieu forma d'abord Adam de la poussière, puis créa Ève à partir d'une de ses côtes."
+      },
+      {
+        "question": "Quel événement a eu lieu juste après la sortie d'Égypte ?",
+        "options": [
+          "La construction du Temple de Salomon",
+          "La traversée de la Mer Rouge",
+          "L'exil à Babylone",
+          "Le règne de David"
+        ],
+        "correct": 1,
+        "explanation": "Peu après avoir quitté l'Égypte, les Israélites traversèrent la Mer Rouge à pied sec (Exode 14)."
+      },
+      {
+        "question": "Combien de jours a duré la pluie du déluge au temps de Noé ?",
+        "options": [
+          "7 jours et 7 nuits",
+          "40 jours et 40 nuits",
+          "12 jours et 12 nuits",
+          "70 jours et 70 nuits"
+        ],
+        "correct": 1,
+        "explanation": "It rained on the earth for 40 days and 40 nights (Genesis 7:12)."
+      },
+      {
+        "question": "What biblical book recounts the events immediately following the death of Moses?",
+        "options": [
+          "Leviticus",
+          "Numbers",
+          "Joshua",
+          "Judges"
+        ],
+        "correct": 2,
+        "explanation": "The book of Joshua begins just after Moses' death with the entry into the Promised Land (Joshua 1:1-2)."
+      },
+      {
+        "question": "In what order did these three characters live?",
+        "options": [
+          "Isaac → Abraham → Jacob",
+          "Abraham → Isaac → Jacob",
+          "Jacob → Isaac → Abraham",
+          "Abraham → Jacob → Isaac"
+        ],
+        "correct": 1,
+        "explanation": "Abraham is the father of Isaac, who is himself the father of Jacob (Genesis 21 and 25)."
+      },
+      {
+        "question": "What event comes before the reign of kings in Israel?",
+        "options": [
+          "The Babylonian Exile",
+          "The period of the Judges",
+          "The reconstruction of the walls",
+          "The ministry of John the Baptist"
+        ],
+        "correct": 1,
+        "explanation": "After Joshua, Israel was ruled by Judges for several centuries before the establishment of the monarchy under Saul (1 Samuel 8)."
+      },
+      {
+        "question": "How many years did David reign over Israel in total?",
+        "options": [
+          "20 years",
+          "40 years",
+          "12 years old",
+          "70 years old"
+        ],
+        "correct": 1,
+        "explanation": "David reigned for 40 years: 7 and a half years in Hebron over Judah, then 33 years in Jerusalem over all Israel (2 Samuel 5:4-5)."
+      },
+      {
+        "question": "How many years did Solomon reign over Israel?",
+        "options": [
+          "40 years",
+          "25 years old",
+          "15 years",
+          "60 years old"
+        ],
+        "correct": 0,
+        "explanation": "Like David, Solomon reigned for 40 years in Jerusalem over all Israel (1 Kings 11:42)."
+      },
+      {
+        "question": "Which prophet anointed Saul and then David as kings of Israel?",
+        "options": [
+          "Nathan",
+          "Elijah",
+          "Samuel",
+          "Elisha"
+        ],
+        "correct": 2,
+        "explanation": "The prophet Samuel received the order from God to anoint Saul (1 Samuel 10) and then David (1 Samuel 16)."
+      },
+      {
+        "question": "Which event happened first: the birth of Moses or the birth of Joseph?",
+        "options": [
+          "The birth of Moses",
+          "The birth of Joseph",
+          "They took place the same year",
+          "That of Joshua before the two"
+        ],
+        "correct": 1,
+        "explanation": "Joseph lived long before Moses: it was under Joseph that Jacob's family settled in Egypt (Genesis 46; Exodus 1)."
+      },
+      {
+        "question": "How many years old was Joseph when he was sold by his brothers?",
+        "options": [
+          "17 years old",
+          "30 years",
+          "12 years old",
+          "40 years"
+        ],
+        "correct": 0,
+        "explanation": "Genesis 37:2 indicates that Joseph was 17 years old when he shepherded the flock with his brothers."
+      },
+      {
+        "question": "At what age did Joseph become governor of Egypt before Pharaoh?",
+        "options": [
+          "17 years old",
+          "25 years old",
+          "30 years",
+          "50 years"
+        ],
+        "correct": 2,
+        "explanation": "Joseph was 30 years old when he appeared before Pharaoh to interpret his dreams (Genesis 41:46)."
+      },
+      {
+        "question": "How old was Moses when he died on Mount Nebo?",
+        "options": [
+          "80 years old",
+          "100 years",
+          "120 years",
+          "150 years"
+        ],
+        "correct": 2,
+        "explanation": "Moses was 120 years old when he died, and his eyesight was not impaired (Deuteronomy 34:7)."
+      },
+      {
+        "question": "How many days did Jesus fast in the desert before being tempted?",
+        "options": [
+          "7 days",
+          "21 days",
+          "40 days",
+          "50 days"
+        ],
+        "correct": 2,
+        "explanation": "Jesus fasted 40 days and 40 nights in the desert after his baptism (Matthew 4:2)."
+      },
+      {
+        "question": "At what age did Jesus begin his public ministry according to Luke?",
+        "options": [
+          "About 20 years",
+          "About 30 years old",
+          "About 40 years old",
+          "About 18 years old"
+        ],
+        "correct": 1,
+        "explanation": "Luke 3:23 states that Jesus was about 30 years old when he began his ministry."
+      },
+      {
+        "question": "What event immediately preceded Jesus' public ministry?",
+        "options": [
+          "His rise",
+          "His baptism by John the Baptist",
+          "Pentecost",
+          "The Transfiguration"
+        ],
+        "correct": 1,
+        "explanation": "Jesus was baptized by John the Baptist in the Jordan River early in his ministry (Matthew 3:13-17)."
+      },
+      {
+        "question": "How many days after Jesus' birth was his circumcision?",
+        "options": [
+          "3 days",
+          "7 days",
+          "8 days",
+          "40 days"
+        ],
+        "correct": 2,
+        "explanation": "According to the Law of Moses, Jesus was circumcised on the 8th day and given his name (Luke 2:21)."
+      },
+      {
+        "question": "At what age was Jesus found in the Temple discussing with the doctors of the Law?",
+        "options": [
+          "8 years old",
+          "12 years old",
+          "16 years old",
+          "20 years"
+        ],
+        "correct": 1,
+        "explanation": "At the age of 12, Jesus stayed in Jerusalem during the Passover festival to listen to and question the teachers (Luke 2:42-46)."
+      },
+      {
+        "question": "Which king ruled Judea during the massacre of the innocents in Bethlehem?",
+        "options": [
+          "Herod Antipas",
+          "Herod the Great",
+          "Caesar Augustus",
+          "Pontius Pilate"
+        ],
+        "correct": 1,
+        "explanation": "Herod the Great ordered the massacre of children under two years old in Bethlehem after the visit of the wise men (Matthew 2:16)."
+      },
+      {
+        "question": "In what order did these events in the life of Jesus take place?",
+        "options": [
+          "Baptism → Birth → Crucifixion → Ascension",
+          "Birth → Baptism → Crucifixion → Ascension",
+          "Birth → Crucifixion → Baptism → Ascension",
+          "Baptism → Crucifixion → Birth → Ascension"
+        ],
+        "correct": 1,
+        "explanation": "Jesus was born in Bethlehem, baptized around 30 years old, crucified in Jerusalem, resurrected on the 3rd day and ascended to heaven 40 days later."
+      },
+      {
+        "question": "How much time passed between Jesus' death and his resurrection?",
+        "options": [
+          "1 day",
+          "3 days (Friday to Sunday)",
+          "7 days",
+          "40 days"
+        ],
+        "correct": 1,
+        "explanation": "Jesus was crucified on Friday and resurrected on the third day, Sunday morning (Luke 24:1-7)."
+      },
+      {
+        "question": "How many days separate Easter from Pentecost in the biblical tradition?",
+        "options": [
+          "30 days",
+          "40 days",
+          "50 days",
+          "70 days"
+        ],
+        "correct": 2,
+        "explanation": "Pentecost means 'fiftieth': it occurs 50 days after the feast of Easter (Leviticus 23:16; Acts 2:1)."
+      },
+      {
+        "question": "Who was stoned first as a Christian martyr in the Acts of the Apostles?",
+        "options": [
+          "Jacques",
+          "Rock",
+          "Etienne",
+          "Paul"
+        ],
+        "correct": 2,
+        "explanation": "Stephen, one of the seven deacons, was stoned to death before Saul of Tarsus (Acts 7:54-60)."
+      },
+      {
+        "question": "Did the conversion of Saul (Paul) take place before or after the stoning of Stephen?",
+        "options": [
+          "Before the stoning of Stephen",
+          "After the stoning of Stephen",
+          "At the same time as the birth of Jesus",
+          "Before Pentecost"
+        ],
+        "correct": 1,
+        "explanation": "Saul approved of Stephen's murder (Acts 8:1) before encountering the resurrected Christ on the road to Damascus (Acts 9)."
+      },
+      {
+        "question": "Which prophet lived during the time of King Ahab and Jezebel?",
+        "options": [
+          "Daniel",
+          "Elijah",
+          "Jeremiah",
+          "Ezekiel"
+        ],
+        "correct": 1,
+        "explanation": "Elijah prophesied in the Northern Kingdom during the reign of King Ahab and Queen Jezebel (1 Kings 17-21)."
+      },
+      {
+        "question": "Who directly succeeded the prophet Elijah?",
+        "options": [
+          "Isaiah",
+          "Elisha",
+          "Samuel",
+          "Jonah"
+        ],
+        "correct": 1,
+        "explanation": "Elisha received a double portion of Elijah's spirit when Elijah was taken up to heaven (2 Kings 2:9-15)."
+      },
+      {
+        "question": "What event precedes Daniel's entry into the lions' den?",
+        "options": [
+          "The fall of Jericho",
+          "Deportation to Babylon",
+          "The birth of Jesus",
+          "Saul's reign"
+        ],
+        "correct": 1,
+        "explanation": "Daniel was taken as a young man to Babylon during the deportation under Nebuchadnezzar (Daniel 1)."
+      },
+      {
+        "question": "How many years did the Jewish people remain in exile in Babylon according to Jeremiah's prophecy?",
+        "options": [
+          "40 years",
+          "50 years",
+          "70 years old",
+          "100 years"
+        ],
+        "correct": 2,
+        "explanation": "Jeremiah predicted that the desolation would last 70 years before the return to Judah (Jeremiah 25:11; 29:10)."
+      },
+      {
+        "question": "Who led the rebuilding of the walls of Jerusalem after the exile?",
+        "options": [
+          "Joshua",
+          "Nehemiah",
+          "Gideon",
+          "Solomon"
+        ],
+        "correct": 1,
+        "explanation": "Nehemiah returned from Shushan under King Artaxerxes to rebuild the walls of Jerusalem in 52 days (Nehemiah 2 and 6:15)."
+      },
+      {
+        "question": "In how many days were the walls of Jerusalem rebuilt under Nehemiah?",
+        "options": [
+          "7 days",
+          "40 days",
+          "52 days",
+          "100 days"
+        ],
+        "correct": 2,
+        "explanation": "Nehemiah 6:15 records that the wall was completed in 52 days despite opposition."
+      },
+      {
+        "question": "Which prophet preached in Nineveh long before the fall of Jerusalem?",
+        "options": [
+          "Jonah",
+          "Haggai",
+          "Malachi",
+          "Zechariah"
+        ],
+        "correct": 0,
+        "explanation": "Jonah prophesied to Nineveh in the 8th century BC. BC, while Haggai, Zechariah and Malachi are post-exilic."
+      },
+      {
+        "question": "In what order did these three women in the Bible live?",
+        "options": [
+          "Mary → Ruth → Sarah",
+          "Sarah → Ruth → Mary",
+          "Ruth → Sarah → Mary",
+          "Sarah → Mary → Ruth"
+        ],
+        "correct": 1,
+        "explanation": "Sarah lived in the time of the patriarchs (~2000 BC), Ruth in the time of the Judges (~1100 BC), and Mary in the 1st century."
+      },
+      {
+        "question": "How many days had Lazarus already been in the tomb when Jesus resurrected him?",
+        "options": [
+          "1 day",
+          "2 days",
+          "4 days",
+          "7 days"
+        ],
+        "correct": 2,
+        "explanation": "Martha reminded Jesus that Lazarus had been in the tomb for four days (John 11:39)."
+      },
+      {
+        "question": "What event occurred during King Belshazzar's feast in Babylon?",
+        "options": [
+          "The capture of Jericho",
+          "The appearance of a hand writing on the wall",
+          "The construction of the Temple",
+          "Crossing the Jordan"
+        ],
+        "correct": 1,
+        "explanation": "During Belshazzar's feast, a hand wrote on the wall, announcing the fall of Babylon that night (Daniel 5)."
+      },
+      {
+        "question": "Who ruled in Jerusalem when the Roman census edict brought Joseph and Mary to Bethlehem?",
+        "options": [
+          "Nebuchadnezzar",
+          "Caesar Augustus (emperor) and Herod",
+          "Alexander the Great",
+          "Cyrus"
+        ],
+        "correct": 1,
+        "explanation": "Luke 2:1 mentions an edict from Caesar Augustus ordering a census of all the inhabited earth."
+      },
+      {
+        "question": "What event marks the end of the book of Acts of the Apostles?",
+        "options": [
+          "The destruction of Jerusalem",
+          "Paul preaching in Rome for two years",
+          "Peter's death",
+          "The birth of Jesus"
+        ],
+        "correct": 1,
+        "explanation": "Acts 28:30-31 ends with Paul staying two full years in Rome and boldly announcing the Kingdom."
+      },
+      {
+        "question": "How many times a day did Daniel pray despite King Darius' decree?",
+        "options": [
+          "1 time",
+          "2 times",
+          "3 times",
+          "7 times"
+        ],
+        "correct": 2,
+        "explanation": "Daniel continued to kneel three times a day with the windows open toward Jerusalem (Daniel 6:10)."
+      },
+      {
+        "question": "How many years old was Abraham when Isaac was born?",
+        "options": [
+          "75 years old",
+          "86 years old",
+          "100 years",
+          "120 years"
+        ],
+        "correct": 2,
+        "explanation": "Genesis 21:5 indicates that Abraham was 100 years old when his son Isaac was born."
+      },
+      {
+        "question": "At what age did Abraham leave Haran at the call of God?",
+        "options": [
+          "50 years",
+          "75 years old",
+          "90 years old",
+          "100 years"
+        ],
+        "correct": 1,
+        "explanation": "Abraham was 75 years old when he left Haran for the land of Canaan (Genesis 12:4)."
+      },
+      {
+        "question": "How many years did Jacob work for Laban to marry Rachel and Leah?",
+        "options": [
+          "7 years",
+          "10 years",
+          "14 years old",
+          "20 years"
+        ],
+        "correct": 2,
+        "explanation": "Jacob served Laban 7 years for Rachel, received Leah by trickery, then served another 7 years for Rachel (Genesis 29:18-30)."
+      },
+      {
+        "question": "Which king built the first Temple approximately 480 years after the Exodus?",
+        "options": [
+          "Saul",
+          "David",
+          "Solomon",
+          "Hezekiah"
+        ],
+        "correct": 2,
+        "explanation": "1 Kings 6:1 places the beginning of Solomon's construction of the Temple 480 years after the exodus from Egypt."
+      },
+      {
+        "question": "In what order do these kings of Judah appear: Josiah, Hezekiah, Solomon?",
+        "options": [
+          "Hezekiah → Solomon → Josiah",
+          "Solomon → Hezekiah → Josiah",
+          "Josiah → Solomon → Hezekiah",
+          "Solomon → Josiah → Hezekiah"
+        ],
+        "correct": 1,
+        "explanation": "Solomon reigned in the 10th century. av. BC, Hezekiah in the 8th-7th century. av. BC, and Josiah at the end of the 7th century. av. AD"
+      },
+      {
+        "question": "Which book of the New Testament was written last according to the majority of scholars?",
+        "options": [
+          "The epistle to the Galatians",
+          "The Apocalypse (or the Gospel of John)",
+          "The Epistle to the Romans",
+          "The Gospel of Mark"
+        ],
+        "correct": 1,
+        "explanation": "The Johannine writings (Gospel of John, epistles and Revelation) are generally dated to the end of the 1st century (around 90-96 AD)."
+      },
+      {
+        "question": "How many days passed between the presentation of Jesus by the shepherds and the visit of the wise men?",
+        "options": [
+          "Exactly the same evening",
+          "Several months or even up to two years later",
+          "40 days exactly",
+          "7 days"
+        ],
+        "correct": 1,
+        "explanation": "The wise men found the child in a house (Matthew 2:11), and Herod killed the boys until they were two years old according to the date given."
+      },
+      {
+        "question": "Which apostle was executed by Herod Agrippa I around 44 AD? AD?",
+        "options": [
+          "Rock",
+          "Jacques, brother of Jean",
+          "Andrew",
+          "Matthew"
+        ],
+        "correct": 1,
+        "explanation": "Acts 12:1-2 records that Herod put James, John's brother, to death with the sword."
+      },
+      {
+        "question": "How many years was Israel ruled by Saul according to Acts 13:21?",
+        "options": [
+          "20 years",
+          "30 years",
+          "40 years",
+          "50 years"
+        ],
+        "correct": 2,
+        "explanation": "Paul recalls in Acts 13:21 that God gave them Saul for 40 years."
       }
     ],
     "intermediaire": [
@@ -332,6 +849,523 @@
         ],
         "correct": 2,
         "explanation": "Order of the first 3 kings: Saul (around 1050-1010) → David (around 1010-970) → Solomon (around 970-931 BC)."
+      },
+      {
+        "question": "In what chronological order should these Old Testament prophets be placed?",
+        "options": [
+          "Haggai → Isaiah → Jeremiah",
+          "Isaiah → Jeremiah → Haggai",
+          "Jeremiah → Isaiah → Haggai",
+          "Haggai → Jeremiah → Isaiah"
+        ],
+        "correct": 1,
+        "explanation": "Isaiah prophesied in the 8th century. av. BC, Jeremiah in the 7th-6th century. av. BC, and Haggai after the exile around 520 BC. AD"
+      },
+      {
+        "question": "In approximately what year did Cyrus the Great issue his edict allowing the return of the Jews?",
+        "options": [
+          "722 BC AD",
+          "586 BC AD",
+          "538 BC AD",
+          "445 BC AD"
+        ],
+        "correct": 2,
+        "explanation": "After the capture of Babylon in 539 BC. BC, Cyrus issued the Edict of Return in 538 BC. (Ezra 1:1)."
+      },
+      {
+        "question": "In approximately what year was the Second Temple completed under Zerubbabel?",
+        "options": [
+          "586 BC AD",
+          "538 BC AD",
+          "516-515 BC AD",
+          "458 BC AD"
+        ],
+        "correct": 2,
+        "explanation": "Completed the 6th year of the reign of Darius I, in 516/515 BC. BC, or 70 years after the destruction of 586 BC. (Ezra 6:15)."
+      },
+      {
+        "question": "Which Assyrian king besieged Jerusalem during the reign of Hezekiah in 701 BC? AD?",
+        "options": [
+          "Sargon II",
+          "Sennacherib",
+          "Assurbanipal",
+          "Tiglath-Pileser III"
+        ],
+        "correct": 1,
+        "explanation": "Sennacherib besieged Jerusalem in 701 BC. AD, but the city was miraculously delivered (2 Kings 18-19)."
+      },
+      {
+        "question": "In what year did the first deportation of Judah to Babylon (with Daniel) take place?",
+        "options": [
+          "722 BC AD",
+          "605 BC AD",
+          "597 BC AD",
+          "586 BC AD"
+        ],
+        "correct": 1,
+        "explanation": "Nebuchadnezzar subdued Judah and took elite captives, including Daniel, in 605 BC. (Daniel 1:1)."
+      },
+      {
+        "question": "In what year were King Jehoiachin and the prophet Ezekiel deported to Babylon?",
+        "options": [
+          "605 BC AD",
+          "597 BC AD",
+          "586 BC AD",
+          "539 BC AD"
+        ],
+        "correct": 1,
+        "explanation": "The second deportation took place in 597 BC. BC, including King Jehoiachin and Ezekiel (2 Kings 24:10-16)."
+      },
+      {
+        "question": "Under which king of Judah was the Book of the Law found in the Temple around 622 BC? AD?",
+        "options": [
+          "Hezekiah",
+          "Manasseh",
+          "Josiah",
+          "Zedekiah"
+        ],
+        "correct": 2,
+        "explanation": "In the 18th year of Josiah's reign (~622 BC), the high priest Hilkiah found the Book of the Law (2 Kings 22)."
+      },
+      {
+        "question": "How long did King Josiah reign over Judah?",
+        "options": [
+          "11 years old",
+          "22 years old",
+          "31 years old",
+          "41 years old"
+        ],
+        "correct": 2,
+        "explanation": "Josiah became king at age 8 and reigned for 31 years in Jerusalem (2 Kings 22:1)."
+      },
+      {
+        "question": "In approximately what year did the Battle of Carchemish take place between Babylon and Egypt?",
+        "options": [
+          "701 BC AD",
+          "605 BC AD",
+          "586 BC AD",
+          "539 BC AD"
+        ],
+        "correct": 1,
+        "explanation": "In 605 BC. In 500 BC, Nebuchadnezzar defeated Pharaoh Neco at Carchemish, bringing the Middle East under Babylonian domination (Jeremiah 46:2)."
+      },
+      {
+        "question": "In what order did these post-exilic prophets follow one another?",
+        "options": [
+          "Malachi → Haggai → Zechariah",
+          "Haggai and Zechariah → Malachi",
+          "Zechariah → Malachi → Haggai",
+          "Malachi → Zechariah → Haggai"
+        ],
+        "correct": 1,
+        "explanation": "Haggai and Zechariah prophesied around 520-518 BC. AD for the reconstruction of the Temple; Malachi prophesied in the 5th century. av. AD"
+      },
+      {
+        "question": "Under which Persian emperor did Nehemiah return to Jerusalem around 445 BC? AD?",
+        "options": [
+          "Cyrus the Great",
+          "Darius I",
+          "Artaxerxes I",
+          "Xerxes I"
+        ],
+        "correct": 2,
+        "explanation": "Nehemiah obtained permission from Artaxerxes I in the 20th year of his reign (~445 BC, Nehemiah 2:1)."
+      },
+      {
+        "question": "Approximately in what year did Ezra return to Jerusalem?",
+        "options": [
+          "538 BC AD",
+          "515 BC AD",
+          "458 BC AD",
+          "400 BC AD"
+        ],
+        "correct": 2,
+        "explanation": "Ezra left in the 7th year of Artaxerxes I, traditionally dated 458 BC. (Ezra 7:7-8)."
+      },
+      {
+        "question": "What event marked the end of the intertestamental period on the Roman side?",
+        "options": [
+          "Alexander's conquest (332 BC)",
+          "The capture of Jerusalem by Pompey (63 BC)",
+          "The Bar Kokhba Revolt (132 AD)",
+          "The destruction of the Temple (70 AD)"
+        ],
+        "correct": 1,
+        "explanation": "In 63 BC. BC, the Roman general Pompey took Jerusalem and placed Judea under Roman rule."
+      },
+      {
+        "question": "In what year did the Maccabean revolt against Antiochus IV Epiphanes begin?",
+        "options": [
+          "332 BC AD",
+          "167 BC AD",
+          "63 BC AD",
+          "4 BC AD"
+        ],
+        "correct": 1,
+        "explanation": "In 167 BC. BC, Antiochus IV desecrated the Temple, triggering the Maccabean revolt (Hanukkah festival in 164 BC)."
+      },
+      {
+        "question": "What is the approximate date of the birth of Jesus today?",
+        "options": [
+          "10 ap. AD",
+          "6 to 4 BC AD",
+          "14 AD AD",
+          "25 BC AD"
+        ],
+        "correct": 1,
+        "explanation": "Herod the Great having died in 4 BC. BC, the birth of Jesus is between 6 and 4 BC. AD"
+      },
+      {
+        "question": "What year is most commonly used for the crucifixion of Jesus?",
+        "options": [
+          "25 AD AD",
+          "30 or 33 AD. AD",
+          "40 AD AD",
+          "50 AD AD"
+        ],
+        "correct": 1,
+        "explanation": "Under Pontius Pilate (prefect from 26 to 36 AD), the dates 30 or 33 AD. AD correspond to possible Fridays 14 Nisan."
+      },
+      {
+        "question": "In what approximate year did the Council of Jerusalem take place (Acts 15)?",
+        "options": [
+          "33 AD AD",
+          "49 AD AD",
+          "64 AD AD",
+          "70 AD AD"
+        ],
+        "correct": 1,
+        "explanation": "The Apostolic Council of Jerusalem was held around 48-49 AD. AD to rule on the reception of pagans."
+      },
+      {
+        "question": "In what year did Emperor Claudius expel the Jews from Rome (Acts 18:2)?",
+        "options": [
+          "37 AD AD",
+          "49 AD AD",
+          "64 AD AD",
+          "70 AD AD"
+        ],
+        "correct": 1,
+        "explanation": "The edict of Claudius around 49 AD. BC chased Aquila and Priscilla from Rome to Corinth, where Paul met them."
+      },
+      {
+        "question": "Which Roman governor in Corinth provides a key chronological marker for Paul's stay (AD 51-52)?",
+        "options": [
+          "Felix",
+          "Festus",
+          "Galleon",
+          "Pilate"
+        ],
+        "correct": 2,
+        "explanation": "The Delphi inscription places Gallio's proconsulate in Corinth in AD 51-52. (Acts 18:12)."
+      },
+      {
+        "question": "Under which Roman emperor did Paul and Peter likely suffer martyrdom in Rome?",
+        "options": [
+          "Tiberius",
+          "Caligula",
+          "Nero",
+          "Domitian"
+        ],
+        "correct": 2,
+        "explanation": "Tradition places the martyrdom of Peter and Paul in Rome under Nero between 64 and 67 AD. AD"
+      },
+      {
+        "question": "In what year did the great fire of Rome followed by the persecution of Nero take place?",
+        "options": [
+          "49 AD AD",
+          "54 AD AD",
+          "64 AD AD",
+          "70 AD AD"
+        ],
+        "correct": 2,
+        "explanation": "The burning of Rome took place in July 64 AD. AD, and Nero accused the Christians (Tacitus, Annals XV)."
+      },
+      {
+        "question": "How many of Paul's major missionary journeys are described before his arrest?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "correct": 2,
+        "explanation": "Acts describes three major missionary journeys (Acts 13-14, 15-18, 18-21) before his transfer to Rome."
+      },
+      {
+        "question": "In what order did Paul visit these cities on his 2nd trip?",
+        "options": [
+          "Corinth → Philippi → Athens",
+          "Philippi → Thessaloniki → Athens → Corinth",
+          "Athens → Corinth → Philippi",
+          "Ephesus → Rome → Philippi"
+        ],
+        "correct": 1,
+        "explanation": "During the 2nd journey (Acts 16-18), Paul passed through Philippi, Thessalonica, Berea, Athens and then Corinth."
+      },
+      {
+        "question": "How long did Paul stay in Ephesus on his third journey?",
+        "options": [
+          "3 months",
+          "1 year",
+          "About 3 years",
+          "7 years"
+        ],
+        "correct": 2,
+        "explanation": "In Acts 20:31, Paul reminds the elders of Ephesus that he warned them night and day for three years."
+      },
+      {
+        "question": "Under which king of Judah did the prophet Isaiah receive his inaugural vision (Isaiah 6:1)?",
+        "options": [
+          "The year Uzziah died (~740 BC)",
+          "The year David died",
+          "The year Josiah died",
+          "Under Zedekiah"
+        ],
+        "correct": 0,
+        "explanation": "Isaiah 6:1 places his calling in 'the year that King Uzziah died', around 740 BC. AD"
+      },
+      {
+        "question": "How many years did the Northern Kingdom (Israel) last between the schism (931) and the fall of Samaria (722)?",
+        "options": [
+          "About 100 years old",
+          "About 209 years old",
+          "About 350 years old",
+          "About 400 years old"
+        ],
+        "correct": 1,
+        "explanation": "From 931 BC. BC to 722 BC BC, the Northern Kingdom lasted a little over two centuries (209 years)."
+      },
+      {
+        "question": "How many years longer than Samaria did Jerusalem hold before its destruction in 586 BC? AD?",
+        "options": [
+          "50 years",
+          "136 years old",
+          "200 years",
+          "300 years"
+        ],
+        "correct": 1,
+        "explanation": "Between the fall of Samaria (722 BC) and that of Jerusalem (586 BC), 136 years passed."
+      },
+      {
+        "question": "Which king of Judah was healed and given 15 more years of life?",
+        "options": [
+          "Josiah",
+          "Hezekiah",
+          "Asa",
+          "Jehoshaphat"
+        ],
+        "correct": 1,
+        "explanation": "God granted King Hezekiah 15 more years after his prayer (2 Kings 20:6)."
+      },
+      {
+        "question": "In what order did these two famous kings of Judah reign?",
+        "options": [
+          "Josiah then Hezekiah",
+          "Hezekiah then Josiah",
+          "They reigned together",
+          "Josiah before Solomon"
+        ],
+        "correct": 1,
+        "explanation": "Hezekiah reigned around 715-686 BC. BC, then his son Manasseh, his grandson Amon, and his great-grandson Josiah (640-609 BC)."
+      },
+      {
+        "question": "Which Persian king reigned at the time of the story of Esther?",
+        "options": [
+          "Cyrus",
+          "Ahasuerus (Xerxes I)",
+          "Darius III",
+          "Cambyses"
+        ],
+        "correct": 1,
+        "explanation": "The book of Esther takes place under Ahasuerus, identified with Xerxes I (486-465 BC)."
+      },
+      {
+        "question": "In what order are these three post-exilic historical books located?",
+        "options": [
+          "Esther (reign of Xerxes) between the return of Zerubbabel and the mission of Nehemiah",
+          "Nehemiah before Cyrus",
+          "Ezra before Nebuchadnezzar",
+          "Esther before Solomon"
+        ],
+        "correct": 0,
+        "explanation": "Zerubbabel returned around 538 BC. BC, Esther lived under Xerxes (486-465), then Ezra (458) and Nehemiah (445) under Artaxerxes I."
+      },
+      {
+        "question": "In what approximate year are the Gospels of Matthew and Luke often dated?",
+        "options": [
+          "35-40 AD AD",
+          "50-55 AD AD",
+          "80-85 AD AD",
+          "120-130 AD AD"
+        ],
+        "correct": 2,
+        "explanation": "Many exegetes date Matthew and Luke to the years 80-85 AD. BC, after Mark (~65-70)."
+      },
+      {
+        "question": "Which emperor reigned during John's exile on Patmos according to the dominant tradition?",
+        "options": [
+          "August",
+          "Nero",
+          "Domitian",
+          "Trajan"
+        ],
+        "correct": 2,
+        "explanation": "Irenaeus of Lyon places the writing of the Apocalypse at the end of the reign of Domitian, around 95-96 AD. AD"
+      },
+      {
+        "question": "How many days was Paul blind in Damascus before Ananias prayed for him?",
+        "options": [
+          "1 day",
+          "3 days",
+          "7 days",
+          "40 days"
+        ],
+        "correct": 1,
+        "explanation": "Acts 9:9 records that Saul remained three days without seeing, eating or drinking."
+      },
+      {
+        "question": "How many years did Paul spend in Arabia and Damascus before going up to Peter in Jerusalem (Galatians 1:18)?",
+        "options": [
+          "1 year",
+          "3 years",
+          "7 years",
+          "14 years old"
+        ],
+        "correct": 1,
+        "explanation": "Paul states in Galatians 1:18 that after three years he went up to Jerusalem to meet Cephas."
+      },
+      {
+        "question": "How many years was Paul held in Caesarea under Felix before appearing before Festus?",
+        "options": [
+          "6 months",
+          "2 years",
+          "5 years",
+          "7 years"
+        ],
+        "correct": 1,
+        "explanation": "Acts 24:27 indicates that after two years Felix was succeeded by Porcius Festus."
+      },
+      {
+        "question": "When did the prophet Obadiah probably prophesy against Edom?",
+        "options": [
+          "During creation",
+          "After a fall/looting of Jerusalem (probably 586 BC)",
+          "Under the reign of Solomon",
+          "In the 1st century AD. AD"
+        ],
+        "correct": 1,
+        "explanation": "Obadiah 11-14 condemns Edom for rejoicing in the day of distress and the plundering of Jerusalem."
+      },
+      {
+        "question": "What historical event marked the end of the Jewish revolt of Bar Kokhba?",
+        "options": [
+          "70 AD AD",
+          "135 AD AD",
+          "63 BC AD",
+          "325 AD AD"
+        ],
+        "correct": 1,
+        "explanation": "The second Jewish revolt (132-135 AD) ended in 135 AD. BC under Emperor Hadrian."
+      },
+      {
+        "question": "Under which pharaoh of Egypt did King Josiah die at Megiddo in 609 BC? AD?",
+        "options": [
+          "Ramses II",
+          "Neco II",
+          "Shishak",
+          "Tutankhamun"
+        ],
+        "correct": 1,
+        "explanation": "Josiah opposed Pharaoh Neco II who went up to help Assyria and was killed at Megiddo in 609 BC. (2 Kings 23:29)."
+      },
+      {
+        "question": "Which pharaoh plundered Jerusalem under Rehoboam, 5 years after the death of Solomon (~925 BC)?",
+        "options": [
+          "Neco",
+          "Shishak (Sheshonq I)",
+          "Ramses II",
+          "Tirhaka"
+        ],
+        "correct": 1,
+        "explanation": "1 Kings 14:25-26 mentions Shishak's invasion in the 5th year of Rehoboam's reign (~925 BC)."
+      },
+      {
+        "question": "In what order did these three judges appear in the book of Judges?",
+        "options": [
+          "Samson → Gideon → Deborah",
+          "Deborah → Gideon → Samson",
+          "Gideon → Deborah → Samson",
+          "Samson → Deborah → Gideon"
+        ],
+        "correct": 1,
+        "explanation": "Deborah comes in chapters 4-5, Gideon in chapters 6-8, and Samson in chapters 13-16."
+      },
+      {
+        "question": "How long did the Ark of the Covenant stay in Kirjath-jearim before David transferred it?",
+        "options": [
+          "7 months",
+          "20 years (or more until David)",
+          "40 days",
+          "3 years"
+        ],
+        "correct": 1,
+        "explanation": "1 Samuel 7:2 records that the Ark remained for a long time in Kirjath-jearim, twenty years having elapsed before the revival under Samuel."
+      },
+      {
+        "question": "Approximately when did the Greek translation of the Septuagint (LXX) begin in Alexandria?",
+        "options": [
+          "5th century BC AD",
+          "3rd century BC (c. 280-250 BC)",
+          "1st century AD AD",
+          "4th century AD AD"
+        ],
+        "correct": 1,
+        "explanation": "The translation of the Pentateuch into Greek began in Alexandria in the 3rd century BC. BC under Ptolemy II Philadelphus."
+      },
+      {
+        "question": "Which prophet was contemporary with the fall of Nineveh (612 BC) that he had announced?",
+        "options": [
+          "Jonah",
+          "Nahum",
+          "Haggai",
+          "Malachi"
+        ],
+        "correct": 1,
+        "explanation": "Nahum announced the imminent fall of Nineveh, which actually fell in 612 BC. BC before the Babylonians and the Medes."
+      },
+      {
+        "question": "How long did Jesus stay in the desert after his baptism before returning to Galilee?",
+        "options": [
+          "7 days",
+          "40 days",
+          "6 months",
+          "1 year"
+        ],
+        "correct": 1,
+        "explanation": "The Synoptics indicate that the Spirit led Jesus into the desert for 40 days (Mark 1:12-13)."
+      },
+      {
+        "question": "Which ecumenical council was held in 325 AD? AD to deal with the divinity of Christ?",
+        "options": [
+          "Council of Jerusalem",
+          "Council of Nicaea",
+          "Council of Chalcedon",
+          "Council of Trent"
+        ],
+        "correct": 1,
+        "explanation": "The First Council of Nicaea was convened in 325 AD. AD facing Arianism."
+      },
+      {
+        "question": "In what order were these epistles of Paul probably written?",
+        "options": [
+          "2 Timothy → Romans → 1 Thessalonians",
+          "1 Thessalonians → Romans → 2 Timothy",
+          "Romans → 1 Thessalonians → 2 Timothy",
+          "2 Timothy → 1 Thessalonians → Romans"
+        ],
+        "correct": 1,
+        "explanation": "1 Thessalonians (~50-51) is one of the earliest, Romans dates from around 57, and 2 Timothy is the last pastoral epistle (~66-67)."
       }
     ],
     "expert": [
@@ -499,6 +1533,512 @@
         ],
         "correct": 0,
         "explanation": "The Protestant Reformation: Luther published his 95 theses in 1517. The invention of printing (Gutenberg ~1450) and the rediscovery of NT Greek (Erasmus 1516) made possible the diffusion of the Bible in vernacular languages."
+      },
+      {
+        "question": "Which Egyptian stele dated to around 1208 BC? BC contains the oldest known extrabiblical mention of the name 'Israel'?",
+        "options": [
+          "The stele of Mésha",
+          "The Stele of Merenptah",
+          "Taylor's prism",
+          "The Cyrus Cylinder"
+        ],
+        "correct": 1,
+        "explanation": "The Merenptah stele (around 1208 BC) mentions 'Israel is devastated, its seed is no more', confirming its presence in Canaan in the 13th century. av. AD"
+      },
+      {
+        "question": "What battle of 853 BC? BC, mentioned on the Kurkh monolith, cites King Ahab of Israel?",
+        "options": [
+          "The Battle of Megiddo",
+          "The Battle of Qarqar",
+          "The Battle of Carchemish",
+          "The Battle of Lachish"
+        ],
+        "correct": 1,
+        "explanation": "The Assyrian monolith of Shalmanesar III cites 'Ahab the Israelite' with 2000 chariots at the Battle of Qarqar in 853 BC. AD"
+      },
+      {
+        "question": "On which Assyrian obelisk do we see King Jehu of Israel prostrating himself before Shalmanesar III around 841 BC? AD?",
+        "options": [
+          "The white obelisk",
+          "The black obelisk",
+          "The Tel Dan stele",
+          "The Stele of Siloam"
+        ],
+        "correct": 1,
+        "explanation": "The Black Obelisk of Nimrud depicts 'Jehu, son of Omri' paying tribute to Shalmanesar III in 841 BC. AD"
+      },
+      {
+        "question": "Which Aramaic inscription from the 9th century BC? AD mentions the 'House of David' (Bytdwd)?",
+        "options": [
+          "The Siloam Inscription",
+          "The Tel Dan stele",
+          "The letters of Lachish",
+          "The ostracon of Samaria"
+        ],
+        "correct": 1,
+        "explanation": "Discovered in 1993-1994, the Tel Dan stele (~840 BC) mentions the victory over a king of the 'House of David'."
+      },
+      {
+        "question": "In what precise year do the Babylonian tablets date the capture of Jerusalem during the 2nd deportation (Jehoiachin)?",
+        "options": [
+          "March 16, 597 BC AD",
+          "August 15, 586 BC AD",
+          "October 12, 539 BC AD",
+          "April 1, 605 BC AD"
+        ],
+        "correct": 0,
+        "explanation": "The Babylonian Chronicle (BM 21946) fixes the capitulation of Jerusalem on 2 Adar of the 7th year of Nebuchadnezzar, i.e. March 16, 597 BC. AD"
+      },
+      {
+        "question": "How does Edwin Thiele (The Mysterious Numbers of the Hebrew Kings) explain the apparent discrepancies in the chronology of the kings of Israel and Judah?",
+        "options": [
+          "By systematic errors of copyists",
+          "By coregencies, years of accession vs non-accession, and calendars starting in Nisan or Tishri",
+          "By the late invention of the monarchy",
+          "By using the Julian calendar"
+        ],
+        "correct": 1,
+        "explanation": "Thiele showed that Judah and Israel used different systems (Nisan vs. Tishri, year of accession vs. non-accession) as well as coregencies."
+      },
+      {
+        "question": "What chronological difference separates the beginning of the royal year in Judah (Tishri) and in Northern Israel (Nisan)?",
+        "options": [
+          "1 month",
+          "6 months",
+          "12 months",
+          "3 years"
+        ],
+        "correct": 1,
+        "explanation": "Israel counted the years of reign from Nisan (spring), while Judah used Tishri (fall), a gap of 6 months."
+      },
+      {
+        "question": "According to 2 Kings 25:8, in what month of the Hebrew calendar was Solomon's Temple burned in 586 BC? AD?",
+        "options": [
+          "The 1st month (Nisan)",
+          "The 5th month (Ab)",
+          "The 7th month (Tishri)",
+          "The 12th month (Adar)"
+        ],
+        "correct": 1,
+        "explanation": "The Temple was burned in the 5th month (Ab), still commemorated today by the fast of Tisha B'Av."
+      },
+      {
+        "question": "Which Persian document from 539 BC. AD confirms Cyrus' policy of sending people and cults back to their sanctuaries?",
+        "options": [
+          "The Behistun Stele",
+          "Cyrus' Cylinder",
+          "The Elephantine papyri",
+          "The Rosetta Stone"
+        ],
+        "correct": 1,
+        "explanation": "The Cylinder of Cyrus attests to the imperial policy of religious tolerance and restoration of local sanctuaries after the fall of Babylon."
+      },
+      {
+        "question": "When do the Aramaic Elephantine papyri mention the sons of Sanballat, governor of Samaria (contemporary of Nehemiah)?",
+        "options": [
+          "Around 586 BC. AD",
+          "Around 407 BC. AD",
+          "Around 332 BC. AD",
+          "Around 167 BC. AD"
+        ],
+        "correct": 1,
+        "explanation": "Elephantine's letters dated 407 BC AD mention Delaiah and Shélémya, sons of Sanballat, confirming the dating of Nehemiah in the 5th century BC. AD"
+      },
+      {
+        "question": "What date marks the entry of Antiochus IV Epiphanes and the desecration of the Temple by the 'abomination of desolation' (1 Maccabees 1:54)?",
+        "options": [
+          "25 Kislev 167 BC AD",
+          "14 Nisan 164 BC AD",
+          "10 Tishri 175 BC AD",
+          "1st Ab 142 BC AD"
+        ],
+        "correct": 0,
+        "explanation": "15/25 Kislev 167 BC BC, a pagan altar was erected on the altar of burnt offerings; the Temple was reconsecrated exactly 3 years later (164 BC)."
+      },
+      {
+        "question": "What is the usually debated starting point for the '70 weeks of years' (490 years) of Daniel 9:25?",
+        "options": [
+          "The edict of Cyrus (538), the edict of Artaxerxes for Ezra (458/457) or for Nehemiah (445/444)",
+          "The death of Alexander the Great (323)",
+          "The birth of Jesus (4 BC)",
+          "The fall of Samaria (722)"
+        ],
+        "correct": 0,
+        "explanation": "Messianic interpretations calculate the 69 weeks (483 years) from the decrees of Artaxerxes (457 or 444 BC) until the ministry or death of Jesus."
+      },
+      {
+        "question": "Which inscription discovered at Caesarea Maritime in 1961 confirms the historicity and exact title of Pontius Pilate?",
+        "options": [
+          "The Ossuary of Caiaphas",
+          "Pilate's Stone (praefectus Iudaeae)",
+          "Gallion's inscription",
+          "The decree of Nazareth"
+        ],
+        "correct": 1,
+        "explanation": "The Pilate Stone mentions 'Pontius Pilatus, Praefectus Iudaeae', confirming its exact title under Tiberius (AD 26-36)."
+      },
+      {
+        "question": "In what specific year is the 15th year of the reign of Tiberius Caesar (Luke 3:1), marking the beginning of the ministry of John the Baptist, located?",
+        "options": [
+          "21-22 AD AD",
+          "27-29 AD AD",
+          "33-34 AD AD",
+          "18-19 AD AD"
+        ],
+        "correct": 1,
+        "explanation": "Tiberius succeeded Augustus in AD 14. AD (or was associated in 12): his 15th year therefore corresponds to 27-29 AD. AD"
+      },
+      {
+        "question": "Why does the mention of '46 years' to build the Temple in John 2:20 help date the beginning of Jesus' ministry?",
+        "options": [
+          "Herod began the work in 20/19 BC. AD, which places this Passover around 27-28 AD. AD",
+          "Solomon took 46 years",
+          "The Temple was destroyed 46 years later",
+          "It is a purely symbolic figure with no historical link."
+        ],
+        "correct": 0,
+        "explanation": "According to Flavius ​​Josephus, Herod undertook the renovation of the Temple in 20/19 BC. AD; 46 years later leads to exactly 27-28 AD. AD"
+      },
+      {
+        "question": "Which Pauline chronology is based on the edict of Claudius (49) and the proconsulate of Gallio (51-52)?",
+        "options": [
+          "The dating of the writing of the Apocalypse",
+          "Paul's 18-month stay in Corinth during the 2nd journey (AD 50-52)",
+          "The Council of Nicaea",
+          "The birth of Paul in Tarsus"
+        ],
+        "correct": 1,
+        "explanation": "The recent arrival of Aquila and Priscilla (edit of 49) and the appearance before Gallio (51-52) firmly anchor the Pauline chronology."
+      },
+      {
+        "question": "How does the account of the visit to Jerusalem in Galatians 2:1-10 differ from that in Acts?",
+        "options": [
+          "No difference, everything is the same",
+          "Scholars debate whether it corresponds to the famine visitation (Acts 11:30, ~46) or to the Council of Jerusalem (Acts 15, ~49)",
+          "Galatians 2 talks about the trip to Rome",
+          "Acts never mentions Jerusalem"
+        ],
+        "correct": 1,
+        "explanation": "The identification of Galatians 2 with Acts 11 (early dating of Galatians, ~48) or Acts 15 (~50-55) is a classic debate in New Testament chronology."
+      },
+      {
+        "question": "What is the chronological range used for the writing of the Dead Sea Scrolls (Qumran)?",
+        "options": [
+          "8th century. av. BC to 6th century. av. AD",
+          "3rd century av. BC to 1st century after (before AD 68)",
+          "2nd century after BC to 4th century after AD",
+          "5th century after BC only"
+        ],
+        "correct": 1,
+        "explanation": "The Qumran Scrolls cover approximately 250 BC. BC to AD 68 BC, date of the destruction of the site by the Roman legions."
+      },
+      {
+        "question": "Which papyrus from the 2nd century AD? is generally recognized as the oldest preserved fragment of the New Testament?",
+        "options": [
+          "The Codex Sinaiticus",
+          "The Rylands Papyrus P52 (John 18, c. 125 AD)",
+          "The Codex Vaticanus",
+          "The Bodmer Papyrus P66"
+        ],
+        "correct": 1,
+        "explanation": "P52 (fragment of John 18:31-33, 37-38) is paleographically dated around 125 AD. AD, a few decades after the writing of John."
+      },
+      {
+        "question": "In what approximate year is the Muratori fragment (oldest known Latin canonical list in the NT) usually dated?",
+        "options": [
+          "70 AD AD",
+          "Around 170-200 AD. AD",
+          "325 AD AD",
+          "451 AD AD"
+        ],
+        "correct": 1,
+        "explanation": "The Muratori Canon, generally dated to the end of the 2nd century (~170-200), already testifies to a very broad canonical core of the NT."
+      },
+      {
+        "question": "In the chronology of the Letters of the Apostle Paul, which group is generally referred to as the 'captivity epistles'?",
+        "options": [
+          "Romans, Galatians, 1-2 Corinthians",
+          "Ephesians, Philippians, Colossians, Philemon (c. 60-62 AD)",
+          "1-2 Thessalonians",
+          "1-2 Timothy, Titus"
+        ],
+        "correct": 1,
+        "explanation": "Ephesians, Philippians, Colossians and Philemon were written during Paul's imprisonment (traditionally in Rome around AD 60-62)."
+      },
+      {
+        "question": "Which Roman emperor besieged Jerusalem in AD 70? AD as a general before becoming emperor in 79?",
+        "options": [
+          "Vespasian",
+          "Titus",
+          "Domitian",
+          "Hadrian"
+        ],
+        "correct": 1,
+        "explanation": "Titus, son of Emperor Vespasian, completed the siege and took Jerusalem in August–September 70 AD. AD"
+      },
+      {
+        "question": "Which first-century Jewish historian provides the primary extrabiblical source on the Second Temple period and the war of 66-70?",
+        "options": [
+          "Philo of Alexandria",
+          "Flavius ​​Josephus",
+          "Tacit",
+          "Eusebius of Caesarea"
+        ],
+        "correct": 1,
+        "explanation": "Flavius ​​Josephus (Jewish War, Jewish Antiquities) is a major historical source for 1st century Judaism."
+      },
+      {
+        "question": "Approximately how long separates the return of Nehemiah (445 BC) from the birth of Jesus (~5 BC)?",
+        "options": [
+          "200 years",
+          "440 years (often called the '400 years of silence')",
+          "700 years",
+          "1000 years"
+        ],
+        "correct": 1,
+        "explanation": "Between Malachi/Nehemiah (5th century BC) and John the Baptist extends the intertestamental period of approximately four centuries."
+      },
+      {
+        "question": "What chronological difference exists between the Masoretic Text (TM) and the Septuagint (LXX) in the genealogies of Genesis 5 and 11?",
+        "options": [
+          "No difference",
+          "The LXX adds approximately 1400 to 1500 years to the chronology of the patriarchs before Abraham",
+          "The TM is 2000 years longer",
+          "The LXX removes Noah"
+        ],
+        "correct": 1,
+        "explanation": "In the LXX, several patriarchs father their sons 100 years later than in the TM, extending the antediluvian and postdiluvian chronology."
+      },
+      {
+        "question": "Which 17th century scholar calculated the creation of the world in 4004 BC? BC from biblical genealogies?",
+        "options": [
+          "John Calvin",
+          "James Usher",
+          "Martin Luther",
+          "Bede the Venerable"
+        ],
+        "correct": 1,
+        "explanation": "Archbishop James Ussher published his Annales Veteris Testamenti (1650), setting the creation at October 23, 4004 BC. AD"
+      },
+      {
+        "question": "Which 6th century monk established the 'Anno Domini' dating system (AD) by calculating the birth of Christ?",
+        "options": [
+          "Jerome of Stridon",
+          "Dionysius the Little",
+          "Augustine of Hippo",
+          "Eusebius of Caesarea"
+        ],
+        "correct": 1,
+        "explanation": "Dionysius the Small (around 525) established the Christian era, with a slight delay of a few years compared to the death of Herod (4 BC)."
+      },
+      {
+        "question": "What is the time of the prophet Elisha according to the chronology of the kings of Israel?",
+        "options": [
+          "10th century BC BC (Solomon)",
+          "Mid-to-late 9th century BC BC (from Joram to Joash)",
+          "7th century BC (Josiah)",
+          "5th century BC BC (Nehemiah)"
+        ],
+        "correct": 1,
+        "explanation": "Elisha ministered from about 850 to 800 BC. BC, under Joram, Jehu, Jehoahaz and Joash of Israel."
+      },
+      {
+        "question": "What date corresponds to the fall of the Neo-Babylonian kingdom to Cyrus the Great?",
+        "options": [
+          "586 BC AD",
+          "539 BC AD",
+          "516 BC AD",
+          "480 BC AD"
+        ],
+        "correct": 1,
+        "explanation": "Babylon fell to Cyrus' Medo-Persian troops in October 539 BC. (Daniel 5:30)."
+      },
+      {
+        "question": "In what approximate year did Nebuchadnezzar II die, giving way to Amel-Marduk (Evil-Merodach) who freed Jehoiachin (2 Kings 25:27)?",
+        "options": [
+          "586 BC AD",
+          "562 BC AD",
+          "539 BC AD",
+          "520 BC AD"
+        ],
+        "correct": 1,
+        "explanation": "Nebuchadnezzar died in 562 BC. AD; his son Amel-Marduk pardoned King Jehoiachin in the 37th year of his captivity."
+      },
+      {
+        "question": "What time period does Joel's prophecy take place according to the two main exegetical hypotheses?",
+        "options": [
+          "Only in the 10th century BC. AD",
+          "Either pre-exilic (9th century under Joash) or post-exilic (5th-4th century BC)",
+          "During the life of Moses",
+          "In the 2nd century AD. AD"
+        ],
+        "correct": 1,
+        "explanation": "The absence of mention of the king and the central place of the Temple and the priests divide researchers between the 9th century. and the 5th-4th century. av. AD"
+      },
+      {
+        "question": "What is the chronological framework of the 'Letters of Lachish' discovered in 1935?",
+        "options": [
+          "Joshua's conquest (~1200 BC)",
+          "The last days before the fall of Jerusalem to Babylon (588-586 BC)",
+          "The era of the Maccabees (165 BC)",
+          "The Roman siege of 70 AD AD"
+        ],
+        "correct": 1,
+        "explanation": "These ancient Hebrew ostraca date from Nebuchadnezzar's final campaign against Judah around 588-586 BC. AD"
+      },
+      {
+        "question": "In approximately what year was the Edict of Milan (tolerance towards Christianity) promulgated by Constantine and Licinius?",
+        "options": [
+          "70 AD AD",
+          "250 AD AD",
+          "313 AD AD",
+          "380 AD AD"
+        ],
+        "correct": 2,
+        "explanation": "The Edict of Milan in 313 AD. BC ended imperial persecutions and granted freedom of worship to Christians."
+      },
+      {
+        "question": "Which emperor made Nicene Christianity the official religion of the Roman Empire by the Edict of Thessalonica (380)?",
+        "options": [
+          "Constantine I",
+          "Theodosius I",
+          "Diocletian",
+          "Marcus Aurelius"
+        ],
+        "correct": 1,
+        "explanation": "Theodosius I promulgated the Edict of Thessalonica in 380 AD. BC, making Christianity the state religion."
+      },
+      {
+        "question": "In what year did Saint Jerome complete most of the Latin translation of the Vulgate?",
+        "options": [
+          "Around 150 AD. AD",
+          "Around 325 AD. AD",
+          "Around 405 AD. AD",
+          "Around 525 AD. AD"
+        ],
+        "correct": 2,
+        "explanation": "Jerome worked in Bethlehem from 382 to approximately 405 AD. AD to translate the Bible into Latin from Hebrew and Greek."
+      },
+      {
+        "question": "In the chronology of Luke's Gospel, when does the 'great ascent to Jerusalem' (Luke 9:51 - 19:27) begin?",
+        "options": [
+          "From birth in Bethlehem",
+          "After the Transfiguration and the sending of the disciples, a major turning point in the ministry",
+          "After the Resurrection",
+          "During childhood in Nazareth"
+        ],
+        "correct": 1,
+        "explanation": "Luke 9:51 ('he resolutely took the road to Jerusalem') structures the entire second half of his gospel towards the Passion."
+      },
+      {
+        "question": "How many distinct Easters are explicitly mentioned in the Gospel of John, allowing us to estimate the duration of Jesus' ministry?",
+        "options": [
+          "1 only Passover",
+          "At least 3 Easters (John 2:13; 6:4; 11:55), suggesting approximately 3 years of ministry",
+          "7 Easter",
+          "No Passover is mentioned"
+        ],
+        "correct": 1,
+        "explanation": "While the Synoptics only mention one final Passover, John names at least three, basing the estimate of a ministry of ~3 years."
+      },
+      {
+        "question": "What a political event of 44 AD? BC described in Acts 12 is also dated by Flavius ​​Josephus?",
+        "options": [
+          "The destruction of Jerusalem",
+          "The sudden death of Herod Agrippa I in Caesarea",
+          "The Philippian earthquake",
+          "The census of Quirinius"
+        ],
+        "correct": 1,
+        "explanation": "Acts 12:20-23 and Flavius ​​Josephus (Antiquities 19.8.2) both describe the sudden death of Herod Agrippa I in AD 44. AD"
+      },
+      {
+        "question": "What is the name of the proconsul of Cyprus converted by Paul around 46-47 AD? (Acts 13:7)?",
+        "options": [
+          "Galleon",
+          "Sergius Paulus",
+          "Felix",
+          "Lysias"
+        ],
+        "correct": 1,
+        "explanation": "Sergius Paulus is epigraphically attested as proconsul of Cyprus in the mid-1st century AD. AD"
+      },
+      {
+        "question": "What dating separates the Council of Nicaea (325) from the Council of Chalcedon (451) in the formation of classical Christology?",
+        "options": [
+          "50 years",
+          "126 years old",
+          "300 years",
+          "500 years"
+        ],
+        "correct": 1,
+        "explanation": "Between Nicaea (325, divinity of the Son) and Chalcedon (451, two natures in one person), 126 years of Christological debates passed."
+      },
+      {
+        "question": "In what approximate year were the Codex Sinaiticus and Codex Vaticanus copied?",
+        "options": [
+          "1st century AD AD",
+          "4th century AD BC (c. 325-360)",
+          "8th century AD AD",
+          "12th century AD AD"
+        ],
+        "correct": 1,
+        "explanation": "These two large complete or almost complete Greek uncials of the Bible date from the middle of the 4th century AD. AD"
+      },
+      {
+        "question": "What a historical crisis of 735-732 BC. J.-C. provoked the oracle of Emmanuel in Isaiah 7?",
+        "options": [
+          "The fall of Babylon",
+          "The Syro-Ephraimite War (coalition of Aram and Israel against Ahaz of Judah)",
+          "The invasion of Alexander the Great",
+          "Jeroboam's rebellion"
+        ],
+        "correct": 1,
+        "explanation": "Rezîn of Damascus and Peqah of Israel besieged Jerusalem in 735-732 BC. to force Ahaz to join their anti-Assyrian coalition."
+      },
+      {
+        "question": "How long did the Temple in Jerusalem lie in ruins between 586 BC and 586 BC? AD and the dedication of the Second Temple in 516 BC. AD?",
+        "options": [
+          "40 years",
+          "50 years",
+          "Exactly 70 years old",
+          "100 years"
+        ],
+        "correct": 2,
+        "explanation": "From 586 BC BC to 516 BC B.C., exactly 70 years passed, fulfilling from another angle the 70 years of Jeremiah."
+      },
+      {
+        "question": "What period of biblical history corresponds to the Middle Bronze Age (~2000-1550 BC)?",
+        "options": [
+          "The time of the Patriarchs (Abraham, Isaac, Jacob)",
+          "The time of the Maccabees",
+          "Nehemiah's time",
+          "The apostolic era"
+        ],
+        "correct": 0,
+        "explanation": "The legal and pastoral customs of the patriarchal stories reflect the context of the Middle Bronze Age (~2000-1700 BC)."
+      },
+      {
+        "question": "In what chronological order were these three synoptics or writings written according to the two-source hypothesis?",
+        "options": [
+          "Matthew → Mark → Luke",
+          "Mark + Source Q → Matthew and Luke",
+          "Luke → Mark → Matthew",
+          "John → Mark → Matthew"
+        ],
+        "correct": 1,
+        "explanation": "The prevailing hypothesis assumes that Matthew and Luke used the Gospel of Mark (~65-70) as well as a common source of sayings (Q)."
+      },
+      {
+        "question": "What date marks the schism between the Western Church and the Eastern Church in the history of Christianity?",
+        "options": [
+          "325 AD AD",
+          "451 AD AD",
+          "1054 AD AD",
+          "1517 AD AD"
+        ],
+        "correct": 2,
+        "explanation": "The Great Schism of 1054 separated Rome and Constantinople, well after the biblical period but heir to ancient debates."
       }
     ]
   }

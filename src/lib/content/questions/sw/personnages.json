@@ -616,6 +616,424 @@
         ],
         "correct": 2,
         "explanation": "Daudi anaitwa ‘mtu anayeupendeza moyo wa Mungu’ ( 1 Samweli 13:14; Matendo 13:22 )—si kwa sababu alikuwa mkamilifu ( jambo la Bath-sheba linaonyesha hilo), bali kwa sababu ya imani yake, toba yake ya kweli, na upendo wake wenye bidii kwa Mungu ( Zaburi 51 )."
+      },
+      {
+        "question": "Ni nani aliyekuwa mwanamke wa kwanza kuumbwa na Mungu katika bustani ya Edeni?",
+        "options": [
+          "Sarah",
+          "Hawa",
+          "Rebeka",
+          "Ndoa"
+        ],
+        "correct": 1,
+        "explanation": "Adamu alimwita mkewe Hawa ('aliye hai'), kwa sababu yeye ndiye mama wa wote walio hai (Mwanzo 3:20)."
+      },
+      {
+        "question": "Nani aliuawa na kaka yake Kaini kwa wivu?",
+        "options": [
+          "Seth",
+          "Habili",
+          "Henoko",
+          "Lemec"
+        ],
+        "correct": 1,
+        "explanation": "Kaini alikasirika kwa sababu Bwana aliikubali sadaka ya Habili na kumuua shambani (Mwanzo 4:8)."
+      },
+      {
+        "question": "Ni mpwa gani wa Ibrahimu aliyeishi Sodoma na kuokolewa na malaika kabla ya jiji hilo kuharibiwa?",
+        "options": [
+          "Ishmaeli",
+          "Kundi",
+          "Labani",
+          "Eliezeri"
+        ],
+        "correct": 1,
+        "explanation": "Malaika wakamshika mkono Lutu, mkewe, na binti zake wawili na kuwatoa nje ya Sodoma (Mwanzo 19:16)."
+      },
+      {
+        "question": "Ni mwanamke gani alikuja kuwa mke wa Isaka baada ya kumpa mtumishi wa Abrahamu na ngamia wake maji?",
+        "options": [
+          "Rachael",
+          "Rebeka",
+          "Lea",
+          "Agari"
+        ],
+        "correct": 1,
+        "explanation": "Rebeka, dada yake Labani, alikubali kumfuata mtumishi wa Ibrahimu kuolewa na Isaka (Mwanzo 24)."
+      },
+      {
+        "question": "Wake wawili wa Yakobo, binti za Labani walikuwa akina nani?",
+        "options": [
+          "Sara na Hajiri",
+          "Lea na Raheli",
+          "Martha na Mariamu",
+          "Ruthu na Orpa"
+        ],
+        "correct": 1,
+        "explanation": "Yakobo kwanza alimwoa Lea mkubwa kwa hila ya Labani, kisha Raheli ambaye alimpenda (Mwanzo 29)."
+      },
+      {
+        "question": "Ni nani aliyekuwa mdogo kati ya wana kumi na wawili wa Yakobo, ndugu kamili wa Yusufu?",
+        "options": [
+          "Ruben",
+          "Yuda",
+          "Benjamin",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "Raheli alikufa akimzaa Benyamini karibu na Bethlehemu (Mwanzo 35:18)."
+      },
+      {
+        "question": "Ni nani alikuwa mke wa Musa, binti Yethro kuhani wa Midiani?",
+        "options": [
+          "Miriam",
+          "Zipporah (Tzippora)",
+          "Debora",
+          "Rahabu"
+        ],
+        "correct": 1,
+        "explanation": "Yethro alimpa Musa binti yake Zipora alipokimbilia Midiani (Kutoka 2:21)."
+      },
+      {
+        "question": "Ni mwandamani gani mwaminifu wa Musa aliyeingia peke yake pamoja na Yoshua katika Nchi ya Ahadi kati ya kizazi kilichotoka Misri?",
+        "options": [
+          "Haruni",
+          "Kalebu",
+          "Kora",
+          "Gideoni"
+        ],
+        "correct": 1,
+        "explanation": "Kwa sababu Kalebu na Yoshua walimfuata Bwana kikamilifu, walikuwa peke yao wa kizazi chao kuingia Kanaani (Hesabu 14:24,30)."
+      },
+      {
+        "question": "Ni kuhani mkuu yupi aliyemlea kijana Samweli katika patakatifu pa Shilo?",
+        "options": [
+          "Haruni",
+          "Eli",
+          "Nathan",
+          "Tzadok"
+        ],
+        "correct": 1,
+        "explanation": "Hana alimweka wakfu mwanawe Samweli kwa Bwana na kumkabidhi kwa kuhani Eli huko Shilo (1 Samweli 1-2)."
+      },
+      {
+        "question": "Baba ya Mfalme Daudi alikuwa nani?",
+        "options": [
+          "Sauli",
+          "Yese (Yese) wa Bethlehemu",
+          "Yonathani",
+          "Samweli"
+        ],
+        "correct": 1,
+        "explanation": "Daudi alikuwa mtoto wa mwisho kati ya wana wanane wa Yese, Mbethlehemu (1 Samweli 16:1-13)."
+      },
+      {
+        "question": "Ni malkia gani mwovu wa Israeli aliyewatesa manabii wa Bwana na kumtisha Eliya kwa kifo?",
+        "options": [
+          "Esta",
+          "Yezebeli",
+          "Bathsheba",
+          "Athalie"
+        ],
+        "correct": 1,
+        "explanation": "Yezebeli, binti Ethbaali mfalme wa Wasidoni na mke wa Ahabu, aliweka ibada ya Baali katika Israeli (1 Wafalme 18-19)."
+      },
+      {
+        "question": "Ni binamu gani mkubwa aliyemlea Esta huko Susa na kukataa kumsujudia Hamani?",
+        "options": [
+          "Nehemia",
+          "Mordekai",
+          "Ezra",
+          "Daniel"
+        ],
+        "correct": 1,
+        "explanation": "Mordekai alikomesha njama dhidi ya mfalme na kumtia moyo Esta kuwaombea watu wake ('pengine ni kwa ajili ya wakati kama huo...') ( Esta 4:14 )."
+      },
+      {
+        "question": "Ni ofisa gani wa cheo cha juu wa Uajemi alitaka kumnyonga Mordekai na kuwaangamiza Wayahudi wote?",
+        "options": [
+          "Koreshi",
+          "Amani",
+          "Sanbalati",
+          "Goliathi"
+        ],
+        "correct": 1,
+        "explanation": "Hatimaye Hamani Mwagagi alitundikwa kwenye mti ambao yeye mwenyewe alikuwa ameusimamisha kwa ajili ya Mordekai (Esta 7:10)."
+      },
+      {
+        "question": "Ni nani aliyekuwa mkuu wa malaika aliyemtokea Zekaria kisha kwa Mariamu kutangaza kuzaliwa kwa Yohana na Yesu?",
+        "options": [
+          "Mikaeli",
+          "Gabriel",
+          "Raphael",
+          "Kerubi"
+        ],
+        "correct": 1,
+        "explanation": "Malaika Gabrieli alimtangazia Zekaria hivi: ‘Mimi ni Gabrieli, nasimama mbele za Mungu’ ( Luka 1:19,26 )."
+      },
+      {
+        "question": "Mama ya Jean-Baptiste alikuwa nani, binamu au jamaa ya Mariamu?",
+        "options": [
+          "Anne",
+          "Elizabeth",
+          "Salome",
+          "Martha"
+        ],
+        "correct": 1,
+        "explanation": "Elizabeti, akiwa mzee sana na ambaye hapo awali alikuwa tasa, alimzaa Yohana Mbatizaji kwa furaha (Luka 1:5-58)."
+      },
+      {
+        "question": "Mtume gani alikuwa ndugu ya Yakobo (wana wawili wa Zebedayo)?",
+        "options": [
+          "Mwamba",
+          "Jeans",
+          "Andrew",
+          "Philip"
+        ],
+        "correct": 1,
+        "explanation": "Yakobo na Yohana, wana wa Zebedayo, walikuwa wavuvi kwenye Ziwa Galilaya kabla ya kuitwa na Yesu (Mk 1:19)."
+      },
+      {
+        "question": "Ni mtume gani aliyemleta ndugu yake Simoni Petro kwa Yesu akisema: ‘Tumempata Masihi’?",
+        "options": [
+          "Philip",
+          "Andrew",
+          "Thomas",
+          "Mathayo"
+        ],
+        "correct": 1,
+        "explanation": "Andrea, mfuasi wa kwanza wa Yohana Mbatizaji, mara moja akaenda kumtafuta ndugu yake Simoni (Yohana 1:40-42)."
+      },
+      {
+        "question": "Ni mwanafunzi gani aliyemwambia Nathanaeli kuhusu Yesu, ‘Njoo uone’?",
+        "options": [
+          "Mwamba",
+          "Philip",
+          "Thomas",
+          "Yuda"
+        ],
+        "correct": 1,
+        "explanation": "Nathanaeli alipouliza kama kuna kitu kizuri kinaweza kutoka Nazareti, Filipo alimwalika aje kuona (Yohana 1:45-46)."
+      },
+      {
+        "question": "Ni Mwisraeli gani asiyedanganywa ambaye Yesu alimsifu kwa kusema kwamba alimwona chini ya mtini?",
+        "options": [
+          "Zakayo",
+          "Nathanaël (Barthélemy)",
+          "Nikodemo",
+          "Lazaro"
+        ],
+        "correct": 1,
+        "explanation": "Mara Nathanaeli akakiri hivi: 'Rabi, wewe ni Mwana wa Mungu, wewe ni mfalme wa Israeli!' ( Yohana 1:47-49 )."
+      },
+      {
+        "question": "Ni nani aliyekuwa dada ya Lazaro na Mariamu ambaye alihudumu na kukiri, ‘Wewe ndiwe Kristo, Mwana wa Mungu’?",
+        "options": [
+          "Salome",
+          "Martha",
+          "Lydia",
+          "Prisila"
+        ],
+        "correct": 1,
+        "explanation": "Kabla ya ufufuo wa Lazaro, Martha alikiri imani ya ajabu mbele ya Yesu (Yohana 11:27)."
+      },
+      {
+        "question": "Ni mtu gani kutoka Bethania ambaye Yesu alimfufua kutoka kwa wafu baada ya siku nne kaburini?",
+        "options": [
+          "Bartimayo",
+          "Lazaro",
+          "Yairo",
+          "Epafrodite"
+        ],
+        "correct": 1,
+        "explanation": "Yesu akalia kwa sauti kuu: 'Lazaro, njoo huku nje!' na yule aliyekufa akatoka, amefungwa mikono na miguu kwa kamba (Yohana 11:43-44)."
+      },
+      {
+        "question": "Ni mshiriki yupi mchanga aliyeandamana na Paulo katika safari zake na kupokea barua mbili zenye jina lake?",
+        "options": [
+          "Barnaba",
+          "Timotheo",
+          "Apolo",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Mwanzoni kutoka Listra, Timotheo alikuwa na mama Myahudi aliyeamini (Eunike) na baba Mgiriki (Matendo 16:1-3)."
+      },
+      {
+        "question": "Ni mwandamani gani aliandamana na Paulo katika safari ya pili ya umishonari baada ya Barnaba kuondoka?",
+        "options": [
+          "Weka alama",
+          "Sila (Silvain)",
+          "Luka",
+          "Mwamba"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alimchagua Sila, mtu mwenye heshima katika kanisa la Yerusalemu, ambaye aliimba naye sifa katika gereza la Filipi (Matendo 15:40; 16:25)."
+      },
+      {
+        "question": "Ni tabibu gani mpendwa aliandamana na Paulo na kuandika Injili ya tatu na Matendo ya Mitume?",
+        "options": [
+          "Weka alama",
+          "Luka",
+          "Barnaba",
+          "Tito"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anamwita ‘Luka, tabibu mpenzi’ katika Wakolosai 4:14 ."
+      },
+      {
+        "question": "Ni mfalme gani aliamuru Yohana Mbatizaji akatwe kichwa kwa msukumo wa Herodia na binti yake?",
+        "options": [
+          "Herode Mkuu",
+          "Herode Antipa",
+          "Herode Agripa II",
+          "Pontio Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Herode Antipa, mtawala wa Galilaya na Perea, kwa woga alikubali kiapo chake kisichojali (Mk 6:14-29)."
+      },
+      {
+        "question": "Ni gavana gani wa Kirumi aliyetangaza 'Sioni hatia kwa mtu huyu' na bado akamtoa Yesu msalabani?",
+        "options": [
+          "Felix",
+          "Pontio Pilato",
+          "Festo",
+          "Gallioni"
+        ],
+        "correct": 1,
+        "explanation": "Pilato alinawa mikono yake mbele ya umati huku akikubali shinikizo la kisiasa (Mathayo 27:24)."
+      },
+      {
+        "question": "Baba ya Sulemani na mwandishi wa zaburi nyingi alikuwa nani?",
+        "options": [
+          "Sauli",
+          "Daudi",
+          "Yonathani",
+          "Samweli"
+        ],
+        "correct": 1,
+        "explanation": "Daudi alimuoa Bathsheba na Sulemani alizaliwa kutokana na muungano huu, aliyechaguliwa na Mungu kujenga Hekalu (2 Samweli 12:24)."
+      },
+      {
+        "question": "Ni mwanamke gani mcha Mungu aliyesali kimya-kimya katika patakatifu pa Shilo kwa ajili ya mwana na akamzaa Samweli?",
+        "options": [
+          "Penina",
+          "Anne (Hanna)",
+          "Naomi",
+          "Debora"
+        ],
+        "correct": 1,
+        "explanation": "Hana aliahidi kwamba ikiwa Bwana angempa mtoto wa kiume, atamtoa kwa ajili ya utumishi wake maisha yake yote (1 Samweli 1:11)."
+      },
+      {
+        "question": "Ni jitu gani la Kifilisti lenye urefu wa zaidi ya dhiraa sita lilidharau jeshi la Israeli kwa muda wa siku arobaini?",
+        "options": [
+          "Og",
+          "Goliathi wa Gathi",
+          "Sisera",
+          "Senakeribu"
+        ],
+        "correct": 1,
+        "explanation": "Goliathi aliwashinda Israeli asubuhi na jioni hadi kijana Daudi alipompiga kwa jina la Bwana wa majeshi (1 Samweli 17)."
+      },
+      {
+        "question": "Ni mhusika gani wa Agano la Kale aliyeuzwa kwa Misri lakini akawa namba mbili katika ufalme baada ya Farao?",
+        "options": [
+          "Musa",
+          "Joseph",
+          "Daniel",
+          "Haruni"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alimtoa Yusufu kutoka gerezani hadi kwenye jumba la kifalme ili kuokoa Misri na familia yake kutoka kwa njaa (Mwanzo 41)."
+      },
+      {
+        "question": "Dada mkubwa wa Musa alikuwa nani ambaye alitazama kikapu chake kwenye Mto Nile na kuongoza nyimbo za wanawake baada ya Bahari Nyekundu?",
+        "options": [
+          "Sephora",
+          "Miriam (Marie)",
+          "Debora",
+          "Rachael"
+        ],
+        "correct": 1,
+        "explanation": "Miriamu akatwaa tari, akaimba, Mwimbieni BWANA, kwa maana ameufanya utukufu wake kung'aa. (Kutoka 15:20-21)."
+      },
+      {
+        "question": "Ni mfalme gani wa Babeli aliyewatupa marafiki watatu wa Danieli katika tanuru ya moto na kisha kutambua ukuu wa Mungu wao?",
+        "options": [
+          "Koreshi",
+          "Nebukadreza",
+          "Belshaza",
+          "Dario"
+        ],
+        "correct": 1,
+        "explanation": "Nebukadreza alishangaa kuona watu wanne wakitembea kwa uhuru katikati ya moto na akamsifu Mungu wa Shadraka, Meshaki na Abednego (Danieli 3:24-28)."
+      },
+      {
+        "question": "Ni mfalme gani wa Umedi na Uajemi aliyelazimishwa kwa amri yake mwenyewe kumtupa Danieli katika tundu la simba, na kulala usiku kucha akifunga kwa ajili yake?",
+        "options": [
+          "Nebukadreza",
+          "Dario Mmedi",
+          "Ahasuero",
+          "Belshaza"
+        ],
+        "correct": 1,
+        "explanation": "Dario alifurahi sana kulipopambazuka kumpata Danieli akiwa salama na akatoa amri ya kumheshimu Mungu aliye hai (Danieli 6:18-26)."
+      },
+      {
+        "question": "Ni kiongozi gani wa Sanhedrini aliyekuja kwa Yesu usiku na kisha kutetea kesi ya haki na kushiriki katika maziko yake?",
+        "options": [
+          "Kayafa",
+          "Nikodemo",
+          "Gamalieli",
+          "Anasi"
+        ],
+        "correct": 1,
+        "explanation": "Nikodemo alileta takriban pauni mia moja za mchanganyiko wa manemane na udi ili kumzika Yesu (Yohana 19:39)."
+      },
+      {
+        "question": "Ni mtume gani aliyechaguliwa kwa kura katika Matendo 1 kuchukua nafasi ya Yuda Iskariote?",
+        "options": [
+          "Barnaba",
+          "Mathiya",
+          "Etienne",
+          "Sila"
+        ],
+        "correct": 1,
+        "explanation": "Kati ya Yusufu Barsaba na Mathia, kura ilimwangukia Mathia, ambaye alishirikiana na wale mitume kumi na mmoja (Matendo 1:23-26)."
+      },
+      {
+        "question": "Ni mfuasi gani wa Damasko aliyepokea katika njozi amri ya kumwekea mikono Sauli wa Tarso ambaye amekuwa kipofu?",
+        "options": [
+          "Barnaba",
+          "Anania",
+          "Philip",
+          "Agabo"
+        ],
+        "correct": 1,
+        "explanation": "Licha ya hofu yake halali ya mtesaji, Anania alitii na kumkaribisha Sauli, akimwita ‘Sauli ndugu yangu’ ( Matendo 9:10-17 )."
+      },
+      {
+        "question": "Ni mfalme gani aliyemuua Yakobo, ndugu ya Yohana, na kumfunga Petro kabla ya kupigwa na malaika huko Kaisaria?",
+        "options": [
+          "Herode Mkuu",
+          "Herode Agripa I",
+          "Herode Antipa",
+          "Nero"
+        ],
+        "correct": 1,
+        "explanation": "Herode Agripa wa Kwanza alikubali matamko ya kimungu ya watu wa Kaisaria na mara moja akafa akiwa ameliwa na wadudu (Matendo 12:21-23)."
+      },
+      {
+        "question": "Mwinjilisti yupi anatambulishwa kimapokeo na yule kijana aliyevaa kitani aliyekimbia Yesu alipokamatwa (Marko 14:51-52)?",
+        "options": [
+          "Paulo",
+          "Jean-Marc (kulingana na utamaduni)",
+          "Luka",
+          "Thomas"
+        ],
+        "correct": 1,
+        "explanation": "Marc ndiye pekee aliyemtaja kijana huyu aliyevalia shuka ambaye hukimbia uchi, mara nyingi hutambuliwa na Marc mwenyewe kama saini ya busara."
       }
     ],
     "intermediaire": [
@@ -1256,6 +1674,391 @@
         ],
         "correct": 1,
         "explanation": "Yoabu alikuwa jemadari mkuu wa Daudi na mpwa wake (mtoto wa dada yake Ceruya). Alimuua Abneri kwa hila (2 Samweli 3:27) na Amasa (2 Samweli 20:10), na kushiriki katika mauaji ya Absalomu. Katika kitanda chake cha kufa, Daudi alimwomba Sulemani amwadhibu—Sulemani aliamuru auawe (1 Wafalme 2:34)."
+      },
+      {
+        "question": "Baba-mkwe wa Musa alikuwa nani aliyemshauri kuwakabidhi waamuzi waaminifu mambo ya sasa?",
+        "options": [
+          "Labani",
+          "Yethro (Reueli)",
+          "Balaamu",
+          "Kalebu"
+        ],
+        "correct": 1,
+        "explanation": "Yethro alimwona Musa akijichosha tangu asubuhi hadi jioni na akamshauri ateue viongozi wa maelfu, wa mamia, wa hamsini na wa kumi (Kutoka 18:13-24)."
+      },
+      {
+        "question": "Ni mpwa gani wa Mfalme Sauli aliyekuwa kiongozi mkuu wa jeshi lake kabla ya kuuawa na Yoabu?",
+        "options": [
+          "Amass",
+          "Abneri",
+          "Benaia",
+          "Mkojo"
+        ],
+        "correct": 1,
+        "explanation": "Abneri alijaribu kukusanya makabila ya kaskazini kwa Daudi, lakini Yoabu alimuua ili kulipiza kisasi kwa kifo cha Asaeli (2 Samweli 3:27)."
+      },
+      {
+        "question": "Ni askari gani Mhiti aliyekuwa mwaminifu kwa Daudi aliyetumwa mstari wa mbele kufa ili kuficha uzinzi wa mfalme?",
+        "options": [
+          "Yoabu",
+          "Uria Mhiti",
+          "Abneri",
+          "Itai"
+        ],
+        "correct": 1,
+        "explanation": "Uria alikataa hata kufurahia starehe za nyumbani kwake wakati Sanduku na wenzake walipiga kambi uwandani (2 Samweli 11:11)."
+      },
+      {
+        "question": "Ni mshauri gani mwenye hekima lakini mwenye chuki aliyemsaliti Daudi ili ajiunge na uasi wa Absalomu kisha akajinyonga shauri lake lilipokataliwa?",
+        "options": [
+          "Hushai",
+          "Ahitofeli",
+          "Shimei",
+          "Tsiba"
+        ],
+        "correct": 1,
+        "explanation": "Ahithofeli alijulikana kwa ushauri wake kama maneno kutoka kwa Mungu, lakini Mungu alizuia ushauri wake kupitia Hushai Arkia (2 Samweli 15-17)."
+      },
+      {
+        "question": "Ni mtu gani wa familia ya Sauli aliyemlaani Daudi na kumrushia mawe alipokuwa akimkimbia Absalomu?",
+        "options": [
+          "Mefiboshethi",
+          "Shimei",
+          "Abneri",
+          "Barzilai"
+        ],
+        "correct": 1,
+        "explanation": "Daudi alimzuia Abishai asimuue kwa kusema, ‘Labda BWANA atayatazama mateso yangu’ ( 2 Samweli 16:5-12 )."
+      },
+      {
+        "question": "Ni mzee gani mkarimu kutoka Gileadi aliyempa Daudi na jeshi lake lililokuwa limechoka huko Mahanaimu wakati wa uasi wa Absalomu?",
+        "options": [
+          "Nabali",
+          "Barzilai",
+          "Boazi",
+          "Yethro"
+        ],
+        "correct": 1,
+        "explanation": "Akiwa na umri wa miaka 80, Barzilai alikataa mwaliko wa kuishi katika mahakama ya Yerusalemu lakini akampendekeza mwanawe Kimham kwa Daudi (2 Samweli 19:32-38)."
+      },
+      {
+        "question": "Ni mwanamume gani tajiri na mkatili kutoka Karmeli alikataa ukarimu kwa Daudi, kabla ya mke wake Abigaili kuokoa nyumba yake?",
+        "options": [
+          "Labani",
+          "Nabali",
+          "Akani",
+          "Gehazi"
+        ],
+        "correct": 1,
+        "explanation": "Nabali ('mpumbavu') alikufa siku kumi baadaye, na Daudi akamwoa Abigaili mwenye hekima na mrembo (1 Samweli 25)."
+      },
+      {
+        "question": "Ni mfalme gani wa Yuda aliyefanya mapatano pamoja na Ahabu licha ya maonyo ya kiunabii, lakini pia alipanga mafundisho ya Sheria na kumsifu Mungu mbele ya majeshi ya adui?",
+        "options": [
+          "Rehoboamu",
+          "Yehoshafati",
+          "Ahazi",
+          "Manase"
+        ],
+        "correct": 1,
+        "explanation": "Wakati wa uvamizi wa Moabu na Amoni, Yehoshafati aliweka waimbaji mbele ya jeshi, wakitangaza: 'Msifuni BWANA, kwa maana fadhili zake ni za milele!' ( 2 Mambo ya Nyakati 20:21 )."
+      },
+      {
+        "question": "Ni malkia gani asiyemwogopa Mungu wa asili ya Israeli (binti ya Ahabu na Yezebeli) alinyakua kiti cha ufalme cha Yuda na kuharibu familia ya kifalme?",
+        "options": [
+          "Bathsheba",
+          "Athalie",
+          "Vashti",
+          "Delila"
+        ],
+        "correct": 1,
+        "explanation": "Athalia alitawala juu ya Yuda kwa miaka sita hadi kuhani mkuu Yehoyada alipomvisha taji mwana mfalme Yoashi aliyefichwa Hekaluni (2 Wafalme 11)."
+      },
+      {
+        "question": "Ni kuhani mkuu yupi aliyeongoza kurejeshwa kwa ibada ya Daudi na kiti cha ufalme kinachostahili kwa kumwangusha Athalia?",
+        "options": [
+          "Hilkija",
+          "Yehoyada",
+          "Tzadok",
+          "Abiatar"
+        ],
+        "correct": 1,
+        "explanation": "Muda wote wa maisha ya Yehoyada, mfalme Yoashi alifanya yaliyo mema machoni pa BWANA (2 Wafalme 12:2)."
+      },
+      {
+        "question": "Ni nabii gani aliyetumwa na Elisha kumtia mafuta Yehu kwa siri huko Ramoth-Gileadi?",
+        "options": [
+          "Gehazi",
+          "Mtoto mdogo wa manabii",
+          "Mika",
+          "Amosi"
+        ],
+        "correct": 1,
+        "explanation": "Nabii kijana alimimina mafuta juu ya kichwa cha Yehu na kukimbia mara tu baada ya kutangaza hukumu juu ya nyumba ya Ahabu (2 Wafalme 9:1-10)."
+      },
+      {
+        "question": "Ni ofisa gani Mwethiopia katika utumishi wa Mfalme Sedekia aliyemwokoa Yeremia kutoka kwenye kisima chenye matope kwa kamba na vitambaa kuukuu?",
+        "options": [
+          "Baruku",
+          "Ébed-Mélec",
+          "Guedalia",
+          "Pashur"
+        ],
+        "correct": 1,
+        "explanation": "Kama thawabu kwa imani na ujasiri wake, Mungu aliahidi Ebed-meleki kwamba maisha yake yangeokolewa wakati wa kutekwa kwa Yerusalemu (Yeremia 38-39)."
+      },
+      {
+        "question": "Ni gavana gani aliyeteuliwa na Babeli juu ya Yuda iliyobaki baada ya 586 KK? aliuawa na Ishmaeli?",
+        "options": [
+          "Zerubabeli",
+          "Guedalia",
+          "Nehemia",
+          "Sedekia"
+        ],
+        "correct": 1,
+        "explanation": "Gedalia alitawala huko Mispa na kuwaita waliosalia kuishi kwa amani chini ya Babeli (2 Wafalme 25:22-25; Yeremia 40-41)."
+      },
+      {
+        "question": "Ni gavana gani wa Yuda aliyeongoza msafara mkubwa wa kwanza kurudi kutoka uhamishoni pamoja na kuhani mkuu Yoshua?",
+        "options": [
+          "Nehemia",
+          "Zerubabeli",
+          "Ezra",
+          "Mordekai"
+        ],
+        "correct": 1,
+        "explanation": "Zerubabeli, mjukuu wa Mfalme Yehoyakini, aliweka misingi ya Hekalu la Pili licha ya upinzani wa ndani (Ezra 2-4; Hagai 2:23)."
+      },
+      {
+        "question": "Ni malkia gani wa Uajemi aliyepoteza taji lake kwa kukataa kwenda mbele ya wageni walevi wa Mfalme Ahasuero, na kumtengenezea Esta njia?",
+        "options": [
+          "Zereshi",
+          "Vashti",
+          "Delila",
+          "Yezebeli"
+        ],
+        "correct": 1,
+        "explanation": "Kukataa kwa Vashti kutii kuliongoza washauri wa kifalme kupanga uchaguzi wa malkia mpya ( Esta 1-2 )."
+      },
+      {
+        "question": "Ni mfalme gani wa Yuda, tofauti na mwanawe Hezekia, alikataa ishara kutoka kwa Mungu kwa kutokuamini na akapendelea muungano na Ashuru?",
+        "options": [
+          "Yosia",
+          "Ahazi",
+          "Asa",
+          "Daudi"
+        ],
+        "correct": 1,
+        "explanation": "Ilikuwa katika uso wa kutokuamini kwa Ahazi ambapo Isaya alitamka neno la Imanueli katika Isaya 7:10-14."
+      },
+      {
+        "question": "Ni fundi gani wa Israeli, mwana wa Uri wa kabila la Yuda, alijazwa na Roho wa Mungu kutengeneza Hema na Sanduku?",
+        "options": [
+          "Hiram",
+          "Bezaleli (akisaidiwa na Oholiabu)",
+          "Sulemani",
+          "Gideoni"
+        ],
+        "correct": 1,
+        "explanation": "Bezaleli na Oholiabu walipewa hekima ya kisanaa na ujuzi na Roho wa Mungu (Kutoka 31:1-6)."
+      },
+      {
+        "question": "Ni mfalme gani wa Tiro aliyempa Daudi na kisha Sulemani mbao za mierezi na wafanyakazi stadi kwa ajili ya Hekalu?",
+        "options": [
+          "Ahabu",
+          "Hiram",
+          "Ben Hadadi",
+          "Balaki"
+        ],
+        "correct": 1,
+        "explanation": "Hiramu, mfalme wa Tiro, alimpenda Daudi na akafanya mapatano ya kindugu na Sulemani kwa ajili ya ujenzi wa Hekalu (1 Wafalme 5)."
+      },
+      {
+        "question": "Ni mfalme gani wa Moabu aliyemwajiri Balaamu, mchawi, ili awalaani Israeli kwenye nchi tambarare za Moabu?",
+        "options": [
+          "Sihoni",
+          "Balaki",
+          "Og",
+          "Egloni"
+        ],
+        "correct": 1,
+        "explanation": "Kila Balaki alipotaka kuwalaani Israeli, Mungu alibadilisha maneno ya Balaamu kuwa baraka (Hesabu 22-24)."
+      },
+      {
+        "question": "Ni mama na mwana gani waliofukuzwa katika jangwa la Beer-sheba lakini wakaokolewa na malaika wa Bwana aliyefungua kisima cha maji?",
+        "options": [
+          "Sara na Isaka",
+          "Hajiri na Ishmaeli",
+          "Rebeka na Esau",
+          "Léa na Ruben"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alisikia sauti ya mtoto na kumwahidi Hajiri kwamba Ishmaeli angekuwa taifa kubwa (Mwanzo 21:14-20)."
+      },
+      {
+        "question": "Ni nabii gani aliyemkemea Mfalme Asa kisha akawekwa gerezani naye kwa kumkumbusha kwamba anapaswa kumtegemea Mungu kuliko Siria?",
+        "options": [
+          "Nathan",
+          "Hanani Mwonaji",
+          "Eliya",
+          "Amosi"
+        ],
+        "correct": 1,
+        "explanation": "‘BWANA anaunyoosha macho yake duniani mwote, ili kuwategemeza wale ambao mioyo yao imejitoa kwake kikamilifu’ (2 Mambo ya Nyakati 16:7-10)."
+      },
+      {
+        "question": "Ni nabii gani wa kike aliyeshauriwa na wajumbe wa Yosia aliyethibitisha Kitabu cha Sheria kilichopatikana Hekaluni?",
+        "options": [
+          "Debora",
+          "Hulda",
+          "Miriam",
+          "Anne"
+        ],
+        "correct": 1,
+        "explanation": "Hulda, aliyeishi Yerusalemu katika robo ya pili, alitangaza hukumu juu ya Yuda huku akimuahidi Yosia kufa kwa amani kabla ya maafa (2 Wafalme 22:14-20)."
+      },
+      {
+        "question": "Ni mhusika gani wa AJ alikuwa mfalme wa Kiyahudi ambaye Paulo alitoa utetezi wake maarufu mbele yake ('Bado kidogo, nawe utanishawishi niwe Mkristo')?",
+        "options": [
+          "Herode Mkuu",
+          "Herode Agripa II (pamoja na Berenike)",
+          "Pontio Pilato",
+          "Kaisari Augusto"
+        ],
+        "correct": 1,
+        "explanation": "Agripa II alikubaliana na Festo kwamba Paulo hakuwa amefanya jambo lolote linalostahili kifo au kifungo (Matendo 26:28-32)."
+      },
+      {
+        "question": "Ni gavana gani Mroma wa Yudea aliyetarajia kupokea pesa kutoka kwa Paulo na kumwacha gerezani huko Kaisaria kwa miaka miwili?",
+        "options": [
+          "Gallioni",
+          "Felix",
+          "Festo",
+          "Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Feliksi aliogopa wakati Paulo alipozungumza juu ya haki, kiasi, na hukumu inayokuja (Matendo 24:24-27)."
+      },
+      {
+        "question": "Ni mrithi gani wa Feliksi aliyemwambia Paulo hivi: ‘Wewe Paulo! Ujuzi wako mkubwa unakufanya upoteze akili?",
+        "options": [
+          "Gallioni",
+          "Porkio Festo",
+          "Sergio Paulo",
+          "Lisia"
+        ],
+        "correct": 1,
+        "explanation": "Ilikuwa mbele ya Festo ambapo Paulo alitumia haki yake kama raia wa Roma kwa kukata rufani kwa Kaisari ( Mdo. 25:11; 26:24 )."
+      },
+      {
+        "question": "Je! ni kamanda gani wa Kirumi huko Yerusalemu aliyemwokoa Paulo kutokana na kushambuliwa kwa umati na kisha kutoka kwenye shambulio la wale waliokula njama 40?",
+        "options": [
+          "Kunguru",
+          "Claude Lisia",
+          "Julius",
+          "Felix"
+        ],
+        "correct": 1,
+        "explanation": "Klaudio Lisia aliagiza Paulo asindikizwe usiku hadi Kaisaria akiwa na askari 470, wapanda farasi na wapiga mishale (Matendo 23:23-26)."
+      },
+      {
+        "question": "Je! ni akida yupi wa kundi la agust alimtendea Paulo ubinadamu wakati wa kuvuka na kuanguka kwa meli kwenda Rumi?",
+        "options": [
+          "Kunguru",
+          "Julius",
+          "Longin",
+          "Lisia"
+        ],
+        "correct": 1,
+        "explanation": "Yulio aliwazuia askari wasiwaue wafungwa wakati wa ajali ya meli kule Malta ili kumwokoa Paulo (Matendo 27:3,43)."
+      },
+      {
+        "question": "Ni mshiriki yupi wa Paulo aliyeachwa Krete ili kupanga Makanisa na kutekeleza utume maridadi huko Korintho?",
+        "options": [
+          "Timotheo",
+          "Tito",
+          "Sila",
+          "Nyara"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anamwita Tito ‘mwenzangu na mwenzangu kati yenu’ ( 2 Wakorintho 8:23; Tito 1:4-5 )."
+      },
+      {
+        "question": "Ni Mkristo gani tajiri huko Kolosai aliyepokea barua ya Paulo iliyomwalika amkaribishe mtumwa wake mkimbizi akiwa ndugu?",
+        "options": [
+          "Gayo",
+          "Filemoni",
+          "Diotrefe",
+          "Arkipo"
+        ],
+        "correct": 1,
+        "explanation": "Paulo hata aliahidi kulipa makosa yoyote yaliyosababishwa na Onesmo kwa mkono wake mwenyewe (Filemoni 1:18-19)."
+      },
+      {
+        "question": "Ni mwandamani gani wa Paulo aliyekuwa amemwacha kwanza huko Perge katika Pamfilia, na kusababisha mfarakano na Barnaba, kabla ya kurekebishwa baadaye?",
+        "options": [
+          "Luka",
+          "Jean-Marc",
+          "Sila",
+          "Dema"
+        ],
+        "correct": 1,
+        "explanation": "Katika 2 Timotheo 4:11 , hatimaye Paulo anaandika: 'Mchukue Marko uje naye, kwa maana anifaa kwa huduma.'"
+      },
+      {
+        "question": "Ni mfanyakazi yupi wa zamani aliyemwacha Paulo mwishoni mwa maisha yake 'kwa kupenda ulimwengu huu' (2 Timotheo 4:10)?",
+        "options": [
+          "Tito",
+          "Dema",
+          "Luka",
+          "Tikiko"
+        ],
+        "correct": 1,
+        "explanation": "Dema aliondoka kwenda Thesalonike, tofauti na uaminifu wa Luka ambaye alibaki peke yake na Paulo."
+      },
+      {
+        "question": "Ni mchukua barua gani mwaminifu aliyepeleka nyaraka kwa Waefeso na Wakolosai kwa niaba ya Paulo?",
+        "options": [
+          "Onesimo",
+          "Tikiko",
+          "Epafra",
+          "Apolo"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anamfafanua kuwa ‘ndugu mpendwa na mtumishi mwaminifu katika Bwana’ ( Waefeso 6:21; Wakolosai 4:7 )."
+      },
+      {
+        "question": "Ni mwanzilishi gani anayewezekana wa Kanisa la Kolosai anayesifiwa na Paulo kwa ajili ya mapambano yake ya maombi kwa niaba ya Wakolosai?",
+        "options": [
+          "Tito",
+          "Epafra",
+          "Barnaba",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Epafra (haipaswi kuchanganywa na Epafrodito wa Filipi) anaitwa 'mtumishi mwenzetu mpendwa' (Wakolosai 1:7; 4:12)."
+      },
+      {
+        "question": "Ni kiongozi gani mwenye kiburi wa Kanisa la mtaa alikataa kuwakaribisha wajumbe wa Mtume Yohana (3 Yohana 9)?",
+        "options": [
+          "Gayo",
+          "Diotrefe",
+          "Demetrius",
+          "Alexander"
+        ],
+        "correct": 1,
+        "explanation": "Yohana anatofautisha ubatili wa kidhalimu wa Diotrefe na ukarimu mwaminifu wa Gayo na ushuhuda mzuri wa Demetrio."
+      },
+      {
+        "question": "Ni Mlawi gani kutoka Kupro aliyeuza shamba na kuleta bei kwa mitume, akipokea jina la utani Barnaba?",
+        "options": [
+          "Anania",
+          "Joseph (kutoka Cyprus)",
+          "Simoni wa Kurene",
+          "Nikodemo"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 4:36 inaeleza kwamba Barnaba maana yake ni 'mwana wa faraja/faraja'."
       }
     ],
     "expert": [
@@ -1720,6 +2523,567 @@
         ],
         "correct": 1,
         "explanation": "Mariamu ana busara sana katika Agano Jipya: yupo kwenye Matamshi (Luka 1:38: 'Mimi ni mjakazi wa Bwana'), wakati wa kuzaliwa, huko Kana (Yohana 2:3-5), wakati mwingine na familia inayomtafuta Yesu (Mathayo 12:46), Msalabani (Yohana 19:26-27), na katika Chumba cha Juu 1: Matendo ya Mitume 4 wakiomba pamoja na wanafunzi. Waraka wa Yohana na nyaraka za Paulo haziitaji. Ukuu Wake (Luka 1:46-55) ni usemi kamili zaidi wa theolojia yake."
+      },
+      {
+        "question": "Melkizedeki alikuwa nani katika Mwanzo 14 na kwa nini Waebrania wanamwona kuwa mkuu kuliko ukuhani wa Walawi?",
+        "options": [
+          "Shujaa rahisi kutoka Misri",
+          "Mfalme wa Salemu na kuhani wa Mungu Aliye Juu Sana asiyeandikiwa nasaba, ambaye alimbariki Ibrahimu na kupokea sehemu ya kumi kutoka kwake (pamoja na Lawi bado katika Ibrahimu)",
+          "Malaika aliyeanguka",
+          "Baba yake Ibrahimu"
+        ],
+        "correct": 1,
+        "explanation": "Cheo chake cha pande mbili kama mfalme wa haki/amani na kuhani wa milele bila ukoo wa Walawi humfanya kuwa mfano wa moja kwa moja wa Kristo (Waebrania 7:1-17)."
+      },
+      {
+        "question": "Je, ni jukumu gani la kitendawili la Tamari katika Mwanzo 38 katika nasaba ya kimasihi ya Mathayo 1?",
+        "options": [
+          "Ametengwa",
+          "Alimlazimisha Yuda atambue ukosefu wake wa haki (“Yeye ni mwenye haki kuliko mimi”), akawa babu wa Pereti, Daudi na Yesu.",
+          "Alikuwa binti wa Farao",
+          "Aliharibu kabila la Yuda"
+        ],
+        "correct": 1,
+        "explanation": "Mathayo 1:3-6 kwa makusudi inajumuisha wanawake wanne wa ajabu (Tamari, Rahabu, Ruthu, Bathsheba) wanaoonyesha neema kuu ya Mungu."
+      },
+      {
+        "question": "Ni kiongozi yupi mwaminifu-mshikamanifu wa Daudi aliyesimama karibu naye wakati hata Waisraeli walipomwacha, na kutangaza ushikamanifu wake mbele ya Kidroni?",
+        "options": [
+          "Yoabu",
+          "Itai Mgathi (Mfilisti aliyegeuzwa kuwa mwaminifu kwa watiwa-mafuta wa Mungu)",
+          "Abneri",
+          "Absalomu"
+        ],
+        "correct": 1,
+        "explanation": "Mgeni kutoka Gathi ambaye alifika siku iliyotangulia, Itai aliapa kumfuata Daudi katika maisha na kifo (2 Samweli 15:19-21)."
+      },
+      {
+        "question": "Ni nabii gani asiyejulikana aliyeitwa tu ‘mtu wa Mungu wa Yuda’ ( 1 Wafalme 13 ) aliyeasi amri ya Mungu baada ya kudanganywa na nabii mzee kutoka Betheli?",
+        "options": [
+          "Ahija",
+          "Mtu wa Mungu aliuawa na simba njiani kuelekea nyumbani",
+          "Mika mwana wa Jimla",
+          "Elisha"
+        ],
+        "correct": 1,
+        "explanation": "Maelezo yake ni ukumbusho mkali kwamba neno ambalo tayari limepokelewa kutoka kwa Mungu halipaswi kamwe kubatilishwa na madai ya nabii mwingine (Wagalatia 1:8)."
+      },
+      {
+        "question": "Yehosheba alikuwa nani, shujaa asiyejulikana sana wa 2 Wafalme 11 aliyeokoa ukoo wa kimasiya wa Daudi?",
+        "options": [
+          "Mke wa Ahabu",
+          "Dada ya Mfalme Ahazia na mke wa kuhani mkuu Yehoyada, ambaye alimficha mtoto Yoashi mwenye umri wa miaka sita kwenye Hekalu.",
+          "Mama yake Sulemani",
+          "Dada yake Musa"
+        ],
+        "correct": 1,
+        "explanation": "Bila hatua ya Yehosheba ya ujasiri mbele ya kuuawa kwa Athalia, ukoo wa kifalme wa Daudi ungezimwa."
+      },
+      {
+        "question": "Ni kielelezo gani cha ajabu katika Ayubu 1-2 ('ha-Shetani' chenye kibainishi cha uhakika) kinaashiria jukumu la kisheria?",
+        "options": [
+          "Muumba wa uovu kabisa",
+          "‘Mshitaki/Adui’ anayetokea mbele ya baraza la kimbingu ili kupinga uaminifu-maadili usio na ubinafsi wa Ayubu chini ya mamlaka kuu ya Mungu.",
+          "Mfalme wa Babeli",
+          "Rafiki wa Ayubu"
+        ],
+        "correct": 1,
+        "explanation": "Katika Ayubu 1-2, Shetani anaweza tu kutenda ndani ya mipaka mikali iliyowekwa na Mungu, akionyesha tabia isiyo ya uwili ya theolojia ya Biblia."
+      },
+      {
+        "question": "Ni mhusika gani wa Agano la Kale anayetajwa katika Yakobo 5:17 kama mtu 'wa tabia sawa na sisi' ambaye maombi yake ya dhati yalifungwa na kisha kufungua mbingu?",
+        "options": [
+          "Musa",
+          "Eliya",
+          "Daniel",
+          "Samweli"
+        ],
+        "correct": 1,
+        "explanation": "Yakobo anakanusha mashujaa wakuu wa Biblia ili kuhimiza kila mwamini kuomba kwa imani na uvumilivu."
+      },
+      {
+        "question": "Ni mfalme gani wa Yuda, baba yake Hezekia, aliyefunga milango ya Hekalu na kuingiza madhabahu ya Kiaramu kutoka Dameski hadi patakatifu?",
+        "options": [
+          "Yosia",
+          "Ahazi",
+          "Uzia",
+          "Yehoshafati"
+        ],
+        "correct": 1,
+        "explanation": "Ahazi hata alimtoa mwanawe dhabihu kwa moto na kuiga madhabahu ya kipagani ya Tiglath-pileseri huko Dameski (2 Wafalme 16:3,10-16)."
+      },
+      {
+        "question": "Ni mwanamatengenezo gani wa kifalme katika Yuda aliyetuma Walawi na wakuu kufundisha kitabu cha Sheria katika majiji yote ya Yuda?",
+        "options": [
+          "Rehoboamu",
+          "Yehoshafati ( 2 Mambo ya Nyakati 17:7-9 )",
+          "Ahabu",
+          "Yeroboamu"
+        ],
+        "correct": 1,
+        "explanation": "Mafundisho ya hadharani katika Torati chini ya Yehoshafati yalileta woga wenye heshima kwa Mungu hata kwa falme jirani."
+      },
+      {
+        "question": "Ni kuhani gani mwaminifu kutoka katika ukoo wa Eleazari aliyekuwa mkuu wa ukuhani chini ya Sulemani, akitoa jina lake kwa ‘wana wa Sadoki’?",
+        "options": [
+          "Abiatar",
+          "Tzadok",
+          "Eli",
+          "Hophni"
+        ],
+        "correct": 1,
+        "explanation": "Abiatari akiwa amemuunga mkono Adonia aliondolewa (kutimiza neno dhidi ya nyumba ya Eli), na Sadoki akabaki kuwa kuhani mkuu pekee (1 Wafalme 2:26-35)."
+      },
+      {
+        "question": "Ni mwandishi gani na mhudumu wa Mfalme Yosia aliyetoa Kitabu cha Sheria kilichopatikana Hekaluni?",
+        "options": [
+          "Baruku",
+          "Shafani",
+          "Ezra",
+          "Nehemia"
+        ],
+        "correct": 1,
+        "explanation": "Familia ya Shafani (hasa wanawe Ahikamu, Gemaria na mjukuu wake Gedalia) baadaye walimlinda Yeremia mara kadhaa."
+      },
+      {
+        "question": "Ni nabii gani wa uwongo aliyevunja nira ya mbao kwenye shingo ya Yeremia na kufa ndani ya mwaka mmoja kama Yeremia alivyotabiri?",
+        "options": [
+          "Pashur",
+          "Hanania wa Gibeoni (Yeremia 28)",
+          "Mika",
+          "Sedekia"
+        ],
+        "correct": 1,
+        "explanation": "Hanania alitangaza kwa uongo kurudi kwa wahamishwa katika miaka miwili; Yeremia alilaani uwongo wake ambao ulitoa tumaini la uwongo kwa watu."
+      },
+      {
+        "question": "Ni mhusika gani wa Agano la Kale anayeitwa 'mtu anayependwa sana' (ish hamoudot) na malaika Gabrieli katika maono ya apocalyptic?",
+        "options": [
+          "Musa",
+          "Danieli (Danieli 9:23; 10:11,19)",
+          "Ezekieli",
+          "Daudi"
+        ],
+        "correct": 1,
+        "explanation": "Cheo hiki chenye upendo kinakazia unyenyekevu na uchaji wa Danieli daima katika uzee wake huko Babiloni na Uajemi."
+      },
+      {
+        "question": "Zerubabeli alikuwa nani kuhusiana na ukoo wa kifalme wa Daudi, na alipokea ahadi gani katika Hagai 2:23 ?",
+        "options": [
+          "Kuhani Mlawi asiyehusiana na Daudi",
+          "Mzao wa kifalme wa Daudi (mjukuu wa Yehoyakini), aliyeitwa na Mungu 'pete/muhuri wangu', akiwakilisha Masihi.",
+          "Jenerali wa Kiajemi",
+          "Gavana wa Kirumi"
+        ],
+        "correct": 1,
+        "explanation": "Hagai 2:23 inageuza laana iliyotamkwa dhidi ya Yehoyakini ( Yeremia 22:24 ) kwa kurejesha tumaini la kimasiya katika ukoo wa Zerubabeli."
+      },
+      {
+        "question": "Je, ni vikundi gani vinne vikuu vya kidini vya Kiyahudi wakati wa Yesu?",
+        "options": [
+          "Walawi, Manabii, Waamuzi, Wafalme",
+          "Mafarisayo, Masadukayo, Waesene (Qumran) na Wazeloti",
+          "Wasamaria, Wagiriki, Warumi, Washami",
+          "Mashemasi, Waandishi, Mashemasi, Wazee"
+        ],
+        "correct": 1,
+        "explanation": "Mafarisayo (mapokeo ya mdomo, ufufuo), Masadukayo (Watawala wa Hekalu, wanaokataa ufufuo), Essene (kujiondoa kwa kujitolea) na Wazeloti (upinzani wa silaha) waliunda mazingira ya karne ya 1."
+      },
+      {
+        "question": "Ni tofauti gani kubwa ya kimafundisho iliyowapinga Mafarisayo na Masadukayo, ambayo ilitumiwa kwa ustadi na Paulo mbele ya Sanhedrini (Matendo 23:6-8)?",
+        "options": [
+          "Tarehe ya Pasaka",
+          "Ufufuo wa wafu, kuwepo kwa malaika na roho - ilithibitishwa na Mafarisayo lakini ikakataliwa na Masadukayo.",
+          "Jina la Musa",
+          "Ujenzi wa Hekalu"
+        ],
+        "correct": 1,
+        "explanation": "Kwa kutangaza ‘Ni kwa sababu ya tumaini na ufufuo wa wafu kwamba niko chini ya hukumu,’ Paulo aligawanya kutaniko mara moja."
+      },
+      {
+        "question": "Nabii wa kike Hana alikuwa nani katika Luka 2:36-38?",
+        "options": [
+          "Mama yake Mary",
+          "Mjane mwenye umri wa miaka 84 kutoka kabila la Asheri ambaye alimtumikia Mungu usiku na mchana katika Hekalu na kumsifu Mungu wakati wa uwasilishaji wa Yesu.",
+          "Mke wa Pontio Pilato",
+          "Dada yake Lazaro"
+        ],
+        "correct": 1,
+        "explanation": "Akiwa na Simeoni, Ana anawakilisha mabaki waaminifu wa Israeli waliongojea ukombozi wa Yerusalemu."
+      },
+      {
+        "question": "Je, ni muundo gani wa mzunguko wa ndani wa wanafunzi watatu walioshuhudia ufufuo wa binti Yairo, Kugeuzwa Sura na Gethsemane?",
+        "options": [
+          "Pierre, André na Thomas",
+          "Petro, Yakobo na Yohana",
+          "Mathayo, Marko na Luka",
+          "Philippe, Barthélemy na Jude"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alihusisha hasa Petro, Yakobo na Yohana katika nyakati muhimu za utukufu wake na uchungu wake."
+      },
+      {
+        "question": "Ni mtume gani aliyebeba jina la Kiebrania/Kiaramu 'Didymus' (pacha) na akaonyesha ujasiri mkubwa mbele ya Lazaro ('Twendeni nasi, ili tufe pamoja naye')?",
+        "options": [
+          "Philip",
+          "Tomaso (Yohana 11:16)",
+          "Mathayo",
+          "Simon Mzelote"
+        ],
+        "correct": 1,
+        "explanation": "Badala ya kuwa 'asiyeamini' tu, Tomaso alionyesha uaminifu wa ujasiri na kufanya ungamo la juu kabisa la Kikristo la Yohana (Yohana 20:28)."
+      },
+      {
+        "question": "Ni mtume gani aliyemwuliza Yesu swali hili: ‘Bwana, itawezekanaje kwamba utajidhihirisha kwetu, na si kwa ulimwengu?’’ ( Yohana 14:22 )?",
+        "options": [
+          "Yuda Iskariote",
+          "Yuda (aitwaye 'si Iskariote', Thaddeus)",
+          "Andrew",
+          "Bartholomayo"
+        ],
+        "correct": 1,
+        "explanation": "Swali hili lilimruhusu Yesu kufafanua kwamba udhihirisho wake wa ndani unahusishwa na upendo na utii kwa Neno lake (Yohana 14:23)."
+      },
+      {
+        "question": "Je, ni picha gani ya Maria Magdalene (Maria Magdalene) kulingana na Injili nne (bila kumchanganya na mwenye dhambi asiyejulikana wa Luka 7)?",
+        "options": [
+          "Malkia wa Galilaya",
+          "Mwanafunzi mwaminifu aliyekombolewa kutoka kwa mapepo saba, ambaye alimsaidia Yesu kifedha, alibaki chini ya msalaba na alikuwa shahidi wa kwanza wa ufufuo wake.",
+          "Mke wa Peter",
+          "Mama wa Jean-Baptiste"
+        ],
+        "correct": 1,
+        "explanation": "Utambulisho wa Mariamu Magdalena na mwenye dhambi wa Luka 7 au na Mariamu wa Bethania unatokana na muunganisho wa marehemu bila msaada wa maandishi wa moja kwa moja."
+      },
+      {
+        "question": "Yoana (mke wa Kuza, msimamizi wa Herode) na Susana waliotajwa katika Luka 8:1-3 walikuwa nani?",
+        "options": [
+          "Maadui wa Yesu",
+          "Aliwaponya wanawake waliomfuata Yesu na kumsaidia kwa mali zao (walinzi wa huduma ya mitume)",
+          "Dada za Lazaro",
+          "Manabii wa Kirumi"
+        ],
+        "correct": 1,
+        "explanation": "Luka anasisitiza jukumu la kuamua la kiroho na la kimwili la wanafunzi wanawake karibu na Yesu na hadi kaburi tupu (Luka 24:10)."
+      },
+      {
+        "question": "Ni mwenza yupi wa Paulo katika Matendo ambaye kwanza alikuwa Myahudi mwenye ufasaha kutoka Aleksandria aliyefahamu vyema Maandiko lakini akijua ubatizo wa Yohana pekee?",
+        "options": [
+          "Barnaba",
+          "Apolo",
+          "Sila",
+          "Tito"
+        ],
+        "correct": 1,
+        "explanation": "Prisila na Akila walimchukua kando ili kumfundisha kwa usahihi zaidi njia ya Mungu, na kumfanya kuwa mwinjilisti mwenye nguvu katika Akaya (Matendo 18:24-28)."
+      },
+      {
+        "question": "Katika nyaraka za Paulo, kwa nini Prisila (Priska) mara nyingi anaitwa mbele ya mume wake Akila (mara 4 kati ya 6)?",
+        "options": [
+          "Kwa makosa ya mnakili",
+          "Labda kwa sababu ya jukumu lake la bidii katika kufundisha au hadhi yake ya juu ya kijamii katika Kanisa lililokutana nyumbani kwao",
+          "Kwa sababu Akila alikuwa amekufa",
+          "Kwa sababu alikuwa mtume wa wale kumi na wawili"
+        ],
+        "correct": 1,
+        "explanation": "Wanandoa hawa wa mfano walimkaribisha Paulo huko Korintho, wakamzoeza Apolo huko Efeso, na kuhatarisha maisha yao kwa ajili ya Paulo (Warumi 16:3-5)."
+      },
+      {
+        "question": "Yakobo alikuwa nani 'ndugu yake Bwana' (Wagalatia 1:19), anayewezekana mwandishi wa waraka wa Yakobo?",
+        "options": [
+          "Yakobo, mwana wa Zebedayo",
+          "Ndugu (au ndugu wa kambo) wa Yesu, mwanzoni alikuwa na shaka wakati wa huduma yake, aligeuka baada ya kutokea kwa Yule Aliyefufuka ( 1Kor 15:7 ) na akawa nguzo ya Yerusalemu.",
+          "Yakobo, mwana wa Alfayo",
+          "Gavana wa Kirumi"
+        ],
+        "correct": 1,
+        "explanation": "Kwa hakika aliongoza Baraza la Yerusalemu katika Matendo 15 na alipewa jina la utani 'Yakobo Mwenye Haki' katika mapokeo ya kale ya Kikristo."
+      },
+      {
+        "question": "Yuda alikuwa nani, mwandishi wa Waraka wa Yuda (Yuda 1:1)?",
+        "options": [
+          "Yuda Iskariote",
+          "'Mtumishi wa Yesu Kristo na ndugu yake Yakobo' - kwa hiyo pia ndugu wa kidunia wa Bwana",
+          "Mfalme wa Idumea",
+          "Msaidizi wa Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Kwa unyenyekevu, Yakobo na Yuda hawakujisifu kuwa ndugu wa damu wa Bwana, wakijionyesha wenyewe kwanza kuwa watumishi wake."
+      },
+      {
+        "question": "Ni mshiriki yupi mwenye asili ya Kigiriki aliandamana na Paulo hadi Yerusalemu, na kuibua uvumi wa uwongo kwamba alikuwa amemleta kwenye ua uliokatazwa wa Hekalu?",
+        "options": [
+          "Tito",
+          "Nyara ya Efeso (Matendo 21:29)",
+          "Timotheo",
+          "Luka"
+        ],
+        "correct": 1,
+        "explanation": "Mashtaka haya ya uwongo ya Wayahudi wa Asia yalichochea ghasia na kukamatwa kwa Paulo Hekaluni."
+      },
+      {
+        "question": "Ni mshirika gani wa Kigiriki wa Paulo ambaye hakulazimishwa kutahiriwa wakati wa safari ya kwenda Yerusalemu katika Wagalatia 2:3, akithibitisha uhuru wa injili?",
+        "options": [
+          "Timotheo",
+          "Tito",
+          "Sila",
+          "Apolo"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alikataa kukubali Tito (ambaye alikuwa mpagani kabisa) ili kutetea kanuni ya wokovu bila kutahiriwa, huku baadaye alimtahiri Timotheo (mwana wa mama Myahudi) kwa sababu ya kuhangaikia umishonari."
+      },
+      {
+        "question": "Ni mhusika gani kutoka kwa Warumi 16:22 aliwahi kuwa mwandishi wa Paulo (amanuensis) katika kuandika waraka kwa Warumi?",
+        "options": [
+          "Luka",
+          "Tertio (‘Mimi, Tertio, niliyeandika waraka huu, nawasalimu katika Bwana’)",
+          "Tikiko",
+          "Sila"
+        ],
+        "correct": 1,
+        "explanation": "Kwa kawaida Paulo aliamuru barua zake kwa katibu kabla ya kuongeza mistari michache ya mwisho katika mwandiko wake mwenyewe (Wagalatia 6:11; 1 Kor 16:21)."
+      },
+      {
+        "question": "Je, ni mhusika gani wa AJ alikuwa 'nabii' wa Yerusalemu aliyetajwa katika Matendo 15:32 pamoja na Yuda Barsabas ili kutia moyo Antiokia?",
+        "options": [
+          "Agabo",
+          "Sila (Silvain)",
+          "Barnaba",
+          "Etienne"
+        ],
+        "correct": 1,
+        "explanation": "Yuda Barsaba na Sila, ambao wenyewe walikuwa manabii, waliwahimiza ndugu wa Antiokia kwa hotuba nyingi baada ya baraza la Yerusalemu."
+      },
+      {
+        "question": "Je, jina la baba yake Aleksanda na Rufo waliobeba msalaba wa Yesu kulingana na Marko 15:21 ni nani?",
+        "options": [
+          "Yusufu wa Arimathaya",
+          "Simoni wa Kurene",
+          "Nikodemo",
+          "Lazaro"
+        ],
+        "correct": 1,
+        "explanation": "Kutajwa kwa Marko kwa Aleksanda na Rufo kunaonyesha kwamba walikuwa wamepata kuwa Wakristo wanaojulikana sana katika Kanisa lililopokea (labda Rufo katika Warumi 16:13)."
+      },
+      {
+        "question": "Ni kuhani gani mkuu aliamuru Paulo apigwe mdomoni alipotokea mbele ya Sanhedrini (Matendo 23:2-5)?",
+        "options": [
+          "Kayafa",
+          "Anania, mwana wa Nebedayo",
+          "Anasi",
+          "Eli"
+        ],
+        "correct": 1,
+        "explanation": "Paulo alimwita ‘ukuta uliopakwa chokaa’ kabla ya kuomba msamaha kwa kuheshimu ofisi kulingana na Kutoka 22:28 mara tu alipojua kwamba alikuwa kuhani mkuu."
+      },
+      {
+        "question": "Ni mhusika gani wa AK aliyetajwa katika Waebrania 11:31 kama mfano wa imani ya kishujaa ingawa alikuwa mpagani na kahaba huko Yeriko?",
+        "options": [
+          "Delila",
+          "Rahabu",
+          "Yezebeli",
+          "Vashti"
+        ],
+        "correct": 1,
+        "explanation": "Rahabu aliwakaribisha wapelelezi kwa njia ya imani katika Mungu wa Israeli, aliokolewa na familia yake, na kuunganishwa katika nasaba ya Kristo (Mathayo 1:5; Yakobo 2:25)."
+      },
+      {
+        "question": "Je, kulikuwa na umuhimu gani wa uongofu wa Kornelio (Matendo 10) katika historia ya Kanisa?",
+        "options": [
+          "Tukio la pekee bila ufuatiliaji",
+          "'Pentekoste ya Mataifa': mpagani wa kwanza asiyetahiriwa anapokea Roho Mtakatifu hadharani na ubatizo chini ya huduma ya Petro.",
+          "Kuongoka kwa Farisayo",
+          "Kuanzishwa kwa Kanisa la Alexandria"
+        ],
+        "correct": 1,
+        "explanation": "Kipindi hiki kilivunja kizuizi kati ya Wayahudi na Wamataifa na kulilazimisha Kanisa la Yerusalemu kutambua kwamba Mungu pia huwapa mataifa toba (Matendo 11:18)."
+      },
+      {
+        "question": "Ni msemaji gani mwenye ujuzi aliyeajiriwa na kuhani mkuu Anania ili kumshtaki Paulo mbele ya Gavana Feliksi?",
+        "options": [
+          "Gamalieli",
+          "Msemaji Tertulo (Matendo 24:1-8)",
+          "Demetrius",
+          "Alexander"
+        ],
+        "correct": 1,
+        "explanation": "Tertulo alimshutumu Paulo kuwa mharibifu, msumbufu na kiongozi wa madhehebu ya Nazareti, mashtaka ambayo Paulo alikanusha hatua kwa hatua."
+      },
+      {
+        "question": "Ni uhusiano gani wa kifamilia uliounganisha Berenike kwa Mfalme Herode Agripa II wakati wa wasikilizaji wa Paulo huko Kaisaria (Matendo 25-26)?",
+        "options": [
+          "Mama yake",
+          "Dada yake (Bérénice), binti ya Herode Agripa wa Kwanza",
+          "Mke wa Pontio Pilato",
+          "Nabii wa kike kutoka Efeso"
+        ],
+        "correct": 1,
+        "explanation": "Agripa wa Pili na dada yake Berenice waliunda wanandoa wa kifalme wenye uvutano lakini wenye utata ambao Paulo aliwashuhudia kuhusu kuongoka kwake."
+      },
+      {
+        "question": "Ni mfuasi gani wa Yopa, anayeitwa pia Tabitha, ndiye mhusika pekee aliyehitimu kwa uwazi kama 'mwanafunzi' wa kike (hisabati) katika Agano Jipya?",
+        "options": [
+          "Lydia",
+          "Dorkasi (Tabitha)",
+          "Prisila",
+          "Phoebe"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 9:36 inatumia neno la kike 'mathêtria' kwa Tabitha, tajiri katika matendo mema na sadaka kwa wajane."
+      },
+      {
+        "question": "Yasoni wa Thesalonike aliyetajwa katika Matendo 17:5-9 alikuwa nani?",
+        "options": [
+          "Askari wa Kirumi",
+          "Mwenyeji wa Paulo na Sila ambao walipaswa kulipa dhamana mbele ya politarchs baada ya ghasia dhidi ya Injili.",
+          "Kuhani mkuu wa Yerusalemu",
+          "Mwanafalsafa kutoka Athene"
+        ],
+        "correct": 1,
+        "explanation": "Wafanya ghasia walimkokota Yasoni mbele ya mahakimu, wakipaza sauti: 'Watu hawa waliopindua ulimwengu wamekuja hapa pia!'"
+      },
+      {
+        "question": "Ni kiongozi gani wa sinagogi katika Korintho aliyemwamini Bwana pamoja na nyumba yake yote baada ya kuwasili kwa Paulo (Matendo 18:8)?",
+        "options": [
+          "Sosthene pekee",
+          "Krispo (aliyebatizwa na Paulo mwenyewe kulingana na 1 Kor 1:14)",
+          "Gallioni",
+          "Yairo"
+        ],
+        "correct": 1,
+        "explanation": "Krispo, mkuu wa sunagogi, akageuka pamoja na nyumba yake; Kisha Sosthene alipigwa mbele ya mahakama ya Gallion."
+      },
+      {
+        "question": "Gayo alikuwa nani katika maandishi ya Paulo na Yohana?",
+        "options": [
+          "Mfalme wa Kirumi aliyeongoka",
+          "Mwenyeji mkarimu wa Paulo huko Korintho (Warumi 16:23) na/au mpokeaji mwaminifu wa waraka wa 3 wa Yohana.",
+          "Farisayo kutoka Yerusalemu",
+          "Mfalme wa Shamu"
+        ],
+        "correct": 1,
+        "explanation": "Paulo amsifu Gayo kuwa ‘mwenyeji wangu na wa Kanisa zima’, na Yohana anamsifu Gayo kwa ajili ya kutembea kwake katika kweli na ukarimu wake."
+      },
+      {
+        "question": "Ni mwandamani gani mwaminifu wa Paulo aliyetumwa na Wafilipi aliugua sana hadi kufa katika utumishi wa mtume huyo?",
+        "options": [
+          "Epafra",
+          "Epafrodito (Wafilipi 2:25-30)",
+          "Tikiko",
+          "Onesiforo"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anamrudisha Filipi akiwa na barua hiyo ili kupunguza wasiwasi wao na kumheshimu kwa ajili ya wakfu wake."
+      },
+      {
+        "question": "Ni Mkristo gani wa Efeso aliyemtafuta Paulo kwa bidii huko Rumi bila kuaibishwa na minyororo yake na mara nyingi alimpumzisha (2 Timotheo 1:16-18)?",
+        "options": [
+          "Dema",
+          "Onesiforo",
+          "Alexander",
+          "Himenayo"
+        ],
+        "correct": 1,
+        "explanation": "Ingawa wengi katika Asia walikuwa wamemwacha Paulo, Onesiforo alionyesha uaminifu-mshikamanifu wenye ujasiri hadi mwisho."
+      },
+      {
+        "question": "Humenayo na Fileto waliotajwa katika 2 Timotheo 2:17-18 walikuwa akina nani?",
+        "options": [
+          "Mashemasi wawili waaminifu",
+          "Walimu wawili wa uwongo waliokengeuka kutoka kwenye kweli kwa kudai kwamba ‘ufufuo umekwisha kuja,’ wakipindua imani ya wengi.",
+          "Wafalme wawili wa Galatia",
+          "Malaika wawili"
+        ],
+        "correct": 1,
+        "explanation": "Kosa lao la kabla ya Wagnostiki lilichochea ufufuo wa kiroho na kukataa ufufuo wa kimwili wa wakati ujao."
+      },
+      {
+        "question": "Ni mhusika gani wa Agano la Kale anayewasilishwa katika Yuda 9 katika mabishano na shetani juu ya mwili wake?",
+        "options": [
+          "Henoko",
+          "Musa (mzozo kati ya malaika mkuu Mikaeli na shetani)",
+          "Ibrahimu",
+          "Eliya"
+        ],
+        "correct": 1,
+        "explanation": "Yuda aonyesha kwamba hata malaika mkuu Mikaeli hakuthubutu kutamka hukumu ya matusi bali alisema: 'Bwana na akukemee!'"
+      },
+      {
+        "question": "Ni nabii gani wa AJ aliyetajwa kama mwandishi wa Ufunuo na Injili ya 4 - lakini ni tabia gani ya kipekee aliyo nayo katika Injili yake?",
+        "options": [
+          "Anatia saini jina lake katika kila sura",
+          "Hajitaji kamwe kwa jina lake la kwanza, akijirejelea kwa busara kuwa ‘mwanafunzi ambaye Yesu alimpenda’.",
+          "Alikuwa kaka wa Pierre",
+          "Alikuwa Farisayo huko Rumi"
+        ],
+        "correct": 1,
+        "explanation": "Uamuzi huu wa kifasihi (Yohana 13:23; 19:26; 21:20-24) unaweka nuru yote kwa Yesu pekee."
+      },
+      {
+        "question": "Abigaili alikuwa nani kuhusiana na wafalme wa Israeli—na ni somo gani la kitheolojia ambalo hotuba yake kwa Daudi (1 Samweli 25:26-31) inaonyesha?",
+        "options": [
+          "Alimhimiza David kulipiza kisasi haraka",
+          "Alimzuia Daudi asimwage damu isiyo na hatia kwa kumkumbusha kwamba Bwana angejenga nyumba yake na kwamba uhai wake ungewekwa katika ‘furushi la walio hai’.",
+          "Anamsaliti Daudi kwa ajili ya Sauli",
+          "Alikuwa malkia wa Misri"
+        ],
+        "correct": 1,
+        "explanation": "Daudi anambariki Mungu kwa kumtuma Abigaili kukutana naye ili kumzuia asilipize kisasi kibinafsi."
+      },
+      {
+        "question": "Ni mfalme gani wa Israeli aliyeonyesha toba kubwa baada ya unabii wa Yona kwa Ninawi?",
+        "options": [
+          "Mfalme wa Ashuru (Mfalme wa Ninawi)",
+          "Mfalme wa Misri",
+          "Mfalme wa Babeli",
+          "Mfalme wa Tiro"
+        ],
+        "correct": 0,
+        "explanation": "Aliposikia mahubiri ya Yona, mfalme wa Ninawi alishuka kutoka kwenye kiti chake cha enzi, akajifunika nguo za magunia, na kuamuru kufunga kwa toba (Yona 3:6-9)."
+      },
+      {
+        "question": "Ni mhusika gani wa Agano la Kale ameonyeshwa kwa uwazi katika kifungu katika 1 Samweli 9:9 akieleza kwamba nabii aliwahi kuitwa 'mwonaji'?",
+        "options": [
+          "Goliathi",
+          "Samweli (neno la kale 'mwonaji' lilimrejelea nabii)",
+          "Sauli",
+          "Yoabu"
+        ],
+        "correct": 1,
+        "explanation": "1 Samweli 9:9 inaeleza badiliko la istilahi: 'Yeye ambaye sasa anaitwa nabii hapo awali aliitwa mwonaji.'"
+      },
+      {
+        "question": "Ni mhusika gani wa AK aliomba kwamba jua lisimame juu ya Gibeoni na mwezi juu ya Bonde la Ayalon?",
+        "options": [
+          "Musa",
+          "Yoshua (Yoshua 10:12-14)",
+          "Gideoni",
+          "Daudi"
+        ],
+        "correct": 1,
+        "explanation": "BWANA akasikia sauti ya mtu, akawapigania Israeli siku hiyo moja."
+      },
+      {
+        "question": "Haruni alikuwa nani kuhusiana na mapendeleo na mipaka ya ukuhani wa agano la kale kulingana na Waebrania 5 na 7?",
+        "options": [
+          "Kuhani wa milele asiye na dhambi",
+          "Kuhani mkuu aliye na mauti na dhaifu ambaye alipaswa kutoa dhabihu kwanza kwa ajili ya dhambi zake mwenyewe kabla ya zile za watu—tofauti na Kristo asiye na dhambi.",
+          "Mfalme wa Yuda",
+          "Nabii kutoka Ninawi"
+        ],
+        "correct": 1,
+        "explanation": "Waebrania 7:26-28 inatofautisha udhaifu wa makuhani wa kibinadamu wa ukoo wa Haruni na Mwana aliyefanywa mkamilifu kwa umilele."
+      },
+      {
+        "question": "Ni tabia gani ya Agano Jipya inayofafanuliwa katika Matendo 13:1 kati ya manabii na walimu wa Antiokia 'waliofufuliwa pamoja na mfalme Herode'?",
+        "options": [
+          "Lucius wa Kurene",
+          "Manahemu (Menahemu)",
+          "Simeoni aliita Niger",
+          "Barnaba"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 13:1 inaonyesha utofauti wa ajabu wa kijamii na kijiografia wa uongozi wa Antiokia (kutoka kwa mfalme Manahem hadi Mwafrika Simeoni Niger na Lucius wa Kurene)."
       }
     ]
   }

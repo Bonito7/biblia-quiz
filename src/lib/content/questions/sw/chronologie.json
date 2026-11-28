@@ -165,6 +165,523 @@
         ],
         "correct": 2,
         "explanation": "Yesu alijidhihirisha kwa siku 40 baada ya kufufuka kwake kabla ya kupaa mbinguni (Matendo 1:3)."
+      },
+      {
+        "question": "Ni nabii gani aliyeishi kabla ya Musa: Ibrahimu au Eliya?",
+        "options": [
+          "Eliya",
+          "Ibrahimu",
+          "Wote wawili waliishi baada ya Musa",
+          "Wala"
+        ],
+        "correct": 1,
+        "explanation": "Ibrahimu aliishi yapata miaka 700 kabla ya Musa, na Eliya aliishi yapata miaka 400 baada ya Musa (karne ya 9 KK)."
+      },
+      {
+        "question": "Nani aliumbwa kwanza kulingana na Mwanzo: Adamu au Hawa?",
+        "options": [
+          "Hawa",
+          "Adamu",
+          "Ziliundwa wakati huo huo siku ya 3",
+          "Nuhu"
+        ],
+        "correct": 1,
+        "explanation": "Kulingana na Mwanzo 2:7-22 , Mungu aliumba Adamu kwa udongo kwanza, kisha akamuumba Hawa kutokana na ubavu wake mmoja."
+      },
+      {
+        "question": "Ni tukio gani lililotukia mara tu baada ya Kutoka Misri?",
+        "options": [
+          "Ujenzi wa Hekalu la Sulemani",
+          "Kuvuka Bahari Nyekundu",
+          "Uhamisho wa Babeli",
+          "Utawala wa Daudi"
+        ],
+        "correct": 1,
+        "explanation": "Muda mfupi baada ya kuondoka Misri, Waisraeli walivuka Bahari ya Shamu kwenye nchi kavu (Kutoka 14)."
+      },
+      {
+        "question": "Gharika ilinyesha kwa siku ngapi katika siku za Nuhu?",
+        "options": [
+          "Siku 7 na usiku 7",
+          "Siku 40 mchana na usiku",
+          "Siku 12 na usiku 12",
+          "Siku 70 mchana na usiku"
+        ],
+        "correct": 1,
+        "explanation": "Mvua ilinyesha juu ya nchi kwa siku 40 mchana na usiku (Mwanzo 7:12)."
+      },
+      {
+        "question": "Ni kitabu gani cha Biblia kinachosimulia matukio yaliyofuata mara tu kifo cha Musa?",
+        "options": [
+          "Mambo ya Walawi",
+          "Nambari",
+          "Yoshua",
+          "Waamuzi"
+        ],
+        "correct": 2,
+        "explanation": "Kitabu cha Yoshua kinaanza mara tu baada ya kifo cha Musa na kuingia katika Nchi ya Ahadi (Yoshua 1:1-2)."
+      },
+      {
+        "question": "Je, wahusika hawa watatu waliishi kwa utaratibu gani?",
+        "options": [
+          "Isaka → Ibrahimu → Yakobo",
+          "Ibrahimu → Isaka → Yakobo",
+          "Yakobo → Isaka → Ibrahimu",
+          "Ibrahimu → Yakobo → Isaka"
+        ],
+        "correct": 1,
+        "explanation": "Ibrahimu ni baba wa Isaka, ambaye yeye mwenyewe ndiye baba wa Yakobo (Mwanzo 21 na 25)."
+      },
+      {
+        "question": "Ni tukio gani linalokuja kabla ya utawala wa wafalme katika Israeli?",
+        "options": [
+          "Uhamisho wa Babeli",
+          "Kipindi cha Waamuzi",
+          "Urekebishaji wa kuta",
+          "Huduma ya Yohana Mbatizaji"
+        ],
+        "correct": 1,
+        "explanation": "Baada ya Yoshua, Israeli ilitawaliwa na Waamuzi kwa karne kadhaa kabla ya kuanzishwa kwa utawala wa kifalme chini ya Sauli (1 Samweli 8)."
+      },
+      {
+        "question": "Je, Daudi alitawala Israeli kwa jumla ya miaka mingapi?",
+        "options": [
+          "miaka 20",
+          "miaka 40",
+          "Umri wa miaka 12",
+          "Umri wa miaka 70"
+        ],
+        "correct": 1,
+        "explanation": "Daudi alitawala kwa miaka 40: miaka 7 na nusu huko Hebroni juu ya Yuda, kisha miaka 33 huko Yerusalemu juu ya Israeli yote (2 Samweli 5:4-5)."
+      },
+      {
+        "question": "Sulemani alitawala Israeli kwa miaka mingapi?",
+        "options": [
+          "miaka 40",
+          "Umri wa miaka 25",
+          "Miaka 15",
+          "Umri wa miaka 60"
+        ],
+        "correct": 0,
+        "explanation": "Kama Daudi, Sulemani alitawala kwa miaka 40 huko Yerusalemu juu ya Israeli yote (1 Wafalme 11:42)."
+      },
+      {
+        "question": "Ni nabii gani aliyemtia mafuta Sauli na kisha Daudi kuwa wafalme wa Israeli?",
+        "options": [
+          "Nathan",
+          "Eliya",
+          "Samweli",
+          "Elisha"
+        ],
+        "correct": 2,
+        "explanation": "Nabii Samweli alipokea agizo kutoka kwa Mungu la kumtia mafuta Sauli (1 Samweli 10) na kisha Daudi (1 Samweli 16)."
+      },
+      {
+        "question": "Ni tukio gani lililotokea kwanza: kuzaliwa kwa Musa au kuzaliwa kwa Yusufu?",
+        "options": [
+          "Kuzaliwa kwa Musa",
+          "Kuzaliwa kwa Yusufu",
+          "Walifanyika mwaka huo huo",
+          "Ile ya Yoshua kabla ya hao wawili"
+        ],
+        "correct": 1,
+        "explanation": "Yusufu aliishi muda mrefu kabla ya Musa: ilikuwa chini ya Yusufu ambapo familia ya Yakobo iliishi Misri (Mwanzo 46; Kutoka 1)."
+      },
+      {
+        "question": "Yusufu alikuwa na umri wa miaka mingapi alipouzwa na ndugu zake?",
+        "options": [
+          "Umri wa miaka 17",
+          "Miaka 30",
+          "Umri wa miaka 12",
+          "miaka 40"
+        ],
+        "correct": 0,
+        "explanation": "Andiko la Mwanzo 37:2 linaonyesha kwamba Yosefu alikuwa na umri wa miaka 17 alipochunga kundi pamoja na ndugu zake."
+      },
+      {
+        "question": "Yusufu akawa gavana wa Misri mbele ya Farao akiwa na umri gani?",
+        "options": [
+          "Umri wa miaka 17",
+          "Umri wa miaka 25",
+          "Miaka 30",
+          "Miaka 50"
+        ],
+        "correct": 2,
+        "explanation": "Yusufu alikuwa na umri wa miaka 30 alipotokea mbele ya Farao ili kutafsiri ndoto zake (Mwanzo 41:46)."
+      },
+      {
+        "question": "Musa alikuwa na umri gani alipokufa kwenye Mlima Nebo?",
+        "options": [
+          "Umri wa miaka 80",
+          "Miaka 100",
+          "Miaka 120",
+          "Miaka 150"
+        ],
+        "correct": 2,
+        "explanation": "Musa alikuwa na umri wa miaka 120 alipokufa, na macho yake hayakuwa na upofu (Kumbukumbu la Torati 34:7)."
+      },
+      {
+        "question": "Yesu alifunga siku ngapi jangwani kabla ya kujaribiwa?",
+        "options": [
+          "siku 7",
+          "siku 21",
+          "siku 40",
+          "siku 50"
+        ],
+        "correct": 2,
+        "explanation": "Yesu alifunga siku 40 mchana na usiku katika jangwa baada ya ubatizo wake (Mathayo 4:2)."
+      },
+      {
+        "question": "Yesu alianza huduma yake ya hadharani katika umri gani kulingana na Luka?",
+        "options": [
+          "Takriban miaka 20",
+          "Karibu miaka 30",
+          "Karibu miaka 40",
+          "Karibu miaka 18"
+        ],
+        "correct": 1,
+        "explanation": "Andiko la Luka 3:23 linasema kwamba Yesu alikuwa na umri wa miaka 30 hivi alipoanza huduma yake."
+      },
+      {
+        "question": "Ni tukio gani lililotangulia huduma ya hadharani ya Yesu mara moja?",
+        "options": [
+          "Kupanda kwake",
+          "Ubatizo wake na Yohana Mbatizaji",
+          "Pentekoste",
+          "Kugeuzwa"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alibatizwa na Yohana Mbatizaji katika Mto Yordani mapema katika huduma yake (Mathayo 3:13-17)."
+      },
+      {
+        "question": "Ni siku ngapi baada ya kuzaliwa kwa Yesu kutahiriwa kwake?",
+        "options": [
+          "siku 3",
+          "siku 7",
+          "siku 8",
+          "siku 40"
+        ],
+        "correct": 2,
+        "explanation": "Kulingana na Sheria ya Musa, Yesu alitahiriwa siku ya 8 na kupewa jina lake (Luka 2:21)."
+      },
+      {
+        "question": "Yesu alipatikana Hekaluni akijadiliana na waalimu wa Sheria akiwa na umri gani?",
+        "options": [
+          "Umri wa miaka 8",
+          "Umri wa miaka 12",
+          "Umri wa miaka 16",
+          "miaka 20"
+        ],
+        "correct": 1,
+        "explanation": "Akiwa na umri wa miaka 12, Yesu alikaa Yerusalemu wakati wa sikukuu ya Pasaka ili kuwasikiliza na kuwahoji walimu ( Luka 2:42-46 )."
+      },
+      {
+        "question": "Ni mfalme gani aliyetawala Yudea wakati wa mauaji ya watu wasio na hatia huko Bethlehemu?",
+        "options": [
+          "Herode Antipa",
+          "Herode Mkuu",
+          "Kaisari Augusto",
+          "Pontio Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Herode Mkuu aliamuru mauaji ya watoto chini ya umri wa miaka miwili huko Bethlehemu baada ya ziara ya mamajusi (Mathayo 2:16)."
+      },
+      {
+        "question": "Je, matukio haya katika maisha ya Yesu yalifanyika kwa utaratibu gani?",
+        "options": [
+          "Ubatizo → Kuzaliwa → Kusulubiwa → Kupaa",
+          "Kuzaliwa → Ubatizo → Kusulubiwa → Kupaa",
+          "Kuzaliwa → Kusulubishwa → Ubatizo → Kupaa",
+          "Ubatizo → Kusulubiwa → Kuzaliwa → Kupaa"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alizaliwa Bethlehemu, akabatizwa akiwa na umri wa miaka 30 hivi, akasulubishwa Yerusalemu, akafufuka siku ya 3 na kupaa mbinguni siku 40 baadaye."
+      },
+      {
+        "question": "Ni muda gani ulipita kati ya kifo cha Yesu na ufufuo wake?",
+        "options": [
+          "siku 1",
+          "Siku 3 (Ijumaa hadi Jumapili)",
+          "siku 7",
+          "siku 40"
+        ],
+        "correct": 1,
+        "explanation": "Yesu alisulubishwa siku ya Ijumaa na kufufuka siku ya tatu, Jumapili asubuhi (Luka 24:1-7)."
+      },
+      {
+        "question": "Ni siku ngapi hutenganisha Pasaka na Pentekoste katika mapokeo ya kibiblia?",
+        "options": [
+          "siku 30",
+          "siku 40",
+          "siku 50",
+          "siku 70"
+        ],
+        "correct": 2,
+        "explanation": "Pentekoste maana yake ni 'ya hamsini': hutokea siku 50 baada ya sikukuu ya Pasaka (Mambo ya Walawi 23:16; Matendo 2:1)."
+      },
+      {
+        "question": "Ni nani aliyepigwa mawe kwanza kama shahidi wa Kikristo katika Matendo ya Mitume?",
+        "options": [
+          "Jacques",
+          "Mwamba",
+          "Etienne",
+          "Paulo"
+        ],
+        "correct": 2,
+        "explanation": "Stefano, mmoja wa mashemasi saba, alipigwa mawe hadi kufa mbele ya Sauli wa Tarso (Mdo 7:54-60)."
+      },
+      {
+        "question": "Je, kuongoka kwa Sauli (Paulo) kulifanyika kabla au baada ya kupigwa mawe kwa Stefano?",
+        "options": [
+          "Kabla ya kupigwa mawe kwa Stefano",
+          "Baada ya kupigwa mawe kwa Stefano",
+          "Wakati huo huo kama kuzaliwa kwa Yesu",
+          "Kabla ya Pentekoste"
+        ],
+        "correct": 1,
+        "explanation": "Sauli alikubali kuuawa kwa Stefano (Matendo 8:1) kabla ya kukutana na Kristo aliyefufuka katika njia ya kwenda Damasko (Matendo 9)."
+      },
+      {
+        "question": "Ni nabii gani aliyeishi wakati wa Mfalme Ahabu na Yezebeli?",
+        "options": [
+          "Daniel",
+          "Eliya",
+          "Yeremia",
+          "Ezekieli"
+        ],
+        "correct": 1,
+        "explanation": "Eliya alitabiri katika Ufalme wa Kaskazini wakati wa utawala wa Mfalme Ahabu na Malkia Yezebeli (1 Wafalme 17-21)."
+      },
+      {
+        "question": "Ni nani aliyemfuata nabii Eliya moja kwa moja?",
+        "options": [
+          "Isaya",
+          "Elisha",
+          "Samweli",
+          "Yona"
+        ],
+        "correct": 1,
+        "explanation": "Elisha alipokea sehemu mbili za roho ya Eliya wakati Eliya alipochukuliwa kwenda mbinguni (2 Wafalme 2:9-15)."
+      },
+      {
+        "question": "Ni tukio gani linalotangulia kuingia kwa Danieli katika tundu la simba?",
+        "options": [
+          "Kuanguka kwa Yeriko",
+          "Kufukuzwa Babeli",
+          "Kuzaliwa kwa Yesu",
+          "Utawala wa Sauli"
+        ],
+        "correct": 1,
+        "explanation": "Danieli alichukuliwa kama kijana hadi Babeli wakati wa uhamisho chini ya Nebukadneza (Danieli 1)."
+      },
+      {
+        "question": "Je! Wayahudi walibaki uhamishoni Babeli kwa miaka mingapi kulingana na unabii wa Yeremia?",
+        "options": [
+          "miaka 40",
+          "Miaka 50",
+          "Umri wa miaka 70",
+          "Miaka 100"
+        ],
+        "correct": 2,
+        "explanation": "Yeremia alitabiri kwamba ukiwa ungedumu miaka 70 kabla ya kurudi kwa Yuda (Yeremia 25:11; 29:10)."
+      },
+      {
+        "question": "Ni nani aliyeongoza kujengwa upya kwa kuta za Yerusalemu baada ya uhamisho?",
+        "options": [
+          "Yoshua",
+          "Nehemia",
+          "Gideoni",
+          "Sulemani"
+        ],
+        "correct": 1,
+        "explanation": "Nehemia alirudi kutoka Shushani chini ya Mfalme Artashasta ili kujenga upya kuta za Yerusalemu kwa siku 52 (Nehemia 2 na 6:15)."
+      },
+      {
+        "question": "Je, kuta za Yerusalemu zilijengwa upya kwa siku ngapi chini ya Nehemia?",
+        "options": [
+          "siku 7",
+          "siku 40",
+          "siku 52",
+          "siku 100"
+        ],
+        "correct": 2,
+        "explanation": "Andiko la Nehemia 6:15 linasema kwamba ukuta ulikamilika kwa siku 52 licha ya upinzani."
+      },
+      {
+        "question": "Ni nabii gani aliyehubiri Ninawi muda mrefu kabla ya kuanguka kwa Yerusalemu?",
+        "options": [
+          "Yona",
+          "Hagai",
+          "Malaki",
+          "Zekaria"
+        ],
+        "correct": 0,
+        "explanation": "Yona alitabiri Ninawi katika karne ya 8 KK. BC, wakati Hagai, Zekaria na Malaki ni baada ya uhamisho."
+      },
+      {
+        "question": "Je! wanawake hawa watatu katika Biblia waliishi kwa utaratibu gani?",
+        "options": [
+          "Mariamu → Ruthu → Sarah",
+          "Sarah → Ruth → Mariamu",
+          "Ruthu → Sarah → Mariamu",
+          "Sarah → Mariamu → Ruthu"
+        ],
+        "correct": 1,
+        "explanation": "Sara aliishi enzi za wazee wa ukoo (~2000 KK), Ruthu wakati wa Waamuzi (~1100 KK), na Mariamu katika karne ya 1."
+      },
+      {
+        "question": "Lazaro alikuwa tayari kaburini kwa siku ngapi Yesu alipomfufua?",
+        "options": [
+          "siku 1",
+          "siku 2",
+          "siku 4",
+          "siku 7"
+        ],
+        "correct": 2,
+        "explanation": "Martha alimkumbusha Yesu kwamba Lazaro alikuwa kaburini kwa siku nne (Yohana 11:39)."
+      },
+      {
+        "question": "Ni tukio gani lililotukia wakati wa karamu ya Mfalme Belshaza huko Babiloni?",
+        "options": [
+          "Kutekwa kwa Yeriko",
+          "Kuonekana kwa mkono unaoandika ukutani",
+          "Ujenzi wa Hekalu",
+          "Kuvuka Yordani"
+        ],
+        "correct": 1,
+        "explanation": "Wakati wa sikukuu ya Belshaza, mkono uliandika ukutani, ukitangaza kuanguka kwa Babeli usiku ule (Danieli 5)."
+      },
+      {
+        "question": "Ni nani aliyetawala Yerusalemu wakati amri ya Waroma ya kuhesabu watu iliwaleta Yosefu na Mariamu Bethlehemu?",
+        "options": [
+          "Nebukadreza",
+          "Kaisari Augusto (mfalme) na Herode",
+          "Alexander Mkuu",
+          "Koreshi"
+        ],
+        "correct": 1,
+        "explanation": "Luka 2:1 inataja amri kutoka kwa Kaisari Augusto iliyoamuru kuhesabiwa kwa dunia yote inayokaliwa."
+      },
+      {
+        "question": "Ni tukio gani linaloashiria mwisho wa kitabu cha Matendo ya Mitume?",
+        "options": [
+          "Kuharibiwa kwa Yerusalemu",
+          "Paulo akihubiri Rumi kwa miaka miwili",
+          "kifo cha Peter",
+          "Kuzaliwa kwa Yesu"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 28:30-31 inaisha kwa Paulo kukaa miaka miwili kamili huko Rumi na kutangaza Ufalme kwa ujasiri."
+      },
+      {
+        "question": "Danieli aliomba mara ngapi kwa siku licha ya agizo la Mfalme Dario?",
+        "options": [
+          "Mara 1",
+          "mara 2",
+          "mara 3",
+          "mara 7"
+        ],
+        "correct": 2,
+        "explanation": "Danieli aliendelea kupiga magoti mara tatu kwa siku madirisha yakiwa yamefunguliwa kuelekea Yerusalemu (Danieli 6:10)."
+      },
+      {
+        "question": "Ibrahimu alikuwa na umri wa miaka mingapi Isaka alipozaliwa?",
+        "options": [
+          "Umri wa miaka 75",
+          "Umri wa miaka 86",
+          "Miaka 100",
+          "Miaka 120"
+        ],
+        "correct": 2,
+        "explanation": "Mwanzo 21:5 inaonyesha kwamba Abrahamu alikuwa na umri wa miaka 100 wakati mwana wake Isaka alipozaliwa."
+      },
+      {
+        "question": "Ibrahimu aliondoka Harani akiwa na umri gani kwa mwito wa Mungu?",
+        "options": [
+          "Miaka 50",
+          "Umri wa miaka 75",
+          "Umri wa miaka 90",
+          "Miaka 100"
+        ],
+        "correct": 1,
+        "explanation": "Ibrahimu alikuwa na umri wa miaka 75 alipoondoka Harani kwenda nchi ya Kanaani (Mwanzo 12:4)."
+      },
+      {
+        "question": "Je, Yakobo alifanya kazi kwa miaka mingapi ili Labani aoe Raheli na Lea?",
+        "options": [
+          "miaka 7",
+          "miaka 10",
+          "Umri wa miaka 14",
+          "miaka 20"
+        ],
+        "correct": 2,
+        "explanation": "Yakobo alimtumikia Labani miaka 7 kwa ajili ya Raheli, akampokea Lea kwa hila, kisha akatumikia miaka 7 kwa Raheli (Mwanzo 29:18-30)."
+      },
+      {
+        "question": "Ni mfalme gani aliyejenga Hekalu la kwanza takriban miaka 480 baada ya Kutoka?",
+        "options": [
+          "Sauli",
+          "Daudi",
+          "Sulemani",
+          "Hezekia"
+        ],
+        "correct": 2,
+        "explanation": "1 Wafalme 6:1 inaweka mwanzo wa ujenzi wa Sulemani wa Hekalu miaka 480 baada ya kutoka Misri."
+      },
+      {
+        "question": "Wafalme hawa wa Yuda wanatokea kwa utaratibu gani: Yosia, Hezekia, Sulemani?",
+        "options": [
+          "Hezekia → Sulemani → Yosia",
+          "Sulemani → Hezekia → Yosia",
+          "Yosia → Sulemani → Hezekia",
+          "Sulemani → Yosia → Hezekia"
+        ],
+        "correct": 1,
+        "explanation": "Sulemani alitawala katika karne ya 10. av. BC, Hezekia katika karne ya 8-7. av. BC, na Yosia mwishoni mwa karne ya 7. av. AD"
+      },
+      {
+        "question": "Ni kitabu gani cha Agano Jipya kiliandikwa mwisho kulingana na wasomi wengi?",
+        "options": [
+          "Waraka kwa Wagalatia",
+          "Apocalypse (au Injili ya Yohana)",
+          "Waraka kwa Warumi",
+          "Injili ya Marko"
+        ],
+        "correct": 1,
+        "explanation": "Maandishi ya Yohana (Injili ya Yohana, nyaraka na Ufunuo) kwa ujumla yameandikwa hadi mwisho wa karne ya 1 (karibu 90-96 BK)."
+      },
+      {
+        "question": "Ni siku ngapi zilipita kati ya kuwasilishwa kwa Yesu na wachungaji na kutembelewa na mamajusi?",
+        "options": [
+          "Hasa jioni hiyo hiyo",
+          "Miezi kadhaa au hata hadi miaka miwili baadaye",
+          "Siku 40 haswa",
+          "siku 7"
+        ],
+        "correct": 1,
+        "explanation": "Mamajusi walimkuta mtoto ndani ya nyumba ( Mathayo 2:11 ), na Herode akawaua wavulana hadi walipokuwa na umri wa miaka miwili kulingana na tarehe iliyotolewa."
+      },
+      {
+        "question": "Ni mtume gani aliuawa na Herode Agripa wa Kwanza karibu 44 AD? AD?",
+        "options": [
+          "Mwamba",
+          "Jacques, kaka wa Jean",
+          "Andrew",
+          "Mathayo"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 12:1-2 inaandika kwamba Herode alimuua Yakobo, ndugu yake Yohana, kwa upanga."
+      },
+      {
+        "question": "Je, Israeli ilitawaliwa na Sauli kwa miaka mingapi kulingana na Matendo 13:21?",
+        "options": [
+          "miaka 20",
+          "Miaka 30",
+          "miaka 40",
+          "Miaka 50"
+        ],
+        "correct": 2,
+        "explanation": "Paulo anakumbuka katika Matendo 13:21 kwamba Mungu aliwapa Sauli kwa miaka 40."
       }
     ],
     "intermediaire": [
@@ -332,6 +849,523 @@
         ],
         "correct": 2,
         "explanation": "Agizo la wafalme 3 wa kwanza: Sauli (karibu 1050-1010) → Daudi (karibu 1010-970) → Sulemani (karibu 970-931 KK)."
+      },
+      {
+        "question": "Je, manabii hawa wa Agano la Kale wanapaswa kuwekwa katika mpangilio gani wa matukio?",
+        "options": [
+          "Hagai → Isaya → Yeremia",
+          "Isaya → Yeremia → Hagai",
+          "Yeremia → Isaya → Hagai",
+          "Hagai → Yeremia → Isaya"
+        ],
+        "correct": 1,
+        "explanation": "Isaya alitabiri katika karne ya 8. av. BC, Yeremia katika karne ya 7-6. av. BC, na Hagai baada ya uhamisho karibu 520 BC. AD"
+      },
+      {
+        "question": "Katika takriban mwaka gani Koreshi Mkuu alitoa amri yake ya kuruhusu kurudi kwa Wayahudi?",
+        "options": [
+          "722 KK",
+          "586 KK",
+          "538 KK",
+          "445 KK"
+        ],
+        "correct": 2,
+        "explanation": "Baada ya kutekwa kwa Babeli mnamo 539 KK. KK, Koreshi alitoa Amri ya Kurudi mwaka 538 KK. ( Ezra 1:1 )."
+      },
+      {
+        "question": "Katika takriban mwaka gani Hekalu la Pili lilikamilishwa chini ya Zerubabeli?",
+        "options": [
+          "586 KK",
+          "538 KK",
+          "516-515 KK",
+          "458 KK"
+        ],
+        "correct": 2,
+        "explanation": "Ilikamilika mwaka wa 6 wa utawala wa Dario wa Kwanza, mnamo 516/515 KK. BC, au miaka 70 baada ya uharibifu wa 586 BC. ( Ezra 6:15 )."
+      },
+      {
+        "question": "Ni mfalme gani wa Ashuru alizingira Yerusalemu wakati wa utawala wa Hezekia mwaka wa 701 KK? AD?",
+        "options": [
+          "Sargoni II",
+          "Senakeribu",
+          "Assurbanipal",
+          "Tiglath-Pileseri III"
+        ],
+        "correct": 1,
+        "explanation": "Senakeribu aliuzingira Yerusalemu mwaka wa 701 KK. AD, lakini mji huo ulitolewa kimuujiza (2 Wafalme 18-19)."
+      },
+      {
+        "question": "Ni mwaka gani uhamisho wa kwanza wa Yuda hadi Babeli (pamoja na Danieli) ulifanyika?",
+        "options": [
+          "722 KK",
+          "605 KK",
+          "597 KK",
+          "586 KK"
+        ],
+        "correct": 1,
+        "explanation": "Nebukadneza alitiisha Yuda na kuchukua mateka wasomi, akiwemo Danieli, mwaka 605 KK. ( Danieli 1:1 )."
+      },
+      {
+        "question": "Mfalme Yehoyakini na nabii Ezekieli walihamishwa hadi Babiloni katika mwaka gani?",
+        "options": [
+          "605 KK",
+          "597 KK",
+          "586 KK",
+          "539 KK"
+        ],
+        "correct": 1,
+        "explanation": "Uhamisho wa pili ulifanyika mnamo 597 KK. KK, pamoja na Mfalme Yehoyakini na Ezekieli (2 Wafalme 24:10-16)."
+      },
+      {
+        "question": "Ni chini ya mfalme gani wa Yuda ambapo Kitabu cha Sheria kilipatikana Hekaluni karibu 622 KK? AD?",
+        "options": [
+          "Hezekia",
+          "Manase",
+          "Yosia",
+          "Sedekia"
+        ],
+        "correct": 2,
+        "explanation": "Katika mwaka wa 18 wa utawala wa Yosia (~622 KK), kuhani mkuu Hilkia alipata Kitabu cha Sheria (2 Wafalme 22)."
+      },
+      {
+        "question": "Mfalme Yosia alitawala Yuda kwa muda gani?",
+        "options": [
+          "Umri wa miaka 11",
+          "Umri wa miaka 22",
+          "Umri wa miaka 31",
+          "Umri wa miaka 41"
+        ],
+        "correct": 2,
+        "explanation": "Yosia alianza kutawala akiwa na umri wa miaka 8 na alitawala kwa miaka 31 huko Yerusalemu (2 Wafalme 22:1)."
+      },
+      {
+        "question": "Katika takriban mwaka gani Vita vya Karkemishi vilifanyika kati ya Babeli na Misri?",
+        "options": [
+          "701 KK",
+          "605 KK",
+          "586 KK",
+          "539 KK"
+        ],
+        "correct": 1,
+        "explanation": "Mnamo 605 KK. Mnamo 500 KK, Nebukadneza alimshinda Farao Neko huko Karkemishi, na kuleta Mashariki ya Kati chini ya utawala wa Babeli (Yeremia 46:2)."
+      },
+      {
+        "question": "Je, manabii hawa wa baada ya uhamisho walifuatana kwa utaratibu gani?",
+        "options": [
+          "Malaki → Hagai → Zekaria",
+          "Hagai na Zekaria → Malaki",
+          "Zekaria → Malaki → Hagai",
+          "Malaki → Zekaria → Hagai"
+        ],
+        "correct": 1,
+        "explanation": "Hagai na Zekaria walitabiri karibu 520-518 KK. AD kwa ajili ya ujenzi wa Hekalu; Malaki alitabiri katika karne ya 5. av. AD"
+      },
+      {
+        "question": "Ni chini ya mfalme gani wa Uajemi Nehemia alirudi Yerusalemu karibu 445 KK? AD?",
+        "options": [
+          "Koreshi Mkuu",
+          "Dario I",
+          "Artashasta I",
+          "Xerxes I"
+        ],
+        "correct": 2,
+        "explanation": "Nehemia alipata ruhusa kutoka kwa Artashasta wa Kwanza katika mwaka wa 20 wa utawala wake (~445 KK, Nehemia 2:1)."
+      },
+      {
+        "question": "Takriban ni mwaka gani Ezra alirudi Yerusalemu?",
+        "options": [
+          "538 KK",
+          "515 KK",
+          "458 KK",
+          "400 KK"
+        ],
+        "correct": 2,
+        "explanation": "Ezra aliondoka katika mwaka wa 7 wa Artashasta wa Kwanza, wa kitamaduni wa 458 KK. ( Ezra 7:7-8 )."
+      },
+      {
+        "question": "Ni tukio gani lililoashiria mwisho wa kipindi cha kati ya maagano kwa upande wa Warumi?",
+        "options": [
+          "Ushindi wa Alexander (332 KK)",
+          "Kutekwa kwa Yerusalemu na Pompey (63 KK)",
+          "Uasi wa Bar Kokhba (132 BK)",
+          "Kuharibiwa kwa Hekalu (70 BK)"
+        ],
+        "correct": 1,
+        "explanation": "Mnamo 63 KK. KK, jenerali wa Kirumi Pompey alichukua Yerusalemu na kuiweka Yudea chini ya utawala wa Warumi."
+      },
+      {
+        "question": "Ni mwaka gani uasi wa Wamakabayo dhidi ya Antioko wa Nne Epiphanes ulianza?",
+        "options": [
+          "332 KK",
+          "167 KK",
+          "63 KK",
+          "4 KK"
+        ],
+        "correct": 1,
+        "explanation": "Mnamo 167 KK. BC, Antiochus IV alinajisi Hekalu, na kusababisha uasi wa Wamakabayo (Sikukuu ya Hanukkah mwaka wa 164 KK)."
+      },
+      {
+        "question": "Je, ni takriban tarehe gani ya kuzaliwa kwa Yesu leo?",
+        "options": [
+          "10 ap. AD",
+          "6 hadi 4 KK",
+          "14 AD",
+          "25 KK"
+        ],
+        "correct": 1,
+        "explanation": "Herode Mkuu alikufa mwaka wa 4 KK. KK, kuzaliwa kwa Yesu ni kati ya 6 na 4 KK. AD"
+      },
+      {
+        "question": "Ni mwaka gani unaotumika sana kusulubiwa kwa Yesu?",
+        "options": [
+          "25 AD",
+          "30 au 33 AD. AD",
+          "40 AD",
+          "50 AD"
+        ],
+        "correct": 1,
+        "explanation": "Chini ya Pontio Pilato (msimamizi kutoka 26 hadi 36 BK), tarehe 30 au 33 BK. AD yanahusiana na iwezekanavyo Ijumaa 14 Nisan."
+      },
+      {
+        "question": "Baraza la Yerusalemu lilifanyika katika takriban mwaka gani (Matendo 15)?",
+        "options": [
+          "33 BK",
+          "49 AD",
+          "64 AD",
+          "70 AD"
+        ],
+        "correct": 1,
+        "explanation": "Baraza la Mitume la Yerusalemu lilifanyika karibu 48-49 AD. AD kutawala juu ya mapokezi ya wapagani."
+      },
+      {
+        "question": "Ni mwaka gani mfalme Klaudio aliwafukuza Wayahudi kutoka Rumi (Matendo 18:2)?",
+        "options": [
+          "37 AD",
+          "49 AD",
+          "64 AD",
+          "70 AD"
+        ],
+        "correct": 1,
+        "explanation": "Amri ya Klaudio karibu 49 AD. BC aliwafukuza Akila na Prisila kutoka Rumi hadi Korintho, ambapo Paulo alikutana nao."
+      },
+      {
+        "question": "Ni gavana gani wa Kirumi huko Korintho anayetoa alama kuu ya mpangilio wa wakati wa kukaa kwa Paulo (BK 51-52)?",
+        "options": [
+          "Felix",
+          "Festo",
+          "Gallioni",
+          "Pilato"
+        ],
+        "correct": 2,
+        "explanation": "Maandishi ya Delphi yanaweka liwali wa Gallio huko Korintho mnamo AD 51-52. ( Matendo 18:12 )."
+      },
+      {
+        "question": "Ni chini ya maliki gani Mroma ambapo inaelekea Paulo na Petro waliuawa kwa ajili ya imani huko Roma?",
+        "options": [
+          "Tiberio",
+          "Caligula",
+          "Nero",
+          "Domitian"
+        ],
+        "correct": 2,
+        "explanation": "Mapokeo yanaweka kuuawa kwa Petro na Paulo huko Rumi chini ya Nero kati ya 64 na 67 AD. AD"
+      },
+      {
+        "question": "Ni katika mwaka gani moto mkuu wa Rumi uliofuatiwa na mateso ya Nero ulifanyika?",
+        "options": [
+          "49 AD",
+          "54 AD",
+          "64 AD",
+          "70 AD"
+        ],
+        "correct": 2,
+        "explanation": "Kuchomwa kwa Roma kulifanyika mnamo Julai 64 BK. AD, na Nero waliwashtaki Wakristo (Tacitus, Annals XV)."
+      },
+      {
+        "question": "Je, ni safari ngapi kati ya safari kuu za umishonari za Paulo zilizoelezwa kabla ya kukamatwa kwake?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "correct": 2,
+        "explanation": "Matendo ya Mitume inaeleza safari kuu tatu za kimisionari (Matendo 13-14, 15-18, 18-21) kabla ya uhamisho wake kwenda Rumi."
+      },
+      {
+        "question": "Ni kwa utaratibu gani Paulo alitembelea miji hii katika safari yake ya 2?",
+        "options": [
+          "Korintho → Filipi → Athene",
+          "Philippi → Thesaloniki → Athene → Korintho",
+          "Athene → Korintho → Filipi",
+          "Efeso → Rumi → Filipi"
+        ],
+        "correct": 1,
+        "explanation": "Wakati wa safari ya 2 (Matendo 16-18), Paulo alipitia Filipi, Thesalonike, Berea, Athene na kisha Korintho."
+      },
+      {
+        "question": "Paulo alikaa Efeso kwa muda gani katika safari yake ya tatu?",
+        "options": [
+          "Miezi 3",
+          "1 mwaka",
+          "Takriban miaka 3",
+          "miaka 7"
+        ],
+        "correct": 2,
+        "explanation": "Katika Matendo 20:31, Paulo anawakumbusha wazee wa Efeso kwamba aliwaonya usiku na mchana kwa miaka mitatu."
+      },
+      {
+        "question": "Ni chini ya mfalme gani wa Yuda ambapo nabii Isaya alipokea maono yake ya kutawazwa (Isaya 6:1)?",
+        "options": [
+          "Mwaka ambao Uzia alikufa (~740 KK)",
+          "Mwaka ambao Daudi alikufa",
+          "Mwaka ambao Yosia alikufa",
+          "Chini ya Sedekia"
+        ],
+        "correct": 0,
+        "explanation": "Isaya 6:1 inaweka wito wake katika 'mwaka ambao Mfalme Uzia alikufa', karibu 740 KK. AD"
+      },
+      {
+        "question": "Ufalme wa Kaskazini (Israeli) ulidumu kwa miaka mingapi kati ya mafarakano (931) na anguko la Samaria (722)?",
+        "options": [
+          "Karibu miaka 100",
+          "Karibu miaka 209",
+          "Karibu miaka 350",
+          "Karibu miaka 400"
+        ],
+        "correct": 1,
+        "explanation": "Kuanzia 931 KK. KK hadi 722 KK, Ufalme wa Kaskazini ulidumu kidogo zaidi ya karne mbili (miaka 209)."
+      },
+      {
+        "question": "Je! Yerusalemu ilishikilia miaka mingapi zaidi ya Samaria kabla ya kuangamizwa kwake mnamo 586 KK? AD?",
+        "options": [
+          "Miaka 50",
+          "Umri wa miaka 136",
+          "Miaka 200",
+          "Miaka 300"
+        ],
+        "correct": 1,
+        "explanation": "Kati ya anguko la Samaria (722 KK) na lile la Yerusalemu (586 KK), miaka 136 ilipita."
+      },
+      {
+        "question": "Ni mfalme gani wa Yuda aliyeponywa na kupewa miaka 15 zaidi ya maisha?",
+        "options": [
+          "Yosia",
+          "Hezekia",
+          "Asa",
+          "Yehoshafati"
+        ],
+        "correct": 1,
+        "explanation": "Mungu alimpa Mfalme Hezekia miaka 15 zaidi baada ya maombi yake (2 Wafalme 20:6)."
+      },
+      {
+        "question": "Wafalme hawa wawili mashuhuri wa Yuda walitawala kwa utaratibu gani?",
+        "options": [
+          "Yosia kisha Hezekia",
+          "Hezekia kisha Yosia",
+          "Walitawala pamoja",
+          "Yosia mbele ya Sulemani"
+        ],
+        "correct": 1,
+        "explanation": "Hezekia alitawala karibu 715-686 KK. KK, kisha mwanawe Manase, mjukuu wake Amoni, na mjukuu wake Yosia (640-609 KK)."
+      },
+      {
+        "question": "Ni mfalme gani wa Uajemi aliyetawala wakati wa hadithi ya Esta?",
+        "options": [
+          "Koreshi",
+          "Ahasuero (Xerxes I)",
+          "Dario III",
+          "Cambyses"
+        ],
+        "correct": 1,
+        "explanation": "Kitabu cha Esta kinatukia chini ya Ahasuero, aliyetambuliwa na Xerxes wa Kwanza (486-465 KK)."
+      },
+      {
+        "question": "Vitabu hivi vitatu vya kihistoria vya baada ya uhamisho viko katika mpangilio gani?",
+        "options": [
+          "Esta (utawala wa Xerxes) kati ya kurudi kwa Zerubabeli na utume wa Nehemia",
+          "Nehemia mbele ya Koreshi",
+          "Ezra mbele ya Nebukadneza",
+          "Esta mbele ya Sulemani"
+        ],
+        "correct": 0,
+        "explanation": "Zerubabeli alirudi karibu 538 KK. KK, Esta aliishi chini ya Xerxes (486-465), kisha Ezra (458) na Nehemia (445) chini ya Artashasta wa Kwanza."
+      },
+      {
+        "question": "Injili ya Mathayo na Luka mara nyingi huandikwa mwaka gani?",
+        "options": [
+          "35-40 AD",
+          "50-55 AD",
+          "80-85 AD",
+          "120-130 AD"
+        ],
+        "correct": 2,
+        "explanation": "Wafafanuzi wengi wanasema Mathayo na Luka ni miaka ya 80-85 BK. KK, baada ya Marko (~ 65-70)."
+      },
+      {
+        "question": "Ni mfalme gani aliyetawala wakati wa uhamisho wa Yohana kule Patmo kulingana na mapokeo makuu?",
+        "options": [
+          "Agosti",
+          "Nero",
+          "Domitian",
+          "Trajan"
+        ],
+        "correct": 2,
+        "explanation": "Irenaeus wa Lyon anaweka uandishi wa Apocalypse mwishoni mwa utawala wa Domitian, karibu 95-96 AD. AD"
+      },
+      {
+        "question": "Ni siku ngapi Paulo alikuwa kipofu huko Damasko kabla ya Anania kumwombea?",
+        "options": [
+          "siku 1",
+          "siku 3",
+          "siku 7",
+          "siku 40"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 9:9 inasema kwamba Sauli alikaa siku tatu bila kuona, kula wala kunywa."
+      },
+      {
+        "question": "Ni miaka mingapi Paulo alikaa Arabia na Damasko kabla ya kwenda kwa Petro huko Yerusalemu (Wagalatia 1:18)?",
+        "options": [
+          "1 mwaka",
+          "miaka 3",
+          "miaka 7",
+          "Umri wa miaka 14"
+        ],
+        "correct": 1,
+        "explanation": "Paulo anasema katika Wagalatia 1:18 kwamba baada ya miaka mitatu alipanda kwenda Yerusalemu kukutana na Kefa."
+      },
+      {
+        "question": "Paulo alishikiliwa Kaisaria chini ya Felisi kwa miaka mingapi kabla ya kufika mbele ya Festo?",
+        "options": [
+          "Miezi 6",
+          "miaka 2",
+          "miaka 5",
+          "miaka 7"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 24:27 inaonyesha kwamba baada ya miaka miwili Felisi alifuatwa na Porkio Festo."
+      },
+      {
+        "question": "Ni wakati gani nabii Obadia pengine alitoa unabii juu ya Edomu?",
+        "options": [
+          "Wakati wa uumbaji",
+          "Baada ya anguko/uporaji wa Yerusalemu (labda 586 KK)",
+          "Chini ya utawala wa Sulemani",
+          "Katika karne ya 1 BK. AD"
+        ],
+        "correct": 1,
+        "explanation": "Obadia 11-14 inalaani Edomu kwa kushangilia siku ya dhiki na uporaji wa Yerusalemu."
+      },
+      {
+        "question": "Ni tukio gani la kihistoria lililoashiria mwisho wa uasi wa Wayahudi wa Bar Kokhba?",
+        "options": [
+          "70 AD",
+          "135 AD",
+          "63 KK",
+          "325 AD"
+        ],
+        "correct": 1,
+        "explanation": "Uasi wa pili wa Wayahudi (132-135 BK) uliisha mwaka 135 BK. BC chini ya Mtawala Hadrian."
+      },
+      {
+        "question": "Mfalme Yosia alikufa chini ya farao gani wa Misri huko Megido mnamo 609 KK? AD?",
+        "options": [
+          "Ramses II",
+          "Neco II",
+          "Shishaki",
+          "Tutankhamun"
+        ],
+        "correct": 1,
+        "explanation": "Yosia alimpinga Farao Neko wa Pili ambaye alipanda kwenda kuisaidia Ashuru na aliuawa huko Megido mwaka 609 KK. ( 2 Wafalme 23:29 )."
+      },
+      {
+        "question": "Ni farao gani aliteka nyara Yerusalemu chini ya Rehoboamu, miaka 5 baada ya kifo cha Sulemani (~925 KK)?",
+        "options": [
+          "Neko",
+          "Shishaki (Sheshonq I)",
+          "Ramses II",
+          "Tirhaka"
+        ],
+        "correct": 1,
+        "explanation": "1 Wafalme 14:25-26 inataja uvamizi wa Shishaki katika mwaka wa 5 wa utawala wa Rehoboamu (~925 KK)."
+      },
+      {
+        "question": "Je, waamuzi hawa watatu walitokea kwa utaratibu gani katika kitabu cha Waamuzi?",
+        "options": [
+          "Samson → Gideon → Debora",
+          "Debora → Gideon → Samson",
+          "Gideon → Debora → Samson",
+          "Samson → Debora → Gideon"
+        ],
+        "correct": 1,
+        "explanation": "Debora anakuja katika sura ya 4-5, Gideoni katika sura ya 6-8, na Samsoni katika sura ya 13-16."
+      },
+      {
+        "question": "Sanduku la Agano lilikaa Kiriath-yearimu kwa muda gani kabla ya Daudi kulihamisha?",
+        "options": [
+          "Miezi 7",
+          "Miaka 20 (au zaidi hadi Daudi)",
+          "siku 40",
+          "miaka 3"
+        ],
+        "correct": 1,
+        "explanation": "1 Samweli 7:2 inaandika kwamba Sanduku lilikaa kwa muda mrefu huko Kiriath-yearimu, miaka ishirini imepita kabla ya uamsho chini ya Samweli."
+      },
+      {
+        "question": "Takriban tafsiri ya Kigiriki ya Septuagint (LXX) ilianza lini Alexandria?",
+        "options": [
+          "Karne ya 5 KK",
+          "Karne ya 3 KK (c. 280-250 KK)",
+          "Karne ya 1 BK",
+          "Karne ya 4 BK"
+        ],
+        "correct": 1,
+        "explanation": "Tafsiri ya Pentateuch kwa Kigiriki ilianza Alexandria katika karne ya 3 KK. BC chini ya Ptolemy II Philadelphus."
+      },
+      {
+        "question": "Ni nabii gani aliyeishi wakati mmoja na anguko la Ninawi (612 KK) ambalo alikuwa ametangaza?",
+        "options": [
+          "Yona",
+          "Nahumu",
+          "Hagai",
+          "Malaki"
+        ],
+        "correct": 1,
+        "explanation": "Nahumu alitangaza kuanguka karibu kwa Ninawi, ambayo kwa hakika ilianguka mnamo 612 KK. BC kabla ya Wababeli na Wamedi."
+      },
+      {
+        "question": "Yesu alikaa muda gani nyikani baada ya kubatizwa kabla ya kurudi Galilaya?",
+        "options": [
+          "siku 7",
+          "siku 40",
+          "Miezi 6",
+          "1 mwaka"
+        ],
+        "correct": 1,
+        "explanation": "Muhtasari unaonyesha kwamba Roho alimwongoza Yesu jangwani kwa siku 40 (Marko 1:12-13)."
+      },
+      {
+        "question": "Ni baraza gani la kiekumene lilifanyika mwaka 325 BK? AD ili kukabiliana na uungu wa Kristo?",
+        "options": [
+          "Baraza la Yerusalemu",
+          "Baraza la Nicaea",
+          "Baraza la Chalcedon",
+          "Baraza la Trent"
+        ],
+        "correct": 1,
+        "explanation": "Mtaguso wa Kwanza wa Nisea uliitishwa mwaka 325 BK. AD inakabiliwa na Arianism."
+      },
+      {
+        "question": "Je, nyaraka hizi za Paulo pengine ziliandikwa kwa utaratibu gani?",
+        "options": [
+          "2 Timotheo → Warumi → 1 Wathesalonike",
+          "1 Wathesalonike → Warumi → 2 Timotheo",
+          "Warumi → 1 Wathesalonike → 2 Timotheo",
+          "2 Timotheo → 1 Wathesalonike → Warumi"
+        ],
+        "correct": 1,
+        "explanation": "1 Wathesalonike (~ 50-51) ni mojawapo ya waraka wa kwanza kabisa, Warumi ulianza karibu 57, na 2 Timotheo ni waraka wa mwisho wa kichungaji (~ 66-67)."
       }
     ],
     "expert": [
@@ -499,6 +1533,512 @@
         ],
         "correct": 0,
         "explanation": "Matengenezo ya Kiprotestanti: Luther alichapisha nadharia zake 95 katika mwaka wa 1517. Uvumbuzi wa uchapishaji (Gutenberg ~ 1450) na ugunduzi upya wa Agano Jipya la Kigiriki (Erasmus 1516) ulifanya uwezekano wa kueneza Biblia katika lugha za kienyeji."
+      },
+      {
+        "question": "Ni mwamba gani wa Misri wa karibu 1208 KK? KK ina jina la zamani zaidi la Biblia linalojulikana la 'Israeli'?",
+        "options": [
+          "Ngoma ya Mesha",
+          "Mwamba wa Merenptah",
+          "Prism ya Taylor",
+          "Silinda ya Cyrus"
+        ],
+        "correct": 1,
+        "explanation": "Mnara wa Merenptah (karibu 1208 KK) unataja 'Israeli imeharibiwa, mbegu yake haipo tena', ikithibitisha uwepo wake katika Kanaani katika karne ya 13. av. AD"
+      },
+      {
+        "question": "Vita gani vya 853 KK? KK, iliyotajwa kwenye monolith ya Kurkh, inataja Mfalme Ahabu wa Israeli?",
+        "options": [
+          "Vita vya Megido",
+          "Vita vya Qarqar",
+          "Vita vya Karkemishi",
+          "Vita vya Lakishi"
+        ],
+        "correct": 1,
+        "explanation": "Mwashuri mmoja wa Shalmanesar III anamtaja 'Ahabu Mwisraeli' akiwa na magari 2000 kwenye Vita vya Qarqar mnamo 853 KK. AD"
+      },
+      {
+        "question": "Ni juu ya obelisk gani ya Ashuru tunamwona Mfalme Yehu wa Israeli akisujudu mbele ya Shalmanesar III karibu 841 KK? AD?",
+        "options": [
+          "Obelisk nyeupe",
+          "Obelisk nyeusi",
+          "Ngoma ya Tel Dan",
+          "Mwamba wa Siloamu"
+        ],
+        "correct": 1,
+        "explanation": "Obelisk Nyeusi ya Nimrud inaonyesha 'Yehu, mwana wa Omri' akitoa heshima kwa Shalmanesar III mwaka wa 841 KK. AD"
+      },
+      {
+        "question": "Ni maandishi gani ya Kiaramu kutoka karne ya 9 KK? AD inataja 'Nyumba ya Daudi' (Bytdwd)?",
+        "options": [
+          "Maandishi ya Siloamu",
+          "Ngoma ya Tel Dan",
+          "Barua za Lakishi",
+          "Kiburi cha Samaria"
+        ],
+        "correct": 1,
+        "explanation": "Iligunduliwa mwaka wa 1993-1994, maandishi ya Tel Dan (~840 KK) yanataja ushindi dhidi ya mfalme wa 'Nyumba ya Daudi'."
+      },
+      {
+        "question": "Ni katika mwaka gani hususa ambapo mabamba ya Babeli yaliweka tarehe ya kutekwa kwa Yerusalemu wakati wa uhamisho wa 2 (Yehoyakini)?",
+        "options": [
+          "Machi 16, 597 KK",
+          "Agosti 15, 586 KK",
+          "Oktoba 12, 539 KK",
+          "Aprili 1, 605 KK"
+        ],
+        "correct": 0,
+        "explanation": "The Babylonian Chronicle (BM 21946) inarekebisha kutekwa kwa Yerusalemu tarehe 2 Adari ya mwaka wa 7 wa Nebukadneza, yaani, Machi 16, 597 KK. AD"
+      },
+      {
+        "question": "Edwin Thiele (Hesabu za Ajabu za Wafalme wa Kiebrania) anafafanuaje tofauti zinazoonekana katika mpangilio wa matukio wa wafalme wa Israeli na Yuda?",
+        "options": [
+          "Kwa makosa ya kimfumo ya wanakili",
+          "Kulingana na mashirika mengine, miaka ya kutawazwa dhidi ya kutokubali, na kalenda zinazoanzia mwezi wa Nisani au Tishri",
+          "Kwa uvumbuzi wa marehemu wa kifalme",
+          "Kwa kutumia kalenda ya Julian"
+        ],
+        "correct": 1,
+        "explanation": "Thiele alionyesha kwamba Yuda na Israeli walitumia mifumo tofauti (Nisan dhidi ya Tishri, mwaka wa kutawazwa dhidi ya kutokubali) pamoja na mashirika mengine."
+      },
+      {
+        "question": "Ni tofauti gani ya kronolojia inayotenganisha mwanzo wa mwaka wa kifalme katika Yuda (Tishri) na katika Israeli ya Kaskazini (Nisani)?",
+        "options": [
+          "mwezi 1",
+          "Miezi 6",
+          "Miezi 12",
+          "miaka 3"
+        ],
+        "correct": 1,
+        "explanation": "Israeli walihesabu miaka ya kutawala kuanzia Nisani (masika), huku Yuda wakitumia Tishri (maanguka), pengo la miezi 6."
+      },
+      {
+        "question": "Kulingana na 2 Wafalme 25:8, ni katika mwezi gani wa kalenda ya Kiebrania Hekalu la Sulemani lilichomwa moto mwaka wa 586 KK? AD?",
+        "options": [
+          "Mwezi wa 1 (Nisan)",
+          "Mwezi wa 5 (Ab)",
+          "Mwezi wa 7 (Tishri)",
+          "Mwezi wa 12 (Adari)"
+        ],
+        "correct": 1,
+        "explanation": "Hekalu lilichomwa moto katika mwezi wa 5 (Ab), ambalo bado linakumbukwa hadi leo kwa mfungo wa Tisha B'Av."
+      },
+      {
+        "question": "Hati gani ya Kiajemi kutoka 539 BC. AD inathibitisha sera ya Koreshi ya kurudisha watu na madhehebu kwenye patakatifu pao?",
+        "options": [
+          "Stele ya Behistun",
+          "Silinda ya Cyrus",
+          "Papyri ya Tembo",
+          "Jiwe la Rosetta"
+        ],
+        "correct": 1,
+        "explanation": "Silinda ya Koreshi inathibitisha sera ya kifalme ya kuvumiliana kwa kidini na kurejesha mahali patakatifu baada ya kuanguka kwa Babiloni."
+      },
+      {
+        "question": "Mafunjo ya Tembo ya Kiaramu yanataja wakati gani wana wa Sanbalati, liwali wa Samaria (aliyeishi siku moja na Nehemia)?",
+        "options": [
+          "Karibu 586 BC. AD",
+          "Karibu 407 BC. AD",
+          "Karibu 332 BC. AD",
+          "Karibu 167 BC. AD"
+        ],
+        "correct": 1,
+        "explanation": "Barua za Elephantine za mwaka 407 KK zinataja Delaiah na Shélémya, wana wa Sanbalati, zinazothibitisha kuchumbiana kwa Nehemia katika karne ya 5 KK. AD"
+      },
+      {
+        "question": "Ni tarehe gani inayoashiria kuingia kwa Antioko wa Nne Epifane na kuchafuliwa kwa Hekalu kwa 'chukizo la uharibifu' (1 Wamakabayo 1:54)?",
+        "options": [
+          "25 Kislev 167 KK",
+          "14 Nisan 164 KK",
+          "10 Tishri 175 KK",
+          "Mnamo mwaka wa 1Ab 142 KK"
+        ],
+        "correct": 0,
+        "explanation": "15/25 Kislev 167 KK, madhabahu ya kipagani ilijengwa juu ya madhabahu ya sadaka za kuteketezwa; Hekalu liliwekwa wakfu tena miaka 3 baadaye (164 KK)."
+      },
+      {
+        "question": "Je, ni mahali gani panapojadiliwa kwa kawaida kwa 'majuma 70 ya miaka' (miaka 490) ya Danieli 9:25?",
+        "options": [
+          "Amri ya Koreshi (538), amri ya Artashasta kwa Ezra (458/457) au kwa Nehemia (445/444)",
+          "Kifo cha Alexander the Great (323)",
+          "Kuzaliwa kwa Yesu (4 KK)",
+          "Kuanguka kwa Samaria (722)"
+        ],
+        "correct": 0,
+        "explanation": "Tafsiri za Kimasihi huhesabu majuma 69 (miaka 483) kutoka kwa amri za Artashasta (457 au 444 KK) hadi huduma au kifo cha Yesu."
+      },
+      {
+        "question": "Ni maandishi gani yaliyogunduliwa huko Kaisaria Maritime mwaka wa 1961 yanayothibitisha uhistoria na cheo kamili cha Pontio Pilato?",
+        "options": [
+          "Sanduku la mifupa ya Kayafa",
+          "Jiwe la Pilato (praefectus Iudaeae)",
+          "Uandishi wa Gallion",
+          "Amri ya Nazareti"
+        ],
+        "correct": 1,
+        "explanation": "Jiwe la Pilato linamtaja 'Pontio Pilato, Praefectus Iudaeae', kuthibitisha jina lake halisi chini ya Tiberio (mwaka 26-36 BK)."
+      },
+      {
+        "question": "Ni katika mwaka gani hususa ambapo mwaka wa 15 wa utawala wa Kaisari Tiberio ( Luka 3:1 ), unaotia alama mwanzo wa huduma ya Yohana Mbatizaji?",
+        "options": [
+          "21-22 AD",
+          "27-29 AD",
+          "33-34 AD",
+          "18-19 AD"
+        ],
+        "correct": 1,
+        "explanation": "Tiberio alimrithi Augusto mwaka 14 BK (au alihusishwa mwaka 12): mwaka wake wa 15 kwa hiyo unalingana na 27-29 AD. AD"
+      },
+      {
+        "question": "Kwa nini kutajwa kwa 'miaka 46' ya kujenga Hekalu katika Yohana 2:20 kunasaidia tarehe ya mwanzo wa huduma ya Yesu?",
+        "options": [
+          "Herode alianza kazi hiyo mnamo 20/19 KK. AD, ambayo inaweka Pasaka hii karibu 27-28 AD. AD",
+          "Sulemani alichukua miaka 46",
+          "Hekalu liliharibiwa miaka 46 baadaye",
+          "Ni kielelezo pekee kisicho na kiungo cha kihistoria."
+        ],
+        "correct": 0,
+        "explanation": "Kulingana na Flavius ​​​​Josephus, Herode alianza ukarabati wa Hekalu mnamo 20/19 KK. AD; Miaka 46 baadaye inaongoza kwa hasa 27-28 AD. AD"
+      },
+      {
+        "question": "Ni mfuatano upi wa Paulo unaotegemea amri ya Klaudio (49) na liwali wa Galio (51-52)?",
+        "options": [
+          "Uchumba wa uandishi wa Apocalypse",
+          "Kukaa kwa Paulo kwa miezi 18 huko Korintho wakati wa safari ya 2 (AD 50-52)",
+          "Baraza la Nikea",
+          "Kuzaliwa kwa Paulo huko Tarso"
+        ],
+        "correct": 1,
+        "explanation": "Kuwasili kwa hivi majuzi kwa Akila na Prisila (hariri ya 49) na kuonekana mbele ya Gallio (51-52) kunathibitisha kwa uthabiti mpangilio wa matukio wa Pauline."
+      },
+      {
+        "question": "Je, maelezo ya ziara ya Yerusalemu katika Wagalatia 2:1-10 yanatofautianaje na yale katika Matendo?",
+        "options": [
+          "Hakuna tofauti, kila kitu ni sawa",
+          "Wasomi wanabishana kama inalingana na kutembelewa kwa njaa (Matendo 11:30, ~46) au Baraza la Yerusalemu (Matendo 15, ~49)",
+          "Wagalatia 2 inazungumza kuhusu safari ya kwenda Rumi",
+          "Matendo kamwe haitaji Yerusalemu"
+        ],
+        "correct": 1,
+        "explanation": "Utambulisho wa Wagalatia 2 na Matendo 11 (date ya awali ya Wagalatia, ~48) au Matendo 15 (~50-55) ni mjadala wa kawaida katika kronolojia ya Agano Jipya."
+      },
+      {
+        "question": "Je, ni mfuatano gani wa mpangilio unaotumika kuandika Hati-kunjo za Bahari ya Chumvi (Qumran)?",
+        "options": [
+          "Karne ya 8. av. BC hadi karne ya 6. av. AD",
+          "Karne ya 3 av. BC hadi karne ya 1 baada ya (kabla ya AD 68)",
+          "Karne ya 2 baada ya KK hadi karne ya 4 baada ya AD",
+          "Karne ya 5 baada ya KK pekee"
+        ],
+        "correct": 1,
+        "explanation": "Vitabu vya Kukunjo vya Qumran vinashughulikia takriban 250 BC. BC hadi AD 68 BC, tarehe ya uharibifu wa tovuti na majeshi ya Kirumi."
+      },
+      {
+        "question": "Ni mafunjo gani kutoka karne ya 2 BK? kwa ujumla inatambuliwa kuwa kipande cha kale zaidi cha Agano Jipya kilichohifadhiwa?",
+        "options": [
+          "Codex Sinaiticus",
+          "The Rylands Papyrus P52 (Yohana 18, c. 125 BK)",
+          "Kodeksi ya Vatikani",
+          "Papyrus ya Bodmer P66"
+        ],
+        "correct": 1,
+        "explanation": "P52 (sehemu ya Yohana 18:31-33, 37-38) ina tarehe ya paleografia karibu 125 AD. AD, miongo michache baada ya kuandikwa kwa Yohana."
+      },
+      {
+        "question": "Je! ni mwaka gani wa takriban kipande cha Muratori (orodha ya kale zaidi ya kanuni za Kilatini katika AJ) kawaida huwekwa tarehe?",
+        "options": [
+          "70 AD",
+          "Karibu 170-200 AD. AD",
+          "325 AD",
+          "451 BK"
+        ],
+        "correct": 1,
+        "explanation": "Kanoni ya Muratori, kwa ujumla iliyoandikwa hadi mwisho wa karne ya 2 (~170-200), tayari inashuhudia msingi mpana sana wa kisheria wa AJ."
+      },
+      {
+        "question": "Katika mpangilio wa Nyaraka za Mtume Paulo, ni kundi gani kwa ujumla linajulikana kama 'barua za utumwani'?",
+        "options": [
+          "Warumi, Wagalatia, 1-2 Wakorintho",
+          "Waefeso, Wafilipi, Wakolosai, Filemoni (c. 60-62 AD)",
+          "1-2 Wathesalonike",
+          "1-2 Timotheo, Tito"
+        ],
+        "correct": 1,
+        "explanation": "Waefeso, Wafilipi, Wakolosai na Filemoni ziliandikwa wakati wa kifungo cha Paulo (kimapokeo huko Rumi karibu 60-62 BK)."
+      },
+      {
+        "question": "Ni mfalme gani wa Kirumi alizingira Yerusalemu mwaka wa 70 BK? AD kama jenerali kabla ya kuwa mfalme mnamo 79?",
+        "options": [
+          "Vespasian",
+          "Tito",
+          "Domitian",
+          "Hadrian"
+        ],
+        "correct": 1,
+        "explanation": "Tito, mwana wa Mfalme Vespasian, alikamilisha kuzingirwa na kuchukua Yerusalemu mnamo Agosti-Septemba 70 AD. AD"
+      },
+      {
+        "question": "Ni mwanahistoria gani wa Kiyahudi wa karne ya kwanza anayetoa chanzo cha msingi kisicho cha kibiblia juu ya kipindi cha Hekalu la Pili na vita vya 66-70?",
+        "options": [
+          "Philo wa Alexandria",
+          "Flavius ​​Josephus",
+          "Kimya",
+          "Eusebius wa Kaisaria"
+        ],
+        "correct": 1,
+        "explanation": "Flavius ​​​​Josephus (Vita vya Kiyahudi, Mambo ya Kale ya Kiyahudi) ni chanzo kikuu cha kihistoria cha Uyahudi wa karne ya 1."
+      },
+      {
+        "question": "Takriban muda gani unatenganisha kurudi kwa Nehemia (445 KK) na kuzaliwa kwa Yesu (~5 KK)?",
+        "options": [
+          "Miaka 200",
+          "Miaka 440 (mara nyingi huitwa 'miaka 400 ya ukimya')",
+          "Miaka 700",
+          "Miaka 1000"
+        ],
+        "correct": 1,
+        "explanation": "Kati ya Malaki/Nehemia (karne ya 5 KK) na Yohana Mbatizaji huongeza kipindi cha kati ya maagano ya takriban karne nne."
+      },
+      {
+        "question": "Ni tofauti gani ya mpangilio kati ya Maandishi ya Kimasora (TM) na Septuagint (LXX) katika nasaba za Mwanzo 5 na 11?",
+        "options": [
+          "Hakuna tofauti",
+          "LXX inaongeza takriban miaka 1400 hadi 1500 kwa mpangilio wa nyakati za mababu kabla ya Ibrahimu.",
+          "TM ni miaka 2000 tena",
+          "LXX inamuondoa Nuhu"
+        ],
+        "correct": 1,
+        "explanation": "Katika LXX, mababu kadhaa huzaa wana wao miaka 100 baadaye kuliko katika TM, wakiendeleza mpangilio wa nyakati za kabla ya gharika na baada ya diluvia."
+      },
+      {
+        "question": "Ni msomi gani wa karne ya 17 alihesabu uumbaji wa ulimwengu mnamo 4004 KK? BC kutoka kwa nasaba za kibiblia?",
+        "options": [
+          "John Calvin",
+          "James Usher",
+          "Martin Luther",
+          "Bede Mtukufu"
+        ],
+        "correct": 1,
+        "explanation": "Askofu Mkuu James Ussher alichapisha Annales Veteris Testamenti (1650), akiweka uumbaji mnamo Oktoba 23, 4004 KK. AD"
+      },
+      {
+        "question": "Ni mtawa yupi wa karne ya 6 alianzisha mfumo wa kuchumbiana wa 'Anno Domini' (BK) kwa kukokotoa kuzaliwa kwa Kristo?",
+        "options": [
+          "Jerome wa Stridon",
+          "Dionysius Mdogo",
+          "Augustine wa Kiboko",
+          "Eusebius wa Kaisaria"
+        ],
+        "correct": 1,
+        "explanation": "Dionysius Mdogo (karibu 525) alianzisha enzi ya Ukristo, kwa kuchelewa kidogo kwa miaka michache ikilinganishwa na kifo cha Herode (4 KK)."
+      },
+      {
+        "question": "Ni wakati gani wa nabii Elisha kulingana na mpangilio wa wafalme wa Israeli?",
+        "options": [
+          "Karne ya 10 KK (Sulemani)",
+          "Katikati hadi mwishoni mwa karne ya 9 KK (kutoka Joram hadi Yoashi)",
+          "Karne ya 7 KK (Yosia)",
+          "Karne ya 5 KK (Nehemia)"
+        ],
+        "correct": 1,
+        "explanation": "Elisha alihudumu kuanzia mwaka 850 hadi 800 kabla ya Kristo. KK, chini ya Yoramu, Yehu, Yehoahazi na Yoashi wa Israeli."
+      },
+      {
+        "question": "Ni tarehe gani inayolingana na kuanguka kwa ufalme wa Babiloni Mpya na Koreshi Mkuu?",
+        "options": [
+          "586 KK",
+          "539 KK",
+          "516 KK",
+          "480 KK"
+        ],
+        "correct": 1,
+        "explanation": "Babeli iliangukia kwa wanajeshi wa Koreshi wa Umedi na Uajemi mnamo Oktoba 539 KK. ( Danieli 5:30 )."
+      },
+      {
+        "question": "Nebukadreza wa Pili alikufa katika mwaka gani, na kumwachia Amel-Marduki (Evil-Merodaki) aliyemwachilia Yehoyakini ( 2 Wafalme 25:27 )?",
+        "options": [
+          "586 KK",
+          "562 KK",
+          "539 KK",
+          "520 KK"
+        ],
+        "correct": 1,
+        "explanation": "Nebukadneza alikufa mwaka 562 KK. AD; mwanawe Amel-Marduki alimsamehe Mfalme Yehoyakini katika mwaka wa 37 wa utekwa wake."
+      },
+      {
+        "question": "Je, unabii wa Yoeli unafanyika katika kipindi gani kulingana na dhana kuu mbili za ufafanuzi?",
+        "options": [
+          "Tu katika karne ya 10 KK. AD",
+          "Ama kabla ya uhamisho (karne ya 9 chini ya Yoashi) au baada ya uhamisho (karne ya 5-4 KK)",
+          "Wakati wa uhai wa Musa",
+          "Katika karne ya 2 BK. AD"
+        ],
+        "correct": 1,
+        "explanation": "Kutokuwepo kwa kutajwa kwa mfalme na mahali pa kati pa Hekalu na makuhani kunagawanya watafiti kati ya karne ya 9. na karne ya 5-4. av. AD"
+      },
+      {
+        "question": "Ni mfumo gani wa mpangilio wa 'Barua za Lakishi' uliogunduliwa mwaka wa 1935?",
+        "options": [
+          "Ushindi wa Yoshua (~1200 KK)",
+          "Siku za mwisho kabla ya kuanguka kwa Yerusalemu kwa Babeli (588-586 KK)",
+          "Enzi ya Wamakabayo (165 KK)",
+          "Kuzingirwa kwa Warumi mwaka 70 BK"
+        ],
+        "correct": 1,
+        "explanation": "Safu hizi za kale za Kiebrania ni za kampeni ya mwisho ya Nebukadneza dhidi ya Yuda karibu 588-586 KK. AD"
+      },
+      {
+        "question": "Katika takriban mwaka gani Amri ya Milan (uvumilivu kwa Ukristo) ilitangazwa na Constantine na Licinius?",
+        "options": [
+          "70 AD",
+          "250 AD",
+          "313 BK",
+          "380 AD"
+        ],
+        "correct": 2,
+        "explanation": "Amri ya Milan mwaka 313 BK. BC ilimaliza mateso ya kifalme na kuwapa Wakristo uhuru wa kuabudu."
+      },
+      {
+        "question": "Ni mfalme gani aliufanya Ukristo wa Nikea kuwa dini rasmi ya Milki ya Kirumi kwa Amri ya Thesalonike (380)?",
+        "options": [
+          "Constantine I",
+          "Theodosius I",
+          "Diocletian",
+          "Marcus Aurelius"
+        ],
+        "correct": 1,
+        "explanation": "Theodosius I alitangaza Amri ya Thesalonike mwaka 380 BK. BC, na kuifanya Ukristo kuwa dini ya serikali."
+      },
+      {
+        "question": "Ni katika mwaka gani Mtakatifu Jerome alikamilisha tafsiri nyingi za Kilatini za Vulgate?",
+        "options": [
+          "Karibu 150 AD. AD",
+          "Karibu 325 AD. AD",
+          "Karibu 405 AD. AD",
+          "Karibu 525 AD. AD"
+        ],
+        "correct": 2,
+        "explanation": "Jerome alifanya kazi huko Bethlehemu kutoka 382 hadi takriban 405 AD. AD kutafsiri Biblia katika Kilatini kutoka Kiebrania na Kigiriki."
+      },
+      {
+        "question": "Katika mfuatano wa matukio ya Injili ya Luka, ‘kupaa kuu kwenda Yerusalemu’ ( Luka 9:51 - 19:27 ) kunaanza lini?",
+        "options": [
+          "Tangu kuzaliwa huko Bethlehemu",
+          "Baada ya Kugeuka Sura na kutumwa kwa wanafunzi, mabadiliko makubwa katika huduma",
+          "Baada ya Ufufuo",
+          "Wakati wa utoto huko Nazareti"
+        ],
+        "correct": 1,
+        "explanation": "Luka 9:51 ('alichukua kwa uthabiti njia ya kwenda Yerusalemu') inaunda nusu ya pili ya injili yake kuelekea Mateso."
+      },
+      {
+        "question": "Ni Pasaka ngapi tofauti zinazotajwa waziwazi katika Injili ya Yohana, hivyo kuturuhusu kukadiria muda wa huduma ya Yesu?",
+        "options": [
+          "Pasaka 1 pekee",
+          "Angalau Pasaka 3 (Yohana 2:13; 6:4; 11:55), ikipendekeza takriban miaka 3 ya huduma.",
+          "7 Pasaka",
+          "Hakuna Pasaka iliyotajwa"
+        ],
+        "correct": 1,
+        "explanation": "Wakati Synoptics inataja tu Pasaka moja ya mwisho, Yohana anataja angalau tatu, kwa kuzingatia makadirio ya huduma ya miaka ~3."
+      },
+      {
+        "question": "Ni tukio gani la kisiasa la 44 AD? BC iliyoelezewa katika Matendo 12 pia ina tarehe na Flavius ​​​​Josephus?",
+        "options": [
+          "Kuharibiwa kwa Yerusalemu",
+          "Kifo cha ghafula cha Herode Agripa wa Kwanza huko Kaisaria",
+          "Tetemeko la ardhi la Filipi",
+          "Sensa ya Quirinius"
+        ],
+        "correct": 1,
+        "explanation": "Matendo 12:20-23 na Flavius ​​​​Josephus (Mambo ya Kale 19.8.2) zote zinaeleza kifo cha ghafla cha Herode Agripa wa Kwanza mwaka 44 BK."
+      },
+      {
+        "question": "Jina la liwali wa Kipro aliyeongoka na Paulo karibu 46-47 BK anaitwa nani? ( Matendo 13:7 )?",
+        "options": [
+          "Gallioni",
+          "Sergio Paulo",
+          "Felix",
+          "Lisia"
+        ],
+        "correct": 1,
+        "explanation": "Sergius Paulus anathibitishwa kiepigraphically kama liwali wa Kupro katikati ya karne ya 1 BK. AD"
+      },
+      {
+        "question": "Je, ni tarehe gani inayotenganisha Mtaguso wa Nisea (325) na Mtaguso wa Kalkedon (451) katika uundaji wa Ukristo wa kitambo?",
+        "options": [
+          "Miaka 50",
+          "Umri wa miaka 126",
+          "Miaka 300",
+          "Miaka 500"
+        ],
+        "correct": 1,
+        "explanation": "Kati ya Nisea (325, uungu wa Mwana) na Kalcedon (451, asili mbili katika mtu mmoja), miaka 126 ya mijadala ya Kikristo ilipita."
+      },
+      {
+        "question": "Codex Sinaiticus na Codex Vaticanus zilinakiliwa katika mwaka gani unaokadiriwa?",
+        "options": [
+          "Karne ya 1 BK",
+          "Karne ya 4 KK (c. 325-360)",
+          "Karne ya 8 BK",
+          "Karne ya 12 BK"
+        ],
+        "correct": 1,
+        "explanation": "Hizi herufi kubwa mbili kubwa kamili au karibu kamili za Kigiriki za Biblia zinaanzia katikati ya karne ya 4 BK. AD"
+      },
+      {
+        "question": "Ni shida gani ya kihistoria ya 735-732 KK. J.-C. ulichochea usemi wa Emmanueli katika Isaya 7?",
+        "options": [
+          "Kuanguka kwa Babeli",
+          "Vita vya Siria na Efraimu (muungano wa Aramu na Israeli dhidi ya Ahazi wa Yuda)",
+          "Uvamizi wa Alexander Mkuu",
+          "Uasi wa Yeroboamu"
+        ],
+        "correct": 1,
+        "explanation": "Rezin wa Damascus na Peqah wa Israeli waliuzingira Yerusalemu mwaka 735-732 KK. kumlazimisha Ahazi ajiunge na muungano wao dhidi ya Ashuru."
+      },
+      {
+        "question": "Je! Hekalu la Yerusalemu lilikaa katika magofu kwa muda gani kati ya 586 KK na 586 KK? AD na kuwekwa wakfu kwa Hekalu la Pili mwaka wa 516 KK. AD?",
+        "options": [
+          "miaka 40",
+          "Miaka 50",
+          "Umri wa miaka 70 haswa",
+          "Miaka 100"
+        ],
+        "correct": 2,
+        "explanation": "Kuanzia 586 KK hadi 516 K.K., miaka 70 haswa ilipita, ikitimiza kutoka upande mwingine miaka 70 ya Yeremia."
+      },
+      {
+        "question": "Ni kipindi gani cha historia ya Biblia kinacholingana na Enzi ya Shaba ya Kati (~2000-1550 KK)?",
+        "options": [
+          "Wakati wa Wahenga (Ibrahimu, Isaka, Yakobo)",
+          "Wakati wa Makabayo",
+          "Wakati wa Nehemia",
+          "Zama za mitume"
+        ],
+        "correct": 0,
+        "explanation": "Desturi za kisheria na za kichungaji za hadithi za wahenga zinaonyesha muktadha wa Zama za Shaba ya Kati (~ 2000-1700 KK)."
+      },
+      {
+        "question": "Je! Sinoptiki hizi tatu au maandishi yaliandikwa kwa mpangilio gani wa kihistoria kulingana na nadharia ya vyanzo viwili?",
+        "options": [
+          "Mathayo → Marko → Luka",
+          "Marko + Chanzo Q → Mathayo na Luka",
+          "Luka → Marko → Mathayo",
+          "Yohana → Marko → Mathayo"
+        ],
+        "correct": 1,
+        "explanation": "Dhana iliyoenea inachukulia kwamba Mathayo na Luka walitumia Injili ya Marko (~ 65-70) na pia chanzo cha kawaida cha maneno (Q)."
+      },
+      {
+        "question": "Ni tarehe gani inayoashiria mgawanyiko kati ya Kanisa la Magharibi na Kanisa la Mashariki katika historia ya Ukristo?",
+        "options": [
+          "325 AD",
+          "451 BK",
+          "1054 BK",
+          "1517 BK"
+        ],
+        "correct": 2,
+        "explanation": "The Great Schism ya 1054 ilitenganisha Roma na Constantinople, baada ya kipindi cha Biblia lakini mrithi wa mijadala ya kale."
       }
     ]
   }

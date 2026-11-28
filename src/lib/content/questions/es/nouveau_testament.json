@@ -561,6 +561,479 @@
         ],
         "correct": 1,
         "explanation": "A los 12 años, Jesús permaneció en el Templo de Jerusalén entre los doctores de la Ley (Lucas 2:41-50)."
+      },
+      {
+        "question": "¿Cuáles son los nombres de los cuatro evangelistas?",
+        "options": [
+          "Pedro, Pablo, Santiago y Judas",
+          "Mateo, Marcos, Lucas y Juan.",
+          "Étienne, Philippe, Luc y Paul",
+          "André, Thomas, Marc y Jean"
+        ],
+        "correct": 1,
+        "explanation": "Los cuatro evangelios canónicos llevan los nombres de Mateo, Marcos, Lucas y Juan."
+      },
+      {
+        "question": "¿En qué puso María al niño Jesús cuando nació?",
+        "options": [
+          "Una cuna de oro",
+          "Una guardería (pesebre)",
+          "Una canasta en el Nilo",
+          "un carro real"
+        ],
+        "correct": 1,
+        "explanation": "No había lugar para ellos en el mesón, entonces María lo acostó en un pesebre (Lucas 2:7)."
+      },
+      {
+        "question": "¿Quiénes fueron los primeros en venir y adorar al Jesús recién nacido la noche de su nacimiento?",
+        "options": [
+          "Los reyes de Roma",
+          "Pastores advertidos por ángeles",
+          "los fariseos",
+          "Los soldados de Herodes"
+        ],
+        "correct": 1,
+        "explanation": "Un ángel anunció la buena nueva a los pastores que cuidaban sus rebaños en los campos cerca de Belén (Lucas 2:8-16)."
+      },
+      {
+        "question": "¿Qué tres regalos le ofrecieron los reyes magos de Oriente al niño Jesús?",
+        "options": [
+          "Trigo, vino y aceite",
+          "Oro, incienso y mirra",
+          "Perlas, bronce y lino",
+          "Corderos, palomas y sal"
+        ],
+        "correct": 1,
+        "explanation": "Los magos abrieron sus tesoros y le ofrecieron oro, incienso y mirra (Mateo 2:11)."
+      },
+      {
+        "question": "¿Cuántos peces usó Jesús con los cinco panes para alimentar a los 5.000 hombres?",
+        "options": [
+          "1 pescado",
+          "2 pescados",
+          "5 peces",
+          "7 peces"
+        ],
+        "correct": 1,
+        "explanation": "Un niño tenía cinco panes de cebada y dos peces, los cuales Jesús multiplicó para la multitud (Juan 6:9-13)."
+      },
+      {
+        "question": "¿Cuántas cestas llenas de los trozos sobrantes se recogieron después de la multiplicación de los 5 panes?",
+        "options": [
+          "3 cestas",
+          "7 cestas",
+          "12 cestas",
+          "40 cestas"
+        ],
+        "correct": 2,
+        "explanation": "Se llenaron doce cestas con los pedazos restantes de los cinco panes de cebada (Juan 6:13)."
+      },
+      {
+        "question": "¿Qué milagro realizó Jesús en el lago Galilea cuando una gran tormenta amenazó el barco?",
+        "options": [
+          "Él construyó un puente",
+          "Amenazó al viento y al mar, y hubo una gran calma.",
+          "nadó hasta la orilla",
+          "l llovió fuego"
+        ],
+        "correct": 1,
+        "explanation": "Jesús dijo al mar: '¡Silencio! callarse la boca !' y el viento cesó, causando el asombro de los discípulos (Marcos 4:39-41)."
+      },
+      {
+        "question": "¿Cuántos leprosos curó Jesús cuando solo uno regresó para agradecerle?",
+        "options": [
+          "3",
+          "7",
+          "10",
+          "12"
+        ],
+        "correct": 2,
+        "explanation": "Diez leprosos fueron limpiados al ir a mostrarse a los sacerdotes, pero sólo un samaritano regresó para dar gloria a Dios (Lucas 17:12-19)."
+      },
+      {
+        "question": "¿Quién llevó la cruz de Jesús camino al Gólgota?",
+        "options": [
+          "Roca",
+          "Vaqueros",
+          "Simón de Cirene",
+          "José de Arimatea"
+        ],
+        "correct": 2,
+        "explanation": "Los soldados ordenaron a Simón de Cirene, que regresaba del campo, que llevara la cruz detrás de Jesús (Lucas 23:26)."
+      },
+      {
+        "question": "¿Entonces Jesús entró triunfalmente en Jerusalén ante la multitud que gritaba 'Hosanna'?",
+        "options": [
+          "un caballo blanco",
+          "un burro",
+          "Un carro romano",
+          "un camello"
+        ],
+        "correct": 1,
+        "explanation": "Jesús montó en un pollino en el que aún nadie había montado, cumpliendo Zacarías 9:9 (Marcos 11:2-10)."
+      },
+      {
+        "question": "¿Qué hicieron los discípulos en la Última Cena con el pan y la copa?",
+        "options": [
+          "Celebraron la Fiesta de los Tabernáculos",
+          "Jesús instituyó la Cena del Señor ('Este es mi cuerpo... Ésta es mi sangre')",
+          "Ofrecieron un toro",
+          "Ayunaron sin comer nada."
+        ],
+        "correct": 1,
+        "explanation": "En la última cena de Pascua, Jesús partió el pan y compartió la copa en memoria de su muerte por el nuevo pacto (Lucas 22:19-20)."
+      },
+      {
+        "question": "¿Qué gesto de humildad realiza Jesús hacia sus discípulos antes de la Última Cena en Juan 13?",
+        "options": [
+          "Les ofreció coronas",
+          "les lavó los pies",
+          "les dio oro",
+          "Él les construye casas"
+        ],
+        "correct": 1,
+        "explanation": "Jesús se ciñó un paño y lavó los pies de sus discípulos para dejarles ejemplo de servicio mutuo (Juan 13:4-15)."
+      },
+      {
+        "question": "¿Qué discípulo le cortó la oreja al criado del sumo sacerdote cuando arrestaron a Jesús?",
+        "options": [
+          "jacques",
+          "Simón-Pierre",
+          "tomás",
+          "Mateo"
+        ],
+        "correct": 1,
+        "explanation": "Según Juan 18:10, Simón Pedro desenvainó su espada y le cortó la oreja derecha a Malco, que Jesús sanó inmediatamente (Lucas 22:51)."
+      },
+      {
+        "question": "¿Cómo señaló Judas Iscariote a Jesús a los soldados en el huerto de Getsemaní?",
+        "options": [
+          "Señalandolo",
+          "con un beso",
+          "Gritando su nombre",
+          "con una antorcha"
+        ],
+        "correct": 1,
+        "explanation": "Judas había dado esta señal: 'A él besaré; agarradlo” (Mateo 26:48-49)."
+      },
+      {
+        "question": "¿Quién fue liberado por Poncio Pilato en lugar de Jesús a petición de la multitud?",
+        "options": [
+          "Bernabé",
+          "Barrabás",
+          "Nicodemo",
+          "Lázaro"
+        ],
+        "correct": 1,
+        "explanation": "Pilato liberó a Barrabás, un bandido encarcelado por sedición y asesinato, y entregó a Jesús para que lo crucificaran (Lucas 23:18-25)."
+      },
+      {
+        "question": "¿Qué inscripción colocó Pilato sobre la cabeza de Jesús en la cruz?",
+        "options": [
+          "hijo de david",
+          "Jesús de Nazaret, Rey de los judíos (INRI)",
+          "Profeta de Galilea",
+          "Amigo de los pecadores"
+        ],
+        "correct": 1,
+        "explanation": "El cartel decía en hebreo, latín y griego: \"Jesús de Nazaret, Rey de los judíos\" (Juan 19:19-20)."
+      },
+      {
+        "question": "¿A quién confió Jesús a su madre María desde la cruz?",
+        "options": [
+          "A Pedro",
+          "Al discípulo que amaba (Juan)",
+          "A José de Arimatea",
+          "A Tomás"
+        ],
+        "correct": 1,
+        "explanation": "Jesús dijo a su madre: \"Mujer, ahí tienes a tu hijo\", luego al discípulo: \"Ahí tienes a tu madre\" (Juan 19:26-27)."
+      },
+      {
+        "question": "¿Qué le prometió Jesús al ladrón arrepentido crucificado junto a él?",
+        "options": [
+          "Que sería liberado al día siguiente.",
+          "'Hoy estarás conmigo en el paraíso'",
+          "Que se convertiría en apóstol",
+          "Que regresaría a Nazaret"
+        ],
+        "correct": 1,
+        "explanation": "En respuesta a la fe del malhechor (\"Acordaos de mí\"), Jesús le aseguró la salvación inmediata (Lucas 23:42-43)."
+      },
+      {
+        "question": "¿Quién pidió a Pilato el cuerpo de Jesús para sepultarlo en un sepulcro nuevo?",
+        "options": [
+          "Nicodemo solo",
+          "José de Arimatea (ayudado por Nicodemo)",
+          "Simón-Pierre",
+          "Jean-Baptiste"
+        ],
+        "correct": 1,
+        "explanation": "José de Arimatea, miembro del Sanedrín y discípulo secreto, colocó el cuerpo de Jesús en su nueva tumba (Juan 19:38-42)."
+      },
+      {
+        "question": "En la parábola de las diez vírgenes (Mateo 25), ¿qué habían olvidado las cinco vírgenes insensatas?",
+        "options": [
+          "sus sandalias",
+          "Para llevar aceite de reserva para sus lámparas.",
+          "La dirección de la fiesta.",
+          "Sus invitaciones"
+        ],
+        "correct": 1,
+        "explanation": "Las cinco vírgenes prudentes habían llevado aceite en vasijas con sus lámparas, listo para la llegada del novio (Mateo 25:1-13)."
+      },
+      {
+        "question": "En la parábola del buen samaritano, ¿quién finalmente se detuvo para ayudar al hombre herido por los bandidos?",
+        "options": [
+          "un sacerdote",
+          "Un levita",
+          "un samaritano",
+          "Un soldado romano"
+        ],
+        "correct": 2,
+        "explanation": "Cuando el sacerdote y el levita se fueron, el samaritano tuvo compasión, vendó sus heridas y pagó su alojamiento (Lucas 10:30-37)."
+      },
+      {
+        "question": "En la parábola del hijo pródigo, ¿qué hizo el padre cuando vio a su hijo regresar de lejos?",
+        "options": [
+          "Cerró la puerta",
+          "Corrió y se arrojó sobre su cuello y la besó.",
+          "Le pidió que le devolviera el dinero.",
+          "Lo hizo trabajar como esclavo."
+        ],
+        "correct": 1,
+        "explanation": "Movido a compasión, el padre corrió a su encuentro, le dio el manto más hermoso, un anillo y mandó matar el becerro gordo (Lucas 15:20-24)."
+      },
+      {
+        "question": "En la parábola de la oveja perdida (Lucas 15), ¿cuántas ovejas deja el pastor para buscar a la perdida?",
+        "options": [
+          "10",
+          "50",
+          "99",
+          "100"
+        ],
+        "correct": 2,
+        "explanation": "El buen pastor deja a las otras 99 en el desierto para buscar a la oveja perdida hasta encontrarla (Lucas 15:4)."
+      },
+      {
+        "question": "¿Sobre qué construye su casa el sabio según el final del Sermón de la Montaña?",
+        "options": [
+          "en la arena",
+          "en la roca",
+          "sobre la paja",
+          "sobre arcilla"
+        ],
+        "correct": 1,
+        "explanation": "El que escucha las palabras de Jesús y las pone en práctica es como un hombre prudente que edificó su casa sobre la roca (Mateo 7:24)."
+      },
+      {
+        "question": "¿Cuáles son las famosas primeras palabras de las Bienaventuranzas en Mateo 5?",
+        "options": [
+          "Felices los ricos",
+          "Bienaventurados los pobres de espíritu, porque de ellos es el reino de los cielos.",
+          "Bienaventurados los poderosos",
+          "Bienaventurados los fariseos"
+        ],
+        "correct": 1,
+        "explanation": "Jesús abre el Sermón de la Montaña con nueve bienaventuranzas que trastornan los valores del mundo (Mateo 5:3-12)."
+      },
+      {
+        "question": "¿Qué apareció sobre las cabezas de los discípulos el día de Pentecostés?",
+        "options": [
+          "estrellas",
+          "Lenguas como lenguas de fuego",
+          "coronas de espinas",
+          "palomas blancas"
+        ],
+        "correct": 1,
+        "explanation": "Lenguas de fuego reposaron sobre cada uno de ellos, y todos fueron llenos del Espíritu Santo (Hechos 2:3-4)."
+      },
+      {
+        "question": "¿Cuántas personas fueron bautizadas el día de Pentecostés después de la predicación de Pedro?",
+        "options": [
+          "120 personas",
+          "Alrededor de 500 personas",
+          "Alrededor de 3.000 personas",
+          "Alrededor de 10.000 personas"
+        ],
+        "correct": 2,
+        "explanation": "Ese día el número de los discípulos aumentó en unas tres mil almas (Hechos 2:41)."
+      },
+      {
+        "question": "¿Qué milagro realizaron Pedro y Juan ante la puerta del Templo llamado la Belleza?",
+        "options": [
+          "Cambiaron el agua en vino",
+          "Curaron a un hombre cojo de nacimiento",
+          "Caminaron sobre el agua",
+          "Multiplicaron el pan"
+        ],
+        "correct": 1,
+        "explanation": "Pedro dijo al cojo: 'No tengo plata ni oro; pero lo que tengo te lo doy: en el nombre de Jesucristo de Nazaret, ¡levántate y anda!' (Hechos 3:6)."
+      },
+      {
+        "question": "¿Qué oficial de una reina de Etiopía fue bautizado por Felipe después de leer al profeta Isaías en su carro?",
+        "options": [
+          "Cuervo",
+          "El eunuco etíope",
+          "Sergio Pablo",
+          "Félix"
+        ],
+        "correct": 1,
+        "explanation": "Felipe le anunció a Jesús en Isaías 53, luego lo bautizó en agua en el camino a Gaza (Hechos 8:27-39)."
+      },
+      {
+        "question": "¿Cómo fue liberado milagrosamente el apóstol Pedro de la prisión de Herodes en Hechos 12?",
+        "options": [
+          "Por un terremoto con Paul",
+          "Un ángel del Señor lo despertó, le quitó las cadenas y abrió la puerta de hierro.",
+          "Pagó a los guardias",
+          "Se escapa por un túnel"
+        ],
+        "correct": 1,
+        "explanation": "Mientras la Iglesia oraba continuamente por él, un ángel lo sacó de la prisión a la casa de María (Hechos 12:7-17)."
+      },
+      {
+        "question": "¿Qué les preguntó el carcelero de Filipos a Pablo y Silas después del terremoto nocturno?",
+        "options": [
+          "'Adónde vas ?'",
+          "'Señores, ¿qué debo hacer para ser salvo?'",
+          "'¿Cuánto dinero tienes?'",
+          "'¿Quién abrió las puertas?'"
+        ],
+        "correct": 1,
+        "explanation": "Pablo y Silas le respondieron: \"Cree en el Señor Jesús, y tú y tu familia serán salvos\" (Hechos 16:30-31)."
+      },
+      {
+        "question": "¿Qué epístola del Nuevo Testamento contiene el famoso 'himno al amor' (capítulo 13)?",
+        "options": [
+          "romanos",
+          "1 Corintios",
+          "Gálatas",
+          "Efesios"
+        ],
+        "correct": 1,
+        "explanation": "1 Corintios 13 exalta el amor (ágape) como superior a todos los dones espirituales."
+      },
+      {
+        "question": "¿Qué epístola del Nuevo Testamento describe 'todas las armas de Dios' (armadura del creyente) en el capítulo 6?",
+        "options": [
+          "filipenses",
+          "Efesios",
+          "colosenses",
+          "1 Tesalonicenses"
+        ],
+        "correct": 1,
+        "explanation": "Efesios 6:10-18 describe el cinturón de la verdad, la coraza de justicia, el escudo de la fe, el yelmo de la salvación y la espada del Espíritu."
+      },
+      {
+        "question": "En Santiago 2, ¿qué famosa comparación usa el autor para mostrar que la fe debe traducirse en acción?",
+        "options": [
+          "La fe sin obras está muerta.",
+          "La fe reemplaza la oración",
+          "Las obras son suficientes sin fe.",
+          "La fe es secreta"
+        ],
+        "correct": 0,
+        "explanation": "Santiago enseña que la fe genuina necesariamente produce obras de amor y obediencia (Santiago 2:17,26)."
+      },
+      {
+        "question": "¿Qué libro del Nuevo Testamento se llama el 'capítulo de los héroes de la fe' (en el capítulo 11)?",
+        "options": [
+          "romanos",
+          "Hebreos",
+          "jacques",
+          "1 Pedro"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos 11 rastrea la fe de Abel, Enoc, Noé, Abraham, Sara, Moisés, Rahab, David y los profetas."
+      },
+      {
+        "question": "En Apocalipsis, ¿qué título glorioso está escrito en la vestidura y el muslo del jinete del caballo blanco (Apocalipsis 19:16)?",
+        "options": [
+          "Profeta de Galilea",
+          "Rey de reyes y Señor de señores",
+          "pastor israelí",
+          "Príncipe de Judea"
+        ],
+        "correct": 1,
+        "explanation": "Apocalipsis 19:16 proclama la soberanía absoluta del Cristo victorioso: 'Rey de reyes y Señor de señores'."
+      },
+      {
+        "question": "¿A qué joven colega llamó Pablo 'mi verdadero hijo en la fe'?",
+        "options": [
+          "Bernabé",
+          "Timoteo",
+          "Silas",
+          "Apolos"
+        ],
+        "correct": 1,
+        "explanation": "Pablo muestra un profundo afecto paternal por Timoteo en 1 Timoteo 1:2 y 2 Timoteo 1:2."
+      },
+      {
+        "question": "¿Qué animal cantó cuando Pedro negó a Jesús tres veces?",
+        "options": [
+          "un cuervo",
+          "un gallo",
+          "una paloma",
+          "un águila"
+        ],
+        "correct": 1,
+        "explanation": "Tan pronto como Pedro negó por tercera vez, el gallo cantó y Pedro lloró amargamente (Lucas 22:60-62)."
+      },
+      {
+        "question": "¿Cuántos días esperó Jesús antes de ir a Betania después de enterarse de la enfermedad de Lázaro?",
+        "options": [
+          "se fue inmediatamente",
+          "Permaneció dos días más donde estaba.",
+          "esperó siete días",
+          "el no fue"
+        ],
+        "correct": 1,
+        "explanation": "Jesús permaneció dos días más para que la gloria de Dios brillara mediante la resurrección de Lázaro al cuarto día (Juan 11:6,14-15)."
+      },
+      {
+        "question": "El cual ciego de Jericó gritó: '¡Jesús, Hijo de David, ten piedad de mí!' y recuperó la vista?",
+        "options": [
+          "Lázaro",
+          "Bartimeo",
+          "Malco",
+          "Nicodemo"
+        ],
+        "correct": 1,
+        "explanation": "Bartimeo, hijo de Timeo, arrojó su manto, saltó hacia Jesús y fue sanado por su fe (Marcos 10:46-52)."
+      },
+      {
+        "question": "¿Qué mujer fue sanada de un flujo de sangre de doce años al tocar el borde del manto de Jesús?",
+        "options": [
+          "marta",
+          "Hemorroides (mujer que sufre pérdida de sangre)",
+          "María Magdalena",
+          "Salomé"
+        ],
+        "correct": 1,
+        "explanation": "Jesús le dijo: 'Hija mía, tu fe te ha salvado; vete en paz” (Marcos 5:25-34)."
+      },
+      {
+        "question": "¿Qué milagro realizó Jesús a la hija de Jairo, líder de la sinagoga?",
+        "options": [
+          "Le devolvió la vista.",
+          "Él la resucitó de entre los muertos ('Talitha koumi')",
+          "Él la cura de la lepra.",
+          "Expulsó siete demonios"
+        ],
+        "correct": 1,
+        "explanation": "Jesús tomó la mano de la niña de doce años y le dijo: '¡Niña, levántate!' (Marcos 5:41-42)."
+      },
+      {
+        "question": "¿Qué libro breve del Nuevo Testamento es una carta personal de Pablo a un maestro cristiano en nombre de un esclavo fugitivo llamado Onésimo?",
+        "options": [
+          "Tito",
+          "Filemón",
+          "Judas",
+          "3 Juan"
+        ],
+        "correct": 1,
+        "explanation": "En la epístola a Filemón, Pablo intercede tiernamente por Onésimo, que se había convertido en \"un hermano amado\" (Filemón 1:16)."
       }
     ],
     "intermediaire": [
@@ -981,6 +1454,611 @@
         ],
         "correct": 1,
         "explanation": "Jesús dijo: 'Esta copa es el nuevo pacto en mi sangre' (Lucas 22:20), cumpliendo la promesa de Jeremías 31:31-34."
+      },
+      {
+        "question": "¿Cómo se llama el sumo sacerdote que presidió el juicio religioso de Jesús ante el Sanedrín?",
+        "options": [
+          "Anás",
+          "Caifás",
+          "Gamaliel",
+          "Zacarías"
+        ],
+        "correct": 1,
+        "explanation": "José Caifás, yerno de Anás, era sumo sacerdote ese año y declaró que un hombre debía morir por el pueblo (Juan 11:49-51; 18:13-24)."
+      },
+      {
+        "question": "¿Qué miembro del Sanedrín dio un consejo de prudencia al decir que si la obra de los apóstoles proviene de Dios, no puede ser destruida?",
+        "options": [
+          "Caifás",
+          "Gamaliel",
+          "Nicodemo",
+          "Ananías"
+        ],
+        "correct": 1,
+        "explanation": "Gamaliel, doctor de la Ley estimado por todo el pueblo (y maestro de Pablo), recomendó no luchar contra Dios (Hechos 5:34-39)."
+      },
+      {
+        "question": "¿Cómo se llamaba la pareja cristiana que mintió al Espíritu Santo sobre el precio de un campo vendido en Hechos 5?",
+        "options": [
+          "Aquila y Priscila",
+          "Ananías y Safira",
+          "Zacarías e Isabel",
+          "Andrónico y Junia"
+        ],
+        "correct": 1,
+        "explanation": "Ananías y Safira se quedaron con parte del precio, fingiendo que lo estaban dando todo; Pedro expuso sus mentiras ante Dios (Hechos 5:1-11)."
+      },
+      {
+        "question": "¿Cuántos diáconos ('siete hombres de buen testimonio') fueron elegidos en Hechos 6 para servir mesas?",
+        "options": [
+          "5",
+          "7",
+          "12",
+          "70"
+        ],
+        "correct": 1,
+        "explanation": "La Iglesia escogió a siete hombres llenos del Espíritu y de sabiduría, entre ellos Esteban y Felipe, para que los apóstoles se dedicaran a la oración y a la Palabra (Hechos 6:3-6)."
+      },
+      {
+        "question": "¿Qué mago de Samaria quería comprar a los apóstoles el poder de conferir el Espíritu Santo?",
+        "options": [
+          "Elimas",
+          "Simón el mago",
+          "Bar-Jesús",
+          "Esceva"
+        ],
+        "correct": 1,
+        "explanation": "Pedro reprendió severamente a Simón, diciendo: '¡Deja que tu dinero perezca contigo!' (Hechos 8:18-23), de ahí la palabra 'simonía'."
+      },
+      {
+        "question": "¿Qué profeta y mago judío de Chipre se opuso a Pablo antes que Sergio Paulo y quedó ciego temporalmente?",
+        "options": [
+          "Simón",
+          "Élymas (Bar-Jesús)",
+          "Demetrio",
+          "Alejandro"
+        ],
+        "correct": 1,
+        "explanation": "El mago Elimas intentó apartar de la fe al procónsul; Pablo lo reprendió y una nube oscureció sus ojos (Hechos 13:8-11)."
+      },
+      {
+        "question": "¿Qué joven se quedó dormido durante el largo discurso de Pablo en Troas, se cayó del tercer piso y volvió a la vida?",
+        "options": [
+          "Timoteo",
+          "Eutico",
+          "Tito",
+          "Marca"
+        ],
+        "correct": 1,
+        "explanation": "Pablo bajó, se inclinó sobre Eutico, lo tomó en sus brazos y le aseguró que su alma estaba en él (Hechos 20:9-12)."
+      },
+      {
+        "question": "¿Qué artesano de Éfeso que fabricaba templos de plata de Artemisa provocó un motín en el teatro contra Pablo?",
+        "options": [
+          "Alejandro el herrero",
+          "Demetrio",
+          "Diótrefes",
+          "Himeneo"
+        ],
+        "correct": 1,
+        "explanation": "Demetrio temía por el comercio y el prestigio del templo de Artemisa ante las conversiones cristianas (Hechos 19:24-29)."
+      },
+      {
+        "question": "¿En qué evangelio Jesús pronuncia los siete grandes 'Yo soy' con atributos (Pan de vida, Luz, Puerta, Buen Pastor, Resurrección, Camino, Vid Verdadera)?",
+        "options": [
+          "Mateo",
+          "Marca",
+          "lucas",
+          "Vaqueros"
+        ],
+        "correct": 3,
+        "explanation": "El Evangelio de Juan estructura su revelación cristológica en torno a estas siete declaraciones 'Egô eimi'."
+      },
+      {
+        "question": "¿Qué tiene de especial el Evangelio de Marcos en términos de estilo y extensión?",
+        "options": [
+          "Es el más largo y contiene largos discursos.",
+          "Es el más corto y dinámico ('inmediato'), centrado en la acción y la cruz del Siervo.",
+          "Comienza con una genealogía que se remonta a Adán.",
+          "No habla de ningún milagro."
+        ],
+        "correct": 1,
+        "explanation": "Marcos utiliza con frecuencia 'euthys' ('inmediatamente'), presentando a Jesús como el Hijo siervo de Dios que da su vida en rescate (Marcos 10:45)."
+      },
+      {
+        "question": "¿Por qué el Evangelio de Mateo comienza con una genealogía que se remonta a Abraham y David?",
+        "options": [
+          "Para demostrar que Jesús era romano",
+          "Mostrar a los lectores judíos que Jesús es el heredero legítimo de las promesas hechas a Abraham y al rey David.",
+          "Para imitar las epístolas de Pablo.",
+          "Porque no sabía sobre el nacimiento virginal."
+        ],
+        "correct": 1,
+        "explanation": "Mateo 1:1-17 organiza 3 series de 14 generaciones que culminan en Jesús el Mesías, hijo de David e hijo de Abraham."
+      },
+      {
+        "question": "¿Por qué la genealogía de Lucas (capítulo 3) se remonta a Adán y 'hijo de Dios'?",
+        "options": [
+          "Porque Lucas sólo escribe para los fariseos",
+          "Subrayar el alcance universal de la salvación de Jesús para toda la humanidad descendiente de Adán",
+          "Por error cronológico",
+          "Negar el pacto con Abraham"
+        ],
+        "correct": 1,
+        "explanation": "Lucas destaca la misericordia universal de Dios hacia los pobres, las mujeres, los samaritanos y todas las naciones."
+      },
+      {
+        "question": "¿Qué cántico de alabanza cantó María durante su visita a Isabel en Lucas 1?",
+        "options": [
+          "El Benedicto",
+          "El Magnificat ('Mi alma enaltece al Señor...')",
+          "El Nunc Dimittis",
+          "la gloria"
+        ],
+        "correct": 1,
+        "explanation": "El Magnificat (Lucas 1:46-55) celebra la fidelidad de Dios al enaltecer a los humildes y cumplir su promesa a Israel."
+      },
+      {
+        "question": "¿Qué cántico pronunció Zacarías, padre de Juan el Bautista, cuando se le soltó la lengua (Lucas 1:68-79)?",
+        "options": [
+          "El Magníficat",
+          "El Benedictus ('Bendito sea el Señor, Dios de Israel...')",
+          "El Te Deum",
+          "El Padre Nuestro"
+        ],
+        "correct": 1,
+        "explanation": "En el Benedictus, Zacarías bendice a Dios por la liberación mesiánica y profetiza la misión preparatoria de su hijo Juan."
+      },
+      {
+        "question": "¿Qué parábola del Evangelio de Lucas ilustra la humildad en la oración frente a la autosuficiencia religiosa?",
+        "options": [
+          "el sembrador",
+          "El fariseo y el publicano (recaudador de impuestos) en el templo",
+          "La cizaña y el trigo.",
+          "Trabajadores de la undécima hora"
+        ],
+        "correct": 1,
+        "explanation": "El publicano, sin atreverse a levantar los ojos, dijo: '¡Oh Dios, ten misericordia de mí, pecador!' y se fue justificado (Lucas 18:9-14)."
+      },
+      {
+        "question": "¿Qué parábola enseña a perseverar en la oración frente a un magistrado indiferente (Lucas 18:1-8)?",
+        "options": [
+          "el tonto rico",
+          "La viuda importuna y el juez injusto",
+          "los dos deudores",
+          "La higuera estéril"
+        ],
+        "correct": 1,
+        "explanation": "Si hasta un juez injusto termina haciendo justicia a una viuda perseverante, cuánto más escuchará Dios a sus elegidos."
+      },
+      {
+        "question": "En Mateo 18:21-35, ¿qué parábola cuenta Jesús después de decirle a Pedro que perdonara 'hasta setenta veces siete'?",
+        "options": [
+          "las diez minas",
+          "El siervo despiadado (que se niega a perdonar una pequeña deuda después de haber sido perdonado de una deuda enorme)",
+          "El hijo pródigo",
+          "los talentos"
+        ],
+        "correct": 1,
+        "explanation": "Aquel a quien el rey ha dado diez mil talentos se niega a esperar cien denarios, lo que ilustra la exigencia de perdón recibida de Dios."
+      },
+      {
+        "question": "En la parábola de los trabajadores de la viña (Mateo 20:1-16), ¿por qué murmuran los primeros contratados?",
+        "options": [
+          "no recibieron nada",
+          "Los obreros de la hora undécima recibieron el mismo denario que ellos, lo que ilustra la gracia soberana y generosa de Dios.",
+          "El maestro los venció",
+          "La vid ardió"
+        ],
+        "correct": 1,
+        "explanation": "'¿Tu ojo está malo porque yo soy bueno?' nos recuerda que la salvación es un regalo de gracia y no un salario ganado."
+      },
+      {
+        "question": "¿Qué charla nocturna en Juan 3 expone la necesidad de 'nacer de nuevo / de arriba' (del agua y el Espíritu)?",
+        "options": [
+          "La entrevista con la mujer samaritana",
+          "La entrevista con Nicodemo",
+          "La entrevista con Pilato",
+          "La entrevista con Zaqueo"
+        ],
+        "correct": 1,
+        "explanation": "Jesús explica a Nicodemo, doctor de Israel, que nadie puede entrar al Reino de Dios sin la regeneración del Espíritu (Juan 3:3-8)."
+      },
+      {
+        "question": "En Juan 4, ¿qué verdad le revela Jesús a la mujer samaritana sobre el verdadero lugar de adoración?",
+        "options": [
+          "Sólo Jerusalén",
+          "Sólo el monte Gerizim",
+          "Se acerca la hora en que los verdaderos adoradores adorarán al Padre 'en espíritu y en verdad'",
+          "Debe construirse un tercer templo en Nazaret"
+        ],
+        "correct": 2,
+        "explanation": "Dios es Espíritu: la verdadera adoración ya no depende de un santuario geográfico sino de un corazón renovado en la verdad (Juan 4:21-24)."
+      },
+      {
+        "question": "En Juan 6, ¿por qué muchos de los discípulos se retiraron después del discurso del 'Pan de vida'?",
+        "options": [
+          "Porque ya no habia pan",
+          "Porque quedaron impactados por las exigentes palabras de Jesús ('comer su carne y beber su sangre', es decir, creer plenamente en su muerte vivificante)",
+          "Porque Pilato los echó",
+          "Porque Pedro los despidió"
+        ],
+        "correct": 1,
+        "explanation": "A la pregunta de Jesús: 'Y tú, ¿no quieres ir también tú?', Pedro respondió: 'Señor, ¿a quién iremos? Tú tienes palabras de vida eterna” (Juan 6:68)."
+      },
+      {
+        "question": "En 1 Corintios 15, ¿qué evento presenta Pablo como el fundamento esencial sin el cual la fe cristiana sería en vano?",
+        "options": [
+          "La construcción de iglesias.",
+          "La resurrección corporal de Cristo y la resurrección futura de los creyentes.",
+          "Circuncisión",
+          "Viajar a Jerusalén"
+        ],
+        "correct": 1,
+        "explanation": "'Si Cristo no resucita, vuestra fe es vana; todavía estáis en vuestros pecados' (1 Corintios 15:17)."
+      },
+      {
+        "question": "Según 1 Corintios 15:6, ¿a cuántos hermanos se apareció Jesús resucitado en algún momento antes de la epístola de Pablo?",
+        "options": [
+          "Para 12 personas",
+          "A más de 500 hermanos a la vez",
+          "Para 70 personas",
+          "Solo para 3 personas"
+        ],
+        "correct": 1,
+        "explanation": "Pablo especifica que la mayoría de estos más de 500 testigos todavía estaban vivos en el momento de escribir este artículo (~55 d.C.)."
+      },
+      {
+        "question": "En 2 Corintios 5:18-20, ¿qué título le da Pablo a los creyentes que proclaman la reconciliación con Dios?",
+        "options": [
+          "Los reyes de la tierra",
+          "embajadores de cristo",
+          "Los jueces de Israel",
+          "Los ángeles de la alianza."
+        ],
+        "correct": 1,
+        "explanation": "'Por tanto, actuamos como embajadores de Cristo, como si Dios estuviera exhortando a través de nosotros: ¡Reconciliaos con Dios!'"
+      },
+      {
+        "question": "En 2 Corintios 12:7-9, ¿qué respuesta le dio el Señor a Pablo, quien oró tres veces para ser librado de su 'aguijón en la carne'?",
+        "options": [
+          "Cura inmediatamente la astilla.",
+          "'Te basta mi gracia, porque mi poder se perfecciona en la debilidad'",
+          "Le dijo que fuera a Jerusalén.",
+          "Le ordenó que se callara."
+        ],
+        "correct": 1,
+        "explanation": "Pablo aprende así a gloriarse incluso en sus debilidades para que el poder de Cristo descanse sobre él."
+      },
+      {
+        "question": "En Romanos 5:12-21, ¿qué paralelo tipológico principal traza Pablo para explicar la caída y la salvación?",
+        "options": [
+          "Entre Caín y Abel",
+          "Entre el primer Adán (desobediencia, pecado, muerte) y Jesucristo, el nuevo/último Adán (obediencia, gracia, vida)",
+          "Entre David y Saúl",
+          "Entre Elías y Eliseo"
+        ],
+        "correct": 1,
+        "explanation": "Por culpa de uno, la condenación ha llegado a todos los hombres; por el acto justo de uno que da vida, se ofrece la justificación a todos."
+      },
+      {
+        "question": "En Romanos 8:1-17, ¿qué contraste estructura la vida cristiana?",
+        "options": [
+          "Riqueza versus pobreza",
+          "Vivir según la carne (que lleva a la muerte) versus caminar según el Espíritu (que da vida, adopción y esperanza)",
+          "Solo judío vs romano",
+          "Viejo contra joven"
+        ],
+        "correct": 1,
+        "explanation": "El Espíritu de adopción nos hace gritar '¡Abba! Padre !' y da testimonio a nuestro espíritu de que somos hijos y herederos de Dios."
+      },
+      {
+        "question": "En Romanos 12:1, ¿cómo define Pablo la 'adoración razonable/espiritual' de los creyentes?",
+        "options": [
+          "Oferta toros y cabras",
+          "Ofrezcan sus cuerpos en sacrificio vivo, santo, agradable a Dios.",
+          "Ayuno los siete días del mes.",
+          "construir un templo de piedra"
+        ],
+        "correct": 1,
+        "explanation": "En respuesta a las misericordias de Dios (Romanos 1-11), toda la existencia diaria del creyente se convierte en una ofrenda viva."
+      },
+      {
+        "question": "En Gálatas 3:24, ¿a qué papel antiguo compara Pablo la Ley de Moisés antes de la venida de la fe?",
+        "options": [
+          "un juez cruel",
+          "Un maestro (tutor/guía) que nos llevó a Cristo",
+          "Un rey eterno",
+          "una fábula sencilla"
+        ],
+        "correct": 1,
+        "explanation": "Los 'paidagogos' en el mundo grecorromano escoltaban y supervisaban al niño hasta que alcanzaba la mayoría de edad; la venida de Cristo inaugura la era de la filiación por la fe."
+      },
+      {
+        "question": "En Gálatas 3:28, ¿qué tres barreras sociales, religiosas y culturales se trascienden 'en Cristo Jesús'?",
+        "options": [
+          "Ricos, nobles, soldados.",
+          "Ya no hay judío ni griego, esclavo ni libre, varón ni mujer, todos uno en Cristo Jesús",
+          "Ancianos, diáconos, obispos",
+          "Romanos, persas, egipcios"
+        ],
+        "correct": 1,
+        "explanation": "Sin borrar las distinciones creadas, el Evangelio da a todos los creyentes igual dignidad e igual acceso a la salvación en Cristo."
+      },
+      {
+        "question": "En Efesios 2:8-10, ¿qué lugar tienen respectivamente la gracia, la fe y las buenas obras?",
+        "options": [
+          "Las obras nos salvan primero.",
+          "Somos salvos por gracia a través de la fe (el don de Dios, no por obras), para hacer buenas obras preparadas de antemano",
+          "La fe y las obras son inútiles.",
+          "La gracia viene después de nuestros méritos."
+        ],
+        "correct": 1,
+        "explanation": "Las buenas obras no son raíz sino fruto de la salvación recibida gratuitamente por gracia."
+      },
+      {
+        "question": "En Filipenses 3:7-8, ¿cómo ve Pablo ahora sus antiguos privilegios religiosos (circuncisión, fariseo irreprensible)?",
+        "options": [
+          "Como su orgullo supremo",
+          "Como pérdida y fango por la excelencia del conocimiento de Jesucristo",
+          "Como la mitad de su salvación.",
+          "como secretos"
+        ],
+        "correct": 1,
+        "explanation": "Pablo renuncia a su propia justicia de la Ley para recibir la justicia que viene de Dios a través de la fe en Cristo."
+      },
+      {
+        "question": "En Colosenses 1:15-17, ¿cómo describe Pablo la supremacía cósmica de Cristo?",
+        "options": [
+          "Un simple profeta humano",
+          "'La imagen del Dios invisible, el primogénito de toda la creación', por quien y para quien todo fue creado",
+          "Un ángel creado después de Adán.",
+          "Un filósofo griego"
+        ],
+        "correct": 1,
+        "explanation": "Este himno cristológico afirma que todas las cosas subsisten en Cristo y toda plenitud habita en él (Colosenses 1:19)."
+      },
+      {
+        "question": "En 1 Tesalonicenses 5:1-6, ¿a qué imagen comparan Jesús y Pablo la repentina venida del Día del Señor al mundo dormido?",
+        "options": [
+          "Un rey anunciando su viaje un año antes",
+          "Un ladrón en la noche",
+          "Un río tranquilo",
+          "un libro cerrado"
+        ],
+        "correct": 1,
+        "explanation": "Por eso los creyentes, \"hijos de la luz\", están llamados a velar y ser sobrios."
+      },
+      {
+        "question": "En 1 Timoteo 2:5, ¿cómo resume Pablo la singularidad de la mediación entre Dios y los hombres?",
+        "options": [
+          "Hay varios mediadores angelicales.",
+          "'Hay un solo Dios, y también un solo mediador entre Dios y los hombres, el hombre Jesucristo'",
+          "Moisés es el único mediador",
+          "Cada sacerdote es un mediador"
+        ],
+        "correct": 1,
+        "explanation": "Verdadero Dios y verdadero hombre, Jesucristo es el único puente entre la humanidad y Dios, habiéndose entregado a sí mismo en rescate por todos."
+      },
+      {
+        "question": "En 2 Timoteo 4:7, ¿qué triple metáfora usa Pablo al borde de su muerte para describir su fidelidad?",
+        "options": [
+          "construí una ciudad",
+          "'Peleé la buena batalla, terminé la carrera, mantuve la fe'",
+          "He escrito cien libros",
+          "Derroté a Roma"
+        ],
+        "correct": 1,
+        "explanation": "Pablo ahora espera confiado la 'corona de justicia' que el Señor, juez justo, le dará ese día."
+      },
+      {
+        "question": "En Hebreos 4:14-16, ¿qué consuelo nos da el hecho de que Jesús sea nuestro 'gran sumo sacerdote'?",
+        "options": [
+          "Él no entiende nuestras debilidades.",
+          "Él fue tentado en todo según nuestra semejanza, pero sin pecado, para que podamos acercarnos al trono de la gracia con confianza.",
+          "el es inaccesible",
+          "Exige nuevos sacrificios de animales"
+        ],
+        "correct": 1,
+        "explanation": "La compasión del Cristo glorificado abre a los creyentes un acceso seguro a la misericordia y a la ayuda oportuna."
+      },
+      {
+        "question": "En Hebreos 12:1-2, ¿a quién se le llama 'el líder y consumador de la fe'?",
+        "options": [
+          "Abrahán",
+          "Moisés",
+          "Jesús",
+          "Roca"
+        ],
+        "correct": 2,
+        "explanation": "Rodeados de tan gran nube de testigos, los creyentes fijan sus ojos en Jesús, que sufrió la cruz en vista del gozo que le estaba reservado."
+      },
+      {
+        "question": "En Santiago 3:1-12, ¿con qué compara Santiago la lengua humana a pesar de su pequeño tamaño?",
+        "options": [
+          "A una montaña tranquila",
+          "Al freno en la boca del caballo, al timón del barco y a un pequeño fuego que incendia un gran bosque.",
+          "A un río pacífico",
+          "A una flor del desierto"
+        ],
+        "correct": 1,
+        "explanation": "Santiago enfatiza el inmenso poder de las palabras para bendecir o destruir, y pide dominio a través de la sabiduría de lo alto."
+      },
+      {
+        "question": "En 1 Pedro 2:9, ¿qué título del Éxodo (19:6) aplica Pedro a toda la Iglesia?",
+        "options": [
+          "Espectadores silenciosos",
+          "Un linaje escogido, un real sacerdocio, una nación santa, un pueblo adquirido",
+          "filósofos atenienses",
+          "Los sirvientes del Templo de Piedra"
+        ],
+        "correct": 1,
+        "explanation": "Todos los creyentes forman un real sacerdocio llamado a anunciar las virtudes de Aquel que los llamó de las tinieblas a su luz admirable."
+      },
+      {
+        "question": "En 1 Juan 1:8-9, ¿qué dice Juan si alguien afirma no tener pecado?",
+        "options": [
+          "el dice la verdad",
+          "Nos engañamos a nosotros mismos y la verdad no está en nosotros; pero si confesamos nuestros pecados, Dios es fiel y justo para perdonarnos",
+          "el ya esta en el cielo",
+          "Él no necesita gracia"
+        ],
+        "correct": 1,
+        "explanation": "La vida cristiana no se basa en la pretensión de impecabilidad sino en la confesión sincera y la purificación por la sangre de Jesús."
+      },
+      {
+        "question": "En 1 Juan 4:1-3, ¿qué prueba doctrinal nos permite discernir el Espíritu de Dios del espíritu del anticristo?",
+        "options": [
+          "Haz milagros espectaculares",
+          "Confiesa que Jesucristo vino en carne.",
+          "Habla varios idiomas",
+          "tener mucha riqueza"
+        ],
+        "correct": 1,
+        "explanation": "Contra los errores pregnósticos que niegan la encarnación real, Juan plantea como criterio decisivo la confesión de Jesucristo venido en carne."
+      },
+      {
+        "question": "En Apocalipsis 1:9-20, ¿dónde estaba el apóstol Juan cuando recibió la visión de Cristo glorificado en medio de los siete candeleros de oro?",
+        "options": [
+          "en jerusalén",
+          "En la isla de Patmos, por la palabra de Dios y el testimonio de Jesús",
+          "En Roma en prisión",
+          "En Antioquía"
+        ],
+        "correct": 1,
+        "explanation": "Los siete candeleros de oro representan las siete Iglesias de Asia Menor, y las siete estrellas en su mano derecha, sus ángeles/mensajeros."
+      },
+      {
+        "question": "En Apocalipsis 2-3, ¿qué Iglesia es elogiada por su amor, fe y perseverancia a pesar de la pobreza material (\"¡Ustedes son ricos!\")?",
+        "options": [
+          "Laodicea",
+          "Esmirna",
+          "Sardis",
+          "Éfeso"
+        ],
+        "correct": 1,
+        "explanation": "Esmirna soporta la persecución y la pobreza sin recibir ningún reproche de Jesús, quien le promete la corona de la vida (Apocalipsis 2:8-11)."
+      },
+      {
+        "question": "En Apocalipsis 3:17, ¿qué severa reprensión dirige Cristo a la Iglesia de Laodicea?",
+        "options": [
+          "que ella es demasiado pobre",
+          "Que se cree rica y no necesita nada, sin saber que es infeliz, miserable, pobre, ciega y desnuda.",
+          "que ella ayuna demasiado",
+          "Que ella reza demasiado a menudo"
+        ],
+        "correct": 1,
+        "explanation": "Jesús le aconseja que le compre oro probado en fuego, vestiduras blancas y colirio para ver claramente (Apocalipsis 3:18)."
+      },
+      {
+        "question": "En Apocalipsis 5, ¿quién es el único digno de abrir el libro sellado con siete sellos?",
+        "options": [
+          "el ángel gabriel",
+          "El León de la tribu de Judá / el Cordero inmolado",
+          "El profeta Moisés",
+          "Uno de los veinticuatro ancianos."
+        ],
+        "correct": 1,
+        "explanation": "Anunciado como el León de Judá, aparece en la forma de un Cordero inmolado pero en pie, digno de su sangre redentora (Apocalipsis 5:5-9)."
+      },
+      {
+        "question": "En Apocalipsis 7:9, ¿quiénes componen la 'gran muchedumbre que nadie podía contar' delante del trono?",
+        "options": [
+          "Sólo una tribu",
+          "Personas de todas las naciones, tribus, pueblos y lenguas, vestidas con túnicas blancas.",
+          "solo angeles",
+          "Sólo residentes en Roma"
+        ],
+        "correct": 1,
+        "explanation": "Esta visión cumple la promesa hecha a Abraham al mostrar la salvación universal celebrada en el cielo."
+      },
+      {
+        "question": "En Lucas 10:38-42, ¿qué lección le da Jesús a Marta, agitada por muchos cuidados, mientras María escucha a sus pies?",
+        "options": [
+          "que nunca deberías trabajar",
+          "Que María eligió 'la parte buena, que no le será quitada': la escucha de la Palabra del Señor ante cualquier agitación",
+          "Que Marthe debe salir de casa.",
+          "que cocinar no sirve para nada"
+        ],
+        "correct": 1,
+        "explanation": "Jesús no se opone al servicio y a la oración, pero recuerda la prioridad absoluta de la escucha atenta de su Palabra."
+      },
+      {
+        "question": "¿Qué milagro realizó Jesús en sábado que enfureció a los líderes de la sinagoga en Lucas 13:10-17?",
+        "options": [
+          "Cura a una mujer que ha estado doblada durante dieciocho años.",
+          "Convirtió el agua en vino",
+          "Él multiplicó peces",
+          "Resucitó a Lázaro"
+        ],
+        "correct": 0,
+        "explanation": "Jesús nos recordó que desatar nuestro buey o nuestro asno en sábado: ¡cuánto más esta hija de Abraham que lleva 18 años atada!"
+      },
+      {
+        "question": "En Juan 20:24-29, ¡qué bienaventuranza pronuncia Jesús después de que Tomás le confiesa: '¡Señor mío y Dios mío!' ?",
+        "options": [
+          "'Bienaventurados los que tocan mis heridas'",
+          "'¡Bienaventurados los que no han visto ni creído!'",
+          "'Bienaventurados los que permanecen en Jerusalén'",
+          "'Bienaventurados los eruditos'"
+        ],
+        "correct": 1,
+        "explanation": "Esta última bienaventuranza de los Evangelios habla directamente a todas las generaciones de creyentes que creen en el testimonio apostólico."
+      },
+      {
+        "question": "En Lucas 24:27, ¿cómo iluminó Jesús resucitado a los dos discípulos que fueron derribados en el camino a Emaús?",
+        "options": [
+          "Por una visión de ángeles armados",
+          "Comenzando por Moisés y por todos los profetas, les explicó en todas las Escrituras lo que le concernía.",
+          "Dándoles oro",
+          "Mostrándoles el Templo en ruinas"
+        ],
+        "correct": 1,
+        "explanation": "El corazón de los discípulos ardía dentro de ellos cuando les abrió las Escrituras, y luego lo reconocieron cuando partió el pan (Lucas 24:30-32)."
+      },
+      {
+        "question": "¿Qué personaje del libro de los Hechos vendió un campo y llevó el precio a los pies de los apóstoles, recibiendo el apodo de 'hijo de exhortación'?",
+        "options": [
+          "Ananías",
+          "José (apodado Bernabé), levita de Chipre",
+          "Saulo de Tarso",
+          "Silas"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 4:36-37 presenta a Bernabé como modelo de generosidad y aliento en la Iglesia primitiva."
+      },
+      {
+        "question": "En Hechos 17:23, ¿qué altar ateniense usó Pablo como plataforma para anunciar al Dios Creador?",
+        "options": [
+          "El altar de Zeus",
+          "El altar con la inscripción \"A un dios desconocido\"",
+          "El Altar de Artemisa",
+          "altar del césar"
+        ],
+        "correct": 1,
+        "explanation": "Pablo partió de este altar para proclamar al Dios que hizo el mundo, que no habita en templos hechos de mano y que juzgará a través de Cristo resucitado."
+      },
+      {
+        "question": "En Romanos 11:17-24, ¿qué imagen hortícola usa Pablo para explicar la integración de los creyentes gentiles al pueblo de Dios?",
+        "options": [
+          "Una higuera estéril",
+          "Ramas de acebuche injertadas en el olivo (Israel) para contribuir a su savia",
+          "una vid cortada",
+          "Un cedro del Líbano"
+        ],
+        "correct": 1,
+        "explanation": "Esta metáfora llama a los cristianos gentiles a la humildad y al reconocimiento de las raíces patriarcales de Israel."
+      },
+      {
+        "question": "En 1 Corintios 12, ¿con qué compara Pablo la Iglesia y la diversidad de dones espirituales?",
+        "options": [
+          "A un ejército romano",
+          "A un solo organismo compuesto por varios miembros que tienen funciones diferentes pero todas esenciales",
+          "En una escuela de filosofía",
+          "A un mercado comercial"
+        ],
+        "correct": 1,
+        "explanation": "El ojo no puede decir a la mano: \"No te necesito\": el mismo Espíritu distribuye dones para el bien común (1 Corintios 12,7-27)."
       }
     ],
     "expert": [
@@ -1346,6 +2424,666 @@
         ],
         "correct": 1,
         "explanation": "'In Christô' (más de 160 apariciones): la unión mística, vital y real del creyente con el Cristo resucitado - la base de la justificación, santificación, adopción y glorificación."
+      },
+      {
+        "question": "En la teología del Evangelio de Juan, ¿qué significa la frase 'la hora de Jesús' (Juan 2:4; 12:23; 13:1; 17:1)?",
+        "options": [
+          "El momento de su nacimiento",
+          "La hora de su glorificación por su muerte en la cruz, su resurrección y su regreso al Padre",
+          "Hora del sábado judío",
+          "El tiempo de la destrucción de Roma."
+        ],
+        "correct": 1,
+        "explanation": "En Juan, la cruz no es una derrota seguida de gloria, sino el lugar mismo donde el Hijo es \"levantado\" y glorificado (Juan 12:23-33)."
+      },
+      {
+        "question": "¿Cuál es el \"secreto mesiánico\" identificado por los exégetas en el Evangelio de Marcos?",
+        "options": [
+          "Un complot político de Judas",
+          "Los repetidos mandatos de Jesús a los demonios, a los sanados y a los discípulos de no revelar su identidad como Mesías antes de la cruz y la resurrección.",
+          "Un libro perdido de Marc",
+          "Una secta secreta en Galilea"
+        ],
+        "correct": 1,
+        "explanation": "Jesús evita los malentendidos de un mesianismo nacionalista triunfalista hasta que su identidad es revelada en la cruz (Marcos 8:30; 15:39)."
+      },
+      {
+        "question": "¿Cuál es el significado de la confesión del centurión romano al pie de la cruz en Marcos 15:39 (\"Verdaderamente este era Hijo de Dios!\")?",
+        "options": [
+          "Una simple cortesía militar",
+          "Cumbre literaria y teológica de Marcos: un pagano reconoce la verdadera identidad de Jesús en el momento exacto de su muerte",
+          "Un error de traducción",
+          "Una burla a Pilato"
+        ],
+        "correct": 1,
+        "explanation": "El Evangelio que comenzó con \"Evangelio de Jesucristo, Hijo de Dios\" (1,1) culmina en boca de un centurión romano ante el Crucificado."
+      },
+      {
+        "question": "En Mateo, ¿qué significa agrupar las enseñanzas de Jesús en cinco discursos principales (cap. 5-7, 10, 13, 18, 24-25)?",
+        "options": [
+          "Una coincidencia sin intención",
+          "Un paralelo estructurante que presenta a Jesús como el nuevo y mayor Moisés dando la Ley del Reino (como los 5 libros del Pentateuco)",
+          "Los 5 días de la semana.",
+          "Los 5 viajes de Pablo"
+        ],
+        "correct": 1,
+        "explanation": "Cada discurso termina con la frase 'Cuando Jesús terminó estos discursos...' (Mateo 7:28; 11:1; 13:53; 19:1; 26:1)."
+      },
+      {
+        "question": "¿Qué término griego usado por Jesús en Juan 14:16 ('Parakletos') se refiere al Espíritu Santo?",
+        "options": [
+          "Logotipos",
+          "Paráclito (Abogado, Consolador, Defensor llamado al lado)",
+          "Kerigma",
+          "Didaché"
+        ],
+        "correct": 1,
+        "explanation": "El Paráclito es quien es llamado al lado del creyente para asistirlo, enseñarle, testificar y convencer al mundo (Juan 14-16; 1 Juan 2:1 para Jesús)."
+      },
+      {
+        "question": "¿Cuál es la distinción entre 'kerygma' y 'didachè' en los estudios del Nuevo Testamento?",
+        "options": [
+          "Estas son dos ciudades de Grecia.",
+          "El kerigma es la proclamación misionera central de la muerte y resurrección de Cristo; didaché es la enseñanza moral y doctrinal dada a los creyentes",
+          "Kerygma está reservado para el AT",
+          "Didaché designa milagros"
+        ],
+        "correct": 1,
+        "explanation": "C.H. Dodd ha demostrado que la predicación apostólica de Hechos y las epístolas comparten un núcleo kerigmático común centrado en la Pascua."
+      },
+      {
+        "question": "¿Qué significa la frase 'escatología inaugurada' ('ya y todavía no') para describir las enseñanzas de Jesús sobre el Reino de Dios?",
+        "options": [
+          "Que el Reino está sólo en un futuro lejano",
+          "Que el Reino ya ha irrumpido en la persona y obras de Jesús ('si es por el dedo de Dios...'), a la espera de su consumación definitiva a su regreso.",
+          "Que el Reino sólo fue político en el año 30",
+          "Que la resurrección ya ha tenido lugar para todos"
+        ],
+        "correct": 1,
+        "explanation": "Esta tensión entre el \"ya\" (Marcos 1:15; Lucas 11:20) y el \"todavía no\" (Mateo 6:10; Apocalipsis 11:15) recorre todo el Nuevo Testamento."
+      },
+      {
+        "question": "En Romanos 1:16-17, ¿cuál es el significado de la expresión 'justicia de Dios' (dikaiosynê theou) según la lectura clásica de la Reforma y la exégesis moderna?",
+        "options": [
+          "Sólo el castigo de los pecadores.",
+          "Tanto la justicia salvadora que Dios otorga gratuitamente a través de la fe como la justa fidelidad de Dios a su pacto en Cristo",
+          "La justicia de los tribunales romanos.",
+          "El mérito moral adquirido por el hombre."
+        ],
+        "correct": 1,
+        "explanation": "El evangelio revela cómo Dios permanece justo mientras justifica a quienes tienen fe en Jesús (Romanos 3:26)."
+      },
+      {
+        "question": "¿Cuál es el significado del probable himno prepaulino de Filipenses 2:6-11 ('en forma de Dios', morphê theou)?",
+        "options": [
+          "Jesús era sólo una apariencia humana.",
+          "Preexistente en la naturaleza/condición divina (morphê theou), Cristo no reclamó la igualdad con Dios como un celoso privilegio, sino que se humilló hasta la cruz, recibiendo el nombre de Señor (Kyrios).",
+          "Jesús se convirtió en dios sólo después de su muerte.",
+          "Los ángeles crearon a Jesús."
+        ],
+        "correct": 1,
+        "explanation": "La aplicación de Isaías 45:23 (\"toda rodilla se doblará\") a Jesús en los v.10-11 afirma inequívocamente su divinidad plena compartida con YHWH."
+      },
+      {
+        "question": "En Colosenses 2:14-15, ¿qué imagen legal y militar usa Pablo para describir la victoria de la cruz?",
+        "options": [
+          "Un tratado comercial",
+          "Cristo ha anulado el acto por el cual nos condenaban las ordenanzas al clavarlo en la cruz, y ha despojado a los dominios y autoridades al hacer de ellos un espectáculo público.",
+          "Le pagó un rescate a Satanás",
+          "Él construyó una fortaleza"
+        ],
+        "correct": 1,
+        "explanation": "La cruz que parecía ser el triunfo de potencias hostiles se convierte en el carro triunfal de Dios que expone su derrota."
+      },
+      {
+        "question": "En 1 Corintios 15:3-5, ¿qué estatus le dan los historiadores del Nuevo Testamento a la frase 'Cristo murió por nuestros pecados según las Escrituras, fue sepultado, resucitó al tercer día...'?",
+        "options": [
+          "Un invento tardío del siglo II.",
+          "Un credo primitivo recibido por Pablo muy poco después de la crucifixión (entre los años 30-35 d.C.)",
+          "Una cita de Platón",
+          "Un texto apócrifo gnóstico"
+        ],
+        "correct": 1,
+        "explanation": "Pablo utiliza los verbos técnicos rabínicos 'recibir' (paralambanö) y 'transmitir' (paradidômi), lo que da testimonio de la antigüedad de la fe pascual."
+      },
+      {
+        "question": "¿Cuál es el significado de la 'nueva perspectiva sobre Pablo' (Sanders, Dunn, Wright) en los estudios paulinos contemporáneos?",
+        "options": [
+          "Pablo habría rechazado a Jesús",
+          "Ella sostiene que el judaísmo del siglo I era un 'nomismo de pacto' basado en la gracia, y que las 'obras de la ley' apuntan principalmente a marcadores de identidad (circuncisión, sábado, leyes dietéticas) excluyendo a los paganos.",
+          "Pablo no escribió ninguna epístola",
+          "Pablo era un filósofo estoico"
+        ],
+        "correct": 1,
+        "explanation": "Si bien generó debates con la lectura reformada clásica, este enfoque ha renovado la comprensión del contexto judío de Gálatas y Romanos."
+      },
+      {
+        "question": "En Romanos 7:14-25 ('No hago el bien que quiero...'), ¿cuáles son las dos lecturas principales de la identidad del 'Yo' (Egô)?",
+        "options": [
+          "Sólo Adán en el Paraíso",
+          "O el hombre bajo la Ley sin el poder del Espíritu (exégesis mayoritaria reciente), o la persistente lucha interna del cristiano regenerado (Agustín, Reforma)",
+          "un angel caido",
+          "Emperador Nerón"
+        ],
+        "correct": 1,
+        "explanation": "El contraste entre Romanos 7 (esclavitud bajo la ley) y Romanos 8 (libertad en el Espíritu) informa esta clásica discusión exegética."
+      },
+      {
+        "question": "En Gálatas 2:11-14, ¿por qué Pablo se opone públicamente a Pedro (Cefas) en Antioquía?",
+        "options": [
+          "Por una cuestion de dinero",
+          "Porque Pedro, por miedo a los circuncidados venidos de Jerusalén, dejó de comer con cristianos no judíos, comprometiendo 'la verdad del Evangelio'",
+          "Porque Pedro quería ir a Roma.",
+          "Para la elección de un obispo"
+        ],
+        "correct": 1,
+        "explanation": "Pablo muestra que la justificación sólo por la fe prohíbe cualquier separación de mesas entre creyentes judíos y gentiles."
+      },
+      {
+        "question": "¿Cuál es la estructura literaria quiasmática o temática de la epístola a los hebreos?",
+        "options": [
+          "Una lista simple de nombres",
+          "Una 'palabra de exhortación' que alterna presentaciones cristológicas (superioridad de Cristo sobre los ángeles, Moisés, Aarón y los sacrificios) y advertencias solemnes contra la apostasía",
+          "Un relato cronológico de la vida de Pablo",
+          "Una carta privada a un rey"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos combina la cristología sumo sacerdotal con cinco pasajes de advertencia que instan a los lectores a perseverar en la fe."
+      },
+      {
+        "question": "En Hebreos 6:4-6 y 10:26, ¿sobre qué peligro específico advierte el autor a sus destinatarios?",
+        "options": [
+          "Comer ciertos alimentos",
+          "Apostasía deliberada: rechazar públicamente el único sacrificio de Cristo y regresar a los ritos antiguos, sin dejar ningún otro sacrificio por los pecados.",
+          "Casarse",
+          "Viajando en el mar"
+        ],
+        "correct": 1,
+        "explanation": "En el contexto de la persecución, algunos se sintieron tentados a abandonar la fe cristiana para encontrar la seguridad del judaísmo reconocido por Roma."
+      },
+      {
+        "question": "¿Cuál es el significado del término 'hipóstasis' (ὑπόστασις) en Hebreos 1:3 ('la huella de la propia persona/sustancia') y 11:1 ('firme seguridad')?",
+        "options": [
+          "una simple sombra",
+          "En 1:3, designa el ser mismo o realidad sustancial de Dios del cual el Hijo es huella exacta; en 11:1, la seguridad concreta de los bienes esperados",
+          "El error de un copista",
+          "Un término militar romano"
+        ],
+        "correct": 1,
+        "explanation": "Hebreos 1:3 jugó un papel decisivo en el desarrollo de la cristología trinitaria de los primeros concilios."
+      },
+      {
+        "question": "¿Cómo armoniza la epístola de Santiago (2:24: 'por las obras el hombre es justificado, y no sólo por la fe') con Pablo (Romanos 3:28)?",
+        "options": [
+          "Se contradicen frontalmente",
+          "Pablo lucha contra el legalismo (merecer la salvación ante Dios sin fe en Cristo); James lucha contra una fe muerta y puramente verbal (demostrando la autenticidad de su fe a través de obras)",
+          "Santiago habla de otro Jesús",
+          "Pablo rechaza toda ética"
+        ],
+        "correct": 1,
+        "explanation": "Pablo y Santiago usan \"justificar\" y \"fe\" desde dos ángulos complementarios: uno habla del fundamento de la salvación, el otro de su verificación viva."
+      },
+      {
+        "question": "En 1 Pedro 3:18-20, ¿cuál es la interpretación más debatida de la predicación de Cristo 'a los espíritus encarcelados'?",
+        "options": [
+          "Un viaje a Marte",
+          "O la proclamación del Espíritu a través de Noé a los contemporáneos del diluvio, o el anuncio de la victoria de Cristo a los poderes/espíritus caídos después de su muerte.",
+          "Una segunda oportunidad universal después de la muerte está claramente demostrada",
+          "Un sueño de Pedro en Jope"
+        ],
+        "correct": 1,
+        "explanation": "El pasaje sigue siendo uno de los textos más discutidos del Nuevo Testamento, pero su propósito pastoral es claro: animar a los cristianos perseguidos mediante la victoria total de Cristo (v. 22)."
+      },
+      {
+        "question": "En 2 Pedro 3:8-10, ¿cómo responde el apóstol a los burladores que dudan del regreso de Cristo (\"¿Dónde está la promesa de su venida?\")?",
+        "options": [
+          "Fijando una fecha específica",
+          "Recordando el diluvio pasado, que ante el Señor un día es como mil años, y que este aparente 'retraso' es la paciencia de Dios dispuesta a que nadie perezca",
+          "Negando el fin del mundo",
+          "Decir que el regreso ya se ha producido en secreto."
+        ],
+        "correct": 1,
+        "explanation": "La paciencia de Dios es una gracia misionera que permite tiempo para el arrepentimiento antes de la renovación por el fuego."
+      },
+      {
+        "question": "¿Cuál es la estrecha relación literaria entre la epístola de Judas y el capítulo 2 de la segunda epístola de Pedro?",
+        "options": [
+          "Sin enlace",
+          "Comparten material e imágenes muy similares contra los falsos médicos libertinos (por ejemplo, uno probablemente se inspiró en el otro o en una fuente común).",
+          "Judas copia a los romanos",
+          "2 Pedro copia el Apocalipsis"
+        ],
+        "correct": 1,
+        "explanation": "La mayoría de los eruditos creen que 2 Pedro 2 adaptó y reutilizó a Judas omitiendo sus citas de los apócrifos judíos (1 Enoc, Asunción de Moisés)."
+      },
+      {
+        "question": "¿Cuál es el significado del término 'koinônia' (κοινωνία) en el Nuevo Testamento (Hechos 2:42; 2 Cor 13:13; 1 Juan 1:3)?",
+        "options": [
+          "Una comida sencilla y amigable",
+          "Una comunión/participación profunda y recíproca con Dios (Padre, Hijo, Espíritu) y entre los creyentes, que implica compartir material y solidaridad espiritual.",
+          "Un impuesto imperial",
+          "Un título sacerdotal"
+        ],
+        "correct": 1,
+        "explanation": "Koinônia expresa la participación de la vida nueva en Cristo, hasta la colecta económica para los pobres de Jerusalén (Romanos 15,26)."
+      },
+      {
+        "question": "En Juan 1:1 ('En el principio era el Logos... y el Logos era Dios'), ¿qué matiz gramatical especifica la construcción sin el artículo 'theos ên ho logos'?",
+        "options": [
+          "que hay dos dioses",
+          "Que el Logos posee plenamente la naturaleza divina (cualitativa) sin dejar de ser distinto de la persona del Padre ('cerca de Dios')",
+          "Que el Logos es una simple criatura",
+          "Que Dios ha dejado de existir"
+        ],
+        "correct": 1,
+        "explanation": "La ausencia de un artículo antes de 'theos' (regla de Colwell) evita el modalismo (confundir al Padre y al Hijo) al tiempo que afirma la verdadera divinidad del Verbo."
+      },
+      {
+        "question": "En Juan 1:14 ('Y el Verbo fue hecho carne, y habitó entre nosotros'), ¿qué verbo griego se refiere al Antiguo Testamento?",
+        "options": [
+          "baptizo",
+          "Eskênôsen ('plantó su tienda/tabernáculo' entre nosotros), evocando la tienda de reunión y la gloria de Dios (Shekinah)",
+          "agapao",
+          "Didasko"
+        ],
+        "correct": 1,
+        "explanation": "En Jesús, la gloriosa presencia de Dios que residía en el Sagrario viene a habitar corporalmente en medio de la humanidad."
+      },
+      {
+        "question": "¿Cuál es el significado de la expresión 'Nacer de nuevo / de arriba' (gennêthênai anôthen) en el diálogo con Nicodemo (Juan 3:3)?",
+        "options": [
+          "solo reencarnacion",
+          "La palabra griega \"anôthen\" significa \"de nuevo\" y \"desde arriba\", un doble significado utilizado por Juan para designar el nacimiento espiritual de Dios.",
+          "Un baño ritual diario",
+          "Un cambio de nacionalidad"
+        ],
+        "correct": 1,
+        "explanation": "Nicodemo sólo capta el significado temporal (\"entrar por segunda vez en el vientre de su madre\"), mientras que Jesús habla de un nacimiento \"de arriba\" por el Espíritu."
+      },
+      {
+        "question": "En Juan 19:30, ¿qué palabra griega pronuncia Jesús en la cruz (\"Consumado es\")?",
+        "options": [
+          "Amén",
+          "Tetelestai (tiempo perfecto del verbo teleô: completamente completado, pagado en su totalidad, con efecto permanente)",
+          "Maranata",
+          "hosana"
+        ],
+        "correct": 1,
+        "explanation": "En los recibos comerciales antiguos, \"tetelestai\" significaba \"pagado en su totalidad\"; Jesús proclama la perfecta culminación de la obra redentora."
+      },
+      {
+        "question": "En Lucas 15, ¿cuál es el hilo conductor que une las tres parábolas (oveja perdida, moneda perdida, hijo pródigo)?",
+        "options": [
+          "La importancia del dinero",
+          "El gozo de Dios que busca y acoge al pecador arrepentido, en respuesta a las murmuraciones de los fariseos y los escribas (Lucas 15:1-2)",
+          "El castigo de los pastores.",
+          "Las leyes del templo"
+        ],
+        "correct": 1,
+        "explanation": "Cada parábola culmina con el llamado a compartir el gozo del cielo ante un solo pecador que se arrepiente, clamando al hermano mayor (los fariseos)."
+      },
+      {
+        "question": "¿Cuál es el papel del \"prólogo de Lucas\" (Lucas 1:1-4) en el contexto de la historiografía grecorromana?",
+        "options": [
+          "Una oración poética",
+          "Una dedicación metodológica formal a Théophile que afirma una investigación rigurosa de los testigos presenciales para garantizar la solidez de las enseñanzas recibidas.",
+          "Una lista de genealogías",
+          "Un salmo hebreo"
+        ],
+        "correct": 1,
+        "explanation": "Lucas utiliza un cuidadoso griego literario comparable a los prefacios de historiadores antiguos como Tucídides o Polibio."
+      },
+      {
+        "question": "En Hechos 15, ¿qué cuatro abstenciones acuerda el Decreto Apostólico de Jerusalén para facilitar el compañerismo entre cristianos judíos y gentiles?",
+        "options": [
+          "El sábado, la circuncisión, el vino y la carne.",
+          "Carne sacrificada a los ídolos, sangre, animales estrangulados y fornicación (inmoralidad sexual)",
+          "Comercio, ejército, impuestos y matrimonio.",
+          "Ayunar, viajar, estudiar y cantar"
+        ],
+        "correct": 1,
+        "explanation": "Sin imponer la circuncisión ni el yugo de la Ley para la salvación, el concilio pide estas consideraciones prácticas en relación con Levítico 17-18."
+      },
+      {
+        "question": "En Romanos 9-11, ¿qué cuestión teológica importante aborda Pablo después de exaltar la seguridad de la salvación en Romanos 8?",
+        "options": [
+          "Cómo pagar impuestos al César",
+          "Cómo reconciliar las fieles promesas de Dios a Israel con el hecho de que la mayoría de Israel rechazó a su Mesías",
+          "Cómo construir una iglesia en Roma",
+          "Cómo celebrar la Pascua"
+        ],
+        "correct": 1,
+        "explanation": "Si la palabra de Dios parecía haberle fallado a Israel, ¿cómo podían los creyentes en Roma confiar en Romanos 8? Pablo demuestra que la fidelidad de Dios permanece intacta."
+      },
+      {
+        "question": "En 1 Corintios 1-4, ¿cuál es la raíz profunda de las divisiones en la Iglesia de Corinto?",
+        "options": [
+          "Un desacuerdo sobre la fecha de Semana Santa",
+          "El apego partidista a los líderes (Pablo, Apolos, Cefas) impulsado por la búsqueda de la 'sabiduría humana' y el prestigio social en lugar de la locura de la cruz.",
+          "Una guerra civil en Corinto",
+          "pobreza extrema"
+        ],
+        "correct": 1,
+        "explanation": "Pablo contrasta la retórica mundana con la \"palabra de la cruz\", el poder y la sabiduría de Dios que derriba el orgullo humano."
+      },
+      {
+        "question": "En 1 Corintios 8-10, ¿qué principio ético formula Pablo con respecto a las carnes sacrificadas a los ídolos?",
+        "options": [
+          "Come de todo sin preocuparte por nadie",
+          "La libertad cristiana (“todo es permitido, pero no todo edifica”) debe estar guiada por el amor al hermano débil cuya conciencia podría ser herida",
+          "Nunca hables con incrédulos.",
+          "Regreso bajo la Ley de Moisés"
+        ],
+        "correct": 1,
+        "explanation": "No basta saber que un ídolo no es nada: el conocimiento envanece, pero el amor edifica (1 Corintios 8:1)."
+      },
+      {
+        "question": "En 2 Corintios 3:6 (“la letra mata, pero el Espíritu vivifica”), ¿qué significa exactamente “la letra” en contexto?",
+        "options": [
+          "Cualquier lectura literal de la Biblia.",
+          "La antigua alianza escrita en piedra (la Ley sin el corazón renovado) que condena al pecador, opuesta al ministerio de la nueva alianza por el Espíritu",
+          "El alfabeto griego",
+          "Las propias cartas de Pablo"
+        ],
+        "correct": 1,
+        "explanation": "Pablo no denigra el texto bíblico sino que compara el ministerio de condenación del Sinaí con el ministerio de justificación por el Espíritu."
+      },
+      {
+        "question": "En Efesios 1:3-14, ¿cuál es la característica gramatical y teológica del pasaje inicial?",
+        "options": [
+          "Contiene 12 frases muy cortas.",
+          "Es una sola frase larga (elogio) en griego de 202 palabras bendiciendo a Dios según una estructura trinitaria (elección por el Padre, redención por el Hijo, sello por el Espíritu).",
+          "Es un diálogo con Timothée.",
+          "Está escrito en hebreo."
+        ],
+        "correct": 1,
+        "explanation": "Cada sección de esta bendición culmina con el estribillo \"en alabanza de la gloria de su gracia\" / \"en alabanza de su gloria\"."
+      },
+      {
+        "question": "En Efesios 5:21-33, ¿cómo establece Pablo la ética del matrimonio cristiano?",
+        "options": [
+          "Sobre las leyes romanas de patria potestas",
+          "Sobre el 'gran misterio' de la unión entre Cristo y la Iglesia: el marido llamado a amar a su mujer como Cristo amó a la Iglesia y se entregó por ella",
+          "Sobre la superioridad cultural griega",
+          "Sobre el interés económico"
+        ],
+        "correct": 1,
+        "explanation": "Precedido por \"someteos unos a otros en el temor de Cristo\" (v. 21), el texto transforma radicalmente los antiguos códigos familiares a través del amor sacrificial."
+      },
+      {
+        "question": "En 1 Tesalonicenses 4:13-18, ¿por qué Pablo escribe acerca de la resurrección y el arrebatamiento?",
+        "options": [
+          "Por pura curiosidad especulativa",
+          "Consolar a los creyentes preocupados por sus hermanos que murieron antes del regreso del Señor, asegurándoles que no quedarán en desventaja",
+          "Para arreglar el año 60 d.C. ANUNCIO",
+          "Prohibir los funerales"
+        ],
+        "correct": 1,
+        "explanation": "'Por tanto, consolaos unos a otros con estas palabras' (v. 18): primero los muertos en Cristo resucitarán, y luego todos estarán con el Señor para siempre."
+      },
+      {
+        "question": "En 1 Timoteo 3 y Tito 1, ¿qué términos intercambiables se refieren a los líderes locales de la Iglesia apostólica?",
+        "options": [
+          "Papa y cardenales",
+          "Presbíteros/ancianos (presbyteroi) y obispos/supervisores (episkopoi), asistidos por diáconos (diakonoi)",
+          "Levitas y sacerdotes",
+          "Sólo apóstoles viajeros"
+        ],
+        "correct": 1,
+        "explanation": "En Tito 1:5-7 y Hechos 20:17,28, 'anciano' y 'obispo/supervisor' nuevamente designan la misma función colegiada de liderazgo pastoral."
+      },
+      {
+        "question": "En Tito 2:11-14, ¿cómo resume Pablo la conexión entre la gracia aparente, la ética presente y la esperanza futura?",
+        "options": [
+          "La gracia prescinde de toda moralidad.",
+          "La gracia salvadora 'nos enseña a renunciar a la impiedad... y a vivir en este siglo presente según la sabiduría, la justicia y la piedad, en espera de la esperanza bienaventurada'",
+          "Sólo cuenta la expectativa futura",
+          "La gracia es sólo para los viejos."
+        ],
+        "correct": 1,
+        "explanation": "La gracia divina es a la vez fuente de perdón (primera aparición) y pedagogía de la santidad hasta la aparición gloriosa de Cristo."
+      },
+      {
+        "question": "¿Cuál es el significado de la palabra griega \"anatema\" usada por Pablo en Gálatas 1:8-9 y Romanos 9:3?",
+        "options": [
+          "Una simple reprimenda amistosa",
+          "Aquello que está condenado a la execración o maldición/separación de Dios (equivalente al 'herem' de la LXX)",
+          "Una bendición sacerdotal",
+          "Un canto litúrgico"
+        ],
+        "correct": 1,
+        "explanation": "Pablo declara anatema a cualquiera que predique cualquier otro evangelio que no sea el de la gracia, y expresa en Romanos 9:3 su extremo amor por Israel."
+      },
+      {
+        "question": "En Romanos 16:7, ¿quiénes son Andrónico y Junia mencionados por Pablo con el notable título de \"considerados entre los apóstoles\"?",
+        "options": [
+          "Dos gobernadores romanos",
+          "Una pareja (entre ellos Junia, nombre femenino) convertida antes que Pablo y estimada entre los apóstoles/enviados",
+          "Dos enemigos de Pablo en Éfeso",
+          "Dos soldados de Cesarea"
+        ],
+        "correct": 1,
+        "explanation": "Los Padres de la Iglesia (incluido Juan Crisóstomo) reconocieron a Junia como una mujer notable en el círculo más amplio de apóstoles/misioneros."
+      },
+      {
+        "question": "En 2 Corintios 8–9, ¿qué principios espirituales enseña Pablo acerca de la colecta para los santos en Jerusalén?",
+        "options": [
+          "Un impuesto obligatorio del 30%",
+          "Generosidad voluntaria, gozosa ('Dios ama a quien da con alegría'), proporcional a los medios, como signo de reciprocidad espiritual y material.",
+          "Dar para comprar puestos de autoridad.",
+          "Guárdalo todo para Corinto"
+        ],
+        "correct": 1,
+        "explanation": "Pablo basa esta liberalidad en la gracia de Cristo que, \"siendo rico, por vosotros se hizo pobre, para que con su pobreza os enriquecierais\" (2 Cor 8,9)."
+      },
+      {
+        "question": "En Apocalipsis, ¿qué significa el número '7' que se repite constantemente (7 Iglesias, 7 espíritus, 7 sellos, 7 trompetas, 7 copas)?",
+        "options": [
+          "Un número de la suerte pagano",
+          "El símbolo bíblico de la plenitud, totalidad y perfección divina.",
+          "El número de años del reinado de Nerón.",
+          "El número de apóstoles"
+        ],
+        "correct": 1,
+        "explanation": "Así, las \"siete Iglesias\" representan tanto las comunidades históricas de Asia Menor como la Iglesia universal en su totalidad."
+      },
+      {
+        "question": "En Apocalipsis, ¿cómo podemos interpretar los '1000 años' (Apocalipsis 20) según el amilenialismo, premilenialismo y posmilenialismo?",
+        "options": [
+          "Todos dicen lo mismo",
+          "Amilenialismo: la era actual de la Iglesia entre la 1ª y 2ª venida; Premilenialismo: reinado terrenal de 1000 años después del regreso de Cristo; Postmilenialismo: edad de oro del Evangelio antes del regreso",
+          "El texto habla de sólo 1000 días.",
+          "Nadie comenta en este capitulo."
+        ],
+        "correct": 1,
+        "explanation": "Estas tres escuelas comparten la fe común en el regreso personal de Cristo, la resurrección general y el juicio final."
+      },
+      {
+        "question": "En Apocalipsis 13:18, ¿qué representa el número '666' (el número del hombre) según la gematría antigua más común?",
+        "options": [
+          "El número perfecto de Dios",
+          "La triple imperfección (por debajo del 7 divino) y, para muchos historiadores, el valor numérico hebreo de 'Neron Qesar' (Nerón César)",
+          "El número de ángeles",
+          "La fecha de creación"
+        ],
+        "correct": 1,
+        "explanation": "En hebreo, las letras de 'Nero Qesar' suman 666 (y 616 con 'Nero Qesar' sin la 'n' final, variante atestiguada en ciertos manuscritos)."
+      },
+      {
+        "question": "En Apocalipsis 21-22, ¿por qué 'no hay templo' en la Nueva Jerusalén?",
+        "options": [
+          "Porque los residentes son ateos.",
+          "'Porque el Señor Dios Todopoderoso es su templo, y el Cordero': la mediación simbólica da paso a la comunión directa",
+          "porque faltan los materiales",
+          "Porque el templo permanece en Roma"
+        ],
+        "correct": 1,
+        "explanation": "La ciudad entera toma la forma cúbica del Lugar Santísimo (21:16), lo que significa que toda la creación renovada se convierte en el hogar inmediato de Dios."
+      },
+      {
+        "question": "En Juan 17:20-23, ¿cuál es el significado misionero de la oración de Jesús por la unidad de los creyentes?",
+        "options": [
+          "Uniformidad administrativa forzada",
+          "Que todos sean uno como el Padre y el Hijo son uno, 'para que el mundo crea que tú me has enviado'",
+          "Un retiro lejos del mundo",
+          "Una fusión con el Imperio Romano"
+        ],
+        "correct": 1,
+        "explanation": "La unidad espiritual visible en el amor entre los discípulos constituye el testimonio más poderoso del origen divino de Cristo."
+      },
+      {
+        "question": "En Mateo 16:18-19, ¿qué significa la frase 'las puertas del infierno (Hades) no prevalecerán contra él'?",
+        "options": [
+          "Que la Iglesia atacará físicamente los cementerios",
+          "Las puertas representan las fortalezas de la muerte y del mal: no podrán resistir el avance de la Iglesia ni retener a sus miembros en la muerte.",
+          "Que Pierre nunca morirá",
+          "Que Roma nunca caerá"
+        ],
+        "correct": 1,
+        "explanation": "En la antigüedad, las puertas eran estructuras defensivas: la Iglesia construida por Cristo sitió y derrotó el reino de la muerte."
+      },
+      {
+        "question": "En Lucas 16:19–31 (el hombre rico y Lázaro), ¿a qué conclusión llega Abraham sobre la suficiencia de las Escrituras?",
+        "options": [
+          "Que una persona resucitada siempre convencerá a todos",
+          "'Si no escuchan a Moisés y a los profetas, no se convencerán aunque resucite un muerto'",
+          "Que la riqueza garantice el cielo",
+          "Que Lázaro era rey"
+        ],
+        "correct": 1,
+        "explanation": "La parábola muestra la irreversibilidad del juicio después de la muerte y que la verdadera fe nace de la escucha de la Palabra de Dios."
+      },
+      {
+        "question": "En Mateo 12:31-32, ¿qué es 'blasfemia contra el Espíritu Santo' en su contexto inmediato?",
+        "options": [
+          "Una simple duda pasajera",
+          "La dureza lúcida y persistente de los fariseos atribuyendo a sabiendas a Belcebú (Satanás) las obras manifiestas del Espíritu de Dios realizadas por Jesús",
+          "Olvídate de una oración",
+          "Haz una pregunta difícil"
+        ],
+        "correct": 1,
+        "explanation": "Quien deliberadamente rechaza la fuente misma de luz y de perdón llamándola demoníaca, se cierra voluntariamente al arrepentimiento."
+      },
+      {
+        "question": "En Hechos 2:42, ¿cuáles son los cuatro pilares de la vida de la iglesia primitiva en Jerusalén?",
+        "options": [
+          "Política, riqueza, arquitectura, ejército.",
+          "La enseñanza de los apóstoles, la comunión, la fracción del pan y las oraciones.",
+          "Sacrificios de animales, peregrinaciones a Roma, ayunos anuales y filosofía.",
+          "soledad absoluta"
+        ],
+        "correct": 1,
+        "explanation": "Estas cuatro prácticas regulares formaron el ritmo espiritual y comunitario de los primeros creyentes."
+      },
+      {
+        "question": "En 1 Juan 2:1-2, ¿cómo articula Juan el llamado a no pecar y la esperanza en caso de caer?",
+        "options": [
+          "Si alguno peca, todo está perdido.",
+          "'Os escribo estas cosas para que no pequéis. Y si alguno peca, Abogado tenemos (Paráclito) ante el Padre, a Jesucristo el justo'",
+          "El pecado ya no existe",
+          "Se deben ofrecer corderos."
+        ],
+        "correct": 1,
+        "explanation": "Jesucristo es a la vez nuestro Abogado ante el Padre y la víctima propiciatoria (hilasmos) por nuestros pecados y los del mundo entero."
+      },
+      {
+        "question": "En Romanos 6:1-14, ¿por qué Pablo rechaza la idea de 'permanecer en el pecado para que la gracia abunde'?",
+        "options": [
+          "Porque la gracia es limitada",
+          "Porque a través del bautismo y la unión con Cristo, el creyente está muerto al pecado y resucitado para caminar en nueva vida.",
+          "Porque la Ley de Moisés todavía salva",
+          "Porque los ángeles lo prohíben"
+        ],
+        "correct": 1,
+        "explanation": "La gracia no libera para el pecado, sino que libera de la esclavitud del pecado para servir a la justicia."
+      },
+      {
+        "question": "En 1 Pedro 1:3-5, ¿cómo describe Pedro la esperanza cristiana y su herencia?",
+        "options": [
+          "Una fortuna terrenal perecedera",
+          "Una esperanza viva mediante la resurrección de Jesucristo, para una herencia que no puede ser corrompida, ni contaminada, ni marchitada, reservada en el cielo.",
+          "Un reino político inmediato",
+          "Un olvido del sufrimiento"
+        ],
+        "correct": 1,
+        "explanation": "Los creyentes son guardados por el poder de Dios a través de la fe para esa salvación lista para ser revelada en el tiempo postrero."
+      },
+      {
+        "question": "En Mateo 13, ¿cuál es la lección común de las parábolas del 'grano de mostaza' y la 'levadura'?",
+        "options": [
+          "El reino desaparecerá",
+          "Aunque los inicios del Reino de Dios parezcan pequeños y escondidos, su crecimiento es irresistible hasta transformar y abarcar toda la creación.",
+          "Debemos rechazar el pan.",
+          "Sólo cuentan los árboles grandes"
+        ],
+        "correct": 1,
+        "explanation": "Jesús tranquiliza así a sus discípulos ante la aparente modestia de su grupo ante los grandes imperios."
+      },
+      {
+        "question": "En Juan 10:11-18, ¿qué características distinguen al 'buen pastor' del 'mercenario'?",
+        "options": [
+          "El mercenario tiene más ovejas.",
+          "El mercenario huye cuando viene el lobo porque no le importan las ovejas; el Buen Pastor conoce a los suyos, los llama por su nombre y da la vida por ellos",
+          "El Buen Pastor abandona a las ovejas débiles",
+          "Actúan de la misma manera"
+        ],
+        "correct": 1,
+        "explanation": "Jesús aclara que da su vida voluntariamente (“Nadie me la quita, sino que yo la doy de mí mismo”) y que aún le quedan otras ovejas (las naciones) que reunir."
+      },
+      {
+        "question": "En Lucas 19:11-27, ¿por qué Jesús cuenta la parábola de las diez minas justo antes de entrar a Jerusalén?",
+        "options": [
+          "para enseñar banca",
+          "Porque se creía que el Reino de Dios aparecería inmediatamente; muestra que el Rey debe salir para recibir la realeza antes de regresar para pedir cuentas a sus sirvientes",
+          "Criticar a Zaqueo",
+          "Para cancelar su ministerio"
+        ],
+        "correct": 1,
+        "explanation": "La parábola prepara a los discípulos para un período de espera activa y fidelidad entre la Ascensión y el regreso de Cristo."
+      },
+      {
+        "question": "En 2 Timoteo 3:16-17, ¿qué significa el término griego 'theopneustos' ('respirado por Dios')?",
+        "options": [
+          "Escrito solo por ángeles",
+          "'Inspirado por Dios': afirma el origen divino de las Escrituras, lo que las hace plenamente suficientes para enseñar, convencer, corregir e instruir.",
+          "Dictado mecánicamente sin personalidad humana",
+          "Limitado a los Salmos"
+        ],
+        "correct": 1,
+        "explanation": "Dios insufló Su Palabra a través de autores humanos (2 Pedro 1:21) para que el hombre de Dios fuera completo, equipado para toda buena obra."
+      },
+      {
+        "question": "En Filipenses 1:21-24, ¿qué dilema interno expresa Pablo al enfrentar su juicio en Roma?",
+        "options": [
+          "Huir a España o Egipto",
+          "Entre el deseo de partir y estar con Cristo (que es de lejos lo mejor) y la necesidad de permanecer en la carne para el progreso espiritual de los filipenses",
+          "Convertirse en ciudadano romano o no",
+          "Escribir o predicar"
+        ],
+        "correct": 1,
+        "explanation": "Este pasaje da testimonio de la esperanza de Pablo de estar inmediatamente con Cristo después de su muerte, mientras permanece dedicado al servicio de la Iglesia."
+      },
+      {
+        "question": "En Hechos 20:28, ¿qué expresión fuerte usa Pablo ante los ancianos de Éfeso para describir el valor de la Iglesia?",
+        "options": [
+          "Una asociación humana respetable",
+          "'La Iglesia de Dios, que compró con su propia sangre'",
+          "Un club filosófico",
+          "Una provincia romana"
+        ],
+        "correct": 1,
+        "explanation": "Pablo confía a los ancianos el cuidado de este precioso rebaño comprado al precio de la misma sangre de Cristo."
+      },
+      {
+        "question": "En Apocalipsis 12:1-17, ¿quiénes representan simbólicamente a la Mujer vestida del sol, el Niño Varón y el Dragón Rojo?",
+        "options": [
+          "Sólo tres constelaciones griegas",
+          "El pueblo fiel de Dios (Israel/Iglesia) dando a luz al Mesías (encantado con Dios), y derrotado Satanás quien luego persigue al resto de su descendiente",
+          "Roma, Atenas y Babilonia",
+          "Tres reyes de Persia"
+        ],
+        "correct": 1,
+        "explanation": "El capítulo revela el trasfondo espiritual invisible de las persecuciones terrenales: el dragón ya está vencido por la sangre del Cordero (v. 11)."
       }
     ]
   }

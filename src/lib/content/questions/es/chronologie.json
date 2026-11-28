@@ -165,6 +165,523 @@
         ],
         "correct": 2,
         "explanation": "Jesús se manifestó durante 40 días después de su resurrección antes de ascender al cielo (Hechos 1:3)."
+      },
+      {
+        "question": "¿Qué profeta vivió antes de Moisés: Abraham o Elías?",
+        "options": [
+          "Elías",
+          "Abrahán",
+          "Ambos vivieron después de Moisés.",
+          "Ni"
+        ],
+        "correct": 1,
+        "explanation": "Abraham vivió unos 700 años antes que Moisés, mientras que Elías vivió unos 400 años después de Moisés (siglo IX a.C.)."
+      },
+      {
+        "question": "¿Quién fue creado primero según el Génesis: Adán o Eva?",
+        "options": [
+          "Víspera",
+          "Adán",
+          "Fueron creados simultáneamente el tercer día.",
+          "Noé"
+        ],
+        "correct": 1,
+        "explanation": "Según Génesis 2:7-22, Dios primero formó a Adán del polvo y luego creó a Eva de una de sus costillas."
+      },
+      {
+        "question": "¿Qué acontecimiento tuvo lugar inmediatamente después del Éxodo de Egipto?",
+        "options": [
+          "La construcción del Templo de Salomón",
+          "Cruzando el Mar Rojo",
+          "Exilio a Babilonia",
+          "El reinado de David"
+        ],
+        "correct": 1,
+        "explanation": "Poco después de salir de Egipto, los israelitas cruzaron el Mar Rojo sobre tierra seca (Éxodo 14)."
+      },
+      {
+        "question": "¿Cuántos días duró el diluvio en los días de Noé?",
+        "options": [
+          "7 días y 7 noches",
+          "40 días y 40 noches",
+          "12 días y 12 noches",
+          "70 días y 70 noches"
+        ],
+        "correct": 1,
+        "explanation": "Llovió sobre la tierra durante 40 días y 40 noches (Génesis 7:12)."
+      },
+      {
+        "question": "¿Qué libro bíblico relata los acontecimientos inmediatamente posteriores a la muerte de Moisés?",
+        "options": [
+          "Levíticio",
+          "Números",
+          "Josué",
+          "jueces"
+        ],
+        "correct": 2,
+        "explanation": "El libro de Josué comienza justo después de la muerte de Moisés con la entrada a la Tierra Prometida (Josué 1:1-2)."
+      },
+      {
+        "question": "¿En qué orden vivieron estos tres personajes?",
+        "options": [
+          "Isaac → Abraham → Jacob",
+          "Abraham → Isaac → Jacob",
+          "Jacob → Isaac → Abraham",
+          "Abraham → Jacob → Isaac"
+        ],
+        "correct": 1,
+        "explanation": "Abraham es el padre de Isaac, quien a su vez es el padre de Jacob (Génesis 21 y 25)."
+      },
+      {
+        "question": "¿Qué evento ocurre antes del reinado de los reyes en Israel?",
+        "options": [
+          "El exilio babilónico",
+          "El periodo de los Jueces",
+          "La reconstrucción de las murallas.",
+          "El ministerio de Juan el Bautista"
+        ],
+        "correct": 1,
+        "explanation": "Después de Josué, Israel fue gobernado por jueces durante varios siglos antes del establecimiento de la monarquía bajo Saúl (1 Samuel 8)."
+      },
+      {
+        "question": "¿Cuántos años reinó David sobre Israel en total?",
+        "options": [
+          "20 años",
+          "40 años",
+          "12 años",
+          "70 años"
+        ],
+        "correct": 1,
+        "explanation": "David reinó durante 40 años: 7 años y medio en Hebrón sobre Judá, luego 33 años en Jerusalén sobre todo Israel (2 Samuel 5:4-5)."
+      },
+      {
+        "question": "¿Cuántos años reinó Salomón sobre Israel?",
+        "options": [
+          "40 años",
+          "25 años",
+          "15 años",
+          "60 años"
+        ],
+        "correct": 0,
+        "explanation": "Al igual que David, Salomón reinó durante 40 años en Jerusalén sobre todo Israel (1 Reyes 11:42)."
+      },
+      {
+        "question": "¿Qué profeta ungió a Saúl y luego a David como reyes de Israel?",
+        "options": [
+          "natán",
+          "Elías",
+          "samuel",
+          "Elíseo"
+        ],
+        "correct": 2,
+        "explanation": "El profeta Samuel recibió la orden de Dios de ungir a Saúl (1 Samuel 10) y luego a David (1 Samuel 16)."
+      },
+      {
+        "question": "¿Qué evento ocurrió primero: el nacimiento de Moisés o el nacimiento de José?",
+        "options": [
+          "El nacimiento de Moisés",
+          "El nacimiento de José",
+          "Ocurrieron el mismo año.",
+          "La de Josué ante los dos"
+        ],
+        "correct": 1,
+        "explanation": "José vivió mucho antes que Moisés: fue bajo José que la familia de Jacob se estableció en Egipto (Génesis 46; Éxodo 1)."
+      },
+      {
+        "question": "¿Cuántos años tenía José cuando fue vendido por sus hermanos?",
+        "options": [
+          "17 años",
+          "30 años",
+          "12 años",
+          "40 años"
+        ],
+        "correct": 0,
+        "explanation": "Génesis 37:2 indica que José tenía 17 años cuando pastoreaba el rebaño con sus hermanos."
+      },
+      {
+        "question": "¿A qué edad llegó José a ser gobernador de Egipto ante el faraón?",
+        "options": [
+          "17 años",
+          "25 años",
+          "30 años",
+          "50 años"
+        ],
+        "correct": 2,
+        "explanation": "José tenía 30 años cuando se presentó ante Faraón para interpretar sus sueños (Génesis 41:46)."
+      },
+      {
+        "question": "¿Qué edad tenía Moisés cuando murió en el monte Nebo?",
+        "options": [
+          "80 años",
+          "100 años",
+          "120 años",
+          "150 años"
+        ],
+        "correct": 2,
+        "explanation": "Moisés tenía 120 años cuando murió y su vista no estaba dañada (Deuteronomio 34:7)."
+      },
+      {
+        "question": "¿Cuántos días ayunó Jesús en el desierto antes de ser tentado?",
+        "options": [
+          "7 dias",
+          "21 dias",
+          "40 dias",
+          "50 dias"
+        ],
+        "correct": 2,
+        "explanation": "Jesús ayunó 40 días y 40 noches en el desierto después de su bautismo (Mateo 4:2)."
+      },
+      {
+        "question": "¿A qué edad comenzó Jesús su ministerio público según Lucas?",
+        "options": [
+          "unos 20 años",
+          "unos 30 años",
+          "unos 40 años",
+          "unos 18 años"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 3:23 afirma que Jesús tenía unos 30 años cuando comenzó su ministerio."
+      },
+      {
+        "question": "¿Qué acontecimiento precedió inmediatamente al ministerio público de Jesús?",
+        "options": [
+          "Su ascenso",
+          "Su bautismo por Juan el Bautista",
+          "Pentecostés",
+          "La Transfiguración"
+        ],
+        "correct": 1,
+        "explanation": "Jesús fue bautizado por Juan el Bautista en el río Jordán al comienzo de su ministerio (Mateo 3:13-17)."
+      },
+      {
+        "question": "¿Cuántos días después del nacimiento de Jesús fue su circuncisión?",
+        "options": [
+          "3 dias",
+          "7 dias",
+          "8 dias",
+          "40 dias"
+        ],
+        "correct": 2,
+        "explanation": "Según la Ley de Moisés, Jesús fue circuncidado al octavo día y recibió su nombre (Lucas 2:21)."
+      },
+      {
+        "question": "¿A qué edad fue encontrado Jesús en el Templo discutiendo con los doctores de la Ley?",
+        "options": [
+          "8 años",
+          "12 años",
+          "16 años",
+          "20 años"
+        ],
+        "correct": 1,
+        "explanation": "A la edad de 12 años, Jesús se quedó en Jerusalén durante la fiesta de la Pascua para escuchar e interrogar a los maestros (Lucas 2:42-46)."
+      },
+      {
+        "question": "¿Qué rey gobernó Judea durante la masacre de los inocentes en Belén?",
+        "options": [
+          "Herodes Antipas",
+          "Herodes el grande",
+          "César Augusto",
+          "Poncio Pilato"
+        ],
+        "correct": 1,
+        "explanation": "Herodes el Grande ordenó la masacre de niños menores de dos años en Belén después de la visita de los magos (Mateo 2:16)."
+      },
+      {
+        "question": "¿En qué orden ocurrieron estos acontecimientos en la vida de Jesús?",
+        "options": [
+          "Bautismo → Nacimiento → Crucifixión → Ascensión",
+          "Nacimiento → Bautismo → Crucifixión → Ascensión",
+          "Nacimiento → Crucifixión → Bautismo → Ascensión",
+          "Bautismo → Crucifixión → Nacimiento → Ascensión"
+        ],
+        "correct": 1,
+        "explanation": "Jesús nació en Belén, fue bautizado alrededor de los 30 años, crucificado en Jerusalén, resucitó al tercer día y ascendió al cielo 40 días después."
+      },
+      {
+        "question": "¿Cuánto tiempo pasó entre la muerte de Jesús y su resurrección?",
+        "options": [
+          "1 dia",
+          "3 días (viernes a domingo)",
+          "7 dias",
+          "40 dias"
+        ],
+        "correct": 1,
+        "explanation": "Jesús fue crucificado el viernes y resucitó al tercer día, el domingo por la mañana (Lucas 24:1-7)."
+      },
+      {
+        "question": "¿Cuántos días separan la Pascua de Pentecostés en la tradición bíblica?",
+        "options": [
+          "30 dias",
+          "40 dias",
+          "50 dias",
+          "70 dias"
+        ],
+        "correct": 2,
+        "explanation": "Pentecostés significa \"quincuagésimo\": ocurre 50 días después de la fiesta de Pascua (Levítico 23:16; Hechos 2:1)."
+      },
+      {
+        "question": "¿Quién fue apedreado primero como mártir cristiano en los Hechos de los Apóstoles?",
+        "options": [
+          "jacques",
+          "Roca",
+          "Etienne",
+          "Pablo"
+        ],
+        "correct": 2,
+        "explanation": "Esteban, uno de los siete diáconos, fue apedreado hasta morir ante Saulo de Tarso (Hechos 7:54-60)."
+      },
+      {
+        "question": "¿La conversión de Saulo (Pablo) tuvo lugar antes o después de la lapidación de Esteban?",
+        "options": [
+          "Antes de la lapidación de Esteban",
+          "Después de la lapidación de Esteban",
+          "Al mismo tiempo que el nacimiento de Jesús",
+          "Antes de Pentecostés"
+        ],
+        "correct": 1,
+        "explanation": "Saulo aprobó el asesinato de Esteban (Hechos 8:1) antes de encontrarse con Cristo resucitado en el camino a Damasco (Hechos 9)."
+      },
+      {
+        "question": "¿Qué profeta vivió durante la época del rey Acab y Jezabel?",
+        "options": [
+          "Daniel",
+          "Elías",
+          "Jeremías",
+          "Ezequiel"
+        ],
+        "correct": 1,
+        "explanation": "Elías profetizó en el Reino del Norte durante el reinado del rey Acab y la reina Jezabel (1 Reyes 17-21)."
+      },
+      {
+        "question": "¿Quién sucedió directamente al profeta Elías?",
+        "options": [
+          "Isaías",
+          "Elíseo",
+          "samuel",
+          "Jonás"
+        ],
+        "correct": 1,
+        "explanation": "Eliseo recibió una doble porción del espíritu de Elías cuando Elías fue llevado al cielo (2 Reyes 2:9-15)."
+      },
+      {
+        "question": "¿Qué evento precede a la entrada de Daniel al foso de los leones?",
+        "options": [
+          "La caída de Jericó",
+          "Deportación a Babilonia",
+          "El nacimiento de Jesús",
+          "El reinado de Saúl"
+        ],
+        "correct": 1,
+        "explanation": "Daniel fue llevado cuando era joven a Babilonia durante la deportación bajo Nabucodonosor (Daniel 1)."
+      },
+      {
+        "question": "¿Cuántos años permaneció el pueblo judío exiliado en Babilonia según la profecía de Jeremías?",
+        "options": [
+          "40 años",
+          "50 años",
+          "70 años",
+          "100 años"
+        ],
+        "correct": 2,
+        "explanation": "Jeremías predijo que la desolación duraría 70 años antes del regreso a Judá (Jeremías 25:11; 29:10)."
+      },
+      {
+        "question": "¿Quién dirigió la reconstrucción de los muros de Jerusalén después del exilio?",
+        "options": [
+          "Josué",
+          "Nehemías",
+          "Gedeón",
+          "Salomón"
+        ],
+        "correct": 1,
+        "explanation": "Nehemías regresó de Susa bajo el rey Artajerjes para reconstruir los muros de Jerusalén en 52 días (Nehemías 2 y 6:15)."
+      },
+      {
+        "question": "¿En cuántos días fueron reconstruidos los muros de Jerusalén bajo Nehemías?",
+        "options": [
+          "7 dias",
+          "40 dias",
+          "52 dias",
+          "100 días"
+        ],
+        "correct": 2,
+        "explanation": "Nehemías 6:15 registra que el muro se completó en 52 días a pesar de la oposición."
+      },
+      {
+        "question": "¿Qué profeta predicó en Nínive mucho antes de la caída de Jerusalén?",
+        "options": [
+          "Jonás",
+          "Hageo",
+          "Malaquías",
+          "Zacarías"
+        ],
+        "correct": 0,
+        "explanation": "Jonás profetizó a Nínive en el siglo VIII a.C. antes de Cristo, mientras que Hageo, Zacarías y Malaquías son post-exílicos."
+      },
+      {
+        "question": "¿En qué orden vivieron estas tres mujeres de la Biblia?",
+        "options": [
+          "María → Rut → Sara",
+          "Sara → Rut → María",
+          "Rut → Sara → María",
+          "Sara → María → Rut"
+        ],
+        "correct": 1,
+        "explanation": "Sara vivió en la época de los patriarcas (~2000 a.C.), Rut en la época de los jueces (~1100 a.C.) y María en el siglo I."
+      },
+      {
+        "question": "¿Cuántos días llevaba ya Lázaro en la tumba cuando Jesús lo resucitó?",
+        "options": [
+          "1 dia",
+          "2 dias",
+          "4 dias",
+          "7 dias"
+        ],
+        "correct": 2,
+        "explanation": "Marta le recordó a Jesús que Lázaro había estado en la tumba durante cuatro días (Juan 11:39)."
+      },
+      {
+        "question": "¿Qué evento ocurrió durante la fiesta del rey Belsasar en Babilonia?",
+        "options": [
+          "La captura de Jericó",
+          "La aparición de una mano escribiendo en la pared.",
+          "La construcción del Templo",
+          "Cruzando el Jordán"
+        ],
+        "correct": 1,
+        "explanation": "Durante la fiesta de Belsasar, una mano escribió en la pared anunciando la caída de Babilonia esa noche (Daniel 5)."
+      },
+      {
+        "question": "¿Quién gobernaba en Jerusalén cuando el edicto del censo romano llevó a José y María a Belén?",
+        "options": [
+          "Nabucodonosor",
+          "César Augusto (emperador) y Herodes",
+          "Alejandro Magno",
+          "Ciro"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 2:1 menciona un edicto de César Augusto ordenando un censo de toda la tierra habitada."
+      },
+      {
+        "question": "¿Qué evento marca el final del libro de los Hechos de los Apóstoles?",
+        "options": [
+          "La destrucción de Jerusalén",
+          "Pablo predicando en Roma durante dos años",
+          "la muerte de pedro",
+          "El nacimiento de Jesús"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 28:30-31 termina cuando Pablo permanece dos años completos en Roma y anuncia con valentía el Reino."
+      },
+      {
+        "question": "¿Cuántas veces al día oró Daniel a pesar del decreto del rey Darío?",
+        "options": [
+          "1 vez",
+          "2 veces",
+          "3 veces",
+          "7 veces"
+        ],
+        "correct": 2,
+        "explanation": "Daniel continuó arrodillado tres veces al día con las ventanas abiertas hacia Jerusalén (Daniel 6:10)."
+      },
+      {
+        "question": "¿Cuántos años tenía Abraham cuando nació Isaac?",
+        "options": [
+          "75 años",
+          "86 años",
+          "100 años",
+          "120 años"
+        ],
+        "correct": 2,
+        "explanation": "Génesis 21:5 indica que Abraham tenía 100 años cuando nació su hijo Isaac."
+      },
+      {
+        "question": "¿A qué edad abandonó Abraham Harán ante el llamado de Dios?",
+        "options": [
+          "50 años",
+          "75 años",
+          "90 años",
+          "100 años"
+        ],
+        "correct": 1,
+        "explanation": "Abraham tenía 75 años cuando salió de Harán hacia la tierra de Canaán (Génesis 12:4)."
+      },
+      {
+        "question": "¿Cuántos años trabajó Jacob para que Labán se casara con Raquel y Lea?",
+        "options": [
+          "7 años",
+          "10 años",
+          "14 años",
+          "20 años"
+        ],
+        "correct": 2,
+        "explanation": "Jacob sirvió a Labán 7 años por Raquel, recibió a Lea con engaño y luego sirvió otros 7 años por Raquel (Génesis 29:18-30)."
+      },
+      {
+        "question": "¿Qué rey construyó el primer Templo aproximadamente 480 años después del Éxodo?",
+        "options": [
+          "Saúl",
+          "David",
+          "Salomón",
+          "Ezequías"
+        ],
+        "correct": 2,
+        "explanation": "1 Reyes 6:1 sitúa el comienzo de la construcción del Templo por parte de Salomón 480 años después del éxodo de Egipto."
+      },
+      {
+        "question": "¿En qué orden aparecen estos reyes de Judá: Josías, Ezequías, Salomón?",
+        "options": [
+          "Ezequías → Salomón → Josías",
+          "Salomón → Ezequías → Josías",
+          "Josías → Salomón → Ezequías",
+          "Salomón → Josías → Ezequías"
+        ],
+        "correct": 1,
+        "explanation": "Salomón reinó en el siglo X. AV. BC, Ezequías en los siglos VIII-VII. AV. BC, y Josías a finales del siglo VII. AV. ANUNCIO"
+      },
+      {
+        "question": "¿Qué libro del Nuevo Testamento fue escrito el último según la mayoría de los eruditos?",
+        "options": [
+          "La epístola a los gálatas",
+          "El Apocalipsis (o el Evangelio de Juan)",
+          "La Epístola a los Romanos",
+          "El evangelio de Marcos"
+        ],
+        "correct": 1,
+        "explanation": "Los escritos de Juan (Evangelio de Juan, epístolas y Apocalipsis) se fechan generalmente a finales del siglo I (alrededor del 90-96 d.C.)."
+      },
+      {
+        "question": "¿Cuántos días pasaron entre la presentación de Jesús por los pastores y la visita de los reyes magos?",
+        "options": [
+          "exactamente la misma tarde",
+          "Varios meses o incluso hasta dos años después.",
+          "40 días exactamente",
+          "7 dias"
+        ],
+        "correct": 1,
+        "explanation": "Los magos encontraron al niño en una casa (Mateo 2:11), y Herodes mató a los niños hasta que cumplieron dos años según la fecha dada."
+      },
+      {
+        "question": "¿Qué apóstol fue ejecutado por Herodes Agripa I alrededor del año 44 d.C.? ¿ANUNCIO?",
+        "options": [
+          "Roca",
+          "Jacques, hermano de Jean",
+          "Andrés",
+          "Mateo"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 12:1-2 registra que Herodes mató a espada a Santiago, el hermano de Juan."
+      },
+      {
+        "question": "¿Cuántos años estuvo Israel gobernado por Saúl según Hechos 13:21?",
+        "options": [
+          "20 años",
+          "30 años",
+          "40 años",
+          "50 años"
+        ],
+        "correct": 2,
+        "explanation": "Pablo recuerda en Hechos 13:21 que Dios les dio a Saúl por 40 años."
       }
     ],
     "intermediaire": [
@@ -332,6 +849,523 @@
         ],
         "correct": 2,
         "explanation": "Orden de los 3 primeros reyes: Saúl (alrededor de 1050-1010) → David (alrededor de 1010-970) → Salomón (alrededor de 970-931 a. C.)."
+      },
+      {
+        "question": "¿En qué orden cronológico deberían ubicarse estos profetas del Antiguo Testamento?",
+        "options": [
+          "Hageo → Isaías → Jeremías",
+          "Isaías → Jeremías → Hageo",
+          "Jeremías → Isaías → Hageo",
+          "Hageo → Jeremías → Isaías"
+        ],
+        "correct": 1,
+        "explanation": "Isaías profetizó en el siglo VIII. AV. BC, Jeremías en los siglos VII-VI. AV. a.C., y Hageo después del exilio alrededor del 520 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿En qué año aproximadamente Ciro el Grande emitió su edicto permitiendo el regreso de los judíos?",
+        "options": [
+          "722 a.C. d.C.",
+          "586 a.C. d.C.",
+          "538 a.C. d.C.",
+          "445 a.C. d.C."
+        ],
+        "correct": 2,
+        "explanation": "Después de la captura de Babilonia en 539 a.C. C., Ciro emitió el Edicto de Retorno en el año 538 a.C. (Esdras 1:1)."
+      },
+      {
+        "question": "¿En qué año aproximadamente se completó el Segundo Templo bajo Zorobabel?",
+        "options": [
+          "586 a.C. d.C.",
+          "538 a.C. d.C.",
+          "516-515 a.C. d.C.",
+          "458 a.C. d.C."
+        ],
+        "correct": 2,
+        "explanation": "Completó el sexto año del reinado de Darío I, en 516/515 a.C. BC, o 70 años después de la destrucción del 586 a.C. (Esdras 6:15)."
+      },
+      {
+        "question": "¿Qué rey asirio sitió Jerusalén durante el reinado de Ezequías en el año 701 a.C.? ¿ANUNCIO?",
+        "options": [
+          "Sargón II",
+          "Senaquerib",
+          "Asurbanipal",
+          "Tiglat-pileser III"
+        ],
+        "correct": 1,
+        "explanation": "Senaquerib sitió Jerusalén en el año 701 a.C. AD, pero la ciudad fue liberada milagrosamente (2 Reyes 18-19)."
+      },
+      {
+        "question": "¿En qué año tuvo lugar la primera deportación de Judá a Babilonia (con Daniel)?",
+        "options": [
+          "722 a.C. d.C.",
+          "605 a.C. d.C.",
+          "597 a.C. d.C.",
+          "586 a.C. d.C."
+        ],
+        "correct": 1,
+        "explanation": "Nabucodonosor sometió a Judá y tomó cautivos a la élite, incluido Daniel, en el 605 a.C. (Daniel 1:1)."
+      },
+      {
+        "question": "¿En qué año fueron deportados el rey Joaquín y el profeta Ezequiel a Babilonia?",
+        "options": [
+          "605 a.C. d.C.",
+          "597 a.C. d.C.",
+          "586 a.C. d.C.",
+          "539 a.C. d.C."
+        ],
+        "correct": 1,
+        "explanation": "La segunda deportación tuvo lugar en el año 597 a.C. BC, incluidos el rey Joaquín y Ezequiel (2 Reyes 24:10-16)."
+      },
+      {
+        "question": "¿Bajo qué rey de Judá se encontró el Libro de la Ley en el Templo alrededor del 622 a.C.? ¿ANUNCIO?",
+        "options": [
+          "Ezequías",
+          "Manasés",
+          "Josías",
+          "Sedequías"
+        ],
+        "correct": 2,
+        "explanation": "En el año 18 del reinado de Josías (~622 a. C.), el sumo sacerdote Hilcías encontró el Libro de la Ley (2 Reyes 22)."
+      },
+      {
+        "question": "¿Cuánto tiempo reinó el rey Josías sobre Judá?",
+        "options": [
+          "11 años",
+          "22 años",
+          "31 años",
+          "41 años"
+        ],
+        "correct": 2,
+        "explanation": "Josías se convirtió en rey a los 8 años y reinó durante 31 años en Jerusalén (2 Reyes 22:1)."
+      },
+      {
+        "question": "¿En qué año aproximadamente tuvo lugar la batalla de Carquemis entre Babilonia y Egipto?",
+        "options": [
+          "701 a.C. d.C.",
+          "605 a.C. d.C.",
+          "586 a.C. d.C.",
+          "539 a.C. d.C."
+        ],
+        "correct": 1,
+        "explanation": "En 605 a.C. En el año 500 a. C., Nabucodonosor derrotó al faraón Necao en Carquemis, poniendo al Medio Oriente bajo el dominio babilónico (Jeremías 46:2)."
+      },
+      {
+        "question": "¿En qué orden se sucedieron estos profetas post-exílicos?",
+        "options": [
+          "Malaquías → Hageo → Zacarías",
+          "Hageo y Zacarías → Malaquías",
+          "Zacarías → Malaquías → Hageo",
+          "Malaquías → Zacarías → Hageo"
+        ],
+        "correct": 1,
+        "explanation": "Hageo y Zacarías profetizaron alrededor del 520-518 a.C. AD para la reconstrucción del Templo; Malaquías profetizó en el siglo V. AV. ANUNCIO"
+      },
+      {
+        "question": "¿Bajo qué emperador persa regresó Nehemías a Jerusalén alrededor del 445 a.C.? ¿ANUNCIO?",
+        "options": [
+          "Ciro el grande",
+          "Darío I",
+          "Artajerjes I",
+          "Jerjes I"
+        ],
+        "correct": 2,
+        "explanation": "Nehemías obtuvo permiso de Artajerjes I en el año 20 de su reinado (~445 a. C., Nehemías 2:1)."
+      },
+      {
+        "question": "¿Aproximadamente en qué año regresó Esdras a Jerusalén?",
+        "options": [
+          "538 a.C. d.C.",
+          "515 a.C. d.C.",
+          "458 a.C. d.C.",
+          "400 a.C. d.C."
+        ],
+        "correct": 2,
+        "explanation": "Esdras partió en el séptimo año de Artajerjes I, tradicionalmente fechado en el 458 a.C. (Esdras 7:7-8)."
+      },
+      {
+        "question": "¿Qué acontecimiento marcó el fin del período intertestamentario por parte de los romanos?",
+        "options": [
+          "La conquista de Alejandro (332 a. C.)",
+          "La toma de Jerusalén por Pompeyo (63 a.C.)",
+          "La revuelta de Bar Kokhba (132 d.C.)",
+          "La destrucción del Templo (70 d.C.)"
+        ],
+        "correct": 1,
+        "explanation": "En el 63 a.C. AC, el general romano Pompeyo tomó Jerusalén y puso a Judea bajo dominio romano."
+      },
+      {
+        "question": "¿En qué año comenzó la revuelta de los Macabeos contra Antíoco IV Epífanes?",
+        "options": [
+          "332 a.C. d.C.",
+          "167 a.C. d.C.",
+          "63 a.C. d.C.",
+          "4 a.C. d.C."
+        ],
+        "correct": 1,
+        "explanation": "En 167 a.C. C., Antíoco IV profanó el templo, lo que desencadenó la revuelta macabea (fiesta de Hanukkah en 164 a. C.)."
+      },
+      {
+        "question": "¿Cuál es la fecha aproximada del nacimiento de Jesús hoy?",
+        "options": [
+          "10 a.m. ANUNCIO",
+          "6 al 4 a.C. d.C.",
+          "14 d.C.",
+          "25 a.C. d.C."
+        ],
+        "correct": 1,
+        "explanation": "Herodes el Grande murió en el año 4 a.C. BC, el nacimiento de Jesús es entre el 6 y el 4 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué año se usa más comúnmente para la crucifixión de Jesús?",
+        "options": [
+          "25 d.C. d.C.",
+          "30 o 33 d.C. ANUNCIO",
+          "40 d.C.",
+          "50 d.C."
+        ],
+        "correct": 1,
+        "explanation": "Bajo Poncio Pilato (prefecto del 26 al 36 d.C.), las fechas son 30 o 33 d.C. AD corresponden a los posibles viernes 14 de Nisán."
+      },
+      {
+        "question": "¿En qué año aproximado se llevó a cabo el Concilio de Jerusalén (Hechos 15)?",
+        "options": [
+          "33 d.C.",
+          "49 d.C.",
+          "64 d.C.",
+          "70 d.C."
+        ],
+        "correct": 1,
+        "explanation": "El Concilio Apostólico de Jerusalén se celebró alrededor del 48-49 d.C. ANUNCIO para gobernar sobre la recepción de paganos."
+      },
+      {
+        "question": "¿En qué año el emperador Claudio expulsó a los judíos de Roma (Hechos 18:2)?",
+        "options": [
+          "37 d.C.",
+          "49 d.C.",
+          "64 d.C.",
+          "70 d.C."
+        ],
+        "correct": 1,
+        "explanation": "El edicto de Claudio alrededor del 49 d.C. BC persiguió a Aquila y Priscila desde Roma hasta Corinto, donde Pablo los encontró."
+      },
+      {
+        "question": "¿Qué gobernador romano en Corinto proporciona un marcador cronológico clave para la estancia de Pablo (51-52 d.C.)?",
+        "options": [
+          "Félix",
+          "Festo",
+          "Galeón",
+          "Pilato"
+        ],
+        "correct": 2,
+        "explanation": "La inscripción de Delfos sitúa el proconsulado de Galión en Corinto en el 51-52 d.C. (Hechos 18:12)."
+      },
+      {
+        "question": "¿Bajo qué emperador romano probablemente Pablo y Pedro sufrieron el martirio en Roma?",
+        "options": [
+          "Tiberio",
+          "Calígula",
+          "Nerón",
+          "Domiciano"
+        ],
+        "correct": 2,
+        "explanation": "La tradición sitúa el martirio de Pedro y Pablo en Roma bajo Nerón entre el 64 y el 67 d.C. ANUNCIO"
+      },
+      {
+        "question": "¿En qué año tuvo lugar el gran incendio de Roma seguido de la persecución de Nerón?",
+        "options": [
+          "49 d.C.",
+          "54 d.C.",
+          "64 d.C.",
+          "70 d.C."
+        ],
+        "correct": 2,
+        "explanation": "El incendio de Roma tuvo lugar en julio del 64 d.C. AD, y Nerón acusó a los cristianos (Tácito, Anales XV)."
+      },
+      {
+        "question": "¿Cuántos de los principales viajes misioneros de Pablo se describen antes de su arresto?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "correct": 2,
+        "explanation": "Hechos describe tres viajes misioneros importantes (Hechos 13-14, 15-18, 18-21) antes de su traslado a Roma."
+      },
+      {
+        "question": "¿En qué orden visitó Pablo estas ciudades en su segundo viaje?",
+        "options": [
+          "Corinto → Filipos → Atenas",
+          "Filipos → Salónica → Atenas → Corinto",
+          "Atenas → Corinto → Filipos",
+          "Éfeso → Roma → Filipos"
+        ],
+        "correct": 1,
+        "explanation": "Durante el segundo viaje (Hechos 16-18), Pablo pasó por Filipos, Tesalónica, Berea, Atenas y luego Corinto."
+      },
+      {
+        "question": "¿Cuánto tiempo permaneció Pablo en Éfeso en su tercer viaje?",
+        "options": [
+          "3 meses",
+          "1 año",
+          "alrededor de 3 años",
+          "7 años"
+        ],
+        "correct": 2,
+        "explanation": "En Hechos 20:31, Pablo les recuerda a los ancianos de Éfeso que les advirtió día y noche durante tres años."
+      },
+      {
+        "question": "¿Bajo qué rey de Judá recibió el profeta Isaías su visión inaugural (Isaías 6:1)?",
+        "options": [
+          "El año en que murió Uzías (~740 a.C.)",
+          "El año en que murió David.",
+          "El año en que murió Josías.",
+          "Bajo Sedequías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 6:1 sitúa su llamamiento en 'el año en que murió el rey Uzías', alrededor del 740 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿Cuántos años duró el Reino del Norte (Israel) entre el cisma (931) y la caída de Samaria (722)?",
+        "options": [
+          "Alrededor de 100 años",
+          "Alrededor de 209 años",
+          "Alrededor de 350 años",
+          "Alrededor de 400 años"
+        ],
+        "correct": 1,
+        "explanation": "Desde 931 a.C. C. hasta el 722 a.C., el Reino del Norte duró poco más de dos siglos (209 años)."
+      },
+      {
+        "question": "¿Cuántos años más que Samaria duró Jerusalén antes de su destrucción en el 586 a.C.? ¿ANUNCIO?",
+        "options": [
+          "50 años",
+          "136 años",
+          "200 años",
+          "300 años"
+        ],
+        "correct": 1,
+        "explanation": "Entre la caída de Samaria (722 a. C.) y la de Jerusalén (586 a. C.) pasaron 136 años."
+      },
+      {
+        "question": "¿Qué rey de Judá fue sanado y se le dieron 15 años más de vida?",
+        "options": [
+          "Josías",
+          "Ezequías",
+          "asa",
+          "Josafat"
+        ],
+        "correct": 1,
+        "explanation": "Dios le concedió al rey Ezequías 15 años más después de su oración (2 Reyes 20:6)."
+      },
+      {
+        "question": "¿En qué orden reinaron estos dos famosos reyes de Judá?",
+        "options": [
+          "Josías luego Ezequías",
+          "Ezequías luego Josías",
+          "Ellos reinaron juntos",
+          "Josías ante Salomón"
+        ],
+        "correct": 1,
+        "explanation": "Ezequías reinó alrededor del 715-686 a.C. C., luego su hijo Manasés, su nieto Amón y su bisnieto Josías (640-609 a. C.)."
+      },
+      {
+        "question": "¿Qué rey persa reinaba en el momento de la historia de Ester?",
+        "options": [
+          "Ciro",
+          "Asuero (Jerjes I)",
+          "Darío III",
+          "Cambises"
+        ],
+        "correct": 1,
+        "explanation": "El libro de Ester tiene lugar bajo Asuero, identificado con Jerjes I (486-465 a. C.)."
+      },
+      {
+        "question": "¿En qué orden se ubican estos tres libros históricos post-exílicos?",
+        "options": [
+          "Ester (reinado de Jerjes) entre el regreso de Zorobabel y la misión de Nehemías",
+          "Nehemías ante Ciro",
+          "Esdras ante Nabucodonosor",
+          "Ester ante Salomón"
+        ],
+        "correct": 0,
+        "explanation": "Zorobabel regresó alrededor del 538 a.C. C., Ester vivió bajo Jerjes (486-465), luego Esdras (458) y Nehemías (445) bajo Artajerjes I."
+      },
+      {
+        "question": "¿En qué año aproximado se suelen fechar los evangelios de Mateo y Lucas?",
+        "options": [
+          "35-40 d.C.",
+          "50-55 d.C.",
+          "80-85 d.C.",
+          "120-130 d.C."
+        ],
+        "correct": 2,
+        "explanation": "Muchos exégetas fechan a Mateo y Lucas en los años 80-85 d.C. antes de Cristo, después de Marcos (~65-70)."
+      },
+      {
+        "question": "¿Qué emperador reinó durante el exilio de Juan en Patmos según la tradición dominante?",
+        "options": [
+          "Agosto",
+          "Nerón",
+          "Domiciano",
+          "Trajano"
+        ],
+        "correct": 2,
+        "explanation": "Ireneo de Lyon sitúa la redacción del Apocalipsis al final del reinado de Domiciano, hacia el 95-96 d.C. ANUNCIO"
+      },
+      {
+        "question": "¿Cuántos días estuvo Pablo ciego en Damasco antes de que Ananías orara por él?",
+        "options": [
+          "1 dia",
+          "3 dias",
+          "7 dias",
+          "40 dias"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 9:9 registra que Saúl permaneció tres días sin ver, comer ni beber."
+      },
+      {
+        "question": "¿Cuántos años pasó Pablo en Arabia y Damasco antes de subir a Pedro en Jerusalén (Gálatas 1:18)?",
+        "options": [
+          "1 año",
+          "3 años",
+          "7 años",
+          "14 años"
+        ],
+        "correct": 1,
+        "explanation": "Pablo afirma en Gálatas 1:18 que después de tres años subió a Jerusalén para encontrarse con Cefas."
+      },
+      {
+        "question": "¿Cuántos años estuvo Pablo retenido en Cesarea bajo Félix antes de presentarse ante Festo?",
+        "options": [
+          "6 meses",
+          "2 años",
+          "5 años",
+          "7 años"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 24:27 indica que después de dos años, Félix fue sucedido por Porcio Festo."
+      },
+      {
+        "question": "¿Cuándo probablemente profetizó el profeta Abdías contra Edom?",
+        "options": [
+          "Durante la creación",
+          "Después de una caída/saqueo de Jerusalén (probablemente 586 a.C.)",
+          "Bajo el reinado de Salomón",
+          "En el siglo I d.C. ANUNCIO"
+        ],
+        "correct": 1,
+        "explanation": "Abdías 11-14 condena a Edom por regocijarse en el día de la angustia y del saqueo de Jerusalén."
+      },
+      {
+        "question": "¿Qué acontecimiento histórico marcó el fin de la revuelta judía de Bar Kokhba?",
+        "options": [
+          "70 d.C.",
+          "135 d.C.",
+          "63 a.C. d.C.",
+          "325 d.C."
+        ],
+        "correct": 1,
+        "explanation": "La segunda revuelta judía (132-135 d.C.) terminó en el 135 d.C. BC bajo el emperador Adriano."
+      },
+      {
+        "question": "¿Bajo qué faraón de Egipto murió el rey Josías en Meguido en el año 609 a.C.? ¿ANUNCIO?",
+        "options": [
+          "Ramsés II",
+          "Neco II",
+          "Shishak",
+          "Tutankamón"
+        ],
+        "correct": 1,
+        "explanation": "Josías se opuso al faraón Necao II, quien fue a ayudar a Asiria y fue asesinado en Meguido en el 609 a.C. (2 Reyes 23:29)."
+      },
+      {
+        "question": "¿Qué faraón saqueó Jerusalén bajo Roboam, cinco años después de la muerte de Salomón (~925 a.C.)?",
+        "options": [
+          "neko",
+          "Shishak (Sheshonq I)",
+          "Ramsés II",
+          "tirhaka"
+        ],
+        "correct": 1,
+        "explanation": "1 Reyes 14:25-26 menciona la invasión de Sisac en el quinto año del reinado de Roboam (~925 a.C.)."
+      },
+      {
+        "question": "¿En qué orden aparecieron estos tres jueces en el libro de Jueces?",
+        "options": [
+          "Sansón → Gedeón → Débora",
+          "Débora → Gedeón → Sansón",
+          "Gedeón → Débora → Sansón",
+          "Sansón → Débora → Gedeón"
+        ],
+        "correct": 1,
+        "explanation": "Débora aparece en los capítulos 4-5, Gedeón en los capítulos 6-8 y Sansón en los capítulos 13-16."
+      },
+      {
+        "question": "¿Cuánto tiempo permaneció el Arca del Pacto en Quiriat-jearim antes de que David la trasladara?",
+        "options": [
+          "7 meses",
+          "20 años (o más hasta David)",
+          "40 dias",
+          "3 años"
+        ],
+        "correct": 1,
+        "explanation": "1 Samuel 7:2 registra que el Arca permaneció durante mucho tiempo en Quiriat-jearim, habiendo transcurrido veinte años antes del avivamiento bajo Samuel."
+      },
+      {
+        "question": "¿Aproximadamente cuándo comenzó en Alejandría la traducción griega de la Septuaginta (LXX)?",
+        "options": [
+          "Siglo V a.C. d.C.",
+          "Siglo III a. C. (c. 280-250 a. C.)",
+          "Siglo I d.C. d.C.",
+          "Siglo IV d.C."
+        ],
+        "correct": 1,
+        "explanation": "La traducción del Pentateuco al griego comenzó en Alejandría en el siglo III a.C. BC bajo Ptolomeo II Filadelfo."
+      },
+      {
+        "question": "¿Qué profeta fue contemporáneo de la caída de Nínive (612 a.C.) que había anunciado?",
+        "options": [
+          "Jonás",
+          "Nahúm",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 1,
+        "explanation": "Nahum anunció la inminente caída de Nínive, que en realidad cayó en el año 612 a.C. BC antes de los babilonios y los medos."
+      },
+      {
+        "question": "¿Cuánto tiempo permaneció Jesús en el desierto después de su bautismo antes de regresar a Galilea?",
+        "options": [
+          "7 dias",
+          "40 dias",
+          "6 meses",
+          "1 año"
+        ],
+        "correct": 1,
+        "explanation": "Los sinópticos indican que el Espíritu llevó a Jesús al desierto durante 40 días (Marcos 1,12-13)."
+      },
+      {
+        "question": "¿Qué concilio ecuménico se celebró en el año 325 d.C.? AD para tratar con la divinidad de Cristo?",
+        "options": [
+          "Concilio de Jerusalén",
+          "Concilio de Nicea",
+          "Concilio de Calcedonia",
+          "Concilio de Trento"
+        ],
+        "correct": 1,
+        "explanation": "El Primer Concilio de Nicea se convocó en el año 325 d.C. AD frente al arrianismo."
+      },
+      {
+        "question": "¿En qué orden probablemente fueron escritas estas epístolas de Pablo?",
+        "options": [
+          "2 Timoteo → Romanos → 1 Tesalonicenses",
+          "1 Tesalonicenses → Romanos → 2 Timoteo",
+          "Romanos → 1 Tesalonicenses → 2 Timoteo",
+          "2 Timoteo → 1 Tesalonicenses → Romanos"
+        ],
+        "correct": 1,
+        "explanation": "1 Tesalonicenses (~50-51) es una de las primeras, Romanos data de alrededor del 57 y 2 Timoteo es la última epístola pastoral (~66-67)."
       }
     ],
     "expert": [
@@ -499,6 +1533,512 @@
         ],
         "correct": 0,
         "explanation": "La Reforma Protestante: Lutero publicó sus 95 tesis en 1517. La invención de la imprenta (Gutenberg ~1450) y el redescubrimiento del griego del Nuevo Testamento (Erasmo 1516) hicieron posible la difusión de la Biblia en lenguas vernáculas."
+      },
+      {
+        "question": "¿Qué estela egipcia data aproximadamente del 1208 a.C.? BC contiene la mención extrabíblica más antigua conocida del nombre 'Israel'?",
+        "options": [
+          "La estela de Mésha",
+          "La estela de Merenptah",
+          "prisma de taylor",
+          "El cilindro de Ciro"
+        ],
+        "correct": 1,
+        "explanation": "La estela de Merenptah (alrededor de 1208 a. C.) menciona \"Israel está devastado, su semilla ya no existe\", confirmando su presencia en Canaán en el siglo XIII. AV. ANUNCIO"
+      },
+      {
+        "question": "¿Qué batalla del 853 a.C.? BC, mencionado en el monolito de Kurkh, ¿cita al rey Acab de Israel?",
+        "options": [
+          "La batalla de Meguido",
+          "La batalla de Qarqar",
+          "La batalla de Carquemis",
+          "La batalla de Laquis"
+        ],
+        "correct": 1,
+        "explanation": "El monolito asirio de Salmanasar III cita a 'Acab el israelita' con 2000 carros en la batalla de Qarqar en 853 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿En qué obelisco asirio vemos al rey Jehú de Israel postrándose ante Salmanasar III alrededor del 841 a.C.? ¿ANUNCIO?",
+        "options": [
+          "El obelisco blanco",
+          "El obelisco negro",
+          "La estela de Tel Dan",
+          "La estela de Siloé"
+        ],
+        "correct": 1,
+        "explanation": "El Obelisco Negro de Nimrud representa a 'Jehú, hijo de Omri' rindiendo homenaje a Salmanasar III en el 841 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué inscripción aramea del siglo IX a.C.? ¿AD menciona la 'Casa de David' (Bytdwd)?",
+        "options": [
+          "La inscripción de Siloé",
+          "La estela de Tel Dan",
+          "Las cartas de Laquis",
+          "El ostracón de Samaria"
+        ],
+        "correct": 1,
+        "explanation": "Descubierta en 1993-1994, la estela de Tel Dan (~840 a.C.) menciona la victoria sobre un rey de la \"Casa de David\"."
+      },
+      {
+        "question": "¿En qué año preciso fechan las tablillas babilónicas la captura de Jerusalén durante la segunda deportación (Joaquín)?",
+        "options": [
+          "16 de marzo de 597 a. C. d.C.",
+          "15 de agosto de 586 a. C. d.C.",
+          "12 de octubre de 539 a. C. d.C.",
+          "1 de abril de 605 a. C. d.C."
+        ],
+        "correct": 0,
+        "explanation": "La Crónica Babilónica (BM 21946) fija la capitulación de Jerusalén en el 2 de Adar del séptimo año de Nabucodonosor, es decir, el 16 de marzo de 597 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿Cómo explica Edwin Thiele (Los misteriosos números de los reyes hebreos) las aparentes discrepancias en la cronología de los reyes de Israel y Judá?",
+        "options": [
+          "Por errores sistemáticos de los copistas.",
+          "Por corregencias, años de adhesión versus no adhesión y calendarios que comienzan en Nisan o Tishri",
+          "Por la tardía invención de la monarquía.",
+          "Usando el calendario juliano"
+        ],
+        "correct": 1,
+        "explanation": "Thiele demostró que Judá e Israel utilizaron diferentes sistemas (Nisán versus Tishri, año de adhesión versus no adhesión), así como corregencias."
+      },
+      {
+        "question": "¿Qué diferencia cronológica separa el comienzo del año real en Judá (Tishri) y en el norte de Israel (Nisán)?",
+        "options": [
+          "1 mes",
+          "6 meses",
+          "12 meses",
+          "3 años"
+        ],
+        "correct": 1,
+        "explanation": "Israel contó los años de reinado desde Nisán (primavera), mientras que Judá usó Tishri (otoño), un intervalo de 6 meses."
+      },
+      {
+        "question": "Según 2 Reyes 25:8, ¿en qué mes del calendario hebreo se quemó el Templo de Salomón en el año 586 a.C.? ¿ANUNCIO?",
+        "options": [
+          "El primer mes (Nisán)",
+          "El quinto mes (Ab)",
+          "El séptimo mes (Tishri)",
+          "El mes 12 (Adar)"
+        ],
+        "correct": 1,
+        "explanation": "El Templo fue quemado en el quinto mes (Ab), que aún hoy se conmemora con el ayuno de Tishá B'Av."
+      },
+      {
+        "question": "Qué documento persa del 539 a.C. ¿AD confirma la política de Ciro de enviar personas y cultos de regreso a sus santuarios?",
+        "options": [
+          "La estela de Behistún",
+          "Cilindro de Ciro",
+          "Los papiros de Elefantina",
+          "La piedra Roseta"
+        ],
+        "correct": 1,
+        "explanation": "El Cilindro de Ciro da testimonio de la política imperial de tolerancia religiosa y restauración de los santuarios locales tras la caída de Babilonia."
+      },
+      {
+        "question": "¿Cuándo mencionan los papiros arameos de Elefantina a los hijos de Sanbalat, gobernador de Samaria (contemporáneo de Nehemías)?",
+        "options": [
+          "Alrededor del 586 a.C. ANUNCIO",
+          "Alrededor del 407 a.C. ANUNCIO",
+          "Alrededor del 332 a.C. ANUNCIO",
+          "Alrededor del 167 a.C. ANUNCIO"
+        ],
+        "correct": 1,
+        "explanation": "Las cartas de Elefantina fechadas en el 407 a.C. mencionan a Delaía y Shélémya, hijos de Sanbalat, lo que confirma la datación de Nehemías en el siglo V a.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué fecha marca la entrada de Antíoco IV Epífanes y la profanación del Templo por la 'abominación desoladora' (1 Macabeos 1:54)?",
+        "options": [
+          "25 Kislev 167 a.C. d.C.",
+          "14 de Nisán 164 a.C. d.C.",
+          "10 de Tisri 175 a.C. d.C.",
+          "1. Ab 142 a. C. d.C."
+        ],
+        "correct": 0,
+        "explanation": "15/25 Kislev 167 a. C., se erigió un altar pagano sobre el altar de los holocaustos; el Templo fue reconsagrado exactamente 3 años después (164 a.C.)."
+      },
+      {
+        "question": "¿Cuál es el punto de partida habitualmente debatido para las '70 semanas de años' (490 años) de Daniel 9:25?",
+        "options": [
+          "El edicto de Ciro (538), el edicto de Artajerjes para Esdras (458/457) o para Nehemías (445/444)",
+          "La muerte de Alejandro Magno (323)",
+          "El nacimiento de Jesús (4 a.C.)",
+          "La caída de Samaria (722)"
+        ],
+        "correct": 0,
+        "explanation": "Las interpretaciones mesiánicas calculan las 69 semanas (483 años) desde los decretos de Artajerjes (457 o 444 a.C.) hasta el ministerio o muerte de Jesús."
+      },
+      {
+        "question": "¿Qué inscripción descubierta en Cesarea Marítima en 1961 confirma la historicidad y el título exacto de Poncio Pilato?",
+        "options": [
+          "El Osario de Caifás",
+          "Piedra de Pilato (praefectus Iudaeae)",
+          "inscripción de galión",
+          "El decreto de Nazaret"
+        ],
+        "correct": 1,
+        "explanation": "La Piedra de Pilato menciona 'Poncio Pilato, Praefectus Iudaeae', confirmando su título exacto bajo Tiberio (26-36 d.C.)."
+      },
+      {
+        "question": "¿En qué año específico se ubica el año 15 del reinado de Tiberio César (Lucas 3:1), que marca el comienzo del ministerio de Juan el Bautista?",
+        "options": [
+          "21-22 d.C.",
+          "27-29 d.C.",
+          "33-34 d.C.",
+          "18-19 d.C."
+        ],
+        "correct": 1,
+        "explanation": "Tiberio sucedió a Augusto en el año 14 d.C. (o estuvo asociado en el año 12): su año 15, por lo tanto, corresponde al 27-29 d.C. ANUNCIO"
+      },
+      {
+        "question": "¿Por qué la mención de '46 años' para construir el Templo en Juan 2:20 ayuda a fechar el comienzo del ministerio de Jesús?",
+        "options": [
+          "Herodes comenzó la obra en el 20/19 a.C. d.C., que sitúa esta Pascua alrededor del 27-28 d.C. ANUNCIO",
+          "Salomón tardó 46 años",
+          "El Templo fue destruido 46 años después",
+          "Se trata de una figura puramente simbólica y sin vínculo histórico."
+        ],
+        "correct": 0,
+        "explanation": "Según Flavio Josefo, Herodes emprendió la renovación del Templo en el 20/19 a.C. ANUNCIO; 46 años después nos lleva exactamente al 27-28 d.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué cronología paulina se basa en el edicto de Claudio (49) y el proconsulado de Galión (51-52)?",
+        "options": [
+          "La datación de la escritura del Apocalipsis",
+          "La estancia de 18 meses de Pablo en Corinto durante el segundo viaje (50-52 d.C.)",
+          "El Concilio de Nicea",
+          "El nacimiento de Pablo en Tarso"
+        ],
+        "correct": 1,
+        "explanation": "La reciente llegada de Aquila y Priscila (edición de 49) y la aparición ante Galión (51-52) anclan firmemente la cronología paulina."
+      },
+      {
+        "question": "¿En qué se diferencia el relato de la visita a Jerusalén en Gálatas 2:1-10 del de Hechos?",
+        "options": [
+          "No hay diferencia, todo es igual.",
+          "Los eruditos debaten si corresponde a la visita del hambre (Hechos 11:30, ~46) o al Concilio de Jerusalén (Hechos 15, ~49)",
+          "Gálatas 2 habla del viaje a Roma",
+          "Hechos nunca menciona a Jerusalén"
+        ],
+        "correct": 1,
+        "explanation": "La identificación de Gálatas 2 con Hechos 11 (fecha temprana de Gálatas, ~48) o Hechos 15 (~50-55) es un debate clásico en la cronología del Nuevo Testamento."
+      },
+      {
+        "question": "¿Cuál es el rango cronológico utilizado para la escritura de los Rollos del Mar Muerto (Qumran)?",
+        "options": [
+          "Siglo VIII. AV. antes de Cristo hasta el siglo VI. AV. ANUNCIO",
+          "Av. siglo III. a.C. hasta el siglo I después (antes del 68 d.C.)",
+          "Siglo II después de Cristo al siglo IV después de Cristo",
+          "Solo siglo V después de Cristo"
+        ],
+        "correct": 1,
+        "explanation": "Los Rollos de Qumrán cubren aproximadamente el año 250 a.C. BC al 68 dC, fecha de la destrucción del sitio por las legiones romanas."
+      },
+      {
+        "question": "¿Qué papiro del siglo II d.C.? ¿Es generalmente reconocido como el fragmento conservado más antiguo del Nuevo Testamento?",
+        "options": [
+          "El Códice Sinaítico",
+          "El Papiro Rylands P52 (Juan 18, c. 125 d.C.)",
+          "El Códice Vaticano",
+          "El papiro de Bodmer P66"
+        ],
+        "correct": 1,
+        "explanation": "P52 (fragmento de Juan 18:31-33, 37-38) está fechado paleográficamente alrededor del 125 d.C. AD, unas décadas después de los escritos de Juan."
+      },
+      {
+        "question": "¿En qué año aproximado suele fecharse el fragmento de Muratori (la lista canónica latina más antigua conocida en el Nuevo Testamento)?",
+        "options": [
+          "70 d.C.",
+          "Alrededor del 170-200 d.C. ANUNCIO",
+          "325 d.C.",
+          "451 d.C."
+        ],
+        "correct": 1,
+        "explanation": "El Canon Muratori, generalmente fechado a finales del siglo II (~170-200), ya atestigua un núcleo canónico muy amplio del Nuevo Testamento."
+      },
+      {
+        "question": "En la cronología de las Cartas del apóstol Pablo, ¿a qué grupo se hace referencia generalmente como las 'epístolas del cautiverio'?",
+        "options": [
+          "Romanos, Gálatas, 1-2 Corintios",
+          "Efesios, Filipenses, Colosenses, Filemón (c. 60-62 d.C.)",
+          "1-2 Tesalonicenses",
+          "1-2 Timoteo, Tito"
+        ],
+        "correct": 1,
+        "explanation": "Efesios, Filipenses, Colosenses y Filemón fueron escritos durante el encarcelamiento de Pablo (tradicionalmente en Roma alrededor del 60-62 d.C.)."
+      },
+      {
+        "question": "¿Qué emperador romano sitió Jerusalén en el año 70 d.C.? d.C. como general antes de convertirse en emperador en el año 79?",
+        "options": [
+          "Vespasiano",
+          "Tito",
+          "Domiciano",
+          "Adriano"
+        ],
+        "correct": 1,
+        "explanation": "Tito, hijo del emperador Vespasiano, completó el asedio y tomó Jerusalén entre agosto y septiembre del 70 d.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué historiador judío del siglo I proporciona la principal fuente extrabíblica sobre el período del Segundo Templo y la guerra del 66-70?",
+        "options": [
+          "Filón de Alejandría",
+          "Flavio Josefo",
+          "Tácito",
+          "Eusebio de Cesarea"
+        ],
+        "correct": 1,
+        "explanation": "Flavio Josefo (Guerra judía, Antigüedades judías) es una fuente histórica importante para el judaísmo del siglo I."
+      },
+      {
+        "question": "¿Aproximadamente cuánto tiempo separa el regreso de Nehemías (445 a. C.) del nacimiento de Jesús (~5 a. C.)?",
+        "options": [
+          "200 años",
+          "440 años (a menudo llamados los '400 años de silencio')",
+          "700 años",
+          "1000 años"
+        ],
+        "correct": 1,
+        "explanation": "Entre Malaquías/Nehemías (siglo V a. C.) y Juan Bautista se extiende el período intertestamentario de aproximadamente cuatro siglos."
+      },
+      {
+        "question": "¿Qué diferencia cronológica existe entre el Texto Masorético (TM) y la Septuaginta (LXX) en las genealogías de Génesis 5 y 11?",
+        "options": [
+          "No hay diferencia",
+          "La LXX añade aproximadamente 1400 a 1500 años a la cronología de los patriarcas antes de Abraham.",
+          "La MT es 2000 años más larga",
+          "La LXX elimina a Noé"
+        ],
+        "correct": 1,
+        "explanation": "En la LXX, varios patriarcas engendran a sus hijos 100 años después que en la MT, ampliando la cronología antediluviana y posdiluviana."
+      },
+      {
+        "question": "¿Qué erudito del siglo XVII calculó la creación del mundo en el año 4004 a.C.? antes de Cristo de las genealogías bíblicas?",
+        "options": [
+          "Juan Calvino",
+          "James Usher",
+          "Martín Lutero",
+          "Beda el Venerable"
+        ],
+        "correct": 1,
+        "explanation": "El arzobispo James Ussher publicó sus Annales Veteris Testamenti (1650), fijando la creación el 23 de octubre de 4004 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué monje del siglo VI estableció el sistema de datación 'Anno Domini' (AD) calculando el nacimiento de Cristo?",
+        "options": [
+          "Jerónimo de Estridón",
+          "Dionisio el pequeño",
+          "Agustín de Hipona",
+          "Eusebio de Cesarea"
+        ],
+        "correct": 1,
+        "explanation": "Dionisio el Pequeño (hacia 525) instaura la era cristiana, con un ligero retraso de algunos años respecto a la muerte de Herodes (4 a.C.)."
+      },
+      {
+        "question": "¿Cuál es la época del profeta Eliseo según la cronología de los reyes de Israel?",
+        "options": [
+          "Siglo X a.C. (Salomón)",
+          "Mediados a finales del siglo IX a.C. (de Joram a Joás)",
+          "Siglo VII a.C. (Josías)",
+          "Siglo V a.C. (Nehemías)"
+        ],
+        "correct": 1,
+        "explanation": "Eliseo ministró aproximadamente entre el 850 y el 800 a.C. AC, bajo Joram, Jehú, Joacaz y Joás de Israel."
+      },
+      {
+        "question": "¿Qué fecha corresponde a la caída del reino neobabilónico ante Ciro el Grande?",
+        "options": [
+          "586 a.C. d.C.",
+          "539 a.C. d.C.",
+          "516 a.C. d.C.",
+          "480 a.C. d.C."
+        ],
+        "correct": 1,
+        "explanation": "Babilonia cayó ante las tropas medopersas de Ciro en octubre del 539 a.C. (Daniel 5:30)."
+      },
+      {
+        "question": "¿En qué año aproximado murió Nabucodonosor II, dando paso a Amel-Marduk (Evil-Merodac) quien liberó a Joaquín (2 Reyes 25:27)?",
+        "options": [
+          "586 a.C. d.C.",
+          "562 a.C. d.C.",
+          "539 a.C. d.C.",
+          "520 a.C. d.C."
+        ],
+        "correct": 1,
+        "explanation": "Nabucodonosor murió en el año 562 a.C. ANUNCIO; su hijo Amel-Marduk perdonó al rey Joaquín en el año 37 de su cautiverio."
+      },
+      {
+        "question": "¿En qué período de tiempo tiene lugar la profecía de Joel según las dos principales hipótesis exegéticas?",
+        "options": [
+          "Sólo en el siglo X a.C. ANUNCIO",
+          "Ya sea antes del exilio (siglo IX bajo Joás) o post-exílico (siglo V-IV a. C.)",
+          "Durante la vida de Moisés",
+          "En el siglo II d.C. ANUNCIO"
+        ],
+        "correct": 1,
+        "explanation": "La ausencia de mención del rey y del lugar central del Templo y de los sacerdotes divide a los investigadores entre el siglo IX. y el siglo V-IV. AV. ANUNCIO"
+      },
+      {
+        "question": "¿Cuál es el marco cronológico de las 'Cartas de Laquis' descubiertas en 1935?",
+        "options": [
+          "La conquista de Josué (~1200 a.C.)",
+          "Los últimos días antes de la caída de Jerusalén en manos de Babilonia (588-586 a.C.)",
+          "La era de los Macabeos (165 a.C.)",
+          "El asedio romano del 70 d.C."
+        ],
+        "correct": 1,
+        "explanation": "Estos antiguos ostraca hebreos datan de la campaña final de Nabucodonosor contra Judá alrededor del 588-586 a.C. ANUNCIO"
+      },
+      {
+        "question": "¿En qué año aproximadamente fue promulgado el Edicto de Milán (tolerancia hacia el cristianismo) por Constantino y Licinio?",
+        "options": [
+          "70 d.C.",
+          "250 d.C.",
+          "313 d.C.",
+          "380 d.C."
+        ],
+        "correct": 2,
+        "explanation": "El Edicto de Milán en el año 313 d.C. BC puso fin a las persecuciones imperiales y concedió la libertad de culto a los cristianos."
+      },
+      {
+        "question": "¿Qué emperador convirtió el cristianismo de Nicea en la religión oficial del Imperio Romano mediante el Edicto de Tesalónica (380)?",
+        "options": [
+          "Constantino I",
+          "Teodosio I",
+          "Diocleciano",
+          "Marco Aurelio"
+        ],
+        "correct": 1,
+        "explanation": "Teodosio I promulgó el Edicto de Tesalónica en el año 380 d.C. BC, convirtiendo el cristianismo en la religión del estado."
+      },
+      {
+        "question": "¿En qué año completó San Jerónimo la mayor parte de la traducción latina de la Vulgata?",
+        "options": [
+          "Alrededor del año 150 d.C. ANUNCIO",
+          "Alrededor del 325 d.C. ANUNCIO",
+          "Alrededor del 405 d.C. ANUNCIO",
+          "Alrededor del 525 d.C. ANUNCIO"
+        ],
+        "correct": 2,
+        "explanation": "Jerónimo trabajó en Belén desde el año 382 hasta aproximadamente el 405 d.C. AD para traducir la Biblia al latín del hebreo y el griego."
+      },
+      {
+        "question": "En la cronología del Evangelio de Lucas, ¿cuándo comienza la 'gran ascensión a Jerusalén' (Lucas 9:51 - 19:27)?",
+        "options": [
+          "Desde su nacimiento en Belén",
+          "Después de la Transfiguración y el envío de los discípulos, un importante punto de inflexión en el ministerio",
+          "Después de la resurrección",
+          "Durante la infancia en Nazaret"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 9,51 (“tomó resueltamente el camino a Jerusalén”) estructura toda la segunda mitad de su evangelio hacia la Pasión."
+      },
+      {
+        "question": "¿Cuántas Pascuas distintas se mencionan explícitamente en el Evangelio de Juan, lo que nos permite estimar la duración del ministerio de Jesús?",
+        "options": [
+          "1 solo Pascua",
+          "Al menos 3 Pascuas (Juan 2:13; 6:4; 11:55), lo que sugiere aproximadamente 3 años de ministerio.",
+          "7 Pascua",
+          "No se menciona la Pascua"
+        ],
+        "correct": 1,
+        "explanation": "Mientras que los sinópticos sólo mencionan una Pascua final, Juan nombra al menos tres, basando la estimación de un ministerio de ~3 años."
+      },
+      {
+        "question": "¿Qué acontecimiento político del 44 d.C.? BC descrito en Hechos 12 también está fechado por Flavio Josefo?",
+        "options": [
+          "La destrucción de Jerusalén",
+          "La repentina muerte de Herodes Agripa I en Cesarea",
+          "El terremoto de Filipos",
+          "El censo de Quirinio"
+        ],
+        "correct": 1,
+        "explanation": "Hechos 12:20-23 y Flavio Josefo (Antigüedades 19.8.2) describen la muerte repentina de Herodes Agripa I en el año 44 d.C."
+      },
+      {
+        "question": "¿Cuál es el nombre del procónsul de Chipre convertido por Pablo alrededor del 46-47 d.C.? (Hechos 13:7)?",
+        "options": [
+          "Galeón",
+          "Sergio Pablo",
+          "Félix",
+          "Lisias"
+        ],
+        "correct": 1,
+        "explanation": "Sergio Paulo está atestiguado epigráficamente como procónsul de Chipre a mediados del siglo I d.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué data separa el Concilio de Nicea (325) del Concilio de Calcedonia (451) en la formación de la cristología clásica?",
+        "options": [
+          "50 años",
+          "126 años",
+          "300 años",
+          "500 años"
+        ],
+        "correct": 1,
+        "explanation": "Entre Nicea (325, divinidad del Hijo) y Calcedonia (451, dos naturalezas en una sola persona), transcurrieron 126 años de debates cristológicos."
+      },
+      {
+        "question": "¿En qué año aproximado se copiaron el Codex Sinaiticus y el Codex Vaticanus?",
+        "options": [
+          "Siglo I d.C. d.C.",
+          "Siglo IV a. C. (c. 325-360)",
+          "Siglo VIII d.C.",
+          "Siglo XII d.C."
+        ],
+        "correct": 1,
+        "explanation": "Estas dos grandes unciales griegas completas o casi completas de la Biblia datan de mediados del siglo IV d.C. ANUNCIO"
+      },
+      {
+        "question": "Qué crisis histórica del 735-732 a.C. J.-C. ¿Provocó el oráculo de Emmanuel en Isaías 7?",
+        "options": [
+          "La caída de Babilonia",
+          "La guerra siro-efraimita (coalición de Aram e Israel contra Acaz de Judá)",
+          "La invasión de Alejandro Magno",
+          "La rebelión de Jeroboam"
+        ],
+        "correct": 1,
+        "explanation": "Rezîn de Damasco y Peqah de Israel sitiaron Jerusalén en 735-732 a.C. para obligar a Acaz a unirse a su coalición antiasiria."
+      },
+      {
+        "question": "¿Cuánto tiempo estuvo en ruinas el Templo de Jerusalén entre 586 a. C. y 586 a. C.? AD y la dedicación del Segundo Templo en el 516 a.C. ¿ANUNCIO?",
+        "options": [
+          "40 años",
+          "50 años",
+          "exactamente 70 años",
+          "100 años"
+        ],
+        "correct": 2,
+        "explanation": "Del 586 a.C. al 516 a.C., pasaron exactamente 70 años, cumpliéndose desde otro ángulo los 70 años de Jeremías."
+      },
+      {
+        "question": "¿Qué período de la historia bíblica corresponde a la Edad del Bronce Medio (~2000-1550 a.C.)?",
+        "options": [
+          "La época de los Patriarcas (Abraham, Isaac, Jacob)",
+          "La época de los Macabeos",
+          "El tiempo de Nehemías",
+          "La era apostólica"
+        ],
+        "correct": 0,
+        "explanation": "Las costumbres legales y pastorales de las historias patriarcales reflejan el contexto de la Edad del Bronce Medio (~2000-1700 a.C.)."
+      },
+      {
+        "question": "¿En qué orden cronológico se escribieron estos tres sinópticos o escritos según la hipótesis de las dos fuentes?",
+        "options": [
+          "Mateo → Marcos → Lucas",
+          "Marcos + Fuente Q → Mateo y Lucas",
+          "Lucas → Marcos → Mateo",
+          "Juan → Marcos → Mateo"
+        ],
+        "correct": 1,
+        "explanation": "La hipótesis predominante supone que Mateo y Lucas utilizaron el Evangelio de Marcos (~65-70), así como una fuente común de dichos (Q)."
+      },
+      {
+        "question": "¿Qué fecha marca el cisma entre la Iglesia occidental y la Iglesia oriental en la historia del cristianismo?",
+        "options": [
+          "325 d.C.",
+          "451 d.C.",
+          "1054 d.C.",
+          "1517 d.C."
+        ],
+        "correct": 2,
+        "explanation": "El Gran Cisma de 1054 separó a Roma y Constantinopla, mucho después del período bíblico pero heredero de antiguos debates."
       }
     ]
   }

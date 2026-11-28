@@ -616,6 +616,424 @@
         ],
         "correct": 1,
         "explanation": "Zacarias 9:9: 'Eis que o teu rei vem a ti, justo e vitorioso, humilde e montado num jumento'."
+      },
+      {
+        "question": "Em que dia da criação Deus criou o sol, a lua e as estrelas?",
+        "options": [
+          "O 1º dia",
+          "O 4º dia",
+          "O 6º dia",
+          "O 7º dia"
+        ],
+        "correct": 1,
+        "explanation": "Deus criou as luzes na expansão do céu no 4º dia (Gênesis 1:14-19)."
+      },
+      {
+        "question": "Qual pássaro Noé enviou primeiro para fora da arca para ver se as águas haviam baixado?",
+        "options": [
+          "Uma pomba",
+          "Um corvo",
+          "Uma águia",
+          "Um pardal"
+        ],
+        "correct": 1,
+        "explanation": "Noé primeiro soltou o corvo, depois soltou a pomba, que voltou com um ramo de oliveira (Gênesis 8:7-11)."
+      },
+      {
+        "question": "Qual era o nome do irmão gêmeo de Jacob?",
+        "options": [
+          "José",
+          "Esaú",
+          "Ismael",
+          "Benjamin"
+        ],
+        "correct": 1,
+        "explanation": "Esaú era o irmão gêmeo mais velho de Jacó, nasceu o primeiro ruivo e peludo (Gênesis 25:25)."
+      },
+      {
+        "question": "Por qual prato Esaú vendeu seu direito de primogenitura a Jacó?",
+        "options": [
+          "Pão e vinho",
+          "Uma sopa de lentilha",
+          "Peixe grelhado",
+          "Figos e mel"
+        ],
+        "correct": 1,
+        "explanation": "Esaú, com fome, abriu mão de seu direito de primogenitura em troca de pão e sopa de lentilhas (Gênesis 25:34)."
+      },
+      {
+        "question": "Que túnica especial Jacó deu a seu filho José?",
+        "options": [
+          "Uma túnica de linho branco",
+          "Uma túnica de várias cores (com mangas compridas)",
+          "Armadura de bronze",
+          "Um manto roxo"
+        ],
+        "correct": 1,
+        "explanation": "Israel amava José mais do que todos os seus outros filhos e fez para ele uma túnica de muitas cores (Gênesis 37:3)."
+      },
+      {
+        "question": "Que sonho de José representou seus irmãos por meio de feixes de trigo?",
+        "options": [
+          "As sete vacas gordas",
+          "Os feixes dos irmãos prostrados diante de seu",
+          "O sol, a lua e onze estrelas",
+          "A escada subindo para o céu"
+        ],
+        "correct": 1,
+        "explanation": "Em seu primeiro sonho, o molho de José subiu e os molhos de seus irmãos se curvaram diante dele (Gênesis 37:7)."
+      },
+      {
+        "question": "Qual foi a primeira das dez pragas do Egito?",
+        "options": [
+          "Os sapos",
+          "A água do Nilo se transformou em sangue",
+          "Os gafanhotos",
+          "Escuridão"
+        ],
+        "correct": 1,
+        "explanation": "Arão golpeou as águas do rio com seu cajado e toda a água do Egito se transformou em sangue (Êxodo 7:20)."
+      },
+      {
+        "question": "Qual foi a décima e última praga do Egito?",
+        "options": [
+          "Saudação",
+          "Escuridão",
+          "A morte do primogênito",
+          "Úlceras"
+        ],
+        "correct": 2,
+        "explanation": "À meia-noite o Senhor feriu todos os primogênitos do Egito, exceto as casas marcadas com o sangue do cordeiro (Êxodo 12:29)."
+      },
+      {
+        "question": "O que os israelitas deveriam colocar nas ombreiras e vergas das portas durante a primeira Páscoa?",
+        "options": [
+          "Azeite",
+          "O sangue do cordeiro",
+          "Ramos de oliveira",
+          "Sal"
+        ],
+        "correct": 1,
+        "explanation": "O sangue do cordeiro nas estacas serviu de sinal para o destruidor passar (Êxodo 12:7-13)."
+      },
+      {
+        "question": "Que peça de roupa ou item Arão derreteu no deserto enquanto Moisés estava no Monte Sinai?",
+        "options": [
+          "Uma serpente de bronze",
+          "Um bezerro de ouro",
+          "Uma coroa de prata",
+          "Uma estátua de pedra"
+        ],
+        "correct": 1,
+        "explanation": "Arão reuniu os anéis de ouro do povo e fez deles um bezerro de ferro fundido (Êxodo 32:4)."
+      },
+      {
+        "question": "Quanto tempo Moisés permaneceu no Monte Sinai para receber a Lei?",
+        "options": [
+          "7 dias",
+          "12 dias",
+          "40 dias e 40 noites",
+          "70 dias"
+        ],
+        "correct": 2,
+        "explanation": "Moisés permaneceu na montanha quarenta dias e quarenta noites sem comer nem beber (Êxodo 24:18; 34:28)."
+      },
+      {
+        "question": "Qual líder militar sucedeu a Moisés para liderar Israel até Canaã?",
+        "options": [
+          "Aarão",
+          "Calebe",
+          "Josué",
+          "Gideão"
+        ],
+        "correct": 2,
+        "explanation": "Josué, filho de Num, foi nomeado por Moisés para conduzir o povo à Terra Prometida (Deuteronômio 34:9)."
+      },
+      {
+        "question": "Quantos espiões Moisés enviou para explorar a terra de Canaã?",
+        "options": [
+          "2",
+          "7",
+          "12",
+          "40"
+        ],
+        "correct": 2,
+        "explanation": "Moisés enviou um líder de cada uma das doze tribos, mas apenas Josué e Calebe encorajaram o povo (Números 13)."
+      },
+      {
+        "question": "Que objeto Moisés ergueu num poste no deserto para curar aqueles que foram picados por serpentes?",
+        "options": [
+          "Um bastão florido",
+          "Uma serpente de bronze (bronze)",
+          "Uma mesa de pedra",
+          "Um escudo dourado"
+        ],
+        "correct": 1,
+        "explanation": "Quem foi mordido e olhou para a serpente de bronze manteve a vida (Números 21:9; João 3:14)."
+      },
+      {
+        "question": "Que cantor ou instrumento Davi usou para apaziguar o atormentado Rei Saul?",
+        "options": [
+          "A trombeta",
+          "A harpa",
+          "O pandeiro",
+          "A flauta"
+        ],
+        "correct": 1,
+        "explanation": "Quando o espírito maligno tomou conta de Saul, Davi pegou sua harpa e tocou, e Saul ficou aliviado (1 Samuel 16:23)."
+      },
+      {
+        "question": "Quantas pedras lisas Davi escolheu no riacho antes de enfrentar Golias?",
+        "options": [
+          "1 pedra",
+          "3 pedras",
+          "5 pedras",
+          "7 pedras"
+        ],
+        "correct": 2,
+        "explanation": "Davi escolheu cinco pedras polidas do riacho, mas apenas uma foi suficiente para derrubar Golias (1 Samuel 17:40-49)."
+      },
+      {
+        "question": "O que o jovem Rei Salomão perguntou a Deus quando Ele lhe apareceu em sonho em Gibeão?",
+        "options": [
+          "Longos anos de vida",
+          "Riquezas imensas",
+          "Um coração inteligente para julgar seu povo (sabedoria)",
+          "A morte de seus inimigos"
+        ],
+        "correct": 2,
+        "explanation": "Deus ficou tocado porque Salomão pediu sabedoria e lhe concedeu riqueza e glória adicionais (1 Reis 3:9-13)."
+      },
+      {
+        "question": "Como Salomão resolveu a disputa entre as duas mulheres que brigavam pelo mesmo bebê?",
+        "options": [
+          "Ele lançou lotes",
+          "Ele propôs cortar a criança em duas para revelar a verdadeira mãe",
+          "Ele confiou a criança ao sumo sacerdote",
+          "Ele perguntou aos vizinhos"
+        ],
+        "correct": 1,
+        "explanation": "A verdadeira mãe preferiu desistir do filho vivo a vê-lo morto, revelando o seu amor maternal (1 Reis 3:25-27)."
+      },
+      {
+        "question": "Que pássaro alimentou Elias perto do riacho Cherith durante a fome?",
+        "options": [
+          "Pombas",
+          "Corvos",
+          "Codornizes",
+          "Cegonhas"
+        ],
+        "correct": 1,
+        "explanation": "Os corvos traziam pão e carne para Elias pela manhã e à noite (1 Reis 17:6)."
+      },
+      {
+        "question": "Como os três amigos de Daniel (Sadraque, Mesaque e Abednego) foram punidos por se recusarem a adorar a imagem de ouro?",
+        "options": [
+          "Jogado na cova dos leões",
+          "Jogado numa fornalha ardente",
+          "Exilado em uma ilha",
+          "Reduzido à prisão perpétua"
+        ],
+        "correct": 1,
+        "explanation": "Eles foram lançados amarrados na fornalha aquecida sete vezes mais, mas um quarto personagem como um filho dos deuses os preservou (Daniel 3)."
+      },
+      {
+        "question": "Que livro do Antigo Testamento fala das provações de um homem justo que perdeu seus bens, seus filhos e sua saúde?",
+        "options": [
+          "Provérbios",
+          "Trabalho",
+          "Eclesiastes",
+          "Lamentações"
+        ],
+        "correct": 1,
+        "explanation": "Jó permaneceu fiel a Deus apesar da perda de tudo o que tinha e das repreensões de seus amigos (Jó 1-2)."
+      },
+      {
+        "question": "Que fruta ou alimento Sansão encontrou na carcaça do leão que matou?",
+        "options": [
+          "Figos",
+          "Mel de abelha",
+          "Datas",
+          "Uvas"
+        ],
+        "correct": 1,
+        "explanation": "Um enxame de abelhas e mel formou-se no cadáver do leão, inspirando o enigma de Sansão (Juízes 14:8-14)."
+      },
+      {
+        "question": "Qual mulher cortou as sete mechas de cabelo de Sansão enquanto ele dormia?",
+        "options": [
+          "Ester",
+          "Dalila",
+          "Jezabel",
+          "Bate-Seba"
+        ],
+        "correct": 1,
+        "explanation": "Paga pelos príncipes filisteus, Dalila extraiu o segredo de Sansão e raspou a sua cabeça (Juízes 16:17-19)."
+      },
+      {
+        "question": "Qual filho de Noé viu a nudez de seu pai bêbado sem cobri-la?",
+        "options": [
+          "Sem",
+          "Cham",
+          "Jafé",
+          "Enoch"
+        ],
+        "correct": 1,
+        "explanation": "Cam relatou o assunto a seus dois irmãos Sem e Jafé, que cobriram seu pai de trás para frente (Gênesis 9:22-23)."
+      },
+      {
+        "question": "Qual foi a promessa de Deus quando Ele mudou o nome de Abrão para Abraão?",
+        "options": [
+          "Que ele se tornaria faraó",
+          "Que ele seria o pai de uma multidão de nações",
+          "Que ele não envelheceria mais",
+          "Que ele construiria o Templo"
+        ],
+        "correct": 1,
+        "explanation": "Abraão significa 'pai de muitos' (Gênesis 17:5)."
+      },
+      {
+        "question": "O que Abraão ofereceu em lugar de Isaque no Monte Moriá?",
+        "options": [
+          "Um touro",
+          "Um carneiro segurado pelos chifres em um arbusto",
+          "Duas pombas",
+          "Um cordeiro trazido de Berseba"
+        ],
+        "correct": 1,
+        "explanation": "O anjo do Senhor conteve a mão de Abraão, que viu um carneiro preso pelos chifres e o ofereceu em holocausto (Gênesis 22:13)."
+      },
+      {
+        "question": "Quantos dias e noites Jonas permaneceu na barriga do grande peixe?",
+        "options": [
+          "1 dia e 1 noite",
+          "3 dias e 3 noites",
+          "7 dias e 7 noites",
+          "40 dias e 40 noites"
+        ],
+        "correct": 1,
+        "explanation": "Jonas orou ao Senhor desde as entranhas do peixe onde permaneceu três dias e três noites (Jonas 2:1)."
+      },
+      {
+        "question": "Que árvore cresceu numa noite para dar sombra a Jonas antes de Nínive?",
+        "options": [
+          "Uma oliveira",
+          "Um óleo de rícino",
+          "Uma figueira",
+          "Um cedro"
+        ],
+        "correct": 1,
+        "explanation": "Deus fez com que uma mamona crescesse acima de Jonas, e um verme a secou no dia seguinte para ensiná-lo a ter compaixão (Jonas 4:6-10)."
+      },
+      {
+        "question": "Qual é o título do livro poético atribuído a Jeremias que lamenta a destruição de Jerusalém?",
+        "options": [
+          "Eclesiastes",
+          "Lamentações",
+          "Cântico dos Cânticos",
+          "Provérbios"
+        ],
+        "correct": 1,
+        "explanation": "As Lamentações de Jeremias expressam tristeza pela ruína de Jerusalém e fé na fidelidade de Deus (Lamentações 3:22-23)."
+      },
+      {
+        "question": "Em qual livro da Bíblia encontramos: ‘Vaidade das vaidades, tudo é vaidade’?",
+        "options": [
+          "Trabalho",
+          "Provérbios",
+          "Eclesiastes",
+          "Salmos"
+        ],
+        "correct": 2,
+        "explanation": "Eclesiastes (Qohelet) começa e termina com esta reflexão sobre o significado da vida debaixo do sol (Eclesiastes 1:2; 12:8)."
+      },
+      {
+        "question": "Que povo gigante ou guerreiro ocupou a terra de Canaã antes de Josué, notadamente Golias mais tarde?",
+        "options": [
+          "Os persas",
+          "Os filisteus e os cananeus (incluindo os anaquins)",
+          "Os romanos",
+          "Os gregos"
+        ],
+        "correct": 1,
+        "explanation": "Os espias relataram os descendentes de Anaque (Anakim) e as cidades fortificadas de Canaã (Números 13:28-33)."
+      },
+      {
+        "question": "Que sinal Deus deu a Gideão com um velo de lã?",
+        "options": [
+          "O velo pegou fogo",
+          "O velo estava molhado de orvalho e depois seco no dia seguinte em solo úmido",
+          "O velo virou ouro",
+          "O velo voou para longe"
+        ],
+        "correct": 1,
+        "explanation": "Deus atendeu duas vezes ao pedido de Gideão na eira para fortalecer sua fé (Juízes 6:36-40)."
+      },
+      {
+        "question": "Com que armas incomuns os 300 homens de Gideão puseram em fuga os midianitas?",
+        "options": [
+          "Espadas e carruagens douradas",
+          "Trombetas, jarros vazios e tochas",
+          "Arcos e flechas envenenados",
+          "Lanças de bronze"
+        ],
+        "correct": 1,
+        "explanation": "Ao quebrar os jarros, brandir as tochas e tocar as trombetas, causaram pânico no acampamento inimigo (Juízes 7:16-22)."
+      },
+      {
+        "question": "Qual filho de Davi se rebelou contra seu pai e se pendurou pelos cabelos nos galhos de um carvalho?",
+        "options": [
+          "Salomão",
+          "Absalão",
+          "Adonias",
+          "Amnom"
+        ],
+        "correct": 1,
+        "explanation": "Absalão foi segurado pela cabeça nos galhos de um grande terebinto durante sua fuga e foi morto por Joabe (2 Samuel 18:9-14)."
+      },
+      {
+        "question": "Qual profeta devolveu a vida ao filho da viúva de Sarepta e depois fez descer fogo do céu?",
+        "options": [
+          "Eliseu",
+          "Elias",
+          "Samuel",
+          "Jeremias"
+        ],
+        "correct": 1,
+        "explanation": "Elias deitou-se três vezes sobre o filho da viúva de Sarepta, e o Senhor o restaurou à vida (1 Reis 17:21-22)."
+      },
+      {
+        "question": "Como a pobre viúva de um profeta conseguiu pagar as suas dívidas graças ao milagre de Eliseu?",
+        "options": [
+          "Por uma moeda de ouro encontrada em um peixe",
+          "O óleo de seu recipiente não parava de fluir enquanto ela tivesse recipientes vazios.",
+          "Por uma chuva de maná",
+          "Por um tesouro escondido"
+        ],
+        "correct": 1,
+        "explanation": "Eliseu multiplicou seu único vaso de azeite para encher todos os vasos emprestados dos vizinhos (2 Reis 4:1-7)."
+      },
+      {
+        "question": "Que objeto flutuou nas águas do Jordão graças a um milagre de Eliseu?",
+        "options": [
+          "Uma coroa de ouro",
+          "Uma cabeça de machado caiu na água",
+          "Uma pedra do Templo",
+          "Uma espada de ferro"
+        ],
+        "correct": 1,
+        "explanation": "Eliseu jogou um pedaço de madeira na água e fez flutuar a ponta do machado emprestado (2 Reis 6:5-7)."
+      },
+      {
+        "question": "Quantos livros constituem o Pentateuco (a Torá)?",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "12"
+        ],
+        "correct": 1,
+        "explanation": "O Pentateuco inclui os primeiros cinco livros da Bíblia: Gênesis, Êxodo, Levítico, Números e Deuteronômio."
       }
     ],
     "intermediaire": [
@@ -1069,6 +1487,578 @@
         ],
         "correct": 1,
         "explanation": "O 'Dia do Senhor' é um conceito profético de intervenção divina decisiva para julgar as nações e libertar Israel (Amós 5:18-20; Joel 2:31)."
+      },
+      {
+        "question": "Qual filho de Jacó se tornou o ancestral dos sacerdotes e levitas?",
+        "options": [
+          "Judá",
+          "Levi",
+          "Ruben",
+          "Simeão"
+        ],
+        "correct": 1,
+        "explanation": "A tribo de Levi foi separada para o serviço do Tabernáculo e do Templo, com a linhagem de Aarão para o sacerdócio (Números 3)."
+      },
+      {
+        "question": "Qual tribo de Israel forneceu a linhagem real prometida a Davi?",
+        "options": [
+          "Benjamin",
+          "Efraim",
+          "Judá",
+          "Dan"
+        ],
+        "correct": 2,
+        "explanation": "Davi pertencia à tribo de Judá, cumprindo a bênção de Jacó em Gênesis 49:10."
+      },
+      {
+        "question": "Qual rei governou o norte de Israel quando Elias profetizou a grande seca?",
+        "options": [
+          "Jeroboão",
+          "Acabe",
+          "Jeú",
+          "Onri"
+        ],
+        "correct": 1,
+        "explanation": "Acabe, marido de Jezabel, superou em impiedade todos os reis de Israel que o precederam (1 Reis 16:30-33)."
+      },
+      {
+        "question": "Qual era o nome do servo de Moisés que o sucedeu, mas também do filho do sumo sacerdote em Zacarias?",
+        "options": [
+          "Calebe",
+          "Josué",
+          "Aarão",
+          "Gideão"
+        ],
+        "correct": 1,
+        "explanation": "Josué (Yeshoua/Yehoshoua) significa 'O Senhor é a salvação', nome do sucessor de Moisés e do sumo sacerdote pós-exílico."
+      },
+      {
+        "question": "Que acordo Deus fez com Noé, Abraão, Moisés e Davi ao longo do Antigo Testamento?",
+        "options": [
+          "Contratos comerciais",
+          "Uma série de alianças progressistas (Noaquica, Abraâmica, Sinaítica, Davídica)",
+          "Tratados de paz com o Egito",
+          "Leis romanas"
+        ],
+        "correct": 1,
+        "explanation": "A história bíblica se desenrola através das grandes alianças de Deus com a humanidade e com Israel."
+      },
+      {
+        "question": "O que são o Urim e o Tumim usados ​​no peitoral do sumo sacerdote?",
+        "options": [
+          "instrumentos musicais",
+          "Objetos sagrados que permitem consultar a Deus para obter uma resposta",
+          "Dois incensários dourados",
+          "Lápides"
+        ],
+        "correct": 1,
+        "explanation": "Colocados na couraça do julgamento, o Urim e o Tumim foram usados ​​para consultar o Senhor em decisões importantes (Êxodo 28:30)."
+      },
+      {
+        "question": "Que feriado judaico de outono celebra a colheita e relembra a permanência de Israel em tendas no deserto?",
+        "options": [
+          "Páscoa (Pêssach)",
+          "A Festa dos Tabernáculos (Sucot)",
+          "Purim",
+          "Hanucá"
+        ],
+        "correct": 1,
+        "explanation": "Durante Sucot, os israelitas viveram durante sete dias sob cabanas de folhas em memória do deserto (Levítico 23:42-43)."
+      },
+      {
+        "question": "Qual feriado judaico comemora a libertação dos judeus da conspiração de Hamã sob o comando de Ester?",
+        "options": [
+          "Páscoa",
+          "Purim",
+          "Shavuot",
+          "Yom Kipur"
+        ],
+        "correct": 1,
+        "explanation": "A festa de Purim leva o nome dos “feitiços” lançados por Hamã para fixar a data do massacre (Ester 9:24-26)."
+      },
+      {
+        "question": "Qual rei de Judá quebrou a serpente de bronze de Moisés porque o povo lhe ofereceu incenso?",
+        "options": [
+          "Josafá",
+          "Ezequias",
+          "Salomão",
+          "Roboão"
+        ],
+        "correct": 1,
+        "explanation": "Ezequias liderou uma profunda reforma religiosa e destruiu a serpente de bronze chamada Nehushtan (2 Reis 18:4)."
+      },
+      {
+        "question": "Qual era o nome do profeta que aconselhou Davi na contagem e escolha das três pragas?",
+        "options": [
+          "Elias",
+          "Deus",
+          "Amós",
+          "Miquéias"
+        ],
+        "correct": 1,
+        "explanation": "O profeta Gade, vidente de Davi, apresentou-lhe a escolha entre sete anos de fome, três meses de fuga ou três dias de peste (2 Samuel 24:11-13)."
+      },
+      {
+        "question": "Qual rei de Judá foi acometido de lepra por querer ele mesmo oferecer incenso no Templo?",
+        "options": [
+          "Asa",
+          "Uzias (Azarias)",
+          "Ezequias",
+          "Josias"
+        ],
+        "correct": 1,
+        "explanation": "Apesar da oposição de 80 sacerdotes, Uzias perdeu a paciência e foi acometido de lepra na testa até a sua morte (2 Crônicas 26:16-21)."
+      },
+      {
+        "question": "Quem foi o rei ímpio de Judá que reinou por 55 anos, praticou extrema idolatria e depois se arrependeu no cativeiro?",
+        "options": [
+          "Josias",
+          "Manassés",
+          "Acaz",
+          "Joás"
+        ],
+        "correct": 1,
+        "explanation": "De acordo com 2 Crônicas 33:11-13, Manassés foi levado acorrentado para a Babilônia, onde se humilhou profundamente diante de Deus."
+      },
+      {
+        "question": "Qual jovem rei de Judá foi escondido por 6 anos no Templo por sua tia Jeoseba para escapar do massacre de Atalia?",
+        "options": [
+          "Josias",
+          "Joás",
+          "Uzias",
+          "Ezequias"
+        ],
+        "correct": 1,
+        "explanation": "Aos sete anos, Joás foi coroado rei pelo sumo sacerdote Joiada, encerrando a usurpação de Atalia (2 Reis 11)."
+      },
+      {
+        "question": "Que voto específico proibia beber vinho, tocar num cadáver e cortar o cabelo?",
+        "options": [
+          "O voto do levita",
+          "O voto do nazireu",
+          "O voto do sábado",
+          "Desejo de jubileu"
+        ],
+        "correct": 1,
+        "explanation": "Descrito em Números 6, o nazireu foi notavelmente experimentado por toda a vida por Sansão e Samuel (e mais tarde por João Batista)."
+      },
+      {
+        "question": "Por que Moisés não foi autorizado a entrar na Terra Prometida apesar da sua fidelidade?",
+        "options": [
+          "Porque ele era muito velho",
+          "Porque ele bateu na pedra duas vezes com raiva, em vez de falar com Meribah",
+          "Porque ele perdeu as tábuas da Lei",
+          "Porque ele se recusou a deixar o Egito"
+        ],
+        "correct": 1,
+        "explanation": "Em Meribá-Cades, Moisés e Arão falharam em santificar a Deus aos olhos do povo ao baterem na rocha (Números 20:11-12)."
+      },
+      {
+        "question": "Qual filho de Saul se tornou o melhor amigo de Davi e o protegeu da ira de seu pai?",
+        "options": [
+          "Is-Bosete",
+          "Jônatas",
+          "Abner",
+          "Mefibosete"
+        ],
+        "correct": 1,
+        "explanation": "Jônatas ligou sua alma à de Davi e até renunciou voluntariamente ao trono em favor do escolhido de Deus (1 Samuel 18-20)."
+      },
+      {
+        "question": "Qual neto coxo de Saul Davi recebeu em sua mesa por lealdade a Jônatas?",
+        "options": [
+          "Absalão",
+          "Mefibosete",
+          "Adonias",
+          "Geazi"
+        ],
+        "correct": 1,
+        "explanation": "Mefibosete, filho de Jônatas, recebeu as terras de Saul e sempre comia à mesa real de Davi (2 Samuel 9)."
+      },
+      {
+        "question": "Qual era o nome do profeta que previu a morte de Acabe antes de Josafá enquanto 400 profetas previram a vitória?",
+        "options": [
+          "Miquéias, filho de Jimla",
+          "Eliseu",
+          "Natan",
+          "Jeremias"
+        ],
+        "correct": 0,
+        "explanation": "Miquéias, filho de Jimla, anunciou corajosamente a derrota e morte de Acabe em Ramote-Gileade (1 Reis 22:8-28)."
+      },
+      {
+        "question": "Qual servo de Eliseu foi acometido de lepra porque mentiu e exigiu secretamente presentes de Naamã?",
+        "options": [
+          "Baruque",
+          "Geazi",
+          "Obadias",
+          "Tobie"
+        ],
+        "correct": 1,
+        "explanation": "Geazi correu atrás de Naamã para conseguir dinheiro e roupas; A lepra de Naamã se apegou a ele (2 Reis 5:20-27)."
+      },
+      {
+        "question": "Como Eliseu tranquilizou seu servo assustado em Dotã diante do exército sírio?",
+        "options": [
+          "Ele abriu uma porta secreta",
+          "Ele orou para que Deus abrisse os olhos do servo, que viu a montanha cheia de cavalos e carros de fogo",
+          "Ele convocou o exército do Egito",
+          "Ele foge à noite"
+        ],
+        "correct": 1,
+        "explanation": "'Os que estão conosco são mais numerosos do que os que estão com eles' (2 Reis 6:16-17)."
+      },
+      {
+        "question": "Qual general assírio ameaçou Jerusalém ao insultar o Deus de Israel diante do Rei Ezequias?",
+        "options": [
+          "Naamã",
+          "O Rabsaqué (enviado de Senaqueribe)",
+          "Holofernes",
+          "Sísera"
+        ],
+        "correct": 1,
+        "explanation": "Rabshaké tentou desmoralizar o povo em hebraico; Isaías tranquilizou Ezequias e o anjo do Senhor atacou o acampamento assírio (2 Reis 18-19)."
+      },
+      {
+        "question": "Em qual livro do AT o próprio rei pagão (Nabucodonosor) testemunha a soberania do Deus Altíssimo após sete tempos de loucura?",
+        "options": [
+          "Esdras",
+          "Daniel (capítulo 4)",
+          "Ester",
+          "Neemias"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 4 assume a forma de uma proclamação real onde Nabucodonosor louva o Rei do céu após a sua humilhação (Daniel 4:34-37)."
+      },
+      {
+        "question": "Qual foi a principal missão do escriba e sacerdote Esdras ao retornar a Jerusalém?",
+        "options": [
+          "Construa um palácio real",
+          "Ensinar a Lei de Moisés e reformar a vida espiritual e familiar do povo",
+          "Levante um exército contra a Pérsia",
+          "Traduzir a Bíblia para o grego"
+        ],
+        "correct": 1,
+        "explanation": "Esdras decidiu estudar e praticar a Lei do Senhor e ensiná-la em Israel (Esdras 7:10)."
+      },
+      {
+        "question": "Quais são os dois principais inimigos que se opuseram a Neemias durante a reconstrução dos muros de Jerusalém?",
+        "options": [
+          "Faraó e Senaqueribe",
+          "Sambalate, o horonita, e Tobias, o amonita",
+          "Golias e Sísera",
+          "Herodes e Pilatos"
+        ],
+        "correct": 1,
+        "explanation": "Sambalate e Tobias usaram zombarias, conspirações e ameaças, mas Neemias operou o povo com espátula e espada (Neemias 4)."
+      },
+      {
+        "question": "Qual profeta foi chamado ainda jovem e objetou: 'Não posso falar, sou uma criança'?",
+        "options": [
+          "Isaías",
+          "Jeremias",
+          "Ezequiel",
+          "Amós"
+        ],
+        "correct": 1,
+        "explanation": "Durante o seu chamado, o Senhor tocou a boca de Jeremias e prometeu estar com ele para libertá-lo (Jeremias 1:6-9)."
+      },
+      {
+        "question": "Que escriba fiel escreveu os rolos de Jeremias sob ditado e o apoiou até o Egito?",
+        "options": [
+          "Esdras",
+          "Baruque",
+          "Geazi",
+          "Safã"
+        ],
+        "correct": 1,
+        "explanation": "Baruque, filho de Nerias, escreveu as profecias de Jeremias e as leu publicamente no Templo (Jeremias 36)."
+      },
+      {
+        "question": "Qual rei de Judá queimou o rolo das profecias de Jeremias, pedaço por pedaço, num braseiro?",
+        "options": [
+          "Josias",
+          "Jeoiaquim",
+          "Ezequias",
+          "Manassés"
+        ],
+        "correct": 1,
+        "explanation": "Jeoiaquim cortou as colunas lidas e as jogou no fogo, mas Jeremias e Baruque ditaram um segundo rolo ainda mais completo (Jeremias 36:23-32)."
+      },
+      {
+        "question": "Como Deus ensinou Ezequiel sobre a dolorosa perda do Templo ao atingir o profeta com tristeza pessoal?",
+        "options": [
+          "Ele perdeu a visão",
+          "Sua esposa morreu repentinamente e Deus o proibiu de chorar publicamente como um sinal para Israel",
+          "Ele foi exilado no Egito",
+          "Ele se tornou rei"
+        ],
+        "correct": 1,
+        "explanation": "A morte do 'deleite dos seus olhos' sem lágrimas exteriores prenunciou o espanto do povo com a queda do Templo (Ezequiel 24:15-24)."
+      },
+      {
+        "question": "Qual salmo penitencial é tradicionalmente atribuído a Davi após o confronto com Natã por causa de Bate-Seba?",
+        "options": [
+          "Salmo 23",
+          "Salmo 51 ('Ó Deus! Tem misericórdia de mim...')",
+          "Salmo 119",
+          "Salmo 137"
+        ],
+        "correct": 1,
+        "explanation": "O Salmo 51 expressa contrição sincera: ‘Ó Deus! cria em mim um coração puro, renova em mim um espírito bem disposto'."
+      },
+      {
+        "question": "Qual salmo expressa a nostalgia dos exilados na Babilônia (“Nas margens dos rios da Babilônia nos sentamos e choramos”)?",
+        "options": [
+          "Salmo 1",
+          "Salmo 137",
+          "Salmo 91",
+          "Salmo 150"
+        ],
+        "correct": 1,
+        "explanation": "O Salmo 137 reflete a dor dos deportados que se recusaram a cantar os cânticos de Sião numa terra estrangeira."
+      },
+      {
+        "question": "Qual mulher é celebrada no final do livro de Provérbios (capítulo 31) como modelo de sabedoria prática?",
+        "options": [
+          "A Rainha de Sabá",
+          "A mulher virtuosa/valente ('eshet hayil')",
+          "Filha do Faraó",
+          "Jezabel"
+        ],
+        "correct": 1,
+        "explanation": "Provérbios 31:10-31 forma um poema alfabético elogiando a inteligência, a integridade e o temor de Deus da mulher valente."
+      },
+      {
+        "question": "Quem são os três amigos de Jó que inicialmente vieram consolá-lo, mas depois o acusaram de ter pecado?",
+        "options": [
+          "Sadraque, Mesaque e Abednego",
+          "Elifaz, Bildade e Zofar",
+          "Rubem, Simeão e Levi",
+          "Gade, Natã e Samuel"
+        ],
+        "correct": 1,
+        "explanation": "Elifaz de Temã, Bildade de Shuah e Zofar de Naamah defendem uma teologia rígida de retribuição imediata (Jó 2:11)."
+      },
+      {
+        "question": "Qual quarto visitante, mais jovem, fala no final dos discursos de Jó (capítulos 32-37)?",
+        "options": [
+          "Moisés",
+          "Eliú",
+          "Balaão",
+          "Jetro"
+        ],
+        "correct": 1,
+        "explanation": "Eliú espera por respeito aos mais velhos antes de enfatizar a pedagogia de Deus e sua transcendência, preparando a teofania final."
+      },
+      {
+        "question": "Como Deus finalmente responde a Jó nos capítulos 38-41?",
+        "options": [
+          "Dando-lhe uma lista detalhada das falhas de Satanás",
+          "Do seio da tempestade, revelando-lhe a sabedoria e a grandeza de sua criação",
+          "Ao destruir seus três amigos",
+          "Por um anjo silencioso"
+        ],
+        "correct": 1,
+        "explanation": "Deus questiona Jó sobre as maravilhas do cosmos e das criaturas, levando Jó à humildade e à adoração (Jó 42:1-6)."
+      },
+      {
+        "question": "Em Números (capítulo 16), quais homens se rebelaram contra a autoridade de Moisés e Arão e foram engolidos pela terra?",
+        "options": [
+          "Datã, Abirão e Corá",
+          "Nadabe e Abiú",
+          "Hofni e Finéias",
+          "Acã e Geazi"
+        ],
+        "correct": 0,
+        "explanation": "Corá, o levita, Datã e Abirão contestaram o sacerdócio e a liderança de Moisés; a terra se abriu sob suas tendas (Números 16:31-33)."
+      },
+      {
+        "question": "Qual israelita causou derrota diante de Ai por ter roubado uma túnica de Sinar, prata e um lingote de ouro proibido em Jericó?",
+        "options": [
+          "Corá",
+          "Acã",
+          "Balaão",
+          "Saulo"
+        ],
+        "correct": 1,
+        "explanation": "O pecado de Acã violou a proibição (herém) de Jericó; descoberto por sorteio, ele foi julgado no vale de Acor (Josué 7)."
+      },
+      {
+        "question": "Quais vizinhos enganaram Josué vestindo roupas velhas e pão mofado para obter um tratado de paz?",
+        "options": [
+          "Os filisteus",
+          "Os Gibeonitas",
+          "Os moabitas",
+          "Os Amalequitas"
+        ],
+        "correct": 1,
+        "explanation": "Os gibeonitas afirmavam vir de uma terra muito distante; Israel jurou sem consultar o Senhor e manteve seu juramento (Josué 9)."
+      },
+      {
+        "question": "Qual rei de Israel exterminou a dinastia de Acabe e fez Jezabel ser atirada pela janela do seu palácio?",
+        "options": [
+          "Onri",
+          "Jeú",
+          "Jeroboão II",
+          "Oséias"
+        ],
+        "correct": 1,
+        "explanation": "Ungido por um discípulo de Eliseu, Jeú executou o julgamento anunciado sobre a casa de Acabe (2 Reis 9-10)."
+      },
+      {
+        "question": "Qual rei do norte de Israel desfrutou de um reinado longo e próspero no século VIII? Av. AC, sob o qual Amós e Oséias denunciaram a injustiça social?",
+        "options": [
+          "Jeroboão I",
+          "Jeroboão II",
+          "Acabe",
+          "Saulo"
+        ],
+        "correct": 1,
+        "explanation": "Jeroboão II (793-753 aC) expandiu as fronteiras de Israel, mas a prosperidade mascarou uma profunda corrupção moral (Amós 2-6)."
+      },
+      {
+        "question": "O que havia de especial na Arca da Aliança construída por Bezaleel de acordo com os planos recebidos por Moisés?",
+        "options": [
+          "Em mármore branco",
+          "Em madeira de acácia revestida de ouro puro, encimada pelo propiciatório e dois querubins de ouro",
+          "Em bronze sólido",
+          "Cedro descoberto"
+        ],
+        "correct": 1,
+        "explanation": "O artesão Bezaleel, cheio do Espírito de Deus, fez a Arca conforme o modelo mostrado na montanha (Êxodo 25:10-22; 37:1-9)."
+      },
+      {
+        "question": "Quais foram os dois filhos de Arão, Nadabe e Abiú, culpados de trazerem para o santuário?",
+        "options": [
+          "Um ídolo de prata",
+          "Um 'fogo estranho' que o Senhor não lhes havia ordenado",
+          "Pão fermentado",
+          "Sangue de porco"
+        ],
+        "correct": 1,
+        "explanation": "Nadabe e Abiú ofereceram fogo estranho perante o Senhor; saiu fogo de diante do Senhor e os consumiu (Levítico 10:1-2)."
+      },
+      {
+        "question": "Que canção famosa Moisés e os israelitas cantaram logo após cruzarem o Mar Vermelho?",
+        "options": [
+          "A canção de Ana",
+          "O Cântico do Mar (“Cantarei ao Senhor, porque ele fez resplandecer a sua glória”, Êxodo 15)",
+          "Salmo 136",
+          "A música de Débora"
+        ],
+        "correct": 1,
+        "explanation": "Êxodo 15 é um dos poemas mais antigos da Bíblia, repetido até mesmo em Apocalipse 15:3 (“o cântico de Moisés e do Cordeiro”)."
+      },
+      {
+        "question": "Em 1 Samuel 3, quantas vezes o Senhor chamou o jovem Samuel ao santuário em Siló antes que Eli entendesse?",
+        "options": [
+          "1 vez",
+          "3 vezes (e na 4ª vez Samuel respondeu 'Fala, pois o teu servo está ouvindo')",
+          "7 vezes",
+          "12 vezes"
+        ],
+        "correct": 1,
+        "explanation": "Após três ligações em que Samuel correu para Eli, Eli entendeu que era o Senhor e o ensinou como responder (1 Samuel 3:4-10)."
+      },
+      {
+        "question": "Qual juiz de Israel prometeu consagrar a Deus a primeira pessoa que deixasse sua casa após seu retorno vitorioso?",
+        "options": [
+          "Gideão",
+          "Jefté",
+          "Sansão",
+          "Eúde"
+        ],
+        "correct": 1,
+        "explanation": "Jefté derrotou os amonitas, mas sua única filha saiu ao seu encontro com pandeiros (Juízes 11:30-40)."
+      },
+      {
+        "question": "Qual juiz canhoto de Israel libertou o povo do rei Eglom, de Moabe?",
+        "options": [
+          "Shamgar",
+          "Eúde",
+          "Baraque",
+          "Otniel"
+        ],
+        "correct": 1,
+        "explanation": "Eúde, da tribo de Benjamim, escondeu uma espada de dois gumes na coxa direita e feriu Eglom (Juízes 3:15-22)."
+      },
+      {
+        "question": "Em que livro da Bíblia Deus não menciona explicitamente o seu nome nem sequer uma vez, enquanto manifesta a sua providência oculta?",
+        "options": [
+          "Rute",
+          "Ester",
+          "Jonas",
+          "Ageu"
+        ],
+        "correct": 1,
+        "explanation": "O nome de Deus não aparece no texto hebraico de Ester, enfatizando sua providência silenciosa por meio dos acontecimentos humanos."
+      },
+      {
+        "question": "Que oferta Caim e Abel apresentaram respectivamente ao Senhor em Gênesis 4?",
+        "options": [
+          "Ambos ofereceram frutas",
+          "Caim ofereceu frutos da terra; Abel ofereceu os primogênitos do seu rebanho e sua gordura",
+          "Caim ofereceu ouro; Abel do incenso",
+          "Abel ofereceu trigo; Caim um cordeiro"
+        ],
+        "correct": 1,
+        "explanation": "O Senhor olhou favoravelmente para Abel e sua oferta (Hebreus 11:4 enfatiza sua fé), mas não para Caim (Gênesis 4:3-5)."
+      },
+      {
+        "question": "Quantas cidades os levitas herdaram através das tribos de Israel, uma vez que não tinham território próprio?",
+        "options": [
+          "12 cidades",
+          "48 cidades (incluindo 6 cidades de refúgio)",
+          "70 cidades",
+          "100 cidades"
+        ],
+        "correct": 1,
+        "explanation": "O próprio Senhor foi a herança de Levi; as outras tribos deram-lhes 48 cidades e seus subúrbios (Números 35:7; Josué 21)."
+      },
+      {
+        "question": "Qual livro do Antigo Testamento começa com o diálogo entre Deus e Satanás no conselho celestial?",
+        "options": [
+          "Gênese",
+          "Trabalho",
+          "Danilo",
+          "Zacarias"
+        ],
+        "correct": 1,
+        "explanation": "Jó 1-2 retrata o teste permitido por Deus sobre a fidelidade altruísta de seu servo Jó."
+      },
+      {
+        "question": "Que lei social do Antigo Testamento ordenava que os cantos dos campos não fossem colhidos e que as espigas caíssem?",
+        "options": [
+          "O direito de coleta para os pobres e estrangeiros (por exemplo, Ruth)",
+          "O dízimo real",
+          "O tributo de guerra",
+          "A lei da retaliação"
+        ],
+        "correct": 0,
+        "explanation": "Levítico 19:9-10 e Deuteronômio 24:19 protegeram assim o órfão, a viúva e o estrangeiro - uma lei da qual Rute se beneficiou em Boaz."
+      },
+      {
+        "question": "Qual salmo contém o acróstico alfabético mais longo (22 estrofes de 8 versículos celebrando a Palavra de Deus)?",
+        "options": [
+          "Salmo 1",
+          "Salmo 23",
+          "Salmo 119",
+          "Salmo 136"
+        ],
+        "correct": 2,
+        "explanation": "O Salmo 119 possui 176 versículos organizados de acordo com as 22 letras do alfabeto hebraico, exaltando a Torá."
+      },
+      {
+        "question": "Qual sumo sacerdote reconstruiu o primeiro altar e os fundamentos do Segundo Templo com Zorobabel?",
+        "options": [
+          "Aarão",
+          "Josué (Jesuá), filho de Jozadaque",
+          "Hilkija",
+          "Caifás"
+        ],
+        "correct": 1,
+        "explanation": "Jesuá (Josué), o sumo sacerdote, e Zorobabel, o governador, lideraram a restauração do culto e do Templo (Esdras 3; Ageu 1)."
       }
     ],
     "expert": [
@@ -1456,6 +2446,644 @@
         ],
         "correct": 0,
         "explanation": "A bênção Aarônica começa com 'O Senhor te abençoe e te guarde' (Números 6:24) - uma fórmula sacerdotal trina que combina bênção, graça e paz."
+      },
+      {
+        "question": "O que significa a expressão “Lei de retaliação” (“olho por olho, dente por dente”) no seu contexto jurídico mosaico?",
+        "options": [
+          "Um incitamento à vingança privada ilimitada",
+          "Um limite proporcional estrito imposto aos juízes para evitar vingança excessiva",
+          "A obrigação de mutilar todos os criminosos",
+          "Uma lei babilônica ignorada pela Bíblia"
+        ],
+        "correct": 1,
+        "explanation": "Em Êxodo 21:23-25 ​​e Levítico 24:20, o princípio da proporcionalidade (“medida por medida”) protege o infrator de represálias desproporcionais."
+      },
+      {
+        "question": "Qual é a distinção entre o 'Pentateuco Samaritano' e o Texto Massorético Hebraico?",
+        "options": [
+          "O Pentateuco Samaritano contém apenas os Salmos",
+          "Os samaritanos reconhecem apenas os 5 livros da Torá como canônicos, com algumas variações (por exemplo, no Monte Gerizim)",
+          "Está escrito em latim",
+          "Inclui os Evangelhos"
+        ],
+        "correct": 1,
+        "explanation": "O Pentateuco Samaritano é um testemunho textual muito antigo do texto hebraico da Torá, colocando ênfase teológica no Monte Gerizim."
+      },
+      {
+        "question": "Que termo hebraico designa a “porção consagrada” ou a proibição total dedicada a Deus durante certas guerras de conquista (Josué 6-7)?",
+        "options": [
+          "Shalom",
+          "Aquim",
+          "Hesed",
+          "Berit"
+        ],
+        "correct": 1,
+        "explanation": "O 'herem' refere-se àquilo que é irrevogavelmente separado para Deus (seja consagrado no santuário ou destruído como julgamento sobre a idolatria)."
+      },
+      {
+        "question": "Qual é o significado teológico da 'nuvem de glória' (Kavod/Shekinah) guiando Israel para o deserto?",
+        "options": [
+          "Um fenômeno meteorológico simples",
+          "A manifestação visível da presença santa e protetora de Deus acompanhando o seu povo (coluna de nuvem durante o dia, de fogo à noite)",
+          "Um símbolo do Egito",
+          "Uma arma militar dos filisteus"
+        ],
+        "correct": 1,
+        "explanation": "A glória (Kavod) de YHWH preenche o Tabernáculo concluído (Êxodo 40:34) e depois o Templo de Salomão (1 Reis 8:10-11)."
+      },
+      {
+        "question": "Qual é a diferença fundamental entre um tratado de suserania hitita do segundo milênio aC? AC e a aliança do Sinai (Êxodo 19-24 / Deuteronômio)?",
+        "options": [
+          "Sem semelhança",
+          "A forma (preâmbulo, prólogo histórico, estipulações, testemunhas, bênçãos/maldições) é próxima, mas YHWH baseia a obediência em sua graça libertadora (“Eu te tirei do Egito”).",
+          "A aliança bíblica não tem estipulações ou bênçãos",
+          "Os tratados hititas são monoteístas"
+        ],
+        "correct": 1,
+        "explanation": "Esta correspondência formal com os tratados da Idade do Bronze Final (séculos XIV-XIII aC) é frequentemente citada para a antiguidade do Deuteronômio."
+      },
+      {
+        "question": "Na tradição hebraica, quais são as três principais divisões do Tanakh (Antigo Testamento)?",
+        "options": [
+          "Gênesis, Êxodo, Salmos",
+          "Torá (Lei), Nevi'im (Profetas), Ketuvim (Escritos)",
+          "Evangelhos, Atos, Epístolas",
+          "Sabedoria, História, Apocalipse"
+        ],
+        "correct": 1,
+        "explanation": "A sigla TaNaKh reúne Torá, Nevi'im e Ketouvim – divisão atestada pelo próprio Jesus em Lucas 24:44 ('Lei de Moisés, Profetas e Salmos')."
+      },
+      {
+        "question": "Por que os livros de Josué, Juízes, Samuel e Reis são classificados como 'Profetas Antigos' na Bíblia Hebraica?",
+        "options": [
+          "Por erro de classificação medieval",
+          "Porque interpretam a história de Israel desde um ponto de vista profético: a lealdade à Aliança determina o destino do povo",
+          "Porque eles não contêm nenhum rei",
+          "Porque eles foram escritos em grego"
+        ],
+        "correct": 1,
+        "explanation": "Ao contrário de uma crónica real neutra, estes livros julgam cada reinado em termos da Aliança e da palavra profética."
+      },
+      {
+        "question": "Qual é o significado de 'go'el ha-dam' (vingador do sangue) e cidades de refúgio em Números 35?",
+        "options": [
+          "Incentivar vinganças familiares",
+          "Supervisionar a justiça tribal, proporcionando um julgamento justo e asilo ao autor do homicídio involuntário até a morte do sumo sacerdote",
+          "Protegendo assassinos premeditados",
+          "Substitua os sacrifícios do Templo"
+        ],
+        "correct": 1,
+        "explanation": "As cidades de refúgio protegiam o homicídio culposo da vingança imediata, ao mesmo tempo que exigiam uma revisão judicial rigorosa."
+      },
+      {
+        "question": "Qual é o papel teológico do sacrifício de “culpa/reparação” (Asham) em relação ao sacrifício de “pecado” (Hattat) em Levítico 4-5?",
+        "options": [
+          "Eles são completamente idênticos",
+          "Hattat purifica da mancha do pecado; Asham repara uma profanação ou um erro quantificável contra Deus ou o próximo (com restituição + 20%)",
+          "Asham é reservado para reis pagãos",
+          "Hattat não usa sangue"
+        ],
+        "correct": 1,
+        "explanation": "O Asham exige não apenas expiação, mas restituição total aumentada em um quinto (Levítico 5:16; 6:5), uma imagem repetida em Isaías 53:10."
+      },
+      {
+        "question": "Qual é a importância da 'Festa da Expiação' (Yom Kippur, Levítico 16) para a compreensão do livro de Hebreus?",
+        "options": [
+          "Sem link",
+          "É o único dia em que o sumo sacerdote entrava no Santo dos Santos com sangue – tipo perfeito do sacrifício único de Cristo (Hebreus 9)",
+          "Ela comemorou a colheita do trigo",
+          "Aconteceu toda semana"
+        ],
+        "correct": 1,
+        "explanation": "Hebreus 9-10 contrasta os repetidos sacrifícios anuais do Yom Kippur com a entrada final de Cristo no santuário celestial."
+      },
+      {
+        "question": "Qual é o significado da palavra hebraica 'berit' (aliança) no Antigo Testamento: aliança unilateral de graça ou pacto bilateral?",
+        "options": [
+          "Apenas um contrato comercial humano",
+          "Ambas as dimensões existem: aliança incondicional por juramento divino (Gênesis 15 com Abraão) e aliança condicional comprometendo fidelidade (Sinai)",
+          "Uma palavra grega emprestada de Platão",
+          "Um termo que se refere apenas ao casamento"
+        ],
+        "correct": 1,
+        "explanation": "Em Gênesis 15, Deus passa sozinho em forma de tocha entre os animais cortados, assumindo ele mesmo o juramento de aliança."
+      },
+      {
+        "question": "Em Gênesis 15:6 (“Abrão confiou no Senhor, que lhe creditou isso como justiça”), que verbo hebraico estabelece a doutrina paulina da justificação?",
+        "options": [
+          "Bara (criar)",
+          "Hashav (contar, imputar, creditar)",
+          "Qadosh (santificar)",
+          "Shalom (paz)"
+        ],
+        "correct": 1,
+        "explanation": "Paulo cita Gênesis 15:6 em Romanos 4:3 e Gálatas 3:6 para mostrar que a fé já era considerada justiça antes da circuncisão e da Lei."
+      },
+      {
+        "question": "O que significa o gesto de 'cortar uma aliança de casamento' (karat berit) no Antigo Oriente Próximo e em Gênesis 15/Jeremias 34?",
+        "options": [
+          "Cortando uma árvore sagrada",
+          "Passar entre as metades de animais compartilhados em sinal de automaldição ('que isso aconteça comigo se eu quebrar a aliança')",
+          "Quebrando um tratado de paz",
+          "Escrevendo em papiro"
+        ],
+        "correct": 1,
+        "explanation": "A expressão hebraica 'karat berit' significa literalmente 'fazer uma aliança', recordando o sangrento rito de ratificação."
+      },
+      {
+        "question": "Qual é o significado teológico do 'Sábado da terra' e do 'Jubileu' em Levítico 25?",
+        "options": [
+          "Uma simples regra agrícola sem significado social",
+          "Afirmar que a terra pertence somente a Deus ('a terra é minha, vocês estão em minha casa como estranhos'), evitando a escravidão perpétua e a concentração de terras",
+          "Enriquecer os grandes proprietários",
+          "Proibir comércio com vizinhos"
+        ],
+        "correct": 1,
+        "explanation": "Cada 7º ano (pousio, perdão de dívidas) e 50º ano (libertação de escravos, devolução de terras familiares) estruturou uma justiça econômica baseada na soberania de Deus."
+      },
+      {
+        "question": "Qual é o sentido do paralelo entre os “seis dias” de Gênesis 1 e a construção do Tabernáculo em Êxodo 25-40?",
+        "options": [
+          "Sem paralelo",
+          "Em ambos os textos, Deus fala em sete discursos, abençoa a obra concluída e entra em seu ‘descanso’/morada entre o povo",
+          "O Tabernáculo foi construído antes da criação",
+          "Êxodo copia um templo babilônico"
+        ],
+        "correct": 1,
+        "explanation": "Muitos teólogos enfatizam que a criação é um templo cósmico e que o Tabernáculo é o microcosmo onde Deus habita com a humanidade."
+      },
+      {
+        "question": "Qual é o significado da expressão 'Deus se arrependeu' (naham) em Gênesis 6:6 ou Êxodo 32:14 em comparação com Números 23:19 ('Deus não é homem para se arrepender')?",
+        "options": [
+          "Uma contradição insolúvel",
+          "Números 23:19 nega que Deus minta ou mude Seu caráter por capricho; 'naham' expressa antropopaticamente a dor moral e a resposta justa à mudança humana",
+          "Deus esquece suas promessas",
+          "Dois deuses diferentes falam"
+        ],
+        "correct": 1,
+        "explanation": "O verbo ‘naham’ expressa a compaixão dolorosa ou a renúncia ao julgamento diante da intercessão ou do arrependimento, sem pôr em causa a imutabilidade moral de Deus."
+      },
+      {
+        "question": "Qual é a função do 'livro de Crônicas' (1-2 Crônicas) em relação a Samuel e Reis?",
+        "options": [
+          "Uma cópia simples, palavra por palavra",
+          "Uma releitura teológica pós-exílica centrada em Judá, no Templo, no culto levítico e na promessa davídica de encorajar a comunidade que retorna do exílio",
+          "Um livro sobre o Império Romano",
+          "Uma sequência escrita por Élie"
+        ],
+        "correct": 1,
+        "explanation": "Escritas após o exílio, as Crônicas omitem em grande parte o reino do norte e os pecados privados de Davi para destacar a adoração legítima e a esperança messiânica."
+      },
+      {
+        "question": "Nos Salmos, qual é o papel estrutural do Salmo 1 e do Salmo 2 colocados na abertura do Saltério?",
+        "options": [
+          "Eles foram colocados aleatoriamente",
+          "Eles formam uma dupla introdução programática: a felicidade dos justos meditando na Torá (Sl 1) e a vitória do Rei Ungido de Deus sobre as nações (Sl 2)",
+          "Estes são os dois últimos salmos adicionados",
+          "Eles só falam sobre Moisés"
+        ],
+        "correct": 1,
+        "explanation": "Emoldurados pela bem-aventurança ('Bem-aventurado o homem...' Sl 1,1 / 'Bem-aventurados todos aqueles que nele confiam!' Sl 2,12), fornecem a chave de leitura do Saltério."
+      },
+      {
+        "question": "Quais são as principais categorias de salmos identificadas pela crítica formal (Gunkel)?",
+        "options": [
+          "Apenas salmos de guerra",
+          "Hinos de louvor, lamentações (individuais e coletivas), ações de graças, salmos reais e salmos de sabedoria/peregrinação",
+          "Só poemas de amor",
+          "Leis legais"
+        ],
+        "correct": 1,
+        "explanation": "Esta classificação ajuda-nos a compreender como o Saltério abrange toda a experiência humana diante de Deus, desde a angústia até a doxologia."
+      },
+      {
+        "question": "Qual é o significado de “teodiceia” no livro de Jó em comparação com o princípio da retribuição estrita defendido pelos seus amigos?",
+        "options": [
+          "Jó prova que Deus é injusto",
+          "O livro refuta a equação simplista ‘todo sofrimento = castigo pelo pecado pessoal’ e apela à fé altruísta face ao mistério da sabedoria divina",
+          "Os amigos de Jó estavam absolutamente certos",
+          "Jó rejeita a existência de Deus"
+        ],
+        "correct": 1,
+        "explanation": "Em Jó 42:7, Deus declara que Jó falou com justiça sobre si mesmo, ao contrário de seus três amigos cujo dogmatismo condenava injustamente os inocentes."
+      },
+      {
+        "question": "Em Cântico dos Cânticos, quais são as duas principais tradições de interpretação?",
+        "options": [
+          "Um tratado sobre astronomia ou guerra",
+          "A leitura literal/sabedoria (celebração do amor conjugal criado por Deus) e a leitura alegórica/tipológica (amor entre Deus e Israel, ou Cristo e a Igreja)",
+          "Um relato histórico de Salomão no Egito",
+          "Uma revisão do casamento"
+        ],
+        "correct": 1,
+        "explanation": "As duas leituras complementam-se: a bondade do amor humano (Gênesis 2) reflete a aliança amorosa de Deus com o seu povo (Efésios 5:32)."
+      },
+      {
+        "question": "Qual é o significado da palavra hebraica 'hebel' ('vaidade/névoa/vapor') repetida 38 vezes em Eclesiastes?",
+        "options": [
+          "Somente pecado mortal",
+          "O que é efêmero, elusivo, passageiro e impossível de controlar apenas pela sabedoria humana 'sob o sol'",
+          "Riqueza material como objetivo mais elevado",
+          "Idolatria cananéia"
+        ],
+        "correct": 1,
+        "explanation": "'Hebel' significa literalmente um sopro ou vapor: sem Deus acima do sol, todo esforço humano parece passageiro e paradoxal."
+      },
+      {
+        "question": "Como Eclesiastes conclui sua investigação existencial (Eclesiastes 12:13-14)?",
+        "options": [
+          "Por total desespero e ateísmo",
+          "'Tema a Deus e observa os seus mandamentos. Isto é o que todo homem deve fazer, pois Deus trará toda obra a julgamento",
+          "Pelo elogio do dinheiro",
+          "Ao retornar ao Egito"
+        ],
+        "correct": 1,
+        "explanation": "Apesar dos enigmas da vida sob o sol, Qohelet afirma o sentido moral, a alegria recebida de Deus e o julgamento final."
+      },
+      {
+        "question": "Em Deuteronômio 30:11-14, o que Moisés diz sobre a proximidade da Palavra de Deus (“Esta lei não está nos céus...está perto de você, na sua boca e no seu coração”)?",
+        "options": [
+          "Que é impossível saber",
+          "Que Deus se tornou acessível ao seu povo — texto retomado por Paulo em Romanos 10:6-8 para descrever a justiça da fé em Cristo",
+          "Que você tem que atravessar o mar para encontrá-lo",
+          "Que está reservado aos anjos"
+        ],
+        "correct": 1,
+        "explanation": "Paulo aplica esta proximidade da Palavra revelada à palavra de fé pregada no Evangelho."
+      },
+      {
+        "question": "Qual é o papel do 'Livro da Aliança' (Êxodo 20:22 - 23:33) imediatamente após o Decálogo?",
+        "options": [
+          "Uma lista de reis",
+          "Um código de casuística que aplica os princípios dos Dez Mandamentos à vida civil, social, judicial e religiosa de Israel",
+          "Uma história de criação",
+          "Uma profecia sobre Babilônia"
+        ],
+        "correct": 1,
+        "explanation": "O Livro da Aliança traduz os mandamentos morais em leis concretas que protegem escravos, viúvas, órfãos e estrangeiros."
+      },
+      {
+        "question": "Por que o livro de Levítico coloca o “Código de Santidade” (Levítico 17-26) no centro de suas prescrições?",
+        "options": [
+          "Somente para sacerdotes",
+          "Para mostrar que a santidade ritual é inseparável da santidade moral e social (“Seja santo, porque eu sou santo”, incluindo Levítico 19:18: “Amarás o teu próximo como a ti mesmo”)",
+          "Para proibir a agricultura",
+          "Para descrever a guerra contra Roma"
+        ],
+        "correct": 1,
+        "explanation": "Levítico 19 une o respeito aos pais, a justiça judicial, o acolhimento aos estranhos e o amor ao próximo sob o selo ‘Eu sou o Senhor’."
+      },
+      {
+        "question": "Qual é o significado do 'verdadeiro jejum' definido por Deus em Isaías 58:6-7?",
+        "options": [
+          "Não coma nada por 40 dias em silêncio",
+          "Solte as correntes da maldade, reparta o seu pão com os famintos e recolha os infelizes",
+          "Ofereça mil touros no Templo",
+          "Usar roupas rasgadas em público"
+        ],
+        "correct": 1,
+        "explanation": "Os profetas (Isaías 58, Amós 5, Miquéias 6) denunciam um culto puramente externo, afastado da justiça e da misericórdia."
+      },
+      {
+        "question": "Em 1 Samuel 15:22, que máxima fundamental Samuel dirige a Saul após sua desobediência em relação a Amaleque?",
+        "options": [
+          "'Ouro é melhor que oração'",
+          "'A obediência é melhor do que o sacrifício, e manter a sua palavra é melhor do que a gordura dos carneiros'",
+          "'O rei está acima da lei'",
+          "‘Os padres decidem sozinhos’"
+        ],
+        "correct": 1,
+        "explanation": "Esta palavra coloca a constante prioridade da obediência do coração sobre os ritos sacrificiais."
+      },
+      {
+        "question": "Qual é o significado teológico da oração de Salomão na dedicação do Templo (1 Reis 8:27-43)?",
+        "options": [
+          "Ele afirma que Deus está trancado no Templo",
+          "Ele reconhece que ‘o céu e o céu dos céus não podem conter você’, mas ora para que Deus também ouça o estrangeiro que invoca seu nome neste lugar",
+          "Ele proíbe estranhos de se aproximarem",
+          "Ele clama pela destruição das nações"
+        ],
+        "correct": 1,
+        "explanation": "Salomão afirma tanto a transcendência absoluta de Deus quanto a abertura universal do Templo à oração de todas as nações."
+      },
+      {
+        "question": "Em Gênesis 12:1-3, quais são as três dimensões da promessa feita a Abrão?",
+        "options": [
+          "Apenas ouro",
+          "Uma terra (Canaã), uma grande semente (nação) e uma bênção universal para todas as famílias da terra",
+          "Vitória sobre a Babilônia",
+          "A construção de Roma"
+        ],
+        "correct": 1,
+        "explanation": "Estas três promessas estruturam todo o Pentateuco e encontram o seu cumprimento final na Aliança em Cristo."
+      },
+      {
+        "question": "Qual é o significado do episódio da 'luta de Jacó com Peniel' (Gênesis 32:24-31)?",
+        "options": [
+          "Uma luta simples com um bandido",
+          "O misterioso encontro com Deus que quebra a autossuficiência de Jacó (quadril deslocado) e o abençoa dando-lhe o nome de Israel",
+          "Uma vitória militar sobre Esaú",
+          "Um sonho sem consequências"
+        ],
+        "correct": 1,
+        "explanation": "Jacó agora manca, mas recebe a bênção divina; Oséias 12:5 registra que ele chorou e implorou por misericórdia."
+      },
+      {
+        "question": "Qual é o significado teológico da 'teofania de Horebe' para o desanimado Elias (1 Reis 19:11-13)?",
+        "options": [
+          "Deus só aparece na violência",
+          "Deus não estava nem no furacão, nem no terremoto, nem no fogo, mas num 'sussurro suave e leve' (voz do fim do silêncio)",
+          "Elias é definitivamente rejeitado",
+          "Elias deve retornar ao Egito"
+        ],
+        "correct": 1,
+        "explanation": "Após o espetáculo extravagante do Carmelo, Deus ensina a Elias que Ele também age com discrição e mantém um remanescente de 7.000 fiéis."
+      },
+      {
+        "question": "Qual é o papel do 'Livro de Rute' na história da salvação e na teologia do AT?",
+        "options": [
+          "Uma simples anedota pastoral",
+          "Mostrar fidelidade (hesed) através de um estranho moabita integrado na genealogia messiânica de David (bisavó de David) graças ao redentor (go'el) Boaz",
+          "Proibir todos os casamentos com convertidos",
+          "Descreva as leis da guerra"
+        ],
+        "correct": 1,
+        "explanation": "Rute ilustra a abertura da graça divina às nações e prefigura Cristo como parente-redentor (go'el)."
+      },
+      {
+        "question": "Nos Salmos da Entronização Real (Salmos 93:95-99), qual é o tema central proclamado?",
+        "options": [
+          "A glória da Babilônia",
+          "'O Senhor reina!' (YHWH Malak) — a realeza universal e justa de Deus sobre toda a criação e povos",
+          "A morte dos reis",
+          "A fuga para o deserto"
+        ],
+        "correct": 1,
+        "explanation": "Estes salmos celebram a Deus como Criador e Juiz soberano diante de quem toda a terra se regozija."
+      },
+      {
+        "question": "Qual é o significado de 'bênção e maldição' em Deuteronômio 27-28?",
+        "options": [
+          "Um feitiço mágico",
+          "As consequências naturais e da aliança da fidelidade à Torá (vida, paz, fecundidade) ou apostasia (exílio, dispersão)",
+          "Promessas reservadas aos egípcios",
+          "Um texto escrito depois de Jesus Cristo"
+        ],
+        "correct": 1,
+        "explanation": "Moisés coloca diante de Israel “a vida e o bem, a morte e o mal” (Deuteronômio 30:15-19), exortando-os a escolher a vida."
+      },
+      {
+        "question": "Em Daniel 1, por que Daniel e seus três companheiros recusaram a comida da mesa do rei?",
+        "options": [
+          "Pela simples dieta vegetariana moderna",
+          "Evitar contaminar-se com alimentos impuros ou consagrados aos ídolos babilônicos, permanecendo fiel à Aliança na terra do exílio",
+          "Porque a comida estava estragada",
+          "Por ordem de Ezequiel"
+        ],
+        "correct": 1,
+        "explanation": "A sua fidelidade nas pequenas coisas diárias abre o caminho para a sabedoria que Deus lhes concede diante de Nabucodonosor."
+      },
+      {
+        "question": "Qual é o significado da resposta heróica dos três jovens hebreus em Daniel 3:17-18 (“O nosso Deus pode livrar-nos... e mesmo que não o fizesse...”)?",
+        "options": [
+          "Uma dúvida sobre o poder de Deus",
+          "Uma fé incondicional que obedece a Deus por amor e fidelidade, qualquer que seja o resultado terreno",
+          "Uma barganha com o rei",
+          "Uma aceitação da idolatria"
+        ],
+        "correct": 1,
+        "explanation": "A sua confissão manifesta que a fidelidade a Deus não depende de uma garantia de conforto ou de libertação imediata."
+      },
+      {
+        "question": "O que há de especial no livro de Jonas em comparação com outros livros proféticos?",
+        "options": [
+          "Contém apenas leis",
+          "Quase não relata oráculos, mas conta a história de um profeta recalcitrante enviado a uma cidade pagã (Nínive) para revelar a compaixão universal de Deus.",
+          "Está escrito apenas em aramaico",
+          "Ele fala exclusivamente de Jerusalém"
+        ],
+        "correct": 1,
+        "explanation": "O livro questiona o nacionalismo estreito e mostra que o coração de Deus também está comovido pelos 120.000 habitantes de Nínive."
+      },
+      {
+        "question": "Em Malaquias 3:8-10, em que ponto específico Deus testa o seu povo?",
+        "options": [
+          "Construindo uma torre",
+          "Fidelidade nos dízimos e ofertas, prometendo abrir as janelas do céu",
+          "A conquista da Pérsia",
+          "O jejum de 70 dias"
+        ],
+        "correct": 1,
+        "explanation": "Malaquias repreende os sacerdotes e o povo pela sua negligência moral e cultual, ao mesmo tempo que promete bênçãos abundantes sobre o arrependimento."
+      },
+      {
+        "question": "Em Gênesis 50:20, que palavra famosa José dirige aos seus irmãos resumindo a providência divina?",
+        "options": [
+          "'Finalmente vou me vingar'",
+          "'Você planejou me fazer mal: Deus mudou isso para sempre, para realizar o que está acontecendo hoje, para salvar a vida de muitas pessoas'",
+          "'Deus causou o seu pecado'",
+          "'Volte para Canaã sem mim'"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo articula magistralmente a responsabilidade humana pelo mal e a soberania benevolente de Deus que a devolve à salvação."
+      },
+      {
+        "question": "O que Deuteronômio 8:3 ensina (“Não só de pão viverá o homem, mas de tudo o que procede da boca do Senhor”)?",
+        "options": [
+          "Que é proibido comer pão",
+          "Que a dependência da Palavra de Deus é mais vital do que o alimento material – versículo citado por Jesus contra Satanás",
+          "Que o maná durará para sempre",
+          "Que o deserto é fértil"
+        ],
+        "correct": 1,
+        "explanation": "Jesus repete este versículo exatamente durante sua primeira tentação no deserto (Mateus 4:4)."
+      },
+      {
+        "question": "Qual é o significado do episódio do “sacrifício de Jefté” (Juízes 11) e como os exegetas o lêem?",
+        "options": [
+          "Como modelo a imitar aprovado por Deus",
+          "Como exemplo trágico de corrupção religiosa e sincrética no tempo dos Juízes ('cada um fazia o que lhe parecia bem'), condenado pela Lei (Dt 12,31)",
+          "Como uma lei oficial de Moisés",
+          "Como uma fábula grega"
+        ],
+        "correct": 1,
+        "explanation": "O livro dos Juízes descreve a queda moral gradual de Israel sem endossar as ações dos seus heróis imperfeitos."
+      },
+      {
+        "question": "Em Levítico 17:11, por que o sangue é proibido para consumo e reservado para o altar?",
+        "options": [
+          "Por razões puramente estéticas",
+          "'Pois a vida (nephesh) da carne está no sangue. Eu o entreguei a vocês no altar, para que seja uma expiação por suas almas.",
+          "Porque os egípcios beberam",
+          "Porque era raro"
+        ],
+        "correct": 1,
+        "explanation": "Este versículo estabelece a teologia bíblica do sacrifício: é a vida dada que faz a expiação, um princípio cumprido em Cristo (Hebreus 9:22)."
+      },
+      {
+        "question": "Qual é o significado do “Salmo 8” (“O que é o homem, para que te lembres dele?”) no seu duplo âmbito criacional e messiânico?",
+        "options": [
+          "Ele reduz o homem ao nada",
+          "Celebra a dignidade real confiada à humanidade sobre a criação, levada à perfeição em Jesus Cristo (Hebreus 2:6-9)",
+          "Ele só fala sobre anjos",
+          "Ele descreve a Babilônia"
+        ],
+        "correct": 1,
+        "explanation": "A epístola aos Hebreus mostra que se o homem ainda não exerce plenamente esse domínio, já vemos Jesus coroado de glória e honra."
+      },
+      {
+        "question": "Em Provérbios 8:22-31, como a 'Sabedoria' (Hokhmah) é personificada?",
+        "options": [
+          "Como uma deusa pagã rival de YHWH",
+          "Presente com Deus desde antes da criação, alegre mestre construtor do universo - figura que alimenta a cristologia do Logos (João 1, Col 1)",
+          "Como uma invenção humana tardia",
+          "Como um anjo caído"
+        ],
+        "correct": 1,
+        "explanation": "A personificação poética da Sabedoria divina prepara a afirmação do Novo Testamento de que Cristo é a Sabedoria e a Palavra criativa de Deus."
+      },
+      {
+        "question": "Qual é a estrutura do Êxodo em duas partes teológicas principais?",
+        "options": [
+          "Criação então inunda",
+          "Libertação da escravidão (cap. 1-18), depois Aliança e construção da Morada de Deus no meio do seu povo (cap. 19-40)",
+          "Guerra e exílio",
+          "Provérbios e depois Salmos"
+        ],
+        "correct": 1,
+        "explanation": "Deus não apenas liberta Israel do Faraó: Ele os traz para Si (Êxodo 19:4) para habitar no meio de seu acampamento."
+      },
+      {
+        "question": "Qual é o significado do nome 'Ehyeh Asher Ehyeh' ('Eu sou quem sou' / 'Serei quem serei') revelado a Moisés em Êxodo 3:14?",
+        "options": [
+          "Um enigma para se recusar a responder",
+          "A revelação da existência autônoma, eterna e fielmente presente de Deus ao seu povo para libertá-los",
+          "Um título egípcio",
+          "Um nome reservado para Salomão"
+        ],
+        "correct": 1,
+        "explanation": "Este nome enfatiza tanto o ser absoluto de Deus como a sua presença ativa e fiel na história de Israel."
+      },
+      {
+        "question": "Em 2 Samuel 7:12-16, que promessa incondicional Deus fez a Davi por meio do profeta Natã?",
+        "options": [
+          "Que Salomão viverá mil anos",
+          "Que a sua casa, o seu trono e o seu reino serão estabelecidos para sempre – promessa messiânica central",
+          "Que Jerusalém nunca será atacada",
+          "Que Davi construirá ele mesmo o Templo"
+        ],
+        "correct": 1,
+        "explanation": "Mesmo que seus descendentes sejam punidos quando pecam, a aliança davídica permanece irrevogável e se cumpre em Jesus, filho de Davi (Lucas 1:32-33)."
+      },
+      {
+        "question": "Que papel desempenharam os “profetas da corte” que se opunham a Miquéias ou Jeremias no Antigo Testamento?",
+        "options": [
+          "Eles sempre disseram a verdade",
+          "Eles lisonjearam os reis anunciando 'Paz! Paz !' quando não havia paz, sem um chamado ao arrependimento",
+          "Eles viviam no deserto",
+          "Eles eram todos sacerdotes levitas"
+        ],
+        "correct": 1,
+        "explanation": "Jeremias 6:14 e 23 denunciam esses falsos profetas que curaram levianamente a ferida do povo sem denunciar o pecado."
+      },
+      {
+        "question": "Em Números 6:24-26, quais são os três movimentos crescentes da bênção Aarônica?",
+        "options": [
+          "Riqueza, vitória, vida longa",
+          "Proteção ('abençoe e guarde você'), graça ('faça seu rosto brilhar e lhe dê graça') e paz ('vire seu rosto e lhe dê paz')",
+          "Jejum, oração, esmola",
+          "Sabedoria, força, beleza"
+        ],
+        "correct": 1,
+        "explanation": "Cada linha hebraica se alonga (3, 5 e depois 7 palavras), culminando no dom supremo do divino 'Shalom'."
+      },
+      {
+        "question": "Qual é o significado do termo 'Shalom' no Antigo Testamento além da simples ausência de guerra?",
+        "options": [
+          "Silêncio absoluto",
+          "Plenitude, integridade, harmonia relacional com Deus, com os outros e com a criação",
+          "Riqueza financeira apenas",
+          "Solidão"
+        ],
+        "correct": 1,
+        "explanation": "'Shalom' expressa o bem-estar completo e a restauração da ordem desejada por Deus."
+      },
+      {
+        "question": "Em Gênesis 22, por que Abraão chama o local do sacrifício de 'Yahweh Jireh'?",
+        "options": [
+          "‘O Senhor julga’",
+          "'O Senhor proverá' (lit. 'verá/se abastecerá de um cordeiro')",
+          "'O Senhor destrói'",
+          "'A montanha sagrada'"
+        ],
+        "correct": 1,
+        "explanation": "Este nome responde à pergunta de Isaque (“onde está o cordeiro?”) e profetiza a provisão final de Deus em Cristo (Gênesis 22:8,14)."
+      },
+      {
+        "question": "Qual é o significado do 'véu' no rosto de Moisés em Êxodo 34:29-35 de acordo com Paulo em 2 Coríntios 3?",
+        "options": [
+          "Moisés escondeu uma ferida",
+          "Moisés velava a glória passageira da antiga aliança que estava desaparecendo; em Cristo, o véu é removido para contemplar com o rosto aberto a glória do Senhor",
+          "As pessoas tinham medo do sol",
+          "O véu simbolizava o pecado de Moisés"
+        ],
+        "correct": 1,
+        "explanation": "Paulo contrasta a glória decrescente do ministério da carta com a glória permanente e transformadora do Espírito (2 Coríntios 3:7-18)."
+      },
+      {
+        "question": "Em Isaías 1:18, que imagem vívida de perdão Deus usa?",
+        "options": [
+          "'Seus pecados estão gravados em bronze'",
+          "'Embora os seus pecados sejam como a escarlata, eles se tornarão brancos como a neve; se forem vermelhos como a púrpura, tornar-se-ão como lã'",
+          "‘Seus pecados serão esquecidos depois de mil anos’",
+          "'Só os padres são perdoados'"
+        ],
+        "correct": 1,
+        "explanation": "Deus chama o seu povo à súplica e oferece uma limpeza total impossível apenas para o homem."
+      },
+      {
+        "question": "Qual é a importância do livro de Habacuque na teologia bíblica da fé?",
+        "options": [
+          "Ele só fala sobre guerra",
+          "Ele confronta o problema do mal e da injustiça impune e responde com paciente confiança: “o justo viverá pela sua fé” e alegria em Deus, mesmo na miséria (Hab 3,17-18).",
+          "Ele dá leis dietéticas",
+          "Conta a vida de David"
+        ],
+        "correct": 1,
+        "explanation": "Habacuque vai do lamento (“Até quando?”) ao hino da fé inabalável, mesmo quando faltam figueiras, vinhas e rebanhos."
+      },
+      {
+        "question": "Nos chamados Salmos “imprecatórios” (por exemplo, Salmos 109, 137), como a teologia bíblica entende esses gritos contra os opressores?",
+        "options": [
+          "Como uma licença para vingança pessoal armada",
+          "Tal como colocar a vingança nas mãos do Deus justo, em vez de fazer justiça com as próprias mãos (Romanos 12:19), expressando horror ao mal",
+          "Como erros de tradução",
+          "Como orações aos anjos"
+        ],
+        "correct": 1,
+        "explanation": "Esses salmos entregam honestamente a ira diante de Deus, confiando no Juiz de toda a terra para restaurar a justiça."
+      },
+      {
+        "question": "Qual é a conexão entre a 'Festa das Semanas' (Shavuot) no AT e o Pentecostes Cristão?",
+        "options": [
+          "Sem link",
+          "Shavuot celebrou os primeiros frutos da colheita 50 dias após a Páscoa (e a entrega da Torá na tradição judaica); no Pentecostes, o Espírito é derramado e 3.000 almas formam as primícias da Igreja",
+          "Shavuot aconteceu no inverno",
+          "Era um festival babilônico"
+        ],
+        "correct": 1,
+        "explanation": "O cumprimento tipológico une as primícias da colheita e o derramamento do Espírito que escreve a lei nos corações (Atos 2)."
+      },
+      {
+        "question": "Em 1 Reis 8:46 e Eclesiastes 7:20, que verdade antropológica é afirmada no Antigo Testamento?",
+        "options": [
+          "Que alguns homens estão sem pecado",
+          "'Não há homem justo na terra que faça o bem e nunca peque'",
+          "Que só Adão pecou",
+          "Que os reis são infalíveis"
+        ],
+        "correct": 1,
+        "explanation": "A universalidade do pecado já é ensinada claramente no AT, preparando-o para o anúncio da graça universal em Cristo (Romanos 3:10-23)."
       }
     ]
   }

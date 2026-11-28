@@ -165,6 +165,523 @@
         ],
         "correct": 1,
         "explanation": "Isaías 2:2-4 / Miqueas 4:1-3: Subirán las naciones al monte de Jehová para aprender sus caminos."
+      },
+      {
+        "question": "¿Qué profeta anunció que Jesús se llamaría Emmanuel ('Dios con nosotros')?",
+        "options": [
+          "Jeremías",
+          "Isaías",
+          "Ezequiel",
+          "Amós"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 7:14 dice: 'He aquí, la muchacha concebirá y dará a luz un hijo, y llamará su nombre Emanuel.'"
+      },
+      {
+        "question": "¿Qué profeta describió al Mesías como \"Príncipe de paz\" y \"Dios fuerte\"?",
+        "options": [
+          "Miqueas",
+          "Isaías",
+          "Oseas",
+          "joel"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 9:5-6 nombra al Mesías como Admirable Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz."
+      },
+      {
+        "question": "¿Qué profeta anunció que el Mesías nacería del linaje de David (una rama del tronco de Jesé)?",
+        "options": [
+          "Jonás",
+          "Isaías",
+          "Abdías",
+          "Malaquías"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 11:1 profetiza que un vástago saldrá del tronco de Jesé, el padre del rey David."
+      },
+      {
+        "question": "¿Qué libro de los Salmos comienza con el grito: 'Dios mío, Dios mío, ¿por qué me has desamparado?' dicho por Jesús en la cruz?",
+        "options": [
+          "Salmo 1",
+          "Salmo 22",
+          "Salmo 51",
+          "Salmo 119"
+        ],
+        "correct": 1,
+        "explanation": "El Salmo 22 describe con precisión el sufrimiento de la crucifixión (manos y pies traspasados, vestidos repartidos por suerte)."
+      },
+      {
+        "question": "Según Salmo 22:18, ¿qué hicieron los soldados con la ropa del Mesías?",
+        "options": [
+          "los quemaron",
+          "echaron suertes",
+          "Los arrojaron al mar",
+          "Se los devolvieron a su madre."
+        ],
+        "correct": 1,
+        "explanation": "El Salmo 22:18 anuncia: 'Se repartieron entre sí mis vestidos, sobre mi túnica echaron suertes', cumplido al pie de la cruz (Juan 19:24)."
+      },
+      {
+        "question": "¿Qué profecía del Antiguo Testamento predijo que ninguno de los huesos del Mesías sería quebrado?",
+        "options": [
+          "Salmo 34:20 (y Éxodo 12:46)",
+          "Salmo 1:1",
+          "Proverbios 3:5",
+          "Isaías 40:3"
+        ],
+        "correct": 0,
+        "explanation": "El Salmo 34:20 dice: \"Él guarda todos sus huesos, ninguno de ellos es quebrantado\", citado en la crucifixión (Juan 19:36)."
+      },
+      {
+        "question": "¿Qué profeta anunció: 'Él fue herido por nuestros pecados, quebrantado por nuestras iniquidades'?",
+        "options": [
+          "Jeremías",
+          "Isaías (capítulo 53)",
+          "Ezequiel",
+          "Amós"
+        ],
+        "correct": 1,
+        "explanation": "Isaías 53:5 describe el sufrimiento redentor del Siervo del Señor."
+      },
+      {
+        "question": "¿Qué profeta fue tragado por un pez grande durante 3 días, presagiando la resurrección de Jesús?",
+        "options": [
+          "Elías",
+          "Jonás",
+          "Daniel",
+          "Habacuc"
+        ],
+        "correct": 1,
+        "explanation": "El mismo Jesús compara los 3 días de Jonás en el pez con su propia estancia en la tumba (Mateo 12:40)."
+      },
+      {
+        "question": "¿Qué profeta predijo que el Mesías haría que los ciegos vieran, los sordos oyeran y los cojos caminaran?",
+        "options": [
+          "Isaías (capítulo 35)",
+          "Abdías",
+          "Nahúm",
+          "Sofonías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 35:5-6 anuncia estas curaciones mesiánicas, que Jesús cita en respuesta a los discípulos de Juan el Bautista (Mateo 11:5)."
+      },
+      {
+        "question": "¿Qué profeta anunció la masacre de niños en Belén ('Raquel llora por sus hijos')?",
+        "options": [
+          "Jeremías (31:15)",
+          "Jonás",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Mateo 2:17-18 cita Jeremías 31:15 durante la masacre de inocentes ordenada por Herodes."
+      },
+      {
+        "question": "¿Qué profeta anunció que el Mesías predicaría 'buenas nuevas a los pobres' (leídas por Jesús en Nazaret)?",
+        "options": [
+          "Isaías (61:1)",
+          "Amós",
+          "Malaquías",
+          "Jonás"
+        ],
+        "correct": 0,
+        "explanation": "En la sinagoga de Nazaret, Jesús leyó Isaías 61:1-2 y declaró: \"Hoy se cumple esta palabra\" (Lucas 4:18-21)."
+      },
+      {
+        "question": "¿Quién anunció la destrucción de Jerusalén y el exilio a Babilonia?",
+        "options": [
+          "Jonás",
+          "Jeremías",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 1,
+        "explanation": "Jeremías advirtió durante cuarenta años que Babilonia destruiría a Jerusalén si el pueblo no se arrepentía."
+      },
+      {
+        "question": "¿Qué profeta anunció que el Mesías sería precedido por un mensajero que prepararía el camino?",
+        "options": [
+          "Malaquías (3:1)",
+          "Abdías",
+          "Nahúm",
+          "Jonás"
+        ],
+        "correct": 0,
+        "explanation": "Malaquías 3:1 anuncia: 'He aquí, yo envío mi mensajero; Él preparará el camino delante de mí', cumplido en Juan Bautista."
+      },
+      {
+        "question": "¿En qué libro encontramos la profecía de la estatua con pies de barro y hierro?",
+        "options": [
+          "Isaías",
+          "Daniel (capítulo 2)",
+          "Ezequiel",
+          "Zacarías"
+        ],
+        "correct": 1,
+        "explanation": "Daniel interpretó el sueño de Nabucodonosor de los cuatro reinos seguidos de un reino eterno establecido por Dios (Daniel 2)."
+      },
+      {
+        "question": "En el sueño de Nabucodonosor (Daniel 2), ¿qué hizo la piedra suelta sin la ayuda de ninguna mano?",
+        "options": [
+          "Ella se hunde en el mar",
+          "Ella rompe la estatua y se convierte en una gran montaña que llena toda la tierra.",
+          "se convierte en oro",
+          "Ella desaparece en el cielo"
+        ],
+        "correct": 1,
+        "explanation": "Esta piedra representa el Reino de Dios que destruirá todos los reinos humanos y perdurará para siempre (Daniel 2:34-44)."
+      },
+      {
+        "question": "¿Qué profeta anunció el juicio del mundo y la venida de un 'Hijo del Hombre' sobre las nubes del cielo?",
+        "options": [
+          "Amós",
+          "Daniel (capítulo 7)",
+          "Oseas",
+          "Jonás"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 7:13-14 describe al Hijo del Hombre viniendo sobre las nubes del cielo para recibir dominio eterno."
+      },
+      {
+        "question": "¿Qué profeta predijo que las espadas se convertirían en arados y las lanzas en hoces?",
+        "options": [
+          "Isaías (y Miqueas)",
+          "Jonás",
+          "Abdías",
+          "Nahúm"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 2:4 y Miqueas 4:3 anuncian esta era de paz universal en la que las naciones ya no aprenderán a hacer guerra."
+      },
+      {
+        "question": "¿Qué profeta anunció que el rey justo vendría a Jerusalén montado en un asno?",
+        "options": [
+          "Zacarías (9:9)",
+          "Hageo",
+          "Malaquías",
+          "joel"
+        ],
+        "correct": 0,
+        "explanation": "Jesús cumplió literalmente Zacarías 9:9 durante su entrada triunfal a Jerusalén (Mateo 21:4-5)."
+      },
+      {
+        "question": "¿Qué profecía del Antiguo Testamento anuncia que el Mesías sería despreciado y rechazado por los hombres?",
+        "options": [
+          "Isaías 53:3",
+          "Salmo 23:1",
+          "Proverbios 1:7",
+          "Génesis 1:1"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 53:3 describe al Siervo como \"despreciado y desamparado entre los hombres, varón de dolores, acostumbrado a padecer\"."
+      },
+      {
+        "question": "¿Qué salmo anuncia: 'No abandonarás mi alma al infierno, no permitirás que tu amado vea corrupción'?",
+        "options": [
+          "Salmo 16:10",
+          "Salmo 1:1",
+          "Salmo 100:1",
+          "Salmo 150:1"
+        ],
+        "correct": 0,
+        "explanation": "Pedro y Pablo citan el Salmo 16:10 como una profecía de la resurrección de Cristo (Hechos 2:27; 13:35)."
+      },
+      {
+        "question": "¿Qué profeta anunció que el Mesías sería llamado 'el Señor nuestra justicia'?",
+        "options": [
+          "Jeremías (23:6)",
+          "Jonás",
+          "Abdías",
+          "Habacuc"
+        ],
+        "correct": 0,
+        "explanation": "Jeremías 23:5-6 anuncia un renuevo justo levantado en David cuyo nombre será 'Jehová nuestra justicia'."
+      },
+      {
+        "question": "¿Qué profecía del Génesis afirma que los descendientes de la mujer aplastarían la cabeza de la serpiente?",
+        "options": [
+          "Génesis 3:15",
+          "Génesis 11:9",
+          "Génesis 19:26",
+          "Génesis 37:28"
+        ],
+        "correct": 0,
+        "explanation": "Génesis 3:15 se llama el 'Proteevangelio', la primera promesa de victoria sobre Satanás a través de la simiente de la mujer."
+      },
+      {
+        "question": "¿A qué patriarca le prometió Dios que todas las familias de la tierra serían bendecidas en su posteridad?",
+        "options": [
+          "Noé",
+          "Abraham (Génesis 12:3)",
+          "Lote",
+          "Esaú"
+        ],
+        "correct": 1,
+        "explanation": "Dios prometió a Abraham que todas las naciones serían bendecidas en su descendencia, promesa cumplida en Cristo (Gálatas 3:8)."
+      },
+      {
+        "question": "¿De qué tribu de Israel vendría el Mesías (el 'Silo') según la bendición de Jacob en Génesis 49:10?",
+        "options": [
+          "Rubén",
+          "Judá",
+          "leví",
+          "Benjamín"
+        ],
+        "correct": 1,
+        "explanation": "Jacob profetizó que el cetro no sería quitado de Judá hasta que viniera Siloh (Génesis 49:10)."
+      },
+      {
+        "question": "¿Qué profeta predijo que de Jacob saldría una estrella y de Israel se levantaría un cetro?",
+        "options": [
+          "Balaam (Números 24:17)",
+          "Jonás",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Balaam pronunció este oráculo mesiánico sobre la estrella de Jacob (Números 24,17), recordado por la estrella de los Magos."
+      },
+      {
+        "question": "¿A qué profeta anunció Moisés que Dios levantaría entre sus hermanos como él?",
+        "options": [
+          "Un gran profeta como Moisés (Deuteronomio 18:15)",
+          "un angel",
+          "Un rey egipcio",
+          "un fariseo"
+        ],
+        "correct": 0,
+        "explanation": "Deuteronomio 18:15-18 promete un profeta como Moisés a quien todo Israel debe escuchar, aplicado a Jesús (Hechos 3:22)."
+      },
+      {
+        "question": "¿Qué profeta recibió una visión del Señor sentado en un trono alto y serafines clamando 'Santo, santo, santo'?",
+        "options": [
+          "Isaías (capítulo 6)",
+          "Jonás",
+          "Habacuc",
+          "Sofonías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 6 registra su visión inaugural en el Templo y la difícil misión anunciada al pueblo endurecido."
+      },
+      {
+        "question": "¿Qué profeta anunció la reconstrucción del Templo después del exilio alentando a Zorobabel y Josué?",
+        "options": [
+          "Hageo (y Zacarías)",
+          "Amós",
+          "Oseas",
+          "Jeremías"
+        ],
+        "correct": 0,
+        "explanation": "Hageo y Zacarías animaron al pueblo en el año 520 a.C. BC para reanudar la construcción del Segundo Templo."
+      },
+      {
+        "question": "¿Qué profeta anunció que la gloria de la segunda casa (el Templo) sería mayor que la de la primera?",
+        "options": [
+          "Hageo (2:9)",
+          "Abdías",
+          "Nahúm",
+          "Jonás"
+        ],
+        "correct": 0,
+        "explanation": "Hageo 2:9 promete que el Deseado de todas las naciones vendrá y llenará de gloria esta casa."
+      },
+      {
+        "question": "¿Quién profetizó en el Nuevo Testamento el nacimiento milagroso de Jesús a María?",
+        "options": [
+          "el ángel gabriel",
+          "El profeta Elías",
+          "El apóstol Pedro",
+          "El sumo sacerdote Caifás"
+        ],
+        "correct": 0,
+        "explanation": "El ángel Gabriel anunció a María que daría a luz al Hijo del Altísimo, cuyo reinado no tendrá fin (Lucas 1:31-33)."
+      },
+      {
+        "question": "¿Qué anciano piadoso profetizó en el Templo que el niño Jesús sería \"una luz para iluminar a las naciones\"?",
+        "options": [
+          "Nicodemo",
+          "Simeón (Lucas 2:29-32)",
+          "Zacarías",
+          "José de Arimatea"
+        ],
+        "correct": 1,
+        "explanation": "Simeón tomó a Jesús en sus brazos y pronunció el cántico 'Nunc Dimittis', anunciando la salvación para todos los pueblos."
+      },
+      {
+        "question": "¿Qué profecía habló Jesús sobre el Templo de Jerusalén a sus discípulos?",
+        "options": [
+          "Que duraría para siempre sin daño",
+          "Que no quedará piedra sobre piedra que no sea derribada",
+          "Que sería transportado a Roma.",
+          "Que se convertiría en un palacio griego."
+        ],
+        "correct": 1,
+        "explanation": "Jesús anunció la destrucción del Templo (Mateo 24:2), realizada por las legiones romanas en el año 70 d.C. ANUNCIO"
+      },
+      {
+        "question": "¿Qué evento profetizó Jesús a Pedro antes de que cantara el gallo?",
+        "options": [
+          "Que se convertiría en rey",
+          "Que le negaría tres veces",
+          "Que iría a Babilonia",
+          "Que escribiría un evangelio"
+        ],
+        "correct": 1,
+        "explanation": "Jesús predijo a Pedro que antes de que cante el gallo, lo negaría tres veces (Mateo 26:34)."
+      },
+      {
+        "question": "¿Qué profecía recuerda el apóstol Pablo en 1 Tesalonicenses 4 sobre el regreso del Señor?",
+        "options": [
+          "El fin de la inundación",
+          "El Señor mismo descenderá del cielo y los muertos en Cristo resucitarán primero",
+          "La caída de Nínive",
+          "La reconstrucción de Babel"
+        ],
+        "correct": 1,
+        "explanation": "Pablo enseña acerca de la resurrección de los muertos en Cristo y el arrebato de los vivos para encontrarse con el Señor (1 Tesalonicenses 4:16-17)."
+      },
+      {
+        "question": "¿Qué profeta predijo que el Mesías guardaría silencio ante sus acusadores 'como un cordero llevado al matadero'?",
+        "options": [
+          "Isaías (53:7)",
+          "Jonás",
+          "Abdías",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 53:7 describe el silencio del Siervo Sufriente, un pasaje que el eunuco etíope leyó en Hechos 8:32."
+      },
+      {
+        "question": "¿Qué profeta anunció que las aguas del Mar Muerto serían limpiadas por un río que fluiría del Templo?",
+        "options": [
+          "Ezequiel (capítulo 47)",
+          "Jonás",
+          "Amós",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Ezequiel 47 describe el río de vida que fluyó del santuario y sanó el Mar Muerto hasta que dio vida en todas partes."
+      },
+      {
+        "question": "¿Qué profeta anunció el nacimiento de una posteridad justa que vivirá por su fe (\"los justos vivirán por su fe\")?",
+        "options": [
+          "Habacuc (2:4)",
+          "Abdías",
+          "Jonás",
+          "Hageo"
+        ],
+        "correct": 0,
+        "explanation": "Habacuc 2:4 es uno de los versículos proféticos fundamentales retomados por Pablo en Romanos 1:17 y Gálatas 3:11."
+      },
+      {
+        "question": "¿Qué profecía del Apocalipsis anuncia la desaparición de la muerte, del duelo y del llanto?",
+        "options": [
+          "Apocalipsis 21:4",
+          "Apocalipsis 2:1",
+          "Apocalipsis 13:18",
+          "Apocalipsis 6:1"
+        ],
+        "correct": 0,
+        "explanation": "Apocalipsis 21:4 promete que Dios enjugará toda lágrima y que la muerte, el llanto y el dolor ya no existirán."
+      },
+      {
+        "question": "¿Qué profeta predijo que el Mesías sería traicionado por un amigo cercano que comía su pan?",
+        "options": [
+          "David (Salmo 41:9)",
+          "Jonás",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Jesús cita el Salmo 41:9 (\"El que comía pan conmigo, ha levantado contra mí su calcañar\") sobre Judas (Juan 13:18)."
+      },
+      {
+        "question": "¿Qué profeta anunció que Dios ofrecería de beber gratis a los sedientos (“Venid a las aguas todos los que tenéis sed”)?",
+        "options": [
+          "Isaías (55:1)",
+          "Abdías",
+          "Nahúm",
+          "Sofonías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 55:1-3 invita libremente a las aguas y entra en un pacto eterno según las gracias prometidas a David."
+      },
+      {
+        "question": "¿Qué profeta dijo que Dios ahuyentaría la muerte para siempre y enjugaría las lágrimas de todos los rostros?",
+        "options": [
+          "Isaías (25:8)",
+          "Jonás",
+          "Abdías",
+          "Hageo"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 25:8 anuncia la fiesta escatológica donde Dios destruye la muerte para siempre, citada en 1 Corintios 15:54."
+      },
+      {
+        "question": "¿Qué profeta del libro de los Hechos predijo una gran hambruna en toda la Tierra bajo el emperador Claudio?",
+        "options": [
+          "Agabo (Hechos 11:28)",
+          "Etienne",
+          "Bernabé",
+          "Timoteo"
+        ],
+        "correct": 0,
+        "explanation": "Agabo, un profeta que descendió de Jerusalén a Antioquía, anunció por el Espíritu una gran hambruna que se produjo bajo Claudio."
+      },
+      {
+        "question": "¿Qué profeta predijo que Pablo sería atado por los judíos en Jerusalén tomando su propio cinto?",
+        "options": [
+          "Agabo (Hechos 21:10-11)",
+          "Felipe",
+          "Silas",
+          "Ananías"
+        ],
+        "correct": 0,
+        "explanation": "En Cesarea, Agabo tomó el cinturón de Pablo, lo ató de pies y manos y anunció su arresto en Jerusalén."
+      },
+      {
+        "question": "¿Qué profecía de Zacarías anuncia un rey humilde que traerá paz a las naciones hasta los confines de la tierra?",
+        "options": [
+          "Zacarías 9:9-10",
+          "Zacarías 1:1",
+          "Abdías 1:1",
+          "Nahúm 1:1"
+        ],
+        "correct": 0,
+        "explanation": "Zacarías 9:9-10 une la humildad del rey sobre el pollino con su reinado universal de paz."
+      },
+      {
+        "question": "¿Qué profeta anunció que el Mesías llevaría los pecados de muchos e intercedería por los culpables?",
+        "options": [
+          "Isaías (53:12)",
+          "Jonás",
+          "Abdías",
+          "Hageo"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 53:12 se cumple en la cruz entre dos malhechores cuando Jesús ora: 'Padre, perdónalos' (Lucas 23:34)."
+      },
+      {
+        "question": "¿Qué profeta predijo el regreso del pueblo judío a su tierra y su futura unidad bajo un solo pastor ('mi siervo David')?",
+        "options": [
+          "Ezequiel (34:23; 37:24)",
+          "Jonás",
+          "Nahúm",
+          "Abdías"
+        ],
+        "correct": 0,
+        "explanation": "Ezequiel 34 y 37 anuncian que Dios levantará un solo pastor, su siervo David, para alimentar a su rebaño unido."
+      },
+      {
+        "question": "En la parábola o profecía del Antiguo Testamento, ¿qué profeta rompió un cántaro de barro para simbolizar la ruina irreversible de Jerusalén?",
+        "options": [
+          "Jeremías (capítulo 19)",
+          "Isaías",
+          "Jonás",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Por orden de Dios, Jeremías rompió una vasija de alfarero en el valle de Ben-Hinnom delante de los ancianos (Jeremías 19:10-11)."
       }
     ],
     "intermediaire": [
@@ -332,6 +849,523 @@
         ],
         "correct": 1,
         "explanation": "Isaías 52:13-53:12 es el cuarto cántico del Siervo, citado más de 40 veces en el Nuevo Testamento para Cristo."
+      },
+      {
+        "question": "¿Qué salmo real profetiza: 'Dijo el Señor a mi Señor: Siéntate a mi diestra'?",
+        "options": [
+          "Salmo 2",
+          "Salmo 110:1",
+          "Salmo 23",
+          "Salmo 139"
+        ],
+        "correct": 1,
+        "explanation": "Salmo 110:1 es el texto del Antiguo Testamento citado con más frecuencia en el Nuevo Testamento para designar la exaltación de Cristo (Mateo 22:44; Hechos 2:34)."
+      },
+      {
+        "question": "¿Qué salmo profetiza que el Mesías es 'sacerdote para siempre según el orden de Melquisedec'?",
+        "options": [
+          "Salmo 110:4",
+          "Salmo 51:1",
+          "Salmo 19:1",
+          "Salmo 90:1"
+        ],
+        "correct": 0,
+        "explanation": "El Salmo 110:4 combina la realeza mesiánica y el sacerdocio eterno de Melquisedec, desarrollado en Hebreos 5-7."
+      },
+      {
+        "question": "¿Qué salmo mesiánico declara: \"Tú eres mi Hijo, yo te he engendrado hoy\"?",
+        "options": [
+          "Salmo 2:7",
+          "Salmo 14:1",
+          "Salmo 42:1",
+          "Salmo 121:1"
+        ],
+        "correct": 0,
+        "explanation": "El Salmo 2:7 se cita en el bautismo y resurrección de Jesús (Hechos 13:33) y en Hebreos 1:5."
+      },
+      {
+        "question": "¿Qué salmo anuncia: 'La piedra que desecharon los constructores se ha convertido en la piedra angular'?",
+        "options": [
+          "Salmo 118:22",
+          "Salmo 24:1",
+          "Salmo 84:1",
+          "Salmo 133:1"
+        ],
+        "correct": 0,
+        "explanation": "Jesús y Pedro aplican el Salmo 118:22 al rechazo del Mesías por parte de los líderes religiosos y su victoria (Mateo 21:42; Hechos 4:11)."
+      },
+      {
+        "question": "¿Qué profeta usó un yugo de madera en su cuello para simbolizar la sumisión a Babilonia?",
+        "options": [
+          "Isaías",
+          "Jeremías (capítulos 27-28)",
+          "Ezequiel",
+          "Oseas"
+        ],
+        "correct": 1,
+        "explanation": "Jeremías llevó un yugo para exhortar a las naciones a someterse a Nabucodonosor; Hananías lo rompió y fue reemplazado por un yugo de hierro."
+      },
+      {
+        "question": "¿Qué señal profética cumple Ezequiel al acostarse sobre su lado izquierdo y luego sobre su lado derecho?",
+        "options": [
+          "La duración del reinado de David.",
+          "Los años de iniquidad de Israel (390 días) y Judá (40 días)",
+          "La construcción del arca.",
+          "El ayuno de 40 días en el desierto"
+        ],
+        "correct": 1,
+        "explanation": "En Ezequiel 4:4-6, el profeta carga simbólicamente con la iniquidad de Israel y Judá por un día durante un año."
+      },
+      {
+        "question": "¿Qué predijo Miqueas 3:12 acerca de Sión y Jerusalén, una profecía recordada más tarde para salvar a Jeremías?",
+        "options": [
+          "Que Jerusalén nunca caería",
+          "Que Sión sería arada como un campo y Jerusalén se convertiría en un montón de piedras.",
+          "Que Egipto invadiría Babilonia",
+          "Que el Templo se convertiría en oro"
+        ],
+        "correct": 1,
+        "explanation": "En Jeremías 26:18, los ancianos citan a Miqueas de Moreset para recordarnos que un profeta ya había anunciado la ruina de Jerusalén."
+      },
+      {
+        "question": "¿Qué profecía de Zacarías (11:12-13) asocia las 30 monedas de plata con el 'campo del alfarero'?",
+        "options": [
+          "Zacarías pide su salario y lo echa en la casa del Señor para el alfarero.",
+          "Zacarías compra un carro de guerra",
+          "Zacarías construye un templo",
+          "Zacarías destruye un ídolo"
+        ],
+        "correct": 0,
+        "explanation": "Mateo 27:9-10 conecta la traición de Judas por 30 piezas de plata y la compra del campo del alfarero con Zacarías 11 y Jeremías."
+      },
+      {
+        "question": "¿Qué profeta dijo: 'Heriré al pastor, y las ovejas del rebaño serán dispersadas'?",
+        "options": [
+          "Zacarías (13:7)",
+          "Abdías",
+          "Nahúm",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Jesús cita Zacarías 13:7 en la noche de Getsemaní para anunciar la dispersión de sus discípulos (Mateo 26:31)."
+      },
+      {
+        "question": "¿Qué profeta anunció que las naciones paganas conocerían el nombre de Dios, de oriente a occidente?",
+        "options": [
+          "Malaquías (1:11)",
+          "Abdías",
+          "Nahúm",
+          "Jonás"
+        ],
+        "correct": 0,
+        "explanation": "Malaquías 1:11 declara que desde el nacimiento del sol hasta su puesta, el nombre de Jehová es grande entre las naciones."
+      },
+      {
+        "question": "En Daniel 7, ¿qué representan los cuatro grandes animales que salen del mar?",
+        "options": [
+          "cuatro angeles",
+          "Cuatro reinos/imperios sucesivos que surgirán en la tierra",
+          "Cuatro tribus de Israel",
+          "cuatro estaciones"
+        ],
+        "correct": 1,
+        "explanation": "Las cuatro bestias (león, oso, leopardo, bestia temible) corresponden a cuatro imperios sucesivos (Daniel 7:17)."
+      },
+      {
+        "question": "En Daniel 8, ¿qué representan el carnero con dos cuernos y el macho cabrío peludo con un cuerno grande entre los ojos?",
+        "options": [
+          "Egipto e Israel",
+          "El Imperio Medo-Persa (carnero) derrotado por el Imperio griego de Alejandro Magno (cabra)",
+          "Roma y Cartago",
+          "Babilonia y Asiria"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 8:20-21 identifica explícitamente al carnero con los reyes de los medos y los persas, y al macho cabrío con el rey de Javan (Grecia)."
+      },
+      {
+        "question": "¿Qué profeta anunció el juicio de Edom por la traición de su hermano Jacob durante la caída de Jerusalén?",
+        "options": [
+          "Abdías",
+          "joel",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Todo el libro de Abdías es una profecía contra el orgullo y la violencia de Edom hacia Judá (Abdías 10-15)."
+      },
+      {
+        "question": "¿Qué profecía de Amós (9:11) cita Santiago en el Concilio de Jerusalén para justificar la bienvenida a los no judíos?",
+        "options": [
+          "'Levantaré la tienda de David de su caída' para que el resto de los hombres busque al Señor",
+          "'El mar retrocederá'",
+          "'El Templo será destruido'",
+          "'Las montañas se derretirán'"
+        ],
+        "correct": 0,
+        "explanation": "Hechos 15:16-17 cita Amós 9:11-12 para mostrar que los profetas predijeron la inclusión de las naciones."
+      },
+      {
+        "question": "¿Qué profeta predijo por su nombre al rey persa Ciro más de un siglo antes de su nacimiento como instrumento de Dios para reconstruir Jerusalén?",
+        "options": [
+          "Isaías (44:28 – 45:1)",
+          "Amós",
+          "Oseas",
+          "Jonás"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 44:28-45:1 nombra a Ciro como 'mi pastor' y 'su ungido' para liberar a los exiliados y reconstruir el Templo."
+      },
+      {
+        "question": "¿Qué profeta recibió una visión de un candelero de oro impulsado por dos olivos con las palabras: 'Ni con fuerza, ni con fuerza, sino con mi Espíritu'?",
+        "options": [
+          "Zacarías (capítulo 4)",
+          "Hageo",
+          "Jeremías",
+          "Ezequiel"
+        ],
+        "correct": 0,
+        "explanation": "Zacarías 4:6 alienta a Zorobabel a completar el Templo no con el poder humano sino con el Espíritu del Señor."
+      },
+      {
+        "question": "¿Qué profecía de Isaías (42:1-4) describe al Siervo que 'no quebrará la caña rota ni apagará la mecha que humea'?",
+        "options": [
+          "El primer canto del Siervo.",
+          "La caída de Babilonia",
+          "La visión del templo",
+          "El cántico de Moisés"
+        ],
+        "correct": 0,
+        "explanation": "Mateo 12:18-21 cita Isaías 42:1-4 para describir la gentileza y la justicia del ministerio de Jesús."
+      },
+      {
+        "question": "En Mateo 2:23, 'Será llamado Nazareno' probablemente se refiere a ¿a qué juego de palabras profético hebreo?",
+        "options": [
+          "Netzer (el retoño/retoño de Isaías 11:1)",
+          "Betel (casa de Dios)",
+          "Shalom (paz)",
+          "Torá (ley)"
+        ],
+        "correct": 0,
+        "explanation": "Varios comentaristas ven un vínculo con 'netzer' (descendencia/rama) en Isaías 11:1 así como con el desprecio asociado a Nazaret."
+      },
+      {
+        "question": "¿Qué profeta anunció que la luz brillaría primero sobre 'la Galilea de las naciones' (tierras de Zabulón y Neftalí)?",
+        "options": [
+          "Isaías (8:23 – 9:1)",
+          "Jeremías",
+          "Ezequiel",
+          "Amós"
+        ],
+        "correct": 0,
+        "explanation": "Mateo 4:14-16 cita Isaías 9:1-2 cuando Jesús comienza su ministerio público en Galilea en Capernaum."
+      },
+      {
+        "question": "¿Qué profeta predijo que se oiría sobre Jerusalén una voz de lamento, pero también un nuevo pacto con el perdón de los pecados?",
+        "options": [
+          "Jeremías (capítulo 31)",
+          "Jonás",
+          "Nahúm",
+          "Abdías"
+        ],
+        "correct": 0,
+        "explanation": "Jeremías 31 anuncia tanto las lágrimas de Raquel como la Nueva Alianza grabada en los corazones (31:31-34)."
+      },
+      {
+        "question": "¿A qué profeta se le ordenó comprar un campo en Anatot mientras el ejército babilónico asediaba Jerusalén?",
+        "options": [
+          "Jeremías (capítulo 32)",
+          "Ezequiel",
+          "Isaías",
+          "Daniel"
+        ],
+        "correct": 0,
+        "explanation": "Al comprar el campo de su primo Hanameel en medio de un asedio, Jeremías profetizó con hechos que la vida y la tierra regresarían a Judá (Jeremías 32:15)."
+      },
+      {
+        "question": "¿Qué profecía del Antiguo Testamento predice un rey que 'juzgará entre muchos pueblos' y cuya paz no tendrá fin?",
+        "options": [
+          "Isaías 9:6-7 (y 2:4)",
+          "Abdías 1:1",
+          "Jonás 3:4",
+          "Nahúm 1:15"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 9:6-7 promete un aumento sin fin del dominio y la paz del trono de David."
+      },
+      {
+        "question": "¿Qué profeta predijo la sequía de tres años y medio bajo Acab antes de orar por el regreso de las lluvias?",
+        "options": [
+          "Elías (1 Reyes 17-18)",
+          "Elíseo",
+          "natán",
+          "Dios"
+        ],
+        "correct": 0,
+        "explanation": "Elías anunció que no habría lluvia ni rocío excepto por su palabra (1 Reyes 17:1; Santiago 5:17)."
+      },
+      {
+        "question": "¿Qué profeta anunció a Jeroboam I el desgarro del reino al rasgar un manto nuevo en 12 pedazos?",
+        "options": [
+          "Ahías de Silo (1 Reyes 11:29-31)",
+          "natán",
+          "samuel",
+          "Elías"
+        ],
+        "correct": 0,
+        "explanation": "Ahías le dio 10 piezas a Jeroboam, anunciando que Salomón perdería 10 tribus a causa de la idolatría."
+      },
+      {
+        "question": "¿Qué profeta anunció que un rey llamado Josías quemaría huesos humanos en el altar idólatra de Betel?",
+        "options": [
+          "Un hombre de Dios de Judá (1 Reyes 13:2)",
+          "Elías",
+          "Elíseo",
+          "Miqueas"
+        ],
+        "correct": 0,
+        "explanation": "Tres siglos antes de Josías, este hombre de Dios nombró a Josías ante el altar de Betel; la profecía se cumple en 2 Reyes 23:15-16."
+      },
+      {
+        "question": "En Apocalipsis, ¿qué representan los 'dos ​​testigos' que profetizan de 1260 días vestidos de cilicio (Apocalipsis 11)?",
+        "options": [
+          "Sólo Adán y Noé",
+          "El testimonio profético de la Iglesia (recordando a Moisés y Elías) a las naciones",
+          "Dos reyes de Persia",
+          "Los dos hijos de Jacob"
+        ],
+        "correct": 1,
+        "explanation": "Revestidos de los poderes de Moisés (el agua convertida en sangre) y Elías (que cierra el cielo), representan el testimonio profético fiel hasta el fin."
+      },
+      {
+        "question": "¿Qué simbolizan los 'siete sellos', las 'siete trompetas' y las 'siete copas' en el libro del Apocalipsis?",
+        "options": [
+          "solo 7 días de la semana",
+          "Ciclos de juicios y advertencias divinas que conducen al juicio final y al Reino de Dios.",
+          "Las 7 maravillas del mundo antiguo",
+          "Los 7 meses del año."
+        ],
+        "correct": 1,
+        "explanation": "Estos tres septenarios estructuran la revelación apocalíptica del juicio progresivo sobre un mundo rebelde y la victoria del Cordero."
+      },
+      {
+        "question": "¿Qué profecía de Pablo en Romanos 11 presagia el futuro espiritual de Israel?",
+        "options": [
+          "Que Israel sea definitivamente rechazado",
+          "Que venga un endurecimiento parcial sobre Israel hasta que todos los gentiles hayan entrado, y así todo Israel será salvo.",
+          "Que Roma reemplazará a la Biblia",
+          "Que la Ley de Moisés queda anulada para los judíos"
+        ],
+        "correct": 1,
+        "explanation": "Romanos 11:25-26 revela este \"misterio\" de la fidelidad irrevocable de Dios a las promesas hechas a los padres."
+      },
+      {
+        "question": "En 2 Tesalonicenses 2, ¿qué debe suceder antes del Día del Señor?",
+        "options": [
+          "Paz mundial perfecta",
+          "La apostasía y la revelación del 'hombre impío' (hijo de perdición)",
+          "La construcción de una torre en Babel.",
+          "El fin de las estaciones"
+        ],
+        "correct": 1,
+        "explanation": "Pablo advierte contra pensar que el día del Señor ya está aquí, recordando la apostasía y los impíos sentados en el templo de Dios."
+      },
+      {
+        "question": "¿Qué profecía de Jesús en Lucas 21:24 conecta la caída de Jerusalén con un período histórico específico?",
+        "options": [
+          "'Jerusalén será hollada por las naciones, hasta que se cumplan los tiempos de las naciones'",
+          "\"Jerusalén nunca será atacada\"",
+          "'Las naciones reconstruirán Babel'",
+          "'El Jordán desaparecerá en un día'"
+        ],
+        "correct": 0,
+        "explanation": "Jesús anuncia la ruina de Jerusalén en el año 70 d.C. BC y un límite temporal establecido por Dios ('los tiempos de las naciones')."
+      },
+      {
+        "question": "¿Qué profeta describió el colapso de la orgullosa Tiro, una ciudad marítima fenicia?",
+        "options": [
+          "Ezequiel (capítulos 26-28)",
+          "Jonás",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Ezequiel profetizó que Tiro sería arrasada y sus escombros arrojados al mar, lo que se cumplió notablemente durante el asedio de Alejandro Magno."
+      },
+      {
+        "question": "¿Qué profeta anunció que el pueblo sentado en tinieblas vería una gran luz?",
+        "options": [
+          "Isaías (9:1)",
+          "Amós",
+          "Abdías",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 9:1-2 profetiza sobre una gran luz que se levantará sobre los que habitan en tierra de sombra de muerte."
+      },
+      {
+        "question": "¿Qué profecía del Salmo 69:9 ('El celo de tu casa me devora') es aplicada a Jesús por los discípulos?",
+        "options": [
+          "En su nacimiento en Belén",
+          "Cuando expulsa a los mercaderes del templo (Juan 2:17)",
+          "Al multiplicar panes",
+          "Durante su bautismo"
+        ],
+        "correct": 1,
+        "explanation": "Cuando sus discípulos vieron a Jesús purificando el templo en Jerusalén, recordaron esta palabra del Salmo 69:9."
+      },
+      {
+        "question": "¿Qué versículo del Salmo 69:21 prefiguró el vinagre presentado a Jesús en la cruz?",
+        "options": [
+          "'Ponen hiel en mi comida, y para calmar mi sed beben vinagre sobre mí'",
+          "'Pones una mesa delante de mí'",
+          "'Mi copa se rebosa'",
+          "'El Señor es mi luz'"
+        ],
+        "correct": 0,
+        "explanation": "Juan 19:28-29 destaca el cumplimiento de las Escrituras cuando Jesús dijo \"tengo sed\" y le dieron vinagre."
+      },
+      {
+        "question": "¿Qué profeta anunció que un río de gracia sanaría la amargura y la esterilidad de la tierra (Ezequiel 47)? ¿Qué árbol crece en sus orillas?",
+        "options": [
+          "Árboles que dan frutos cada mes y cuyas hojas se utilizan para curar.",
+          "Zarzas y espinas",
+          "Cedros sin fruto",
+          "Cañas secas"
+        ],
+        "correct": 0,
+        "explanation": "Esta visión de Ezequiel 47:12 se repite casi palabra por palabra para el árbol de la vida en la Nueva Jerusalén (Apocalipsis 22:2)."
+      },
+      {
+        "question": "En la profecía de Daniel 12:2, ¿qué dice claramente acerca de los muertos?",
+        "options": [
+          "Déjalos dormir para siempre sin despertar.",
+          "'Muchos de los que duermen en el polvo de la tierra despertarán, algunos a la vida eterna...'",
+          "Déjalos convertirse en estrellas literales.",
+          "que no hay resurrección"
+        ],
+        "correct": 1,
+        "explanation": "Daniel 12:2 es una de las afirmaciones más explícitas de resurrección individual y juicio final en el Antiguo Testamento."
+      },
+      {
+        "question": "¿Qué profeta vio al Señor sosteniendo una plomada (nivel) para medir la justicia de Israel?",
+        "options": [
+          "Amós (7:7-8)",
+          "Jonás",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "La visión de la plomada en Amós 7 muestra que el tiempo del perdón sin arrepentimiento ha pasado para el reino del norte."
+      },
+      {
+        "question": "¿Qué profeta predijo que vendría hambre, no por pan y agua, sino por oír las palabras del Señor?",
+        "options": [
+          "Amós (8:11)",
+          "Jonás",
+          "Hageo",
+          "Abdías"
+        ],
+        "correct": 0,
+        "explanation": "Amós 8:11 advierte que el rechazo persistente de la palabra profética conducirá a un silencio doloroso por parte de Dios."
+      },
+      {
+        "question": "¿Qué profecía en Zacarías 3 muestra al sumo sacerdote Josué vestido con ropas sucias y luego limpiado por el Ángel del Señor?",
+        "options": [
+          "Una visión que anuncia el perdón de los pecados de Israel y la llegada del 'Renuevo' en un solo día",
+          "Una profecía sobre Egipto",
+          "Una profecía sobre Nínive",
+          "una cancion de amor"
+        ],
+        "correct": 0,
+        "explanation": "Zacarías 3:8-9 anuncia que Dios quitará la iniquidad de la tierra en un día a través de su siervo el Renuevo."
+      },
+      {
+        "question": "¿Qué profeta anunció que a un judío le quitarían el borde del manto, diciendo: 'Iremos con vosotros, porque hemos oído que Dios está con vosotros'?",
+        "options": [
+          "Zacarías (8:23)",
+          "Jonás",
+          "Abdías",
+          "Nahúm"
+        ],
+        "correct": 0,
+        "explanation": "Zacarías 8:23 anuncia la atracción espiritual de las naciones hacia Jerusalén y el Dios de Israel."
+      },
+      {
+        "question": "¿Qué profecía de Isaías 19 anuncia sorprendentemente la futura reconciliación de tres antiguos enemigos: Egipto, Asiria e Israel?",
+        "options": [
+          "'Bendito sea Egipto mi pueblo, y Asiria, obra de mis manos, e Israel mi herencia'",
+          "'Egipto y Asiria serán borrados para siempre'",
+          "'Israel gobernará con la espada'",
+          "'No habrá más naciones'"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 19:24-25 ofrece una sorprendente visión universal donde los antiguos opresores se convierten en el pueblo de Dios con Israel."
+      },
+      {
+        "question": "¿Qué profeta describió caballos de cuatro colores (rojo, negro, blanco, manchado) patrullando la tierra?",
+        "options": [
+          "Zacarías (1:8 y 6:1-8)",
+          "Jonás",
+          "Abdías",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Las visiones de los jinetes y los cuatro carros de Zacarías inspiraron directamente a los cuatro jinetes del Apocalipsis (Apocalipsis 6)."
+      },
+      {
+        "question": "¿Qué profeta anunció: 'Porque la tierra será llena del conocimiento de la gloria del Señor, como lo profundo del mar por las aguas que lo cubren'?",
+        "options": [
+          "Habacuc (2:14) e Isaías (11:9)",
+          "Jonás",
+          "Abdías",
+          "Hageo"
+        ],
+        "correct": 0,
+        "explanation": "Habacuc 2:14 (cercano a Isaías 11:9) afirma que la gloria de Dios finalmente llenará toda la creación."
+      },
+      {
+        "question": "¿Qué profeta le dijo a Ezequías que los tesoros de su palacio algún día serían llevados a Babilonia?",
+        "options": [
+          "Isaías (39:6)",
+          "Jeremías",
+          "Ezequiel",
+          "Daniel"
+        ],
+        "correct": 0,
+        "explanation": "Después de que Ezequías mostró sus riquezas a los enviados de Babilonia, Isaías profetizó la futura deportación babilónica."
+      },
+      {
+        "question": "¿Qué profeta predijo que el Mesías haría de su alma una ofrenda por la culpa (asham) y vería una posteridad prolongar sus días?",
+        "options": [
+          "Isaías (53:10)",
+          "Amós",
+          "Jonás",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 53:10 anuncia tanto la muerte expiatoria del Siervo como su victoria/resurrección (\"prolongará sus días\")."
+      },
+      {
+        "question": "¿Qué profeta anunció que el Dios de Israel traería 'pescadores' y 'cazadores' para traer de regreso a su pueblo disperso?",
+        "options": [
+          "Jeremías (16:16)",
+          "Jonás",
+          "Abdías",
+          "Nahúm"
+        ],
+        "correct": 0,
+        "explanation": "Jeremías 16:14-16 anuncia un nuevo éxodo mayor que el de Egipto."
+      },
+      {
+        "question": "En los Hechos de los Apóstoles, ¿qué profeta del Antiguo Testamento cita Pedro para explicar la muerte y el reemplazo de Judas?",
+        "options": [
+          "Salmos 69:25 y 109:8",
+          "El libro de Jonás",
+          "El libro de Abdías",
+          "El libro de Rut"
+        ],
+        "correct": 0,
+        "explanation": "Pedro cita estos dos salmos en Hechos 1:20 antes de echar suertes para que Matías reemplace a Judas."
       }
     ],
     "expert": [
@@ -510,6 +1544,501 @@
         ],
         "correct": 1,
         "explanation": "Isaías 53:4: Mateo 8:17 = curaciones (significado literal de enfermedades); 1 Pedro 2:24 = pecados. Ambos son legítimos porque el texto hebreo contiene ambas dimensiones."
+      },
+      {
+        "question": "¿Cómo llamamos al género literario de profecías estructuradas como un juicio legal en el que Dios demanda a Israel por romper el pacto?",
+        "options": [
+          "El 'rîb' (proceso de pacto, por ejemplo, Miqueas 6, Isaías 1)",
+          "el midrash",
+          "el apotegma",
+          "La diatriba estoica"
+        ],
+        "correct": 0,
+        "explanation": "El 'rîb' profético retoma la estructura de los tratados de soberanía: convocatoria de testigos (cielos y tierra), recordatorio de beneficios, acusación y sentencia."
+      },
+      {
+        "question": "¿Cuál es la función de la 'telescopía profética' (perspectiva máxima) en la interpretación de las profecías bíblicas?",
+        "options": [
+          "Predecir fechas exactas al día.",
+          "Ver la primera y segunda venida de Cristo alineadas en un mismo horizonte como dos cumbres lejanas sin distinguir el valle entre ambas.",
+          "Negar cualquier predicción futura.",
+          "Lea sólo el significado geográfico literal."
+        ],
+        "correct": 1,
+        "explanation": "Como en Isaías 61:1-2 (donde Jesús hace una pausa antes del \"día de la venganza\"), los profetas contemplan juntos la salvación inicial y la consumación final."
+      },
+      {
+        "question": "¿Qué oráculo de Isaías 7:14-16 tuvo por primera vez una señal a corto plazo para el rey Acaz antes de su pleno cumplimiento en Jesús?",
+        "options": [
+          "Antes de que el niño sepa rechazar el mal y elegir el bien, los dos reyes enemigos (Damasco y Samaria) serán abandonados.",
+          "Babilonia destruirá a Roma en 3 años.",
+          "Elías regresará durante su vida",
+          "Acaz reinará durante 100 años"
+        ],
+        "correct": 0,
+        "explanation": "El oráculo respondió a la crisis del 735 a.C. (señal rápida en unos años) mientras porta una promesa mesiánica plena cumplida en Mateo 1:23."
+      },
+      {
+        "question": "En Oseas 11:1 (\"De Egipto llamé a mi hijo\"), ¿cómo usa Mateo 2:15 este texto?",
+        "options": [
+          "Como una simple cita errónea",
+          "Por lectura tipológica: Jesús recapitula y completa perfectamente la historia de Israel como Hijo fiel de Dios",
+          "Como una cita de Isaías",
+          "Para demostrar que Moisés había regresado"
+        ],
+        "correct": 1,
+        "explanation": "En Oseas 11:1, 'mi hijo' se refiere a Israel en el Éxodo; Mateo ve en Jesús un tipo consumado, el verdadero Israel."
+      },
+      {
+        "question": "¿Cuál es la diferencia entre la profecía clásica (preexílica) y la apocalíptica (exílica/postexílica como Daniel y Zacarías 9-14)?",
+        "options": [
+          "No hay diferencia",
+          "La profecía clásica exige arrepentimiento en la historia presente; lo apocalíptico revela a través de visiones simbólicas el desenlace cósmico soberano frente al mal",
+          "El apocalíptico nunca habla de Dios",
+          "La profecía clásica nunca usa imágenes."
+        ],
+        "correct": 1,
+        "explanation": "Lo apocalíptico surge en tiempos de crisis extrema (exilio, persecución) con la interpretación de los ángeles, el dualismo cósmico y el triunfo final de Dios."
+      },
+      {
+        "question": "En Jeremías 29:10-14, ¿qué estándar cronológico le da Dios a la promesa de restauración?",
+        "options": [
+          "Inmediatamente en 2 años (como afirmó Hanania)",
+          "Sólo cuando se cumplan 70 años para Babilonia",
+          "Nunca antes 1000 años",
+          "Después de la conquista de Roma"
+        ],
+        "correct": 1,
+        "explanation": "Contra los falsos profetas optimistas (Jeremías 28), Jeremías anuncia un exilio de 70 años y exhorta a los exiliados a construir y orar por Babilonia."
+      },
+      {
+        "question": "En Daniel 9:2, ¿qué texto bíblico estaba estudiando Daniel cuando se dio cuenta de que el fin del exilio estaba cerca?",
+        "options": [
+          "Los rollos del profeta Jeremías anunciando 70 años de desolación",
+          "El Cantar de los Cantares",
+          "El libro de Ester",
+          "las epístolas de pablo"
+        ],
+        "correct": 0,
+        "explanation": "Daniel 9:2 menciona explícitamente su lectura de los libros y el número de años revelados por el Señor al profeta Jeremías."
+      },
+      {
+        "question": "¿Cuál es el significado de las '70 semanas' (490 años) divididas en 7 + 62 + 1 semanas en Daniel 9:24-27?",
+        "options": [
+          "Culminan en la expiación de la iniquidad, la venida de un Ungido (Mesías) eliminado, luego la destrucción de la ciudad y el santuario.",
+          "Sólo se refieren a la creación en 6 días.",
+          "Predicen la duración del reinado de Saúl",
+          "Describen el antiguo Egipto"
+        ],
+        "correct": 0,
+        "explanation": "Daniel 9:24-27 anuncia seis bendiciones salvadoras y el pacto fortalecido después de la destrucción de un Ungido y la ruina del santuario."
+      },
+      {
+        "question": "¿Cuál es el papel del 'Go'el' (redentor) en Job 19:25 ('Sé que mi redentor vive')?",
+        "options": [
+          "Un simple abogado humano en Jerusalén",
+          "Un defensor y garante divino que defenderá la causa de los justos incluso más allá de la muerte.",
+          "Un rey filisteo",
+          "un angel caido"
+        ],
+        "correct": 1,
+        "explanation": "La esperanza de Job más allá de la injusticia presenta un Vengador/Redentor viviente que se levantará del polvo y le permitirá ver a Dios."
+      },
+      {
+        "question": "¿Por qué Jeremías 18:7-10 es crucial para comprender la 'condicionalidad' de ciertas profecías de juicio o bendición?",
+        "options": [
+          "Porque enseña fatalismo absoluto.",
+          "Porque Dios declara que si una nación profetizada que haría el mal se arrepiente, Él renuncia al mal que pretendía hacerles (como Nínive en Jonás)",
+          "Porque los profetas inventan sus mensajes",
+          "Porque Dios nunca cambia su método"
+        ],
+        "correct": 1,
+        "explanation": "Jeremías 18 establece el principio de respuesta moral: los oráculos del juicio llaman al arrepentimiento para evitar la sentencia (Jonás 3:10)."
+      },
+      {
+        "question": "En Deuteronomio 13:1-5 y 18:20-22, ¿qué dos pruebas complementarias nos permiten discernir a un verdadero profeta de un falso profeta?",
+        "options": [
+          "Su riqueza y elocuencia.",
+          "El cumplimiento de sus predicciones Y su fidelidad doctrinal al único Dios verdadero (YHWH)",
+          "Su edad y tribu.",
+          "El número de sus discípulos"
+        ],
+        "correct": 1,
+        "explanation": "Aunque se cumpla una señal, si conduce a otros dioses (Dt 13), es un falso profeta; asimismo, la palabra que no se cumple no viene de Dios (Dt 18)."
+      },
+      {
+        "question": "En Hechos 2:17-21, ¿por qué Pedro cambia \"después de esto\" (Joel 2:28) por \"en los últimos días\"?",
+        "options": [
+          "Por error de memoria",
+          "Enfatizar teológicamente que el derramamiento del Espíritu en Pentecostés inaugura la era escatológica final ('los últimos días')",
+          "Para contradecir a Joel",
+          "Porque citó a Homero."
+        ],
+        "correct": 1,
+        "explanation": "Desde la perspectiva del Nuevo Testamento, los 'últimos días' comienzan con la primera venida de Cristo y el derramamiento del Espíritu hasta la Parusía."
+      },
+      {
+        "question": "¿Cuál es la interpretación clásica del 'restrictor' (to katechon / ho katechôn) mencionada por Pablo en 2 Tesalonicenses 2:6-7?",
+        "options": [
+          "El evangelio solo",
+          "Tradicionalmente identificado con el orden imperial romano/autoridad civil, o la acción del Espíritu Santo que restringe el desencadenamiento del mal hasta el momento señalado.",
+          "El apóstol Pedro",
+          "El templo de Jerusalén"
+        ],
+        "correct": 1,
+        "explanation": "Los Padres (Tertuliano, Crisóstomo) veían a menudo que el Imperio Romano mantenía el orden; otros lo ven como el Espíritu Santo o el diseño soberano de Dios."
+      },
+      {
+        "question": "En Romanos 11:26, ¿cuáles son las tres interpretaciones principales de la frase \"todo Israel será salvo\"?",
+        "options": [
+          "Sólo los residentes actuales de Roma",
+          "(1) Todos los funcionarios electos judíos y paganos; (2) el remanente fiel de Israel a lo largo de los siglos; (3) una conversión masiva del pueblo judío al final de los tiempos",
+          "Todos los seres humanos sin excepción.",
+          "Sólo los 12 apóstoles"
+        ],
+        "correct": 1,
+        "explanation": "Los exégetas debaten entre el Israel espiritual (Calvino), la suma del remanente judío elegido o un despertar final del Israel étnico antes de la Parusía."
+      },
+      {
+        "question": "¿Cuál es el significado del oráculo de Zacarías 12:10 ('Mirarán a mí, a quien traspasaron') en la cristología del Nuevo Testamento?",
+        "options": [
+          "Sin citas en el NT",
+          "Citado en Juan 19:37 (costado traspasado de Jesús) y Apocalipsis 1:7 (retorno glorioso) — donde YHWH mismo dice 'a mí' me traspasaron",
+          "Citado sólo por Moisés",
+          "Aplicado al rey Ciro"
+        ],
+        "correct": 1,
+        "explanation": "En el texto hebreo, YHWH habla en primera persona (\"a mí, a quien traspasaron\"), enfatizando la identidad divina del Cristo crucificado."
+      },
+      {
+        "question": "En Ezequiel 40-48, ¿cuáles son las dos lecturas principales de la visión del Templo escatológico?",
+        "options": [
+          "Un plan arquitectónico para Babilonia",
+          "Ya sea una visión literal de un futuro templo milenario o una visión simbólica de la presencia perfecta de Dios con su pueblo (cumplida en Cristo y la Nueva Jerusalén)",
+          "Una descripción sencilla del Tabernáculo de Moisés",
+          "Una reseña de Salomón"
+        ],
+        "correct": 1,
+        "explanation": "La interpretación dispensacionalista espera un templo futuro literal, mientras que el enfoque cristocéntrico/amilenarista lo ve como un símbolo de adoración perfecta en Cristo (Apocalipsis 21:22)."
+      },
+      {
+        "question": "¿Qué texto profético de Isaías 52:7 (\"Cuán hermosos son sobre los montes los pies del que trae buenas nuevas\") es citado por Pablo en Romanos 10:15?",
+        "options": [
+          "Justificar la necesidad de la predicación misionera del Evangelio",
+          "Para describir los viajes de Salomón.",
+          "Para hablar de la arquitectura del Templo",
+          "Prohibir los viajes por mar"
+        ],
+        "correct": 0,
+        "explanation": "Pablo aplica el anuncio de la liberación de Sión a los mensajeros del Evangelio de la paz enviados a todas las naciones."
+      },
+      {
+        "question": "¿Cómo usa Hebreos 8:8-13 la profecía de Jeremías 31:31-34 sobre el Nuevo Pacto?",
+        "options": [
+          "Para mostrar que el antiguo pacto era perfecto y definitivo",
+          "Para probar que desde el Antiguo Testamento Dios anunció una alianza superior haciendo obsoleta la antigua alianza levítica.",
+          "Rechazar todo el Antiguo Testamento",
+          "Para restaurar los sacrificios de animales."
+        ],
+        "correct": 1,
+        "explanation": "El autor de Hebreos señala que la palabra \"nuevo\" en la pluma de Jeremías hace que el antiguo pacto quede obsoleto y esté a punto de desaparecer."
+      },
+      {
+        "question": "En Apocalipsis, ¿qué profecía de Isaías 65:17 y 66:22 establece la esperanza final del libro?",
+        "options": [
+          "La creación de nuevos cielos y una nueva tierra.",
+          "Regreso a la Edad de Oro de Babilonia",
+          "La reconstrucción del templo de Herodes.",
+          "Exilio en Egipto"
+        ],
+        "correct": 0,
+        "explanation": "Apocalipsis 21:1 toma directamente de Isaías 65:17 para describir la renovación cósmica final donde Dios habita con los hombres."
+      },
+      {
+        "question": "En Miqueas 5:1-3 (5:2-4), ¿qué origen paradójico se le atribuye al futuro gobernante nacido en Belén?",
+        "options": [
+          "Vino de Egipto hace 10 años.",
+          "'Sus orígenes se remontan a la antigüedad, a los días de la eternidad'",
+          "Nació en Roma",
+          "No tiene conexión con David."
+        ],
+        "correct": 1,
+        "explanation": "Junto a la pequeñez de Belén Efrata, Miqueas afirma la antigüedad misteriosa (incluso eterna) del Mesías."
+      },
+      {
+        "question": "¿Cuál es el significado del nombre simbólico 'Lo-Ammi' ('No es mi pueblo') dado al hijo del profeta Oseas (Oseas 1:9)?",
+        "options": [
+          "La victoria militar inmediata de Israel",
+          "La ruptura temporal del pacto tras la infidelidad de Israel, seguida de una promesa de restauración ('Ammi', pueblo mío)",
+          "El nacimiento de Salomón",
+          "La bendición de Asiria"
+        ],
+        "correct": 1,
+        "explanation": "Pedro (1 Pedro 2:10) y Pablo (Romanos 9:25) aplican esta inversión de Oseas 2:23 a los creyentes gentiles que se han convertido en el pueblo de Dios."
+      },
+      {
+        "question": "¿Cuál es el papel de los 'cánticos de la viña' en Isaías 5:1-7 y cómo lo asume Jesús en Mateo 21:33-43?",
+        "options": [
+          "Sólo hablan de agricultura.",
+          "Isaías compara a Israel con una vid ingrata; Jesús retoma la imagen con viticultores asesinos que matan al Hijo para anunciar la transferencia del Reino",
+          "Celebran el vino de Caná",
+          "Elogian a líderes religiosos"
+        ],
+        "correct": 1,
+        "explanation": "Los oyentes de Jesús comprendieron inmediatamente que la parábola de los trabajadores de la viña tenía como objetivo su rechazo de los profetas y del Hijo (Mateo 21:45)."
+      },
+      {
+        "question": "En Zacarías 6:12-13, ¿qué título mesiánico une de manera única las funciones reales y sacerdotales?",
+        "options": [
+          "El 'Brote' (Tsemah) que construirá el Templo del Señor y será sacerdote en su trono",
+          "El faraón de Egipto",
+          "El escriba de Asiria",
+          "juez de dan"
+        ],
+        "correct": 0,
+        "explanation": "Bajo la Ley Mosaica, el rey (Judá) y el sacerdote (Leví) estaban separados; Zacarías 6:13 anuncia su unión armoniosa en el Germen."
+      },
+      {
+        "question": "¿Qué profeta del siglo VIII a.C.? ¿AD anunció la caída de Samaria mientras prometía un remanente reunido como ovejas en el redil (Miqueas 2:12)?",
+        "options": [
+          "Miqueas",
+          "Hageo",
+          "Malaquías",
+          "Jonás"
+        ],
+        "correct": 0,
+        "explanation": "Miqueas alterna oráculos de juicio intransigente sobre Samaria y Jerusalén con promesas luminosas de reunión mesiánica."
+      },
+      {
+        "question": "¿Cuál es el significado del oráculo de Sofonías 3:9 que promete \"labios limpios\" al pueblo?",
+        "options": [
+          "Aprender arameo",
+          "La conversión de las naciones que invocarán el nombre del Señor y le servirán unánimes.",
+          "El silencio perpetuo",
+          "El final de la oración"
+        ],
+        "correct": 1,
+        "explanation": "Sofonías 3:9 anuncia la universalización del culto puro después del juicio, en contraste con la confusión de las lenguas de Babel."
+      },
+      {
+        "question": "¿Qué profecía en Daniel 11:31 anuncia 'la abominación desoladora', expresión retomada por Jesús en Mateo 24:15?",
+        "options": [
+          "La profanación del Templo por Antíoco IV (167 a.C.), que se convirtió en el tipo de profanación escatológica y el asedio del 70 d.C. ANUNCIO",
+          "La construcción del Templo de Salomón",
+          "La caída de Nínive",
+          "El paso del Mar Rojo"
+        ],
+        "correct": 0,
+        "explanation": "El cumplimiento histórico bajo Antíoco IV Epífanes sirve como modelo profético de Jesús para la crisis de Jerusalén y el fin de los tiempos."
+      },
+      {
+        "question": "En Isaías 49:6, ¿por qué Dios declara que la restauración justa de las tribus de Israel es 'cosa pequeña' para el Siervo?",
+        "options": [
+          "Porque abandona a Israel",
+          "Porque lo estableció para ser la 'luz de las naciones', para que su salvación llegara hasta los confines de la tierra.",
+          "Porque prefiere Babilonia",
+          "Porque la tierra desaparecerá inmediatamente."
+        ],
+        "correct": 1,
+        "explanation": "Pablo y Bernabé citan Isaías 49:6 en Antioquía de Pisidia (Hechos 13:47) para justificar su misión a los gentiles."
+      },
+      {
+        "question": "¿Cuál es la paradoja del Salmo 110:1 planteada por Jesús ante los fariseos en Mateo 22:41-45?",
+        "options": [
+          "¿Cómo puede el Mesías ser al mismo tiempo el hijo (descendiente) de David y su 'Señor'?",
+          "¿Por qué David escribió este salmo en griego?",
+          "¿Cuántos soldados tenía David?",
+          "¿Dónde estaba Melquisedec?"
+        ],
+        "correct": 0,
+        "explanation": "Jesús muestra que el Mesías es más que un simple rey humano descendiente de David: es el Señor divino sentado a la diestra de Dios."
+      },
+      {
+        "question": "En 1 Pedro 1:10-12, ¿qué revela el apóstol acerca de la conciencia de los profetas del Antiguo Testamento sobre sus propios oráculos?",
+        "options": [
+          "Entendieron cada detalle cronológico.",
+          "Buscaron los tiempos y circunstancias que marcaban el Espíritu de Cristo en ellos, encontrando que estaban sirviendo a nuestra generación.",
+          "No fueron inspirados por el Espíritu",
+          "Sólo escribieron para los ángeles."
+        ],
+        "correct": 1,
+        "explanation": "1 Pedro 1:10-12 ilumina la doble dimensión de la profecía: los profetas escudriñaron el misterio de los sufrimientos de Cristo y sus glorias posteriores."
+      },
+      {
+        "question": "¿Qué profecía del Antiguo Testamento se cita en Romanos 15:9-12 para probar la adoración común de judíos y gentiles?",
+        "options": [
+          "Una secuencia de cuatro textos (2 Sam 22 / Sal 18, Dt 32,43, Sal 117,1, Isaías 11,10)",
+          "Sólo el libro de Ester",
+          "El libro de Job solo",
+          "Sólo proverbios"
+        ],
+        "correct": 0,
+        "explanation": "Pablo entrelaza citas de la Ley, los Salmos y los Profetas (las tres partes de la Biblia hebrea) para demostrar la inclusión de las naciones."
+      },
+      {
+        "question": "¿Cuál es el significado de la imagen de la 'piedra que salió del monte' (Daniel 2) en relación con la 'piedra angular' (Isaías 28:16 / Sal 118:22)?",
+        "options": [
+          "Dos imágenes contradictorias",
+          "La misma Cristología de la Piedra: fundamento y piedra angular para los que creen, piedra de caída y de juicio que destroza los reinos rebeldes.",
+          "Dos monumentos en Egipto",
+          "Dos piedras del desierto del Sinaí"
+        ],
+        "correct": 1,
+        "explanation": "Lucas 20:17-18 y 1 Pedro 2:6-8 sintetizan estos textos: la piedra desechada se convierte en piedra angular o piedra trituradora."
+      },
+      {
+        "question": "En Malaquías 4:5-6 (3:23-24), ¿cómo interpreta Jesús la promesa del profeta Elías viniendo antes del Día del Señor?",
+        "options": [
+          "Él dice que Elías nunca vendrá.",
+          "Identifica a Juan el Bautista como el 'Elías que había de venir' en el espíritu y poder de Elías (Mateo 11:14; 17:12).",
+          "Dice que Moisés es Elías",
+          "Él dice que Pedro es Elías."
+        ],
+        "correct": 1,
+        "explanation": "El ángel Gabriel (Lucas 1:17) y Jesús (Mateo 11:14) aplican el oráculo de Malaquías al ministerio preparatorio de Juan el Bautista."
+      },
+      {
+        "question": "¿Qué profecía de Jeremías 7:11 cita Jesús al limpiar el templo (\"Lo habéis convertido en cueva de ladrones\")?",
+        "options": [
+          "Una advertencia contra la falsa seguridad religiosa que cree que el Templo es inviolable a pesar de la injusticia moral.",
+          "Una norma sobre el precio de las palomas",
+          "Una alabanza de los sacerdotes",
+          "Un canto festivo de Pascua"
+        ],
+        "correct": 0,
+        "explanation": "En Jeremías 7, el profeta denunció la ilusión '¡Éste es el templo del Señor!' ; Jesús actualiza exactamente esta crítica profética."
+      },
+      {
+        "question": "En Apocalipsis, ¿qué significa la frase 'el testimonio de Jesús es el espíritu de profecía' (Apocalipsis 19:10)?",
+        "options": [
+          "Sólo Jesús puede hablar",
+          "Toda verdadera profecía bíblica tiene como centro, meta y fuente el testimonio de Jesucristo.",
+          "La profecía cesó en el Antiguo Testamento.",
+          "Los ángeles deben ser adorados."
+        ],
+        "correct": 1,
+        "explanation": "El ángel rechaza la adoración de Juan y nos recuerda que toda inspiración profética converge en la persona y obra de Cristo."
+      },
+      {
+        "question": "¿Cuál es la diferencia entre la expectativa mesiánica judía mayoritaria del siglo I y el retrato profético de Jesús en los Evangelios?",
+        "options": [
+          "No hay diferencia",
+          "La expectativa mayoritaria esperaba un Mesías político/militar triunfante inmediatamente, luchando por integrar al Siervo Sufriente de Isaías 53 antes de la gloria.",
+          "Los judíos no esperaban ningún Mesías",
+          "Estaban esperando un Mesías de Roma"
+        ],
+        "correct": 1,
+        "explanation": "Por eso Jesús explicó en el camino a Emaús (Lucas 24:26) que Cristo tenía que sufrir estas cosas antes de entrar en su gloria."
+      },
+      {
+        "question": "En Isaías 6:9-10 (“Oíd con atención, pero no entendáis”), ¿por qué Jesús cita esta profecía para explicar las parábolas (Marcos 4:12)?",
+        "options": [
+          "Para evitar que nadie crea",
+          "Porque las parábolas revelan los misterios del Reino a los corazones humildes y al mismo tiempo manifiestan el juicio sobre los que se endurecen.",
+          "Porque no podía hablar con claridad.",
+          "Para citar un proverbio griego"
+        ],
+        "correct": 1,
+        "explanation": "Las parábolas cumplen el doble efecto de la palabra profética de Isaías 6: iluminar a los discípulos y dejar a los incrédulos en su dureza voluntaria."
+      },
+      {
+        "question": "¿Qué profeta describió la restauración espiritual final de Israel como lluvia de primavera y otoño (Oseas 6:3) y sanidad de la infidelidad (Oseas 14)?",
+        "options": [
+          "Oseas",
+          "Abdías",
+          "Nahúm",
+          "Hageo"
+        ],
+        "correct": 0,
+        "explanation": "Oseas concluye su libro de juicio con una magnífica promesa de curación gratuita y fecundidad espiritual (Oseas 14:4-8)."
+      },
+      {
+        "question": "En Ezequiel 28, 11-19, el lamento por el rey de Tiro utiliza imágenes edénicas ('querubín protector'): ¿cómo lo ha leído a menudo la tradición cristiana?",
+        "options": [
+          "Como una receta de cocina sencilla.",
+          "Tanto como sátira del excesivo orgullo del rey de Tiro como, tipológicamente, como figura de la caída de Satanás (con Isaías 14)",
+          "Como alabanza de la riqueza de Tiro",
+          "Como una historia sobre Moisés"
+        ],
+        "correct": 1,
+        "explanation": "Al igual que Isaías 14 sobre el rey de Babilonia ('estrella brillante'), Ezequiel 28 denuncia la arrogancia de un soberano terrenal a través del prisma de la caída original."
+      },
+      {
+        "question": "¿Qué profecía de Génesis 9:25-27 dicha por Noé presagia el papel espiritual futuro del linaje de Sem?",
+        "options": [
+          "'Bendito sea Jehová Dios de Sem' y que Jafet habite en las tiendas de Sem",
+          "Que Noé reconstruirá Babel",
+          "Que Cam dominará toda la tierra",
+          "Que la inundación comenzará de nuevo"
+        ],
+        "correct": 0,
+        "explanation": "La bendición de Sem presagia el linaje elegido (Abraham, Israel, el Mesías) en cuyas \"tiendas\" las naciones (Jafet) encontrarán refugio."
+      },
+      {
+        "question": "En Gálatas 3:16, ¿qué detalle gramatical de la promesa a Abraham enfatiza Pablo para aplicarla a Cristo?",
+        "options": [
+          "El singular 'para tu posteridad' (sperma) en lugar del plural 'para tu posteridad', que en última instancia designa a Cristo.",
+          "El uso de un adjetivo griego.",
+          "La ausencia de un verbo",
+          "el nombre de sara"
+        ],
+        "correct": 0,
+        "explanation": "Pablo muestra que la promesa hecha a la descendencia de Abraham encuentra su cumplimiento decisivo en la persona única de Cristo."
+      },
+      {
+        "question": "¿Qué profeta predijo que las aguas amargas y el desierto florecerían como el narciso/lirio al regreso de los redimidos del Señor?",
+        "options": [
+          "Isaías (capítulo 35)",
+          "Jonás",
+          "Abdías",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 35 celebra la transformación del desierto árido y el \"camino santo\" abierto a los redimidos del Señor."
+      },
+      {
+        "question": "En Hechos 3:21, Pedro habla de los 'tiempos de restauración de todas las cosas' (apokatastasis): ¿sobre qué base basa esta expectativa?",
+        "options": [
+          "Sobre los profetas del Antiguo Testamento ('de quienes habló Dios en la antigüedad por boca de sus santos profetas')",
+          "Sobre la filosofía estoica",
+          "Por decreto del Senado romano",
+          "Sobre una tradición de Éfeso"
+        ],
+        "correct": 0,
+        "explanation": "Pedro afirma que el cielo debe recibir a Jesús hasta la restauración cósmica prometida por todos los profetas desde el principio."
+      },
+      {
+        "question": "¿Qué profeta anunció la caída de Babilonia en un famoso oráculo comparando su gloria pasada con un desierto deshabitado poblado por bestias salvajes?",
+        "options": [
+          "Isaías (capítulo 13) y Jeremías (50-51)",
+          "Jonás",
+          "Hageo",
+          "Malaquías"
+        ],
+        "correct": 0,
+        "explanation": "Isaías 13:19-22 y Jeremías 50-51 anuncian el colapso completo y duradero de la metrópoli babilónica."
+      },
+      {
+        "question": "En 2 Pedro 1:19-21, ¿qué imagen usa el apóstol para describir la 'palabra profética' antes del regreso de Cristo?",
+        "options": [
+          "Una lámpara que brilla en un lugar oscuro, hasta que despunte el día y el lucero de la mañana salga en nuestros corazones.",
+          "una nube pasajera",
+          "un viento del desierto",
+          "Una estatua de arcilla"
+        ],
+        "correct": 0,
+        "explanation": "Pedro recuerda al mismo tiempo que ninguna profecía de la Escritura es fruto de la interpretación o de la voluntad humana, sino llevada por el Espíritu Santo."
+      },
+      {
+        "question": "¿Qué profecía en Zacarías 14:4-9 describe que el Señor puso Sus pies en una montaña específica cerca de Jerusalén en el último día?",
+        "options": [
+          "El Monte de los Olivos, que se dividirá por la mitad de este a oeste",
+          "Monte Sinaí",
+          "Monte Carmelo",
+          "Monte Nebo"
+        ],
+        "correct": 0,
+        "explanation": "Zacarías 14:4 anuncia que sus pies estarán sobre el Monte de los Olivos ese día, seguido del reinado universal del Señor sobre toda la tierra."
       }
     ]
   }
